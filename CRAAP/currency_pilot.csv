@@ -1,0 +1,4 @@
+source_id,topic_id,url,title,pub_date,date_found,currency
+T01-S01,T01,https://www.nature.org/en-us/magazine/magazine-articles/red-cockaded-woodpecker-recovery/,Example article,2026-11-05,True,0.9981040660038859
+T01-S02,T01,https://www.unesco.org/en/ifap/information-literacy,Information literacy,2021-11-29,True,0.5036665150630507
+T01-S03,T01,https://www.who.int/news-room/fact-sheets,WHO fact sheets,2026-01-01,True,0.8879870490728048
