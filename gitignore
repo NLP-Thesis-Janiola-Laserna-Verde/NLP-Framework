@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large or regenerable files
+models/
+*.ipynb_checkpoints/
+.cache/
+data/raw/

@@ -1,0 +1,35 @@
+# Multi-Signal NLP Framework for Ranking Online Sources (UPV Special Problem)
+# Install:  pip install -r requirements.txt
+# Then:     python -m spacy download en_core_web_sm
+#
+# NOTE: versions are intentionally unpinned for now. Once everything installs
+# and runs on one laptop, run `pip freeze > requirements.lock.txt` and commit it
+# so all 3 laptops use identical versions (Section 3.1.2).
+
+# --- Retrieval / external services ---
+requests
+python-dotenv          # loads the .env file
+tavily-python          # Tavily Search API (non-journal web sources)
+supabase               # hosted database client (Sprint 0/1, optional for now)
+
+# --- Extraction ---
+trafilatura            # main text of a web page
+htmldate               # publication date from web pages
+spacy                  # NER for publisher names (also needs en_core_web_sm)
+
+# --- Semantic relevance and genre classification ---
+sentence-transformers  # all-MiniLM-L6-v2, all-mpnet-base-v2, SPECTER
+transformers           # DistilBERT fine-tuning option for genre classifier
+torch                  # CPU build is fine (no NVIDIA GPU on any laptop)
+scikit-learn           # TF-IDF + logistic regression, macro-F1, kappa
+rank-bm25              # BM25 baseline (Table 3.12)
+
+# --- Data and statistics ---
+numpy
+pandas
+scipy                  # Shapiro-Wilk, Wilcoxon, Spearman, t-test
+
+# --- Application ---
+fastapi
+uvicorn
+streamlit
