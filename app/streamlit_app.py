@@ -93,6 +93,7 @@ chips_slot = st.container()   # example topics, only while there are no results
 cards_slot = st.container() 
 
 with form_slot:
+    ui.render_name(ASSETS)
     ui.render_rail(ASSETS)
     with st.form("search", border=False):
         field, button = st.columns([16, 1], vertical_alignment="center")

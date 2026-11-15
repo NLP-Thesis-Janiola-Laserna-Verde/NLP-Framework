@@ -84,24 +84,36 @@ CSS = """
 .topbar-end { justify-self: end; font-size: 12px; font-weight: 600; color: #fff; background: var(--dark);
               border-radius: 999px; padding: 9px 16px; }
 
+/* ---- name above the search bar ---- */
+.namebar { width: min(100%, 840px); margin: 0 auto 6px; text-align: center; }
+.namebar img { height: 42px; transform: translateY(-18px) scale(1.29); transform-origin: center bottom; }
+
 /* ---- hero ---- */
-.hero { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px; margin: clamp(22px, 5vh, 52px) 0 clamp(60px, 9vh, 90px); }
+.hero { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px; margin: clamp(22px, 5vh, 52px) 0 clamp(14px, 3vh, 30px);
+        transform: translateY(-18px); }
 .hero h1 { font-size: clamp(30px, 4.6vh, 42px); line-height: 1.08; font-weight: 500; letter-spacing: -.02em; margin: 0 0 10px; padding: 0; max-width: 14em; color: #3F4A5C !important; }
 .hero h1 .dim { color: #8A94A8 !important; }
-.mascot { position: relative; flex: none; padding: clamp(18px, 3.3vh, 30px) 6px 0 0; }
-.mascot img { width: clamp(64px, 10.5vh, 96px); height: clamp(64px, 10.5vh, 96px); display: block; filter: drop-shadow(0 14px 18px rgba(120, 90, 190, .28));
-              animation: bob 4s ease-in-out infinite; }
-.bubble { position: absolute; top: 0; right: 70px; white-space: nowrap; font-size: 12px; line-height: 1.35; font-weight: 500;
-          background: #fff; color: #4A5568; border-radius: 14px; padding: 7px 12px; box-shadow: 0 8px 22px -10px rgba(70, 70, 140, .4); }
+.mascot { position: relative; flex: none; padding: clamp(6px, 1.2vh, 12px) 6px 0 0; }
+.mascot .bot { position: relative; width: clamp(110px, 18vh, 170px); height: clamp(110px, 18vh, 170px);
+               animation: bob 4s ease-in-out infinite; }
+.mascot .bot img { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.mascot .bot .a { animation: hiA 3.6s infinite; }
+.mascot .bot .b { opacity: 0; animation: hiB 3.6s infinite; }
+@keyframes hiA { 0%,48% {opacity:1} 50%,62% {opacity:0} 64%,72% {opacity:1} 74%,86% {opacity:0} 88%,100% {opacity:1} }
+@keyframes hiB { 0%,48% {opacity:0} 50%,62% {opacity:1} 64%,72% {opacity:0} 74%,86% {opacity:1} 88%,100% {opacity:0} }
+.bubble { position: absolute; top: 0; right: calc(clamp(110px, 18vh, 170px) + 14px); white-space: nowrap; font-size: 12px; line-height: 1.35; font-weight: 500;
+          background: #fff; color: #4A5568; border: 1px solid #D9DCE8; border-radius: 14px; padding: 7px 12px; }
+.bubble::after { content: ""; position: absolute; right: -6px; top: 60%; width: 10px; height: 10px; background: #fff;
+                 border-top: 1px solid #D9DCE8; border-right: 1px solid #D9DCE8; transform: rotate(45deg); }
 @keyframes bob { 50% { transform: translateY(-6px); } }
-@media (prefers-reduced-motion: reduce) { .mascot img { animation: none; } }
+@media (prefers-reduced-motion: reduce) { .mascot .bot, .mascot .bot img { animation: none; } .mascot .bot .b { opacity: 0; } }
 @media (max-width: 780px) { .mascot { display: none; } .hero h1 { font-size: 34px; } }
 @media (max-width: 640px) {
   .block-container, [data-testid="stMainBlockContainer"] { margin: 12px 8px; padding: 20px 18px 28px !important; border-radius: 28px; } }
 
 /* ---- signal cards: one per logo letter, narrower than the search bar and centred, same width as the examples ---- */
 .keys { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; width: min(100%, 800px);
-        margin: 96px auto clamp(14px, 3.5vh, 36px); }
+        margin: clamp(52px, 8vh, 76px) auto clamp(14px, 3.5vh, 36px); }
 .kcard { border: 0; border-radius: 16px; padding: 5px 10px; display: grid; grid-template-columns: 34px 1fr;
          align-items: center; gap: 0 10px; transition: transform .18s, box-shadow .18s; }
 .kcard { cursor: default; }
@@ -244,16 +256,27 @@ def _legend():
 
 # ---------- page parts ----------
 
-def _img_b64(path, crop=True):
-    """Logo as a data URI, trimmed of its transparent margin so it sits tight in the layout."""
-    return _img_cached(str(path), crop)
+def _img_b64(path, crop=True, bold=0):
+    """Logo as a data URI, trimmed of its transparent margin so it sits tight in the layout.
+    bold > 0 thickens the strokes by about that many pixels (at the source resolution)."""
+    return _img_cached(str(path), crop, bold)
 
 
 @lru_cache(maxsize=8)
-def _img_cached(path, crop):
+def _img_cached(path, crop, bold):
     im = Image.open(path).convert("RGBA")
     if crop and im.getbbox():
         im = im.crop(im.getbbox())
+    if bold:
+        pad = bold + 1
+        # hard-edged copy: the translucent edge pixels carry washed-out colour that shows as blotches when stacked
+        im.putalpha(im.getchannel("A").point(lambda a: 255 if a > 110 else 0))
+        thick = Image.new("RGBA", (im.width + 2 * pad, im.height + 2 * pad))
+        for dx in range(-bold, bold + 1):
+            for dy in range(-bold, bold + 1):
+                if dx * dx + dy * dy <= bold * bold:
+                    thick.alpha_composite(im, (pad + dx, pad + dy))
+        im = thick
     buf = BytesIO()
     im.save(buf, "PNG")
     return "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode()
@@ -263,12 +286,16 @@ def render_header(assets):
     """Top bar with the logo mark and wordmark."""
     assets = Path(assets)
     mark = _img_b64(assets / "logo.png")
-    word = _img_b64(assets / "name.png")
     st.markdown(
-        f'<div class="topbar"><div class="brand"><img class="mark" src="{mark}" alt="ARES logo">'
-        f'<img class="word" src="{word}" alt="ARES"></div></div>',
+        f'<div class="topbar"><div class="brand"><img class="mark" src="{mark}" alt="ARES logo"></div></div>',
         unsafe_allow_html=True,
     )
+
+
+def render_name(assets):
+    """ARES wordmark, centred above the search bar."""
+    word = _img_b64(Path(assets) / "name.png", bold=4)
+    st.markdown(f'<div class="namebar"><img src="{word}" alt="ARES"></div>', unsafe_allow_html=True)
 
 
 def render_rail(assets):
@@ -284,11 +311,12 @@ def render_rail(assets):
 
 
 def show_hero(assets):
-    mark = _img_b64(Path(assets) / "logo.png")
+    idle = _img_b64(Path(assets) / "robot_idle.png", crop=False)
+    wave = _img_b64(Path(assets) / "robot_wave.png", crop=False)
     st.markdown(
         '<div class="hero"><div><h1><span class="dim">Ready to find</span> sources<br>you can cite?</h1></div>'
         f'<div class="mascot"><div class="bubble">Hey there!<br>Got a topic?</div>'
-        f'<img src="{mark}" alt=""></div></div>',
+        f'<div class="bot"><img class="a" src="{idle}" alt=""><img class="b" src="{wave}" alt=""></div></div></div>',
         unsafe_allow_html=True,
     )
 
