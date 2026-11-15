@@ -93,13 +93,14 @@ chips_slot = st.container()   # example topics, only while there are no results
 cards_slot = st.container() 
 
 with form_slot:
+    ui.render_rail(ASSETS)
     with st.form("search", border=False):
-        field, button = st.columns([5, 1.3], vertical_alignment="center")
+        field, button = st.columns([16, 1], vertical_alignment="center")
         query = field.text_input("Research topic", value=ss.query, label_visibility="collapsed",
                                  icon=":material/search:",
-                                 placeholder="Type your research topic here, e.g. software defect prediction using machine learning")
+                                 placeholder="Type your research topic, e.g. software defect prediction")
         submitted = button.form_submit_button("Rank sources", type="primary", use_container_width=True,
-                                              icon=":material/arrow_upward:")
+                                              icon=":material/arrow_upward:", help="Rank sources")
 if ss.get("retry_query"):
     query, submitted = ss.pop("retry_query"), True
 
@@ -145,3 +146,5 @@ if data is not None:
             pagination(page, pages, len(results))
 
 ui.show_disclaimer()
+
+# streamlit run app/streamlit_app.py

@@ -25,9 +25,9 @@ SIGNAL_CARD = {
     "purp": ("Academic fit", '<path d="M4 5a2 2 0 0 1 2-2h13v15H6a2 2 0 0 0-2 2z"/><path d="M4 20a2 2 0 0 0 2 2h13"/>'),
 }
 EXAMPLES = [
-    "Machine learning for defect prediction",
+    "Machine learning defect prediction",
     "Climate change and crop yields",
-    "Transformers for low-resource translation",
+    "Low-resource translation models",
 ]
 TYPE_LABELS = {"journal": "Journal article", "web": "Web page"}
 DISCLAIMER = (
@@ -54,16 +54,18 @@ CSS = """
 }
 [data-testid="stAppViewContainer"], [data-testid="stMain"], [data-testid="stHeader"] { background: transparent; }
 
-/* ---- the white "window" ---- */
+/* ---- the white "window": centred in the viewport, top and bottom ---- */
+[data-testid="stMain"] { display: flex; flex-direction: column; padding: clamp(10px, 3vh, 32px) 0; box-sizing: border-box; }
 .block-container, [data-testid="stMainBlockContainer"] {
-    width: min(1240px, calc(100vw - 200px)); max-width: none !important; margin: clamp(16px, 5vh, 56px) auto;
-    padding: 22px 44px 24px !important;
+    width: min(1240px, calc(100vw - 200px)); max-width: none !important; margin: auto;
+    padding: clamp(14px, 2.5vh, 22px) 44px clamp(28px, 5.5vh, 48px) !important;
     background: rgba(255, 255, 255, .86); border-radius: 36px;
     box-shadow: 0 40px 90px -40px rgba(70, 70, 140, .45), 0 0 0 1px rgba(255, 255, 255, .8) inset;
 }
 
-/* ---- left rail ---- */
-.rail { position: fixed; left: 22px; top: 50%; transform: translateY(-50%); z-index: 50; display: flex;
+/* ---- left rail: sits in the search bar's row, so it stays level with the bar ---- */
+[data-testid="stElementContainer"]:has(.rail), .element-container:has(.rail) { height: 0; min-height: 0; margin-bottom: calc(-1 * clamp(.4rem, 1.4vh, .8rem)); }
+.rail { position: fixed; left: 22px; transform: translateY(calc(-50% + 21px)); z-index: 50; display: flex;
         flex-direction: column; align-items: center; gap: 12px; padding: 12px 8px; border-radius: 999px;
         background: rgba(255, 255, 255, .7); backdrop-filter: blur(12px); box-shadow: 0 10px 30px -12px rgba(70, 70, 140, .35); }
 .rail a { width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;
@@ -73,65 +75,76 @@ CSS = """
 .rail img { width: 30px; height: 30px; margin-top: 4px; }
 @media (max-width: 1280px) { .rail { display: none; }
   .block-container, [data-testid="stMainBlockContainer"] { width: calc(100vw - 48px); } }
-[data-testid="stMain"] [data-testid="stVerticalBlock"] { gap: .8rem; }
+[data-testid="stMain"] [data-testid="stVerticalBlock"] { gap: clamp(.4rem, 1.4vh, .8rem); }
 
 /* ---- top bar ---- */
-.topbar { display: flex; align-items: center; }
+.topbar { display: flex; align-items: center; margin-bottom: clamp(8px, 2vh, 16px); }
 .brand { display: flex; align-items: center; gap: 10px; }
 .brand .mark { height: 34px; } .brand .word { height: 22px; }
 .topbar-end { justify-self: end; font-size: 12px; font-weight: 600; color: #fff; background: var(--dark);
               border-radius: 999px; padding: 9px 16px; }
 
 /* ---- hero ---- */
-.hero { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px; margin: clamp(10px, 4vh, 44px) 0 clamp(8px, 2.5vh, 24px); }
-.hero h1 { font-size: 42px; line-height: 1.08; font-weight: 500; letter-spacing: -.02em; margin: 0 0 10px; padding: 0; max-width: 14em; }
-.hero h1 .dim { color: #667593; }
-.mascot { position: relative; flex: none; padding: 30px 6px 0 0; }
-.mascot img { width: 96px; height: 96px; display: block; filter: drop-shadow(0 14px 18px rgba(120, 90, 190, .28));
+.hero { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px; margin: clamp(22px, 5vh, 52px) 0 clamp(60px, 9vh, 90px); }
+.hero h1 { font-size: clamp(30px, 4.6vh, 42px); line-height: 1.08; font-weight: 500; letter-spacing: -.02em; margin: 0 0 10px; padding: 0; max-width: 14em; color: #3F4A5C !important; }
+.hero h1 .dim { color: #8A94A8 !important; }
+.mascot { position: relative; flex: none; padding: clamp(18px, 3.3vh, 30px) 6px 0 0; }
+.mascot img { width: clamp(64px, 10.5vh, 96px); height: clamp(64px, 10.5vh, 96px); display: block; filter: drop-shadow(0 14px 18px rgba(120, 90, 190, .28));
               animation: bob 4s ease-in-out infinite; }
 .bubble { position: absolute; top: 0; right: 70px; white-space: nowrap; font-size: 12px; line-height: 1.35; font-weight: 500;
-          background: #fff; border-radius: 14px; padding: 7px 12px; box-shadow: 0 8px 22px -10px rgba(70, 70, 140, .4); }
+          background: #fff; color: #4A5568; border-radius: 14px; padding: 7px 12px; box-shadow: 0 8px 22px -10px rgba(70, 70, 140, .4); }
 @keyframes bob { 50% { transform: translateY(-6px); } }
 @media (prefers-reduced-motion: reduce) { .mascot img { animation: none; } }
 @media (max-width: 780px) { .mascot { display: none; } .hero h1 { font-size: 34px; } }
 @media (max-width: 640px) {
   .block-container, [data-testid="stMainBlockContainer"] { margin: 12px 8px; padding: 20px 18px 28px !important; border-radius: 28px; } }
 
-/* ---- signal cards: one per logo letter, narrower than the search bar and centred ---- */
-.keys { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; width: min(100%, 960px);
-        margin: 0 auto clamp(28px, 6vh, 56px); }
-.kcard { border: 1px solid transparent; border-radius: 20px; padding: 15px 18px; display: flex; flex-direction: column;
-         gap: 5px; transition: transform .18s, box-shadow .18s; }
-.kcard:hover { transform: translateY(-2px); box-shadow: 0 14px 28px -18px rgba(70, 70, 140, .5); }
-.kicon { width: 36px; height: 36px; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: var(--ink); }
-.kicon svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
-.kcard b { font-size: 16px; font-weight: 600; }
-.kcard span.d { font-size: 13.5px; line-height: 1.45; color: var(--ink); flex: 1; }
-.kcard .tag { font-size: 12px; color: var(--mute); }
+/* ---- signal cards: one per logo letter, narrower than the search bar and centred, same width as the examples ---- */
+.keys { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; width: min(100%, 800px);
+        margin: 96px auto clamp(14px, 3.5vh, 36px); }
+.kcard { border: 0; border-radius: 16px; padding: 5px 10px; display: grid; grid-template-columns: 34px 1fr;
+         align-items: center; gap: 0 10px; transition: transform .18s, box-shadow .18s; }
+.kcard { cursor: default; }
+.kicon { width: 34px; height: 34px; border-radius: 11px; grid-row: 1 / span 2; display: flex; align-items: center; justify-content: center; color: var(--cd); }
+.kicon svg { width: 21px; height: 21px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.kcard b { grid-column: 2; align-self: end; font-size: 16px; line-height: 1.15; font-weight: 600; color: var(--cd) !important; }
+.kcard span.d { grid-column: 2; align-self: start; margin-top: 1px; font-size: 11px; line-height: 1.25; color: color-mix(in srgb, var(--cd) 70%, #6B7688); }
+.kcard .tag { display: none; }
 @media (max-width: 900px) { .keys { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 520px) { .keys { grid-template-columns: 1fr; } }
 
-/* ---- short screens: tighten so nothing needs scrolling ---- */
-@media (max-height: 740px) {
-  .hero { margin: 12px 0 12px; } .hero h1 { font-size: 34px; }
-  .mascot img { width: 76px; height: 76px; } .mascot { padding-top: 26px; }
-   .mascot img { width: 76px; height: 76px; } .mascot { padding-top: 26px; }
-  .block-container, [data-testid="stMainBlockContainer"] { margin-top: 12px; margin-bottom: 12px; }
-  [data-testid="stForm"] { padding: 8px 10px 8px 20px; } [data-testid="stForm"] input { height: 44px; }
-  .kcard { padding: 12px 14px; } .kcard .tag { display: none; }
-  .keys { margin-bottom: 24px; } .note { margin-top: 4px; padding-top: 8px; }
-  [data-testid="stMain"] [data-testid="stVerticalBlock"] { gap: .6rem; }
+/* ---- short screens: tighten so the start page fits without scrolling ---- */
+@media (max-height: 760px) {
+  .kcard .tag { display: none; } .kcard { padding: 5px 10px; } .kicon { width: 34px; height: 34px; }
+  .note { padding-top: 8px; }
+}
+@media (max-height: 640px) {
+  .hero h1 { font-size: 28px; } .hero { margin-top: 14px; margin-bottom: 12px; }
+  .kcard span.d { font-size: 11px; line-height: 1.25; } .kicon { width: 28px; height: 28px; }
+  .keys { margin-bottom: 10px; }
 }
 
 /* ---- composer (the search form) ---- */
-[data-testid="stForm"] { background: #fff; border: 1.5px solid #7CC9CB; border-radius: 32px; padding: 12px 12px 12px 24px;
+[data-testid="stForm"] { background: #fff; border: 1.5px solid #7CC9CB; border-radius: 32px; padding: 6px 8px 6px 20px; width: min(100%, 840px); margin: 0 auto;
                  box-shadow: none; }
 [data-testid="stForm"] [data-baseweb="input"], [data-testid="stForm"] [data-baseweb="base-input"] { background: transparent !important; border: 0 !important; }
 [data-testid="stForm"] [data-testid="stTextInputRootElement"] { background: transparent !important; border: 0 !important; box-shadow: none !important; }
-[data-testid="stForm"] input { font-size: 18px; height: 52px; padding-left: 8px; }
+[data-testid="stForm"] input { font-size: 18px; height: 34px; padding-left: 8px; }
 [data-testid="stForm"] input::placeholder { color: #8A94A8; }
 [data-testid="stForm"] [data-testid="stTextInputRootElement"] svg { width: 24px; height: 24px; color: #7A6CCB; }
-[data-testid="stForm"] .stFormSubmitButton > button { min-height: 52px; font-size: 15px; }
+[data-testid="stForm"] [data-testid="stFormSubmitButton"] { display: flex; justify-content: flex-end; }
+/* icon-only round submit button: the label stays in the DOM for screen readers but is visually hidden */
+[data-testid="stForm"] button { width: 36px !important; min-width: 36px !important; height: 36px !important; min-height: 36px !important;
+                                padding: 0 !important; border-radius: 50% !important; gap: 0 !important; }
+[data-testid="stForm"] button, [data-testid="stForm"] button:active, [data-testid="stForm"] button:focus:not(:active) {
+    background: #2E8F91 !important; background-color: #2E8F91 !important; border-color: #2E8F91 !important; color: #fff !important; }
+[data-testid="stForm"] button:hover { background: #1F6F71 !important; background-color: #1F6F71 !important; border-color: #1F6F71 !important; }
+[data-testid="stForm"] button > div { margin: 0 !important; gap: 0 !important; display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
+[data-testid="stForm"] button span[data-has-shortcut] { display: flex !important; align-items: center; justify-content: center; gap: 0 !important; margin: 0 !important; width: 100%; }
+[data-testid="stForm"] button [data-testid="stMarkdownContainer"] { position: absolute !important; width: 1px !important; height: 1px !important; margin: 0 !important; overflow: hidden !important; clip: rect(0 0 0 0) !important; }
+[data-testid="stForm"] button p { position: absolute !important; width: 1px !important; height: 1px !important; margin: 0 !important; padding: 0 !important;
+                                  overflow: hidden !important; clip: rect(0 0 0 0) !important; white-space: nowrap !important; }
+[data-testid="stForm"] button [data-testid="stIconMaterial"] { margin: 0 !important; font-size: 22px !important; width: 22px !important; height: 22px !important; display: block; line-height: 1; }
 [data-testid="stForm"]:focus-within { border-color: #35A7A7; box-shadow: none; }
 [data-testid="InputInstructions"] { display: none !important; }
 
@@ -144,16 +157,16 @@ CSS = """
 .stButton > button[kind="primary"], .stFormSubmitButton > button[kind="primaryFormSubmit"], .stFormSubmitButton > button {
     background: var(--dark); color: #fff; border-color: var(--dark); padding: 8px 20px;
 }
-.st-key-examples { width: min(100%, 1040px); margin: 0 auto; }
-.chips { font-size: 12px; color: var(--mute); margin: 6px 0 6px 6px; padding-bottom: 2px; }
-[class*="st-key-chip"] .stButton > button p { white-space: nowrap; }
-[class*="st-key-chip"] .stButton > button { background: #E7E9F1; color: var(--ink); border-color: #D9DCE8; font-weight: 500; font-size: 13px; padding: 4px 14px; }
+.st-key-examples { width: min(100%, 760px); margin: 2px auto 0; }
+[class*="st-key-chip"] .stButton > button p { white-space: nowrap; font-size: 12px !important; color: #8A94A8 !important; }
+[class*="st-key-chip"] .stButton > button { background: rgba(231, 233, 241, .45); color: #8A94A8; border-color: rgba(217, 220, 232, .6); font-weight: 400; font-size: 12px; padding: 0 6px; min-height: 30px; height: 30px; }
 [class*="st-key-chip"] .stButton > button:hover, [class*="st-key-chip"] .stButton > button:focus:not(:active) {
-    background: #DCDFEA; color: var(--ink); border-color: #C9CEDD; }
+    background: #E7E9F1; color: #4A5568; border-color: #D9DCE8; }
+[class*="st-key-chip"] .stButton > button:hover p { color: #4A5568 !important; }
 
 /* ---- results ---- */
 .meta { font-size: 14px; color: var(--mute); }
-.note { font-size: 13px; color: var(--mute); border-top: 1px solid var(--line); padding-top: 10px; margin-top: 10px; }
+.note { font-size: 13px; color: var(--mute); border-top: 1px solid var(--line); padding-top: 10px; margin-top: 0; }
 .chip { display: inline-block; font-size: 12px; font-weight: 600; padding: 1px 10px; margin-left: 8px;
         background: #F1EFFB; border-radius: 999px; color: #4B3E8C; }
 .sw { display: inline-block; width: 12px; height: 12px; border-radius: 4px; margin-right: 8px; }
@@ -247,17 +260,25 @@ def _img_cached(path, crop):
 
 
 def render_header(assets):
-    """Left rail, plus the top bar with the logo mark and wordmark."""
+    """Top bar with the logo mark and wordmark."""
     assets = Path(assets)
     mark = _img_b64(assets / "logo.png")
     word = _img_b64(assets / "name.png")
     st.markdown(
+        f'<div class="topbar"><div class="brand"><img class="mark" src="{mark}" alt="ARES logo">'
+        f'<img class="word" src="{word}" alt="ARES"></div></div>',
+        unsafe_allow_html=True,
+    )
+
+
+def render_rail(assets):
+    """Left rail (new search + logo). Call it just before the search form so the rail stays level with the bar."""
+    mark = _img_b64(Path(assets) / "logo.png")
+    st.markdown(
         '<nav class="rail" aria-label="Quick actions">'
         '<a href="./" target="_self" title="New search" aria-label="New search">'
         '<svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg></a>'
-        f'<img src="{mark}" alt=""></nav>'
-        f'<div class="topbar"><div class="brand"><img class="mark" src="{mark}" alt="ARES logo">'
-        f'<img class="word" src="{word}" alt="ARES"></div></div>',
+        f'<img src="{mark}" alt=""></nav>',
         unsafe_allow_html=True,
     )
 
@@ -275,7 +296,6 @@ def show_hero(assets):
 def show_examples(on_pick):
     """Example topics. Clicking one runs that search."""
     with st.container(key="examples"):
-        st.markdown('<div class="chips">Try an example</div>', unsafe_allow_html=True)
         cols = st.columns(len(EXAMPLES))
         for i, (col, text) in enumerate(zip(cols, EXAMPLES)):
             with col:
@@ -291,17 +311,18 @@ def show_disclaimer():
 def show_empty_state():
     """No search yet: the four signals as cards."""
     desc = {
-        "cur": "How recent the source is.",
-        "sem": "How closely the source matches your topic.",
-        "auth": "Journal ranking, or the type of website.",
-        "purp": "Whether it reads as academic work or as a blog, forum, opinion piece, or ad.",
+        "cur": "Recency of the publication.",
+        "sem": "Alignment with your research topic.",
+        "auth": "Reputation of the journal or website.",
+        "purp": "Scholarly rather than promotional.",
     }
     items = ""
     for k, n, c in SIGNALS:
         tag, icon = SIGNAL_CARD[k]
         items += (
-            f'<div class="kcard" style="background:{c}24;border-color:{c}66">'
-            f'<div class="kicon" style="background:{c}"><svg viewBox="0 0 24 24">{icon}</svg></div>'
+            f'<div class="kcard" style="background:{c}24;--cd:color-mix(in srgb,{c} 78%,#000)">'
+            f'<div class="kicon" style="background:{c}40">'
+            f'<svg viewBox="0 0 24 24">{icon}</svg></div>'
             f'<b>{n}</b><span class="d">{desc[k]}</span><span class="tag">{tag}</span></div>'
         )
     st.markdown(f'<div class="keys">{items}</div>', unsafe_allow_html=True)
