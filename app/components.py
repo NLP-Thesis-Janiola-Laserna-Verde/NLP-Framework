@@ -9,17 +9,18 @@ from urllib.parse import urlparse
 import streamlit as st
 from PIL import Image
 
-# (key in the data, label shown to the user, color). Colors differ in lightness, not just hue.
+# (key in the data, label shown to the user, color). The colors are the letters of the ARES logo,
+# left to right: a (yellow), r (purple), e (teal), s (pink). Cards, legend and score bars all use these.
 SIGNALS = [
-    ("sem", "Relevance", "#1B4F9C"),
-    ("cur", "Currency", "#E3A21A"),
-    ("auth", "Authority", "#9C3F72"),
-    ("purp", "Purpose", "#2A9D8F"),
+    ("cur", "Currency", "#EBB84D"),
+    ("sem", "Relevance", "#AB5EBE"),
+    ("auth", "Authority", "#35A7A7"),
+    ("purp", "Purpose", "#FF65C3"),
 ]
 # Extra display info for the signal cards: (tag, icon svg inner markup). Icons are plain strokes.
 SIGNAL_CARD = {
-    "sem": ("Topic match", '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/>'),
     "cur": ("Recency", '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>'),
+    "sem": ("Topic match", '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/>'),
     "auth": ("Reputation", '<path d="M12 3l7 3v5c0 5-3 8-7 10-4-2-7-5-7-10V6z"/><path d="M9 12l2 2 4-4"/>'),
     "purp": ("Academic fit", '<path d="M4 5a2 2 0 0 1 2-2h13v15H6a2 2 0 0 0-2 2z"/><path d="M4 20a2 2 0 0 0 2 2h13"/>'),
 }
@@ -75,10 +76,9 @@ CSS = """
 [data-testid="stMain"] [data-testid="stVerticalBlock"] { gap: .8rem; }
 
 /* ---- top bar ---- */
-.topbar { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; }
+.topbar { display: flex; align-items: center; }
 .brand { display: flex; align-items: center; gap: 10px; }
 .brand .mark { height: 34px; } .brand .word { height: 22px; }
-.topbar-title { font-size: 14px; font-weight: 600; color: var(--ink); }
 .topbar-end { justify-self: end; font-size: 12px; font-weight: 600; color: #fff; background: var(--dark);
               border-radius: 999px; padding: 9px 16px; }
 
@@ -86,7 +86,6 @@ CSS = """
 .hero { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px; margin: clamp(10px, 4vh, 44px) 0 clamp(8px, 2.5vh, 24px); }
 .hero h1 { font-size: 42px; line-height: 1.08; font-weight: 500; letter-spacing: -.02em; margin: 0 0 10px; padding: 0; max-width: 14em; }
 .hero h1 .dim { color: #667593; }
-.hero p { font-size: 16px; color: var(--mute); max-width: 54ch; margin: 0; }
 .mascot { position: relative; flex: none; padding: 30px 6px 0 0; }
 .mascot img { width: 96px; height: 96px; display: block; filter: drop-shadow(0 14px 18px rgba(120, 90, 190, .28));
               animation: bob 4s ease-in-out infinite; }
@@ -95,46 +94,46 @@ CSS = """
 @keyframes bob { 50% { transform: translateY(-6px); } }
 @media (prefers-reduced-motion: reduce) { .mascot img { animation: none; } }
 @media (max-width: 780px) { .mascot { display: none; } .hero h1 { font-size: 34px; } }
-@media (max-width: 640px) { .topbar { grid-template-columns: 1fr; } .topbar-title { display: none; }
+@media (max-width: 640px) {
   .block-container, [data-testid="stMainBlockContainer"] { margin: 12px 8px; padding: 20px 18px 28px !important; border-radius: 28px; } }
 
-/* ---- signal cards ---- */
-.keys { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: clamp(4px, 1.5vh, 16px); }
-.kcard { background: #fff; border: 1px solid var(--line); border-radius: 22px; padding: 16px 20px; display: flex; flex-direction: column;
-         gap: 6px; box-shadow: 0 14px 34px -22px rgba(70, 70, 140, .35); transition: transform .18s, box-shadow .18s; }
-.kcard:hover { transform: translateY(-3px); box-shadow: 0 20px 40px -20px rgba(70, 70, 140, .45); }
-.kicon { width: 38px; height: 38px; border-radius: 14px; display: flex; align-items: center; justify-content: center; }
-.kicon svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+/* ---- signal cards: one per logo letter, narrower than the search bar and centred ---- */
+.keys { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; width: min(100%, 960px);
+        margin: 0 auto clamp(28px, 6vh, 56px); }
+.kcard { border: 1px solid transparent; border-radius: 20px; padding: 15px 18px; display: flex; flex-direction: column;
+         gap: 5px; transition: transform .18s, box-shadow .18s; }
+.kcard:hover { transform: translateY(-2px); box-shadow: 0 14px 28px -18px rgba(70, 70, 140, .5); }
+.kicon { width: 36px; height: 36px; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: var(--ink); }
+.kicon svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 .kcard b { font-size: 16px; font-weight: 600; }
-.kcard span.d { font-size: 14px; line-height: 1.45; color: var(--ink); flex: 1; }
+.kcard span.d { font-size: 13.5px; line-height: 1.45; color: var(--ink); flex: 1; }
 .kcard .tag { font-size: 12px; color: var(--mute); }
 @media (max-width: 900px) { .keys { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 520px) { .keys { grid-template-columns: 1fr; } }
 
 /* ---- short screens: tighten so nothing needs scrolling ---- */
 @media (max-height: 740px) {
-  .hero { margin: 12px 0 12px; } .hero h1 { font-size: 34px; } .hero p { font-size: 15px; }
+  .hero { margin: 12px 0 12px; } .hero h1 { font-size: 34px; }
   .mascot img { width: 76px; height: 76px; } .mascot { padding-top: 26px; }
    .mascot img { width: 76px; height: 76px; } .mascot { padding-top: 26px; }
   .block-container, [data-testid="stMainBlockContainer"] { margin-top: 12px; margin-bottom: 12px; }
   [data-testid="stForm"] { padding: 8px 10px 8px 20px; } [data-testid="stForm"] input { height: 44px; }
-  .kcard { padding: 12px 16px; } .kcard .tag { display: none; } .kcard span.d { font-size: 13px; }
-  .keys { margin-bottom: 4px; } .note { margin-top: 4px; padding-top: 8px; }
+  .kcard { padding: 12px 14px; } .kcard .tag { display: none; }
+  .keys { margin-bottom: 24px; } .note { margin-top: 4px; padding-top: 8px; }
   [data-testid="stMain"] [data-testid="stVerticalBlock"] { gap: .6rem; }
 }
 
 /* ---- composer (the search form) ---- */
-.hint b { color: var(--ink); font-weight: 600; }
-.hint { display: flex; justify-content: space-between; gap: 12px; font-size: 12px; color: var(--mute); padding: 0 6px 6px; margin-top: 12px; }
-[data-testid="stForm"] { background: #fff; border: 2px solid #D8D2F2; border-radius: 30px; padding: 14px 14px 14px 24px;
-                 box-shadow: 0 22px 50px -24px rgba(90, 70, 170, .5); }
+[data-testid="stForm"] { background: #fff; border: 1.5px solid #7CC9CB; border-radius: 32px; padding: 12px 12px 12px 24px;
+                 box-shadow: none; }
 [data-testid="stForm"] [data-baseweb="input"], [data-testid="stForm"] [data-baseweb="base-input"] { background: transparent !important; border: 0 !important; }
 [data-testid="stForm"] [data-testid="stTextInputRootElement"] { background: transparent !important; border: 0 !important; box-shadow: none !important; }
 [data-testid="stForm"] input { font-size: 18px; height: 52px; padding-left: 8px; }
 [data-testid="stForm"] input::placeholder { color: #8A94A8; }
 [data-testid="stForm"] [data-testid="stTextInputRootElement"] svg { width: 24px; height: 24px; color: #7A6CCB; }
 [data-testid="stForm"] .stFormSubmitButton > button { min-height: 52px; font-size: 15px; }
-[data-testid="stForm"]:focus-within { border-color: #A28CE6; box-shadow: 0 0 0 4px rgba(166, 134, 230, .3), 0 22px 50px -24px rgba(90, 70, 170, .5); }
+[data-testid="stForm"]:focus-within { border-color: #35A7A7; box-shadow: none; }
+[data-testid="InputInstructions"] { display: none !important; }
 
 /* ---- buttons: dark pills ---- */
 .stButton > button, .stFormSubmitButton > button, .stLinkButton > a {
@@ -145,9 +144,12 @@ CSS = """
 .stButton > button[kind="primary"], .stFormSubmitButton > button[kind="primaryFormSubmit"], .stFormSubmitButton > button {
     background: var(--dark); color: #fff; border-color: var(--dark); padding: 8px 20px;
 }
+.st-key-examples { width: min(100%, 1040px); margin: 0 auto; }
 .chips { font-size: 12px; color: var(--mute); margin: 6px 0 6px 6px; padding-bottom: 2px; }
-[class*="st-key-chip"] .stButton > button p { white-space: normal; }
-[class*="st-key-chip"] .stButton > button { background: var(--dark); color: #fff; border-color: var(--dark); font-weight: 500; font-size: 13px; padding: 4px 14px; }
+[class*="st-key-chip"] .stButton > button p { white-space: nowrap; }
+[class*="st-key-chip"] .stButton > button { background: #E7E9F1; color: var(--ink); border-color: #D9DCE8; font-weight: 500; font-size: 13px; padding: 4px 14px; }
+[class*="st-key-chip"] .stButton > button:hover, [class*="st-key-chip"] .stButton > button:focus:not(:active) {
+    background: #DCDFEA; color: var(--ink); border-color: #C9CEDD; }
 
 /* ---- results ---- */
 .meta { font-size: 14px; color: var(--mute); }
@@ -255,8 +257,7 @@ def render_header(assets):
         '<svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg></a>'
         f'<img src="{mark}" alt=""></nav>'
         f'<div class="topbar"><div class="brand"><img class="mark" src="{mark}" alt="ARES logo">'
-        f'<img class="word" src="{word}" alt="ARES"></div>'
-        '<div class="topbar-title">Source ranking</div><div></div></div>',
+        f'<img class="word" src="{word}" alt="ARES"></div></div>',
         unsafe_allow_html=True,
     )
 
@@ -264,30 +265,21 @@ def render_header(assets):
 def show_hero(assets):
     mark = _img_b64(Path(assets) / "logo.png")
     st.markdown(
-        '<div class="hero"><div><h1><span class="dim">Ready to find</span> sources<br>you can cite?</h1>'
-        "<p>Enter your research topic. Each source is ranked by how well it fits the topic "
-        "and how suitable it is for academic work.</p></div>"
+        '<div class="hero"><div><h1><span class="dim">Ready to find</span> sources<br>you can cite?</h1></div>'
         f'<div class="mascot"><div class="bubble">Hey there!<br>Got a topic?</div>'
         f'<img src="{mark}" alt=""></div></div>',
         unsafe_allow_html=True,
     )
 
 
-def show_composer_hint():
-    st.markdown(
-        '<div class="hint"><span><b>What are you researching?</b> Use three or more words.</span>'
-        "<span>Ranked by relevance, currency, authority and purpose</span></div>",
-        unsafe_allow_html=True,
-    )
-
-
 def show_examples(on_pick):
     """Example topics. Clicking one runs that search."""
-    st.markdown('<div class="chips">Try an example</div>', unsafe_allow_html=True)
-    cols = st.columns(len(EXAMPLES))
-    for i, (col, text) in enumerate(zip(cols, EXAMPLES)):
-        with col:
-            st.button(text, key=f"chip{i}", on_click=on_pick, args=(text,), use_container_width=True)
+    with st.container(key="examples"):
+        st.markdown('<div class="chips">Try an example</div>', unsafe_allow_html=True)
+        cols = st.columns(len(EXAMPLES))
+        for i, (col, text) in enumerate(zip(cols, EXAMPLES)):
+            with col:
+                st.button(text, key=f"chip{i}", on_click=on_pick, args=(text,), use_container_width=True)
 
 
 def show_disclaimer():
@@ -299,8 +291,8 @@ def show_disclaimer():
 def show_empty_state():
     """No search yet: the four signals as cards."""
     desc = {
-        "sem": "How closely the source matches your topic.",
         "cur": "How recent the source is.",
+        "sem": "How closely the source matches your topic.",
         "auth": "Journal ranking, or the type of website.",
         "purp": "Whether it reads as academic work or as a blog, forum, opinion piece, or ad.",
     }
@@ -308,8 +300,8 @@ def show_empty_state():
     for k, n, c in SIGNALS:
         tag, icon = SIGNAL_CARD[k]
         items += (
-            f'<div class="kcard"><div class="kicon" style="background:{c}1F;color:{c}">'
-            f'<svg viewBox="0 0 24 24">{icon}</svg></div>'
+            f'<div class="kcard" style="background:{c}24;border-color:{c}66">'
+            f'<div class="kicon" style="background:{c}"><svg viewBox="0 0 24 24">{icon}</svg></div>'
             f'<b>{n}</b><span class="d">{desc[k]}</span><span class="tag">{tag}</span></div>'
         )
     st.markdown(f'<div class="keys">{items}</div>', unsafe_allow_html=True)

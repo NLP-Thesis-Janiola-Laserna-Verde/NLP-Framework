@@ -93,7 +93,6 @@ chips_slot = st.container()   # example topics, only while there are no results
 cards_slot = st.container() 
 
 with form_slot:
-    ui.show_composer_hint()
     with st.form("search", border=False):
         field, button = st.columns([5, 1.3], vertical_alignment="center")
         query = field.text_input("Research topic", value=ss.query, label_visibility="collapsed",
