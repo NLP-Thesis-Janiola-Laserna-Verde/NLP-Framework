@@ -1,0 +1,615 @@
+{
+  "meta": {
+    "ranked": 24,
+    "removed_by_filter": 6,
+    "failed_services": []
+  },
+  "results": [
+    {
+      "title": "A Survey of Machine Learning Approaches to Software Defect Prediction",
+      "authors": [
+        "A. Author",
+        "B. Author"
+      ],
+      "year": 2025,
+      "venue": "Journal of Systems and Software",
+      "url": "https://example.org/source-1",
+      "doi": "10.0000/sample.1",
+      "abstract": "Reviews classification and deep learning models for predicting defective modules, and compares the datasets and metrics used to evaluate them.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.91,
+        "cur": 0.84,
+        "auth": 1.0,
+        "purp": 0.98
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.929
+    },
+    {
+      "title": "Machine Learning for Software Defect Prediction: A Systematic Review",
+      "authors": [
+        "C. Author",
+        "D. Author"
+      ],
+      "year": 2023,
+      "venue": "IEEE Access",
+      "url": "https://example.org/source-2",
+      "doi": "10.0000/sample.2",
+      "abstract": "Synthesizes studies on feature selection, class imbalance, and cross-project prediction, and notes gaps in reproducibility.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.96,
+        "cur": 0.9,
+        "auth": 0.75,
+        "purp": 0.98
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.8985
+    },
+    {
+      "title": "Software Quality Metrics and Defect Prediction",
+      "authors": [],
+      "year": null,
+      "venue": "",
+      "url": "https://cs.example.edu/notes/defect-prediction",
+      "doi": "",
+      "abstract": "Course notes on code metrics that are commonly used as inputs to defect prediction models.",
+      "source_type": "web",
+      "signals": {
+        "sem": 0.78,
+        "cur": null,
+        "auth": 1.0,
+        "purp": 0.85
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.8619
+    },
+    {
+      "title": "Cross-project defect prediction with transfer learning",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2021,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-4",
+      "doi": "10.0000/sample.4",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.56,
+        "cur": 0.44,
+        "auth": 1.0,
+        "purp": 0.63
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.6565
+    },
+    {
+      "title": "Deep learning for code defect detection",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2024,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-5",
+      "doi": "10.0000/sample.5",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.58,
+        "cur": 0.38,
+        "auth": 0.75,
+        "purp": 0.61
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.587
+    },
+    {
+      "title": "Class imbalance in defect prediction datasets",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2021,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-6",
+      "doi": "10.0000/sample.6",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.6,
+        "cur": 0.49,
+        "auth": 0.25,
+        "purp": 0.62
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.4935
+    },
+    {
+      "title": "Feature selection for software defect models",
+      "authors": [],
+      "year": null,
+      "venue": "",
+      "url": "https://example.org/source-7",
+      "doi": "",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "web",
+      "signals": {
+        "sem": 0.78,
+        "cur": null,
+        "auth": 0.0,
+        "purp": 0.84
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.5475
+    },
+    {
+      "title": "Just-in-time defect prediction in open-source projects",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2022,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-8",
+      "doi": "10.0000/sample.8",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.78,
+        "cur": 0.7,
+        "auth": 0.25,
+        "purp": 0.62
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.6075
+    },
+    {
+      "title": "Explainable models for defect prediction",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2021,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-9",
+      "doi": "10.0000/sample.9",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.47,
+        "cur": 0.87,
+        "auth": 0.5,
+        "purp": 0.76
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.601
+    },
+    {
+      "title": "Effort-aware defect prediction",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2022,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-10",
+      "doi": "10.0000/sample.10",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.65,
+        "cur": 0.69,
+        "auth": 0.75,
+        "purp": 0.64
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.6815
+    },
+    {
+      "title": "Benchmark datasets for defect prediction",
+      "authors": [],
+      "year": 2022,
+      "venue": "",
+      "url": "https://example.org/source-11",
+      "doi": "",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "web",
+      "signals": {
+        "sem": 0.58,
+        "cur": 0.68,
+        "auth": 1.0,
+        "purp": 0.81
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.7395
+    },
+    {
+      "title": "Static analysis and machine learning for bug finding",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2024,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-12",
+      "doi": "10.0000/sample.12",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.62,
+        "cur": 0.67,
+        "auth": 0.5,
+        "purp": 0.78
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.624
+    },
+    {
+      "title": "Evaluating defect prediction across releases",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2022,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-13",
+      "doi": "10.0000/sample.13",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.58,
+        "cur": 0.5,
+        "auth": 0.75,
+        "purp": 0.87
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.65
+    },
+    {
+      "title": "Ensemble methods for defect prediction",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2024,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-14",
+      "doi": "10.0000/sample.14",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.48,
+        "cur": 0.53,
+        "auth": 0.25,
+        "purp": 0.93
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.5
+    },
+    {
+      "title": "Process metrics versus code metrics",
+      "authors": [],
+      "year": null,
+      "venue": "",
+      "url": "https://example.org/source-15",
+      "doi": "",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "web",
+      "signals": {
+        "sem": 0.55,
+        "cur": null,
+        "auth": 1.0,
+        "purp": 0.64
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.7075
+    },
+    {
+      "title": "Defect prediction in industrial settings",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2024,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-16",
+      "doi": "10.0000/sample.16",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.6,
+        "cur": 0.8,
+        "auth": 0.75,
+        "purp": 0.95
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.73
+    },
+    {
+      "title": "Unsupervised defect prediction",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2023,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-17",
+      "doi": "10.0000/sample.17",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.46,
+        "cur": 0.75,
+        "auth": 0.5,
+        "purp": 0.73
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.5685
+    },
+    {
+      "title": "Graph neural networks for vulnerability detection",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2021,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-18",
+      "doi": "10.0000/sample.18",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.66,
+        "cur": 0.7,
+        "auth": 0.25,
+        "purp": 0.63
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.561
+    },
+    {
+      "title": "Hyperparameter tuning for defect predictors",
+      "authors": [],
+      "year": 2023,
+      "venue": "",
+      "url": "https://example.org/source-19",
+      "doi": "",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "web",
+      "signals": {
+        "sem": 0.78,
+        "cur": 0.63,
+        "auth": 0.0,
+        "purp": 0.62
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.531
+    },
+    {
+      "title": "Replication of defect prediction studies",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2024,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-20",
+      "doi": "10.0000/sample.20",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.68,
+        "cur": 0.95,
+        "auth": 0.25,
+        "purp": 0.71
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.631
+    },
+    {
+      "title": "Data quality issues in defect datasets",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2021,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-21",
+      "doi": "10.0000/sample.21",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.76,
+        "cur": 0.56,
+        "auth": 0.25,
+        "purp": 0.74
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.5895
+    },
+    {
+      "title": "Software reliability growth models",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2022,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-22",
+      "doi": "10.0000/sample.22",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.62,
+        "cur": 0.48,
+        "auth": 0.5,
+        "purp": 0.65
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.5665
+    },
+    {
+      "title": "Test prioritization using learned models",
+      "authors": [],
+      "year": null,
+      "venue": "",
+      "url": "https://example.org/source-23",
+      "doi": "",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "web",
+      "signals": {
+        "sem": 0.59,
+        "cur": null,
+        "auth": 0.5,
+        "purp": 0.63
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.5694
+    },
+    {
+      "title": "A practitioner's guide to defect prediction",
+      "authors": [
+        "E. Author",
+        "F. Author"
+      ],
+      "year": 2023,
+      "venue": "[Venue]",
+      "url": "https://example.org/source-24",
+      "doi": "10.0000/sample.24",
+      "abstract": "Sample abstract text for layout testing only.",
+      "source_type": "journal",
+      "signals": {
+        "sem": 0.61,
+        "cur": 0.68,
+        "auth": 0.75,
+        "purp": 0.91
+      },
+      "weights": {
+        "sem": 0.4,
+        "cur": 0.2,
+        "auth": 0.25,
+        "purp": 0.15
+      },
+      "score": 0.704
+    }
+  ]
+}
