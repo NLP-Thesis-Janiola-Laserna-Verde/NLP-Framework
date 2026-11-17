@@ -3,7 +3,7 @@ from datetime import date
 from htmldate import find_date
 
 HALF_LIFE_YEARS = 5
-TODAY = date(2026, 11, 10)
+TODAY = date.today()
 
 def extract_date(url):
     try:
@@ -12,17 +12,24 @@ def extract_date(url):
     except Exception:
         return None
 
-def currency_score(pub_date):
-    if pub_date is None:
+def age_in_years(pub_date, today=None):
+    """Age in years; None if the date is missing, 0 if it is in the future."""
+    if pub_date is None or pd.isna(pub_date):
         return None
-    age_years = (TODAY - pub_date).days / 365.25
-    age_years = max(age_years, 0)
-    return 0.5 ** (age_years / HALF_LIFE_YEARS)
+    today = today or TODAY
+    return max((today - pub_date).days / 365.25, 0)
 
-df = pd.read_csv("sources.csv").head(10)   # start with a few
-df["pub_date"] = df["url"].apply(extract_date)
-df["date_found"] = df["pub_date"].notna()
-df["currency"] = df["pub_date"].apply(currency_score)
+def currency_score(pub_date, today=None):
+    age = age_in_years(pub_date, today)
+    if age is None:
+        return None
+    return 0.5 ** (age / HALF_LIFE_YEARS)
 
-df.to_csv("currency_pilot.csv", index=False)
-print(df[["url", "pub_date", "currency"]])
+if __name__ == "__main__":
+    df = pd.read_csv("sources.csv").head(10)   # start with a few
+    df["pub_date"] = df["url"].apply(extract_date)
+    df["date_found"] = df["pub_date"].notna()
+    df["currency"] = df["pub_date"].apply(currency_score)
+
+    df.to_csv("currency_pilot.csv", index=False)
+    print(df[["url", "pub_date", "currency"]])
