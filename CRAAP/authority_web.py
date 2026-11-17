@@ -1,5 +1,8 @@
 import pandas as pd
+from pathlib import Path
 from urllib.parse import urlparse
+
+CSV_DIR = Path(__file__).resolve().parents[1] / "csv"
 
 STRONG_SUFFIXES = ["gov", "edu", "gov.ph", "edu.ph", "ac.uk"]   # -> 1.00
 MID_SUFFIXES = ["org"]                                          # -> 0.50
@@ -34,7 +37,7 @@ def domain_score(url):
             return 0.5, f"domain:.{s}"
     return 0.0, "domain:other"
 
-df = pd.read_csv("sources_web.csv", dtype=str)
+df = pd.read_csv(CSV_DIR / "sources_web.csv", dtype=str)
 df.columns = df.columns.str.strip()
 
 is_web = df["record_type"].str.strip().str.lower() == "web"
@@ -47,5 +50,5 @@ df.loc[is_web, "authority_score"] = res.apply(lambda r: r[0])
 df.loc[is_web, "authority_basis"] = res.apply(lambda r: r[1])
 df["authority_score"] = pd.to_numeric(df["authority_score"])
 
-df.to_csv("authority_web_pilot.csv", index=False)
+df.to_csv(CSV_DIR / "authority_web_pilot.csv", index=False)
 print(df[["host", "record_type", "authority_basis", "authority_score"]])

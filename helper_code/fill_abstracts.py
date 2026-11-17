@@ -4,7 +4,9 @@ from pathlib import Path
 import pandas as pd
 import trafilatura
 
-sys.path.append(str(Path(__file__).resolve().parent.parent))
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+CSV_DIR = PROJECT_ROOT / "csv"
+sys.path.append(str(PROJECT_ROOT))
 from retrieval.clean_text import clean_text
 
 MAX_CHARS = 1000
@@ -19,7 +21,7 @@ def get_snippet(url):
     text = trafilatura.extract(html)
     return clean_text(text, single_line=True)[:MAX_CHARS]
 
-df = pd.read_csv("sources.csv", dtype=str)   # read everything as text
+df = pd.read_csv(CSV_DIR / "sources.csv", dtype=str)   # read everything as text
 df.columns = df.columns.str.strip()
 print("columns:", df.columns.tolist())
 
@@ -38,4 +40,4 @@ for i, row in df.iterrows():
         print("FAIL", row["url"], "->", e)
 
 df["abstract_found"] = df["abstract"].str.strip() != ""
-df.to_csv("sources_with_abstracts.csv", index=False)
+df.to_csv(CSV_DIR / "sources_with_abstracts.csv", index=False)

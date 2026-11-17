@@ -1,7 +1,10 @@
 import re
+from pathlib import Path
+
 import pandas as pd
 
-SJR_FILE = "scimagojr 2025.csv"        # your downloaded filename
+CSV_DIR = Path(__file__).resolve().parents[1] / "csv"
+SJR_FILE = CSV_DIR / "scimagojr 2025.csv"
 Q_SCORE = {"Q1": 1.0, "Q2": 0.75, "Q3": 0.5, "Q4": 0.25}   # tunable
 
 def norm_issn(s):
@@ -44,13 +47,13 @@ def lookup(row):
         return q, "title"
     return None, None
 
-df = pd.read_csv("sources_journals.csv", dtype=str)
+df = pd.read_csv(CSV_DIR / "sources_journals.csv", dtype=str)
 df.columns = df.columns.str.strip()
 res = df.apply(lookup, axis=1, result_type="expand")
 df["sjr_quartile"], df["sjr_match"] = res[0], res[1]
 df["sjr_found"] = df["sjr_quartile"].notna()
 df["sjr_score"] = df["sjr_quartile"].map(Q_SCORE)
 
-df.to_csv("authority_journal_pilot.csv", index=False)
+df.to_csv(CSV_DIR / "authority_journal_pilot.csv", index=False)
 print(df[["journal", "issn", "sjr_quartile", "sjr_match", "sjr_score"]])
 print("match rate:", df["sjr_found"].mean())

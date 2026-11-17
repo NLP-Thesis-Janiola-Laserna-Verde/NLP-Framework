@@ -1,6 +1,6 @@
 from datetime import date
 
-from currency import age_in_years, currency_score
+from CRAAP.currency import age_in_years, currency_score
 
 TODAY = date(2026, 11, 17)
 

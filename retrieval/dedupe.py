@@ -8,6 +8,7 @@ COLUMNS = [
     "topic_id", "source_type", "title", "abstract", "year", "venue",
     "doi", "url", "citations", "retrieved_from",
 ]
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = Path("data/candidates")  # not data/raw (gitignored)
 
 
@@ -73,7 +74,7 @@ if __name__ == "__main__":
     import pandas as pd
     from retrieval import crossref, semantic_scholar, tavily_search
 
-    topics = pd.read_csv("docs/topics.csv")
+    topics = pd.read_csv(PROJECT_ROOT / "csv" / "topics.csv")
     topics = topics.head(2)  # test on 2 topics first, then remove this line
     for _, t in topics.iterrows():
         records = (

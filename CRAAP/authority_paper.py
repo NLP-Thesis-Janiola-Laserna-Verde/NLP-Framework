@@ -1,7 +1,10 @@
 import re
+from pathlib import Path
+
 import pandas as pd
 
-SJR_FILE = "scimagojr 2025.csv"
+CSV_DIR = Path(__file__).resolve().parents[1] / "csv"
+SJR_FILE = CSV_DIR / "scimagojr 2025.csv"
 Q_SCORE = {"Q1": 1.0, "Q2": 0.75, "Q3": 0.5, "Q4": 0.25}
 DEFAULT_SCORE = 0.50
 
@@ -43,7 +46,7 @@ def lookup(row):
     return None, None
 
 # ---- apply ----
-df = pd.read_csv("sources_papers.csv", dtype=str)
+df = pd.read_csv(CSV_DIR / "sources_papers.csv", dtype=str)
 df.columns = df.columns.str.strip()
 
 res = df.apply(lookup, axis=1, result_type="expand")
@@ -57,6 +60,6 @@ df.loc[is_paper & unmatched, "authority_score"] = DEFAULT_SCORE
 df.loc[is_paper & unmatched, "authority_basis"] = "default"
 df.loc[~is_paper & unmatched, "authority_basis"] = "n/a (web page)"
 
-df.to_csv("authority_paper_pilot.csv", index=False)
+df.to_csv(CSV_DIR / "authority_paper_pilot.csv", index=False)
 print(df[["venue", "record_type", "sjr_quartile", "authority_basis", "authority_score"]])
 print(df[is_paper]["authority_basis"].value_counts())

@@ -1,10 +1,13 @@
+from pathlib import Path
+
 import pandas as pd
 from sentence_transformers import SentenceTransformer, util
 
 MODEL_NAME = "all-MiniLM-L6-v2"
+CSV_DIR = Path(__file__).resolve().parents[1] / "csv"
 
-topics = pd.read_csv("topics.csv")
-sources = pd.read_csv("sources_with_abstracts.csv")
+topics = pd.read_csv(CSV_DIR / "topics.csv")
+sources = pd.read_csv(CSV_DIR / "sources_with_abstracts.csv")
 
 # build the text to embed for each source
 sources["title"] = sources["title"].fillna("")
@@ -32,5 +35,5 @@ source_emb = model.encode(df["text"].tolist(),
 df["relevance_raw"] = util.cos_sim(topic_emb, source_emb).diagonal().cpu().numpy()
 df["relevance"] = df["relevance_raw"].clip(0, 1)
 
-df.to_csv("relevance_pilot.csv", index=False)
+df.to_csv(CSV_DIR / "relevance_pilot.csv", index=False)
 print(df[["topic_id", "title", "relevance"]].sort_values("relevance", ascending=False))

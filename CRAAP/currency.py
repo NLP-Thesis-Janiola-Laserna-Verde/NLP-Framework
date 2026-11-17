@@ -4,7 +4,9 @@ from pathlib import Path
 
 import pandas as pd
 
-sys.path.append(str(Path(__file__).resolve().parent.parent))
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+CSV_DIR = PROJECT_ROOT / "csv"
+sys.path.append(str(PROJECT_ROOT))
 from retrieval.pub_dates import get_pub_date
 
 HALF_LIFE_YEARS = 5
@@ -28,12 +30,12 @@ def currency_score(pub_date, today=None):
     return 0.5 ** (age / HALF_LIFE_YEARS)
 
 if __name__ == "__main__":
-    df = pd.read_csv("sources.csv").head(10)   # start with a few
+    df = pd.read_csv(CSV_DIR / "sources.csv").head(10)   # start with a few
     found = df["url"].apply(get_pub_date)
     df["pub_date"] = found.apply(lambda r: r[0])
     df["date_source"] = found.apply(lambda r: r[1])
     df["date_found"] = df["pub_date"].notna()
     df["currency"] = df["pub_date"].apply(currency_score)
 
-    df.to_csv("currency_pilot.csv", index=False)
+    df.to_csv(CSV_DIR / "currency_pilot.csv", index=False)
     print(df[["url", "pub_date", "date_source", "currency"]])
