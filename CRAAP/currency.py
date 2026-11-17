@@ -1,16 +1,18 @@
-import pandas as pd
+import sys
 from datetime import date
-from htmldate import find_date
+from pathlib import Path
+
+import pandas as pd
+
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+from retrieval.pub_dates import get_pub_date
 
 HALF_LIFE_YEARS = 5
 TODAY = date.today()
 
 def extract_date(url):
-    try:
-        d = find_date(url, original_date=True, extensive_search=True)
-        return pd.to_datetime(d).date() if d else None
-    except Exception:
-        return None
+    """Web pages use htmldate; DOI links use Crossref, then Semantic Scholar."""
+    return get_pub_date(url)[0]
 
 def age_in_years(pub_date, today=None):
     """Age in years; None if the date is missing, 0 if it is in the future."""
@@ -27,9 +29,11 @@ def currency_score(pub_date, today=None):
 
 if __name__ == "__main__":
     df = pd.read_csv("sources.csv").head(10)   # start with a few
-    df["pub_date"] = df["url"].apply(extract_date)
+    found = df["url"].apply(get_pub_date)
+    df["pub_date"] = found.apply(lambda r: r[0])
+    df["date_source"] = found.apply(lambda r: r[1])
     df["date_found"] = df["pub_date"].notna()
     df["currency"] = df["pub_date"].apply(currency_score)
 
     df.to_csv("currency_pilot.csv", index=False)
-    print(df[["url", "pub_date", "currency"]])
+    print(df[["url", "pub_date", "date_source", "currency"]])
