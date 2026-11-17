@@ -1,7 +1,7 @@
-source_id,topic_id,url,title, abstract,pub_date,date_found,currency
-COMP01-S01,COMP01,https://arxiv.org/abs/2005.11401,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,,2020-05-22,True,0.4067625396193713
-COMP01-S02,COMP01,https://en.wikipedia.org/wiki/Federated_learning,Federated learning,,,False,
-COMP01-S03,COMP01,https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue,Dengue and severe dengue,,2025-08-21,True,0.8420341898995035
-HEA04-S01,HEA04,https://www.who.int/news-room/fact-sheets/detail/physical-activity,Physical activity,,2026-11-04,True,0.9950780454711936
-HEA04-S02,HEA04,https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue,Dengue and severe dengue,,2025-08-21,True,0.8420341898995035
-HEA04-S03,HEA04,https://arxiv.org/abs/2005.11401,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,,2020-05-22,True,0.4067625396193713
+source_id,topic_id,url,title, abstract,pub_date,date_source,date_found,currency
+COMP01-S01,COMP01,https://arxiv.org/abs/2005.11401,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,,2020-05-22,htmldate,True,0.4067625396193713
+COMP01-S02,COMP01,https://en.wikipedia.org/wiki/Federated_learning,Federated learning,,,,False,
+COMP01-S03,COMP01,https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue,Dengue and severe dengue,,2025-08-21,htmldate,True,0.8420341898995035
+HEA04-S01,HEA04,https://www.who.int/news-room/fact-sheets/detail/physical-activity,Physical activity,,2026-11-04,htmldate,True,0.9950780454711936
+HEA04-S02,HEA04,https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue,Dengue and severe dengue,,2025-08-21,htmldate,True,0.8420341898995035
+HEA04-S03,HEA04,https://arxiv.org/abs/2005.11401,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,,2020-05-22,htmldate,True,0.4067625396193713
