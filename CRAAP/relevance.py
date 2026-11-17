@@ -31,6 +31,8 @@ source_emb = model.encode(df["text"].tolist(),
 # row-by-row cosine similarity (topic i vs source i)
 df["relevance_raw"] = util.cos_sim(topic_emb, source_emb).diagonal().cpu().numpy()
 df["relevance"] = df["relevance_raw"].clip(0, 1)
+# no title/abstract text or no topic match -> null, not a made-up similarity
+df.loc[df["text"].eq("") | df["topic_text"].isna(), ["relevance_raw", "relevance"]] = float("nan")
 
 df.to_csv("relevance_pilot.csv", index=False)
 print(df[["topic_id", "title", "relevance"]].sort_values("relevance", ascending=False))
