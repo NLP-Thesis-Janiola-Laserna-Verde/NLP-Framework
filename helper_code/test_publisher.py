@@ -38,7 +38,7 @@ def test_spacy_reads_copyright_line():
 @needs_model
 def test_spacy_reads_title_suffix():
     html = "<html><head><title>Information literacy | UNESCO</title></head><body><p>Hi</p></body></html>"
-    name, basis = pub.extract_publisher(html, "https://www.unesco.org/x")
+    _, basis = pub.extract_publisher(html, "https://www.unesco.org/x")
     assert basis in ("spacy_title", "domain")  # a short acronym may not be tagged ORG
 
 
@@ -55,6 +55,7 @@ def test_no_html_no_url_is_none():
     assert pub.extract_publisher(None, "") == (None, None)
 
 
+@needs_model
 def test_meta_equal_to_first_part_of_long_title_is_rejected():
     html = ('<html><head><title>Physical Activity Basics | Physical Activity | CDC</title>'
             '<meta name="application-name" content="Physical Activity Basics"></head>'

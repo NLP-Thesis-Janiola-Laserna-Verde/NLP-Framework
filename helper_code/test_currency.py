@@ -20,4 +20,6 @@ def test_today_gives_age_zero():
 
 
 def test_normal_decay_halves_at_half_life():
-    assert abs(currency_score(date(2021, 11, 17), TODAY) - 0.5) < 0.01
+    score = currency_score(date(2021, 11, 17), TODAY)
+    assert score is not None
+    assert abs(score - 0.5) < 0.01
