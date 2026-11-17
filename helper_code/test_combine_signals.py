@@ -1,7 +1,6 @@
-import numpy as np
 import pandas as pd
 
-from combine_signals import SIGNAL_COLS, combine_signals
+from CRAAP.combine_signals import SIGNAL_COLS, combine_signals
 
 
 def test_columns_and_one_row_per_source():
@@ -17,14 +16,14 @@ def test_missing_value_stays_null_not_zero():
     rel = pd.DataFrame({"source_id": ["A"], "relevance": [0.9]})
     cur = pd.DataFrame({"source_id": ["A"], "currency": [None]})
     out = combine_signals(rel, cur)
-    assert np.isnan(out.loc["A", "s_cur"])
+    assert pd.isna(out.loc["A", "s_cur"])
 
 
 def test_source_absent_from_a_signal_gets_null():
     rel = pd.DataFrame({"source_id": ["A", "B"], "relevance": [0.9, 0.4]})
     auth = pd.DataFrame({"source_id": ["A"], "authority_score": [1.0]})
     out = combine_signals(rel, authority=auth)
-    assert np.isnan(out.loc["B", "s_auth"])
+    assert pd.isna(out.loc["B", "s_auth"])
 
 
 def test_real_zero_is_kept_as_zero():

@@ -7,7 +7,9 @@ can tell "scored zero" apart from "no data".
 Run from the CRAAP folder:  python combine_signals.py
 """
 import pandas as pd
+from pathlib import Path
 
+CSV_DIR = Path(__file__).resolve().parents[1] / "csv"
 SIGNAL_COLS = ["s_sem", "s_cur", "s_auth", "s_purp"]
 
 
@@ -43,12 +45,12 @@ def combine_signals(relevance=None, currency=None, authority=None, purpose=None)
 
 
 if __name__ == "__main__":
-    rel = pd.read_csv("relevance_pilot.csv")
-    cur = pd.read_csv("currency_pilot.csv")
-    auth = pd.concat([pd.read_csv("authority_paper_pilot.csv"),
-                      pd.read_csv("authority_web_pilot.csv")], ignore_index=True)
+    rel = pd.read_csv(CSV_DIR / "relevance_pilot.csv")
+    cur = pd.read_csv(CSV_DIR / "currency_pilot.csv")
+    auth = pd.concat([pd.read_csv(CSV_DIR / "authority_paper_pilot.csv"),
+                      pd.read_csv(CSV_DIR / "authority_web_pilot.csv")], ignore_index=True)
 
     signals = combine_signals(relevance=rel, currency=cur, authority=auth)
-    signals.to_csv("signals_pilot.csv")
+    signals.to_csv(CSV_DIR / "signals_pilot.csv")
     print(signals)
     print("\nmissing per signal:\n", signals.isna().sum())
