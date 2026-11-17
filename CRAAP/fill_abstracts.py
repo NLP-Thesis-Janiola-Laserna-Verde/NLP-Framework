@@ -1,5 +1,11 @@
+import sys
+from pathlib import Path
+
 import pandas as pd
 import trafilatura
+
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+from retrieval.clean_text import clean_text
 
 MAX_CHARS = 1000
 
@@ -9,9 +15,9 @@ def get_snippet(url):
         raise RuntimeError("download failed")
     meta = trafilatura.extract_metadata(html)
     if meta and meta.description:
-        return meta.description.strip()[:MAX_CHARS]
+        return clean_text(meta.description, single_line=True)[:MAX_CHARS]
     text = trafilatura.extract(html)
-    return (text or "").strip()[:MAX_CHARS]
+    return clean_text(text, single_line=True)[:MAX_CHARS]
 
 df = pd.read_csv("sources.csv", dtype=str)   # read everything as text
 df.columns = df.columns.str.strip()

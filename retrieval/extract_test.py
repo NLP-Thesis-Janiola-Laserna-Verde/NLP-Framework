@@ -8,6 +8,8 @@ import pandas as pd
 import trafilatura
 from htmldate import find_date
 
+from retrieval.clean_text import clean_text
+
 N_SAMPLES = 10
 
 
@@ -16,7 +18,7 @@ def test_url(url):
     if not html:
         return {"url": url, "fetched": False, "text_len": 0, "date": None}
 
-    text = trafilatura.extract(html, include_comments=False) or ""
+    text = clean_text(trafilatura.extract(html, include_comments=False))
     try:
         date = find_date(html)
     except Exception:
