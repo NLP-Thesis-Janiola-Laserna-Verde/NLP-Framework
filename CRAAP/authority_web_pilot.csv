@@ -1,0 +1,12 @@
+source_id,record_type,url,host,authority_score,authority_basis
+W1,web,https://www.who.int/news-room/fact-sheets/detail/physical-activity,who.int,0.0,domain:other
+W2,web,https://www.unesco.org/en/ifap/information-literacy,unesco.org,0.5,domain:.org
+W3,web,https://www.cdc.gov/physical-activity-basics/,cdc.gov,1.0,domain:.gov
+W4,web,https://www.deped.gov.ph/,deped.gov.ph,1.0,domain:.gov.ph
+W5,web,https://www.up.edu.ph/,up.edu.ph,1.0,domain:.edu.ph
+W6,web,https://www.ox.ac.uk/,ox.ac.uk,1.0,domain:.ac.uk
+W7,web,https://www.reuters.com/world/,reuters.com,0.5,domain:news
+W8,web,https://medium.com/@someone/some-post,medium.com,0.0,domain:other
+W9,web,https://mygov.com/page,mygov.com,0.0,domain:other
+W10,web,https://en.wikipedia.org/wiki/Information_literacy,en.wikipedia.org,0.5,domain:.org
+P1,paper,https://doi.org/10.1038/s41586-021-03819-2,doi.org,,n/a (paper)
