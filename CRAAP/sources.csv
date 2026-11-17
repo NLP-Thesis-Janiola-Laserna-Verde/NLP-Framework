@@ -1,4 +1,7 @@
-source_id,topic_id,url,title
-T01-S01,T01,https://www.nature.org/en-us/magazine/magazine-articles/red-cockaded-woodpecker-recovery/,Example article
-T01-S02,T01,https://www.unesco.org/en/ifap/information-literacy,Information literacy
-T01-S03,T01,https://www.who.int/news-room/fact-sheets,WHO fact sheets
+source_id,topic_id,url,title, abstract
+COMP01-S01,COMP01,https://arxiv.org/abs/2005.11401,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,
+COMP01-S02,COMP01,https://en.wikipedia.org/wiki/Federated_learning,Federated learning,
+COMP01-S03,COMP01,https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue,Dengue and severe dengue,
+HEA04-S01,HEA04,https://www.who.int/news-room/fact-sheets/detail/physical-activity,Physical activity,
+HEA04-S02,HEA04,https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue,Dengue and severe dengue,
+HEA04-S03,HEA04,https://arxiv.org/abs/2005.11401,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,
