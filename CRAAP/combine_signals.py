@@ -4,7 +4,12 @@ Columns: s_sem (relevance), s_cur (currency), s_auth (authority), s_purp (purpos
 A signal that could not be computed is stored as NaN/null, never 0, so the ranker
 can tell "scored zero" apart from "no data".
 
-Run from the CRAAP folder:  python combine_signals.py
+s_purp comes from the genre classifier (data/genre/predict_genre.py): its
+academic_probability, i.e. 1 - P(blog, forum, opinion, commercial), in 0-1.
+
+Run the purpose step once from the repository root:
+    python -m data.genre.predict_genre --input csv/relevance_pilot.csv --output csv/purpose_pilot.csv
+Then, from the CRAAP folder:  python combine_signals.py
 """
 import pandas as pd
 from pathlib import Path
@@ -31,7 +36,7 @@ def combine_signals(relevance=None, currency=None, authority=None, purpose=None)
     relevance  -> column "relevance"
     currency   -> column "currency"
     authority  -> column "authority_score"
-    purpose    -> column "purpose"   (not implemented yet: stays all-null)
+    purpose    -> column "academic_probability"  (genre classifier output)
 
     Any source missing from a frame, or with a missing value, gets NaN for that signal.
     """
@@ -39,7 +44,7 @@ def combine_signals(relevance=None, currency=None, authority=None, purpose=None)
         _signal(relevance, "relevance", "s_sem"),
         _signal(currency, "currency", "s_cur"),
         _signal(authority, "authority_score", "s_auth"),
-        _signal(purpose, "purpose", "s_purp"),
+        _signal(purpose, "academic_probability", "s_purp"),
     ], axis=1).sort_index()
     return table.reindex(columns=SIGNAL_COLS).astype("float64")
 
@@ -50,7 +55,10 @@ if __name__ == "__main__":
     auth = pd.concat([pd.read_csv(CSV_DIR / "authority_paper_pilot.csv"),
                       pd.read_csv(CSV_DIR / "authority_web_pilot.csv")], ignore_index=True)
 
-    signals = combine_signals(relevance=rel, currency=cur, authority=auth)
+    purpose_path = CSV_DIR / "purpose_pilot.csv"
+    purp = pd.read_csv(purpose_path) if purpose_path.exists() else None
+
+    signals = combine_signals(relevance=rel, currency=cur, authority=auth, purpose=purp)
     signals.to_csv(CSV_DIR / "signals_pilot.csv")
     print(signals)
     print("\nmissing per signal:\n", signals.isna().sum())

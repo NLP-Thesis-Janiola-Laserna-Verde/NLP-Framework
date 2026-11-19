@@ -32,7 +32,14 @@ def test_real_zero_is_kept_as_zero():
     assert out.loc["A", "s_auth"] == 0.0
 
 
-def test_unimplemented_purpose_is_all_null():
+def test_purpose_uses_academic_probability():
+    purp = pd.DataFrame({"source_id": ["A", "B"], "academic_probability": [0.8, 0.0]})
+    out = combine_signals(purpose=purp)
+    assert out.loc["A", "s_purp"] == 0.8
+    assert out.loc["B", "s_purp"] == 0.0
+
+
+def test_no_purpose_frame_is_all_null():
     rel = pd.DataFrame({"source_id": ["A"], "relevance": [0.9]})
     out = combine_signals(rel)
     assert out["s_purp"].isna().all()
