@@ -1,0 +1,872 @@
+{
+ "query": "Energy-efficient edge computing for Internet of Things",
+ "retrieved_at": "2026-11-18T17:45:28.418364+00:00",
+ "data": [
+  {
+   "paperId": "fbe4cb7777cdd2485d1e5fb0072c896b045027fc",
+   "externalIds": {
+    "DBLP": "journals/tcc/00100000S21",
+    "MAG": "2914261331",
+    "DOI": "10.1109/TCC.2019.2898657",
+    "CorpusId": 85553937
+   },
+   "url": "https://www.semanticscholar.org/paper/fbe4cb7777cdd2485d1e5fb0072c896b045027fc",
+   "title": "Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things",
+   "venue": "IEEE Transactions on Cloud Computing",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCC.2019.2898657?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCC.2019.2898657, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-02-11",
+   "authors": [
+    {
+     "authorId": "47558464",
+     "name": "Ying Chen"
+    },
+    {
+     "authorId": "144465142",
+     "name": "Ning Zhang"
+    },
+    {
+     "authorId": "49889451",
+     "name": "Yong-Chao Zhang"
+    },
+    {
+     "authorId": "40897068",
+     "name": "Xin Chen"
+    },
+    {
+     "authorId": "2139706442",
+     "name": "Wen Wu"
+    },
+    {
+     "authorId": "145947929",
+     "name": "X. Shen"
+    }
+   ],
+   "abstract": "With proliferation of computation-intensive Internet of Things (IoT) applications, the limited capacity of end devices can deteriorate service performance. To address this issue, computation tasks can be offloaded to the Mobile Edge Computing (MEC) for processing. However, it consumes considerable energy to transmit and process these tasks. In this paper, we study the energy efficient task offloading in MEC. Specifically, we formulate it as a stochastic optimization problem, with the objective of minimizing the energy consumption of task offloading while guaranteeing the average queue length. Solving this offloading optimization problem faces many technical challenges due to the uncertainty and dynamics of wireless channel state and task arrival process, and the large scale of solution space. To tackle these challenges, we apply stochastic optimization techniques to transform the original stochastic problem into a deterministic optimization problem, and propose an energy efficient dynamic offloading algorithm called EEDOA. EEDOA can be implemented in an online manner to make the task offloading decisions with polynomial time complexity. Theoretical analysis is provided to demonstrate that EEDOA can approximate the minimal transmission energy consumption while still bounding the queue length. Experiment results are presented which show the EEDOA’s effectiveness."
+  },
+  {
+   "paperId": "388aa55695ffc67ba4242faa9b6d6c57bce678c8",
+   "externalIds": {
+    "DBLP": "journals/iotj/LiuJQX23",
+    "DOI": "10.1109/JIOT.2022.3220677",
+    "CorpusId": 253435677
+   },
+   "url": "https://www.semanticscholar.org/paper/388aa55695ffc67ba4242faa9b6d6c57bce678c8",
+   "title": "Energy-Efficient Space–Air–Ground Integrated Edge Computing for Internet of Remote Things: A Federated DRL Approach",
+   "venue": "IEEE Internet of Things Journal",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2022.3220677?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2022.3220677, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-03-15",
+   "authors": [
+    {
+     "authorId": "49420273",
+     "name": "Yi Liu"
+    },
+    {
+     "authorId": "2112640525",
+     "name": "Li Jiang"
+    },
+    {
+     "authorId": "40806187",
+     "name": "Q. Qi"
+    },
+    {
+     "authorId": "2188147620",
+     "name": "Sheng-Li Xie"
+    }
+   ],
+   "abstract": "Space–air–ground integrated edge computing is expecting to provide pervasive computation services for Internet of Things (IoT), especially in remote areas. However, the offloading process of power-limited IoT devices is a challenge issue due to unreliable communications in an aerial environment. In this article, we propose an energy-efficient space–air–ground integrated edge computing network architecture, in which the IoT devices choose the most appropriate LEO satellites or unmanned aerial vehicles (UAVs) for task offloading according to their energy level, communication conditions and computing capabilities. In order to providing efficient task offloading and energy-saving policy under an uncertainty aerial environment, a constrained Markov decision process is employed to formulate the task offloading decision problem and a deep reinforcement learning (DRL)-based algorithm is devised to solve the proposed problem. An adaptive federated DRL-based offloading method is further proposed to find suboptimal offloading decisions by considering the privacy protection and communication failure in the proposed network. Numerical results confirm the effectiveness of the proposed schemes on energy saving and computation efficiency."
+  },
+  {
+   "paperId": "beb57cefe96e2266501544ec9de234111938466e",
+   "externalIds": {
+    "MAG": "3138627822",
+    "DBLP": "journals/iotj/SongHL021",
+    "DOI": "10.1109/JIOT.2021.3068141",
+    "CorpusId": 233708593
+   },
+   "url": "https://www.semanticscholar.org/paper/beb57cefe96e2266501544ec9de234111938466e",
+   "title": "Energy-Efficient Multiaccess Edge Computing for Terrestrial-Satellite Internet of Things",
+   "venue": "IEEE Internet of Things Journal",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2021.3068141?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2021.3068141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-03-23",
+   "authors": [
+    {
+     "authorId": "2633989",
+     "name": "Zheng-Yu Song"
+    },
+    {
+     "authorId": "48386838",
+     "name": "Yuanyuan Hao"
+    },
+    {
+     "authorId": "2510687153",
+     "name": "Y. Liu"
+    },
+    {
+     "authorId": "2109230196",
+     "name": "Xin Sun"
+    }
+   ],
+   "abstract": "The recent advances in low earth orbit (LEO) satellites enable the satellites to provide task processing capability for remote Internet-of-Things (IoT) mobile devices (IMDs) without proximal multiaccess edge computing (MEC) servers. In this article, by leveraging the LEO satellites, a novel MEC framework for terrestrial-satellite IoT is proposed. With the aid of terrestrial-satellite terminal (TST), the computation offloading from IMDs to LEO satellites is divided into two stages in the ground and space segments. In order to minimize the weighted-sum energy consumption of IMDs, we decompose the formulated problem into two layered subproblems: 1) the lower layer subproblem minimizing the latency of space segment, which is solved by sequential fractional programming with attaining the first-order optimality and 2) the upper layer subproblem that is solved by exploiting the convex structure and applying the Lagrangian dual decomposition method. Based on the solutions to the two layered subproblems, an energy-efficient computation offloading and resource allocation algorithm (E-CORA) is proposed. By simulations, it is shown that: 1) there exists a specific amount of offloading bits, which can minimize the energy consumption of IMDs and the proposed E-CORA outperforms full offloading and local computing only; 2) larger transmit power of the TST helps to save the energy of IMDs; and 3) by increasing the number of visible satellites, the ratio of offloading bits increases while the energy consumption of IMDs can be decreased."
+  },
+  {
+   "paperId": "4c67463a12e3d8ac90919b37ba30f700650c793c",
+   "externalIds": {
+    "MAG": "3194292616",
+    "DBLP": "journals/tgcn/ZhuOD22",
+    "DOI": "10.1109/tgcn.2021.3100622",
+    "CorpusId": 238916646
+   },
+   "url": "https://www.semanticscholar.org/paper/4c67463a12e3d8ac90919b37ba30f700650c793c",
+   "title": "Green AI for IIoT: Energy Efficient Intelligent Edge Computing for Industrial Internet of Things",
+   "venue": "IEEE Transactions on Green Communications and Networking",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/tgcn.2021.3100622?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/tgcn.2021.3100622, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-03-01",
+   "authors": [
+    {
+     "authorId": "2109827136",
+     "name": "Shan Zhu"
+    },
+    {
+     "authorId": "144705313",
+     "name": "K. Ota"
+    },
+    {
+     "authorId": "1714082",
+     "name": "Mian-Xiong Dong"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI) technology is a huge opportunity for the Industrial Internet of Things (IIoT) in the fourth industrial revolution (Industry 4.0). However, most AI-driven applications need high-end servers to process complex AI tasks, bringing high energy consumption to IIoT environments. In this article, we introduce intelligent edge computing, emerging technology to reduce energy consumption in processing AI tasks, to build green AI computing for IIoT applications. We first propose an intelligent edge computing framework with a heterogeneous architecture to offload most AI tasks from servers. To enhance the energy efficiency of various computing resources, we propose a novel algorithm to optimize the scheduling for different AI tasks. In the performance evaluation, we build a small testbed to show the AI-driven IIoT applications’ energy efficiency with intelligent edge computing. Meanwhile, extensive simulation results show that the proposed online scheduling strategy consumes less than 80% energy of the static scheduling and 70% of the first-in, first-out (FIFO) strategy in most settings."
+  },
+  {
+   "paperId": "af33b80b129b77663e9f492fabeb8f649d53da9b",
+   "externalIds": {
+    "DBLP": "journals/fi/AlgarniE25",
+    "DOI": "10.3390/fi17010037",
+    "CorpusId": 275701545
+   },
+   "url": "https://www.semanticscholar.org/paper/af33b80b129b77663e9f492fabeb8f649d53da9b",
+   "title": "Energy-Efficient Distributed Edge Computing to Assist Dense Internet of Things",
+   "venue": "Future Internet",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/1999-5903/17/1/37/pdf?version=1736955527",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/fi17010037?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/fi17010037, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-15",
+   "authors": [
+    {
+     "authorId": "2557369019",
+     "name": "Sumaiah Algarni"
+    },
+    {
+     "authorId": "1403694220",
+     "name": "F. Abd el-Samie"
+    }
+   ],
+   "abstract": "The Internet of Things (IoT) represents a rapidly growing field, where billions of intelligent devices are interconnected through the Internet, enabling the seamless sharing of data and resources. These smart devices are typically employed to sense various environmental characteristics, including temperature, motion of objects, and occupancy, and transfer their values to the nearest access points for further analysis. The exponential growth in sensor availability and deployment, powered by recent advances in sensor fabrication, has greatly increased the complexity of IoT network architecture. As the market for these sensors grows, so does the problem of ensuring that IoT networks meet high requirements for network availability, dependability, flexibility, and scalability. Unlike traditional networks, IoT systems must be able to handle massive amounts of data generated by various and frequently-used resource-constrained devices, while ensuring efficient and dependable communication. This puts high constraints on the design of IoT, mainly in terms of the required network availability, reliability, flexibility, and scalability. To this end, this work considers deploying a recent technology of distributed edge computing to enable IoT applications over dense networks with the announced requirements. The proposed network depends on distributed edge computing at two levels: multiple access edge computing and fog computing. The proposed structure increases network scalability, availability, reliability, and scalability. The network model and the energy model of the distributed nodes are introduced. An energy-offloading method is considered to manage IoT data over the network energy, efficiently. The developed network was evaluated using a developed IoT testbed. Heterogeneous evaluation scenarios and metrics were considered. The proposed model achieved a higher energy efficiency by 19%, resource utilization by 54%, latency efficiency by 86%, and reduced network congestion by 92% compared to traditional IoT networks."
+  },
+  {
+   "paperId": "968a818482b8834509bb7f9ee23ea30ee6b04139",
+   "externalIds": {
+    "ArXiv": "2303.04644",
+    "DBLP": "journals/tii/TangZZZZH24",
+    "DOI": "10.1109/TII.2023.3256375",
+    "CorpusId": 257405231
+   },
+   "url": "https://www.semanticscholar.org/paper/968a818482b8834509bb7f9ee23ea30ee6b04139",
+   "title": "Robust Trajectory and Offloading for Energy-Efficient UAV Edge Computing in Industrial Internet of Things",
+   "venue": "IEEE Transactions on Industrial Informatics",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2303.04644",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2303.04644, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-03-08",
+   "authors": [
+    {
+     "authorId": "145683924",
+     "name": "Xiao Tang"
+    },
+    {
+     "authorId": "2309531634",
+     "name": "Hongrui Zhang"
+    },
+    {
+     "authorId": "1776980",
+     "name": "Ruonan Zhang"
+    },
+    {
+     "authorId": "2112224249",
+     "name": "Deyun Zhou"
+    },
+    {
+     "authorId": "39509574",
+     "name": "Yan Zhang"
+    },
+    {
+     "authorId": "2087171258",
+     "name": "Zhu Han"
+    }
+   ],
+   "abstract": "Efficient data processing and computation are essential for the Industrial Internet of Things (IIoT) to empower various applications, which can be significantly bottlenecked by the limited energy capacity and computation capability of the IIoT nodes. In this article, we employ an unmanned aerial vehicle (UAV) as an edge server to assist IIoT data processing, while considering the practical issue of UAV jittering. Specifically, we propose a joint design on trajectory and offloading strategies to minimize energy consumption due to local and edge computation, as well as data transmission. We particularly address UAV jittering that induces Gaussian-distributed uncertainties associated with flying waypoints, resulting in probabilistic-form flying speed and data offloading constraints. We exploit the Bernstein-type inequality to reformulate the constraints in deterministic forms and decompose the energy minimization to solve for trajectory and offloading separately within an alternating optimization framework. The subproblems are then tackled with the successive convex approximation technique. Simulation results show that our proposal strictly guarantees robustness under uncertainties and effectively reduces energy consumption as compared with the baselines."
+  },
+  {
+   "paperId": "d44f090deecb4a4cbc3bd66fa3cb41634e3da17c",
+   "externalIds": {
+    "DBLP": "journals/ijsir/ChenTZCYH24",
+    "DOI": "10.4018/ijsir.350221",
+    "CorpusId": 271791335
+   },
+   "url": "https://www.semanticscholar.org/paper/d44f090deecb4a4cbc3bd66fa3cb41634e3da17c",
+   "title": "Efficient Scheduling of Energy-Constrained Tasks in Internet of Things Edge Computing Networks",
+   "venue": "International Journal of Swarm Intelligence Research",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "http://dx.doi.org/10.4018/ijsir.350221",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4018/ijsir.350221?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4018/ijsir.350221, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-08-07",
+   "authors": [
+    {
+     "authorId": "2118435318",
+     "name": "Shaolei Chen"
+    },
+    {
+     "authorId": "2315812154",
+     "name": "Hanyuan Tang"
+    },
+    {
+     "authorId": "2316369214",
+     "name": "Min Zhao"
+    },
+    {
+     "authorId": "2204777139",
+     "name": "Yu Chen"
+    },
+    {
+     "authorId": "2150440235",
+     "name": "Xin Yang"
+    },
+    {
+     "authorId": "2315442291",
+     "name": "Kejue Hu"
+    }
+   ],
+   "abstract": "We offer task scheduling algorithms that are economical in terms of energy consumption for edge computing networks that are supported by the Internet of Things (IoT). The challenges of spectrum utilization and energy-efficient work scheduling that lead to novel design are not addressed in this study, despite the fact that it provides encouraging results for task offloading. There is a possibility that the larger homogeneous fog computing architecture will include all homogeneous nodes, in addition to additional spectrum for node-to-node and device-to-device communications and work scheduling. We create a fog computing architecture that is efficient in terms of energy consumption for edge computing networks that are supported by the Internet of Things. By utilizing this approach, user-device nodes are able to collaborate while simultaneously reaping the benefits of diverse computing and network resources. In addition to this, we provide a solution to the problem of task scheduling that maximizes energy efficiency across all of the help nodes."
+  },
+  {
+   "paperId": "84fd79a25b77a59f56448c076b18ef440d4469a5",
+   "externalIds": {
+    "DBLP": "journals/tgcn/ChenLLGY23",
+    "DOI": "10.1109/TGCN.2022.3205030",
+    "CorpusId": 252173425
+   },
+   "url": "https://www.semanticscholar.org/paper/84fd79a25b77a59f56448c076b18ef440d4469a5",
+   "title": "Multi-IRS Assisted Wireless-Powered Mobile Edge Computing for Internet of Things",
+   "venue": "IEEE Transactions on Green Communications and Networking",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TGCN.2022.3205030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TGCN.2022.3205030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-03-01",
+   "authors": [
+    {
+     "authorId": "2158171439",
+     "name": "Pengcheng Chen"
+    },
+    {
+     "authorId": "38809350",
+     "name": "Bin Lyu"
+    },
+    {
+     "authorId": "2157171812",
+     "name": "Yan Liu"
+    },
+    {
+     "authorId": "2660750",
+     "name": "Hai-Yan Guo"
+    },
+    {
+     "authorId": "145661017",
+     "name": "Zhen Yang"
+    }
+   ],
+   "abstract": "This paper proposes a multiple intelligent reflecting surfaces (IRSs) assisted wireless-powered mobile edge computing (MEC) system, where the IRSs are deployed to assist both the downlink wireless power transfer (WPT) from the multi-antenna hybrid access point (HAP) to the wireless devices (WDs) and the uplink computation offloading from the WDs to the MEC server. To further improve the system performance, the energy beamforming and multiple-user detection (MUD) technologies are exploited. We consider both partial and binary offloading schemes and formulate the sum computation rate (SCR) maximization problems for them, respectively. To tackle the non-convexity of each problem, we propose an efficient alternating optimization (AO) method. Specifically, the Lagrange duality method is used to optimize the energy beamforming vector and the MUD matrix at the HAP, and the CPU frequencies and transmit power of the WDs. Then, we optimize the discrete phase shifts via the successive convex appropriation (SCA) method, the rank-one equivalents, and rounding method. Finally, the optimal time scheduling can be obtained via the one-dimensional search method. In addition, we propose a greedy algorithm with low complexity to optimize the computing modes for the binary offloading scheme. Numerical results show that our proposed schemes outperform the benchmarks."
+  },
+  {
+   "paperId": "6defe514e55f8e0392e3cebbd9fa3cddf17c180e",
+   "externalIds": {
+    "MAG": "2968086393",
+    "DBLP": "journals/wias/LeppanenR19",
+    "DOI": "10.3233/WEB-190414",
+    "CorpusId": 13939006
+   },
+   "url": "https://www.semanticscholar.org/paper/6defe514e55f8e0392e3cebbd9fa3cddf17c180e",
+   "title": "Energy efficient opportunistic edge computing for the Internet of Things",
+   "venue": "International Conference on Wirtschaftsinformatik",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://oulurepo.oulu.fi/bitstream/10024/24844/1/nbnfi-fe2019082225157.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3233/WEB-190414?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/WEB-190414, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-08-16",
+   "authors": [
+    {
+     "authorId": "35202419",
+     "name": "Teemu Leppänen"
+    },
+    {
+     "authorId": "1745217",
+     "name": "J. Riekki"
+    }
+   ],
+   "abstract": "Edge computing in Internet of Things enhances application execution by retrieving cloud resources to the close proximity of resource-constrained end devices at the edge and by enabling task offloading from these devices to the edge. In this paper, edge computing platforms are extended into the data producing end devices, including wireless sensor network nodes and smartphones, with mobile agents. Mobile agents operate, as a multi-agent system, on the opportunistic network of heterogeneous end devices. The benefits include autonomous, asynchronous and adaptive execution and relocation of application-specific computational tasks, while taking into account the local resource availability. In addition to the vertical edge connectivity, mobile agents enable horizontal sharing of information between these devices. Use cases are presented where mobile agents address challenges in current edge computing platforms. An edge application is evaluated where mobile agents as a multi-agent system process sensor data in a heterogeneous set of end devices, control the operation of the devices and share their tasks results in the system. The mobile agents operate atop a REST-compliant software agent framework that relies on embedded Web services for interoperability. A real-world evaluation and large-scale simulations show that energy consumption is reduced significantly, up to 60%, in the edge application execution."
+  },
+  {
+   "paperId": "edcc62bcd689799a46234aff32a9f9ae5534ba65",
+   "externalIds": {
+    "DBLP": "journals/ejwcn/FuYYWSWQ21",
+    "DOI": "10.1186/s13638-021-01905-7",
+    "CorpusId": 231877185
+   },
+   "url": "https://www.semanticscholar.org/paper/edcc62bcd689799a46234aff32a9f9ae5534ba65",
+   "title": "Energy-efficient offloading and resource allocation for mobile edge computing enabled mission-critical internet-of-things systems",
+   "venue": "EURASIP Journal on Wireless Communications and Networking",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-021-01905-7",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s13638-021-01905-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s13638-021-01905-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-11-12",
+   "authors": [
+    {
+     "authorId": "40497879",
+     "name": "Yaru Fu"
+    },
+    {
+     "authorId": "2112090565",
+     "name": "Xiaolong Yang"
+    },
+    {
+     "authorId": "1409667092",
+     "name": "Peng Yang"
+    },
+    {
+     "authorId": "34248646",
+     "name": "A. Wong"
+    },
+    {
+     "authorId": "2110396526",
+     "name": "Zheng Shi"
+    },
+    {
+     "authorId": "48016237",
+     "name": "Hong Wang"
+    },
+    {
+     "authorId": "1718541",
+     "name": "T. Quek"
+    }
+   ],
+   "abstract": "The energy cost minimization for mission-critical internet-of-things (IoT) in mobile edge computing (MEC) system is investigated in this work. Therein, short data packets are transmitted between the IoT devices and the access points (APs) to reduce transmission latency and prolong the battery life of the IoT devices. The effects of short-packet transmission on the radio resource allocation is explicitly revealed. We mathematically formulate the energy cost minimization problem as a mixed-integer non-linear programming (MINLP) problem, which is difficult to solve in an optimal way. More specifically, the difficulty is essentially derived from the coupling of the binary offloading variables and the resource management among all the IoT devices. For analytical tractability, we decouple the mixed-integer and non-convex optimization problem into two sub-problems, namely, the task offloading decision-making and the resource optimization problems, respectively. It is proved that the resource allocation problem for IoT devices under the fixed offloading strategy is convex. On this basis, an iterative algorithm is designed, whose performance is comparable to the best solution for exhaustive search, and aims to jointly optimize the offloading strategy and resource allocation. Simulation results verify the convergence performance and energy-saving function of the designed joint optimization algorithm. Compared with the extensive baselines under comprehensive parameter settings, the algorithm has better energy-saving effects."
+  },
+  {
+   "paperId": "5e418efe9c47aeeac00d1386d4af45ab09527754",
+   "externalIds": {
+    "DOI": "10.1002/aelm.202300904",
+    "CorpusId": 269711895
+   },
+   "url": "https://www.semanticscholar.org/paper/5e418efe9c47aeeac00d1386d4af45ab09527754",
+   "title": "Ultra‐Low Power and Reliable Dynamic Memtransistor Based on Charge Storage Junction FET with Step‐Wise Potential Barrier for Energy‐Efficient Edge Computing Framework",
+   "venue": "Advanced Electronic Materials",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aelm.202300904",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/aelm.202300904?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/aelm.202300904, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-08",
+   "authors": [
+    {
+     "authorId": "2169924921",
+     "name": "Tae-Woan Park"
+    },
+    {
+     "authorId": "2151233898",
+     "name": "Seokho Seo"
+    },
+    {
+     "authorId": "2248454838",
+     "name": "Yujin Kim"
+    },
+    {
+     "authorId": "2150802568",
+     "name": "See‐On Park"
+    },
+    {
+     "authorId": "2462711364",
+     "name": "Soobin Choi"
+    },
+    {
+     "authorId": "2280577473",
+     "name": "Seokman Hong"
+    },
+    {
+     "authorId": "2136397314",
+     "name": "Hakcheon Jeong"
+    },
+    {
+     "authorId": "3350617",
+     "name": "Shinhyun Choi"
+    }
+   ],
+   "abstract": "The emergence of technologies such as Artificial Intelligence (AI) and the Internet of Things (IoT) has ushered in the era of big data. The demand for low‐power hardware systems and efficient algorithms has become more imperative. In this study, an ultra‐low‐power dynamic memtransistor based on the charge storage junction Field‐Effect Transistor (FET) with a step‐wise potential barrier is developed. A simple yet efficient device structure allows for analog programming and spontaneous relaxation. The device demonstrated fast speed (tens of nanoseconds (ns)) and low current (in picoamperes (pA)), resulting in ultra‐low programming power (in attojoules (aJ)). Furthermore, the device exhibited high reliability, with a 0.4% cycle‐to‐cycle variation and endurance over 107 pulses, owing to its non‐structural destructive operation process. An operation scheme is developed that enables read on/off and program/inhibition mode for 2T (1 memtransistor‐1 selecting transistor) array. The capability to distinguish temporal data using the device's spontaneous relaxation characteristics is demonstrated. A reservoir computing (RC) system framework is constructed using simulation and verified that the dynamic memtransistor can extract features efficiently from a hand‐written digit dataset. It is anticipated that the developed dynamic memtransistor, with its distinctive temporal characteristics, will play a pivotal role in developing a novel low‐power computing framework."
+  },
+  {
+   "paperId": "b5bdd4f3e3da6fa7d1afee7fb105cba0ce1ad630",
+   "externalIds": {
+    "DBLP": "journals/tgcn/IrtijaAZTAH22",
+    "DOI": "10.1109/tgcn.2021.3122911",
+    "CorpusId": 240054990
+   },
+   "url": "https://www.semanticscholar.org/paper/b5bdd4f3e3da6fa7d1afee7fb105cba0ce1ad630",
+   "title": "Energy Efficient Edge Computing Enabled by Satisfaction Games and Approximate Computing",
+   "venue": "IEEE Transactions on Green Communications and Networking",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/tgcn.2021.3122911",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/tgcn.2021.3122911?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/tgcn.2021.3122911, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-03-01",
+   "authors": [
+    {
+     "authorId": "147675174",
+     "name": "Nafis Irtija"
+    },
+    {
+     "authorId": "145614289",
+     "name": "Iraklis Anagnostopoulos"
+    },
+    {
+     "authorId": "50481255",
+     "name": "Georgios Zervakis"
+    },
+    {
+     "authorId": "2688709",
+     "name": "E. Tsiropoulou"
+    },
+    {
+     "authorId": "1894736",
+     "name": "H. Amrouch"
+    },
+    {
+     "authorId": "144271439",
+     "name": "J. Henkel"
+    }
+   ],
+   "abstract": "In this paper, we introduce an energy efficient edge computing solution to collaboratively utilize Multi-access Edge Computing (MEC) and Fully Autonomous Aerial Systems (FAAS) to support the computing demands of the Internet of Things (IoT) nodes residing in Areas of Interest (AoIs) and executing machine learning tasks. The Satisfaction Games are adopted to determine whether the nodes’ optimal partial task should be offloaded to the MEC server or to a hovering FAAS above the AoI. The decision is taken by considering IoT nodes’ latency, energy consumption, and acceptable level of Deep Neural Network (DNN) inference accuracy drop constraints. We exploit the error resilience of DNNs and we enhance the FAAS with a heterogeneous approximate DNN accelerator that supports different computational precision and throughput, thus allowing to intelligently adapt to different computing demands. A reinforcement learning-based technique is introduced to enable the FAAS to autonomously optimize its trajectory, aiming at increasing the IoT nodes’ satisfaction of their computing demands, while accounting for its flying and data processing energy cost. Our experimental results show the benefits of FAAS, MEC, and approximate computing in terms of increasing the number of satisfied users by 40% under a maximum accuracy drop of only 1%."
+  },
+  {
+   "paperId": "f77e1e1245cf4176f6768aed408fedfacabb69b0",
+   "externalIds": {
+    "DBLP": "journals/jcloudc/UmarYAMKHH25",
+    "DOI": "10.1186/s13677-025-00762-9",
+    "CorpusId": 279833550
+   },
+   "url": "https://www.semanticscholar.org/paper/f77e1e1245cf4176f6768aed408fedfacabb69b0",
+   "title": "Energy-efficient deep learning-based intrusion detection system for edge computing: a novel DNN-KDQ model",
+   "venue": "Journal of Cloud Computing",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journalofcloudcomputing.springeropen.com/counter/pdf/10.1186/s13677-025-00762-9",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s13677-025-00762-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s13677-025-00762-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-01",
+   "authors": [
+    {
+     "authorId": "145630400",
+     "name": "Hafiz Gulfam Ahmad Umar"
+    },
+    {
+     "authorId": "2421845951",
+     "name": "Iqra Yasmeen"
+    },
+    {
+     "authorId": "2325296745",
+     "name": "Muhammad Aoun"
+    },
+    {
+     "authorId": "2186565854",
+     "name": "Tehseen Mazhar"
+    },
+    {
+     "authorId": "2281642916",
+     "name": "Muhammad Amir Khan"
+    },
+    {
+     "authorId": "2354881818",
+     "name": "Ines Hilali Jaghdam"
+    },
+    {
+     "authorId": "2134484178",
+     "name": "H. Hamam"
+    }
+   ],
+   "abstract": "The proliferation of the Internet of Things (IoT) and edge computing technologies has expanded the attack surface for cybercriminals, emphasizing the need for robust and efficient cybersecurity measures. Intrusion detection systems (IDS) are essential defenses; however, deploying traditional IDS solutions on edge devices remains challenging due to limited computational, memory, and energy resources. This research proposes an energy-efficient IDS framework based on a modified Deep Neural Network with Knowledge Distillation and Quantization (DNN-KDQ) to address these challenges. The CICIDS2017 dataset was preprocessed to extract energy-centric features, and adaptive sampling and model compression techniques were applied to optimize performance. The proposed DNN-KDQ model achieves a prediction test accuracy of 99.43%, reduces model size from 196.77 KB to 20.18 KB, and achieves an inference time of 0.07 ms per sample in real-time scenarios. These results demonstrate the feasibility of deploying high-accuracy, low-latency IDS models on resource-constrained edge devices, contributing to more scalable and energy-efficient cybersecurity solutions for modern network infrastructures."
+  },
+  {
+   "paperId": "640384e3883706c3176fee02dad9382ebef9f6f4",
+   "externalIds": {
+    "PubMedCentral": "12644854",
+    "DOI": "10.1038/s41598-025-25666-1",
+    "CorpusId": 283227966,
+    "PubMed": "41286289"
+   },
+   "url": "https://www.semanticscholar.org/paper/640384e3883706c3176fee02dad9382ebef9f6f4",
+   "title": "Reinforcement learning based multi objective task scheduling for energy efficient and cost effective cloud edge computing",
+   "venue": "Scientific Reports",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-025-25666-1.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12644854, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-11-24",
+   "authors": [
+    {
+     "authorId": "2394015349",
+     "name": "Wen-Fan Zhang"
+    },
+    {
+     "authorId": "2551516801",
+     "name": "Hai-Jiao Ou"
+    }
+   ],
+   "abstract": "The rapid proliferation of Internet of Things (IoT) devices and latency-sensitive applications has amplified the need for efficient task scheduling in hybrid cloud-edge environments. Traditional heuristic and metaheuristic algorithms often fall short in addressing the dynamic nature of workloads and the conflicting objectives of performance, energy efficiency, and cost-effectiveness. To overcome these challenges, this study introduces Reinforcement Learning-Based Multi-Objective Task Scheduling (RL-MOTS), a framework leveraging Deep Q-Networks (DQNs) for intelligent and adaptive resource allocation. The proposed model formulates scheduling as a Markov Decision Process, incorporating a priority-aware dynamic queueing mechanism and a multi-objective reward function that balances task latency, energy consumption, and operational costs. Additionally, the framework employs a state-reward tensor to capture trade-offs among objectives, enabling real-time decision-making across heterogeneous cloud and edge nodes. Comprehensive simulations using CloudSim validate the robustness of RL-MOTS under varying workload conditions. Compared to baseline strategies such as FCFS, Min-Min, and multi-objective heuristic models, RL-MOTS achieves up to 28% reduction in energy consumption, 20% improvement in cost efficiency, and significant reductions in makespan and deadline violations, while maintaining strict Quality of Service (QoS) requirements. The framework’s adaptability to preemptive and non-preemptive scheduling further enhances its resilience and scalability. These findings establish RL-MOTS as a forward-looking solution for sustainable, cost-efficient, and performance-oriented computing in next-generation distributed systems. Future research will focus on integrating transfer learning and federated learning to increase scalability and privacy in large, decentralized environments, including those applicable to the medical industry."
+  },
+  {
+   "paperId": "b8e9099a28ab93e18765c68690890b184813ff91",
+   "externalIds": {
+    "DBLP": "journals/jcloudc/YouT21",
+    "DOI": "10.1186/s13677-021-00256-4",
+    "CorpusId": 236483504
+   },
+   "url": "https://www.semanticscholar.org/paper/b8e9099a28ab93e18765c68690890b184813ff91",
+   "title": "Efficient task offloading using particle swarm optimization algorithm in edge computing for industrial internet of things",
+   "venue": "Journal of Cloud Computing",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://journalofcloudcomputing.springeropen.com/counter/pdf/10.1186/s13677-021-00256-4",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s13677-021-00256-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s13677-021-00256-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-07-28",
+   "authors": [
+    {
+     "authorId": "2248238394",
+     "name": "Qian You"
+    },
+    {
+     "authorId": "145455841",
+     "name": "B. Tang"
+    }
+   ],
+   "abstract": "As a new form of computing based on the core technology of cloud computing and built on edge infrastructure, edge computing can handle computing-intensive and delay-sensitive tasks. In mobile edge computing (MEC) assisted by 5G technology, offloading computing tasks of edge devices to the edge servers in edge network can effectively reduce delay. Designing a reasonable task offloading strategy in a resource-constrained multi-user and multi-MEC system to meet users’ needs is a challenge issue. In industrial internet of things (IIoT) environment, considering the rapid increase of industrial edge devices and the heterogenous edge servers, a particle swarm optimization (PSO)-based task offloading strategy is proposed to offload tasks from resource-constrained edge devices to edge servers with energy efficiency and low delay style. A multi-objective optimization problem that considers time delay, energy consumption and task execution cost is proposed. The fitness function of the particle represents the total cost of offloading all tasks to different MEC servers. The offloading strategy based on PSO is compared with the genetic algorithm (GA) and the simulated annealing algorithm (SA) through simulation experiments. The experimental results show that the task offloading strategy based on PSO can reduce the delay of the MEC server, balance the energy consumption of the MEC server, and effectively realize the reasonable resource allocation."
+  },
+  {
+   "paperId": "4ff2e6016ee9754e9914dedf85708fcc7c90dcac",
+   "externalIds": {
+    "ArXiv": "2512.04093",
+    "DBLP": "journals/corr/abs-2512-04093",
+    "DOI": "10.1145/3797911",
+    "CorpusId": 283557679
+   },
+   "url": "https://www.semanticscholar.org/paper/4ff2e6016ee9754e9914dedf85708fcc7c90dcac",
+   "title": "Energy-Efficient Resource Management in Microservices-Based Fog and Edge Computing: State-of-the-Art and Future Directions",
+   "venue": "ACM Computing Surveys",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1145/3797911",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2512.04093, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-11-18",
+   "authors": [
+    {
+     "authorId": "2303531936",
+     "name": "Ali Akbar Vali"
+    },
+    {
+     "authorId": "3094385",
+     "name": "S. Azizi"
+    },
+    {
+     "authorId": "1758930",
+     "name": "M. Shojafar"
+    },
+    {
+     "authorId": "1709598",
+     "name": "R. Buyya"
+    }
+   ],
+   "abstract": "The exponential growth of Internet of Things (IoT) devices has intensified the demand for efficient and responsive services. To address this demand, fog and edge computing have emerged as distributed paradigms that bring computational resources closer to end users, reducing latency, bandwidth limitations, and energy consumption. However, these paradigms present challenges in resource management due to resource constraints, computational heterogeneity, dynamic workloads, and diverse Quality of Service (QoS) requirements. This article presents a comprehensive survey of state-of-the-art resource management strategies in microservices-based fog and edge computing, focusing on energy-efficient solutions. We systematically review and classify over 136 studies (2020–2024) into five key subdomains: service placement, resource provisioning, task scheduling and offloading, resource allocation, and instance selection. Our categorization is based on optimization techniques, targeted objectives, and the strengths and limitations of each approach. Additionally, we examine existing surveys, identifying unresolved challenges and gaps in the literature. By highlighting the lack of synergy among fundamental resource management components, we outline promising research directions leveraging AI-driven optimization, quantum computing, and serverless computing. This survey serves as a comprehensive reference for researchers and practitioners, providing a unified, energy-aware perspective on resource management in microservices-based fog and edge computing, and paving the way for more integrated, efficient, and sustainable future solutions."
+  },
+  {
+   "paperId": "6aa1d0f1408c1af38d72bd21b703cafb3d59986b",
+   "externalIds": {
+    "MAG": "3134811048",
+    "DBLP": "journals/twc/GuptaD21",
+    "DOI": "10.1109/TWC.2021.3062568",
+    "CorpusId": 233824364
+   },
+   "url": "https://www.semanticscholar.org/paper/6aa1d0f1408c1af38d72bd21b703cafb3d59986b",
+   "title": "An Energy-Efficient Edge Computing Framework for Decentralized Sensing in WSN-Assisted IoT",
+   "venue": "IEEE Transactions on Wireless Communications",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TWC.2021.3062568?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TWC.2021.3062568, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-03-05",
+   "authors": [
+    {
+     "authorId": "2110652695",
+     "name": "Vini Gupta"
+    },
+    {
+     "authorId": "145977989",
+     "name": "S. De"
+    }
+   ],
+   "abstract": "This paper addresses the problem of decentralized sensor selection in an energy-constrained wireless sensor network-based Internet-of-Things, for monitoring a spatio-temporally varying process. To do so, an adaptive edge computing framework and its variants are proposed which distributedly optimize a critical trade-off between sensing quality and remaining energy of the sensor nodes (SNs). Unlike the existing distributed sensing approaches, the proposed one aims to maintain energy balance among the SNs. The original sensor selection problem is decoupled into multiple sub-problems, each solvable at an edge node elected as head of a coverage region containing a set of SNs. The sub-problem in each coverage region is adapted to variations of the underlying process. In each region, the process is estimated using PCA-SBL (principal component analysis-sparse Bayesian learning) on noisy signal measured by the respective active SNs. Further, to correctly adapt to the process and estimate the signal, a novel logic is designed that indicates requirement of network retraining in the next measurement cycle. The results from extensive simulation studies illustrate improved energy efficiency and network energy balance of the proposed framework over the existing closest competitive centralized and decentralized approaches. The proposed framework is tested on synthetic as well as real data-sets of a sensor network."
+  },
+  {
+   "paperId": "c9e8874c603c6f82011a10907318eeba9c8b3274",
+   "externalIds": {
+    "DBLP": "journals/sensors/AlatounMMNMZ22",
+    "PubMedCentral": "9319030",
+    "DOI": "10.3390/s22145327",
+    "CorpusId": 250659777,
+    "PubMed": "35891007"
+   },
+   "url": "https://www.semanticscholar.org/paper/c9e8874c603c6f82011a10907318eeba9c8b3274",
+   "title": "A Novel Low-Latency and Energy-Efficient Task Scheduling Framework for Internet of Medical Things in an Edge Fog Cloud System",
+   "venue": "Italian National Conference on Sensors",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/1424-8220/22/14/5327/pdf?version=1658294844",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9319030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-07-01",
+   "authors": [
+    {
+     "authorId": "2051646140",
+     "name": "Kholoud Alatoun"
+    },
+    {
+     "authorId": "2357791",
+     "name": "Khaled M. Matrouk"
+    },
+    {
+     "authorId": "2144094573",
+     "name": "M. A. Mohammed"
+    },
+    {
+     "authorId": "34950359",
+     "name": "J. Nedoma"
+    },
+    {
+     "authorId": "3124239",
+     "name": "R. Martínek"
+    },
+    {
+     "authorId": "2122910799",
+     "name": "Petr Žmij"
+    }
+   ],
+   "abstract": "In healthcare, there are rapid emergency response systems that necessitate real-time actions where speed and efficiency are critical; this may suffer as a result of cloud latency because of the delay caused by the cloud. Therefore, fog computing is utilized in real-time healthcare applications. There are still limitations in response time, latency, and energy consumption. Thus, a proper fog computing architecture and good task scheduling algorithms should be developed to minimize these limitations. In this study, an Energy-Efficient Internet of Medical Things to Fog Interoperability of Task Scheduling (EEIoMT) framework is proposed. This framework schedules tasks in an efficient way by ensuring that critical tasks are executed in the shortest possible time within their deadline while balancing energy consumption when processing other tasks. In our architecture, Electrocardiogram (ECG) sensors are used to monitor heart health at home in a smart city. ECG sensors send the sensed data continuously to the ESP32 microcontroller through Bluetooth (BLE) for analysis. ESP32 is also linked to the fog scheduler via Wi-Fi to send the results data of the analysis (tasks). The appropriate fog node is carefully selected to execute the task by giving each node a special weight, which is formulated on the basis of the expected amount of energy consumed and latency in executing this task and choosing the node with the lowest weight. Simulations were performed in iFogSim2. The simulation outcomes show that the suggested framework has a superior performance in reducing the usage of energy, latency, and network utilization when weighed against CHTM, LBS, and FNPA models."
+  },
+  {
+   "paperId": "5027534def7bd2f6c3d4c2730b992b7399cb2d52",
+   "externalIds": {
+    "DOI": "10.3390/app14188558",
+    "CorpusId": 272909251
+   },
+   "url": "https://www.semanticscholar.org/paper/5027534def7bd2f6c3d4c2730b992b7399cb2d52",
+   "title": "Energy-Efficient Industrial Internet of Things in Green 6G Networks",
+   "venue": "Applied Sciences",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/app14188558",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app14188558?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app14188558, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-09-23",
+   "authors": [
+    {
+     "authorId": "2240032887",
+     "name": "Xavier N. Fernando"
+    },
+    {
+     "authorId": "2073665008",
+     "name": "George Lăzăroiu"
+    }
+   ],
+   "abstract": "The research problem of this systematic review was whether green 6G networks can integrate energy-efficient Industrial Internet of Things (IIoT) in terms of distributed artificial intelligence, green 6G pervasive edge computing communication networks and big-data-based intelligent decision algorithms. We show that sensor data fusion can be carried out in energy-efficient IoT smart industrial urban environments by cooperative perception and inference tasks. Our analyses debate on 6G wireless communication, vehicular IoT intelligent and autonomous networks, and energy-efficient algorithm and green computing technologies in smart industrial equipment and manufacturing environments. Mobile edge and cloud computing task processing capabilities of decentralized network control and power grid system monitoring were thereby analyzed. Our results and contributions clarify that sustainable energy efficiency and green power generation together with IoT decision support and smart environmental systems operate efficiently in distributed artificial intelligence 6G pervasive edge computing communication networks. PRISMA was used, and with its web-based Shiny app flow design, the search outcomes and screening procedures were integrated. A quantitative literature review was performed in July 2024 on original and review research published between 2019 and 2024. Study screening, evidence map visualization, and data extraction and reporting tools, machine learning classifiers, and reference management software were harnessed for qualitative and quantitative data, collection, management, and analysis in research synthesis. Dimensions and VOSviewer were deployed for data visualization and analysis."
+  },
+  {
+   "paperId": "7525b116085dae119d1fca5697037b914b5cb809",
+   "externalIds": {
+    "DBLP": "journals/cluster/AlZubiKEKT25",
+    "DOI": "10.1007/s10586-025-05263-7",
+    "CorpusId": 278181970
+   },
+   "url": "https://www.semanticscholar.org/paper/7525b116085dae119d1fca5697037b914b5cb809",
+   "title": "Energy-efficient edge deployment of generative AI models using federated learning",
+   "venue": "Cluster Computing",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10586-025-05263-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10586-025-05263-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-28",
+   "authors": [
+    {
+     "authorId": "2264463761",
+     "name": "Shadi Alzu'bi"
+    },
+    {
+     "authorId": "121047327",
+     "name": "T. Kanan"
+    },
+    {
+     "authorId": "80396506",
+     "name": "Mohammed W. Elbes"
+    },
+    {
+     "authorId": "2387032",
+     "name": "G. Kanaan"
+    },
+    {
+     "authorId": "97980059",
+     "name": "Issam Trrad"
+    }
+   ],
+   "abstract": null
+  }
+ ]
+}

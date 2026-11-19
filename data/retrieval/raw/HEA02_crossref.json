@@ -1,0 +1,776 @@
+{
+ "query": "Dengue prevention and vector control",
+ "retrieved_at": "2026-11-18T18:07:50.874669+00:00",
+ "data": [
+  {
+   "DOI": "10.35802/075930",
+   "publisher": "Wellcome",
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "grant",
+   "URL": "https://doi.org/10.35802/075930"
+  },
+  {
+   "DOI": "10.1603/ice.2016.93070",
+   "title": [
+    "Integrating vaccines and vector control for dengue prevention"
+   ],
+   "container-title": [
+    "2016 International Congress of Entomology"
+   ],
+   "publisher": "Entomological Society of America",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1603/ice.2016.93070",
+   "author": [
+    {
+     "given": "Thomas W.",
+     "family": "Scott",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.15373/22501991/august2014/18",
+   "title": [
+    "On Dengue Prevention Activities of Kmc During 2013"
+   ],
+   "container-title": [
+    "Paripex - Indian Journal Of Research"
+   ],
+   "publisher": "World Wide Journals",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      1,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.15373/22501991/august2014/18",
+   "author": [
+    {
+     "name": "Chief Vector Control Officer, Vector Control Department, Kolkata Municipal Corporation, 149, Acharya Jagadish Chandra Bose Road, Kolkata-700014",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "DR. DEBASHIS",
+     "family": "BISWAS",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1021/bk-2009-1014.ch004",
+   "title": [
+    "Vector Control for Prevention of Dengue"
+   ],
+   "container-title": [
+    "ACS Symposium Series",
+    "Advances in Human Vector Control"
+   ],
+   "publisher": "American Chemical Society",
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      12,
+      11
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1021/bk-2009-1014.ch004",
+   "author": [
+    {
+     "given": "Tessa B.",
+     "family": "Knox",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Entomology, University of California, Davis, CA 95616"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thomas W.",
+     "family": "Scott",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Entomology, University of California, Davis, CA 95616"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21236/ada240379",
+   "title": [
+    "Dengue: Vector Biology, Transmission and Control Options in Mexico (El Dengue: Binomia Del Vector, Transmision y Opciones Para su Control en Mexico)"
+   ],
+   "publisher": "Defense Technical Information Center",
+   "issued": {
+    "date-parts": [
+     [
+      1990,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.21236/ada240379",
+   "author": [
+    {
+     "given": "Filiberto",
+     "family": "Reyes-Villanueva",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/s40274-017-4288-x",
+   "title": [
+    "Vector control cost effective for dengue prevention"
+   ],
+   "container-title": [
+    "PharmacoEconomics &amp; Outcomes News"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s40274-017-4288-x"
+  },
+  {
+   "DOI": "10.1079/9781845939649.0519",
+   "title": [
+    "Dengue vector control: new approaches."
+   ],
+   "container-title": [
+    "Dengue and dengue hemorrhagic fever"
+   ],
+   "publisher": "CABI",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1079/9781845939649.0519",
+   "author": [
+    {
+     "given": "D. M.",
+     "family": "Brown",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of California\r            2230 McGaugh Hall\r            Irvine\r            CA 92697-3900\r            USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A. A.",
+     "family": "James",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-90-481-2458-9_10",
+   "title": [
+    "Longitudinal Field Studies Will Guide a Paradigm Shift in Dengue Prevention"
+   ],
+   "container-title": [
+    "Vector Biology, Ecology and Control"
+   ],
+   "publisher": "Springer Netherlands",
+   "issued": {
+    "date-parts": [
+     [
+      2010
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-90-481-2458-9_10",
+   "author": [
+    {
+     "given": "Thomas W.",
+     "family": "Scott",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Amy C.",
+     "family": "Morrison",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1036/1097-8542.br0307142",
+   "title": [
+    "Prevention and control of dengue fever outbreaks"
+   ],
+   "container-title": [
+    "AccessScience"
+   ],
+   "publisher": "McGraw-Hill Professional",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1036/1097-8542.br0307142"
+  },
+  {
+   "publisher": "European Society of Medicine",
+   "abstract": "<jats:p>Abstract Dengue fever is a global health threat driven by climate change, rapid urbanization, and the expanding distribution of Aedes mosquitoes. With an estimated 100 - 400million infections annually. Dengue poses significant challenges for clinical management and public health preparedness because of the need to act on the four viral serotypes causing the infection Emphasis is placed on vector control strategies and the development and licensing of dengue vaccines, including Dengvaxia (CYD-TDV) and Qdenga (TAK-003), with analysis of their design, mechanisms, safety profiles, and serostatus-dependent performance highlighting the immunological and operational challenges that continue to complicate dengue vaccination. The review outlines the future priorities, such as next-generation vaccine development, improved surveillance systems, and scalable vector-control innovations, underscoring the need for integrated, evidence-based strategies to reduce dengue transmission and the global disease burden.</jats:p>",
+   "DOI": "10.18103/mra.v14i4.7446",
+   "type": "journal-article",
+   "title": [
+    "Integrated Approaches to Dengue Prevention: Vector Control and Vaccine Performance, , and Future Directions"
+   ],
+   "author": [
+    {
+     "given": "EDUARDO",
+     "family": "A FERNANDEZ C",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Brock University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maryam",
+     "family": "Mudassar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Brock University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Medical Research Archives"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      30
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.18103/mra.v14i4.7446"
+  },
+  {
+   "publisher": "Oriente-Manabí Editorial",
+   "abstract": "<jats:p>Dengue is a viral disease transmitted by Aedes aegypti, constituting a major public health problem in Latin America due to its high epidemiological burden accompanied by factors that favor its proliferation. The objective of this systematic review was to analyze the epidemiology and prevention of dengue and the control of breeding sites in endemic communities. The results showed a wide circulation of the serotypes DENV-1, DENV-2, DENV-3 and DENV-4, with a predominance of dengue without warning signs with prevalence’s greater than 90%. Among the main factors associated with the proliferation of the vector were climatic conditions, unplanned urbanization, accumulation of water containers, inadequate water storage, deficiencies in sanitation, and low levels of health education. Regarding preventive strategies, integrated interventions proved most effective in reducing cases, particularly targeted indoor residual spraying, epidemiological surveillance, and community participation, complemented by environmental management in communities through the control of breeding sites. It is concluded that dengue prevention requires sustainable vector control programs that integrate surveillance, biotechnological innovation, and community participation to reduce disease transmission in endemic areas.</jats:p>",
+   "DOI": "10.63618/omd/isj/v4/n4/433",
+   "type": "journal-article",
+   "title": [
+    "Epidemiología y prevención del dengue mediante el control de criaderos del vector en comunidades endémicas en América Latina.",
+    "Epidemiology and prevention of dengue through vector breeding site control in endemic communities in Latin America."
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0003-8101-1157",
+     "authenticated-orcid": false,
+     "given": "Eva Patricia",
+     "family": "Montalvo-Flores",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0005-9527-1229",
+     "authenticated-orcid": false,
+     "given": "Steffi Gabriela",
+     "family": "Haro-Quijije",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0002-5761-3089",
+     "authenticated-orcid": false,
+     "given": "Renny Elian",
+     "family": "Pujupat-Choez",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2985-1493",
+     "authenticated-orcid": false,
+     "given": "Jairo Geovanny",
+     "family": "Cañarte-Quimis",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Innova Science Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      31
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.63618/omd/isj/v4/n4/433"
+  },
+  {
+   "publisher": "Open Book Publishers",
+   "abstract": "<jats:p>Vector control is implemented in several situations: to eliminate a dengue vector species that has invaded a new area and prevent its spread; to contain an ATV that may spread following its introduction to an area (through travel, for example); to prevent outbreaks in regions where dengue vectors are already established; and to manage impending or declared dengue epidemics.</jats:p>\n                  <jats:p>Effective vector control requires an integrated vector management programme. This programme trains vector control personnel, implements vector control activities, maintains and analyses data, produces reports, and is responsible for the efficacy of these activities. It also coordinates inter-governmental and agency collaboration, maintains liaisons with nongovernmental organizations, recommends policies and legislation, and develops educational materials for the public.</jats:p>\n                  <jats:p>The programme should be directed by a doctoral-level professional or somebody with equivalent experience (entomologist/biologist/ecologist), with the capacity to manage all aspects of the programme whilst supported by a high-level administrator. The programme should have doctoral and master-level personnel responsible for training control personnel, supervising control activities in the field, and conducting operational research and evaluation activities, such as testing novel vector control tools. Field personnel (supervisors, inspectors) to carry out vector surveillance and control should be based within the regions (districts, municipalities). Other key personnel include health educators to develop educational and training materials for vector control professionals and the public/communities, promote community participation in vector control activities, maintain intra- and inter-agency collaboration and coordination, and interact with the press.</jats:p>\n                  <jats:p>This chapter details strategies for effective dengue vector control. Success depends on the quality of the control agent, efficiency of the delivery system, coverage, and impact evaluation, considering the resilience of Aedes mosquitoes.</jats:p>\n                  <jats:p>Pre-adult control targets aquatic habitats, where immature mosquitoes develop, through environmental management (eliminating containers) and larvicides (bio-rational options like Bti and Spinosad, insect growth regulators, and monomolecular films). Biological control uses aquatic predators. In order to evaluate the success of pre-adult control, both immature and adult populations should be monitored.</jats:p>\n                  <jats:p>Adult control involves chemical methods like residual insecticide spraying (indoor/outdoor spraying, barrier treatments) and space spraying. Mosquito traps employ ‘pull’ strategies, such as ovitraps/gravid traps (sticky, insecticide-treated, or larvicide-containing) or attractive toxic sugar baits (ATSBs). Mass trapping with gravid traps shows promise in reducing vector populations and disease transmission, contingent on trap efficacy and coverage.</jats:p>\n                  <jats:p>Effective vector control necessitates an integrated approach targeting all life stages, with community involvement and continuous evaluation, due to the adaptability of dengue vectors. The selection of appropriate methods depends on the local ecology of vectors and the specific goals of the control programme.</jats:p>",
+   "DOI": "10.11647/obp.0472.06",
+   "type": "book-chapter",
+   "title": [
+    "6. Dengue Vector Control"
+   ],
+   "author": [
+    {
+     "given": "Roberto",
+     "family": "Barrera",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Surveillance and Control of Dengue Vectors in the United States and Territories"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.11647/obp.0472.06"
+  },
+  {
+   "publisher": "Universidad de Huánuco",
+   "abstract": "<jats:p>Dengue has become the leading cause of arthropod-borne viral disease worldwide. In 2019, the World Health Organization (WHO) declared dengue one of the top ten threats to global health. Dengue incidence reached its highest recorded level in 2023, affecting more than 80 countries with over 6.5 million cases (1). In the Americas, 8.1 million suspected dengue cases were reported by mid-May 2024, representing a 3.3-fold increase compared to the previous year. Peru was one of the six countries with the highest number of reported cases in the region (2). Like other countries with high dengue incidence, the country has been facing a surge in new arbovirus cases with seasonal outbreaks occurring between November and May. Therefore, controlling and preventing dengue outbreaks are essential steps to control the disease. How can we achieve this? Three key objectives: vector control, early diagnosis and population education.</jats:p>",
+   "DOI": "10.37711/rpcs.2024.6.1.437",
+   "type": "journal-article",
+   "title": [
+    "Control de vectores, diagnóstico temprano y educación: los tres pilares de la prevención del dengue",
+    "Vector control, early diagnosis, and education: the three pillars of dengue prevention"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6519-6305",
+     "authenticated-orcid": false,
+     "given": "Kelly Susan",
+     "family": "Levano-Tarazona",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Revista Peruana de Ciencias de la Salud"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.37711/rpcs.2024.6.1.437"
+  },
+  {
+   "DOI": "10.1016/s0031-3025(16)35774-9",
+   "title": [
+    "Dengue vector control"
+   ],
+   "container-title": [
+    "Pathology"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      1993
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/s0031-3025(16)35774-9",
+   "author": [
+    {
+     "given": "Brian H.",
+     "family": "Kay",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.3362/9780855987077.000",
+   "title": [
+    "Prelims - Disease Prevention Through Vector Control"
+   ],
+   "container-title": [
+    "Disease Prevention Through Vector Control"
+   ],
+   "publisher": "Oxfam Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      1995,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.3362/9780855987077.000",
+   "author": [
+    {
+     "given": "Madeleine C.",
+     "family": "Thomson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Open Book Publishers",
+   "abstract": "<jats:p>This chapter focuses on dengue vector management during outbreaks in both endemic and non-endemic regions. In non-endemic areas, rapid response to imported cases is key. This should involve intensive surveillance, contact tracing, and focused vector control (residual insecticide spraying, larvicide, source reduction) within a 100m radius. High coverage is crucial for containment. Recommendations include thorough investigation of suspected cases, proactive case finding, enhanced entomological surveillance with GIS, and comprehensive, neighbourhood-wide vector control targeting breeding sites and adult mosquitoes, alongside public education.</jats:p>\n                  <jats:p>In endemic/epidemic areas, controlling widespread outbreaks is challenging. Prevention through pre-emptive vector control in high-risk ‘hot spot’ neighbourhoods during low transmission seasons is favourable. The response should involve multi-agency collaboration, mass spraying, public education, and enhanced case management. Early warning systems can provide lead time. Sustained, integrated vector control, guided by robust surveillance and defined mosquito density thresholds, is essential.</jats:p>\n                  <jats:p>For an epidemic response, activating an emergency operations centre is recommended. This should emphasize community education, bed net use, healthcare training, enhanced surveillance with GIS, and prioritized, area-wide vector control combining larvicide, adulticide, and source reduction. It is vital to evaluate the impact of these interventions.</jats:p>\n                  <jats:p>Key messages for dengue prevention target behavioural changes in terms of container management and personal protection for residents and travellers, with specific advice tailored for both endemic and non-endemic areas, as well as secondary prevention within households.</jats:p>",
+   "DOI": "10.11647/obp.0472.07",
+   "type": "book-chapter",
+   "title": [
+    "7. Dengue Vector Management in Dengue Outbreaks"
+   ],
+   "author": [
+    {
+     "given": "Roberto",
+     "family": "Barrera",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Surveillance and Control of Dengue Vectors in the United States and Territories"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.11647/obp.0472.07"
+  },
+  {
+   "DOI": "10.1007/978-3-642-02215-9_9",
+   "title": [
+    "Vector Dynamics and Transmission of Dengue Virus: Implications for Dengue Surveillance and Prevention Strategies"
+   ],
+   "container-title": [
+    "Current Topics in Microbiology and Immunology",
+    "Dengue Virus"
+   ],
+   "publisher": "Springer Berlin Heidelberg",
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      8,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-642-02215-9_9",
+   "author": [
+    {
+     "given": "Thomas W.",
+     "family": "Scott",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Amy C.",
+     "family": "Morrison",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.3362/9780855987077.005",
+   "title": [
+    "Back matter - Disease Prevention Through Vector Control"
+   ],
+   "container-title": [
+    "Disease Prevention Through Vector Control"
+   ],
+   "publisher": "Oxfam Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      1995,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.3362/9780855987077.005",
+   "author": [
+    {
+     "given": "Madeleine C.",
+     "family": "Thomson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1186/isrctn75270383",
+   "title": [
+    "Evaluation of vector control tools for dengue outbreak response"
+   ],
+   "container-title": [
+    "http://isrctn.org/&gt;"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      2,
+      5
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1186/isrctn75270383",
+   "author": [
+    {
+     "given": "Philip",
+     "family": "McCall",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.33140/aephr.02.01.02",
+   "title": [
+    "Tackling Dengue Issue Need Proactive Measures: A Narrative Review of Current Level of Prevention and Control of Dengue in Malaysia"
+   ],
+   "container-title": [
+    "Archives of Epidemiology &amp; Public Health Research"
+   ],
+   "publisher": "Opast Group LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1,
+      18
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.33140/aephr.02.01.02",
+   "abstract": "<jats:p>Background Dengue is a severe mosquito-borne disease that is endemic in tropical and subtropical regions, including Malaysia. Dengue appears to lack both a particular treatment and an effective tetravalent vaccination. Suppression of the two most significant vectors, Aedes Aegypti and Aedes Albopictus, is the only method for controlling dengue. The disease continues to spread despite diligent and comprehensive attempts by health organizations to contain it. This review is to determine the current level of prevention and control of dengue in Malaysia. Method This review derived from 35 kinds of literature obtained from PubMed, red journal I Dengue, WHO Library database (WHOLIS), WPRO, International Journal of Environmental Research in Public Health (IJERPH), ResearchGate, Springer, Vector Biology Journal and PLOS Neglected Tropic Diseases that were published in English between 1992 to 1 December 2022. Literature is relating epidemiological studies of dengue fever, dengue prevention and control, dengue forecasting, the factor of dengue occurrence and dengue surveillance. Discussion Dengue vector control is still considered the most efficient method for controlling and preventing dengue virus transmission. As a result of the declining efficacy of conventional ways of managing dengue transmission, it is time to re-evaluate the currently employed and other available strategies. Current dengue vector depends heavily on chemical approaches as space treatments, either thermal or ultra-low-velocity (ULV) fogging, but the technique appears to fall short of expectations. The community should be involved in mass source reduction activities as part of dengue control strategies instead of merely having health workers visit every home. New approaches, such as the mass release of Wolbachia-infected male dengue vectors and sterile insect technique to generate sterile offspring when mated with wild populations, are prompted to be tested in Malaysia. Simple, accurate, and low-cost technologies for dengue forecasting that could be utilized to improve decision-making on the timing, magnitude, and usage of limited resources. Conclusion The control of dengue vectors should not exclusively on a single strategy, neither genetic modification of artificially Wolbachia-infected method nor traditional insecticide treatment. It should include environmental management as the primary strategy, a well-planned integrated control program, and effective coordination among the organization's members.</jats:p>"
+  }
+ ]
+}

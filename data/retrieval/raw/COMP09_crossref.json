@@ -1,0 +1,881 @@
+{
+ "query": "Blockchain applications for secure data sharing",
+ "retrieved_at": "2026-11-18T17:46:48.436245+00:00",
+ "data": [
+  {
+   "DOI": "10.1007/978-981-15-5939-6_5",
+   "title": [
+    "Secure Heterogeneous Data Sharing Using Blockchain"
+   ],
+   "container-title": [
+    "Blockchain: Empowering Secure Data Sharing"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-15-5939-6_5",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1867-0972",
+     "authenticated-orcid": false,
+     "given": "Meng",
+     "family": "Shen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3277-3887",
+     "authenticated-orcid": false,
+     "given": "Liehuang",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2587-8517",
+     "authenticated-orcid": false,
+     "given": "Ke",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-15-5939-6_4",
+   "title": [
+    "Secure Homogeneous Data Sharing Using Blockchain"
+   ],
+   "container-title": [
+    "Blockchain: Empowering Secure Data Sharing"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-15-5939-6_4",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1867-0972",
+     "authenticated-orcid": false,
+     "given": "Meng",
+     "family": "Shen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3277-3887",
+     "authenticated-orcid": false,
+     "given": "Liehuang",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2587-8517",
+     "authenticated-orcid": false,
+     "given": "Ke",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.23880/ijfsc-16000230",
+   "title": [
+    "Secure Data Sharing Based on Blockchain Technology"
+   ],
+   "container-title": [
+    "International Journal of Forensic Sciences"
+   ],
+   "publisher": "Medwin Publishers",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.23880/ijfsc-16000230",
+   "author": [
+    {
+     "given": "Satyanadh",
+     "family": "Rachamalla",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-15-5939-6_2",
+   "title": [
+    "Blockchain and Data Sharing"
+   ],
+   "container-title": [
+    "Blockchain: Empowering Secure Data Sharing"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-15-5939-6_2",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1867-0972",
+     "authenticated-orcid": false,
+     "given": "Meng",
+     "family": "Shen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3277-3887",
+     "authenticated-orcid": false,
+     "given": "Liehuang",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2587-8517",
+     "authenticated-orcid": false,
+     "given": "Ke",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-15-5939-6_7",
+   "title": [
+    "Data Sharing Incentives with Blockchain"
+   ],
+   "container-title": [
+    "Blockchain: Empowering Secure Data Sharing"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-15-5939-6_7",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1867-0972",
+     "authenticated-orcid": false,
+     "given": "Meng",
+     "family": "Shen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3277-3887",
+     "authenticated-orcid": false,
+     "given": "Liehuang",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2587-8517",
+     "authenticated-orcid": false,
+     "given": "Ke",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-15-5939-6_6",
+   "title": [
+    "Secure Data Retrieval Using Blockchain"
+   ],
+   "container-title": [
+    "Blockchain: Empowering Secure Data Sharing"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-15-5939-6_6",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1867-0972",
+     "authenticated-orcid": false,
+     "given": "Meng",
+     "family": "Shen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3277-3887",
+     "authenticated-orcid": false,
+     "given": "Liehuang",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2587-8517",
+     "authenticated-orcid": false,
+     "given": "Ke",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-15-5939-6_3",
+   "title": [
+    "Layered Data Sharing Architecture with Blockchain"
+   ],
+   "container-title": [
+    "Blockchain: Empowering Secure Data Sharing"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-15-5939-6_3",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1867-0972",
+     "authenticated-orcid": false,
+     "given": "Meng",
+     "family": "Shen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3277-3887",
+     "authenticated-orcid": false,
+     "given": "Liehuang",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2587-8517",
+     "authenticated-orcid": false,
+     "given": "Ke",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003500391-11",
+   "title": [
+    "Blockchain-Based Authentication Scheme/Framework for Secure Data Sharing"
+   ],
+   "container-title": [
+    "AI and Blockchain in Smart Grids"
+   ],
+   "publisher": "Auerbach Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      2,
+      12
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003500391-11",
+   "author": [
+    {
+     "given": "D.",
+     "family": "Kalaiabirami",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781119989387.ch14",
+   "title": [
+    "A Secure Data‐Sharing Blockchain‐Based Crowdfunding System"
+   ],
+   "container-title": [
+    "Attribute‐based Encryption (ABE)"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      6
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119989387.ch14"
+  },
+  {
+   "DOI": "10.1201/9781003500391-6",
+   "title": [
+    "Blockchain-Based Authentication Scheme/Framework for Secure Data Sharing"
+   ],
+   "container-title": [
+    "AI and Blockchain in Smart Grids"
+   ],
+   "publisher": "Auerbach Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      2,
+      12
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003500391-6",
+   "author": [
+    {
+     "given": "Pradeep",
+     "family": "Chintale",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gaurav",
+     "family": "Gupta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.bcra.2026.100492",
+   "title": [
+    "An Adaptive Blockchain-Enabled Access Control Framework for Secure and Privacy-Preserving E-Health Data Sharing"
+   ],
+   "container-title": [
+    "Blockchain: Research and Applications"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.bcra.2026.100492",
+   "author": [
+    {
+     "given": "Zohre",
+     "family": "Notash",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shahram",
+     "family": "Jamali",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1848-0220",
+     "authenticated-orcid": false,
+     "given": "Reza",
+     "family": "Fotohi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>In this paper, we presented BlockShare, a blockchain-basedsystem developed to facilitate privacy-preserving data sharing across de-centralized networks. The proposed system enables users to retain controlover their sensitive data while enabling secure, verifiable sharing with au-thorized parties. We implemented an authenticated data structure (ADS)to support decentralized verification and utilized zero-knowledge proofmechanisms to validate conditions without exposing the underlying data.Experimental analysis demonstrated that BlockShare performs efficientlyin constructing data structures, generating proofs, and verifying themwith minimal computational overhead. The platform successfully reducedprivacy risks and enhanced trust in cross-organization data exchanges.</jats:p>",
+   "DOI": "10.20944/preprints202512.2150.v1",
+   "type": "posted-content",
+   "title": [
+    "BlockShare: A Privacy-Preserving Blockchain System for Secure Data Sharing"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0000-0552-7387",
+     "authenticated-orcid": false,
+     "given": "Apeksha",
+     "family": "Bhuekar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      24
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.20944/preprints202512.2150.v1"
+  },
+  {
+   "DOI": "10.7287/peerj-cs.1337v0.1/reviews/3",
+   "title": [
+    "Peer Review #3 of \"A blockchain-based traceable and secure data-sharing scheme (v0.1)\""
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      4
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.7287/peerj-cs.1337v0.1/reviews/3"
+  },
+  {
+   "DOI": "10.7287/peerj-cs.1337v0.2/reviews/2",
+   "title": [
+    "Peer Review #2 of \"A blockchain-based traceable and secure data-sharing scheme (v0.2)\""
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      4
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.7287/peerj-cs.1337v0.2/reviews/2"
+  },
+  {
+   "DOI": "10.7287/peerj-cs.1337v0.1/reviews/1",
+   "title": [
+    "Peer Review #1 of \"A blockchain-based traceable and secure data-sharing scheme (v0.1)\""
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      4
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.7287/peerj-cs.1337v0.1/reviews/1"
+  },
+  {
+   "DOI": "10.1007/978-981-15-5939-6",
+   "title": [
+    "Blockchain: Empowering Secure Data Sharing"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1007/978-981-15-5939-6",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1867-0972",
+     "authenticated-orcid": false,
+     "given": "Meng",
+     "family": "Shen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3277-3887",
+     "authenticated-orcid": false,
+     "given": "Liehuang",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2587-8517",
+     "authenticated-orcid": false,
+     "given": "Ke",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "JMIR Publications Inc.",
+   "abstract": "<sec>\n                    <title>BACKGROUND</title>\n                        <p>Internet of Medical Things (IoMT) is going to reinvent the future healthcare industry and bring abundant value to hospitals, doctors and patients by overcoming the many challenges currently being faced in monitoring individual’s wellbeing, promoting preventive care, and managing quality of drugs and equipment. Despite the many benefits of RHM, it is yet to be widely adopted and deployed due to the healthcare data security and privacy challenges. The healthcare data is highly sensitive and requires fail-safe measures against unauthorized data access, leaks and manipulations. There are stringent regulations governing how the healthcare data can be secured, communicated and stored such as General Data Protection Regulation (GDPR) and the Health Insurance Portability and Accountability Act (HIPAA).  These challenges and regulatory demands in the RHM applications can be addressed using blockchain technology due to its distinguishing features of decentralization, immutability and transparency thereby addressing the challenges of security and privacy. This article provides a systematic review of the use of blockchain in RHM focusing on security and privacy.</p>\n                </sec>\n                                <sec>\n                    <title>OBJECTIVE</title>\n                        <p>To systematically review the available literature on Remote Health Monitoring focusing on security and privacy with special focus on Blockchain.</p>\n                </sec>\n                                <sec>\n                    <title>METHODS</title>\n                        <p>A systematic search was conducted across Arxiv, IEEE and Medrxiv to identify literatures across three areas which are remote health monitoring, remote health monitoring focusing on security and privacy and remote health monitoring focusing with blockchain. A total of 6516 references from all the publication hits were screened, 152 papers were retrieved for full text analysis after eliminating duplicates and irrelevant ones, 71 relevant papers are documented as part of this study.</p>\n                </sec>\n                                <sec>\n                    <title>RESULTS</title>\n                        <p>In this survey paper, we conducted a comprehensive review of the blockchain-based RHM systems.   It is clear by analyzing these studies that public blockchains still have several limitations, but in comparison private blockchain models can overcome security and privacy concerns. However, the private blockchains have the issue of a single point of failure that needs to be addressed.</p>\n                </sec>\n                                <sec>\n                    <title>CONCLUSIONS</title>\n                        <p>The utilization of blockchain for RHM Use cases has many benefits for the patients’ healthcare professionals, and related stakeholders.  However, security and privacy should be addressed to make RHM successful.</p>\n                </sec>",
+   "DOI": "10.2196/preprints.42703",
+   "type": "posted-content",
+   "title": [
+    "Secure Data Sharing with Blockchain for Remote Health Monitoring Applications: Systematic Review (Preprint)"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8601-5830",
+     "authenticated-orcid": false,
+     "given": "Venkatesh",
+     "family": "Upadrista",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sajid",
+     "family": "Nazir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Huaglory",
+     "family": "Tianfield",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      14
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2196/preprints.42703"
+  },
+  {
+   "DOI": "10.7287/peerj-cs.1337v0.1/reviews/2",
+   "title": [
+    "Peer Review #2 of \"A blockchain-based traceable and secure data-sharing scheme (v0.1)\""
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      4
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.7287/peerj-cs.1337v0.1/reviews/2"
+  },
+  {
+   "publisher": "Science Research Society",
+   "abstract": "<jats:p>The swift expansion of Internet of Things (IoT) applications has brought forth considerable challenges in securing data transmission and safeguarding privacy. Conventional centralized data-sharing methods are vulnerable to single points of failure, unauthorized access, and data manipulation. This paper investigates a blockchain-based strategy for securing data sharing within IoT networks. The decentralized and immutable characteristics of blockchain bolster data integrity, confidentiality, and access control. The proposed framework utilizes smart contracts to automate data sharing and enforce access policies, ensuring that only authorized individuals can retrieve the data. Additionally, cryptographic methods such as hashing and digital signatures offer further security enhancements. Performance assessments indicate that the blockchain-based approach enhances data privacy, minimizes unauthorized access, and fosters trust among IoT devices. The research underscores that the integration of blockchain with IoT significantly improves data security and establishes a dependable and scalable data-sharing framework, making it suitable for real-time applications in smart homes, healthcare, and industrial automation.</jats:p>",
+   "DOI": "10.52783/jisem.v10i37s.6381",
+   "type": "journal-article",
+   "title": [
+    "Blockchain-Based Secure Data Sharing for IoT Applications"
+   ],
+   "author": [
+    {
+     "family": "R. UshaRani",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Information Systems Engineering and Management"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.52783/jisem.v10i37s.6381"
+  },
+  {
+   "publisher": "Ess & Ess Research Publications",
+   "abstract": "<jats:p>The rapid proliferation of smart applications across domains such as healthcare, finance, and Internet of Things (IoT) has led to an exponential increase in data generation and sharing requirements. However, traditional data-sharing mechanisms rely on centralized architectures, which introduce challenges related to security, privacy, trust, and single points of failure. Blockchain technology has emerged as a promising solution for secure, decentralized, and transparent data management. This paper proposes a Blockchain-Based Secure Data Sharing Framework (BSDSF) designed to ensure data integrity, confidentiality, and controlled access in smart applications. The framework integrates blockchain, cryptographic techniques, and smart contracts to enable secure and efficient data exchange among distributed entities. A conceptual evaluation demonstrates that the proposed framework enhances trust, reduces security risks, and improves scalability compared to conventional systems. The study highlights the potential of blockchain in enabling next-generation secure data ecosystems.</jats:p>",
+   "DOI": "10.15662/ijfist.2023.0602002",
+   "type": "journal-article",
+   "title": [
+    "Blockchain-Based Secure Data Sharing Framework for Smart Applications"
+   ],
+   "author": [
+    {
+     "given": "Mallikarjun",
+     "family": "Bellundagi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Solution Architect, Information Technology, Chags Health Information Technology LLC (C-HIT), USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Future Innovative Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      5
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.15662/ijfist.2023.0602002"
+  }
+ ]
+}

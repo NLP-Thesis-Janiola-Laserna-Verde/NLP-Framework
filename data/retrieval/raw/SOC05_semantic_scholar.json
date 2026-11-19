@@ -1,0 +1,787 @@
+{
+ "query": "Misinformation and public trust in institutions",
+ "retrieved_at": "2026-11-18T17:57:24.017429+00:00",
+ "data": [
+  {
+   "paperId": "adf4439740cfe81c25bfd1c88022374dbc5cf9f9",
+   "externalIds": {
+    "DOI": "10.32996/jcsts.2023.5.1.13",
+    "CorpusId": 286509034
+   },
+   "url": "https://www.semanticscholar.org/paper/adf4439740cfe81c25bfd1c88022374dbc5cf9f9",
+   "title": "A data-driven analysis of how AI-driven misinformation and deepfakes affect public trust in US financial institutions",
+   "venue": "Journal of Computer Science and Technology Studies",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://al-kindipublisher.com/index.php/jcsts/article/download/12267/10959",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32996/jcsts.2023.5.1.13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32996/jcsts.2023.5.1.13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-01-25",
+   "authors": [
+    {
+     "authorId": "2379627932",
+     "name": "Mohammad Kowshik Alam"
+    },
+    {
+     "authorId": "2483508817",
+     "name": "Md Lutfur Rahman Fahad"
+    },
+    {
+     "authorId": "2406668863",
+     "name": "Nayem Miah"
+    }
+   ],
+   "abstract": "The rapid development of artificial intelligence has fundamentally changed the digital communication environment, allowing spreading information more quickly, as well as creating highly realistic and deceptive content. Misinformation and deepfakes with the involvement of AI has become one of the greatest threats to civil perception, institutional validity, and social stability. Financial ecosystems, in which trust, transparency, and accurate information are the most important factors, spreading deceptive or manipulated content may provoke confusion in the population, distort the perception of risks, and even the loss of legitimacy of the U.S. financial institutions. This study provides a quantitative analysis of these threats in the form of large-scale fact-checking content of the Verified Posts: Fact-Checking Online Content (Politifact) data set. The sample used consists of over 20,000 online posts which have been labeled within the various credibility categories, such as true, false, half-true, pants-fire and mostly-true, covering the years 2008 to 2022. This study through the methods of Natural Language Processing and machine-learning algorithms explores linguistic frames, topic trends, misinformation rates, and propaganda time series. Temporal analysis indicates that the wave of misinformation is related to significant socio-political developments, which indicates that there are external forces, and the amplification of the algorithm. Even though the dataset consists of no video deepfakes, the text-based patterns of misinformation patterns are pretty similar to the manipulation tactics used in the production of synthetic media. This study shows that false accounts, particularly those who concern policy choices, economic outcomes, or governmental activities, can indirectly affect the trust of the population in financial institutions as they change the views of their institutional competence, justness, and stability. The present research makes a contribution to a better comprehension of AI-facilitated misinformation ecosystem evolution and the effect they can have on financial trust. The lessons derived can provide a practical policy to regulators and financial institutions and policy makers to improve the digital governance, enhance the level of awareness and create a strong mitigation policy of misinformation. To promote credibility and sustainability of the financial system in the long term, it is critical to strengthen information integrity so that the society can develop a sense of confidence in the system."
+  },
+  {
+   "paperId": "ab53d0846831cc4790ce0a015d685ac7ee49deb8",
+   "externalIds": {
+    "DOI": "10.62872/0qv54h91",
+    "CorpusId": 276919428
+   },
+   "url": "https://www.semanticscholar.org/paper/ab53d0846831cc4790ce0a015d685ac7ee49deb8",
+   "title": "Dymanics Of Public Trust In Government Institutions In The Post-Truth Era: An Analysis Of The Role Of Social Media In Perception Formation",
+   "venue": "Socious Journal",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.62872/0qv54h91",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62872/0qv54h91?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62872/0qv54h91, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-28",
+   "authors": [
+    {
+     "authorId": "2143321124",
+     "name": "Zulfiah Larisu"
+    },
+    {
+     "authorId": "113741478",
+     "name": "Rudi Rudi"
+    }
+   ],
+   "abstract": "The post-truth era is characterized by a decline in the authority of objective truth due to the dominance of emotion-based narratives and subjective beliefs. In the context of government, this phenomenon exacerbates the crisis of public trust, especially with the massive spread of misinformation and disinformation through social media. Political polarization reinforced by digital algorithms further hampers government communication in conveying fact-based information. This study aims to analyze the dynamics of public trust in government institutions in the post-truth era using a descriptive qualitative approach. Data were collected through in-depth interviews, social media content analysis using the Netnography method, and related document studies. The results of the study show that social media plays a dual role as a transparency platform as well as a propaganda tool that can manipulate public opinion. The spread of disinformation is faster than official government communication, causing increased public skepticism. Therefore, the government's communication strategy must be oriented towards transparency, digital literacy, and public participation in order to rebuild legitimacy. Collaboration between the government, media, and academics is key to creating a healthy information ecosystem. With an adaptive communication approach, the government can overcome the challenges of the post-truth era and restore public trust sustainably."
+  },
+  {
+   "paperId": "e63fde10335a5a65edbf85f11c1c2cf1371e1217",
+   "externalIds": {
+    "DOI": "10.1922/ejprd.v34i8s.1872",
+    "CorpusId": 291848880
+   },
+   "url": "https://www.semanticscholar.org/paper/e63fde10335a5a65edbf85f11c1c2cf1371e1217",
+   "title": "Assessing and Countering Health Misinformation on Social Media to Safeguard Public Trust in Medicine",
+   "venue": "European Journal of Prosthodontics and Restorative Dentistry",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://ejprd.org/download.php?op=view_article&article_id=1872",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1922/ejprd.v34i8s.1872?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1922/ejprd.v34i8s.1872, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-09-04",
+   "authors": [
+    {
+     "authorId": "2149883486",
+     "name": "I. Alnaimi"
+    },
+    {
+     "authorId": "2302448343",
+     "name": "I. Yamani"
+    },
+    {
+     "authorId": "2064127752",
+     "name": "A. Alkhatib"
+    }
+   ],
+   "abstract": "The spread of health misinformation through social media platforms has\ntransformed into a serious sociomedical threat in undermining public trust on\nmedicine, health professional’s scientific institutions and public health\nauthorities. This manuscript looks into how health-related false or misleading\nnarratives spread on Facebook, Twitter/X, TikTok, YouTube, WhatsApp, and\nother similar platforms, especially during public health emergencies like the\nCOVID-19 outbreak. Health misinformation has the potential to change one’s\nrisk perceptions, lessening acceptance of vaccination, promoting unsafe\ntreatments, delaying appropriate care-seeking, and reducing adherence to\nevidence-based recommendations. According to the review, cognitive\nmechanism refers to the propagation of rumors as misinformation spreaders\nare often incapable of disarming popular claims with evident truth. This paper\nalso describes specific monitoring approaches, including social listening, text\nmining and natural language processing, coding frameworks, and citizenscience validation. It will require coordinated action by healthcare\nprofessionals, public health institutions, governments, researchers, media\norganizations and social media platforms. Strategies include open\ncommunication about risks, rapid correction of false claims, promotion of\ncredible sources, digital health literacy, ethical content moderation, platform\naccountability, and community-based engagement. To maintain public\nconfidence in medicine, it is essential to not only correct misinformation but\nalso enhance the credibility, accessibility and responsiveness of health\ncommunication systems."
+  },
+  {
+   "paperId": "77aab77b2486b4fdddae729d7ffc8a8c1576e6cf",
+   "externalIds": {
+    "DOI": "10.54254/2753-8818/2025.20187",
+    "CorpusId": 275538981
+   },
+   "url": "https://www.semanticscholar.org/paper/77aab77b2486b4fdddae729d7ffc8a8c1576e6cf",
+   "title": "Understanding Factors that Contributes to Vaccine Hesitancy in the COVID-19 Context: The Intersection of Trust in Institutions, Socioeconomic Status and Demographic Factors",
+   "venue": "Theoretical and Natural Science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.ewadirect.com/proceedings/tns/article/view/20187/pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.54254/2753-8818/2025.20187?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54254/2753-8818/2025.20187, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-13",
+   "authors": [
+    {
+     "authorId": "2340660288",
+     "name": "Daini Zhao"
+    }
+   ],
+   "abstract": "Vaccine hesitancy has become a major global public health challenge, threatening the success of vaccination programs. Despite the fact that vaccines have proven effective in fighting infectious diseases, millions of people are still hesitant to get vaccinated, especially during the pandemic. This paper identifies vaccine hesitancy in the COVID era and examines the factors that contribute to vaccine hesitancy, including a lack of trust in health institutions, misinformation, and other cognitive and demographic factors. Drawing on examples from around the world, including Africa and Brazil, this article further explores the social and political determinants that influence vaccine uptake. While Brazil has shown relatively high vaccine acceptance rates due to trust in local vaccines and the urgency of the pandemic, Africa faces great hesitation due to mistrust and misinformation. By addressing misinformation, restoring public trust and confidence in vaccines, and involving communities in the decision-making process, public health initiatives can effectively combat vaccine hesitancy and mitigate ongoing threats to global health"
+  },
+  {
+   "paperId": "0977ab3deb9ce86902684b138f8c5b312a35a990",
+   "externalIds": {
+    "DOI": "10.23880/fsnt-16000354",
+    "CorpusId": 274839616
+   },
+   "url": "https://www.semanticscholar.org/paper/0977ab3deb9ce86902684b138f8c5b312a35a990",
+   "title": "Understanding Public Perception of Genetically Modified Food: Navigating Misinformation and Trust",
+   "venue": "Food Science &amp; Nutrition Technology",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.23880/fsnt-16000354",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23880/fsnt-16000354?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23880/fsnt-16000354, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-08",
+   "authors": [
+    {
+     "authorId": "2547092486",
+     "name": "Cabelkova I"
+    }
+   ],
+   "abstract": "Genetically modified (GM) foods have been at the center of global debate, resulting in diverse public perceptions and\nregulatory responses. Proponents argue that GM foods are crucial for addressing food security and climate change challenges,\nhighlighting their potential to increase crop yields, enhance nutritional quality, and reduce the environmental impact of\nagriculture. However, skepticism persists, driven by concerns about potential health risks, environmental effects, and ethical\nimplications. Despite a scientific consensus affirming the safety of GM foods, factors such as cultural values, media influence,\nand distrust in regulatory authorities have significantly shaped public attitudes, particularly in regions like Europe, Asia, and\nparts of Africa where skepticism is higher. In contrast, the United States and Latin America show relatively greater acceptance,\ninfluenced by economic benefits and trust in scientific institutions like the FDA and EPA. This paper examines the key factors\ninfluencing public perception of GM foods, including knowledge gaps, media misinformation, ethical concerns, and regulatory\ntrust. It also explores regional differences in attitudes towards GM foods and provides strategies to bridge the divide in public\nacceptance. Effective communication, increased transparency in regulatory processes, and inclusive engagement with the\npublic are critical in building trust and fostering a more balanced understanding of GM technology. Addressing these challenges\nis essential for aligning public perceptions with scientific evidence and promoting informed decision-making about the role of\nGM foods in the global food system."
+  },
+  {
+   "paperId": "a32c5701376f3598d9d093c8803230251c58a612",
+   "externalIds": {
+    "DOI": "10.37899/mjdh.v3i2.371",
+    "CorpusId": 290004718
+   },
+   "url": "https://www.semanticscholar.org/paper/a32c5701376f3598d9d093c8803230251c58a612",
+   "title": "Social Media Influencers and Public Trust in Over-the-Counter Medication Recommendations",
+   "venue": "Magenta Journal De Healthymedi",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://gensain.com/index.php/mjdh/article/download/371/378",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.37899/mjdh.v3i2.371?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.37899/mjdh.v3i2.371, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-07-07",
+   "authors": [
+    {
+     "authorId": "2448646579",
+     "name": "Daniel Wijaya Santoso"
+    },
+    {
+     "authorId": "2448509847",
+     "name": "Siti Aurelia Nasution"
+    },
+    {
+     "authorId": "2448612985",
+     "name": "Ayu Nusriani"
+    }
+   ],
+   "abstract": "This study examines how social media influencers shape public trust in over-the-counter medication recommendations within digital communication environments. Using a qualitative research design, the study collected data through in-depth interviews, digital observation, and document analysis involving active social media users and influencer-generated pharmaceutical content. The findings reveal that influencer credibility, perceived authenticity, and parasocial interaction significantly influence audience trust and self-medication behavior. Audiences tend to trust relatable and emotionally engaging communication more than formal medical authority, particularly when influencers share personal experiences and transparent recommendations. However, concerns regarding hidden sponsorships, misinformation, and commercialization also emerged as important factors affecting public skepticism. The study contributes to digital health communication scholarship and offers practical implications for policymakers, healthcare institutions, and social media regulators in promoting ethical pharmaceutical communication practices."
+  },
+  {
+   "paperId": "7fec428929470b7850261665322563265863d645",
+   "externalIds": {
+    "PubMedCentral": "11955583",
+    "DOI": "10.1093/heapro/daaf023",
+    "CorpusId": 277460382,
+    "PubMed": "40159949"
+   },
+   "url": "https://www.semanticscholar.org/paper/7fec428929470b7850261665322563265863d645",
+   "title": "Social media and the spread of misinformation: infectious and a threat to public health",
+   "venue": "Health Promotion International",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1093/heapro/daaf023",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-03-05",
+   "authors": [
+    {
+     "authorId": "1633557832",
+     "name": "E. Denniss"
+    },
+    {
+     "authorId": "31261485",
+     "name": "R. Lindberg"
+    }
+   ],
+   "abstract": "Abstract Misinformation has been identified as a major threat to society and public health. Social media significantly contributes to the spread of misinformation and has a global reach. Health misinformation has a range of adverse outcomes, including influencing individuals’ decisions (e.g. choosing not to vaccinate), and the erosion of trust in authoritative institutions. There are many interrelated causes of the misinformation problem, including the ability of non-experts to rapidly post information, the influence of bots and social media algorithms. Equally, the global nature of social media, limited commitment for action from social media giants, and rapid technological advancements hamper progress for improving information quality and accuracy in this setting. In short, it is a problem that requires a constellation of synergistic actions aimed at social media users, content creators, companies, and governments. A public health approach to social media-based misinformation that includes tertiary, secondary, and primary prevention may help address immediate impacts, long-term consequences, and root causes of misinformation. Tertiary prevention to ‘treat’ this problem involves increased monitoring, misinformation debunking, and warning labels on social media posts that are at a high risk of containing misinformation. Secondary prevention strategies include nudging interventions (e.g. prompts about preventing misinformation that appear when sharing content) and education to build media and information literacy. Finally, there is an urgent need for primary prevention, including systems-level changes to address key mechanisms of misinformation and international law to regulate the social media industry. Anything less means misinformation—and its societal consequences—will continue to spread."
+  },
+  {
+   "paperId": "2e7fd5884daaf53ff2fb78730e063203a3b386a9",
+   "externalIds": {
+    "DOI": "10.30589/proceedings.2025.1343",
+    "CorpusId": 284124344
+   },
+   "url": "https://www.semanticscholar.org/paper/2e7fd5884daaf53ff2fb78730e063203a3b386a9",
+   "title": "Analysis of the Role of Social Media in Shaping Public Trust in Minahasa Regency Government Policies",
+   "venue": "Iapa Proceedings Conference",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journal.iapa.or.id/proceedings/article/download/1343/657",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30589/proceedings.2025.1343?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30589/proceedings.2025.1343, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2025-11-27",
+   "authors": [
+    {
+     "authorId": "2538516344",
+     "name": "Steven Vleike Tarore"
+    },
+    {
+     "authorId": "113300812",
+     "name": "J. Mantiri"
+    },
+    {
+     "authorId": "87644493",
+     "name": "H. Hardiyanti"
+    }
+   ],
+   "abstract": "Public trust is widely recognized as a cornerstone of democratic governance and effective public administration. In recent years, however, public trust in government institutions has faced significant challenges due to political controversies, policy failures, and the proliferation of misinformation in digital spaces. Social media has emerged as a critical arena where governments communicate policies, citizens respond, and public perceptions are shaped. This study explores the role of social media in shaping public trust in local government policies, focusing on Minahasa Regency, Indonesia. Using a qualitative research design, the study employs document analysis, content analysis of official government social media accounts, and secondary literature review to assess the dynamics of trust-building in digital governance. Findings suggest that social media functions as both a facilitator and a potential threat to public trust. On the positive side, social media enhances transparency, accelerates information dissemination, fosters two-way communication, and enables citizens’ active participation in policy discourse. These dynamics contribute to performance-based trust and strengthen social capital, consistent with theoretical frameworks by Mishler and Rose (2001) and Putnam (2000). Conversely, challenges such as inconsistent government responses, limited digital literacy, and exposure to misinformation undermine trust and exacerbate public skepticism. The study contributes to scholarly debates on digital governance by demonstrating how social media operates as a participatory democratic tool at the local level in Indonesia. Practical implications highlight the need for governments to institutionalize social media as a governance instrument, ensure consistency and creativity in content delivery, strengthen digital literacy among citizens, and collaborate strategically with community influencers to broaden legitimacy. By situating Minahasa within global debates on governance and communication, this study underscores the dual role of social media as both a vehicle of trust and a source of contestation in contemporary public policy."
+  },
+  {
+   "paperId": "60c6a19028ee2229ab4f9d227c23271b09d353a7",
+   "externalIds": {
+    "DOI": "10.1016/j.socscimed.2025.118272",
+    "CorpusId": 279069126,
+    "PubMed": "40513504"
+   },
+   "url": "https://www.semanticscholar.org/paper/60c6a19028ee2229ab4f9d227c23271b09d353a7",
+   "title": "Misinformation, trust, and health: The case for information environment as a major independent social determinant of health.",
+   "venue": "Social Science & Medicine (1967)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.socscimed.2025.118272",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.socscimed.2025.118272?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.socscimed.2025.118272, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-01",
+   "authors": [
+    {
+     "authorId": "1785364672",
+     "name": "Amitabha Palmer"
+    },
+    {
+     "authorId": "49737270",
+     "name": "Sarah Gorman"
+    }
+   ],
+   "abstract": "We argue for the inclusion of information environment as a major independent element in social determinants of health (SDoH) models. During the early COVID-19 pandemic, healthcare policymakers began to recognize the threat medical misinformation presents to public health, however, major health agencies have yet to formally adopt information environments into their models, which indicates that further argument and advocacy are required to bring about needed institutional changes. We present empirical evidence demonstrating how information environments significantly influence health-related beliefs, behaviors, and outcomes. Drawing on cultural evolution, social epistemology, and social network analysis, we integrate multidisciplinary theoretical frameworks which explain and predict how information environments function analogously to established SDoH factors. This parallel implies that healthcare institutions should apply similar resources and concern to information environments as they do to other SDoH. Recognizing information environment as an SDoH is critical for addressing health inequities in the digital age. We conclude with policy recommendations for public health institutions. By incorporating information environment into SDoH models, health policy can more effectively combat misinformation, promote health equity, and improve population health outcomes in our increasingly complex information landscape."
+  },
+  {
+   "paperId": "c059d85d4e924bf754a2c586fcea00c2fcd70585",
+   "externalIds": {
+    "PubMedCentral": "11300038",
+    "DOI": "10.1093/poq/nfae019",
+    "CorpusId": 271717024,
+    "PubMed": "39109090"
+   },
+   "url": "https://www.semanticscholar.org/paper/c059d85d4e924bf754a2c586fcea00c2fcd70585",
+   "title": "The Electoral Misinformation Nexus: How News Consumption, Platform Use, and Trust in News Influence Belief in Electoral Misinformation",
+   "venue": "Public Opinion Quarterly",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://academic.oup.com/poq/article-pdf/88/SI/681/58740401/nfae019.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11300038, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "News",
+    "Review"
+   ],
+   "publicationDate": "2024-07-22",
+   "authors": [
+    {
+     "authorId": "2081201687",
+     "name": "Camila Mont'Alverne"
+    },
+    {
+     "authorId": "118951501",
+     "name": "A. R. Arguedas"
+    },
+    {
+     "authorId": "2314896466",
+     "name": "Sayan Banerjee"
+    },
+    {
+     "authorId": "114619723",
+     "name": "Benjamin J. Toff"
+    },
+    {
+     "authorId": "2285516716",
+     "name": "Richard Fletcher"
+    },
+    {
+     "authorId": "2285591744",
+     "name": "Rasmus Kleis Nielsen"
+    }
+   ],
+   "abstract": "Abstract Electoral misinformation, where citizens believe false or misleading claims about the electoral process and electoral institutions—sometimes actively and strategically spread by political actors—is a challenge to public confidence in elections specifically and democracy more broadly. In this article, we analyze a combination of 42 million clicks in links and apps from behavioral tracking data of 2,200 internet users and a four-wave panel survey to investigate how different kinds of online news and media use relate to beliefs in electoral misinformation during a contentious political period—the 2022 Brazilian presidential elections. We find that, controlling for other factors, using news from legacy news media is associated with belief in fewer claims of electoral misinformation over time. We find null or inconsistent effects for using digital-born news media and various digital platforms, including Facebook and WhatsApp. Furthermore, we find that trust in news plays a significant role as a moderator. Belief in electoral misinformation, in turn, undermines trust in news. Overall, our findings document the important role of the news media as an institution in curbing electoral misinformation, even as they also underline the precarity of trust in news during contentious political periods."
+  },
+  {
+   "paperId": "114063b611c943eca497ead605077443abd87c4d",
+   "externalIds": {
+    "PubMedCentral": "11377563",
+    "DOI": "10.1038/s41598-024-71599-6",
+    "CorpusId": 272426497,
+    "PubMed": "39237648"
+   },
+   "url": "https://www.semanticscholar.org/paper/114063b611c943eca497ead605077443abd87c4d",
+   "title": "Investigating the role of source and source trust in prebunks and debunks of misinformation in online experiments across four EU countries",
+   "venue": "Scientific Reports",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-024-71599-6.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-09-05",
+   "authors": [
+    {
+     "authorId": "2319854987",
+     "name": "Hendrik Bruns"
+    },
+    {
+     "authorId": "115944384",
+     "name": "F. Dessart"
+    },
+    {
+     "authorId": "112986415",
+     "name": "M. Krawczyk"
+    },
+    {
+     "authorId": "2573193",
+     "name": "S. Lewandowsky"
+    },
+    {
+     "authorId": "3285442",
+     "name": "M. Pantazi"
+    },
+    {
+     "authorId": "2998138",
+     "name": "G. Pennycook"
+    },
+    {
+     "authorId": "2068468483",
+     "name": "P. Schmid"
+    },
+    {
+     "authorId": "49827692",
+     "name": "L. Smillie"
+    }
+   ],
+   "abstract": "Misinformation surrounding crises poses a significant challenge for public institutions. Understanding the relative effectiveness of different types of interventions to counter misinformation, and which segments of the population are most and least receptive to them, is crucial. We conducted a preregistered online experiment involving 5228 participants from Germany, Greece, Ireland, and Poland. Participants were exposed to misinformation on climate change or COVID-19. In addition, they were pre-emptively exposed to a prebunk, warning them of commonly used misleading strategies, before encountering the misinformation, or were exposed to a debunking intervention afterwards. The source of the intervention (i.e. the European Commission) was either revealed or not. The findings show that both interventions change four variables reflecting vulnerability to misinformation in the expected direction in almost all cases, with debunks being slightly more effective than prebunks. Revealing the source of the interventions did not significantly impact their overall effectiveness. One case of undesirable effect heterogeneity was observed: debunks with revealed sources were less effective in decreasing the credibility of misinformation for people with low levels of trust in the European Union (as elicited in a post-experimental questionnaire). While our results mostly suggest that the European Commission, and possibly other public institutions, can confidently debunk and prebunk misinformation regardless of the trust level of the recipients, further evidence on this is needed."
+  },
+  {
+   "paperId": "f1036e31dd1584a82f4e2ef404206d9b502149ab",
+   "externalIds": {
+    "DOI": "10.31219/osf.io/9ua2x",
+    "CorpusId": 246956437
+   },
+   "url": "https://www.semanticscholar.org/paper/f1036e31dd1584a82f4e2ef404206d9b502149ab",
+   "title": "The COVID States Project #82: COVID-19 vaccine misinformation trends, awareness of expert consensus, and trust in social institutions",
+   "venue": "",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://osf.io/9ua2x/download",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31219/osf.io/9ua2x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31219/osf.io/9ua2x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-02-15",
+   "authors": [
+    {
+     "authorId": "3026226",
+     "name": "K. Ognyanova"
+    },
+    {
+     "authorId": "3185333",
+     "name": "D. Lazer"
+    },
+    {
+     "authorId": "40508064",
+     "name": "M. Baum"
+    },
+    {
+     "authorId": "4889956",
+     "name": "R. Perlis"
+    },
+    {
+     "authorId": "4106384",
+     "name": "J. Druckman"
+    },
+    {
+     "authorId": "144982204",
+     "name": "M. Santillana"
+    },
+    {
+     "authorId": "2149526590",
+     "name": "Hong Qu"
+    },
+    {
+     "authorId": "2489632108",
+     "name": "Kristin Lunz Trujillo"
+    },
+    {
+     "authorId": "1816580853",
+     "name": "Alauna C. Safarpour"
+    },
+    {
+     "authorId": "2044890537",
+     "name": "A. Uslu"
+    },
+    {
+     "authorId": "2004364619",
+     "name": "Alexi Quintana"
+    },
+    {
+     "authorId": "152484778",
+     "name": "Jon Green"
+    },
+    {
+     "authorId": "2134133779",
+     "name": "C. Pippert"
+    },
+    {
+     "authorId": "1868126808",
+     "name": "Anjuli R. K. Shere"
+    }
+   ],
+   "abstract": "Misinformation remains an important public health concern, especially as it is widely seen as a factor affecting people’s behavior during the COVID-19 pandemic. In past reports, we have discussed the prevalence and demographics of COVID-19 misinformation, its link to vaccination rates, and its dependence on social media news consumption.Here, we examine the over-time shifts in COVID-19 vaccine misperceptions across different social groups. We explore whether those who believe misinformation are aware that their views contradict the prevailing opinion of scientists and medical experts. We highlight the connection between COVID-19 misinformation and trust in the government, media, science and medicine. Finally, we update our findings linking misperceptions with attitudes towards the COVID-19 vaccine."
+  },
+  {
+   "paperId": "5f4eea7fafed527691274d88c67197e00f42ff3d",
+   "externalIds": {
+    "PubMedCentral": "12555323",
+    "DOI": "10.1093/eurpub/ckaf161.002",
+    "CorpusId": 282392142
+   },
+   "url": "https://www.semanticscholar.org/paper/5f4eea7fafed527691274d88c67197e00f42ff3d",
+   "title": "Public health in the era of misinformation and disinformation",
+   "venue": "European Journal of Public Health",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1093/eurpub/ckaf161.002",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12555323, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-01",
+   "authors": [
+    {
+     "authorId": "2387919151",
+     "name": "MartinMcKee"
+    },
+    {
+     "authorId": "119094768",
+     "name": "Sandra Gallina"
+    },
+    {
+     "authorId": "2583316582",
+     "name": "BjörnKümmel"
+    },
+    {
+     "authorId": "1558079075",
+     "name": "F. Colombo"
+    },
+    {
+     "authorId": "49249577",
+     "name": "F. Cascini"
+    }
+   ],
+   "abstract": "Abstract   The digital era has transformed public health communication into a high-stakes balancing act. As misinformation and disinformation proliferate, health authorities face unprecedented challenges in maintaining public trust while adapting to the dynamic nature of scientific evidence. This plenary will explore how the public health community can uphold scientific integrity, communicate uncertainty with humility, and counter harmful narratives-without compromising the boldness required to drive meaningful action. The dual crisis erosion of trust and ideological polarization Public health institutions are navigating a landscape where facts increasingly compete with ideology. The COVID-19 pandemic laid bare the vulnerabilities and exposed the fragility of health communication systems: rapidly evolving guidelines, shifting recommendations, conflicting expert opinions, and politicized debates eroded public confidence and contributed to public skepticism. Today, misinformation thrives not only on social media but also through targeted disinformation campaigns that exploit emotional narratives and systemic inequities. Vulnerable populations-those with limited health literacy or preexisting distrust in institutions-are disproportionately affected, exacerbating disparities. Science, uncertainty, and controversy Scientific inquiry is inherently dynamic and iterative, yet this process often clashes with public expectations for definitive answers, meaning that its provisional nature can be at odds with public expectations for certainty. Two forms of controversy demand attention: 1. Divergent perspectives among researchers: Differences in methodologies, theoretical frameworks, or interpretations of data can lead to legitimate disagreements. For example, debates over screening guidelines or treatment protocols often reflect trade-offs between individual and population-level outcomes. 2. Evolving evidence: New discoveries can upend previous consensus, as seen with shifting understandings of COVID-19 transmission or vaccine efficacy. While this flexibility is a strength of science, it risks being mischaracterized as incompetence or dishonesty. These controversies underscore the need for transparency. Acknowledging uncertainty, while explaining how evidence is weighed, can mitigate perceptions of inconsistency. Openly discussing the process by which evidence is generated, evaluated, and sometimes revised can help demystify science and reduce perceptions of arbitrariness. Strategies for humble and bold communication Effective public health communication in this climate requires both humility and resolve: 1. Normalize uncertainty: Frame uncertainty as inherent to scientific progress. For instance, instead of dismissing past guidelines, clarify how new data refined recommendations. 2. Anticipate, address, and prebunk misinformation: Proactively address common myths by equipping audiences with critical thinking tools, improving systems with an emphasis on preemptive messaging to reduce susceptibility to false claims. 3. Leverage trusted messengers: Collaborate with community leaders, healthcare providers, and influencers who resonate with specific demographics. Trust is built through cultural relevance and consistency. 4. Prioritize clarity, accessibility, and nuance: Use straightforward, plain language and clear explanations to convey complex information without oversimplifying and to explain risk-benefit analyses and evidence hierarchies. Avoid absolutist language that may later require retraction. A call to action for EUPHA and beyond This plenary marks the launch of EUPHA’s long-term initiative and sustained commitment to strengthen public health communication ecosystems. Panelists will be invited to: 1. Share practical experiences in managing scientific controversies and public scepticism. 2. Share case studies on navigating controversies (e.g., vaccine hesitancy, climate health policies). 3. Explore innovative tools for monitoring and countering misinformation, such as AI-driven misinformation monitoring or participatory community dialogues. 4. Reflect on personal experiences where humility in communication preserved trust during crises, particularly in moments of uncertainty or evolving evidence. The session will prioritize interactive dialogue, recognizing that solutions must be co-created with diverse stakeholders. Post-conference, EUPHA will establish working groups to develop practical, actionable frameworks for addressing misinformation, training health professionals in risk communication, and advocating for evidence-informed policy. Moderators Charlotte Marchandise Executive Director EUPHA Orkan Okan President EUPHA Health literacy section Speakers/Panellists Götz Gottschalk Head of Health, YouTube (Google), Germany Seema Yasmin Emmy Award-winning journalist, Clinical Assistant Professor, Medicine, Stanford University, USA Sanna Vesikansa Director, Crisis Services MIELI Mental Health, Finland"
+  },
+  {
+   "paperId": "5501d45b58ca969a085a64185cfa9d6a75d75bcc",
+   "externalIds": {
+    "DOI": "10.1109/CSITSS67709.2025.11294561",
+    "CorpusId": 284019825
+   },
+   "url": "https://www.semanticscholar.org/paper/5501d45b58ca969a085a64185cfa9d6a75d75bcc",
+   "title": "Building Trust in AI: A Hybrid Approach to Combating Fake News and Misinformation",
+   "venue": "2025 9th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CSITSS67709.2025.11294561?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CSITSS67709.2025.11294561, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-11-20",
+   "authors": [
+    {
+     "authorId": "48958737",
+     "name": "P. Verma"
+    },
+    {
+     "authorId": "2403948722",
+     "name": "Manoj Kumar S"
+    },
+    {
+     "authorId": "2568933843",
+     "name": "Harsh Deep"
+    },
+    {
+     "authorId": "2375918448",
+     "name": "Kumar Chinmay"
+    }
+   ],
+   "abstract": "The increasing spread of fake news in the digital world has become very concerning with respect to information authenticity and public trust. This paper proposes a comprehensive automated fake news detection system based on Natural Language Processing (NLP) and Retrieval-Augmented Generation (RAG) to automate content verification. The system utilizes an integrated approach combining language comprehension and dynamic knowledge retrieval for evaluating news headlines and articles. Real-time verification is done through a web interface which displays confidence scores, the evidence used for retrieval, and insight on the content retrieval patterns. The model achieves approximately 92.5% accuracy with an 8% false-positive rate on benchmark datasets. Its modular architecture allows for external API integration, enabling scalability for use in newsrooms, educational institutions, and as monitoring tools for social media. In alignment with Sustainable Development Goals (SDGs) 16, this system-defines, and seeks to solve the issue of misinformation while promoting digital media literacy and explains the gap that exists between AI understanding and communication, where trust is essential."
+  },
+  {
+   "paperId": "fdcc64cd36b85c94a0d1fc11194f1495a655b4ba",
+   "externalIds": {
+    "DOI": "10.1080/1369118X.2024.2413121",
+    "CorpusId": 273300892
+   },
+   "url": "https://www.semanticscholar.org/paper/fdcc64cd36b85c94a0d1fc11194f1495a655b4ba",
+   "title": "Have people ‘had enough of experts’? The impact of populism and pandemic misinformation on institutional trust in comparative perspective",
+   "venue": "Information, Communication &amp; Society",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2024.2413121?needAccess=true",
+    "status": "HYBRID",
+    "license": "public-domain",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/1369118X.2024.2413121?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/1369118X.2024.2413121, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-10-11",
+   "authors": [
+    {
+     "authorId": "1868522",
+     "name": "Václav Štětka"
+    },
+    {
+     "authorId": "2325585167",
+     "name": "Francisco Brandao"
+    },
+    {
+     "authorId": "3376702",
+     "name": "Sabina Mihelj"
+    },
+    {
+     "authorId": "1402409653",
+     "name": "Fanni Tóth"
+    },
+    {
+     "authorId": "13734825",
+     "name": "D. Hallin"
+    },
+    {
+     "authorId": "104585910",
+     "name": "Danilo Rothberg"
+    },
+    {
+     "authorId": "71048744",
+     "name": "Paulo Ferracioli"
+    },
+    {
+     "authorId": "104594909",
+     "name": "B. Klimkiewicz"
+    }
+   ],
+   "abstract": "ABSTRACT Public trust in institutions is a key prerequisite for effective crisis management. However, the rise of populism and misinformation in recent years made it increasingly difficult to maintain institutional trust. Despite this recognition, we still lack a systematic understanding of how exposure to misinformation and populist political orientation affect people’s trust in institutions. This paper fills this gap by adopting an original approach to trust, focusing on prospective trust rather than trust in the present, and by comparing four countries led by populist leaders during the pandemic – Brazil, Poland, Serbia, and the United States. The comparative design allows us to consider not only the role of individual-level factors (populist attitudes and misinformation exposure) but also the role of different approaches to the COVID-19 pandemic adopted in the four countries. The study utilizes data from a cross-sectional survey, carried out between November and December 2022 (N = 5000). Our findings show that populist attitudes are the most significant predictor of distrust in political institutions in all four countries. Believing in false information related to COVID-19, on the other hand, has a stronger impact on distrust in expert institutions – public health authorities, scientists, and medical professionals. The data also highlight the importance of local context and different approaches to handling the pandemic in the dynamics of trust. In Poland and Serbia, populist voters have more trust in both healthcare authorities as well as in political institutions; however, in Brazil and the United States, populist voters were more likely to distrust expert institutions."
+  },
+  {
+   "paperId": "b1d191682582f5d04d69d6db80882de202d25b94",
+   "externalIds": {
+    "DOI": "10.1177/02673231241294185",
+    "CorpusId": 274088447
+   },
+   "url": "https://www.semanticscholar.org/paper/b1d191682582f5d04d69d6db80882de202d25b94",
+   "title": "Public service media as pivotal in combating misinformation and disinformation: prerequisites and approaches",
+   "venue": "European Journal of Communication",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1177/02673231241294185",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/02673231241294185?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/02673231241294185, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-14",
+   "authors": [
+    {
+     "authorId": "35610562",
+     "name": "Annika Sehl"
+    }
+   ],
+   "abstract": "The communicative environment of public service media (PSM) has changed considerably due to the digital transformation. This includes the dissemination of misinformation and disinformation on social media platforms, which has the potential to undermine democracy. Against this background, the paper argues that the role of PSM should be expanded beyond the core tasks of high-quality, diverse and impartial reporting. PSM should increasingly also act as institutions that monitor social media, evaluate, and validate external information. In addition, they should engage in enhancing media literacy and developing genuine PSM platforms. The paper discusses the opportunities and limitations of each approach and addresses prerequisites for PSM, such as political independence and societal trust. It thus contributes to the understanding how PSM can continue to fulfil their democratic role under new conditions."
+  },
+  {
+   "paperId": "cbe771d47db348d3bf5a18ba881728abd5580c82",
+   "externalIds": {
+    "DOI": "10.62497/irabcs.235",
+    "CorpusId": 289884051
+   },
+   "url": "https://www.semanticscholar.org/paper/cbe771d47db348d3bf5a18ba881728abd5580c82",
+   "title": "Strengthening Risk Communication and Community Engagement in Public Health Emergencies: A Public Health Framework with Biological Science Insights for Trust, Misinformation Management, and Community Resilience",
+   "venue": "Innovative Research in Applied, Biological and Chemical Sciences",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.62497/irabcs.235",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62497/irabcs.235?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62497/irabcs.235, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-06-30",
+   "authors": [
+    {
+     "authorId": "2571939440",
+     "name": "A. Patient"
+    },
+    {
+     "authorId": "2447522717",
+     "name": "Abdussalam Khattak"
+    }
+   ],
+   "abstract": "Background: Public health emergencies are biological and social events. Outbreaks and humanitarian health crises are shaped by pathogen transmission, incubation periods, host susceptibility, immune protection, environmental exposure, and health-system capacity, but they cannot be controlled by biomedical measures alone. Clear risk communication and genuine community engagement are required so that people understand biological hazards, trust response institutions, and participate in protective public health action. \nAim: This paper reviews and synthesizes evidence on risk communication and community engagement (RCCE) and proposes a practical public health framework that gives a light biological-science touch to outbreak communication, including transmission, vaccination, immunity, and disease-control behavior. \nMethods: A structured narrative review approach was used to synthesize foundational and recent peer-reviewed literature on risk perception, crisis and emergency risk communication, community participation, Ebola response, COVID-19 response, vaccine confidence, health literacy, infodemic management, and biological concepts relevant to public health emergencies, including pathogen spread, immune protection, and outbreak-control measures. Fifty DOI-supported sources were selected and organized through thematic synthesis. \nResults: The synthesis identified six recurrent public health RCCE domains: trust and credibility; early transparent messaging; two-way community participation; culturally appropriate and health-literate communication; social listening and misinformation management; and institutionalization of RCCE in preparedness systems. Across these domains, a biological translation lens is needed so that scientific concepts such as modes of transmission, exposure risk, vaccination, variants, and immunity are converted into simple, culturally appropriate, and actionable community messages. \nConclusion: RCCE should be treated as a core public health emergency-response capacity rather than a supporting activity. A professional RCCE system requires trained personnel, community partnerships before crises, real-time rumor tracking, inclusive message design, local feedback loops, transparent acknowledgement of uncertainty, and the ability to translate biological evidence into trusted public health action. Monitoring indicators should therefore be linked to behavioral, trust, equity, and disease-control outcomes."
+  },
+  {
+   "paperId": "7b52eb19e593ebe9a8f642823c1022786b03c809",
+   "externalIds": {
+    "DOI": "10.71335/ev40n127",
+    "CorpusId": 290173221
+   },
+   "url": "https://www.semanticscholar.org/paper/7b52eb19e593ebe9a8f642823c1022786b03c809",
+   "title": "The Strategic Impact of Digital Media Strategies on Enhancing Organizational Crisis Response and Building Public Trust in the Kingdom of Saudi Arabia",
+   "venue": "Midocean Journal for Research and Studies",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.71335/ev40n127?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.71335/ev40n127, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-12",
+   "authors": [
+    {
+     "authorId": "2449903027",
+     "name": "Basmah ALanmai"
+    }
+   ],
+   "abstract": "Objectives: This study aimed to examine the strategic role of digital media in enhancing organizational crisis response and building public trust in Saudi Arabia through rapid digital transformation and the growing reliance on digital platforms as a primary channel for institutional communication during crises. \nMethodology: The study adopted the descriptive analytical approach by collecting data through an electronic questionnaire distributed to a purposive sample of 120 corporate communication employees in Saudi institutions. The study instrument consisted of four main dimensions: demographic characteristics, improving organizational crisis response, enhancing public trust in the organization, and the quality of digital communication strategies. \nResults: The findings revealed a statistically significant positive role of digital media in improving the speed of organizational crisis response, reducing the spread of rumors and misinformation, and clarifying procedures taken to address crises, thereby enhancing public perceptions of organizational transparency and communication efficiency. The results also showed that the quality of digital communication strategies, including message clarity, consistency, and timing, plays a crucial role in building organizational trust during crises. \nConclusion: The study concluded that there is a need to develop specialized digital communication strategies for crisis management, intensify professional training programs for corporate communication employees, and employ digital data analysis tools to monitor public opinion trends and enhance human interaction and transparency, thereby strengthening institutional readiness for future crises and building trust-based relationships with the public. "
+  },
+  {
+   "paperId": "641a965ba449f7d9e81b218ea4625faa44bc73ec",
+   "externalIds": {
+    "DOI": "10.24815/riwayat.v9i1.180",
+    "CorpusId": 285009688
+   },
+   "url": "https://www.semanticscholar.org/paper/641a965ba449f7d9e81b218ea4625faa44bc73ec",
+   "title": "Dynamics of Public Trust in Government amid Information Disruption in Southeast Asia",
+   "venue": "Riwayat: Educational Journal of History and Humanities",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://ejournal.yaydi.com/index.php/riwayat/article/download/180/121",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24815/riwayat.v9i1.180?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24815/riwayat.v9i1.180, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-01-22",
+   "authors": [
+    {
+     "authorId": "2376633799",
+     "name": "Yunaz Farada Yoga"
+    },
+    {
+     "authorId": "116843411",
+     "name": "R. Haris"
+    }
+   ],
+   "abstract": "Information disruption characterized by the acceleration of digital communication flows, the spread of misinformation and disinformation, and the fragmentation of online public spaces have affected the pattern of public trust in governments in Southeast Asia. This study aims to analyze the dynamics of public trust in the context of information disorder, paying attention to the role of institutional factors and the cognitive capacity of the community. The study used a mixed-methods approach by combining a quantitative survey of 720 adult respondents (≥18 years) recruited through stratified purposive sampling in three Southeast Asian countries, Indonesia, Malaysia, and the Philippines, as well as in-depth interviews with 24 key informants consisting of government officials, journalists, academics, and civil society representatives. Regression analysis and differential testing showed that exposure to disinformation content was significantly negatively associated with the level of public trust in government institutions, particularly in the credibility aspect of policy communication. However, the results of the study also show that digital media literacy and perception of government transparency function as protective variables that can moderate the negative impact of information disruption. The qualitative findings confirm that the decline in public trust is not only triggered by the existence of false information, but also by weaknesses in government communication responses that are considered less responsive and participatory. This research makes a theoretical contribution to the understanding of public trust in the digital information ecosystem in Southeast Asia and offers policy implications in the form of strengthening public communication strategies, improving information literacy, and developing cross-sectoral collaborative mechanisms in the face of information disruption."
+  },
+  {
+   "paperId": "c43ef61f7fc1351092d120a28a35cf64854fc9f8",
+   "externalIds": {
+    "DOI": "10.1080/1369118X.2025.2561030",
+    "CorpusId": 281570828
+   },
+   "url": "https://www.semanticscholar.org/paper/c43ef61f7fc1351092d120a28a35cf64854fc9f8",
+   "title": "Separate worlds of misinformation. An explorative study of checked claims in German public broadcast news and talk shows",
+   "venue": "Information, Communication &amp; Society",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1080/1369118x.2025.2561030",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/1369118X.2025.2561030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/1369118X.2025.2561030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-22",
+   "authors": [
+    {
+     "authorId": "2300959003",
+     "name": "Sami Nenno"
+    }
+   ],
+   "abstract": "ABSTRACT Research on misinformation has mostly focused on social and alternative media. By contrast, we know little about the extent of misinformation in mainstream media. While many argue that it acts as a gatekeeper, others think it could amplify the reach of misinformation. This study investigates misinformation on public broadcasting television. By semi-automatically matching fact-checked claims with statements from the subtitles of four German news and six talk shows, the study examines the dynamics of these claims. It finds 77 matches in 67 episodes, amounting to 4.85% of the 1382 episodes during the sampling period between June 2023 and June 2024. The rate is higher for talk shows (11.62%) than for news shows (2.28%). The claims cover a range of topics and often aim to destabilize trust in public institutions or discredit the political course of opposing parties. In most cases, they are made by politicians from populist or (far) right parties. In about half of cases, the claim is contradicted by the journalist or talk show guest, but often it is left uncommented, even if the claim was fact-checked before or the speaker was already known to have made the claim. The match rate for fact-checking organizations increases with their affinity for checking claims made by public figures. At the same time, the study finds no evidence that misinformation from anonymous online sources has infiltrated public broadcasting. This speaks against an amplification effect and points to a separation between online misinformation and that found on public television."
+  }
+ ]
+}

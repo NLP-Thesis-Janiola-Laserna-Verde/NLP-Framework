@@ -1,0 +1,1331 @@
+{
+ "query": "Maternal and child nutrition interventions",
+ "retrieved_at": "2026-11-18T18:10:10.045325+00:00",
+ "data": [
+  {
+   "paperId": "117f4da18db6acdd91b54377e6df1dc0efea012f",
+   "externalIds": {
+    "PubMedCentral": "13531365",
+    "DOI": "10.1111/mcn.70233",
+    "CorpusId": 291677479,
+    "PubMed": "42677683"
+   },
+   "url": "https://www.semanticscholar.org/paper/117f4da18db6acdd91b54377e6df1dc0efea012f",
+   "title": "Co‐Coverage of Social Protection Programs and Maternal and Child Nutrition Interventions in Bangladesh, India and Nepal",
+   "venue": "medRxiv",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mcn.70233",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13531365, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-01-23",
+   "authors": [
+    {
+     "authorId": "47194598",
+     "name": "S. Scott"
+    },
+    {
+     "authorId": "2111703838",
+     "name": "S. Neupane"
+    },
+    {
+     "authorId": "1520435278",
+     "name": "Hana Tasic"
+    },
+    {
+     "authorId": "5841392",
+     "name": "N. Akseer"
+    },
+    {
+     "authorId": "80278781",
+     "name": "Sunny S. Kim"
+    },
+    {
+     "authorId": "145847431",
+     "name": "H. Alderman"
+    },
+    {
+     "authorId": "15015916",
+     "name": "B. Carducci"
+    },
+    {
+     "authorId": "3824603",
+     "name": "R. Heidkamp"
+    }
+   ],
+   "abstract": "Social protection programs (SPPs) are commonly used in South Asia to address inequities in meeting basic needs. Provision of both SPP benefits and essential health/nutrition interventions to mothers and children is a goal toward optimal health and development outcomes, but co‐coverage of SPPs and health/nutrition interventions among beneficiary households is poorly described. Using six population‐based surveys in Bangladesh, India, and Nepal (n = 253,703 women with children under 5 years of age), we examined data availability for SPPs (food and cash transfers) and health/nutrition interventions, and estimated their coverage and co‐coverage during a woman's last pregnancy (interventions: take‐home food rations plus at least four antenatal care visits, receipt of iron‐folic acid tablets, deworming, and tetanus injections), after delivery (cash benefit plus the interventions above), and in children (take‐home ration for the child plus vitamin A supplementation, deworming, iron syrup, growth monitoring, and nutrition counseling). In India, 52% and 51% of women and children, respectively, received food transfers, but only 3% and 8% received food plus all health/nutrition interventions. In India and Nepal, respectively, cash after delivery was received by 41% and 86% of women, but only 4% and 22% received cash after delivery plus all health/nutrition interventions. There were insufficient data to estimate co‐coverage in Bangladesh, which only had data on cash/food transfers but not on health/nutrition interventions. Our findings highlight the need for data on both SPP and health/nutrition intervention coverage in household surveys to be able to estimate co‐coverage. Estimates of co‐coverage help identify missed opportunities to reach women and children with interventions across multiple sectors."
+  },
+  {
+   "paperId": "980926146c0b5474ae014638aadd302dad196239",
+   "externalIds": {
+    "DOI": "10.69855/gizi.v1i1.488",
+    "CorpusId": 290766638
+   },
+   "url": "https://www.semanticscholar.org/paper/980926146c0b5474ae014638aadd302dad196239",
+   "title": "Maternal and Child Nutrition Interventions to Improve Child Nutritional Status: A Literature Review",
+   "venue": "Growth, Innovation, and Nutrition Science in Indonesia",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://gpijournal.com/index.php/gizi/article/download/488/511",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.69855/gizi.v1i1.488?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.69855/gizi.v1i1.488, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-06-15",
+   "authors": [
+    {
+     "authorId": "2132668104",
+     "name": "Yania Febsi"
+    },
+    {
+     "authorId": "81285584",
+     "name": "S. A. Lusiana"
+    },
+    {
+     "authorId": "2309893610",
+     "name": "K. Fadly"
+    },
+    {
+     "authorId": "96594883",
+     "name": "Windy Rizkaprilisa"
+    },
+    {
+     "authorId": "90890388",
+     "name": "Rosmauli Jerimia Fitriani"
+    }
+   ],
+   "abstract": "Maternal and child malnutrition remains a major global public health challenge, particularly in low- and middle-income countries, where stunting, wasting, and micronutrient deficiencies persist despite ongoing nutrition programs. This narrative literature review synthesizes evidence on the effectiveness of maternal and child nutrition interventions implemented between 2015 and 2025 to improve child nutritional status. A structured literature search was conducted in PubMed, Scopus, ScienceDirect, and Google Scholar following general PRISMA principles. A total of 42 peer-reviewed articles were included and analyzed using thematic synthesis. Data extraction focused on study design, intervention components, target populations, and nutritional outcomes, including stunting, wasting, breastfeeding practices, and dietary diversity. Three major intervention themes were identified: maternal nutrition interventions, infant and young child feeding (IYCF) interventions, and integrated maternal-child nutrition programs. Maternal nutrition counselling and micronutrient supplementation were associated with improved birth outcomes and reduced risks of low birth weight and stunting. IYCF interventions, particularly exclusive breastfeeding promotion and complementary feeding education, improved dietary diversity and child growth indicators. Integrated maternal-child nutrition programs demonstrated the most consistent improvements across multiple nutritional outcomes. The findings emphasize the importance of strengthening integrated, community-based nutrition programs that support the continuum of care from pregnancy through early childhood. Further longitudinal and cost-effectiveness studies are needed to support large-scale implementation."
+  },
+  {
+   "paperId": "18503dddf88c760a688fdefb82ddb2a4d4a32f9e",
+   "externalIds": {
+    "MAG": "2183254885",
+    "DOI": "10.1016/S0140-6736(13)60996-4",
+    "CorpusId": 11748341,
+    "PubMed": "23746776"
+   },
+   "url": "https://www.semanticscholar.org/paper/18503dddf88c760a688fdefb82ddb2a4d4a32f9e",
+   "title": "Evidence-based interventions for improvement of maternal and child nutrition: what can be done and at what cost?",
+   "venue": "The Lancet",
+   "year": 2013,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S0140-6736(13)60996-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S0140-6736(13)60996-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2013-08-03",
+   "authors": [
+    {
+     "authorId": "2136102047",
+     "name": "Z. Bhutta"
+    },
+    {
+     "authorId": "35131730",
+     "name": "J. Das"
+    },
+    {
+     "authorId": "3316400",
+     "name": "A. Rizvi"
+    },
+    {
+     "authorId": "32842282",
+     "name": "Michelle F. Gaffey"
+    },
+    {
+     "authorId": "145057385",
+     "name": "N. Walker"
+    },
+    {
+     "authorId": "47791551",
+     "name": "S. Horton"
+    },
+    {
+     "authorId": "145573164",
+     "name": "P. Webb"
+    },
+    {
+     "authorId": "6042643",
+     "name": "A. Lartey"
+    },
+    {
+     "authorId": "152878068",
+     "name": "R. Black"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "7671c7f5425cd8e696f6bd0f331596b5fd8c4456",
+   "externalIds": {
+    "PubMedCentral": "5290617",
+    "MAG": "2583695081",
+    "DOI": "10.1186/s12889-017-4088-z",
+    "CorpusId": 1899251,
+    "PubMed": "28153041"
+   },
+   "url": "https://www.semanticscholar.org/paper/7671c7f5425cd8e696f6bd0f331596b5fd8c4456",
+   "title": "Understanding the role of intersectoral convergence in the delivery of essential maternal and child nutrition interventions in Odisha, India: a qualitative study",
+   "venue": "BMC Public Health",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-017-4088-z",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5290617, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Study",
+    "Review"
+   ],
+   "publicationDate": "2017-02-02",
+   "authors": [
+    {
+     "authorId": "80278781",
+     "name": "Sunny S. Kim"
+    },
+    {
+     "authorId": "2522391",
+     "name": "R. Avula"
+    },
+    {
+     "authorId": "4373837",
+     "name": "R. Ved"
+    },
+    {
+     "authorId": "2065623225",
+     "name": "Neha Kohli"
+    },
+    {
+     "authorId": "2109143693",
+     "name": "Kavita Singh"
+    },
+    {
+     "authorId": "2496310117",
+     "name": "M. van den Bold"
+    },
+    {
+     "authorId": "3876192",
+     "name": "S. Kadiyala"
+    },
+    {
+     "authorId": "145019782",
+     "name": "P. Menon"
+    }
+   ],
+   "abstract": "BackgroundConvergence of sectoral programs is important for scaling up essential maternal and child health and nutrition interventions. In India, these interventions are implemented by two government programs – Integrated Child Development Services (ICDS) and National Rural Health Mission (NRHM). These programs are designed to work together, but there is limited understanding of the nature and extent of coordination in place and needed at the various administrative levels. Our study examined how intersectoral convergence in nutrition programming is operationalized between ICDS and NRHM from the state to village levels in Odisha, and the factors influencing convergence in policy implementation and service delivery.MethodsSemi-structured interviews were conducted with state-level stakeholders (n = 12), district (n = 19) and block officials (n = 66), and frontline workers (FLWs, n = 48). Systematic coding and content analysis of transcripts were undertaken to elucidate themes and patterns related to the degree and mechanisms of convergence, types of actions/services, and facilitators and barriers.ResultsClose collaboration at state level was observed in developing guidelines, planning, and reviewing programs, facilitated by a shared motivation and recognized leadership for coordination. However, the health department was perceived to drive the agenda, and different priorities and little data sharing presented challenges. At the district level, there were joint planning and review meetings, trainings, and data sharing, but poor participation in the intersectoral meetings and limited supervision. While the block level is the hub for planning and supervision, cooperation is limited by the lack of guidelines for coordination, heavy workload, inadequate resources, and poor communication. Strong collaboration among FLWs was facilitated by close interpersonal communication and mutual understanding of roles and responsibilities.ConclusionsCongruent or shared priorities and regularity of actions between sectors across all levels will likely improve the quality of coordination, and clear roles and leadership and accountability are imperative. As convergence is a means to achieving effective coverage and delivery of services for improved maternal and child health and nutrition, focus should be on delivering all the essential services to the mother-child dyads through mechanisms that facilitate a continuum of care approach, rather than sectorally-driven, service-specific delivery processes."
+  },
+  {
+   "paperId": "06cbd0201c7f033d7f94fc5751766da141a0402e",
+   "externalIds": {
+    "PubMedCentral": "13205709",
+    "DOI": "10.1111/mcn.70199",
+    "CorpusId": 288637202,
+    "PubMed": "42169396"
+   },
+   "url": "https://www.semanticscholar.org/paper/06cbd0201c7f033d7f94fc5751766da141a0402e",
+   "title": "Understanding Opportunity Costs of Women Participating in Maternal and Child Nutrition Interventions in Southern Angola: Evidence From the MuCCUA Trial",
+   "venue": "Maternal and Child Nutrition",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mcn.70199",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13205709, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Study",
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-05-21",
+   "authors": [
+    {
+     "authorId": "1413288217",
+     "name": "R. Martin-Cañavate"
+    },
+    {
+     "authorId": "2306860219",
+     "name": "Antonio Pujol-Decastro"
+    },
+    {
+     "authorId": "4409391",
+     "name": "Chloe Puett"
+    },
+    {
+     "authorId": "50353055",
+     "name": "E. Trigo"
+    },
+    {
+     "authorId": "2261549076",
+     "name": "M. Faria"
+    },
+    {
+     "authorId": "2364866298",
+     "name": "A. Gerardo"
+    },
+    {
+     "authorId": "2275134073",
+     "name": "A. Vargas"
+    },
+    {
+     "authorId": "143994905",
+     "name": "I. Molina"
+    },
+    {
+     "authorId": "2261627955",
+     "name": "E. Custodio"
+    }
+   ],
+   "abstract": "Stunting remains highly prevalent in Angola. Multisectoral interventions are essential to prevent this public health issue, and while economic evaluations have assessed the costs and consequences of these interventions, they have largely overlooked costs incurred by participants. The MuCCUA trial evaluates the cost‐effectiveness of three interventions to prevent stunting during the first 1000 days: standard of care (SOC), SOC plus nutritional supplementation (SOC + NS), and SOC plus cash transfers (SOC + CT). This study aimed to estimate participants' opportunity costs and to explore women's experiences. After 12 months of implementation, data were collected from participant women through focus group discussions, interviews and questionnaires on travel and waiting times, and transport costs for attending health posts and community sessions in the SOC arm, and for quarterly distribution visits in the SOC + NS and SOC + CT arms. Total opportunity costs per participant were estimated by intervention arm and community category (close/far from services and/or distribution points). The total opportunity cost of participants over 1 year were US$9373.91 for SOC, US$16,142.09 for SOC + NS and US$18,231.38 for SOC + CT, corresponding to US$1.69, US$2.80 and US$3.17 per participant per month respectively. Value of travel and waiting times accounted for 75%–85% of opportunity costs, with women in remote villages facing substantially higher burdens. These findings highlight the importance of accounting for opportunity costs, especially time and geographic accessibility, when designing maternal and child health and nutrition interventions. Incorporating a societal perspective in economic evaluations is essential to capture unintended participant burdens and promote equitable, effective participation."
+  },
+  {
+   "paperId": "e80902c0bd4cc459afd846eb64dd3911ecf6944f",
+   "externalIds": {
+    "PubMedCentral": "11602304",
+    "DOI": "10.3389/fnut.2024.1464822",
+    "CorpusId": 274080121,
+    "PubMed": "39610881"
+   },
+   "url": "https://www.semanticscholar.org/paper/e80902c0bd4cc459afd846eb64dd3911ecf6944f",
+   "title": "Changing maternal and child nutrition practices through integrating social and behavior change interventions in community-based self-help and support groups: literature review from Bangladesh, India, and Vietnam",
+   "venue": "Frontiers in Nutrition",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://public-pages-files-2025.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1464822/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11602304, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-11-14",
+   "authors": [
+    {
+     "authorId": "2322366638",
+     "name": "A. Verma"
+    },
+    {
+     "authorId": "2261451379",
+     "name": "T. Nguyen"
+    },
+    {
+     "authorId": "2330926725",
+     "name": "Appolenarius Purty"
+    },
+    {
+     "authorId": "2330930029",
+     "name": "N. Pradhan"
+    },
+    {
+     "authorId": "2330929812",
+     "name": "Alomgir Husan"
+    },
+    {
+     "authorId": "100593623",
+     "name": "P. Zambrano"
+    },
+    {
+     "authorId": "49425727",
+     "name": "Z. Mahmud"
+    },
+    {
+     "authorId": "108056665",
+     "name": "Sebanti Ghosh"
+    },
+    {
+     "authorId": "9030234",
+     "name": "Roger Mathisen"
+    },
+    {
+     "authorId": "7159450",
+     "name": "Thomas Forissier"
+    }
+   ],
+   "abstract": "Introduction Self-help groups (SHGs) and Support Groups (SGs) are increasingly recognized as effective mechanisms for improving maternal and young child nutrition due to their decentralized, community-based structures. While numerous studies have evaluated the outcomes and impact of SHGs and SGs on nutrition practices, there remains a gap in the literature. To address this, we conducted a literature review to examine the role of SHGs and SGs in improving health and nutrition outcomes, focusing on marginalized women, especially pregnant and lactating women (PLW), in India, Bangladesh, and Vietnam, with an emphasis on programs supported by the international non-governmental initiative, Alive & Thrive. Methods and materials We conducted a literature review to assess various models, summarizing findings from 34 documents, including research studies, evaluation reports, program materials, strategies, annual reports, work plans, and toolkits. Relevant information from these documents was extracted using predetermined forms. Results In India, the models used SHGs with 10–20 women, federated into larger village and district organizations. Bangladesh and Vietnam SGs have similar structures but with local leaders and committees playing key roles. In all three countries, interventions aimed to improve health and nutrition practices through social behavior change (SBC) interventions, including peer-to-peer learning, interpersonal communication, home visits, and community meetings. Outcomes of the interventions showed that SHG members had increased knowledge of breastfeeding, complementary feeding, and improved dietary diversity compared to non-SHG participants. Interventions helped improve infant and young child feeding practices. Common challenges included sustaining the SHGs, ensuring adequate participation, socio-cultural barriers, and logistical difficulties in reaching PLW in remote areas. Limited time for health topics during SHG meetings and the dissolution of older SHGs were also significant issues. Conclusion SHG and SG models demonstrate success in improving health and nutrition outcomes but face challenges in scale, sustainability, and participation. Integrating nutrition-focused SBC interventions into SHGs and SGs requires significant capacity building for technical and counseling skills. Ensuring comprehensive coverage and robust quality assessment during community-based rollouts is essential. To sustain these interventions, it is crucial to prevent group dissolution, allow time for maturation, and secure strong stakeholder engagement and political support."
+  },
+  {
+   "paperId": "7fd24eb46ee881a077a341e05bf812c5fa02fa50",
+   "externalIds": {
+    "MAG": "2592022255",
+    "DOI": "10.4324/9781315762319",
+    "CorpusId": 152178184
+   },
+   "url": "https://www.semanticscholar.org/paper/7fd24eb46ee881a077a341e05bf812c5fa02fa50",
+   "title": "Evaluative ethnography for maternal and child nutrition interventions",
+   "venue": "",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4324/9781315762319?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4324/9781315762319, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2015-09-25",
+   "authors": [
+    {
+     "authorId": "38992076",
+     "name": "S. Young"
+    },
+    {
+     "authorId": "5345883",
+     "name": "G. Pelto"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "701ecc850ff10ec880f1b245c089074b491bd1df",
+   "externalIds": {
+    "MAG": "2188951442",
+    "DOI": "10.1016/S0140-6736(13)60843-0",
+    "CorpusId": 13953925,
+    "PubMed": "23746780"
+   },
+   "url": "https://www.semanticscholar.org/paper/701ecc850ff10ec880f1b245c089074b491bd1df",
+   "title": "Nutrition-sensitive interventions and programmes: how can they help to accelerate progress in improving maternal and child nutrition?",
+   "venue": "The Lancet",
+   "year": 2013,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S0140-6736(13)60843-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S0140-6736(13)60843-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2013-08-10",
+   "authors": [
+    {
+     "authorId": "4922441",
+     "name": "M. Ruel"
+    },
+    {
+     "authorId": "145847431",
+     "name": "H. Alderman"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "72d7a8b1996c3710f6a09e79c9f46046d9ab974d",
+   "externalIds": {
+    "PubMedCentral": "10062616",
+    "DOI": "10.1371/journal.pgph.0000401",
+    "CorpusId": 279327918,
+    "PubMed": "36996036"
+   },
+   "url": "https://www.semanticscholar.org/paper/72d7a8b1996c3710f6a09e79c9f46046d9ab974d",
+   "title": "Behaviour change interventions improve maternal and child nutrition in sub-Saharan Africa: A systematic review",
+   "venue": "PLOS Global Public Health",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/globalpublichealth/article/file?id=10.1371/journal.pgph.0000401&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10062616, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-03-30",
+   "authors": [
+    {
+     "authorId": "49646716",
+     "name": "D. Watson"
+    },
+    {
+     "authorId": "2366639223",
+     "name": "P. Mushamiri"
+    },
+    {
+     "authorId": "82746858",
+     "name": "P. Beeri"
+    },
+    {
+     "authorId": "20990393",
+     "name": "T. Rouamba"
+    },
+    {
+     "authorId": "2055385213",
+     "name": "S. Jenner"
+    },
+    {
+     "authorId": "2212847383",
+     "name": "Simone Proebstl"
+    },
+    {
+     "authorId": "40118975",
+     "name": "S. Kehoe"
+    },
+    {
+     "authorId": "2366639393",
+     "name": "K. A. Ward"
+    },
+    {
+     "authorId": "2363667115",
+     "name": "M. Barker"
+    },
+    {
+     "authorId": "40409298",
+     "name": "W. Lawrence"
+    }
+   ],
+   "abstract": "Evidence that nutrition-specific and nutrition-sensitive interventions can improve maternal and child nutrition status in sub-Saharan Africa is inconclusive. Using behaviour change theory and techniques in intervention design may increase effectiveness and make outcomes more predictable. This systematic review aimed to determine whether interventions that included behaviour change functions were effective. Six databases were searched systematically, using MeSH and free-text terms, for articles describing nutrition-specific and nutrition-sensitive behaviour change interventions published in English until January 2022. Titles, abstracts and full-text papers were double-screened. Data extraction and quality assessments followed Centre for Reviews and Dissemination guidelines. Behaviour change functions of interventions were mapped onto the COM-B model and Behaviour Change Wheel. PROSPERO registered (135054). The search yielded 1193 articles: 79 articles met inclusion criteria, ranging from low (n = 30) to high (n = 11) risk of bias. Many that applied behaviour change theory, communication or counselling resulted in significant improvements in infant stunting and wasting, household dietary intake and maternal psychosocial measures. Interventions with >2 behaviour change functions (including persuasion, incentivisation, environmental restructuring) were the most effective. We recommend incorporating behaviour change functions in nutrition interventions to improve maternal and child outcomes, specifically drawing on the Behaviour Change Wheel, COM-B model (SORT B recommendation). To enhance the designs of these interventions, and ultimately improve the nutritional and psychosocial outcomes for mothers and infants in sub-Saharan Africa, collaborations are recommended between behaviour change and nutrition experts, intervention designers, policy makers and commissioners to fund and roll-out multicomponent behaviour change interventions."
+  },
+  {
+   "paperId": "132d7090dc6e488cc6946544c0c606cf20872524",
+   "externalIds": {
+    "DOI": "10.1016/j.tjnut.2023.06.023",
+    "CorpusId": 259244996,
+    "PubMed": "37354978"
+   },
+   "url": "https://www.semanticscholar.org/paper/132d7090dc6e488cc6946544c0c606cf20872524",
+   "title": "Strengthening Nutrition Interventions during Antenatal Care Improved Maternal Dietary Diversity and Child Feeding Practices in Urban Bangladesh: Results of a Quasi-Experimental Evaluation Study.",
+   "venue": "Journal of NutriLife",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.tjnut.2023.06.023",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.tjnut.2023.06.023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.tjnut.2023.06.023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-06-01",
+   "authors": [
+    {
+     "authorId": "40133967",
+     "name": "P. Nguyen"
+    },
+    {
+     "authorId": "13553457",
+     "name": "Celeste Sununtnasuk"
+    },
+    {
+     "authorId": "2075848127",
+     "name": "A. Christopher"
+    },
+    {
+     "authorId": "27106875",
+     "name": "Deborah M. Ash"
+    },
+    {
+     "authorId": "6076386",
+     "name": "S. Ireen"
+    },
+    {
+     "authorId": "88423547",
+     "name": "Rowshan Kabir"
+    },
+    {
+     "authorId": "49425727",
+     "name": "Z. Mahmud"
+    },
+    {
+     "authorId": "2220597128",
+     "name": "Mohsin Ali"
+    },
+    {
+     "authorId": "7159450",
+     "name": "Thomas Forissier"
+    },
+    {
+     "authorId": "2170354667",
+     "name": "Jessica Escobar-DeMarco"
+    },
+    {
+     "authorId": "4836996",
+     "name": "E. Frongillo"
+    },
+    {
+     "authorId": "145019782",
+     "name": "P. Menon"
+    }
+   ],
+   "abstract": "BACKGROUND\nBangladesh is urbanizing rapidly, facing challenges of malnutrition, low coverage and poor quality of urban nutrition services.\n\n\nOBJECTIVES\nWe assessed the impact of integrating maternal, infant, and young child nutrition interventions, delivered at urban Maternal Neonatal and Child Health facilities, on maternal dietary diversity, iron-folic acid (IFA) and calcium consumption, and child feeding practices.\n\n\nMETHODS\nWe used a quasi-experimental design with a non-random assignment of 20 health facilities in Dhaka to intensive and standard service arms. We conducted facility-based observations and community-based surveys at baseline (2020) and endline (2022) (n=2,455 observations and surveys with 1,678 pregnant [PW] or recently delivered women [RDW] at endline). We derived difference-in-difference (DID) estimates, adjusted for characteristics that differed at baseline or endline, and accounted for clustering.\n\n\nRESULTS\nExposure to antenatal care (ANC) was similar in both arms: two-thirds of RDW received ANC during the first trimester and three-fourths received ≥4 ANC check-ups. Compared to the standard arm, a higher proportion of PW in the intensive arm received counselling on dietary diversity (DID: 45 percentage points [pp]), and a higher proportion of RDW received IFA (25pp) and calcium supplementation (19pp), adequate weight gain (44pp), and appropriate child feeding (27pp). Improvements were greater in the intensive than standard arm for number of food groups consumed (DID: 1.1 food groups) and minimum dietary diversity (23pp); no impact was observed for IFA and calcium consumption during pregnancy. Impacts were observed for early initiation (20pp), exclusive breastfeeding (45pp), introduction of solid or semi-solid foods (28pp), and egg and/or flesh food consumption (33pp) among children. Minimum dietary diversity and acceptable diet remained low in both arms.\n\n\nCONCLUSIONS\nIntensifying nutrition in government-aligned health services delivered by experienced NGO-run facilities is a feasible model to address the urban health gap, nutrition services coverage, and improved practices. Registered at ClinicalTrials.Gov as NCT03882268."
+  },
+  {
+   "paperId": "96d4356bdfbb4c4bee340ba30777c18f0028d916",
+   "externalIds": {
+    "DOI": "10.1111/jcpp.13897",
+    "CorpusId": 263703389,
+    "PubMed": "37800367"
+   },
+   "url": "https://www.semanticscholar.org/paper/96d4356bdfbb4c4bee340ba30777c18f0028d916",
+   "title": "Effects of engaging fathers and bundling parenting and nutrition interventions on early child development and maternal and paternal parenting in Mara, Tanzania: a factorial cluster-randomized controlled trial.",
+   "venue": "Journal of Child Psychology and Psychiatry and Allied Disciplines",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/jcpp.13897?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/jcpp.13897, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-10-06",
+   "authors": [
+    {
+     "authorId": "2503871457",
+     "name": "Joshua Jeong"
+    },
+    {
+     "authorId": "24577554",
+     "name": "M. Ahun"
+    },
+    {
+     "authorId": "118456622",
+     "name": "Nilupa S. Gunaratna"
+    },
+    {
+     "authorId": "3889432",
+     "name": "R. Ambikapathi"
+    },
+    {
+     "authorId": "2165883109",
+     "name": "F. Mapendo"
+    },
+    {
+     "authorId": "147310188",
+     "name": "Lauren Galvin"
+    },
+    {
+     "authorId": "47648278",
+     "name": "M. Kieffer"
+    },
+    {
+     "authorId": "1403578148",
+     "name": "M. Mwanyika-Sando"
+    },
+    {
+     "authorId": "2255037099",
+     "name": "D. Mosha"
+    },
+    {
+     "authorId": "2213092833",
+     "name": "S. O'Malley"
+    },
+    {
+     "authorId": "2044666664",
+     "name": "Cristiana K. Verissimo"
+    },
+    {
+     "authorId": "3684237",
+     "name": "G. PrayGod"
+    },
+    {
+     "authorId": "4596176",
+     "name": "A. Yousafzai"
+    }
+   ],
+   "abstract": "BACKGROUND\nMulticomponent interventions are needed to address the various co-occurring risks that compromise early child nutrition and development. We compared the independent and combined effects of engaging fathers and bundling parenting components into a nutrition intervention on early child development (ECD) and parenting outcomes.\n\n\nMETHODS\nWe conducted a 2×2 factorial cluster-randomized controlled trial across 80 villages in Mara Region, Tanzania, also known as EFFECTS (Engaging Fathers for Effective Child Nutrition and Development in Tanzania; ClinicalTrials.gov, NCT03759821). Households with children under 18 months of age residing with their mother and father were enrolled. Villages were randomly assigned to one of five groups: a nutrition intervention for mothers, a nutrition intervention for couples, a bundled nutrition and parenting intervention for mothers, a bundled intervention for couples, and a standard-of-care control. Interventions were delivered by trained community health workers through peer groups and home visits over 12 months. Mothers, fathers, and children were assessed at baseline, midline, and endline or postintervention. We used a difference-in-difference approach with intention-to-treat analysis to estimate intervention effects on ECD (Bayley Scales of Infant and Toddler Development, third edition) and maternal and paternal parenting and psychosocial well-being.\n\n\nRESULTS\nBetween October 29, 2018, and May 24, 2019, 960 households were enrolled (n = 192 per arm). Compared to nutrition interventions, bundled interventions improved children's cognitive (β = .18 [95% CI: 0.01, 0.36]) and receptive language development (β = .23 [0.04, 0.41]). There were no differences between interventions for other ECD domains. Compared to nutrition interventions, bundled interventions achieved additional benefits on maternal stimulation (β = .21 [0.04, 0.38]) and availability of home learning materials (β = .25 [0.07-0.43]) and reduced paternal parenting distress (β = -.34 [-0.55, -0.12]). Compared to interventions with mothers only, interventions that engaged fathers improved paternal stimulation (β = .45 [0.27, 0.63]).\n\n\nCONCLUSIONS\nJointly bundling parenting components into nutrition interventions while also engaging both mothers and fathers is most effective for improving maternal and paternal parenting and ECD outcomes."
+  },
+  {
+   "paperId": "58c1308b9d8da7fe637fbe4ba652d181b9d98c2c",
+   "externalIds": {
+    "PubMedCentral": "12361493",
+    "DOI": "10.1038/s41467-025-62985-3",
+    "CorpusId": 280683661,
+    "PubMed": "40825980"
+   },
+   "url": "https://www.semanticscholar.org/paper/58c1308b9d8da7fe637fbe4ba652d181b9d98c2c",
+   "title": "Advances in artificial intelligence and precision nutrition approaches to improve maternal and child health in low resource settings",
+   "venue": "Nature Communications",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41467-025-62985-3.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12361493, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-18",
+   "authors": [
+    {
+     "authorId": "2238734583",
+     "name": "Saurabh Mehta"
+    },
+    {
+     "authorId": "12239284",
+     "name": "S. Huey"
+    },
+    {
+     "authorId": "46219803",
+     "name": "S. M. Fahim"
+    },
+    {
+     "authorId": "2323539073",
+     "name": "Srishti Sinha"
+    },
+    {
+     "authorId": "147246088",
+     "name": "K. Rajagopalan"
+    },
+    {
+     "authorId": "2375870420",
+     "name": "T. Ahmed"
+    },
+    {
+     "authorId": "2069311878",
+     "name": "R. Knight"
+    },
+    {
+     "authorId": "3697872",
+     "name": "J. Finkelstein"
+    }
+   ],
+   "abstract": "Malnutrition continues to be a major threat to health, particularly maternal and child health in low resource settings, resulting in impairments in cognitive function, growth, and development, and metabolic diseases later in life. Nutritional assessment is a cornerstone of any successful nutrition intervention or program whether in the community or at the clinic. Improved computational power and advances in technology may enable precision nutrition-based approaches for maternal and child health, which can complement current methods for nutritional assessment to identify clinical, biochemical, microbiome-related, social, and environmental characteristics to predict responses to nutritional interventions or programs. Precision nutrition has the potential to complement program monitoring, efficacy evaluation, and ultimately to inform design of interventions to improve maternal and child health. Novel technologies including AI are becoming widely available and transforming healthcare and precision medicine. In this Perspective, the authors discuss how some of these technologies and innovations can help advance maternal and child health by complementing existing methods and enabling nutritional assessment on a larger scale and at an affordable cost in low-resource settings."
+  },
+  {
+   "paperId": "4987c750bb1757be0682d9973fbe7b93714898fb",
+   "externalIds": {
+    "PubMedCentral": "9480959",
+    "DOI": "10.1111/mcn.13398",
+    "CorpusId": 250643552,
+    "PubMed": "35851750"
+   },
+   "url": "https://www.semanticscholar.org/paper/4987c750bb1757be0682d9973fbe7b93714898fb",
+   "title": "Understanding the effects of nutrition‐sensitive agriculture interventions with participatory videos and women's group meetings on maternal and child nutrition in rural Odisha, India: A mixed‐methods process evaluation",
+   "venue": "Maternal and Child Nutrition",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mcn.13398",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9480959, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-07-19",
+   "authors": [
+    {
+     "authorId": "48995972",
+     "name": "A. Prost"
+    },
+    {
+     "authorId": "1398250830",
+     "name": "H. Harris-Fry"
+    },
+    {
+     "authorId": "6319216",
+     "name": "S. Mohanty"
+    },
+    {
+     "authorId": "2092032723",
+     "name": "Manoj Parida"
+    },
+    {
+     "authorId": "37702989",
+     "name": "S. Krishnan"
+    },
+    {
+     "authorId": "1395389046",
+     "name": "E. Fivian"
+    },
+    {
+     "authorId": "6885418",
+     "name": "S. Rath"
+    },
+    {
+     "authorId": "51013089",
+     "name": "Nirmala Nair"
+    },
+    {
+     "authorId": "37612955",
+     "name": "N. K. Mishra"
+    },
+    {
+     "authorId": "2092033630",
+     "name": "Shibanath Padhan"
+    },
+    {
+     "authorId": "39094361",
+     "name": "R. Pradhan"
+    },
+    {
+     "authorId": "2176858719",
+     "name": "Satyapriya Sahu"
+    },
+    {
+     "authorId": "7526822",
+     "name": "J. Skordis"
+    },
+    {
+     "authorId": "49920652",
+     "name": "Heather Danton"
+    },
+    {
+     "authorId": "1431043318",
+     "name": "P. Koniz-Booher"
+    },
+    {
+     "authorId": "7812075",
+     "name": "E. Beaumont"
+    },
+    {
+     "authorId": "36304191",
+     "name": "Philip T. James"
+    },
+    {
+     "authorId": "1972675",
+     "name": "E. Allen"
+    },
+    {
+     "authorId": "6039128",
+     "name": "D. Elbourne"
+    },
+    {
+     "authorId": "3876192",
+     "name": "S. Kadiyala"
+    }
+   ],
+   "abstract": "Abstract A trial of three nutrition‐sensitive agriculture interventions with participatory videos and women's group meetings in rural Odisha, India, found improvements in maternal and child dietary diversity, limited effects on agricultural production, and no effects on women and children's nutritional status. Our process evaluation explored fidelity, reach, and mechanisms behind interventions' effects. We also examined how context affected implementation, mechanisms, and outcomes. We used data from intervention monitoring systems, review notes, trial surveys, 32 case studies with families (n = 91 family members), and 20 group discussions with women's group members and intervention workers (n = 181 and 32, respectively). We found that interventions were implemented with high fidelity. Groups reached around half of the mothers of children under 2 years. Videos and meetings increased women's knowledge, motivation and confidence to suggest or make changes to their diets and agricultural production. Families responded in diverse ways. Many adopted or improved rainfed homestead garden cultivation for consumption, which could explain gains in maternal and child dietary diversity seen in the impact evaluation. Cultivation for income was less common. This was often due to small landholdings, poor access to irrigation and decision‐making dominated by men. Interventions helped change norms about heavy work during pregnancy, but young women with little family support still did considerable work. Women's ability to shape cultivation, income and workload decisions was strongly influenced by support from male relatives. Future nutrition‐sensitive agriculture interventions could include additional flexibility to address families’ land, water, labour and time constraints, as well as actively engage with spouses and in‐laws."
+  },
+  {
+   "paperId": "137c6b75172209ae99e407cf52e30ba570946ab0",
+   "externalIds": {
+    "MAG": "3168553789",
+    "DOI": "10.1017/S0029665121002949",
+    "CorpusId": 236542974
+   },
+   "url": "https://www.semanticscholar.org/paper/137c6b75172209ae99e407cf52e30ba570946ab0",
+   "title": "Behaviour change interventions improve maternal and child nutrition in sub-Saharan Africa: a systematic review",
+   "venue": "Proceedings of the Nutrition Society",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/540B19F724E816992DA5630FF4F8721F/S0029665121002949a.pdf/div-class-title-behaviour-change-interventions-improve-maternal-and-child-nutrition-in-sub-saharan-africa-a-systematic-review-div.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0029665121002949?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0029665121002949, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2021-05-12",
+   "authors": [
+    {
+     "authorId": "49646716",
+     "name": "D. Watson"
+    },
+    {
+     "authorId": "2366639223",
+     "name": "P. Mushamiri"
+    },
+    {
+     "authorId": "82746858",
+     "name": "P. Beeri"
+    },
+    {
+     "authorId": "20990393",
+     "name": "T. Rouamba"
+    },
+    {
+     "authorId": "2055385213",
+     "name": "S. Jenner"
+    },
+    {
+     "authorId": "40118975",
+     "name": "S. Kehoe"
+    },
+    {
+     "authorId": "2274085386",
+     "name": "Kate A. Ward"
+    },
+    {
+     "authorId": "2237836244",
+     "name": "Mary Barker"
+    },
+    {
+     "authorId": "40409298",
+     "name": "W. Lawrence"
+    }
+   ],
+   "abstract": "Background: Evidence that nutrition-specific and nutrition-sensitive interventions can improve maternal and child nutrition status in sub-Saharan Africa is inconclusive. Using behaviour change theory and techniques in intervention design may increase effectiveness and make outcomes more predictable. This systematic review aimed to determine whether interventions that included behaviour change functions were effective. \n \nMethods: Six databases were searched systematically, using MeSH and free-text terms, for articles describing nutrition-specific and nutrition-sensitive behaviour change interventions published in English until November 2020. Titles, abstracts and full-text papers were double-screened. Data extraction and quality assessments followed Centre for Reviews and Dissemination guidelines. Behaviour change functions of interventions were mapped onto the COM-B model and Behaviour Change Wheel. PROSPERO registered(135054). \n \nFindings: The search yielded 1127 articles: 64 from 42 interventions met inclusion criteria, ranging from low (n=16) to high (n=8) risk of bias. Many that applied behaviour change theory, communication or counselling resulted in significant improvements in infant body composition, household dietary intake and maternal psychosocial measures. Interventions with >2 behaviour change functions (including persuasion, incentivisation, environmental restructuring) were the most effective. \n \nInterpretation: We recommend incorporating behaviour change functions in nutrition interventions to improve maternal and child outcomes, specifically drawing on the Behaviour Change Wheel, COM-B model and the concepts of motivation. To enhance the designs of these interventions, and ultimately improve the nutritional and psychosocial outcomes for mothers and infants in sub-Saharan Africa, collaborations are required between behaviour change and nutrition experts, intervention designers, policy makers and commissioners to fund and roll-out multicomponent behaviour change interventions. \n \nFunding: This research was funded by the National Institute for Health Research (NIHR) (17\\63\\154) using UK aid from the UK Government to support global health research. The views expressed in this publication are those of the authors and not necessarily those of the NIHR or the UK Department of Health and Social Care. \n \nDeclaration of Interest: None."
+  },
+  {
+   "paperId": "0e6f8867306e9995797601842db2ffaeb3efb4f8",
+   "externalIds": {
+    "PubMedCentral": "8099729",
+    "DOI": "10.1016/S2542-5196(21)00001-2",
+    "CorpusId": 233011249,
+    "PubMed": "33811818"
+   },
+   "url": "https://www.semanticscholar.org/paper/0e6f8867306e9995797601842db2ffaeb3efb4f8",
+   "title": "Effect of nutrition-sensitive agriculture interventions with participatory videos and women's group meetings on maternal and child nutritional outcomes in rural Odisha, India (UPAVAN trial): a four-arm, observer-blind, cluster-randomised controlled trial",
+   "venue": "Lancet Planetary Health",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "http://www.thelancet.com/article/S2542519621000012/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8099729, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2021-03-31",
+   "authors": [
+    {
+     "authorId": "3876192",
+     "name": "S. Kadiyala"
+    },
+    {
+     "authorId": "1398250830",
+     "name": "H. Harris-Fry"
+    },
+    {
+     "authorId": "39094361",
+     "name": "R. Pradhan"
+    },
+    {
+     "authorId": "6319216",
+     "name": "S. Mohanty"
+    },
+    {
+     "authorId": "2092033630",
+     "name": "Shibanath Padhan"
+    },
+    {
+     "authorId": "6885418",
+     "name": "S. Rath"
+    },
+    {
+     "authorId": "36304191",
+     "name": "Philip T. James"
+    },
+    {
+     "authorId": "1395389046",
+     "name": "E. Fivian"
+    },
+    {
+     "authorId": "1431043318",
+     "name": "P. Koniz-Booher"
+    },
+    {
+     "authorId": "51013089",
+     "name": "Nirmala Nair"
+    },
+    {
+     "authorId": "1401135741",
+     "name": "H. Haghparast-Bidgoli"
+    },
+    {
+     "authorId": "2092033504",
+     "name": "Naba Kishor Mishra"
+    },
+    {
+     "authorId": "6241665",
+     "name": "Shibanand Rath"
+    },
+    {
+     "authorId": "7812075",
+     "name": "E. Beaumont"
+    },
+    {
+     "authorId": "49920652",
+     "name": "Heather Danton"
+    },
+    {
+     "authorId": "37702989",
+     "name": "S. Krishnan"
+    },
+    {
+     "authorId": "2092032723",
+     "name": "Manoj Parida"
+    },
+    {
+     "authorId": "1432671016",
+     "name": "M. O'Hearn"
+    },
+    {
+     "authorId": "2276753569",
+     "name": "Abhinav Kumar"
+    },
+    {
+     "authorId": "2064371583",
+     "name": "Avinash Upadhyay"
+    },
+    {
+     "authorId": "3057662",
+     "name": "P. Tripathy"
+    },
+    {
+     "authorId": "7526822",
+     "name": "J. Skordis"
+    },
+    {
+     "authorId": "46716519",
+     "name": "J. Sturgess"
+    },
+    {
+     "authorId": "6039128",
+     "name": "D. Elbourne"
+    },
+    {
+     "authorId": "48995972",
+     "name": "A. Prost"
+    },
+    {
+     "authorId": "1972675",
+     "name": "E. Allen"
+    }
+   ],
+   "abstract": "Summary Background Almost a quarter of the world's undernourished people live in India. We tested the effects of three nutrition-sensitive agriculture (NSA) interventions on maternal and child nutrition in India. Methods We did a parallel, four-arm, observer-blind, cluster-randomised trial in Keonjhar district, Odisha, India. A cluster was one or more villages with a combined minimum population of 800 residents. The clusters were allocated 1:1:1:1 to a control group or an intervention group of fortnightly women's groups meetings and household visits over 32 months using: NSA videos (AGRI group); NSA and nutrition-specific videos (AGRI-NUT group); or NSA videos and a nutrition-specific participatory learning and action (PLA) cycle meetings and videos (AGRI-NUT+PLA group). Primary outcomes were the proportion of children aged 6–23 months consuming at least four of seven food groups the previous day and mean maternal body-mass index (BMI). Secondary outcomes were proportion of mothers consuming at least five of ten food groups and child wasting (proportion of children with weight-for-height Z score SD <–2). Outcomes were assessed in children and mothers through cross-sectional surveys at baseline and at endline, 36 months later. Analyses were by intention to treat. Participants and intervention facilitators were not blinded to allocation; the research team were. This trial is registered at ISRCTN, ISRCTN65922679. Findings 148 of 162 clusters assessed for eligibility were enrolled and randomly allocated to trial groups (37 clusters per group). Baseline surveys took place from Nov 24, 2016, to Jan 24, 2017; clusters were randomised from December, 2016, to January, 2017; and interventions were implemented from March 20, 2017, to Oct 31, 2019, and endline surveys done from Nov 19, 2019, to Jan 12, 2020, in an average of 32 households per cluster. All clusters were included in the analyses. There was an increase in the proportion of children consuming at least four of seven food groups in the AGRI-NUT (adjusted relative risk [RR] 1·19, 95% CI 1·03 to 1·37, p=0·02) and AGRI-NUT+PLA (1·27, 1·11 to 1·46, p=0·001) groups, but not AGRI (1·06, 0·91 to 1·23, p=0·44), compared with the control group. We found no effects on mean maternal BMI (adjusted mean differences vs control, AGRI −0·05, −0·34 to 0·24; AGRI-NUT 0·04, −0·26 to 0·33; AGRI-NUT+PLA −0·03, −0·3 to 0·23). An increase in the proportion of mothers consuming at least five of ten food groups was seen in the AGRI (adjusted RR 1·21, 1·01 to 1·45) and AGRI-NUT+PLA (1·30, 1·10 to 1·53) groups compared with the control group, but not in AGRI-NUT (1·16, 0·98 to 1·38). We found no effects on child wasting (adjusted RR vs control, AGRI 0·95, 0·73 to 1·24; AGRI-NUT 0·96, 0·72 to 1·29; AGRI-NUT+PLA 0·96, 0·73 to 1·26). Interpretation Women's groups using combinations of NSA videos, nutrition-specific videos, and PLA cycle meetings improved maternal and child diet quality in rural Odisha, India. These components have been implemented separately in several low-income settings; effects could be increased by scaling up together. Funding Bill & Melinda Gates Foundation, UK AID from the UK Government, and US Agency for International Development."
+  },
+  {
+   "paperId": "aaa2f21aea95f44de0f83e321c0018938e3055fd",
+   "externalIds": {
+    "PubMedCentral": "11853224",
+    "DOI": "10.1186/s12889-025-21978-z",
+    "CorpusId": 276610990,
+    "PubMed": "40001081"
+   },
+   "url": "https://www.semanticscholar.org/paper/aaa2f21aea95f44de0f83e321c0018938e3055fd",
+   "title": "Balancing maternal employment and child nutrition and health: a grounded theory study of rural communities in Northeastern Uganda",
+   "venue": "BMC Public Health",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1186/s12889-025-21978-z",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11853224, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-25",
+   "authors": [
+    {
+     "authorId": "121419445",
+     "name": "Joseph Lule Kyanjo"
+    },
+    {
+     "authorId": "87942665",
+     "name": "A. Turinawe"
+    },
+    {
+     "authorId": "4956021",
+     "name": "A. Hörnell"
+    },
+    {
+     "authorId": "40653965",
+     "name": "K. Lindvall"
+    }
+   ],
+   "abstract": "Child undernutrition remains a serious public health concern particularly in poor households where limited financial resources hinder proper child nutrition. Improving women’s access to productive resources and employment is crucial for addressing undernutrition. However, maternal employment may reduce the amount of time available for childcare, leading to poor child nutrition and health. This study explored rural community perceptions and experiences regarding maternal employment in relation to aspects of child nutrition and health in northeastern Uganda to inform the design of interventions that can effectively support maternal employment without compromising child nutrition and health. Twelve gender-separated focus group discussions (FGDs) were conducted with pastoral and agro-pastoral communities in northeastern Uganda. Data from the FGDs were analysed using a constructivist grounded theory approach. Analysis of the FGD data revealed that cultural norms and economic pressure were crucial factors in maternal employment decisions. We constructed a model that represents maternal employment as a delicate balance to maximize the benefits for child nutrition and health while minimizing the negative consequences. The model comprises the core category, mothers’ solitary struggle for better child nutrition and health, and four interrelated categories: (1) mothers conforming to societal expectations, (2) mediating the effect of maternal employment on child nutrition and health, (3) suffering consequences of maternal employment, and (4) mothers striving for better child nutrition and health. Access to income emerged as the main pathway through which maternal employment leads to better child nutrition and health. However, this benefit often comes at the cost of reduced time for childcare, which is perceived to be detrimental to child nutrition and health. Based on these results, enhancing access to productive resources and employment, particularly for women is crucial for addressing undernutrition. To ensure that maternal employment does not compromise childcare, policies must support the development and access to childcare options that are affordable and appropriate for women in rural areas and in informal employment to effectively balance employment and childcare."
+  },
+  {
+   "paperId": "5c4a1011a9a96ac856757b931756320cc386e37c",
+   "externalIds": {
+    "DOI": "10.32413/pjph.v14ispecial.ni.1301",
+    "CorpusId": 272835443
+   },
+   "url": "https://www.semanticscholar.org/paper/5c4a1011a9a96ac856757b931756320cc386e37c",
+   "title": "Promoting Breastfeeding and Complementary Feeding Practices for Optimal Maternal and Child Nutrition",
+   "venue": "Pakistan Journal of Public Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://pjph.org/pjph/article/download/1301/362",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32413/pjph.v14ispecial.ni.1301?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32413/pjph.v14ispecial.ni.1301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-08-05",
+   "authors": [
+    {
+     "authorId": "2379405125",
+     "name": "Ramsha Ajmal"
+    }
+   ],
+   "abstract": "This review article examines the critical role of promoting breastfeeding and complementary feeding practices in addressing maternal malnutrition and improving maternal and child health outcomes. It begins with an introduction highlighting the significance of these practices in achieving optimal nutrition, followed by a discussion of methodology involving a comprehensive review of existing literature and the interventions (Like PLA approach and awareness raising through 1000 days Window of Opportunity etc.) being implemented under the project “Improved Resilience through Food and Nutrition Security” by Farmers Development Organization. The purpose of the review is to underscore the importance of breastfeeding and complementary feeding in maternal and child health, offering insights into successful interventions, challenges, and recommendations for improvement. Results emphasize the profound impact of these practices, emphasizing the need for early initiation of breastfeeding and the introduction of nutritious complementary foods. In conclusion, the urgent need for concerted efforts to promote these practices is emphasized, with the potential for significant progress in enhancing overall public health through evidence-based intervention."
+  },
+  {
+   "paperId": "7e500cf73414353ee4f4909348257f5b8486b013",
+   "externalIds": {
+    "PubMedCentral": "7509610",
+    "MAG": "3039810755",
+    "DOI": "10.2196/18521",
+    "CorpusId": 221541570,
+    "PubMed": "32897234"
+   },
+   "url": "https://www.semanticscholar.org/paper/7e500cf73414353ee4f4909348257f5b8486b013",
+   "title": "Evaluation of a Package of Behaviour Change Interventions (Baduta Program) to Improve Maternal and Child Nutrition in East Java, Indonesia: Protocol for an Impact Study",
+   "venue": "JMIR Research Protocols",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2196/18521",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7509610, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-03-16",
+   "authors": [
+    {
+     "authorId": "1790919",
+     "name": "M. Dibley"
+    },
+    {
+     "authorId": "144189813",
+     "name": "Ashraful Alam"
+    },
+    {
+     "authorId": "9866074",
+     "name": "Umi Fahmida"
+    },
+    {
+     "authorId": "143657255",
+     "name": "I. Ariawan"
+    },
+    {
+     "authorId": "2081432921",
+     "name": "C. Titaley"
+    },
+    {
+     "authorId": "9854589",
+     "name": "Min Kyaw Htet"
+    },
+    {
+     "authorId": "77211216",
+     "name": "R. Damayanti"
+    },
+    {
+     "authorId": "47629016",
+     "name": "Mu Li"
+    },
+    {
+     "authorId": "13881996",
+     "name": "A. Sutrisna"
+    },
+    {
+     "authorId": "46845899",
+     "name": "E. Ferguson"
+    }
+   ],
+   "abstract": "Background Over the past decade, the prevalence of stunting has been close to 37% in children aged <5 years in Indonesia. The Baduta program, a multicomponent package of interventions developed by the Global Alliance for Improved Nutrition, aims to improve maternal and infant nutrition in Indonesia. Objective This study aims to assess the impact of the Baduta program, a package of health system strengthening and behavior change interventions, compared with the standard village health services on maternal and child nutrition. Methods The impact evaluation uses a cluster randomized controlled trial design with 2 outcome assessments. The first uses cross-sectional surveys of mothers of children aged 0-23 months and pregnant women before and after the interventions. The second is a cohort study of pregnant women followed until their child is 18 months from a subset of clusters. We will also conduct a process evaluation guided by the program impact pathway to assess coverage, fidelity, and acceptance. The study will be conducted in the Malang and Sidoarjo districts of East Java, Indonesia. The unit of randomization is the subdistricts. As random allocation of interventions to only 6 subdistricts is feasible, we will use constrained randomization to ensure balance of baseline covariates. The first intervention will be health system strengthening, including the Baby-Friendly Hospital Initiative, and training on counseling for appropriate infant and young child feeding (IYCF). The second intervention will be nutrition behavior change that includes Emo-Demos; a national television (TV) advertising campaign; local screening TV spots; a free, text message service; and promotion of low-cost water filters and hygiene practices. The primary study outcome is child stunting (low length-for-age), and secondary outcomes include length-for-age Z scores, wasting (low weight-for-length), anemia, child morbidity, IYCF indicators, and maternal and child nutrient intakes. The sample size for each cross-sectional survey is 1400 mothers and their children aged <2 years and 200 pregnant women in each treatment group. The cohort evaluation requires a sample size of 340 mother-infant pairs in each treatment group. We will seek Gatekeeper consent and written informed consent from the participants. The intention-to-treat principle will guide our data analysis, and we will apply Consolidated Standards of Reporting Trials guidelines for clustered randomized trials in the analysis. Results In February 2015, we conducted a baseline cross-sectional survey on 2435 women with children aged <2 years and 409 pregnant women. In February 2017, we conducted an end-line survey on 2740 mothers with children aged <2 years and 642 pregnant women. The cohort evaluation began in February 2015, with 729 pregnant women, and was completed in December 2016. Conclusions The results of the program evaluation will help guide policies to support effective packages of behavior change interventions to prevent child stunting in Indonesia. International Registered Report Identifier (IRRID) RR1-10.2196/18521"
+  },
+  {
+   "paperId": "31e2ce29cfd43362defdc2371154eca8c07e374b",
+   "externalIds": {
+    "PubMedCentral": "7254666",
+    "MAG": "3032321334",
+    "DOI": "10.1186/s13031-020-0253-6",
+    "CorpusId": 218912877,
+    "PubMed": "32514301"
+   },
+   "url": "https://www.semanticscholar.org/paper/31e2ce29cfd43362defdc2371154eca8c07e374b",
+   "title": "C’est vraiment compliqué: a case study on the delivery of maternal and child health and nutrition interventions in the conflict-affected regions of Mali",
+   "venue": "Conflict and Health",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://conflictandhealth.biomedcentral.com/track/pdf/10.1186/s13031-020-0253-6",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7254666, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-05-27",
+   "authors": [
+    {
+     "authorId": "1585252578",
+     "name": "A. Ataullahjan"
+    },
+    {
+     "authorId": "32842282",
+     "name": "Michelle F. Gaffey"
+    },
+    {
+     "authorId": "1720915278",
+     "name": "Moctar Tounkara"
+    },
+    {
+     "authorId": "143974752",
+     "name": "Samba Diarra"
+    },
+    {
+     "authorId": "46310199",
+     "name": "S. Doumbia"
+    },
+    {
+     "authorId": "145122896",
+     "name": "Z. Bhutta"
+    },
+    {
+     "authorId": "3626148",
+     "name": "Diego G Bassani"
+    }
+   ],
+   "abstract": "Mali is currently in the midst of ongoing conflicts which involve jihadist groups, rebels, and the state. This conflict has primarily centered in the North of the country. Humanitarian actors delivering services in these geographies must navigate the complex environment created by conflict. This study aimed to understand how humanitarian actors make decisions around health service delivery within this context. The current case-study utilized a mixed methods approach and focused on Mopti, Mali’s fifth administrative region and fourth largest in population. Latent content analysis was used to analyze interview transcripts guided by our research objectives and new concepts as they emerged. Indicators of coverage of health interventions in the area of maternal and child health and nutrition were compiled using Mali’s National Evaluation Platform and are presented for the conflict and non-conflict regions. Development assistance estimates for Mali by year were obtained from the Developmental Assistance for Health Database compiled by the Institute for Health Metrics and Evaluation. Administrative data was compiled from the annual reports of Mali’s Système Local d’Information Sanitaire (SLIS), Demographic and Health Surveys (DHS) and Multiple Indicator Cluster Surveys (MICS). Our data suggests that the reaction of the funding mechanisms to the conflict in Mali was a major barrier to timely delivery of health services to populations in need and the nature of the conflict is likely a key modifier of such reaction patterns. Concerns have been raised about the disconnect between the very high administrative capacity of large NGOs that control the work, and the consequent burden it puts on local NGOs. Population displacement and inaccurate estimates of needs made it difficult for organizations to plan program services. Moreover, actors delivering services to populations in need had to navigate an unpredictable context and numerous security threats. Our study highlights the need for a more flexible funding and management mechanism that can better respond to concerns and issues arising at a local level. As the conflict in Mali continues to worsen, there is an urgent need to improve service delivery to conflict-affected populations."
+  },
+  {
+   "paperId": "dde8fb735fc1f31dfbf347677d84e98c97193e8b",
+   "externalIds": {
+    "PubMedCentral": "9535442",
+    "DOI": "10.1093/jn/nxac132",
+    "CorpusId": 249545630,
+    "PubMed": "35687367"
+   },
+   "url": "https://www.semanticscholar.org/paper/dde8fb735fc1f31dfbf347677d84e98c97193e8b",
+   "title": "Economic Evaluation of Nutrition-Sensitive Agricultural Interventions to Increase Maternal and Child Dietary Diversity and Nutritional Status in Rural Odisha, India",
+   "venue": "Journal of NutriLife",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1093/jn/nxac132",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9535442, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-06-10",
+   "authors": [
+    {
+     "authorId": "1401135741",
+     "name": "H. Haghparast-Bidgoli"
+    },
+    {
+     "authorId": "1398250830",
+     "name": "H. Harris-Fry"
+    },
+    {
+     "authorId": "2276753569",
+     "name": "Abhinav Kumar"
+    },
+    {
+     "authorId": "39094361",
+     "name": "R. Pradhan"
+    },
+    {
+     "authorId": "37612955",
+     "name": "N. K. Mishra"
+    },
+    {
+     "authorId": "2530253591",
+     "name": "Shibananth Padhan"
+    },
+    {
+     "authorId": "151396433",
+     "name": "A. Ojha"
+    },
+    {
+     "authorId": "2112128651",
+     "name": "S. Mishra"
+    },
+    {
+     "authorId": "1395389046",
+     "name": "E. Fivian"
+    },
+    {
+     "authorId": "36304191",
+     "name": "Philip T. James"
+    },
+    {
+     "authorId": "122877509",
+     "name": "Sarah Ferguson"
+    },
+    {
+     "authorId": "37702989",
+     "name": "S. Krishnan"
+    },
+    {
+     "authorId": "1432671016",
+     "name": "M. O'Hearn"
+    },
+    {
+     "authorId": "145910710",
+     "name": "T. Palmer"
+    },
+    {
+     "authorId": "1431043318",
+     "name": "P. Koniz-Booher"
+    },
+    {
+     "authorId": "49920652",
+     "name": "Heather Danton"
+    },
+    {
+     "authorId": "83183256",
+     "name": "Sandee Minovi"
+    },
+    {
+     "authorId": "6319216",
+     "name": "S. Mohanty"
+    },
+    {
+     "authorId": "6241665",
+     "name": "Shibanand Rath"
+    },
+    {
+     "authorId": "6885418",
+     "name": "S. Rath"
+    },
+    {
+     "authorId": "51013089",
+     "name": "Nirmala Nair"
+    },
+    {
+     "authorId": "3057662",
+     "name": "P. Tripathy"
+    },
+    {
+     "authorId": "48995972",
+     "name": "A. Prost"
+    },
+    {
+     "authorId": "1972675",
+     "name": "E. Allen"
+    },
+    {
+     "authorId": "7526822",
+     "name": "J. Skordis"
+    },
+    {
+     "authorId": "3876192",
+     "name": "S. Kadiyala"
+    }
+   ],
+   "abstract": "ABSTRACT Background Economic evaluations of nutrition-sensitive agriculture (NSA) interventions are scarce, limiting assessment of their potential affordability and scalability. Objectives We conducted cost–consequence analyses of 3 participatory video-based interventions of fortnightly women's group meetings using the following platforms: 1) NSA videos; 2) NSA and nutrition-specific videos; or 3) NSA videos with a nutrition-specific participatory learning and action (PLA) cycle. Methods Interventions were tested in a 32-mo, 4-arm cluster-randomized controlled trial, Upscaling Participatory Action and Videos for Agriculture and Nutrition (UPAVAN) in the Keonjhar district, Odisha, India. Impacts were evaluated in children aged 0–23 mo and their mothers. We estimated program costs using data collected prospectively from expenditure records of implementing and technical partners and societal costs using expenditure assessment data collected from households with a child aged 0–23 mo and key informant interviews. Costs were adjusted for inflation, discounted, and converted to 2019 US$. Results Total program costs of each intervention ranged from US$272,121 to US$386,907. Program costs per pregnant woman or mother of a child aged 0–23 mo were US$62 for NSA videos, US$84 for NSA and nutrition-specific videos, and US$78 for NSA videos with PLA (societal costs: US$125, US$143, and US$122, respectively). Substantial shares of total costs were attributable to development and delivery of the videos and PLA (52–69%) and quality assurance (25–41%). Relative to control, minimum dietary diversity was higher in the children who underwent the interventions incorporating nutrition-specific videos and PLA (adjusted RRs: 1.19 and 1.27; 95% CIs: 1.03–1.37 and 1.11, 1.46, respectively). Relative to control, minimum dietary diversity in mothers was higher in those who underwent NSA video (1.21 [1.01, 1.45]) and NSA with PLA (1.30 [1.10, 1.53]) interventions. Conclusion NSA videos with PLA can increase both maternal and child dietary diversity and have the lowest cost per unit increase in diet diversity. Building on investments made in developing UPAVAN, cost-efficiency at scale could be increased with less intensive monitoring, reduced startup costs, and integration within existing government programs. This trial was registered at clinicaltrials.gov as ISRCTN65922679."
+  }
+ ]
+}

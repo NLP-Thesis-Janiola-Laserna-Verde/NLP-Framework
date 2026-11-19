@@ -1,0 +1,868 @@
+{
+ "query": "Deforestation and biodiversity loss in tropical forests",
+ "retrieved_at": "2026-11-18T18:01:37.351288+00:00",
+ "data": [
+  {
+   "DOI": "10.4324/9781003428190-3",
+   "title": [
+    "Tropical deforestation: rates and patterns"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-3",
+   "author": [
+    {
+     "given": "Norman",
+     "family": "Myers",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-5",
+   "title": [
+    "Population and deforestation"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-5",
+   "author": [
+    {
+     "given": "Matti",
+     "family": "Palo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-17",
+   "title": [
+    "Deforestation in Thailand"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-17",
+   "author": [
+    {
+     "given": "Chiara",
+     "family": "Lombardini",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-11",
+   "title": [
+    "Tropical deforestation and agricultural development in Latin America"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-11",
+   "author": [
+    {
+     "given": "Douglas",
+     "family": "Southgate",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-9",
+   "title": [
+    "Population, development and tropical deforestation: a cross-national study"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-9",
+   "author": [
+    {
+     "given": "Thomas",
+     "family": "Rudel",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-18",
+   "title": [
+    "Government failure and deforestation in Indonesia"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-18",
+   "author": [
+    {
+     "given": "Diane",
+     "family": "Osgood",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-2",
+   "title": [
+    "Saving the world's tropical forests"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-2",
+   "author": [
+    {
+     "given": "David",
+     "family": "Pearce",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Katrina",
+     "family": "Brown",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-6",
+   "title": [
+    "International debt and deforestation"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-6",
+   "author": [
+    {
+     "given": "James",
+     "family": "Kahn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Judith",
+     "family": "McDonald",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-14",
+   "title": [
+    "Incentives for tropical deforestation: some examples from Latin America"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-14",
+   "author": [
+    {
+     "given": "Dennis",
+     "family": "Mahar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Robert",
+     "family": "Schneider",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-15",
+   "title": [
+    "An econometric model of Amazon deforestation"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-15",
+   "author": [
+    {
+     "given": "Eustáquio",
+     "family": "Reis",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rolando",
+     "family": "Guzmán",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-19",
+   "title": [
+    "An analysis of the causes of deforestation in India"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-19",
+   "author": [
+    {
+     "given": "Manab",
+     "family": "Chakraborty",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-21",
+   "title": [
+    "The timber trade and tropical deforestation in Indonesia"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-21",
+   "author": [
+    {
+     "given": "Edward",
+     "family": "Barbier",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nancy",
+     "family": "Bockstael",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Joanne",
+     "family": "Burgess",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ivar",
+     "family": "Strand",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-8",
+   "title": [
+    "Macroeconomic causes of deforestation: barking up the wrong tree?"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-8",
+   "author": [
+    {
+     "given": "Nemat",
+     "family": "Shafik",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-22",
+   "title": [
+    "Deforestation: the rôle of the international trade in tropical timber"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-22",
+   "author": [
+    {
+     "given": "Edward",
+     "family": "Barbier",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Joanne",
+     "family": "Burgess",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Josh",
+     "family": "Bishop",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bruce",
+     "family": "Aylward",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190-16",
+   "title": [
+    "An econometric analysis of the causes of tropical deforestation: the case of Northeast Thailand"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-16",
+   "author": [
+    {
+     "given": "Theodore",
+     "family": "Panayotou",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Somthawin",
+     "family": "Sungsuwan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003428190",
+   "title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.4324/9781003428190",
+   "author": [
+    {
+     "given": "Katrina",
+     "family": "Brown",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David W.",
+     "family": "Pearce",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.47278/book.tl/2026.286",
+   "title": [
+    "Impacts of Deforestation on Wildlife Habitat and Species Survival in Tropical Regions"
+   ],
+   "container-title": [
+    "Forests, Wildlife, and Biodiversity: Pathways to Conservation and Ecological Resilience"
+   ],
+   "publisher": "Unique Scientific Publishers",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.47278/book.tl/2026.286"
+  },
+  {
+   "DOI": "10.4324/9781003428190-13",
+   "title": [
+    "The causes of tropical deforestation: a quantitative analysis and case study from the Philippines"
+   ],
+   "container-title": [
+    "The Causes of Tropical Deforestation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003428190-13",
+   "author": [
+    {
+     "given": "David",
+     "family": "Kummer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chi Ho",
+     "family": "Sham",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-94-011-0277-3_13",
+   "title": [
+    "Biodiversity Loss through Tropical Deforestation: The Role of Timber Production and Trade"
+   ],
+   "container-title": [
+    "Ecology, Economy &amp; Environment",
+    "Biodiversity Conservation"
+   ],
+   "publisher": "Springer Netherlands",
+   "issued": {
+    "date-parts": [
+     [
+      1995
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-94-011-0277-3_13",
+   "author": [
+    {
+     "given": "Joanne C.",
+     "family": "Burgess",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>The need to tackle international drivers of deforestation has long been acknowledged; but remains little addressed via policy measures. In the European Union (EU), a new policy debate is emerging around the concept of “embodied deforestation”, which targets EU agricultural commodity imports as drivers of deforestation. The notion views deforestation as an externality generated by EU imports associated with tropical deforestation. Our article examines whether this concept represents a shift in tackling international-level drivers of tropical deforestation within EU policy. We also examine, from a networked governance perspective, whether this new debate fuels further fragmentation or rather a move towards a more integrated approach to combating tropical forest loss within EU policy, and what the implications are for other initiatives, such as the climate change related “reducing emissions from deforestation and forest degradation” (REDD+). Our analysis draws on an extensive analysis of EU policy documents and semi-structured interviews with stakeholders and EU decision-makers. We find that, despite growing debate around the concept of embodied deforestation, policy measures necessary to reduce the impact of EU consumption of agricultural commodities associated with tropical deforestation have not yet been developed. We conclude that “embodied deforestation” remains more an idea than reality within EU policy to date, with the burden of responsibility for addressing international deforestation drivers still largely remaining on developing countries. There is still potential, however, for this debate to lead to a more integrated approach to tackling tropical deforestation within EU policy, if it comes to be seen, together with REDD+, as one of a number of linked approaches to EU efforts to combat deforestation.</jats:p>",
+   "DOI": "10.3390/f9120751",
+   "type": "journal-article",
+   "title": [
+    "“Embodied Deforestation” as a New EU Policy Debate to Tackle Tropical Forest Loss: Assessing Implications for REDD+ Performance"
+   ],
+   "author": [
+    {
+     "given": "Janice",
+     "family": "Weatherley-Singh",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Wildlife Conservation Society, 1040 Brussels, Belgium"
+      },
+      {
+       "name": "Environmental Policy Group, Wageningen University, 6700 EW Wageningen, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4908-7453",
+     "authenticated-orcid": false,
+     "given": "Aarti",
+     "family": "Gupta",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Wildlife Conservation Society, 1040 Brussels, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Forests"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      12,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/f9120751"
+  }
+ ]
+}

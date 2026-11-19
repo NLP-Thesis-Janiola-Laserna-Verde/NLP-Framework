@@ -1,0 +1,1138 @@
+{
+ "query": "Hypertension management in primary care",
+ "retrieved_at": "2026-11-18T18:11:01.242589+00:00",
+ "data": [
+  {
+   "paperId": "4d32c35a70bacffb219efc83a48f95e5ee1f9cbc",
+   "externalIds": {
+    "MAG": "2413053642",
+    "DOI": "10.3238/arztebl.2016.0167",
+    "CorpusId": 25248783,
+    "PubMed": "27010951"
+   },
+   "url": "https://www.semanticscholar.org/paper/4d32c35a70bacffb219efc83a48f95e5ee1f9cbc",
+   "title": "Hypertension Management in Primary Care.",
+   "venue": "Deutsches Ärzteblatt International",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4814769",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3238/arztebl.2016.0167?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3238/arztebl.2016.0167, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2016-03-11",
+   "authors": [
+    {
+     "authorId": "5753002",
+     "name": "B. Weltermann"
+    },
+    {
+     "authorId": "3501615",
+     "name": "C. Kersting"
+    },
+    {
+     "authorId": "5579972",
+     "name": "A. Viehmann"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "6fe2ddc240e24905eedc75fa8d7de2abecc4f7ee",
+   "externalIds": {
+    "MAG": "2312152228",
+    "CorpusId": 74769626
+   },
+   "url": "https://www.semanticscholar.org/paper/6fe2ddc240e24905eedc75fa8d7de2abecc4f7ee",
+   "title": "HYPERTENSION MANAGEMENT IN PRIMARY CARE",
+   "venue": "",
+   "year": 2007,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": "2007-03-31",
+   "authors": [
+    {
+     "authorId": "2083109523",
+     "name": "Erdoğan Payza"
+    },
+    {
+     "authorId": "2484465372",
+     "name": "H. Sönmez"
+    },
+    {
+     "authorId": "35005598",
+     "name": "O. Başak"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "da9e366c5a410f2c1981b8206edf8ffd5b11489e",
+   "externalIds": {
+    "PubMedCentral": "11771779",
+    "DOI": "10.1111/jch.14981",
+    "CorpusId": 275752217,
+    "PubMed": "39835832"
+   },
+   "url": "https://www.semanticscholar.org/paper/da9e366c5a410f2c1981b8206edf8ffd5b11489e",
+   "title": "Self‐Efficacy in Hypertension Management Using e‐Health Technology: A Randomized Controlled Trial in Primary Care",
+   "venue": "The Journal of Clinical Hypertension",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jch.14981",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11771779, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Study",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-01",
+   "authors": [
+    {
+     "authorId": "2220488454",
+     "name": "Rasmus Hermansson-Borrebaeck"
+    },
+    {
+     "authorId": "2445845",
+     "name": "A. Fors"
+    },
+    {
+     "authorId": "46319793",
+     "name": "U. Bengtsson"
+    },
+    {
+     "authorId": "46527497",
+     "name": "K. Kjellgren"
+    },
+    {
+     "authorId": "5650500",
+     "name": "S. Calling"
+    },
+    {
+     "authorId": "6199090",
+     "name": "P. Midlöv"
+    }
+   ],
+   "abstract": "Self‐efficacy is tightly intertwined with person‐centered care and correlates with engaging in self‐care behaviors, an important part of hypertension treatment. Evidence indicates that e‐Health‐based self‐management interventions could increase self‐efficacy. The objectives of this study were to investigate whether an intervention with a person‐centered approach supported by e‐Health technology can impact self‐efficacy. Furthermore, to examine the impact of self‐efficacy on hypertension management, and assess if self‐efficacy can indicate which patients might see the greatest improvement on blood pressure from an e‐Health‐based self‐management intervention for hypertension. This multicenter randomized controlled trial included 949 primary healthcare patients with hypertension. After exclusions, data was analyzed for 862 patients. The intervention group used an e‐Health‐based self‐management system for 8 weeks. Self‐efficacy was measured with the general self‐efficacy (GSE) scale at inclusion, 8‐week follow‐up and 1‐year follow‐up. A significant increase in the mean GSE score in the intervention group was identified (p 0.042). No significant association between self‐efficacy and blood pressure control was found. GSE scores did not significantly differ between the patients that had the best effect on blood pressure and those that had none. This study showed a significant increase in self‐efficacy after the intervention. Self‐management‐based e‐Health interventions might have a role in clinical practice to increase self‐efficacy and improve general health. We found no association between self‐efficacy and achieving a blood pressure below 140/90. Furthermore, no support was found to claim that self‐efficacy would be an indicator of which patients might have the greatest effect from a self‐management‐based e‐Health intervention for hypertension."
+  },
+  {
+   "paperId": "bff63bf39fdfa60546e75ffb90d36a8705dd0048",
+   "externalIds": {
+    "DOI": "10.1016/j.hlc.2025.06.787",
+    "CorpusId": 280907759
+   },
+   "url": "https://www.semanticscholar.org/paper/bff63bf39fdfa60546e75ffb90d36a8705dd0048",
+   "title": "Digital Interventions for Hypertension Management in Primary Care: An Umbrella Review",
+   "venue": "Heart, Lung and Circulation",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.hlc.2025.06.787?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.hlc.2025.06.787, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-08-01",
+   "authors": [
+    {
+     "authorId": "2398850390",
+     "name": "C. Stephen"
+    },
+    {
+     "authorId": "145217151",
+     "name": "E. Curtis"
+    },
+    {
+     "authorId": "2378123938",
+     "name": "A. Chan"
+    },
+    {
+     "authorId": "2357894247",
+     "name": "R. Fernandez"
+    },
+    {
+     "authorId": "5675235",
+     "name": "E. Halcomb"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "279a4a367235d1ee0e1711ca66df150d81f149ee",
+   "externalIds": {
+    "PubMedCentral": "9440731",
+    "DOI": "10.26633/RPSP.2022.125",
+    "CorpusId": 252073939,
+    "PubMed": "36071921"
+   },
+   "url": "https://www.semanticscholar.org/paper/279a4a367235d1ee0e1711ca66df150d81f149ee",
+   "title": "HEARTS in the Americas appraisal checklist and clinical pathway for comprehensive hypertension management in primary care",
+   "venue": "Revista Panamericana De Salud Publica-pan American Journal of Public Health",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://iris.paho.org/bitstream/10665.2/56271/5/v46e1252022.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9440731, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-09-02",
+   "authors": [
+    {
+     "authorId": "12640359",
+     "name": "A. Rosende"
+    },
+    {
+     "authorId": "4241209",
+     "name": "D. DiPette"
+    },
+    {
+     "authorId": "38084131",
+     "name": "J. Brettler"
+    },
+    {
+     "authorId": "2170987897",
+     "name": "Gonzalo Rodríguez"
+    },
+    {
+     "authorId": "1995070798",
+     "name": "E. Zúñiga"
+    },
+    {
+     "authorId": "49909056",
+     "name": "K. Connell"
+    },
+    {
+     "authorId": "4096577",
+     "name": "P. Ordúñez"
+    }
+   ],
+   "abstract": "ABSTRACT Cardiovascular diseases are the leading cause of mortality and morbidity in the Region of the Americas, and hypertension represents its main risk factor. However, population hypertension control rates in the Region are poor. Global Hearts is the World Health Organization's flagship initiative to reduce the burden of cardiovascular diseases. HEARTS in the Americas Initiative is its regional adaptation that seeks to be the cardiovascular disease risk management model, including hypertension and diabetes, in primary health care throughout the Americas by 2025. HEARTS in the Americas is being implemented in 22 countries and over 2 095 primary care centers. All implementing countries have defined their treatment protocols, and HEARTS in the Americas has supported continuous improvement. Because WHO recently released the 2021 Guideline for the Pharmacological Treatment of Hypertension in Adults and HEARTS in the Americas introduced the key drivers for hypertension control, the initiative generated a methodology to help countries update and strengthen their treatment protocols. This article describes the process of developing the treatment protocol appraisal checklist and defines the resulting clinical pathway. This tool can help countries and primary care centers to improve their protocols by identifying the improvement points and upgrading clinical pathways."
+  },
+  {
+   "paperId": "63b1acad526d80a928b4f281733ae6c5d6a29694",
+   "externalIds": {
+    "DOI": "10.1136/bmj.q1466",
+    "CorpusId": 271402353,
+    "PubMed": "39043414"
+   },
+   "url": "https://www.semanticscholar.org/paper/63b1acad526d80a928b4f281733ae6c5d6a29694",
+   "title": "Improving hypertension management in primary care",
+   "venue": "British medical journal",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1136/bmj.q1466?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1136/bmj.q1466, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Editorial"
+   ],
+   "publicationDate": "2024-07-23",
+   "authors": [
+    {
+     "authorId": "2004095858",
+     "name": "A. Ng"
+    },
+    {
+     "authorId": "2152519480",
+     "name": "Qingqi Chen"
+    },
+    {
+     "authorId": "2313149765",
+     "name": "Diana Dan Wu"
+    },
+    {
+     "authorId": "2479961988",
+     "name": "Suk-Chiu Leung"
+    }
+   ],
+   "abstract": "Clinical decision support increases guideline concordant care"
+  },
+  {
+   "paperId": "96fd953a948a117ea69e9212083ff6c47a98b831",
+   "externalIds": {
+    "PubMedCentral": "10478603",
+    "DOI": "10.1080/02813432.2023.2242711",
+    "CorpusId": 260772513,
+    "PubMed": "37561134"
+   },
+   "url": "https://www.semanticscholar.org/paper/96fd953a948a117ea69e9212083ff6c47a98b831",
+   "title": "Hypertension management in primary health care: a survey in eight regions of Sweden",
+   "venue": "Scandinavian Journal of Primary Health Care",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/02813432.2023.2242711?needAccess=true&role=button",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10478603, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-07-03",
+   "authors": [
+    {
+     "authorId": "39991063",
+     "name": "M. Hellgren"
+    },
+    {
+     "authorId": "3231178",
+     "name": "P. Wennberg"
+    },
+    {
+     "authorId": "39371543",
+     "name": "K. Hedin"
+    },
+    {
+     "authorId": "47154363",
+     "name": "S. Jansson"
+    },
+    {
+     "authorId": "2057420368",
+     "name": "S. Nilsson"
+    },
+    {
+     "authorId": "38014649",
+     "name": "G. Nilsson"
+    },
+    {
+     "authorId": "3703646",
+     "name": "P. Wändell"
+    },
+    {
+     "authorId": "25615980",
+     "name": "K. Boström"
+    }
+   ],
+   "abstract": "Abstract Purpose To explore hypertension management in primary healthcare (PHC). Design Structured interviews of randomly selected PHC centres (PHCCs) from December 2019 to January 2021. Setting Seventy-six PHCCs in eight regions of Sweden. Main outcome measures Staffing and organization of hypertension care. Methods of measuring blood pressure (BP), laboratory tests, registration of co-morbidities and lifestyle advice at diagnosis and follow-up. Results The management of hypertension varied among PHCCs. At diagnosis, most PHCCs (75%) used the sitting position at measurements, and only 13% routinely measured standing BP. One in three (33%) PHCCs never used home BP measurements and 25% only used manual measurements. The frequencies of laboratory analyses at diagnosis were similar in the PHCCs. At follow-up, fewer analyses were performed and the tests of lipids and microalbuminuria decreased from 95% to 45% (p < 0.001) and 61% to 43% (p = 0.001), respectively. Only one out of 76 PHCCs did not measure kidney function at routine follow-ups. Lifestyle, physical activity, food habits, smoking and alcohol use were assessed in ≥96% of patients at diagnosis. At follow-up, however, there were fewer assessments. Half of the PHCCs reported dedicated teams for hypertension, 82% of which were managed by nurses. There was a great inequality in the number of patients per tenured GP in the PHCCs (median 2500; range 1300–11300) patients. Conclusions The management of hypertension varies in many respects between PHCCs in Sweden. This might lead to inequity in the care of patients with hypertension. Key points Hypertension is mainly handled in primary healthcare (PHC), and this study shows important dissimilarities in organization and clinical management. Several variants in techniques and measurements of blood pressure were found between PHC centres. Lifestyle, clinical and laboratory assessments decreased at follow-ups compared to at diagnosis, specifically for lipids, microalbuminuria and electrocardiograms. Nearly half of the PHC centres reported that they had dedicated hypertension teams."
+  },
+  {
+   "paperId": "d47c1dcb3a0de390b77cff9d40b47ae04efee917",
+   "externalIds": {
+    "PubMedCentral": "8959249",
+    "DOI": "10.26633/RPSP.2022.12",
+    "CorpusId": 247791147,
+    "PubMed": "35355690"
+   },
+   "url": "https://www.semanticscholar.org/paper/d47c1dcb3a0de390b77cff9d40b47ae04efee917",
+   "title": "The HEARTS app: a clinical tool for cardiovascular risk and hypertension management in primary health care",
+   "venue": "Revista Panamericana De Salud Publica-pan American Journal of Public Health",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://iris.paho.org/bitstream/10665.2/55853/1/v46e122022.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8959249, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-03-28",
+   "authors": [
+    {
+     "authorId": "4096577",
+     "name": "P. Ordúñez"
+    },
+    {
+     "authorId": "8099880",
+     "name": "C. Tajer"
+    },
+    {
+     "authorId": "2230479267",
+     "name": "T. Gaziano"
+    },
+    {
+     "authorId": "2160728878",
+     "name": "Yenny A. Rodriguez"
+    },
+    {
+     "authorId": "12640359",
+     "name": "A. Rosende"
+    },
+    {
+     "authorId": "31969978",
+     "name": "M. Jaffe"
+    }
+   ],
+   "abstract": "ABSTRACT HEARTS in the Americas is the regional adaptation of the World Health Organization’s Global Hearts Initiative, which will be the model for risk management for cardiovascular disease (CVD) in primary health care in the Region of the Americas by 2025. It has already been implemented in 21 countries and 1045 primary health care centers throughout Latin America and the Caribbean. It takes a public health and health systems approach to systematically introduce simplified interventions at the primary health care level and focuses on hypertension as a clinical entry point. This paper introduces a new, improved application (app), the main component of which is the calculator for CVD risk and hypertension management. The paper summarizes the risk assessment approach and the methodology used by the World Health Organization to update its cardiovascular risk charts in 2019; describes the app, its use, functionality and validation process; and provides a set of practical recommendations for optimizing CVD risk and hypertension management by using the app in clinical practice. The HEARTS app is a powerful tool to improve the quality of care provided in primary health settings. The creation and dissemination of the HEARTS app is an essential step in the journey towards eliminating preventable CVD in the Americas."
+  },
+  {
+   "paperId": "fc561a935c8488f8e53db21833f99ec6b5ba5feb",
+   "externalIds": {
+    "PubMedCentral": "10169833",
+    "DOI": "10.3389/fcvm.2023.1102482",
+    "CorpusId": 258313731,
+    "PubMed": "37180772"
+   },
+   "url": "https://www.semanticscholar.org/paper/fc561a935c8488f8e53db21833f99ec6b5ba5feb",
+   "title": "HEARTS in the Americas clinical pathway. Strengthening the decision support system to improve hypertension and cardiovascular disease risk management in primary care settings",
+   "venue": "Frontiers in Cardiovascular Medicine",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fcvm.2023.1102482/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10169833, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-04-26",
+   "authors": [
+    {
+     "authorId": "12640359",
+     "name": "A. Rosende"
+    },
+    {
+     "authorId": "4241209",
+     "name": "D. DiPette"
+    },
+    {
+     "authorId": "145353368",
+     "name": "Ramón Martínez"
+    },
+    {
+     "authorId": "38084131",
+     "name": "J. Brettler"
+    },
+    {
+     "authorId": "2170987897",
+     "name": "Gonzalo Rodríguez"
+    },
+    {
+     "authorId": "1995070798",
+     "name": "E. Zúñiga"
+    },
+    {
+     "authorId": "4096577",
+     "name": "P. Ordúñez"
+    }
+   ],
+   "abstract": "Background HEARTS in the Americas is the regional adaptation of the WHO Global HEARTS Initiative. It is implemented in 24 countries and over 2,000 primary healthcare facilities. This paper describes the results of a multicomponent, stepwise, quality improvement intervention designed by the HEARTS in the Americas to support advances in hypertension treatment protocols and evolution towards the Clinical Pathway. Methods The quality improvement intervention comprised: 1) the use of the appraisal checklist to evaluate the current hypertension treatment protocols, 2) a peer-to-peer review and consensus process to resolve discrepancies, 3) a proposal of a clinical pathway to be considered by the countries, and 4) a process of review, adopt/adapt, consensus and approval of the clinical pathway by the national HEARTS protocol committee. A year later, 16 participants countries (10 and 6 from each cohort, respectively) were included in a second evaluation using the HEARTS appraisal checklist. We used the median and interquartile scores range and the percentages of the maximum possible total score for each domain as a performance measure to compare the results pre and post-intervention. Results Among the eleven protocols from the ten countries in the first cohort, the baseline assessment achieved a median overall score of 22 points (ICR 18 −23.5; 65% yield). After the intervention, the overall score reached a median of 31.5 (ICR 28.5 −31.5; 93% yield). The second cohort of countries developed seven new clinical pathways with a median score of 31.5 (ICR 31.5 −32.5; 93% yield). The intervention was effective in three domains: 1. implementation (clinical follow-up intervals, frequency of drug refills, routine repeat blood pressure measurement when the first reading is off-target, and a straightforward course of action). 2. treatment (grouping all medications in a single daily intake and using a combination of two antihypertensive medications for all patients in the first treatment step upon the initial diagnosis of hypertension) and 3. management of cardiovascular risk (lower BP thresholds and targets based on CVD risk level, and the use of aspirin and statins in high-risk patients). Conclusion This study confirms that this intervention was feasible, acceptable, and instrumental in achieving progress in all countries and all three domains of improvement: implementation, blood pressure treatment, and cardiovascular risk management. It also highlights the challenges that prevent a more rapid expansion of HEARTS in the Americas and confirms that the main barriers are in the organization of health services: drug titration by non-physician health workers, the lack of long-acting antihypertensive medications, lack of availability of fixed-doses combination in a single pill and cannot use high-intensity statins in patients with established cardiovascular diseases. Adopting and implementing the HEARTS Clinical Pathway can improve the efficiency and effectiveness of hypertension and cardiovascular disease risk management programs."
+  },
+  {
+   "paperId": "dbc11c8d8c776fda13619d60d147c343d8166fdc",
+   "externalIds": {
+    "PubMedCentral": "9288223",
+    "DOI": "10.26633/RPSP.2022.96",
+    "CorpusId": 250638423,
+    "PubMed": "35855441"
+   },
+   "url": "https://www.semanticscholar.org/paper/dbc11c8d8c776fda13619d60d147c343d8166fdc",
+   "title": "HEARTS in the Americas: innovations for improving hypertension and cardiovascular disease risk management in primary care",
+   "venue": "Revista Panamericana De Salud Publica-pan American Journal of Public Health",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://iris.paho.org/bitstream/10665.2/56143/1/v46e962022.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9288223, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-07-16",
+   "authors": [
+    {
+     "authorId": "4096577",
+     "name": "P. Ordúñez"
+    },
+    {
+     "authorId": "2203503",
+     "name": "N. Campbell"
+    },
+    {
+     "authorId": "2185078639",
+     "name": "Gloria P. Giraldo-Arcila"
+    },
+    {
+     "authorId": "3524636",
+     "name": "S. Angell"
+    },
+    {
+     "authorId": "49075714",
+     "name": "C. Lombardi"
+    },
+    {
+     "authorId": "38084131",
+     "name": "J. Brettler"
+    },
+    {
+     "authorId": "2505656427",
+     "name": "Yenny A. Rodríguez Morales"
+    },
+    {
+     "authorId": "49909056",
+     "name": "K. Connell"
+    },
+    {
+     "authorId": "2165017761",
+     "name": "A. Gamarra"
+    },
+    {
+     "authorId": "4241209",
+     "name": "D. DiPette"
+    },
+    {
+     "authorId": "12640359",
+     "name": "A. Rosende"
+    },
+    {
+     "authorId": "31969978",
+     "name": "M. Jaffe"
+    },
+    {
+     "authorId": "2176785921",
+     "name": "Libardo Rodriguez"
+    },
+    {
+     "authorId": "7007417",
+     "name": "D. Piñeiro"
+    },
+    {
+     "authorId": "145353368",
+     "name": "Ramón Martínez"
+    },
+    {
+     "authorId": "6492871",
+     "name": "J. Sharman"
+    }
+   ],
+   "abstract": "Abstract Global Hearts is the flagship initiative of the World Health Organization to reduce the burden of cardiovascular diseases, the leading cause of death and disability worldwide. HEARTS in the Americas Initiative is the regional adaptation that envisions HEARTS as the model for cardiovascular disease risk management, including hypertension and diabetes, in primary health care in the Americas by 2025. This initiative is entering its sixth year of implementation and now includes 22 countries and 1 380 primary health care centers. The objectives of this report are three-fold. First, it describes the emergence and the main elements of HEARTS in the Americas. Secondly, it summarizes the main innovations developed to catalyze and sustain implementation of the initiative. These innovations include: a) introduction of hypertension control drivers; b) development of a comprehensive and practical clinical pathway; c) development of a strategy to improve the accuracy of blood pressure measurement; d) creation of a monitoring and evaluation platform; and e) development of a standardized set of training and education resources. Thirdly, this report discusses future priorities of the initiative. The goal of implementing these innovative and pragmatic solutions is to create a more effective health system and shift the focus of cardiovascular and hypertension programs from the highly specialized care level to primary health care. In addition, HEARTS in the Americas can serve as a model for more comprehensive, effective, and sustainable noncommunicable disease prevention and treatment practices."
+  },
+  {
+   "paperId": "5e345f07898e1ad253349727876391abb3e4297c",
+   "externalIds": {
+    "PubMedCentral": "12233002",
+    "DOI": "10.1016/j.jdiacomp.2025.109045",
+    "CorpusId": 277944526,
+    "PubMed": "40305970"
+   },
+   "url": "https://www.semanticscholar.org/paper/5e345f07898e1ad253349727876391abb3e4297c",
+   "title": "Obesity and its management in primary care setting",
+   "venue": "Journal of diabetes and its complications",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12233002/",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12233002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-01",
+   "authors": [
+    {
+     "authorId": "145232604",
+     "name": "Mahmoud Ibrahim"
+    },
+    {
+     "authorId": "82147899",
+     "name": "E. Ba-Essa"
+    },
+    {
+     "authorId": "2315323582",
+     "name": "Jessica A. Alvarez"
+    },
+    {
+     "authorId": "2379924881",
+     "name": "J. Baker"
+    },
+    {
+     "authorId": "82762604",
+     "name": "V. Bruni"
+    },
+    {
+     "authorId": "77264514",
+     "name": "A. Cahn"
+    },
+    {
+     "authorId": "2424758249",
+     "name": "A. Ceriello"
+    },
+    {
+     "authorId": "31449363",
+     "name": "F. Cosentino"
+    },
+    {
+     "authorId": "2257826412",
+     "name": "M. Davies"
+    },
+    {
+     "authorId": "2486457679",
+     "name": "F. De Domenico"
+    },
+    {
+     "authorId": "4892930",
+     "name": "R. Eckel"
+    },
+    {
+     "authorId": "4409093",
+     "name": "A. Friedman"
+    },
+    {
+     "authorId": "2183991141",
+     "name": "Jonathan Goldney"
+    },
+    {
+     "authorId": "2289286946",
+     "name": "Omer Hamtzany"
+    },
+    {
+     "authorId": "2335006527",
+     "name": "S. Isaacs"
+    },
+    {
+     "authorId": "112867779",
+     "name": "Ş. Karadeniz"
+    },
+    {
+     "authorId": "144903669",
+     "name": "R. Leslie"
+    },
+    {
+     "authorId": "3788935",
+     "name": "I. Lingvay"
+    },
+    {
+     "authorId": "121715697",
+     "name": "S. McLaughlin"
+    },
+    {
+     "authorId": "2166836651",
+     "name": "Omar Mobarak"
+    },
+    {
+     "authorId": "7423557",
+     "name": "S. del Prato"
+    },
+    {
+     "authorId": "13777876",
+     "name": "F. Prattichizzo"
+    },
+    {
+     "authorId": "143882997",
+     "name": "M. Rizzo"
+    },
+    {
+     "authorId": "116131263",
+     "name": "R. Rötzer"
+    },
+    {
+     "authorId": "114485277",
+     "name": "C. le Roux"
+    },
+    {
+     "authorId": "3124301",
+     "name": "O. Schnell"
+    },
+    {
+     "authorId": "4614245",
+     "name": "P. Seferović"
+    },
+    {
+     "authorId": "145534559",
+     "name": "V. Somers"
+    },
+    {
+     "authorId": "81257100",
+     "name": "E. Standl"
+    },
+    {
+     "authorId": "2276048387",
+     "name": "Abraham Thomas"
+    },
+    {
+     "authorId": "6135098",
+     "name": "D. Tuccinardi"
+    },
+    {
+     "authorId": "5786545",
+     "name": "P. Valensi"
+    },
+    {
+     "authorId": "5139958",
+     "name": "G. Umpierrez"
+    }
+   ],
+   "abstract": "Obesity is a worldwide epidemic affecting adults and children, regardless of their socioeconomic status. Significant progress has been made in understanding the genetic causes contributing to obesity, shedding light on a portion of cases worldwide. In young children with severe obesity however, recessive mutations, i.e., leptin or leptin receptor deficiency should be sought. Much more has been learned about the far-reaching impact of obesity on complications, including cardiovascular disease, liver and kidney dysfunction, diabetes, inflammation, hypertension, sleep, cancer, and the eye. Preventive strategies, particularly in children, are crucial for reducing obesity rates and mitigating its long-term complications. While dietary modifications and lifestyle changes remain the cornerstone of obesity prevention or treatment, recent advancements have introduced highly effective pharmacological options complementing weight-reduction surgery. Newer medications, like incretin-based therapies including glucagon-like peptide-1 agonists (GLP-1RA), have demonstrated remarkable efficacy in promoting weight loss, offering new insights into margining obesity-related conditions. Primary care providers, whether treating adults or children, play a pivotal role in preventing obesity, initiating treatment, and making onward referrals to specialists to assist in managing obesity and obesity-related complications."
+  },
+  {
+   "paperId": "3c0a6c54556c1d198284830767fc5e497c0e33c4",
+   "externalIds": {
+    "PubMedCentral": "11155455",
+    "DOI": "10.3389/fpubh.2024.1375227",
+    "CorpusId": 269981058,
+    "PubMed": "38846619"
+   },
+   "url": "https://www.semanticscholar.org/paper/3c0a6c54556c1d198284830767fc5e497c0e33c4",
+   "title": "Voices of care: unveiling patient journeys in primary care for hypertension and diabetes management in Kerala, India",
+   "venue": "Frontiers in Public Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3389/fpubh.2024.1375227",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11155455, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-22",
+   "authors": [
+    {
+     "authorId": "102753283",
+     "name": "Ranjana Ravindranath"
+    },
+    {
+     "authorId": "2255091103",
+     "name": "P. Sarma"
+    },
+    {
+     "authorId": "2268220",
+     "name": "S. Sivasankaran"
+    },
+    {
+     "authorId": "4871489",
+     "name": "K. Thankappan"
+    },
+    {
+     "authorId": "4103656",
+     "name": "P. Jeemon"
+    }
+   ],
+   "abstract": "Background Diabetes and hypertension are leading public health problems, particularly affecting low- and middle-income countries, with considerable variations in the care continuum between different age, socio-economic, and rural and urban groups. In this qualitative study, examining the factors affecting access to healthcare in Kerala, we aim to explore the healthcare-seeking pathways of people living with diabetes and hypertension. Methods We conducted 20 semi-structured interviews and one focus group discussion (FGD) on a purposive sample of people living with diabetes and hypertension. Participants were recruited at four primary care facilities in Malappuram district of Kerala. Interviews were transcribed and analyzed deductively and inductively using thematic analysis underpinned by Levesque et al.’s framework. Results The patient journey in managing diabetes and hypertension is complex, involving multiple entry and exit points within the healthcare system. Patients did not perceive Primary Health Centres (PHCs) as their initial points of access to healthcare, despite recognizing their value for specific services. Numerous social, cultural, economic, and health system determinants underpinned access to healthcare. These included limited patient knowledge of their condition, self-medication practices, lack of trust/support, high out-of-pocket expenditure, unavailability of medicines, physical distance to health facilities, and attitude of healthcare providers. Conclusion The study underscores the need to improve access to timely diagnosis, treatment, and ongoing care for diabetes and hypertension at the lower level of the healthcare system. Currently, primary healthcare services do not align with the “felt needs” of the community. Practical recommendations to address the social, cultural, economic, and health system determinants include enabling and empowering people with diabetes and hypertension and their families to engage in self-management, improving existing health information systems, ensuring the availability of diagnostics and first-line drug therapy for diabetes and hypertension, and encouraging the use of single-pill combination (SPC) medications to reduce pill burden. Ensuring equitable access to drugs may improve hypertension and diabetes control in most disadvantaged groups. Furthermore, a more comprehensive approach to healthcare policy that recognizes the interconnectedness of non-communicable diseases (NCDs) and their social determinants is essential."
+  },
+  {
+   "paperId": "f14ed0484f263e8ce58bbdb39e03c4037246dc71",
+   "externalIds": {
+    "PubMedCentral": "12852415",
+    "DOI": "10.3389/frhs.2025.1715125",
+    "CorpusId": 284851622,
+    "PubMed": "41623515"
+   },
+   "url": "https://www.semanticscholar.org/paper/f14ed0484f263e8ce58bbdb39e03c4037246dc71",
+   "title": "Perceived barriers to management of patients with diabetes mellitus and hypertension in primary care centers in Indonesia",
+   "venue": "Frontiers in Health Services",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://public-pages-files-2025.frontiersin.org/journals/health-services/articles/10.3389/frhs.2025.1715125/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12852415, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-01-15",
+   "authors": [
+    {
+     "authorId": "22313380",
+     "name": "N. M. Hustrini"
+    },
+    {
+     "authorId": "15262631",
+     "name": "E. Susalit"
+    },
+    {
+     "authorId": "7402776",
+     "name": "M. van Diepen"
+    },
+    {
+     "authorId": "1688501",
+     "name": "J. Rotmans"
+    }
+   ],
+   "abstract": "Objectives This study aimed to explore provider knowledge, barriers, and opportunities for improving chronic disease management in Indonesian primary health care. Methods A descriptive cross-sectional mixed methods study was conducted from December 1, 2022 to March 31, 2023 across 14 primary care centers in Jakarta. Multidisciplinary healthcare providers responsible in hypertension and diabetes mellitus (DM) care were involved. Data were collected using a semi-structured, interviewer-administered questionnaire consisting of both closed- and open-ended questions, structured across five domains: referral system knowledge, referral pathway implementation, hypertension management knowledge, DM management knowledge, and delivery of chronic disease care. Quantitative data were complemented with qualitative responses to provide contextual insight. Results A total of 59 healthcare providers participated in the study, the majority of whom were female (89.8%). Participants included physicians (42.4%), nurses (35.6%), and midwives (10.2%). Most participants (71.4%) had over three years of practice. Notable knowledge gaps were identified in referral practices, diagnostic criteria, and monitoring protocols. Referrals were often delayed until complications occurred. Implementation of the national chronic disease (PROLANIS) program was suboptimal, particularly in patient selection and defining outcome targets. Screening for kidney complications was limited and medication availability was restricted. Poor adherence to national guidelines, short consultation times, and staffing shortages further hindered care and education efforts. Three major barriers—patient-related, provider-related, and structural—were identified. Conclusions Improving chronic disease care in primary settings requires addressing provider knowledge gaps, strengthening referral systems, and enhancing PROLANIS implementation through targeted training and resource allocation."
+  },
+  {
+   "paperId": "c21c469cc059852c52abf2518f180f81745517d1",
+   "externalIds": {
+    "PubMedCentral": "9440730",
+    "DOI": "10.26633/RPSP.2022.150",
+    "CorpusId": 252073405,
+    "PubMed": "36071915"
+   },
+   "url": "https://www.semanticscholar.org/paper/c21c469cc059852c52abf2518f180f81745517d1",
+   "title": "Integrating hypertension and diabetes management in primary health care settings: HEARTS as a tool",
+   "venue": "Revista Panamericana De Salud Publica-pan American Journal of Public Health",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://iris.paho.org/bitstream/10665.2/56324/5/v46e1502022.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9440730, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "CaseReport"
+   ],
+   "publicationDate": "2022-09-02",
+   "authors": [
+    {
+     "authorId": "50419512",
+     "name": "D. Flood"
+    },
+    {
+     "authorId": "143692196",
+     "name": "E. Edwards"
+    },
+    {
+     "authorId": "2558607704",
+     "name": "David Giovannini"
+    },
+    {
+     "authorId": "32993296",
+     "name": "E. Ridley"
+    },
+    {
+     "authorId": "12640359",
+     "name": "A. Rosende"
+    },
+    {
+     "authorId": "5492986",
+     "name": "W. Herman"
+    },
+    {
+     "authorId": "31969978",
+     "name": "M. Jaffe"
+    },
+    {
+     "authorId": "4241209",
+     "name": "D. DiPette"
+    }
+   ],
+   "abstract": "ABSTRACT Hypertension and diabetes are modifiable cardiovascular disease (CVD) risk factors that contribute to nearly one-third of all deaths in the Americas Region each year (2.3 million deaths). Despite advances in the detection and clinical management of hypertension and diabetes, there are substantial gaps in their implementation globally and in the Region. The considerable overlap in risk factors, prognosis, and treatment of hypertension and diabetes creates a unique opportunity for a unified implementation model for management at the population level. This report highlights one such high-profile effort, the Pan American Health Organization’s “HEARTS in the Americas” program, based on the World Health Organization’s HEARTS Technical Package for Cardiovascular Disease Management in Primary Health Care. The HEARTS program aims to improve the implementation of preventive CVD care in primary health systems using six evidence-based, pragmatic components: Healthy-lifestyle counseling, Evidence-based protocols, Access to essential medicines and technology, Risk-based CVD management, Team-based care, and Systems for monitoring. To date, HEARTS implementation projects have focused primarily on hypertension given that it is the leading modifiable CVD risk factor and can be treated cost-effectively. The objective of this report is to describe opportunities for integration of diabetes clinical care and policy within the HEARTS hypertension framework. A substantial global burden of disease could be averted with integrated primary care management of these conditions. Thus, there is an urgency in applying lessons from HEARTS to close these implementation gaps and improve the integrated detection, treatment, and control of diabetes and hypertension."
+  },
+  {
+   "paperId": "11629aeb20495fd959678d9a0c4cbc0bdff161d8",
+   "externalIds": {
+    "DOI": "10.17992/lbl.2022.02.675",
+    "CorpusId": 246444933,
+    "PubMed": "35103619"
+   },
+   "url": "https://www.semanticscholar.org/paper/11629aeb20495fd959678d9a0c4cbc0bdff161d8",
+   "title": "[Hypertension Management in Primary Care in the Capital Area of Iceland].",
+   "venue": "Icelandic Medical Journal",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.laeknabladid.is/media/2022-02/f01.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.17992/lbl.2022.02.675?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17992/lbl.2022.02.675, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-02-01",
+   "authors": [
+    {
+     "authorId": "2564526382",
+     "name": "Stefan Adalsteinsson"
+    },
+    {
+     "authorId": "40126987",
+     "name": "J. S. Jónsson"
+    },
+    {
+     "authorId": "4500145",
+     "name": "H. Hrafnkelsson"
+    },
+    {
+     "authorId": "5197359",
+     "name": "G. Thorgeirsson"
+    },
+    {
+     "authorId": "32079850",
+     "name": "E. Sigurdsson"
+    }
+   ],
+   "abstract": "INTRODUCTION\nHigh blood pressure (HT) is one of the main risk factors for cardiovascular diseases which in 2010 caused one third of all mortality in the world. Untreated, HT can cause stroke, myocardial infarction, heart failure, dementia, kidney failure, atherosclerosis and eye diseases. The main aim of this study was to find out how HT is treated in primary care in the capital area of Iceland.\n\n\nMATERIAL AND METHODS\nThe study is a descriptive retrospective cross-sectional study covering the years 2010, 2014 and 2019. Information about all patients over 18 years old diagnosed with HT were gathered from computerised medical records at every primary care center in the Capital area.\n\n\nRESULTS\nThe number of individuals diagnosed with HT increased during the study period and the mean age did also increase. The sex ratio changed with more men diagnosed than women. Of 25.873 patients diagnosed with HT in the year 2010, 63.4% received drug treatment. In 2019 this percentage had dropped 60.9% (p<0,001). Of those on antihypertensive drug treatment the proportion receiving one, two or three drugs remained same from 2010-2019. The most common group of drugs used were diuretics (C03), beta-blockers (C07), calcium channel blockers (C08) and renin-angiotensin-aldosteron-system (RAAS) inhibitors (C09). The proportion af these drug groups changed significantly during the study. Fever patients were treated by diuretics (p<0,001) or beta-blockers ((p<0,001) but the number treated by calcium channel blockers (p<0,01) or RAAS inhibitors increased (p<0,001). During the whole stud period 44.1% of the patients reached the target goals. The proportion of patients who reached the target goals in different health care center was specifically for the year 2019. Just over 41% of HT patients reached the targets goals. However, two health care centers achieved notably different results with only one third of the patients attaining the goals.\n\n\nCONCLUSION\nAs has recently been shown in epidemiologic studies hypertension in Iceland is both underdiagnosed and undertreated although the country ranks high on both counts in international comparison. Furthermore, the fact that under half of hypertensive patients in general practice in the capital area reach the targeted treatment goals, cannot be considered an acceptable. Thus, it is of immense importance to improve both the diagnosis and the treatment of HT."
+  },
+  {
+   "paperId": "e5570e0baa7c072ec8768a60368b19a8b9f3f684",
+   "externalIds": {
+    "PubMedCentral": "12150426",
+    "DOI": "10.1503/cmaj.241770",
+    "CorpusId": 278884826,
+    "PubMed": "40419299"
+   },
+   "url": "https://www.semanticscholar.org/paper/e5570e0baa7c072ec8768a60368b19a8b9f3f684",
+   "title": "Hypertension Canada guideline for the diagnosis and treatment of hypertension in adults in primary care",
+   "venue": "Canadian Medical Association Journal",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.cmaj.ca/content/cmaj/197/20/E549.full.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12150426, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-25",
+   "authors": [
+    {
+     "authorId": "4262364",
+     "name": "R. Goupil"
+    },
+    {
+     "authorId": "5566344",
+     "name": "R. Tsuyuki"
+    },
+    {
+     "authorId": "5569023",
+     "name": "N. Santesso"
+    },
+    {
+     "authorId": "2327575203",
+     "name": "K. Terenzi"
+    },
+    {
+     "authorId": "7940539",
+     "name": "J. Habert"
+    },
+    {
+     "authorId": "2190044031",
+     "name": "Gemma Cheng"
+    },
+    {
+     "authorId": "114912851",
+     "name": "Stephanie C. Gysel"
+    },
+    {
+     "authorId": "13762468",
+     "name": "J. Bruneau"
+    },
+    {
+     "authorId": "2307854857",
+     "name": "Alexander A. Leung"
+    },
+    {
+     "authorId": "2203503",
+     "name": "N. Campbell"
+    },
+    {
+     "authorId": "4201898",
+     "name": "E. Schiffrin"
+    },
+    {
+     "authorId": "49741644",
+     "name": "G. Hundemer"
+    }
+   ],
+   "abstract": "Background: Canada has historically been among the world leaders in hypertension care, but hypertension treatment and control rates have regressed in recent years. This guideline is intended to provide pragmatic primary care–focused recommendations to improve hypertension management in adults at the population level. Methods: We employed Grading of Recommendations Assessment, Development and Evaluation and ADAPTE frameworks in accordance with Appraisal of Guidelines for Research and Evaluation (AGREE II) quality and reporting standards to develop recommendations on managing hypertension for adults aged 18 years and older. We used the HEARTS framework — a model of care developed by the World Health Organization to improve hypertension control and reduce cardiovascular burden — to integrate these recommendations into streamlined, pragmatic, and evidence-based algorithms. The guideline committee predominantly comprised primary care providers and also included patient, methodology, and hypertension specialist representatives. Our process for managing competing interests adhered to Guidelines International Network principles. Recommendations: The 9 recommendations for managing hypertension in adults are grouped under the categories of diagnosis and treatment. Diagnostic recommendations include a standardized approach to measuring blood pressure (BP) and confirming hypertension, as well as providing a uniform definition for hypertension of BP ≥ 130/80 mm Hg. Treatment recommendations include targeting a systolic BP < 130 mm Hg, implementing healthy lifestyle changes, and providing stepwise guidance on optimal medication choices for patients requiring pharmacotherapy. Interpretation: Our aim is to enhance the standard of hypertension care in the Canadian primary care setting. Accurate diagnosis and optimal treatment of hypertension can reduce adverse cardiovascular events and risk of death."
+  },
+  {
+   "paperId": "c2f36f64baacdcbc66fa2fbe399020ce11ef9c3b",
+   "externalIds": {
+    "PubMedCentral": "4602719",
+    "MAG": "2314332936",
+    "DOI": "10.1097/MD.0000000000000455",
+    "CorpusId": 5889222,
+    "PubMed": "25654383"
+   },
+   "url": "https://www.semanticscholar.org/paper/c2f36f64baacdcbc66fa2fbe399020ce11ef9c3b",
+   "title": "A Comparison of the Quality of Hypertension Management in Primary Care Between Shanghai and Shenzhen",
+   "venue": "Medicine",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1097/md.0000000000000455",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4602719, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Study",
+    "JournalArticle"
+   ],
+   "publicationDate": "2015-02-01",
+   "authors": [
+    {
+     "authorId": "152328860",
+     "name": "Hai-Tao Li"
+    },
+    {
+     "authorId": "144448736",
+     "name": "Xiao-Lin Wei"
+    },
+    {
+     "authorId": "144209885",
+     "name": "M. C. Wong"
+    },
+    {
+     "authorId": "2075331755",
+     "name": "Nan Yang"
+    },
+    {
+     "authorId": "144562057",
+     "name": "S. Wong"
+    },
+    {
+     "authorId": "144775894",
+     "name": "X. Lao"
+    },
+    {
+     "authorId": "6266902",
+     "name": "S. Griffiths"
+    }
+   ],
+   "abstract": "AbstractStrong primary care is in urgent need for the management and control of hypertension. This study aimed to compare the quality of hypertensive care delivered by community health centers (CHCs) in Shanghai and Shenzhen.Multistage random sampling method was used to select 4 CHCs in each city as study settings. A cohort of hypertensive patients under the hypertensive management program in the CHCs was selected from the electronic information system by using a systematic random sampling method. Binary logistic regression models were constructed for comparison between the 2 cities.A total of 3196 patients’ records were assessed. The proportions of hypertensive patients who received advice on smoking cessation (33.8 vs 7.7%, P < 0.001), increasing physical activity (52.4 vs 16.8%, P < 0.001), low-sodium diet (72.0 vs 64.1%, P < 0.001), and regular follow-up (37.8 vs 8.6%, P < 0.001) were higher in Shenzhen than in Shanghai. However, the drug treatment rate in Shenzhen was lower than that in Shanghai (74.2 vs 95.2%, P < 0.001). The hypertension control rate in Shenzhen was lower than that in Shanghai (76.3 vs 83.2%, P < 0.001). Better performance in the process of hypertensive care in terms of increasing physical activity advice, low-sodium diet advice, regular follow-up, and drug prescription was associated with a higher rate of hypertension control.The study indicates that primary care is effective in managing hypertension irrespective of management and operation models of CHCs in urban China. Our study suggests that improvements in the process of hypertensive care may lead to better hypertension control."
+  },
+  {
+   "paperId": "d032da3328e1ab568d6a93852b37ea2319f9fff9",
+   "externalIds": {
+    "PubMedCentral": "9799039",
+    "DOI": "10.1097/HJH.0000000000003322",
+    "CorpusId": 253577333,
+    "PubMed": "36394295"
+   },
+   "url": "https://www.semanticscholar.org/paper/d032da3328e1ab568d6a93852b37ea2319f9fff9",
+   "title": "PERson-centredness in Hypertension management using Information Technology: a randomized controlled trial in primary care",
+   "venue": "Journal of Hypertension",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1097/hjh.0000000000003322",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9799039, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-11-18",
+   "authors": [
+    {
+     "authorId": "143849764",
+     "name": "U. Andersson"
+    },
+    {
+     "authorId": "2476136077",
+     "name": "P. Nilsson"
+    },
+    {
+     "authorId": "46527497",
+     "name": "K. Kjellgren"
+    },
+    {
+     "authorId": "40487186",
+     "name": "Mikael Hoffmann"
+    },
+    {
+     "authorId": "4357170",
+     "name": "André Wennersten"
+    },
+    {
+     "authorId": "6199090",
+     "name": "P. Midlöv"
+    }
+   ],
+   "abstract": "Objectives: To increase the proportion of individuals with hypertension obtaining a blood pressure (BP) of less than 140/90 mmHg by improving the management of hypertension in daily life from a person-centred perspective. Methods: In this unblinded randomized controlled trial, we tested an interactive web-based self-management system for hypertension. A total of 949 patients with hypertension from 31 primary healthcare centres (PHCCs) in Sweden were randomized 1 : 1 to either the intervention or usual care group. The intervention included daily measurement – via the participant's mobile phone – of BP and pulse and reports of well being, symptoms, lifestyle, medication intake and side effects for eight consecutive weeks. It also included reminders and optional motivational messages. The primary outcome was the proportion of participants obtaining BP of less than 140/90 mmHg at 8 weeks and 12 months. Significance was tested by Pearson's chi2-test. Results: A total of 862 patients completed the trial, 442 in the intervention group and 420 in the control group. The primary outcome (BP <140/90 mmHg) at 8 weeks was achieved by 48.8% in the intervention group and 39.9% in the control group (P = 0.006). At 12 months, 47.1% (intervention) and 41.0% (control group) had a BP less than 140/90 mmHg (P = 0.071). Conclusion: The proportion of participants with a controlled BP of less than 140/90 mmHg increased after using the interactive system for self-management of hypertension for 8 weeks compared with usual care. Although the trend continued, there was no significant difference after 12 months. The results indicate that the effect of the intervention is significant, but the long-term effect is uncertain. Trial registration: The study was registered with ClinicalTrials.gov (NCT03554382)."
+  },
+  {
+   "paperId": "224e8871b46bcfb60315c39b0922986e9c9d4cad",
+   "externalIds": {
+    "MAG": "2304256656",
+    "DOI": "10.4172/2329-9126.1000238",
+    "CorpusId": 54727311
+   },
+   "url": "https://www.semanticscholar.org/paper/224e8871b46bcfb60315c39b0922986e9c9d4cad",
+   "title": "Hypertension Management in Primary Care in China: Still a Long Way toProceed",
+   "venue": "",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.4172/2329-9126.1000238",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4172/2329-9126.1000238?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4172/2329-9126.1000238, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "152328860",
+     "name": "Hai-Tao Li"
+    }
+   ],
+   "abstract": "The prevalence of hypertension increased dramatically during the last several decades in China. The Chinese government has launched a national comprehensive hypertension management program in primary care, which includes hypertension detection, measurement, treatment and follow-up. The awareness, treatment and control rates of hypertension in China have improved in recent years, which is possibly attributable to the program to some extent. However, policy makers are facing many issues regarding hypertension management. This study pointed out two major issues. The first one was the low hypertension management rate. The other one was the hypertension management process itself-there were significant gaps between standards of care and medical practice. Possible barriers to effective delivery of hypertensive care were elaborated which may help improve hypertension management in primary care in China."
+  },
+  {
+   "paperId": "9e99601f55d246c78afa0a744f92bfc213e8051e",
+   "externalIds": {
+    "DOI": "10.1097/HJH.0000000000002783",
+    "CorpusId": 231866655,
+    "PubMed": "33560056"
+   },
+   "url": "https://www.semanticscholar.org/paper/9e99601f55d246c78afa0a744f92bfc213e8051e",
+   "title": "Therapeutic inertia in the management of hypertension in primary care",
+   "venue": "Journal of Hypertension",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1097/HJH.0000000000002783?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/HJH.0000000000002783, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2021-02-03",
+   "authors": [
+    {
+     "authorId": "2170267468",
+     "name": "D. H. Ali"
+    },
+    {
+     "authorId": "150936097",
+     "name": "Birsen Kiliç"
+    },
+    {
+     "authorId": "50351879",
+     "name": "H. Hart"
+    },
+    {
+     "authorId": "5132801",
+     "name": "M. Bots"
+    },
+    {
+     "authorId": "50060568",
+     "name": "M. Biermans"
+    },
+    {
+     "authorId": "6463094",
+     "name": "W. Spiering"
+    },
+    {
+     "authorId": "1909797",
+     "name": "F. Rutten"
+    },
+    {
+     "authorId": "49867996",
+     "name": "M. Hollander"
+    }
+   ],
+   "abstract": "Supplemental Digital Content is available in the text Background: Therapeutic inertia is considered to be an obstacle to effective blood pressure (BP) control. Aims: To identify patient characteristics associated with therapeutic inertia in patients with hypertension managed in primary care and to assess reasons not to intensify therapy. Methods: A Dutch cohort study was conducted using electronic health record data of patients registered in the Julius General Practitioners’ Network (n = 530 564). Patients with a diagnosis of hypertension, SBP at least 140 and/or DBP at least 90 mmHg, and one or two BP-lowering drug(s) were included. Therapeutic inertia was defined as not undertaking therapeutic action in follow-up despite uncontrolled BP. Multivariable logistic regression was used to identify characteristics associated with inertia. Furthermore, an exploratory survey was performed in which general practitioners of 114 patients were asked for reasons not to intensify treatment. Results: We identified 6400 (10% of all patients with hypertension) uncontrolled patients on one or two BP-lowering drugs. Therapeutic inertia was 87%, similar in men and women. Older age, lower systolic, diastolic and near-target SBP, and diabetes were positively associated, while renal insufficiency and heart failure were inversely related to inertia. General practitioners did not intensify therapy because they first, considered office BP measurements as nonrepresentative (27%); second, waited for next BP readings (21%); third, wanted to optimize lifestyle first (19%). Eleven percent of patients explicitly did not want to change treatment. Conclusion: Therapeutic inertia is common in primary care patients with uncontrolled hypertension. Older age, and closer to target BP, but also concurrent diabetes were associated with inertia."
+  }
+ ]
+}

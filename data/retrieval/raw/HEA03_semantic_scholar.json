@@ -1,0 +1,1151 @@
+{
+ "query": "Childhood vaccination coverage and vaccine hesitancy",
+ "retrieved_at": "2026-11-18T18:08:16.275123+00:00",
+ "data": [
+  {
+   "paperId": "9b6b1d0d9cc7f149ab01c09a1b43d26a3d723cfd",
+   "externalIds": {
+    "DOI": "10.1016/j.vaccine.2024.126422",
+    "CorpusId": 273238877,
+    "PubMed": "39388929"
+   },
+   "url": "https://www.semanticscholar.org/paper/9b6b1d0d9cc7f149ab01c09a1b43d26a3d723cfd",
+   "title": "Association between parental vaccine hesitancy and geographical coverage for childhood vaccination: A cross-sectional study.",
+   "venue": "Vaccine",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.vaccine.2024.126422?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.vaccine.2024.126422, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-09",
+   "authors": [
+    {
+     "authorId": "2325228670",
+     "name": "Sukriti Gera"
+    },
+    {
+     "authorId": "1900709",
+     "name": "M. Hoq"
+    },
+    {
+     "authorId": "5466119",
+     "name": "M. Danchin"
+    },
+    {
+     "authorId": "38924774",
+     "name": "Jane Tuckerman"
+    }
+   ],
+   "abstract": "BACKGROUND\nThe aim of this study was to explore the relationship between parental vaccine hesitancy and vaccine coverage for all recommended vaccines for children under five years residing in Statistical Areas Level 3 (SA3). SA3 groupings represent clustering groups of smaller areas, such as regional towns and cities or clusters of related suburbs, which share similar regional characteristics, administrative boundaries or labour markets, and generally have populations between 30,000 and 130,000 persons.\n\n\nMETHODS\nWe used parental vaccine hesitancy data from the VBAT (Vaccine Barrier Assessment Tool) study and vaccine coverage by postcode data from the Australian Immunisation Coverage Report 2020/21. Binary logistic regression analysis explored the association.\n\n\nRESULTS\nThere were complete data for 1110 participants. We found lower vaccine concerns in parents residing in medium coverage (adjusted odds ratio (aOR) 0.36, 95 % confidence interval (CI): 0.22 to 0.59) and high coverage (aOR 0.37, 95 % CI: 0.22 to 0.60) SA3 areas compared to low coverage geographical areas.\n\n\nCONCLUSIONS\nDeveloping effective policies to vaccinate children under five in low coverage areas will help reduce vaccine inequity in Australia. Future strategies to improve vaccine coverage should consider ways to address both access and acceptance barriers."
+  },
+  {
+   "paperId": "152ca95023653f12b65604a2463407c63b6d1c38",
+   "externalIds": {
+    "PubMedCentral": "10793707",
+    "DOI": "10.1080/21645515.2023.2298562",
+    "CorpusId": 266902490,
+    "PubMed": "38196242"
+   },
+   "url": "https://www.semanticscholar.org/paper/152ca95023653f12b65604a2463407c63b6d1c38",
+   "title": "Caregivers’ perceptions on routine childhood vaccination: A qualitative study on vaccine hesitancy in a South Brazil state capital",
+   "venue": "Human Vaccines & Immunotherapeutics",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1080/21645515.2023.2298562",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10793707, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-01-09",
+   "authors": [
+    {
+     "authorId": "2484536619",
+     "name": "Camila Carvalho de Souza Amorim Matos"
+    },
+    {
+     "authorId": "4768355",
+     "name": "M. Couto"
+    },
+    {
+     "authorId": "1468744396",
+     "name": "Elizabeth O. Oduwole"
+    },
+    {
+     "authorId": "2512243968",
+     "name": "Charles Shey Wiysonge"
+    }
+   ],
+   "abstract": "ABSTRACT Immunization programs worldwide have been facing challenges in keeping vaccination coverage high. Even though universally known for its robust National Immunization Program, Brazil has also faced significant challenges regarding vaccination coverage. One of the reasons for this is vaccine hesitancy, a complex, multi-causal, and context-specific phenomenon. This qualitative study aims to understand the factors associated with decision-making and the drivers of vaccine hesitancy in Florianopolis, Santa Catarina state capital, regarding caregivers’ perceptions of routine childhood vaccination. In-depth interviews were conducted in the Capital city of Santa Catarina State. Families with children up to 6 years old were included. Data were analyzed based on thematic content analysis. Twenty-nine caregivers in 18 families were interviewed. These caregivers were mainly mothers and fathers. Three themes emerged: 1. Access to information and the decision-making process, where we discuss the role of social circles, healthcare workers, and the internet; 2. Individual-institutions power relationships: Perceptions about the State’s role and the Health institutions: 3. Reasons and motivations: The senses and meanings behind non-vaccination, where we discuss the drivers of vaccine hesitancy related to risk perception, caregivers’ opinions on the medical-pharmaceutical industry, vaccines’ composition and their side effects, families’ lifestyles and worldviews, and the childhood routine vaccination schedule. The results of this study reaffirm the complexity of the decision-making process in childhood vaccination and further enable a better contextual understanding of the complex and challenging phenomenon of vaccine hesitancy."
+  },
+  {
+   "paperId": "aafff7de51a39fa588bceade2c0a3c0e2b0d0559",
+   "externalIds": {
+    "PubMedCentral": "11705103",
+    "DOI": "10.21873/invivo.13855",
+    "CorpusId": 275172877,
+    "PubMed": "39740905"
+   },
+   "url": "https://www.semanticscholar.org/paper/aafff7de51a39fa588bceade2c0a3c0e2b0d0559",
+   "title": "Vaccine Adherence: From Vaccine Hesitancy to Actual Vaccination and Reasons for Refusal of Childhood Vaccines in a Group of Postpartum Mothers",
+   "venue": "In Vivo",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://iv.iiarjournals.org/content/invivo/39/1/509.full.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11705103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-12-31",
+   "authors": [
+    {
+     "authorId": "2238765552",
+     "name": "Camelia Florina Iova"
+    },
+    {
+     "authorId": "3411565",
+     "name": "L. Daina"
+    },
+    {
+     "authorId": "1573505443",
+     "name": "C. Ilea"
+    },
+    {
+     "authorId": "2287573239",
+     "name": "H. Domnariu"
+    },
+    {
+     "authorId": "1573913428",
+     "name": "T. Ghitea"
+    },
+    {
+     "authorId": "2211235235",
+     "name": "Mădălina Diana Daina"
+    }
+   ],
+   "abstract": "Background/Aim: Vaccine refusal or delay remains a significant public health concern, leading to lower vaccination rates and increasing the risk of preventable diseases. Patients and Methods: The study included 404 mothers and 413 children, assessing vaccination coverage and conducting telephone interviews with mothers who declined vaccines to understand their reasons. Results: Children of mothers who supported vaccination were more likely to be fully immunized compared to those with hesitant mothers. Among the incompletely vaccinated or unvaccinated children, 73.08% had mothers from the hesitant group (GNV). However, 90.05% of hesitant mothers still vaccinated their children with all recommended vaccines, while 9.95% maintained their refusal. Only 3.22% of the total sample, all from the GNV group, refused vaccination entirely. The primary reasons for refusal included fear of side effects, lack of trust in vaccines or the healthcare system, negative vaccination experiences, and influence from media or social platforms. Conclusion: While vaccination behaviors may improve as a child grows, a significant proportion of hesitant parents continue to exist across different population groups, contributing to suboptimal vaccination coverage rates. The consistent implementation of unified, nationwide strategies aimed at increasing trust in vaccines and the vaccination process is essential for achieving protective vaccination rates."
+  },
+  {
+   "paperId": "dd63a7f5e9c317dcea537fb291a7a7156536a50e",
+   "externalIds": {
+    "PubMedCentral": "10461859",
+    "DOI": "10.34172/ijhpm.2023.7614",
+    "CorpusId": 259637279,
+    "PubMed": "37579365"
+   },
+   "url": "https://www.semanticscholar.org/paper/dd63a7f5e9c317dcea537fb291a7a7156536a50e",
+   "title": "The Importance of Mapping Determinants, Attitudes and Beliefs of Vaccine Hesitancy in the Great Challenge of Compulsory Childhood Vaccination",
+   "venue": "International Journal of Health Policy and Management",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.ijhpm.com/article_4463_499ba3651069d315dcd98f5b53862a58.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10461859, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-07",
+   "authors": [
+    {
+     "authorId": "5777265",
+     "name": "F. Guaraldi"
+    },
+    {
+     "authorId": "2213511166",
+     "name": "M. Montalti"
+    },
+    {
+     "authorId": "4406367",
+     "name": "D. Gori"
+    }
+   ],
+   "abstract": "Vaccine hesitancy (VH) has risen significantly during the COVID-19 pandemic, becoming a major global health concern. VH is characterized by the delay or refusal of vaccination despite its availability. Various frameworks have been developed to understand the complex factors influencing VH, with attitudes, beliefs, and external influences being the most significant. The surge in VH has reignited the debate on the best approach to address it: persuasive/ educational or coercive. Attwell and Hannah studied the political and social reasons behind the adoption of mandatory vaccination in four jurisdictions (Italy, France, Australia, and California) due to declining vaccine coverage below the safety threshold. However, these methods may foster parental disbeliefs and opposition to vaccination campaigns. To combat VH, it is crucial to systematically assess its determinants within specific contexts and population groups. Increasing awareness about vaccination benefits, engaging with social media, and employing tailored strategies can foster spontaneous adherence to vaccination programs, eliminating the need for coercive measures."
+  },
+  {
+   "paperId": "f713c78fa2144be7c666bfc253ee63cc9db1f45c",
+   "externalIds": {
+    "PubMedCentral": "12737472",
+    "DOI": "10.3390/vaccines13121256",
+    "CorpusId": 284032021,
+    "PubMed": "41441722"
+   },
+   "url": "https://www.semanticscholar.org/paper/f713c78fa2144be7c666bfc253ee63cc9db1f45c",
+   "title": "Socioeconomic Disparities in Childhood Vaccination Coverage in the United States: Evidence from a Post-COVID-19 Birth Cohort",
+   "venue": "Vaccines",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-393X/13/12/1256/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12737472, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-01",
+   "authors": [
+    {
+     "authorId": "2289899349",
+     "name": "Xiaoyang Lv"
+    },
+    {
+     "authorId": "2399675615",
+     "name": "Antong Long"
+    },
+    {
+     "authorId": "2391992978",
+     "name": "Yansheng Chen"
+    },
+    {
+     "authorId": "2385493167",
+     "name": "Hai Fang"
+    }
+   ],
+   "abstract": "Background: Childhood immunization is one of the most effective public health strategies for reducing morbidity and mortality from vaccine-preventable diseases. Although overall vaccination coverage in the United States remains high, disparities persist across socioeconomic and healthcare access groups. Understanding these disparities is particularly important in the post-COVID-19 era, when increased vaccine hesitancy may threaten progress in maintaining equitable coverage. Materials and Methods: We analyzed data from the National Immunization Survey–Child (NIS-Child), focusing on U.S. children aged 19–35 months in 2023, corresponding to cohorts reaching this age during or after the COVID-19 pandemic. The primary outcome was receipt of the up-to-date combined 7-vaccine series (4:3:1:3:3:1:3: ≥4 doses of DTaP, ≥3 doses of polio, ≥1 dose of measles-containing vaccine, full Hib series, ≥3 doses of hepatitis B, ≥1 dose of varicella, and ≥3 doses of PCV). Logistic regression models were used to estimate associations between vaccination coverage and key explanatory variables: household income-to-poverty ratio, maternal education, health insurance type, and provider facility type, controlling for demographic and regional covariates. Disparities were quantified using concentration indices (CIs). Results: Among children in the analytic sample, overall coverage for the 7-vaccine series was only 78.5%. Nonetheless, disparities were evident. Children from households with lower income-to-poverty ratios (<1 × FPL: OR = 0.44, 95% CI = 0.37–0.53; 100–200%: OR = 0.66, 95% CI = 0.56–0.79), those covered by Medicaid (OR = 0.54, 95% CI = 0.45–0.64), other insurance (OR = 0.48, 95% CI = 0.37–0.61), or uninsured (OR = 0.27, 95% CI = 0.18–0.42), and those whose mothers had lower educational attainment (<12 years: OR = 0.35, 95% CI = 0.28–0.44) had significantly lower odds of being up-to-date. Similar associations were observed across specific vaccines. Unadjusted CIs for income-to-poverty ratio (0.04, p < 0.01), maternal education (0.04, p < 0.01), health insurance (0.03, p < 0.01), and provider type (0.03, p < 0.01) decreased but remained statistically significant after adjustment (0.02, 0.02, 0.01, and 0.02, respectively; all p < 0.01). No significant disparities were found by census region or race/ethnicity. Discussion: Despite relatively high overall vaccination coverage among U.S. children born during and after the COVID-19 pandemic, disparities by socioeconomic and healthcare access factors persisted. However, the absolute magnitude of these disparities was very small (concentration indices ≤ 0.04). These findings suggest that while inequities remain statistically measurable, their scale is limited in absolute terms. Targeted efforts to address income, insurance, maternal education, and provider-related barriers will be important to sustain equitable immunization coverage in the post-pandemic era."
+  },
+  {
+   "paperId": "cff42414d261f25125daf0baf36429ff0eefcf42",
+   "externalIds": {
+    "DOI": "10.1016/j.jiph.2026.103210",
+    "CorpusId": 286708878,
+    "PubMed": "41935439"
+   },
+   "url": "https://www.semanticscholar.org/paper/cff42414d261f25125daf0baf36429ff0eefcf42",
+   "title": "Paternal vaccine hesitancy and its impact on childhood immunization coverage in Saudi Arabia: A systematic review.",
+   "venue": "Journal of Infection and Public Health",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jiph.2026.103210",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jiph.2026.103210?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jiph.2026.103210, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-03-01",
+   "authors": [
+    {
+     "authorId": "2203416121",
+     "name": "Y. Alanazi"
+    },
+    {
+     "authorId": "1395284496",
+     "name": "B. Albilasi"
+    },
+    {
+     "authorId": "2166381804",
+     "name": "Zainab A Almaa"
+    },
+    {
+     "authorId": "2583483790",
+     "name": "Abdulhakim Hassan Alqubaishi"
+    },
+    {
+     "authorId": "2140001083",
+     "name": "K. Alshammari"
+    },
+    {
+     "authorId": "2402178512",
+     "name": "Faris K. Aljahdali"
+    },
+    {
+     "authorId": "2544407797",
+     "name": "Ali Alsharif"
+    },
+    {
+     "authorId": "2334406502",
+     "name": "O. Alanazi"
+    },
+    {
+     "authorId": "2407369755",
+     "name": "K. O. Abdulhadi"
+    },
+    {
+     "authorId": "2281674662",
+     "name": "R. Aljohani"
+    },
+    {
+     "authorId": "2294645686",
+     "name": "Arwa Alsharif"
+    },
+    {
+     "authorId": "2398251646",
+     "name": "Jawad Fathi Alghamdi"
+    },
+    {
+     "authorId": "2504409860",
+     "name": "Abdulhameed Abu Alsoud"
+    },
+    {
+     "authorId": "2322383687",
+     "name": "Abdulaziz Alsharif"
+    },
+    {
+     "authorId": "2509580021",
+     "name": "Mohammed Alnafisah"
+    }
+   ],
+   "abstract": "Vaccine hesitancy remains a challenge to achieving optimal childhood immunization coverage. This systematic review examined parental vaccine hesitancy in Saudi Arabia, with emphasis on paternal determinants and their association with vaccination uptake. Following PRISMA 2020 guidelines, databases were searched between January 2000 and January 2025. Hesitancy toward routine childhood vaccines was generally low (3%-20%), whereas hesitancy toward newer or non-mandatory vaccines, including COVID-19, influenza, and HPV, exceeded 50% in some settings. Studies reporting father-specific data indicated higher hesitancy among fathers, particularly regarding safety, novelty, and possible long-term effects. Common determinants included safety concerns, misinformation, social media influence, and low confidence in vaccine effectiveness. Hesitancy was associated with delayed schedules, incomplete immunization, and reduced uptake of optional vaccines. Vaccine hesitancy in Saudi Arabia appears vaccine-specific and influenced by sociocultural factors, with paternal attitudes playing a measurable role in immunization decision-making."
+  },
+  {
+   "paperId": "803381b973b8b27be361041386df8d755293d593",
+   "externalIds": {
+    "PubMedCentral": "10668395",
+    "DOI": "10.1186/s12889-023-17079-4",
+    "CorpusId": 265381847,
+    "PubMed": "38001412"
+   },
+   "url": "https://www.semanticscholar.org/paper/803381b973b8b27be361041386df8d755293d593",
+   "title": "Determinants of parental vaccine hesitancy in Canada: results from the 2017 Childhood National Immunization Coverage Survey",
+   "venue": "BMC Public Health",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-17079-4",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10668395, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-11-24",
+   "authors": [
+    {
+     "authorId": "2199655050",
+     "name": "Ruo-Ke Chen"
+    },
+    {
+     "authorId": "36352511",
+     "name": "M. Guay"
+    },
+    {
+     "authorId": "20397835",
+     "name": "N. Gilbert"
+    },
+    {
+     "authorId": "2267713414",
+     "name": "Ève Dubé"
+    },
+    {
+     "authorId": "2906283",
+     "name": "H. Witteman"
+    },
+    {
+     "authorId": "31896230",
+     "name": "H. Hakim"
+    }
+   ],
+   "abstract": "Background In 2019, the World Health Organization (WHO) designated vaccine hesitancy as one of the ten leading threats to global health. Vaccine hesitancy exists when vaccination services are available and accessible, but vaccine uptake is lower than anticipated. It is often attributed to lack of trust in vaccine safety and effectiveness, or low level of concern about the risk of many vaccine-preventable diseases. This study aimed to examine the sociodemographic factors associated with parental vaccine hesitancy and vaccine refusal in Canada using data from the 2017 Childhood National Immunization Coverage Survey (CNICS). Method The 2017 CNICS was a cross-sectional and nationally representative survey to estimate national vaccine uptake and to collect information about parents’ Knowledge, Attitudes and Beliefs (KAB) regarding vaccination. Using the KAB questions, parental vaccine hesitancy (i.e., parental hesitation, delay or refusal of at least one recommended vaccination) and refusal (i.e., unvaccinated children) by sociodemographic factors was estimated using weighted prevalence proportions. A multinomial logistic regression model was fitted to examine associations between parental vaccine hesitancy or refusal and sociodemographic factors among parents of two-year-old children in Canada. Adjusted odds ratios (aOR) of being vaccine-hesitant or vaccine-refusing versus being non-vaccine-hesitant were generated. Results Both unadjusted and adjusted logistic regressions models showed that parents with lower household income (aOR 1.7, 95% CI 1.2–2.5), and those with a higher number of children in the household (aOR 2.2, 95% CI 1.4–3.5) had higher vaccine hesitancy. Conversely, lower vaccine hesitancy was observed among non-immigrant parents (aOR 0.4, 95% CI 0.3–0.6). In addition, lower household income (aOR 4.0, 95% CI 1.3–12.9), and higher number of children in the household (aOR 6.9, 95% CI 2.1–22.9) were significantly associated with parental vaccine refusal. Regional variations were also observed. Conclusion Several sociodemographic determinants are associated with parental vaccine hesitancy and refusal. The findings of the study could help public health officials and policymakers to develop and implement targeted interventions to improve childhood vaccination programs."
+  },
+  {
+   "paperId": "532440f78101d51475a40b39bd6371fe8f3e54d4",
+   "externalIds": {
+    "PubMedCentral": "12042817",
+    "DOI": "10.1016/j.vaccine.2025.126905",
+    "CorpusId": 276746883,
+    "PubMed": "40031088"
+   },
+   "url": "https://www.semanticscholar.org/paper/532440f78101d51475a40b39bd6371fe8f3e54d4",
+   "title": "Vaccine hesitancy in the vaccination of children in Brazil",
+   "venue": "Vaccine",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.vaccine.2025.126905",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12042817, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-02",
+   "authors": [
+    {
+     "authorId": "2335244896",
+     "name": "A. P. França"
+    },
+    {
+     "authorId": "1394638852",
+     "name": "C. Domingues"
+    },
+    {
+     "authorId": "2067161853",
+     "name": "R. A. S. Domingues"
+    },
+    {
+     "authorId": "145351294",
+     "name": "R. Barata"
+    },
+    {
+     "authorId": "2480201455",
+     "name": "Maria da Glória Teixeira"
+    },
+    {
+     "authorId": "2317587604",
+     "name": "I. Guibu"
+    },
+    {
+     "authorId": "3854553",
+     "name": "J. D. de Moraes"
+    }
+   ],
+   "abstract": "Since 2016, there has been a decrease in vaccination coverage for the childhood schedule of the National Immunization Program (PNI) in Brazil. To identify the reasons for vaccine hesitancy, we conducted a household survey of 31,001 live-born children living in the 26 Brazilian state capitals and the Federal District in 2017 and 2018. Census tracts were stratified according to socioeconomic status, we interviewed parents and/or guardians to collect information on the mother, child, reasons for not vaccinating, and other data. To identify the determinants of vaccine hesitancy, were used the “5Cs” (confidence, complacency and convenience, communication and context). Confidence: 94.5 % of parents/guardians of children trust the vaccines; 98.4 % believe it is important to vaccinate their children, and 20,0 % believe that vaccines are associated with serious adverse events. Complacency: 96.7 % decided to vaccinate their children with all the vaccines recommended; 7.2 % experienced difficulties with vaccination (distance and opening hours of the vaccination service, lack of time, problems with the child's health) despite going to the vaccination appointment; 22.9 % did not vaccinate their children (vaccine unavailable, clinic closed, health care provider absent, fear of adverse events). Communication: 24.5 % decided not to take their child for vaccination because of the pandemic; 24.4 % feared a reaction to the vaccine, and 9.2 % did not have the vaccine recommended by their doctor or health care provider. Socioeconomic status: vaccine confidence was lower among mothers with low education levels and lower-income families. Conclusions: Operational difficulties in the health care network were the main reasons for vaccine hesitancy in Brazilian state capitals during the study period. Although the proportion of parents/guardians who do not vaccinate their children voluntarily is low, this is a problem that needs to be consider so that it does not increase over time due to the infodemic."
+  },
+  {
+   "paperId": "8645a04e2b954d772afd8ac655e363adf4d3eb0c",
+   "externalIds": {
+    "PubMedCentral": "8867922",
+    "DOI": "10.1016/j.amepre.2021.08.015",
+    "CorpusId": 247025345,
+    "PubMed": "35190101"
+   },
+   "url": "https://www.semanticscholar.org/paper/8645a04e2b954d772afd8ac655e363adf4d3eb0c",
+   "title": "Parental Vaccine Hesitancy and Association With Childhood Diphtheria, Tetanus Toxoid, and Acellular Pertussis; Measles, Mumps, and Rubella; Rotavirus; and Combined 7-Series Vaccination",
+   "venue": "American Journal of Preventive Medicine",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8867922/",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8867922, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2021-12-01",
+   "authors": [
+    {
+     "authorId": "47742540",
+     "name": "Kimberly H. Nguyen"
+    },
+    {
+     "authorId": "33298751",
+     "name": "A. Srivastav"
+    },
+    {
+     "authorId": "2871271",
+     "name": "M. Lindley"
+    },
+    {
+     "authorId": "2435180216",
+     "name": "Allison Fisher"
+    },
+    {
+     "authorId": "2155852358",
+     "name": "David Kim"
+    },
+    {
+     "authorId": "3686958",
+     "name": "S. Greby"
+    },
+    {
+     "authorId": "2108528407",
+     "name": "J. Lee"
+    },
+    {
+     "authorId": "2498119",
+     "name": "J. Singleton"
+    }
+   ],
+   "abstract": "Introduction: Parental vaccine hesitancy can be a barrier to routine childhood immunization and contribute to greater risk for vaccine-preventable diseases. This study examines the impact of parental vaccine hesitancy on childhood vaccination rates. Methods: This study assessed the association of parental vaccine hesitancy on child vaccination coverage with ≥4 doses of diphtheria, tetanus toxoid, and acellular pertussis vaccine; ≥1 dose of measles, mumps, and rubella vaccine; up-to-date rotavirus vaccine; and combined 7-vaccine series coverage for a sample of children aged 19–35 months using data from the 2018 and 2019 National Immunization Survey-Child (N=7,645). Adjusted differences in multivariable analyses of vaccination coverage were estimated among vaccine hesitant and nonhesitant parents and population attributable risk fraction of hesitancy on undervaccination, defined as not being up to date for each vaccine. Results: Almost a quarter of parents reported being vaccine hesitant, with the highest proportion of vaccine hesitancy among parents of children who are non-Hispanic Black (37.0%) or Hispanic (30.1%), mothers with a high school education or less (31.9%), and households living below the poverty level (35.6%). Childhood vaccination coverage for all vaccines was lower for children of hesitant than nonhesitant parents, and the population attributable fraction of hesitancy on undervaccination ranged from 15% to 25%, with the highest percentage for ≥1 dose of measles, mumps, and rubella vaccine. Conclusions: Parental vaccine hesitancy may contribute up to 25% of undervaccination among children aged 19−35 months. Implementation of strategies to address parental vaccine hesitancy is needed to improve vaccination coverage for children and minimize their risk of vaccine-preventable diseases."
+  },
+  {
+   "paperId": "7acfd6f3a0980bb6e21e6bb60405d6df46ff3c52",
+   "externalIds": {
+    "MAG": "3101837429",
+    "PubMedCentral": "8097955",
+    "DOI": "10.1542/peds.2020-007609",
+    "CorpusId": 226297658,
+    "PubMed": "33168671"
+   },
+   "url": "https://www.semanticscholar.org/paper/7acfd6f3a0980bb6e21e6bb60405d6df46ff3c52",
+   "title": "Parental Vaccine Hesitancy and Childhood Influenza Vaccination",
+   "venue": "Pediatrics",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8097955/",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8097955, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-11-09",
+   "authors": [
+    {
+     "authorId": "5217491",
+     "name": "T. Santibanez"
+    },
+    {
+     "authorId": "47742540",
+     "name": "Kimberly H. Nguyen"
+    },
+    {
+     "authorId": "3686958",
+     "name": "S. Greby"
+    },
+    {
+     "authorId": "2435180216",
+     "name": "Allison Fisher"
+    },
+    {
+     "authorId": "153900483",
+     "name": "P. Scanlon"
+    },
+    {
+     "authorId": "8496539",
+     "name": "Achal Bhatt"
+    },
+    {
+     "authorId": "33298751",
+     "name": "A. Srivastav"
+    },
+    {
+     "authorId": "2498119",
+     "name": "J. Singleton"
+    }
+   ],
+   "abstract": "OBJECTIVES: To quantify the prevalence of parental vaccine hesitancy (VH) in the United States and examine the association of VH with sociodemographics and childhood influenza vaccination coverage. METHODS: A 6-question VH module was included in the 2018 and 2019 National Immunization Survey-Flu, a telephone survey of households with children age 6 months to 17 years. RESULTS: The percentage of children having a parent reporting they were “hesitant about childhood shots” was 25.8% in 2018 and 19.5% in 2019. The prevalence of concern about the number of vaccines a child gets at one time impacting the decision to get their child vaccinated was 22.8% in 2018 and 19.1% in 2019; the prevalence of concern about serious, long-term side effects impacting the parent’s decision to get their child vaccinated was 27.3% in 2018 and 21.7% in 2019. Only small differences in VH by sociodemographic variables were found, except for an 11.9 percentage point higher prevalence of “hesitant about childhood shots” and 9.9 percentage point higher prevalence of concerns about serious, long-term side effects among parents of Black compared with white children. In both seasons studied, children of parents reporting they were “hesitant about childhood shots” had 26 percentage points lower influenza vaccination coverage compared with children of parents not reporting hesitancy. CONCLUSIONS: One in 5 children in the United States have a parent who is vaccine hesitant, and hesitancy is negatively associated with childhood influenza vaccination. Monitoring VH could help inform immunization programs as they develop and target methods to increase vaccine confidence and vaccination coverage."
+  },
+  {
+   "paperId": "a582cf605a737786464c67d0c83a7becfe9ea2d5",
+   "externalIds": {
+    "MAG": "2804952569",
+    "DOI": "10.1080/21645515.2018.1480242",
+    "CorpusId": 43939891,
+    "PubMed": "29792555"
+   },
+   "url": "https://www.semanticscholar.org/paper/a582cf605a737786464c67d0c83a7becfe9ea2d5",
+   "title": "Vaccine hesitancy among caregivers and association with childhood vaccination timeliness in Addis Ababa, Ethiopia",
+   "venue": "Human Vaccines & Immunotherapeutics",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/21645515.2018.1480242?needAccess=true&role=button",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/21645515.2018.1480242?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/21645515.2018.1480242, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2018-06-28",
+   "authors": [
+    {
+     "authorId": "36865742",
+     "name": "N. Masters"
+    },
+    {
+     "authorId": "40900916",
+     "name": "Y. A. Tefera"
+    },
+    {
+     "authorId": "35910982",
+     "name": "A. Wagner"
+    },
+    {
+     "authorId": "35086685",
+     "name": "Matthew L. Boulton"
+    }
+   ],
+   "abstract": "ABSTRACT Introduction: Vaccines are vital to reducing childhood mortality, and prevent an estimated 2 to 3 million deaths annually which disproportionately occur in the developing world. Overall vaccine coverage is typically used as a metric to evaluate the adequacy of vaccine program performance, though it does not account for untimely administration, which may unnecessarily prolong children's susceptibility to disease. This study explored a hypothesized positive association between increasing vaccine hesitancy and untimeliness of immunizations administered under the Expanded Program on Immunization (EPI) in Addis Ababa, Ethiopia. Methods: This cross-sectional survey employed a multistage sampling design, randomly selecting one health center within five sub-cities of Addis Ababa. Caregivers of 3 to 12-month-old infants completed a questionnaire on vaccine hesitancy, and their infants' vaccination cards were examined to assess timeliness of received vaccinations. Results: The sample comprised 350 caregivers. Overall, 82.3% of the surveyed children received all recommended vaccines, although only 55.9% of these vaccinations were timely. Few caregivers (3.4%) reported ever hesitating and 3.7% reported ever refusing a vaccine for their child. Vaccine hesitancy significantly increased the odds of untimely vaccination (AOR 1.94, 95% CI: 1.02, 3.71) in the adjusted analysis. Conclusions: This study found high vaccine coverage among a sample of 350 young children in Addis Ababa, though only half received all recommended vaccines on time. High vaccine hesitancy was strongly associated with infants' untimely vaccination, indicating that increased efforts to educate community members and providers about vaccines may have a beneficial impact on vaccine timeliness in Addis Ababa."
+  },
+  {
+   "paperId": "9929f1586d25bb5595cc97e1f5a814e7ac7393bc",
+   "externalIds": {
+    "PubMedCentral": "12170812",
+    "DOI": "10.2147/RMHP.S519479",
+    "CorpusId": 279360195,
+    "PubMed": "40529847"
+   },
+   "url": "https://www.semanticscholar.org/paper/9929f1586d25bb5595cc97e1f5a814e7ac7393bc",
+   "title": "Vaccine Hesitancy and Immunization Patterns in Central and Eastern Europe: Sociocultural, Economic, Political, and Digital Influences Across Seven Countries",
+   "venue": "Risk Management and Healthcare Policy",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.dovepress.com/article/download/103863",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12170812, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-06-01",
+   "authors": [
+    {
+     "authorId": "3774599",
+     "name": "D. Kurpas"
+    },
+    {
+     "authorId": "2006780366",
+     "name": "D. Stefanicka-Wojtas"
+    },
+    {
+     "authorId": "2185620876",
+     "name": "Aneta Soll-Morka"
+    },
+    {
+     "authorId": "4559059",
+     "name": "K. Lomper"
+    },
+    {
+     "authorId": "5493969",
+     "name": "B. Uchmanowicz"
+    },
+    {
+     "authorId": "2135239546",
+     "name": "Beata Blahová"
+    },
+    {
+     "authorId": "2295434094",
+     "name": "Aelita Bredelytė"
+    },
+    {
+     "authorId": "2357153687",
+     "name": "G. Dumitra"
+    },
+    {
+     "authorId": "2366881556",
+     "name": "V. Hudáčková"
+    },
+    {
+     "authorId": "2101347473",
+     "name": "Kateřina Javorská"
+    },
+    {
+     "authorId": "50774221",
+     "name": "Zoltán Juhász"
+    },
+    {
+     "authorId": "2249326093",
+     "name": "S. Manulik"
+    },
+    {
+     "authorId": "37177578",
+     "name": "András Mohos"
+    },
+    {
+     "authorId": "52452618",
+     "name": "Egidijus Skarbalius"
+    },
+    {
+     "authorId": "1405102177",
+     "name": "V. Tkachenko"
+    },
+    {
+     "authorId": "6809272",
+     "name": "I. Uchmanowicz"
+    }
+   ],
+   "abstract": "Background/Objectives Vaccination programs are essential for preventing infectious diseases, yet the effectiveness of these programs varies significantly across Central and Eastern European countries due to diverse socio-economic, cultural, and political influences. This study examines vaccination trends in Hungary, Slovakia, Romania, the Czech Republic, Poland, Ukraine, and Lithuania, focusing on misinformation, regional healthcare disparities, and socio-cultural factors on vaccination rates. Methods A comprehensive review of national policies, vaccination rates, and factors influencing vaccine hesitancy was conducted across seven Central and Eastern European countries. Input from local health stakeholders and national data sources was analysed to contextualize vaccination patterns and challenges. Results Significant cross-country variation was observed. Hungary and the Czech Republic reported consistently high coverage of mandatory childhood vaccinations, while Romania and Ukraine experienced severe declines in uptake, leading to outbreaks of measles and polio. Slovakia demonstrated low COVID-19 vaccination willingness, and Poland recorded a sharp increase in formal vaccine refusals. Conversely, Lithuania implemented successful campaigns that improved uptake, particularly for influenza and pneumococcal vaccines. Differences were influenced by healthcare system structure, public trust, exposure to misinformation, and digital communication strategies. Conclusion Addressing vaccine hesitancy requires targeted, context-sensitive communication and digital literacy programs. Additionally, policy reforms to enhance accessibility, particularly in rural areas, and real-time monitoring systems can strengthen vaccination rates. Cross-border collaboration and tailored public health campaigns addressing cultural and socio-economic challenges are necessary to improve immunization coverage in these regions."
+  },
+  {
+   "paperId": "378d394aa17914b7b323b280f3ced477af6a91a9",
+   "externalIds": {
+    "PubMedCentral": "12556644",
+    "DOI": "10.1093/eurpub/ckaf161.1623",
+    "CorpusId": 282393372
+   },
+   "url": "https://www.semanticscholar.org/paper/378d394aa17914b7b323b280f3ced477af6a91a9",
+   "title": "Impact of Italy’s National Vaccine Prevention Plan on Childhood Vaccination: A Time Series Analysis",
+   "venue": "European Journal of Public Health",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1093/eurpub/ckaf161.1623",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12556644, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-01",
+   "authors": [
+    {
+     "authorId": "1752809761",
+     "name": "M. Nurchis"
+    },
+    {
+     "authorId": "1826310",
+     "name": "W. Ricciardi"
+    },
+    {
+     "authorId": "1486265361",
+     "name": "L. Villani"
+    }
+   ],
+   "abstract": "Abstract   Italy has faced significant challenges in achieving optimal vaccination coverage among children, including vaccine hesitancy and regional disparities in healthcare delivery. The National Vaccine Prevention Plan (PNPV) was implemented to address these issues through standardized vaccination protocols and enhanced accessibility. This study aims to assess the impact of PNPV implementation on vaccination coverage rates among children. Data were collected for ten mandatory vaccinations and two recommended ones from official national immunization registries before and after PNPV implementation. An interrupted time series model using Gamma distribution was applied to quantify both immediate and sustained changes in vaccination rates. Statistical significance was determined using 95% confidence intervals. Model adequacy was assessed through diagnostic tests including the Dickey-Fuller test for stationarity, Ljung-Box test for autocorrelation, and Shapiro-Wilk test for normality. For mandatory vaccinations, poliomyelitis, diphtheria, tetanus, and pertussis showed pre-policy declining trends that potentially stabilized post-implementation, though changes were not statistically significant. Hepatitis B coverage remained relatively unchanged. Haemophilus influenzae B, measles, mumps, and rubella demonstrated continuing upward trends without significant policy effects. Notably, varicella initially showed a significant immediate drop in coverage followed by a strong positive trend reversal (β = +0.490, p = 0.0018). Among recommended vaccinations, pneumococcal coverage exhibited a significant immediate increase post-policy (β = +1.105, p = 0.004), while meningococcal showed no significant changes. To enhance PNPV effectiveness, implementing targeted educational campaigns addressing vaccine hesitancy, strengthening regional coordination, establishing real-time digital monitoring systems, and developing vaccine-specific interventions is highly recommended. Key messages • PNPV implementation showed varying effectiveness across different vaccines, with significant positive impacts on pneumococcal coverage and a trend reversal for varicella vaccination. • Targeted educational campaigns and strengthened regional coordination are needed to address persistent vaccination gaps despite national policy implementation."
+  },
+  {
+   "paperId": "d80e4e8ed5b586005a2e55f0aee238a4450db4fa",
+   "externalIds": {
+    "PubMedCentral": "12323960",
+    "DOI": "10.1097/MD.0000000000043614",
+    "CorpusId": 280483605,
+    "PubMed": "40760520"
+   },
+   "url": "https://www.semanticscholar.org/paper/d80e4e8ed5b586005a2e55f0aee238a4450db4fa",
+   "title": "Vaccine hesitancy and its relationship with adverse childhood and protective and compensatory experiences: A cross-sectional study",
+   "venue": "Medicine",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1097/md.0000000000043614",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12323960, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-01",
+   "authors": [
+    {
+     "authorId": "89833347",
+     "name": "Katsunori Ohyama"
+    },
+    {
+     "authorId": "13348778",
+     "name": "A. Isumi"
+    },
+    {
+     "authorId": "33217848",
+     "name": "S. Doi"
+    },
+    {
+     "authorId": "2115579424",
+     "name": "Shusho Okada"
+    }
+   ],
+   "abstract": "Although increasing coronavirus disease (COVID-19) vaccination coverage is a measure to prevent the spread of severe acute respiratory syndrome coronavirus 2, a certain percentage of people refuse to be vaccinated (i.e., vaccine hesitancy [VH]), and there are various reports on the reasons behind this. Adverse childhood experiences (ACEs) have been reported to reduce trust in health services and may negatively impact lifelong health and well-being. Several studies have examined the effects of protective and compensatory experiences (PACEs) in mitigating the negative impact of ACEs. This study aimed to investigate the association between COVID-19 vaccination status and ACEs and the vaccination status of patients who experienced PACEs. Additionally, we examined whether PACEs influence individuals’ vaccination intentions by examining whether those who experienced ACEs as children and subsequently experienced PACEs were more receptive to vaccination than those who did not subsequently experience PACEs. This cross-sectional study investigated the relationship between ACEs and PACEs and the acceptance of COVID-19 vaccination using a questionnaire from the COVID-19 seROprevalence Neighborhood Association study among adults in Utsunomiya City, Tochigi Prefecture, Japan. Individuals with ACEs were significantly more likely to experience VH (odds ratio: 3.66, 95% confidence interval [CI]: 1.31–10.27) than those without. Vaccination coverage tended to be higher among those with PACEs (odds ratio: 0.24, 95% CI: 0.05–1.15) than among those without, though the difference was not statistically significant. In contrast, those who had experienced ACEs and subsequently PACEs showed no difference in vaccination coverage (odds ratio: 0.47, 95% CI: 0.05–4.22) compared with those who had experienced ACEs and subsequently did not experience PACEs. In Japan, a significantly high proportion of patients with VH experienced ACEs. Our findings indicate that PACEs did not enhance vaccination intentions among individuals with ACEs. However, further comprehensive studies are required to establish definitive and robust associations."
+  },
+  {
+   "paperId": "5238a9ebc0fc2f38f1b51fd9fd9e176eebd943fc",
+   "externalIds": {
+    "DOI": "10.9734/ijtdh/2024/v45i101595",
+    "CorpusId": 272959237
+   },
+   "url": "https://www.semanticscholar.org/paper/5238a9ebc0fc2f38f1b51fd9fd9e176eebd943fc",
+   "title": "Vaccination Hesitancy and Zero-Dose Children in Borno State, Nigeria: Comparative Analysis of Urban Priority and Non-priority LGAs and their Implications for Immunization Coverage",
+   "venue": "International Journal of TROPICAL DISEASE &amp; Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.9734/ijtdh/2024/v45i101595",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9734/ijtdh/2024/v45i101595?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/ijtdh/2024/v45i101595, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-09-27",
+   "authors": [
+    {
+     "authorId": "2323898985",
+     "name": "Saidu Malgwi Hassan"
+    },
+    {
+     "authorId": "2323286254",
+     "name": "E. C. Okoli"
+    },
+    {
+     "authorId": "2299069579",
+     "name": "C. A. Azike"
+    },
+    {
+     "authorId": "2299070639",
+     "name": "Nelyn Akunna Okoye"
+    }
+   ],
+   "abstract": "Background: This study delves into the multifaceted landscape of childhood immunization within urban settings, focusing on vaccine refusal, non-compliance (including partial compliance or defaulter households), and their impacts on immunization coverage. The research, conducted as a case study in communities situated in both Zero-Dose priority LGAs (Local Government Areas) of Maiduguri Metropolitan Council (MMC) and Jere and non-priority LGAs of Konduga and Mafa in Borno State, aims to comprehensively understand the perspectives shaping immunization decisions. \nMethods: The method involves an extensive quantitative analysis of socio-demographic factors, electronic media ownership, and parental characteristics. Data were collected through household surveys collected from 173 participants, analyzing vaccination records, and assessing immunization coverage rates for period of twelve months. Statistical methods, including chi-square tests, are utilized to explore relationships between settlement types, parental levels of education, and vaccine-related behaviors. \nResults: Results indicate significant associations between vaccine refusal, non-compliance, and specific socio-demographic factors. Parental education levels and the gender of the household head emerge as pivotal determinants impacting immunization status and vaccination card retention. Electronic media ownership, particularly radios and handsets, is identified as potential channels for targeted health communication strategies. \nConclusion: The findings underscore the need for tailored, context-specific interventions to enhance immunization coverage, awareness, and acceptance in urban settings. By addressing educational disparities, gender dynamics, and settlement-specific challenges, the study aims to contribute to the development of effective strategies in achieving comprehensive immunization coverage and mitigating the risks associated with vaccine refusal and non-compliance. Ultimately, this research provides valuable insights into the dynamics of childhood immunization, informing public health policies and interventions in the specified LGAs of Borno State."
+  },
+  {
+   "paperId": "50cc672a95764c11a88511315f1e8bb9b95ea342",
+   "externalIds": {
+    "PubMedCentral": "10845639",
+    "DOI": "10.1186/s12992-023-00987-w",
+    "CorpusId": 267411259,
+    "PubMed": "38321478"
+   },
+   "url": "https://www.semanticscholar.org/paper/50cc672a95764c11a88511315f1e8bb9b95ea342",
+   "title": "Vaccine hesitancy and equity: lessons learned from the past and how they affect the COVID-19 countermeasure in Indonesia",
+   "venue": "Globalization and Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://globalizationandhealth.biomedcentral.com/counter/pdf/10.1186/s12992-023-00987-w",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10845639, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-06",
+   "authors": [
+    {
+     "authorId": "2091024832",
+     "name": "R. Sinuraya"
+    },
+    {
+     "authorId": "83321068",
+     "name": "R. F. Nuwarda"
+    },
+    {
+     "authorId": "2279078925",
+     "name": "M. Postma"
+    },
+    {
+     "authorId": "6771731",
+     "name": "A. Suwantika"
+    }
+   ],
+   "abstract": "Vaccine hesitancy is a complex issue influenced by various factors, including a lack of trust in vaccines, misinformation, cultural beliefs, and past negative vaccine experiences. The hesitancy to get vaccinated could lead to low vaccination coverage and slow eradication of vaccine-preventable diseases. It is crucial to understand the specific drivers of each country and population to overcome vaccine hesitancy. Collaborating with community or religious leaders, healthcare providers, and influencers could increase people’s awareness and gain trust, which can help reduce vaccine hesitancy. The issue of vaccine hesitancy and vaccine inequity are closely related, with the potential to significantly influence each other. Introduction Indonesia has made progress in increasing vaccine coverage, but equitable access remains challenging, especially in remote areas. Despite including vaccines in the National Immunization Program (NIP), coverage has not met WHO and UNICEF targets, with childhood immunization decreasing during the COVID-19 pandemic. COVID-19 vaccination has also experienced hesitancy, slowing efforts to end the pandemic. Scope This article addresses the issue of vaccine hesitancy and its impact on vaccination initiatives amidst the COVID-19 pandemic. This article utilizes the vaccine hesitancy framework to analyze previous outbreaks of vaccine-preventable diseases and their underlying causes, ultimately providing recommendations for addressing the current situation. The analysis considers the differences between the pre-pandemic circumstances and the present and considers the implementation of basic and advanced strategies. Key findings and conclusion Vaccine hesitancy is a significant challenge in the COVID-19 pandemic, and public health campaigns and community engagement efforts are needed to promote vaccine acceptance and uptake. Efforts to address vaccine hesitancy promote trust in healthcare systems and increase the likelihood of individuals seeking preventive health services. Vaccine hesitancy requires a comprehensive, culturally sensitive approach that considers local contexts and realities. Strategies should be tailored to specific cultural and societal contexts and monitored and evaluated."
+  },
+  {
+   "paperId": "9f24a1b61ff050dd3afb86ddb51fdefa7c01c665",
+   "externalIds": {
+    "MAG": "2954554369",
+    "DOI": "10.1080/14760584.2019.1639502",
+    "CorpusId": 195797204,
+    "PubMed": "31268739"
+   },
+   "url": "https://www.semanticscholar.org/paper/9f24a1b61ff050dd3afb86ddb51fdefa7c01c665",
+   "title": "Childhood vaccination coverage in Europe: impact of different public health policies",
+   "venue": "Expert Review of Vaccines",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/14760584.2019.1639502?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/14760584.2019.1639502, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-07-03",
+   "authors": [
+    {
+     "authorId": "1786452",
+     "name": "A. Bechini"
+    },
+    {
+     "authorId": "5922979",
+     "name": "S. Boccalini"
+    },
+    {
+     "authorId": "51038366",
+     "name": "A. Ninci"
+    },
+    {
+     "authorId": "27061624",
+     "name": "P. Zanobini"
+    },
+    {
+     "authorId": "145519964",
+     "name": "Gino Sartor"
+    },
+    {
+     "authorId": "3802654",
+     "name": "G. Bonaccorsi"
+    },
+    {
+     "authorId": "39090905",
+     "name": "M. Grazzini"
+    },
+    {
+     "authorId": "1831229",
+     "name": "P. Bonanni"
+    }
+   ],
+   "abstract": "ABSTRACT Introduction: Vaccination is a crucial tool for the primary prevention of infectious diseases. Thanks to widespread vaccination, in the last century smallpox has been eradicated, and the Americas and Europe have become polio-free. Areas covered: The aim of our study was to assess vaccination coverage in childhood up to booster preschool age in order to update the analysis on European trends of immunization coverage in the last nine years (2009–2017) and to assess the impact of different national policies on vaccine uptake. Expert opinion: Despite the good results, several EU countries are going through unprecedented outbreaks of vaccine-preventable diseases due to insufficient coverage. The increase of vaccine hesitancy has made it difficult to reach and maintain high rates of vaccination coverage. Enforcing mandatory vaccinations is one of the strategies adopted by some countries, like Italy and France, to increase coverage. However, each country should find the most suitable way to keep up with vaccination coverages according to own cultural and organizational background."
+  },
+  {
+   "paperId": "b92f6b69ce948be50d6ba98bdcdb17b16b192a5f",
+   "externalIds": {
+    "PubMedCentral": "11067405",
+    "DOI": "10.1177/14034948231223791",
+    "CorpusId": 267635704,
+    "PubMed": "38346923"
+   },
+   "url": "https://www.semanticscholar.org/paper/b92f6b69ce948be50d6ba98bdcdb17b16b192a5f",
+   "title": "Trust matters: The Addressing Vaccine Hesitancy in Europe Study",
+   "venue": "Scandinavian Journal of Public Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/14034948231223791",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11067405, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-12",
+   "authors": [
+    {
+     "authorId": "144545641",
+     "name": "P. Vuolanto"
+    },
+    {
+     "authorId": "2080127421",
+     "name": "Ana Nunes Almeida"
+    },
+    {
+     "authorId": "2239006482",
+     "name": "Alistair Anderson"
+    },
+    {
+     "authorId": "35522761",
+     "name": "Petra Auvinen"
+    },
+    {
+     "authorId": "2059635748",
+     "name": "A. Beja"
+    },
+    {
+     "authorId": "5862913",
+     "name": "P. Bracke"
+    },
+    {
+     "authorId": "10055826",
+     "name": "M. Cardano"
+    },
+    {
+     "authorId": "50197947",
+     "name": "M. Ceuterick"
+    },
+    {
+     "authorId": "144200769",
+     "name": "T. Correia"
+    },
+    {
+     "authorId": "2482080147",
+     "name": "E. De Vito"
+    },
+    {
+     "authorId": "12795614",
+     "name": "K. Delaruelle"
+    },
+    {
+     "authorId": "144294967",
+     "name": "A. Delicado"
+    },
+    {
+     "authorId": "2228719375",
+     "name": "Maurizio Esposito"
+    },
+    {
+     "authorId": "46429586",
+     "name": "M. Ferrara"
+    },
+    {
+     "authorId": "104487930",
+     "name": "L. Gariglio"
+    },
+    {
+     "authorId": "2283918446",
+     "name": "Cátia Guerreiro"
+    },
+    {
+     "authorId": "82887286",
+     "name": "J. Marhánková"
+    },
+    {
+     "authorId": "12948921",
+     "name": "A. Hilário"
+    },
+    {
+     "authorId": "1390019652",
+     "name": "P. Hobson-West"
+    },
+    {
+     "authorId": "104893477",
+     "name": "J. Iorio"
+    },
+    {
+     "authorId": "2555853262",
+     "name": "Katri-Maria Järvinen"
+    },
+    {
+     "authorId": "9620755",
+     "name": "A. Koivu"
+    },
+    {
+     "authorId": "119042387",
+     "name": "Z. Kotherová"
+    },
+    {
+     "authorId": "2289213613",
+     "name": "Aappo Kuusipalo"
+    },
+    {
+     "authorId": "2237976014",
+     "name": "E. Lermytte"
+    },
+    {
+     "authorId": "2237972842",
+     "name": "Joana Mendonça"
+    },
+    {
+     "authorId": "113832617",
+     "name": "Rita Morais"
+    },
+    {
+     "authorId": "5782437",
+     "name": "D. Numerato"
+    },
+    {
+     "authorId": "2237973712",
+     "name": "Paulina Polak"
+    },
+    {
+     "authorId": "2155038740",
+     "name": "T. Rudek"
+    },
+    {
+     "authorId": "2216147491",
+     "name": "S. Sbaragli"
+    },
+    {
+     "authorId": "108601804",
+     "name": "A. Scavarda"
+    },
+    {
+     "authorId": "2052657639",
+     "name": "Katielle Silva"
+    },
+    {
+     "authorId": "2498651530",
+     "name": "P. D. da Silva"
+    },
+    {
+     "authorId": "2489652551",
+     "name": "J. Sivelä"
+    },
+    {
+     "authorId": "2212783600",
+     "name": "Eva Soares Moura"
+    },
+    {
+     "authorId": "2075087186",
+     "name": "M. Świątkiewicz-Mośny"
+    },
+    {
+     "authorId": "2084743507",
+     "name": "Giuseppe Tipaldo"
+    },
+    {
+     "authorId": "2283923043",
+     "name": "Aleksandra Wagner"
+    }
+   ],
+   "abstract": "This article presents the design of a seven-country study focusing on childhood vaccines, Addressing Vaccine Hesitancy in Europe (VAX-TRUST), developed during the COVID-19 pandemic. The study consists of (a) situation analysis of vaccine hesitancy (examination of individual, socio-demographic and macro-level factors of vaccine hesitancy and analysis of media coverage on vaccines and vaccination and (b) participant observation and in-depth interviews of healthcare professionals and vaccine-hesitant parents. These analyses were used to design interventions aimed at increasing awareness on the complexity of vaccine hesitancy among healthcare professionals involved in discussing childhood vaccines with parents. We present the selection of countries and regions, the conceptual basis of the study, details of the data collection and the process of designing and evaluating the interventions, as well as the potential impact of the study. Laying out our research design serves as an example of how to translate complex public health issues into social scientific study and methods."
+  },
+  {
+   "paperId": "59b77be4138847d4db52fcf9fbd80de5a11cf433",
+   "externalIds": {
+    "DOI": "10.61919/9x1nx191",
+    "CorpusId": 280238436
+   },
+   "url": "https://www.semanticscholar.org/paper/59b77be4138847d4db52fcf9fbd80de5a11cf433",
+   "title": "Behavioural Determinants Influencing Parental Decisions on Childhood Vaccination in District Peshawar",
+   "venue": "Journal of Health, Wellness, and Community Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://jhwcr.com/index.php/jhwcr/article/download/550/441",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.61919/9x1nx191?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.61919/9x1nx191, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-19",
+   "authors": [
+    {
+     "authorId": "2392836607",
+     "name": "Shamim Akhtar"
+    },
+    {
+     "authorId": "2276282838",
+     "name": "Muhammad Umer"
+    },
+    {
+     "authorId": "2535489777",
+     "name": "Laiqat Simab"
+    },
+    {
+     "authorId": "2369478484",
+     "name": "Sidra Ali"
+    },
+    {
+     "authorId": "2274152256",
+     "name": "I. Khattak"
+    }
+   ],
+   "abstract": "Background: Childhood vaccination is a critical public health intervention that prevents morbidity and mortality from vaccine-preventable diseases, yet suboptimal uptake remains a challenge in many low- and middle-income countries including Pakistan. Parental attitudes and behaviors play a pivotal role in determining vaccination coverage, with behavioral determinants increasingly recognized as key contributors to vaccine hesitancy. Objective: To examine behavioral, educational, and structural determinants influencing parental decisions regarding childhood vaccination in District Peshawar, Khyber Pakhtunkhwa, Pakistan. Methods: A cross-sectional observational study was conducted from January to March 2025 among 380 parents attending selected health facilities in District Peshawar. Participants completed a structured, interviewer-administered questionnaire assessing socio-demographic characteristics, behavioral attitudes, and system-level factors associated with vaccination compliance. Associations were analyzed using chi-square tests and multivariable logistic regression to estimate adjusted odds ratios (AORs) with 95% confidence intervals (CIs). Results: Among participants, 89.7% reported lack of information as a key barrier and 12.6% reported prior adverse vaccine-related events. Non-compliance was significantly associated with illiteracy (AOR 1.80, 95% CI 1.01–3.22) and rural residence (AOR 3.05, 95% CI 1.66–5.62). Vaccine unavailability (24.5%) and lack of trained vaccinators (87.1%) emerged as prominent structural barriers despite high overall support for vaccination (91.3%). Conclusion: Both behavioral and structural factors significantly influence parental vaccination decisions in this setting. Interventions must address parental knowledge gaps and strengthen rural healthcare infrastructure to improve immunization coverage equitably."
+  },
+  {
+   "paperId": "c2aceed947306820b6e7e5506fb407ce316d0977",
+   "externalIds": {
+    "PubMedCentral": "11869064",
+    "DOI": "10.1017/S095026882500024X",
+    "CorpusId": 276481574,
+    "PubMed": "39973372"
+   },
+   "url": "https://www.semanticscholar.org/paper/c2aceed947306820b6e7e5506fb407ce316d0977",
+   "title": "A comprehensive review of the childhood vaccination landscape in Malaysia",
+   "venue": "Epidemiology and Infection",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E77D95421C346A89FCAEE545C0BCE328/S095026882500024Xa.pdf/div-class-title-a-comprehensive-review-of-the-childhood-vaccination-landscape-in-malaysia-div.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11869064, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-20",
+   "authors": [
+    {
+     "authorId": "88478532",
+     "name": "Nor Kamila Kamaruzaman"
+    },
+    {
+     "authorId": "46978611",
+     "name": "M. Rizzi"
+    },
+    {
+     "authorId": "12351945",
+     "name": "K. Attwell"
+    }
+   ],
+   "abstract": "Abstract Vaccination is one of the most cost-effective and successful public health interventions to prevent infectious diseases. Governments worldwide have tried to optimize vaccination coverage, including using vaccine mandates. This review of recent literature and policy aims to provide a comprehensive overview of Malaysia’s childhood vaccination landscape. The document analysis was used to identify and examine information from government policy documents, official government media statements, mainstream news content, and research papers. Content analysis was then employed to analyze the gathered information. Despite the successes of Malaysia’s National Immunization Programme, a resurgence of vaccine-preventable diseases has raised concerns about vaccine hesitancy and refusal. Several contributing factors have been identified, including a preference for alternative medicines, doubts about halal status, fear of vaccine injury, concerns about the vaccines’ contents, conspiracy theories, as well as convenience and access barriers. While various initiatives have been implemented, Malaysia may consider using vaccine mandates, as several countries have recently done, as a potential policy intervention to address these challenges. This review benefits policymakers, epidemiologists, as well as researchers involved in regional or global policy planning and advocacy efforts. It also offers comprehensive insights into designing effective interventions and making informed policy decisions regarding childhood vaccination programmes."
+  }
+ ]
+}

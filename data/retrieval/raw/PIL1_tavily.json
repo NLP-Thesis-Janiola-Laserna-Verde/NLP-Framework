@@ -1,0 +1,166 @@
+{
+ "query": "Transformer models for automatic text summarization",
+ "retrieved_at": "2026-11-10T10:49:48.063771+00:00",
+ "data": [
+  {
+   "url": "https://blog.fastforwardlabs.com/2021/09/22/automatic-summarization-from-textrank-to-transformers.html",
+   "title": "Automatic Summarization from TextRank to Transformers",
+   "content": "Transformers with both the encoder and decoder architectures can ingest a document through the encoder and generate a summary word by word via the decoder. While these models currently represent the state-of-the-art in text summarization, they have some drawbacks. Of primary concern is the factual inconsistency problem that we mentioned earlier. These Transformer models occasionally generate a summary that no longer faithfully reproduces the intent of the original document. [...] Let’s learn more about some of the models that can perform automatic text summarization. In this section we cover the models that we deployed in our prototype Summarize. These models range from classic unsupervised approaches, to deep learning-based Transformer models, and even a hybrid approach.\n\n### TextRank [...] The goal of this approach is to paraphrase the original text, rather than extracting representative segments. This is more akin to how a human would summarize a document or article. Models that perform this type of summarization well have only recently emerged. These are, of course, deep learning models, specifically the Transformer architecture (we’ll cover more below). In this approach, the model ingests the document and then generates a summary word by word. Often this summary contains",
+   "score": 0.9053309,
+   "raw_content": null,
+   "id": "ea07ac-00"
+  },
+  {
+   "url": "https://www.academia.edu/117474569/A_Comparative_Study_of_Transformer_based_Models_for_Text_Summarization_of_News_Articles",
+   "title": "(PDF) A Comparative Study of Transformer-based Models for Text Summarization of News Articles | Academia",
+   "content": "Transformer-based models such as GPT, T5, BART, and PEGASUS have made substantial progress in text summarization, a sub-domain of natural language processing that entails extracting important information from lengthy texts. The main objective of this research was to conduct a comparative analysis of these four transformer-based models based on their performance in text summarization of news articles. In achieving this objective, the transformer models pre-trained on extensive datasets were [...] This paper presents a new method to improve text summarization by combining the strengths of Graph Neural Networks with Transformer-based models. Text summarization is pivotal in natural language processing; it deals with the compression of large documents into smaller summaries while retaining essential information. The work proposed here focuses on enhancing the summarization process through the segmentation of articles into Elementary Discourse Units and further selecting important ones for [...] The tremendous increase in documents available on the Web has turned finding the relevant pieces of information into a challenging, tedious, and time-consuming activity. Text summarization is an important natural language processing (NLP) task used to reduce the reading requirements of text. Automatic text summarization is an NLP task that consists of creating a shorter version of a text document which is coherent and maintains the most relevant information of the original text. In recent",
+   "score": 0.8921218,
+   "raw_content": null,
+   "id": "5d0cd2-01"
+  },
+  {
+   "url": "https://www.analyticsvidhya.com/blog/2024/05/how-to-summarize-text-with-transformer-based-models",
+   "title": "How to Summarize Text with Transformer-based Models?",
+   "content": "One of the most important tasks in natural language processing is text summarizing, which reduces long texts to brief summaries while maintaining important information. This subject has been transformed by Transformers, which are sophisticated deep learning models that provide unmatched performance in extractive and abstractive summarization techniques. Their cutting-edge skills and contextual knowledge power a wide range of applications, from document management to news aggregation. [...] A. Advanced deep learning models, Transformers, have demonstrated remarkable performance in various natural language processing tasks, including text summarization. They utilize attention mechanisms to understand the context of words, sentences, and documents, making them well-suited for summarization tasks.\n\nQ3. What are the two main approaches to text summarization using Transformers? [...] There are two ways to summarize text using transformer:\n\nExtractive Summarization: Extractive summarization involves identifying important sections from text and generating them verbatim which produces a subset of sentences from the original text. Transformers improve this procedure by using text processing to extract features, which they then use to rank sentences according to these attributes. The primary actions consist of:",
+   "score": 0.8740022,
+   "raw_content": null,
+   "id": "35925d-02"
+  },
+  {
+   "url": "https://www.scribd.com/document/1054679663/Transformer-Models-for-Text-Summarization-A-Comparative-Study-of-BART-BERT-and-RoBERTa",
+   "title": "A Comparative Study of BART, BERT and RoBERTa",
+   "content": "transformer-based models for automatic text summarization. The goal is not to propose new models but to provide practical insights into the performance and ...Read more",
+   "score": 0.8524574,
+   "raw_content": null,
+   "id": "82a394-03"
+  },
+  {
+   "url": "https://www.mitre.org/sites/default/files/2021-11/prs-20-3129-automated-text-summarization-a-review-and-recommendations.pdf",
+   "title": "Automated Text Summarization",
+   "content": "zatio n mod el to the super -docu men t. Thus, the mult iple-document summar iz ation p ro b lem is reduced to a single-d ocumen t s umma rization m odel. Th e most suc c essful two- step s ystems use a Transformer model, ho we ver a ny sin gle-documen t syst em c an be use d. F or the Tra nsformer mo del, it i s importa nt tha t agg ressi ve fi lt ering of i mpo rtant sentence s is us ed in the f ir st step, to ensure th at the super-document remains short enough to fit within the attention [...] ssi ng tasks ar e the rec ently devel oped Transformer models . Th e Transform er mo del cons is ts of sequ ential at tention bloc ks, which are thems el ves serie s of a tte ntion layer s and fee dfo rward net wo rks. For specifi cs on t hes e trans fo rme r blocks, see Vaswani et al. (2017)  for th e origin al mo del descript ion. While V as wan i et a l. (20 17) use two Tra nsfor mers for th eir t ra nslatio n t ask, an encoder an d decode r combined, it i s com mon in subsequ ent work to [...] er advantage of pr etraini ng data and o bjectives, it is possible that summarization in previously unseen domains is viable with a Transformer. Finally, ther e sti ll ex ist is sues with Trans former m odels in general , se parate from su mma riza tion. One such issu e t hat might a rise i s a pro gr essive dr op in qua li ty of gener ate d te xt. Man y of these m ode ls are very capa ble of generatin g on e to thr ee sente nc es with c onsist ently h igh qua lity; however, a s the ou tput sta",
+   "score": 0.85097736,
+   "raw_content": null,
+   "id": "98c31b-04"
+  },
+  {
+   "url": "https://ideas.repec.org/a/spr/ijsaem/v15y2024i6d10.1007_s13198-024-02280-4.html",
+   "title": "Automatic text summarization using transformer-based ...",
+   "content": "by R Rao · 2024 · Cited by 18 — The two transformer-based language models namely, Bidirectional and Auto-regressive Transformer (BART) and Text-To-Text Transfer Transformer (T5)",
+   "score": 0.8473754,
+   "raw_content": null,
+   "id": "6d476f-05"
+  },
+  {
+   "url": "https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5786",
+   "title": "Long-Text Abstractive Summarization using Transformer Models: A Systematic Review | Journal of the Brazilian Computer Society",
+   "content": "Transformer models have significantly advanced abstractive summarization, achieving near-human performance. However, while effective for short texts, long-text summarization remains a challenge. This systematic review analyzes 56 studies on transformer-based long-text abstractive summarization published between 2017 and 2024, following predefined inclusion criteria. Findings indicate that 69.64% of studies adopt a hybrid approach while 30.36% focus on improving transformer attention mechanisms. [...] Chaves, A., Kesiku, C., and García-Zapirain, B. (2022). Automatic text summarization of biomedical text data: A systematic review.\n\nChen, W. and Iwaihara, M. (2023). Efficient summarization of long documents using hybrid extractive-abstractive method. Available online [link].\n\nChen, Y., Wan, Z., Li, Y., He, X., Wei, X., and Han, J. (2024). Graph curvature flow-based masked attention. Journal of Chemical Information and Modeling, 64(21):8153-8163. DOI: 10.1021/acs.jcim.4c01616. [...] Karlbom, H. and Clifton, A. (2020). Abstractive podcast summarization using bart with longformer attention. In The 29th Text Retrieval Conference (TREC) notebook. NIST. Available online [link].\n\nKashyap, P. (2022). Coling 2022 shared task: Led finteuning and recursive summary generation for automatic summarization of chapters from novels. In Proceedings of The Workshop on Automatic Summarization for Creative Writing, pages 19-23. Available online [link].",
+   "score": 0.843393,
+   "raw_content": null,
+   "id": "c8414a-06"
+  },
+  {
+   "url": "https://github.com/christianversloot/machine-learning-articles/blob/main/easy-text-summarization-with-huggingface-transformers-and-machine-learning.md",
+   "title": "machine-learning-articles/easy-text-summarization-with-huggingface-transformers-and-machine-learning.md at main · christianversloot/machine-learning-articles · GitHub",
+   "content": "In this tutorial, you'll learn how to create an easy summarization pipeline with a library called HuggingFace Transformers. This library, which runs on top of PyTorch and TensorFlow, allows you to implement Transformer models and use them for a variety of language tasks. The example below shows how to run a text summarization pipeline for an (English) text stored in a file called `article.txt`, based on a so-called BART (= BERT + GPT) Transformer. You can immediately use it, as long as you have [...] Transformers are taking the world of language processing by storm. These models, which learn to interweave the importance of tokens by means of a mechanism called self-attention and without recurrent segments, have allowed us to train larger models without all the problems of recurrent neural networks. There are many use cases for NLP, including text summarization, which is the focus of this tutorial. [...] A Transformer is a machine learning architecture that combines an encoder with a decoder and jointly learns them, allowing us to convert input sequences (e.g. phrases) into some intermediate format before we convert it back into human-understandable format.",
+   "score": 0.83678174,
+   "raw_content": null,
+   "id": "0d22fd-07"
+  },
+  {
+   "url": "https://uwindsor.scholaris.ca/items/3c7442dc-16f8-4fc1-9681-4b7abac8248d",
+   "title": "Efficient and Enhanced Text Summarization by ...",
+   "content": "by A Alam Falaki · 2024 — Automatic text summarization is an ... Efficient and Enhanced Text Summarization by Compressing and Data Augmentation for Transformers-Based Models.Read more",
+   "score": 0.81875163,
+   "raw_content": null,
+   "id": "d4f055-08"
+  },
+  {
+   "url": "https://www.linkedin.com/pulse/automatic-text-summarization-system-using-transformers-neurond-ai",
+   "title": "Automatic Text Summarization System Using Transformers",
+   "content": "We present a system that has the ability to summarize a paper using Transformers. It uses BART, which pre-trains a model combining Bidirectional ...Read more",
+   "score": 0.7915799,
+   "raw_content": null,
+   "id": "5bd76c-09"
+  },
+  {
+   "url": "https://medium.com/@govindarajpriyanthan/text-summarization-with-hugging-face-transformers-2e9abf29c52f",
+   "title": "Text Summarization with Hugging Face Transformers | by Priyanthan Govindaraj | Medium",
+   "content": "The `transformers` library is a state-of-the-art Natural Language Processing (NLP) library for TensorFlow 2.0 and PyTorch. It provides thousands of pre-trained models to perform tasks on texts such as classification, information extraction, summarization, translation, text generation, etc. [...] The Pegasus model, trained on the CNN/DailyMail dataset, is designed for abstractive text summarization. The CNN/DailyMail dataset is a popular choice for text summarization tasks.\n\nThis model identifier can be used with the `from_pretrained` method provided by the Hugging Face Transformers library to load the pre-trained model. [...] ### Conclusion\n\nIn this tutorial, we’ve explored text summarization using Hugging Face Transformers, specifically the `google/pegasus-cnn_dailymail` model. We’ve walked through the process of data preparation, model training, and evaluation. The ability to summarize text is a powerful tool in today’s information-dense world, and the potential applications are vast. Keep exploring and learning!\n\n> Thank you\n\nNLP\n\nPython\n\nHugging Face\n\nTransformers\n\nTokenization\n\nPriyanthan Govindaraj",
+   "score": 0.7795405,
+   "raw_content": null,
+   "id": "7f8538-10"
+  },
+  {
+   "url": "https://www.ibm.com/think/topics/text-summarization",
+   "title": "What is text summarization? | IBM",
+   "content": "Automatic text summarization (or document summarization) is a natural language processing (NLP) method that condenses information from one or more input text documents into an original output text. How much of the input text appears in the output is debated—some definitions state only 10%, others 50%.1 Text summarization algorithms often use deep learning architectures—specifically, transformers—to parse documents and generate text summaries.\n\n## The latest AI trends, brought to you by experts [...] 5 Jonathan Pilault, Raymond Li, Sandeep Subramanian, and Chris Pal, “On Extractive and Abstractive Neural Document Summarization with Transformer Language Models,” Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020, [...] News News articles are a common dataset for testing and comparing text summarization techniques. Summarization is not always the end goal, however. A handful of studies investigates the role of transformer-derived text summaries as a mode of feature extraction for powering fake news detection models.17 This research shows promising potential and illustrates how text summaries can be adopted for more wide-reaching uses than merely saving time in reading multiple texts.",
+   "score": 0.76847315,
+   "raw_content": null,
+   "id": "ba3535-11"
+  },
+  {
+   "url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=12103&context=etd",
+   "title": "Deep Insights from Transformer-Based Statistical Learning",
+   "content": "by K Bu · 2024 · Cited by 1 — In addition, automatic text summarization generates concise representations of texts ... So far we applied the transformer model in the text ...Read more",
+   "score": 0.76512027,
+   "raw_content": null,
+   "id": "c2e211-12"
+  },
+  {
+   "url": "https://doi.org/10.54254/2755-2721/101/20240946",
+   "title": "Transformer models in text summarization",
+   "content": "Nov 8, 2024 — Text summarization models are classified into several types, such as abstraction-based, extraction-based, and those leveraging large language ...Read more",
+   "score": 0.72465646,
+   "raw_content": null,
+   "id": "f6b13b-13"
+  },
+  {
+   "url": "https://sites.psu.edu/mcreu/2025/07/10/transformer-models-for-text-summarization-a-comparative-study-of-bart-bert-and-roberta-2",
+   "title": "Transformer Models for Text Summarization",
+   "content": "Jul 10, 2025 — Through our research, we provide an overview of three transformer models adapted to ATS, how the models were implemented, and the challenges ...Read more",
+   "score": 0.7180613,
+   "raw_content": null,
+   "id": "1e91fa-14"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=Lh7KUFu9Dy0",
+   "title": "Abstractive Text Summarization using Transformer Model",
+   "content": "Content Description ⭐️ In this video, I have explained about abstractive text summarization technique using pretrained transformer model.",
+   "score": 0.6659544,
+   "raw_content": null,
+   "id": "3793b3-15"
+  },
+  {
+   "url": "https://www.sbert.net/examples/sentence_transformer/applications/text-summarization/README.html",
+   "title": "Text Summarization",
+   "content": "SentenceTransformers can be used for (extractive) text summarization: The document is broken down into sentences and embedded by SentenceTransformers. Then, we ...Read more",
+   "score": 0.65887916,
+   "raw_content": null,
+   "id": "4dc43f-16"
+  },
+  {
+   "url": "https://huggingface.co/docs/transformers/tasks/summarization",
+   "title": "Summarization · Hugging Face",
+   "content": "Hugging Face's logo\n\nTransformers documentation\n\nSummarization\n\n# Transformers\n\nHugging Face's logo\n\nand get access to the augmented documentation experience\n\nto get started\n\nOpen In Colab\nOpen In Studio Lab\n\n# Summarization\n\nSummarization creates a shorter version of a document or an article that captures all the important information. Along with translation, it is another example of a task that can be formulated as a sequence-to-sequence task. Summarization can be: [...] Come up with some text you’d like to summarize. For T5, you need to prefix your input depending on the task you’re working on. For summarization you should prefix your input as shown below:\n\nTokenize the text and return the `input_ids` as PyTorch tensors:\n\n`input_ids`\n\nUse the generate() method to create the summarization. For more details about the different text generation strategies and parameters for controlling generation, check out the Text Generation API. [...] Once training is completed, share your model to the Hub with the push\\_to\\_hub() method so everyone can use your model:\n\nFor a more in-depth example of how to finetune a model for summarization, take a look at the corresponding PyTorch notebook.\n\n## Inference\n\nGreat, now that you’ve finetuned a model, you can use it for inference!",
+   "score": 0.43352634,
+   "raw_content": null,
+   "id": "e7b4c7-17"
+  },
+  {
+   "url": "https://engrxiv.org/preprint/download/5662/9470/7899",
+   "title": "Instructional Video Summarization with Transformers",
+   "content": "To address these limitations, we propose an automated framework that generates abstractive summaries from ASR- generated transcripts of instructional videos.Read more",
+   "score": 0.3964893,
+   "raw_content": null,
+   "id": "0610cb-18"
+  },
+  {
+   "url": "https://journaljamcs.com/index.php/JAMCS/article/view/2152",
+   "title": "A Comprehensive Narrative Review of Extractive Text ...",
+   "content": "May 20, 2026 — Findings indicate that transformer-based models achieve strong benchmark performance but still face practical limitations in scalability and ...Read more",
+   "score": 0.3355473,
+   "raw_content": null,
+   "id": "8210c7-19"
+  }
+ ]
+}

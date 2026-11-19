@@ -1,0 +1,791 @@
+{
+ "query": "Cyberbullying among adolescents",
+ "retrieved_at": "2026-11-18T17:58:49.580193+00:00",
+ "data": [
+  {
+   "DOI": "10.13056/acamh.24082",
+   "title": [
+    "Cyberbullying Among Adolescents: Coping Strategies and Cyberbullying Perpetration"
+   ],
+   "publisher": "ACAMH",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      21
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.13056/acamh.24082",
+   "abstract": "<jats:p xml:lang=\"en\">In this Papers Podcast, Ahmet Metin and Eyüp Sabır Erbiçer discuss their co-authored CAMH paper ‘Cyberbullying among adolescents in Turkey: the relationship between coping strategies and cyberbullying perpetration’. &#x0D;\n&#x0D;\nThis paper was published in the CAMH 2023 Special Issue ‘Technology and Mental Health for Children and Adolescents: Pros and Cons’. </jats:p>"
+  },
+  {
+   "DOI": "10.4324/9781315656694-21",
+   "title": [
+    "Problem behaviours, traditional bullying and cyberbullying among adolescents: longitudinal analyses"
+   ],
+   "container-title": [
+    "Emotional and Behavioural Difficulties Associated with Bullying and Cyberbullying"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      9,
+      26
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781315656694-21"
+  },
+  {
+   "DOI": "10.4324/9781003314509-15",
+   "title": [
+    "Cyberbullying research among children and adolescents"
+   ],
+   "container-title": [
+    "Cyberbullying and Values Education"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      15
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003314509-15",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0806-6584",
+     "authenticated-orcid": false,
+     "given": "Angel Nga Man",
+     "family": "Leung",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n                <p>The rise of cyberbullying has become increasingly concerning with the widespread adoption of technology. This study investigated the relationship between cyberbullying and emotional intelligence among adolescents in the Kingdom of Saudi Arabia. A quantitative approach was conducted, with data collected from 550 students through an online questionnaire. The results revealed a significant negative relationship between cyberbullying and emotional intelligence among adolescents. These findings carry important implications for educators, parents, and policymakers. Addressing cyberbullying is crucial not only for safeguarding students' emotional well-being but also for promoting the development of emotional intelligence. Efforts should focus on raising awareness, providing emotional support, and creating robust anti-bullying strategies to mitigate the adverse effects of cyberbullying on students' emotional development.</p>",
+   "DOI": "10.21203/rs.3.rs-6857979/v1",
+   "type": "posted-content",
+   "title": [
+    "Exploring the Impact of Cyberbullying on Emotional Intelligence among Saudi Adolescents"
+   ],
+   "author": [
+    {
+     "given": "Abdulrahman",
+     "family": "Alyami",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Jouf University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      22
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-6857979/v1"
+  },
+  {
+   "DOI": "10.14264/uql.2017.823",
+   "title": [
+    "Bullying and cyberbullying among Australian adolescents: definition, prevalence, clinical correlates, and dimensional measurement"
+   ],
+   "publisher": "University of Queensland Library",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.14264/uql.2017.823",
+   "author": [
+    {
+     "given": "Hannah Jane",
+     "family": "Thomas",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Cyberbullying among adolescents in India presents a pressing yet inadequately understood public health concern. In the present systematic review, a comprehensive search across 6 electronic databases (PsycINFO, Embase, MEDLINE, ERIC, Web of Science, and PubMed) in September 2024 yielded 1,332 articles, of which 46 met full inclusion criteria. Cyberbullying victimization rates ranged from 2.7% to 72%, and perpetration from 3% to 34.9%, reflecting substantial regional and methodological heterogeneity. Common forms included impersonation, harassment, denigration, exclusion, and severe digital violence. Risk factors identified were age, female gender, personality traits such as narcissism and callousness, limited parental monitoring, and prolonged social media use, while consequences included depression, suicidal ideation, and reduced self-esteem. Only one intervention study was identified, underscoring a critical gap. Methodologically, most studies relied on convenience sampling, self-report measures unvalidated for Indian populations, and basic statistical analyses, limiting generalizability. Future research should prioritize culturally validated instruments, representative sampling, longitudinal designs, and evidence-based interventions contextually adapted to India&amp;apos;s sociocultural diversity.</jats:p>",
+   "DOI": "10.2139/ssrn.7025308",
+   "type": "posted-content",
+   "title": [
+    "Cyberbullying among Adolescents in India: A Systematic Review"
+   ],
+   "author": [
+    {
+     "given": "Niharika",
+     "family": "Thakkar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sanjana",
+     "family": "Karnik",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aseess",
+     "family": "Chadha",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.7025308"
+  },
+  {
+   "DOI": "10.1037/e506602021-001",
+   "title": [
+    "Can school-wide social and emotional learning reduce cyberbullying among adolescents?"
+   ],
+   "container-title": [
+    "PsycEXTRA Dataset"
+   ],
+   "publisher": "American Psychological Association (APA)",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1037/e506602021-001"
+  },
+  {
+   "DOI": "10.5220/0011095900003368",
+   "title": [
+    "The Impact of Empathy towards Cyberbullying Behavior among Adolescents Who Accessed TikTok in Indonesia"
+   ],
+   "container-title": [
+    "Proceedings of the International Conference of Mental Health"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0011095900003368",
+   "author": [
+    {
+     "given": "Zulian",
+     "family": "Fikry",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Psychology, Universitas Negeri Padang, Padang, Indonesia, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Gumi",
+     "family": "Rizal",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Psychology, Universitas Negeri Padang, Padang, Indonesia, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Willy",
+     "family": "Sintia",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Psychology, Universitas Negeri Padang, Padang, Indonesia, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.20935/al1437",
+   "title": [
+    "Cyberbullying Behaviour in Relation to Depression and Suicide Among Adolescents"
+   ],
+   "container-title": [
+    "Academia Letters"
+   ],
+   "publisher": "Academia.edu",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.20935/al1437",
+   "author": [
+    {
+     "given": "Mohinder",
+     "family": "Singh",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Central University of Punjab, Bhatinda"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781315656694-14",
+   "title": [
+    "Emotional and behavioural problems in the context of cyberbullying: a longitudinal study among German adolescents"
+   ],
+   "container-title": [
+    "Emotional and Behavioural Difficulties Associated with Bullying and Cyberbullying"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      9,
+      26
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781315656694-14"
+  },
+  {
+   "DOI": "10.1016/j.chb.2016.11.047",
+   "title": [
+    "Prevalence of cyberbullying and predictors of cyberbullying perpetration among Korean adolescents"
+   ],
+   "container-title": [
+    "Computers in Human Behavior"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.chb.2016.11.047",
+   "author": [
+    {
+     "given": "Changho",
+     "family": "Lee",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Namin",
+     "family": "Shin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MedCrave Group Kft.",
+   "abstract": "<jats:p>Background: Cyberbullying is commonly present as affecting in adolescent population. Current research suggests that cyberbullying occurs mostly in secondary education. There was a total of 186 students who participated in this study. It was found that there was a significant association between cyberbullying and cyber victimization which suggest that cyber victims have the tendency to be cyberbullies and vice versa. Moreover, more than half of the victims do not report cyberbullying phenomena to adults. It was also found out that schools were the least medium for adolescent to learn safety strategies online.</jats:p>",
+   "DOI": "10.15406/sij.2018.02.00129",
+   "type": "journal-article",
+   "title": [
+    "Cyberbullying among adolescents: frequency and characteristics"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8481-3329",
+     "authenticated-orcid": false,
+     "given": "Charisse ",
+     "family": "Vitto",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sociology International Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      12,
+      28
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.15406/sij.2018.02.00129"
+  },
+  {
+   "DOI": "10.37886/ip.2022.010",
+   "title": [
+    "The Rise of Cyberbullying Among Adolescents During Covid-19"
+   ],
+   "container-title": [
+    "Izzivi prihodnosti"
+   ],
+   "publisher": "Faculty of Organisation Studies Novo Mesto",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1,
+      18
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.37886/ip.2022.010"
+  },
+  {
+   "DOI": "10.4324/9781003414933-12",
+   "title": [
+    "Cyberbullying Prevention among Children and Adolescents in China"
+   ],
+   "container-title": [
+    "Cyber and Face-to-Face Aggression and Bullying among Children and Adolescents"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      9
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003414933-12",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6062-3216",
+     "authenticated-orcid": false,
+     "given": "Qiqi",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Diva Enterprises Private Limited",
+   "abstract": "<jats:p>Cyberbullying is a form of bullying or harassing which is done by sending aggressive messages to a person. It can be a humiliating photo or video, an unpleasant text message, or an intolerable comment on social media. Cyberbullying has divided into two types like Direct and Indirect cyberbullying. Direct cyberbullying is sending harmful material in the form of text, image, etc., to torture the victim directly. Indirect cyberbullying is when someone spreads the rumor about another person's life. In the existing technique, Direct and Indirect cyberbullying Identification of User Character (IUC), Identification of Trustworthiness of the User (ITU) are detected using classifiers techniques from the Twitter dataset. This proposed technique is going to detect cyberbullying from direct, indirect cyberbullying techniques and to prevent the cyberbullying by reflective messages and also to recover the victims using depression technique. Along with existing technique, this proposed technique is going to detect depression from the cyberbully affected persons in order to recover from their depressive mood. The depression can be detected by using the following techniques, namely, Cognitive distortions, Depressive rumination, Content valence and Attitude towards others. This proposed technique also reduces the cyber harassment by showing the reflective messages to the harassing persons. The reflective message helps the users to reconsider and it prevents them from posting harmful messages. The reflective message is going to detect from the following techniques such as the potential audience, Disapproval by bystanders and Harm for the receiver.</jats:p>",
+   "DOI": "10.5958/2347-7202.2018.00001.4",
+   "type": "journal-article",
+   "title": [
+    "Cyberbullying Among Adolescents: An Effort Of Identification, Prevention and Intervention of Cyberbullying"
+   ],
+   "author": [
+    {
+     "given": "J.I.",
+     "family": "Sheeba",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Pondicherry Engineering College",
+       "place": [
+        "Puducherry"
+       ],
+       "department": [
+        "Department of CSE"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S. Pradeep",
+     "family": "Devaneyan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Mechanical and Building Sciences, Christ College of Engineering and Technology",
+       "place": [
+        "Puducherry"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "JIMS8I - International Journal of Information Communication and Computing Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.5958/2347-7202.2018.00001.4"
+  },
+  {
+   "DOI": "10.1007/978-3-030-04960-7_9",
+   "title": [
+    "Storytelling as a Liminal Space: Using a Narrative Based Participatory Approach to Tackle Cyberbullying Among Adolescents"
+   ],
+   "container-title": [
+    "Narratives in Research and Interventions on Cyberbullying among Young People"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2019
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-030-04960-7_9",
+   "author": [
+    {
+     "given": "Irene",
+     "family": "White",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mairéad",
+     "family": "Foody",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "James",
+     "family": "O’Higgins Norman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Cyberbullying is on the rise so as its negative impact particularly on the health of the youth worldwide. While concerned about, the Governments and international research communities are growingly collaborating for publishing studies to highlight growing cluster of issues surrounding youth cyberbullying. In this regard, a Progressive Data Analysis (PDA) approach in conjunction with VOSviewer software was adopted for the collection and analysis of the cyberbullying publication data for the period of 2000 - 2021. The VOSviewer software helped to collect publication data from Scopus database and develop visuals whereas the PDA guided use to divide the dataset into four incremental time intervals (2000 – 2010, 2000 – 2015, 2000 – 2018 and 2000 - 2021) to effectively visualise the growing impact of cyberbullying on youth.</jats:p>",
+   "DOI": "10.2139/ssrn.4221736",
+   "type": "posted-content",
+   "title": [
+    "Growing Landscape of Cyberbullying Among Adolescents: An Analytical Approach to Two Decades of Research"
+   ],
+   "author": [
+    {
+     "given": "Abdul",
+     "family": "Babar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ghassan",
+     "family": "Beydoun",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.4221736"
+  },
+  {
+   "DOI": "10.4324/9781003314509-6",
+   "title": [
+    "Cyberbullying and suicidal ideation among adolescents in Hong Kong"
+   ],
+   "container-title": [
+    "Cyberbullying and Values Education"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      15
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003314509-6",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1447-5448",
+     "authenticated-orcid": false,
+     "given": "Jianli",
+     "family": "Xing",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8588-0542",
+     "authenticated-orcid": false,
+     "given": "Qingsong",
+     "family": "Chang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1596-4120",
+     "authenticated-orcid": false,
+     "given": "Paul S. F.",
+     "family": "Yip",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.54127/ydtf9446",
+   "title": [
+    "Cyberbullying and Internet addiction among Palestinian Adolescents"
+   ],
+   "container-title": [
+    "Journal of Concurrent Disorders"
+   ],
+   "publisher": "Concurrent Disorders Society Inc.",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      4,
+      25
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.54127/ydtf9446",
+   "author": [
+    {
+     "given": "Emad Abu",
+     "family": "Al-rob",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1037/e574242014-176",
+   "title": [
+    "General Perception and Understanding for the Nature of Different Forms of Cyberbullying among Adolescents"
+   ],
+   "container-title": [
+    "PsycEXTRA Dataset"
+   ],
+   "publisher": "American Psychological Association (APA)",
+   "issued": {
+    "date-parts": [
+     [
+      2014
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1037/e574242014-176",
+   "author": [
+    {
+     "given": "Tomoyuki",
+     "family": "Kanetsuna",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

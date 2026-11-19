@@ -1,0 +1,815 @@
+{
+ "query": "Transformer models for automatic text summarization",
+ "retrieved_at": "2026-11-10T10:49:43.452051+00:00",
+ "data": [
+  {
+   "DOI": "10.1145/3437802.3437832",
+   "title": [
+    "Survey on Automatic Text Summarization and Transformer Models Applicability"
+   ],
+   "container-title": [
+    "2020 International Conference on Control, Robotics and Intelligent System"
+   ],
+   "publisher": "ACM",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      27
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3437802.3437832",
+   "author": [
+    {
+     "given": "Wang",
+     "family": "Guan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "ITMO University, Russia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ivan",
+     "family": "Smetannikov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ITMO University, Russia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Man",
+     "family": "Tianxing",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ITMO University, Russia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781119004752.app2",
+   "title": [
+    "Appendix 2: Automatic Text Summarization Resources"
+   ],
+   "container-title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119004752.app2"
+  },
+  {
+   "DOI": "10.1002/9781119004752.app1",
+   "title": [
+    "Appendix 1: Information Retrieval, NLP and Automatic Text Summarization"
+   ],
+   "container-title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119004752.app1"
+  },
+  {
+   "DOI": "10.1002/9781119004752.ch2",
+   "title": [
+    "Automatic Text Summarization: Some Important Concepts"
+   ],
+   "container-title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119004752.ch2",
+   "author": [
+    {
+     "given": "Juan‐Manuel",
+     "family": "Torres‐Moreno",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5220/0014207300004932",
+   "title": [
+    "Multi-Document Text Summarization Using Ensemble of Attention-Based Transformer Models"
+   ],
+   "container-title": [
+    "Proceedings of the 1st International Conference on Intelligent Methods and Advanced Computer Scientific Innovations"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0014207300004932",
+   "author": [
+    {
+     "given": "Padilam",
+     "family": "Sharmila",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, Aditya Degree and PG Colleges, Kakinada, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Palepu",
+     "family": "Nethikonda",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, Aditya Degree and PG Colleges, Kakinada, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ganti",
+     "family": "Srikanth",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, Aditya Degree and PG Colleges, Kakinada, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bandekar",
+     "family": "Nihal",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Diploma CSE, VFSTR University, Guntur, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shaik",
+     "family": "Begum",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, Aditya Degree and PG Colleges, Kakinada, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781118562796.ch2",
+   "title": [
+    "Learnable Ranking Models for Automatic Text Summarization and Information Retrieval"
+   ],
+   "container-title": [
+    "Textual Information Access"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      5,
+      7
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781118562796.ch2"
+  },
+  {
+   "DOI": "10.32743/26870142.2022.19.242.339376",
+   "title": [
+    "AUTOMATIC TEXT SUMMARIZATION USING SEQUENCE-TO-SEQUENCE MODELS"
+   ],
+   "container-title": [
+    "Internauka"
+   ],
+   "publisher": "Siberian Academic Book LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      30
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.32743/26870142.2022.19.242.339376",
+   "author": [
+    {
+     "given": "Ержан Мерекеулы",
+     "family": "Утешов",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "EWA Publishing",
+   "abstract": "<jats:p>Text summarization represents a core research topic within the realm of natural language processing and is extensively applied across various domains, including journalism, library administration, information gathering, among others. With the development of deep learning, especially the proposed Transformer structure has greatly promoted the development of text summaries. This paper reviews the recent progress in Transformer-based text summarization methods. It begins with an overview of traditional text summarization techniques. The paper then delves into the advantages of Transformer models for text summarization, such as their ability to understand global context, dynamically allocate weights, and accelerate parallel computation. Text summarization models are classified into several types, such as abstraction-based, extraction-based, and those leveraging large language models. Notably, Models like PEGASUS, BERT, and HETFORMER have emerged as leading examples in this field. In addition, the effectiveness, advantages and disadvantages of these models are analyzed.</jats:p>",
+   "DOI": "10.54254/2755-2721/101/20240946",
+   "type": "journal-article",
+   "title": [
+    "Transformer models in text summarization"
+   ],
+   "author": [
+    {
+     "given": "Xinrui",
+     "family": "Fu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computing and Data science, Xiamen University Malaysia, Kuala Lumpur,43900, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied and Computational Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      8
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.54254/2755-2721/101/20240946"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n        <p>As the need for safe and effective information processing grows, text summarization has become a crucial Natural Language Processing (NLP) application field. In this paper, the new Transformer based privacy-preserving summarisation system is presented. It combines popular transformer models, such as Sequence-to-Sequence, Text-to-Text Transfer Transformer (T5), Bidirectional and Auto-Regressive Transformers (BART), Multilingual BART, and Pre-training with Extracted Gap sentences for Abstractive Summarisation (Pegasus), in a differentially private federated learning setting. Through the architecture, privacy risks are reduced, and collaborative model training is made possible by guaranteeing that raw text data stays localized among decentralized clients. Extensive experiments are carried out on the CNN/DailyMail and XSum datasets, using both extractive and abstractive summarisation paradigms. The findings show that Pegasus regularly outperforms other assessment measures (BLEU-4 at 32.0 and ROUGE-L at 44.1) outperforming other models by 14.43% and 11.78% on average, compared to the BART and mBART models in a federated environment. Performance patterns throughout communication cycles demonstrate the effectiveness of the FedAvg aggregation strategy, as the quality of the model gradually improves. This study compares the computational efficiency, generalizability, and complexity of the model under circumstances that preserve privacy. The results aid in the creation of intelligent summarisation systems that strike a compromise between language quality, scalability, and privacy; these systems may find use in cross-border information systems, healthcare, and the legal sector.</p>",
+   "DOI": "10.21203/rs.3.rs-7598101/v1",
+   "type": "posted-content",
+   "title": [
+    "Privacy-Preserving Text Summarization through Differentially Private Federated\nLearning with Transformer Models"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5519-8681",
+     "authenticated-orcid": false,
+     "given": "Umme",
+     "family": "Sara",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "National Institute of Textile Engineering and Research (NITER)"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md Tanjum An",
+     "family": "Tashrif",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Institute of Textile Engineering and Research (NITER)"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-7598101/v1"
+  },
+  {
+   "DOI": "10.1007/s13198-024-02280-4",
+   "title": [
+    "Automatic text summarization using transformer-based language models"
+   ],
+   "container-title": [
+    "International Journal of System Assurance Engineering and Management"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s13198-024-02280-4",
+   "author": [
+    {
+     "given": "Ritika",
+     "family": "Rao",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sourabh",
+     "family": "Sharma",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1484-9841",
+     "authenticated-orcid": false,
+     "given": "Nitin",
+     "family": "Malik",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21275/v5i2.nov161195",
+   "title": [
+    "Automatic Text Summarization: A Detailed Study"
+   ],
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "publisher": "International Journal of Science and Research",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      2,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21275/v5i2.nov161195"
+  },
+  {
+   "DOI": "10.1002/9781119004752.ch3",
+   "title": [
+    "Single‐Document Summarization"
+   ],
+   "container-title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119004752.ch3",
+   "author": [
+    {
+     "given": "Juan‐Manuel",
+     "family": "Torres‐Moreno",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781119004752.fmatter",
+   "title": [
+    "Front Matter"
+   ],
+   "container-title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119004752.fmatter"
+  },
+  {
+   "DOI": "10.1002/9781119004752.ch4",
+   "title": [
+    "Guided Multi‐Document Summarization"
+   ],
+   "container-title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119004752.ch4",
+   "author": [
+    {
+     "given": "Juan‐Manuel",
+     "family": "Torres‐Moreno",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781119004752.ch7",
+   "title": [
+    "Text Abstracting"
+   ],
+   "container-title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119004752.ch7",
+   "author": [
+    {
+     "given": "Juan‐Manuel",
+     "family": "Torres‐Moreno",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Large text documents are sometimes challenging to understand and time-consuming to extract vital information from. These issues are addressed by automatic text summarizing techniques, which condense lengthy texts while preserving their key information. Thus, the development of automatic summarization systems capable of fulfilling the ever-increasing demands of textual data becomes of utmost importance. It is even more vital with complex natural languages. This study explores five State-Of-The-Art (SOTA) Arabic deep Transformer-based Language Models (TLMs) in the task of text summarization by adapting various text summarization datasets dedicated to Arabic. A comparison against deep learning and machine learning-based baseline models has also been conducted. Experimental results reveal the superiority of TLMs, specifically the PEAGASUS family, against the baseline approaches, with an average F1-score of 90% on several benchmark datasets.</jats:p>",
+   "DOI": "10.3390/app122311944",
+   "type": "journal-article",
+   "title": [
+    "Deep Transformer Language Models for Arabic Text Summarization: A Comparison Study"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3733-2063",
+     "authenticated-orcid": false,
+     "given": "Hasna",
+     "family": "Chouikhi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "LIMTIC Laboratory, UTM University, Tunis 1068, Tunisia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6567-6413",
+     "authenticated-orcid": false,
+     "given": "Mohammed",
+     "family": "Alsuhaibani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, College of Computer, Qassim University, Buraydah 52571, Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      11,
+      23
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/app122311944"
+  },
+  {
+   "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+   "abstract": "<jats:title>Amélioration des métriques d'évaluation pour les méthodes de résumé automatique</jats:title>\n                <jats:p xml:lang=\"fr\">L'essor rapide des grands modèles de langue (LLM) a fondamentalement transformé le traitement automatique du langage naturel, permettant des capacités sans précédent sur pratiquement toutes les tâches linguistiques. Pourtant, ces progrès ont créé une tension fondamentale : notre capacité à construire des systèmes performants a dépassé notre capacité à les évaluer de manière fiable. Les benchmarks traditionnels saturent rapidement, les métriques d'évaluation montrent une faible corrélation avec le jugement humain, et la reproductibilité des résultats reste difficile à atteindre. Au coeur de ces défis se trouve la question de l'évaluation : comment mesurer la qualité d'un texte généré de manière à la fois précise et interprétable ? Cette thèse aborde ce double défi à travers deux axes de recherche complémentaires, guidés par les questions suivantes : Comment exploiter les LLM non pas comme solveurs de tâches finales, mais comme outils pour construire des systèmes plus robustes ? Comment développer des métriques d'évaluation à la fois fiables et interprétables ? Le premier axe examine les LLM comme générateurs de données synthétiques pour améliorer la robustesse des modèles aval. Nous proposons CALM (Context Augmentation with Language Models), un cadre qui génère des augmentations contextuelles pour la reconnaissance d'entités nommées, démontrant des améliorations significatives en généralisation dans les scénarios à faibles ressources et inter-domaines. Nous introduisons également DQE (Deep Query Explorer), un système multi-agent pour la réponse aux questions sur tables qui génère des données d'entraînement diversifiées selon un curriculum, atteignant une robustesse supérieure aux approches existantes. Le second axe se concentre sur l'évaluation des résumés. Nous présentons SEval-Ex, un cadre d'évaluation basé sur des énoncés atomiques permettant une analyse fine et interprétable des résumés. SEval-Ex atteint une corrélation avec le jugement humain à l'état de l'art pour l'évaluation de la cohérence, tout en fournissant un raisonnement explicite pour chaque décision. Conscients que la fiabilité de l'évaluation exige aussi la reproductibilité, nous complétons cela par AllSummedUp, un cadre open-source qui met en évidence des divergences entre les résultats publiés et ceux reproduits. Ensemble, ces contributions font progresser à la fois la génération de systèmes de NLP robustes et notre capacité à les évaluer de manière fiable, offrant des outils pratiques et des perspectives méthodologiques pour le développement responsable des systèmes NLP.</jats:p>",
+   "DOI": "10.70675/5843c57fz6729z4c8fzbbd4zbbb636b02630",
+   "type": "dissertation",
+   "title": [
+    "Improving Evaluation Metrics for Automatic Text Summarization Methods"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0002-0468-342X",
+     "authenticated-orcid": false,
+     "given": "Tanguy",
+     "family": "Herserant",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/03xjwb503",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "université Paris-Saclay"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70675/5843c57fz6729z4c8fzbbd4zbbb636b02630"
+  },
+  {
+   "DOI": "10.21236/ada632154",
+   "title": [
+    "Automatic Text Summarization in Tipster"
+   ],
+   "publisher": "Defense Technical Information Center",
+   "issued": {
+    "date-parts": [
+     [
+      1998,
+      10,
+      1
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.21236/ada632154",
+   "author": [
+    {
+     "given": "Therese",
+     "family": "Firmin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Inderjeet",
+     "family": "Mani",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781119004752.index",
+   "title": [
+    "Index"
+   ],
+   "container-title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119004752.index"
+  },
+  {
+   "DOI": "10.1002/9781119004752",
+   "title": [
+    "Automatic Text Summarization"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "monograph",
+   "URL": "https://doi.org/10.1002/9781119004752",
+   "author": [
+    {
+     "given": "Juan‐Manuel",
+     "family": "Torres‐Moreno",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

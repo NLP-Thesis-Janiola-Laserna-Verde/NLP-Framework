@@ -1,0 +1,953 @@
+{
+ "query": "Mangrove restoration and coastal protection",
+ "retrieved_at": "2026-11-18T18:00:35.784384+00:00",
+ "data": [
+  {
+   "paperId": "da995dfd1f70f87e08204f1c494fdcdb577d6638",
+   "externalIds": {
+    "DOI": "10.1088/1755-1315/1660/1/012020",
+    "CorpusId": 292279084
+   },
+   "url": "https://www.semanticscholar.org/paper/da995dfd1f70f87e08204f1c494fdcdb577d6638",
+   "title": "Long-term Monitoring of Mangrove Restoration and Its Implication to Quantify the Hydrodynamic Protection Services of Nature-based Solutions to Enhance Coastal Resilience in Tanjung Benoa, Bali, Indonesia",
+   "venue": "IOP Conference Series: Earth and Environment",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1755-1315/1660/1/012020/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1755-1315/1660/1/012020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1755-1315/1660/1/012020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2026-09-01",
+   "authors": [
+    {
+     "authorId": "97205437",
+     "name": "Fajar Yulianto"
+    },
+    {
+     "authorId": "30957848",
+     "name": "D. Mardiatno"
+    },
+    {
+     "authorId": "40928647",
+     "name": "P. Wicaksono"
+    },
+    {
+     "authorId": "5779795",
+     "name": "W. Kongko"
+    }
+   ],
+   "abstract": "In this paper we integrate remote sensing time-series analysis and hydrodynamic modeling utilizing a scenario-based (with-NbS vs. without-NbS) to synthesize long-term (1990-2025) monitoring of mangrove restoration in Tanjung Benoa, Bali. Results reveal a considerable positive trend in mangrove area expansion with an average annual increase of 2.15% of which 78.9% are restored mangroves. The NDVI derived vegetation health is markedly better. Hydrodynamic modeling shows that the with-NbS scenario greatly reduces the depth averaged velocities as compared to the without- NbS scenario with smoother contour gradients as attenuation zones of velocities. The time-series analysis indicates that the with-NbS scenario has 15-30% lower velocities throughout the study period, with the largest decrease during peak flow events. These results indicate the ability of NbS to effectively attenuate currents and waves under harsh conditions. Our finding advocates the incorporation of mangrove restoration into NbS approaches for coastal resilience, underlining the importance of long-term monitoring techniques that connect ecological recovery metrics to hydrodynamic performance parameters."
+  },
+  {
+   "paperId": "62c54f0993293f7a56370fd3ca2fe16fa88ccc3e",
+   "externalIds": {
+    "DOI": "10.1016/j.jenvman.2025.126988",
+    "CorpusId": 280777022,
+    "PubMed": "40845660"
+   },
+   "url": "https://www.semanticscholar.org/paper/62c54f0993293f7a56370fd3ca2fe16fa88ccc3e",
+   "title": "Physical protection by soil aggregates drives carbon gains in mangrove restoration: Evidence from coastal aquaculture ponds.",
+   "venue": "Journal of Environmental Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2025.126988?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2025.126988, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-21",
+   "authors": [
+    {
+     "authorId": "2316372726",
+     "name": "Ning Hou"
+    },
+    {
+     "authorId": "48153833",
+     "name": "Xiaolei Yin"
+    },
+    {
+     "authorId": "2308416309",
+     "name": "Wei-Qi Wang"
+    },
+    {
+     "authorId": "2316525345",
+     "name": "Xiang Yang"
+    },
+    {
+     "authorId": "2276002363",
+     "name": "Yuan Li"
+    },
+    {
+     "authorId": "2287970342",
+     "name": "Yuan-Chun Zou"
+    },
+    {
+     "authorId": "2291738673",
+     "name": "Zhao-Liang Song"
+    },
+    {
+     "authorId": "2115275693",
+     "name": "Shao-Ying Lin"
+    },
+    {
+     "authorId": "2375324114",
+     "name": "Zhineng Xiao"
+    },
+    {
+     "authorId": "2365111041",
+     "name": "Rong-Bin Yin"
+    },
+    {
+     "authorId": "2237629097",
+     "name": "F. Zeng"
+    },
+    {
+     "authorId": "2240245063",
+     "name": "Zhi-Hao Zhang"
+    },
+    {
+     "authorId": "2353558995",
+     "name": "Ji Chen"
+    },
+    {
+     "authorId": "89907775",
+     "name": "J. Sardans"
+    },
+    {
+     "authorId": "144287812",
+     "name": "J. Peňuelas"
+    }
+   ],
+   "abstract": "Mangrove wetlands are vital carbon sinks, yet their area has sharply declined due to aquaculture. To evaluate soil carbon stock recovery, we analyzed six pond-to-mangrove restoration sites along China's southeastern coast, assessing changes in carbon components and their drivers. Restoration increased soil water content, salinity, and total nitrogen while reducing pH and bulk density. Soil organic carbon (SOC) and its labile fractions significantly increased, with both manual and natural restoration improving carbon dynamics. SOC positively correlated with water content, total nitrogen, and total phosphorus but negatively with pH (p < 0.01). Crucially, we found that the physical protection mechanism of soil aggregates was the dominant driver of soil carbon stability (38.5 %), followed by environmental factors (33.6 %), microbial bioprotection (19.6 %), and chemical protection (8.30 %). We roughly estimated that converting coastal aquaculture ponds to manually restored mangrove wetlands increased SOC storage in the 0-30 cm layer by approximately 160 t C km-2, while natural restoration led to a larger increase of about 212 t C km-2. We suggest that mangrove wetland restoration prioritize natural processes, with artificial methods as a supplementary approach. These findings support effective mangrove conservation and restoration, enhancing climate resilience and ecological-economic benefits."
+  },
+  {
+   "paperId": "618f13fd478f3ef74a7ecd1c33e4c4f63182ee20",
+   "externalIds": {
+    "DOI": "10.3389/fmars.2022.968420",
+    "CorpusId": 252467971
+   },
+   "url": "https://www.semanticscholar.org/paper/618f13fd478f3ef74a7ecd1c33e4c4f63182ee20",
+   "title": "Does mangrove restoration imply coastal protection? A prospective simulation study",
+   "venue": "Frontiers in Marine Science",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3389/fmars.2022.968420",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fmars.2022.968420?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fmars.2022.968420, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2022-09-23",
+   "authors": [
+    {
+     "authorId": "2568257402",
+     "name": "Drandreb Earl O. Juanico"
+    }
+   ],
+   "abstract": "Mangrove restoration in the coastal zones is a concept proposed by environmental conservationists. Among the cited advantages of mangrove restoration are providing socio-economic services and coastal protection. Aware of these advantages, countries in Southeast Asia, such as the Philippines, have been implementing government- or civilian-backed restoration efforts. However, will current practices of restoration lead to the intended results? Also, are claims of coastal protection effects realistic? These two questions underscore the challenges posed by the long gap between the present intervention and future impact. Field evidence of protection may emerge from existing sites, the circumstances of which may not be easily portable onto other sites. This study examines the mangrove restoration practices in the Philippines and proposes the restoration index as a short-term prospective estimate of the future success of the restoration effort. This study also assesses the coastal protection potential of mangroves by examining the “bio-shielding” effect against storm surges driven by category-5 winds. Two coastal sites—Tacloban, Leyte, and Pan de Azucar, Iloilo—in the Philippines along the track of a category-5 storm, were considered. The restoration index was calculated based on the characteristics of Rhizophora mangroves commonly used in restoration programs. The coastal inundation model examined the extent of inland flooding due to storm surges by comparing an actual and hypothetical mangrove scenario for each site. A reasonable value of tree density obtained from the restoration simulations was estimated to determine if and to what degree, do mangroves in both sites offer coastal protection. For Tacloban, the actual mangroves are limited in scope, while the hypothetical scenario assumed a mangrove greenbelt fringing the city’s eastern periphery. For Pan de Azucar, the existing mangroves are dense at the southwestern tip of the island, whereas in the hypothetical scenario, these mangroves are absent. The results, reinforced with a household survey, indicated a positive economic value of mangrove restoration for coastal protection. The restoration index and coastal inundation simulations are prospective tools that will guide the Philippines and Southeast Asia, in general, in formulating impactful mangrove restoration programs."
+  },
+  {
+   "paperId": "603a5d895812363d90306c894a31cf38b651e748",
+   "externalIds": {
+    "MAG": "1063952400",
+    "DOI": "10.1007/s11273-015-9441-3",
+    "CorpusId": 15350958
+   },
+   "url": "https://www.semanticscholar.org/paper/603a5d895812363d90306c894a31cf38b651e748",
+   "title": "Dyke design, floodplain restoration and mangrove co-management as parts of an area coastal protection strategy for the mud coasts of the Mekong Delta, Vietnam",
+   "venue": "Wetlands Ecology and Management",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11273-015-9441-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11273-015-9441-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2015-07-11",
+   "authors": [
+    {
+     "authorId": "100643389",
+     "name": "T. Albers"
+    },
+    {
+     "authorId": "145565420",
+     "name": "K. Schmitt"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "fbcde424932c2971623ae5b12b1f4a4cd2c1f268",
+   "externalIds": {
+    "DOI": "10.1016/j.ecss.2025.109386",
+    "CorpusId": 279379146
+   },
+   "url": "https://www.semanticscholar.org/paper/fbcde424932c2971623ae5b12b1f4a4cd2c1f268",
+   "title": "Experimental study on the restoration and protection of mangrove tidal ecosystems flat located in a high wave area",
+   "venue": "Estuarine, Coastal and Shelf Science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ecss.2025.109386?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ecss.2025.109386, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-01",
+   "authors": [
+    {
+     "authorId": "2242254735",
+     "name": "Qinqin Liu"
+    },
+    {
+     "authorId": "2241929765",
+     "name": "Xiao-Jian Liu"
+    },
+    {
+     "authorId": "2324064737",
+     "name": "Xiaowei Zhu"
+    },
+    {
+     "authorId": "2241813943",
+     "name": "Peng Hou"
+    },
+    {
+     "authorId": "2530986486",
+     "name": "Chang-Tao Deng"
+    },
+    {
+     "authorId": "2241958515",
+     "name": "Huan Gao"
+    },
+    {
+     "authorId": "2241950224",
+     "name": "Qi-Song Wang"
+    },
+    {
+     "authorId": "2359217269",
+     "name": "Chan Zheng"
+    },
+    {
+     "authorId": "116862987",
+     "name": "Hui-Qun Guo"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "345399e389f93c5ebeee8ad3ab86cbac7db09ab1",
+   "externalIds": {
+    "DOI": "10.1038/s43247-025-02401-2",
+    "CorpusId": 279061085
+   },
+   "url": "https://www.semanticscholar.org/paper/345399e389f93c5ebeee8ad3ab86cbac7db09ab1",
+   "title": "Strategic mangrove restoration increases carbon stock capacity",
+   "venue": "Communications Earth & Environment",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s43247-025-02401-2.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s43247-025-02401-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s43247-025-02401-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-31",
+   "authors": [
+    {
+     "authorId": "2069481069",
+     "name": "S. Beselly"
+    },
+    {
+     "authorId": "2487806105",
+     "name": "M. van der Wegen"
+    },
+    {
+     "authorId": "98099821",
+     "name": "J. Reyns"
+    },
+    {
+     "authorId": "46543244",
+     "name": "U. Grueters"
+    },
+    {
+     "authorId": "145778878",
+     "name": "J. Dijkstra"
+    },
+    {
+     "authorId": "30400332",
+     "name": "D. Roelvink"
+    }
+   ],
+   "abstract": "Mangrove forests’ restoration has gained traction as a sustainable solution to mitigate the effects of greenhouse gas emissions and to provide ecosystem services, such as coastal protection. Restoration projects are often informed by expert judgment rather than a quantitative understanding and have a high failure rate. Monitoring mangrove restoration performance may take decades and has a strong case study dependency. To optimise restoration strategies, we developed an individual-based mangrove and process-based hydro-morphodynamic model to simulate multi-species mangrove forest trajectories, including the physical environment’s feedback. We find a significant impact of planting zonation on the mudflat behaviour, with seaward erosion and in-forest-landward deposition. Planting mangroves close to mean sea level decreases carbon storage potential due to increased mudflat erosion. Configuring planting in multiple patches proves beneficial to mangrove biomass development, expansion, and sediment accumulation. Combined with sound monitoring, the developed tool can potentially optimize planned mangrove restoration strategies. Planting mangroves close to high water level and configuring plantation in multiple patches along with strong monitoring measures is beneficial for strategic mangrove restoration, according to an individual-based mangrove and process-based hydro-morphodynamic model simulation."
+  },
+  {
+   "paperId": "47ea360f1ad368c58c6c70ebc0213a61ffdd1707",
+   "externalIds": {
+    "DOI": "10.1016/j.ocecoaman.2023.106498",
+    "CorpusId": 250434196
+   },
+   "url": "https://www.semanticscholar.org/paper/47ea360f1ad368c58c6c70ebc0213a61ffdd1707",
+   "title": "Effectiveness of community-based mangrove management for coastal protection: A case study from Central Java, Indonesia",
+   "venue": "Ocean &amp; Coastal Management",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0964569123000236",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ocecoaman.2023.106498?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ocecoaman.2023.106498, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-05-01",
+   "authors": [
+    {
+     "authorId": "115001647",
+     "name": "Ekaningrum Damastuti"
+    },
+    {
+     "authorId": "7204258",
+     "name": "B. V. van Wesenbeeck"
+    },
+    {
+     "authorId": "49000963",
+     "name": "R. Leemans"
+    },
+    {
+     "authorId": "115762300",
+     "name": "R. de Groot"
+    },
+    {
+     "authorId": "40648353",
+     "name": "M. Silvius"
+    }
+   ],
+   "abstract": "Management and restoration of mangrove forests to protect coasts are promoted in many countries, including Indonesia. Indonesian mangrove forests are actively restored and managed by local communities for their ecosystem services, including coastal protection. Whether community-based mangrove management (CBMM) is effective is still debated. Our study analysed the effectiveness of different CBMM practices in four Central Javan communities by analysing the capacity of their mangrove forests to protect against coastal hazards. We used complementary interviews, field assessments and literature reviews to collect the necessary information. The overall CBMM performance and success significantly differed for each community's mangrove rehabilitation effort and the resulting coastal protection service. Of the four communities, Bedono performed best in terms of mangrove coverage, forest structure and restored coastal protection service. This is explained by multiple factors, such as application of long-term and integrated CBMM approaches, involving appropriate maintenance and additional measures to reduce wave energy. Our results can help governments, practitioners and communities to better understand the factors that contribute to CBMM's success and failure when restoring and managing mangrove forests and protecting coasts."
+  },
+  {
+   "paperId": "ac1bf1ea320ea4ca701e1e7796337c170761cb5d",
+   "externalIds": {
+    "DOI": "10.1016/j.jenvman.2023.117310",
+    "CorpusId": 256104297,
+    "PubMed": "36682277"
+   },
+   "url": "https://www.semanticscholar.org/paper/ac1bf1ea320ea4ca701e1e7796337c170761cb5d",
+   "title": "The coastal protection and blue carbon benefits of hybrid mangrove living shorelines.",
+   "venue": "Journal of Environmental Management",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jenvman.2023.117310",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2023.117310?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2023.117310, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-01-20",
+   "authors": [
+    {
+     "authorId": "40545532",
+     "name": "R. Morris"
+    },
+    {
+     "authorId": "3718727",
+     "name": "B. Fest"
+    },
+    {
+     "authorId": "40694006",
+     "name": "D. Stokes"
+    },
+    {
+     "authorId": "117107294",
+     "name": "C. Jenkins"
+    },
+    {
+     "authorId": "6764319",
+     "name": "S. Swearer"
+    }
+   ],
+   "abstract": "Hybrid living shorelines use a combination of engineered structures with natural ecosystems to achieve coastal protection and habitat restoration outcomes, with added co-benefits such as carbon sequestration. Rock fillets constructed along eroding estuarine banks are designed to accumulate sediment, establish mangroves, and stabilise the shoreline. There is, however, a lack of data to support whether rock fillets are achieving these goals. We used a chronosequence of rock fillets to determine their effect on mangrove development, bank stabilisation and carbon sequestration in four estuaries in New South Wales, Australia. Aboveground biomass and adult density increased with age of rock fillets, and mangrove structure was similar to a natural fringing mangrove after 15 years. The rock fillets accumulated sediment, which reduced the eroded estuary bank height, however, little effect of the fillets on bank slope was observed. Sediment carbon stocks were not different between rock fillets, eroding estuary banks and natural fringing mangroves. Rock fillet design had a significant effect on mangrove structure and coastal protection function, with greater wave transmission through lower rock fillets, suggesting design optimisation is needed. As the construction cost of the rock fillets was equal or less than traditional rock revetments, where suitable they present a more economic and environmentally sustainable solution to estuarine erosion management."
+  },
+  {
+   "paperId": "b9985866423d30364af4c0e1f7cfd246a34ae5ae",
+   "externalIds": {
+    "DOI": "10.33540/1624",
+    "CorpusId": 259397008
+   },
+   "url": "https://www.semanticscholar.org/paper/b9985866423d30364af4c0e1f7cfd246a34ae5ae",
+   "title": "Mangrove Restoration for Coastal Protection",
+   "venue": "",
+   "year": null,
+   "openAccessPdf": {
+    "url": "https://dspace.library.uu.nl/handle/1874/428945",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33540/1624?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33540/1624, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2032783230",
+     "name": "Celine E. J. van Bijsterveldt"
+    }
+   ],
+   "abstract": "The world’s population continues to grow, and at the same time, the oceans are rising, posing challenges for those living near coastal areas. Almost two-thirds of the global population resides within 50 kilometers of the coast. Mangrove forests offer solutions to mitigate the potential for flooding and provide natural coastal protection. Traditionally, mangrove restoration has been approached from the seaward edge through large-scale planting, with limited success. This dissertation describes how mangrove restoration can be approached from both the seaward and landward edges along degraded coastlines to create functional mangrove forests.\nChapter 2 examines how the natural factors drive mangrove dynamics along the landward and seaward edges of a mangrove greenbelt. This work reveals that landward mangrove expansion in old aquaculture ponds was slow because of long inundation times and soft sediment. In contrast, seaward mangrove expansion was associated with elevated mudflats and gentle slopes. Chapter 3 further investigates the effects of different foreshore morphologies on mangrove expansion. This work shows that cheniers, or elevated sand lenses atop muddy foreshores, significantly decrease waves that enter the mangrove fringe. A stable chenier can promote mangrove expansion, even in combination with a negligible small mudflat of 10 to 20 metres. Without a chenier, a 10 times wider mudflat was required to make mangrove expansion more likely than mangrove retreat.\nChapter 4 compares traditional mangrove planting with ecological restoration measures for mangrove restoration (EMR). This work shows that EMR measures were more effective at creating connected forest expansion in a landward direction. EMR in the landward direction could be achieved through smart sluice gate management in the right season. This work shows how mangrove cover in associated mangrove aquaculture ponds significantly increased over the project lifetime. Along the seaward edge, field experiments revealed that EMR with permeable brushwood dams aimed at expanding mangrove habitat could not sufficiently overcome subsidence rates, indicating that mangrove restoration in seaward direction under relative sea level rise will become increasingly difficult.\nChapter 5 investigates the potential threat of plastic waste to mangroves once they have been restored. It is revealed that aerial root suffocation by plastic caused immediate pneumatophore growth and leaf loss. Mangrove trees are relatively resilient to partial burial by plastic waste, but mangrove stands are likely to deteriorate if plastic continues to accumulate. Chapter 6 examines the long-term mangrove greenbelt resilience in the face of continued rapid relative sea level rise. The study quantified that while the villages closest to the subsidence epicenter sank with 8.2 cm per year, their fringing mangroves sank nearly twice as slow on average. Trees were able to adjust to the rapidly rising water level through pneumatophore extension and the creation of new root mats when sediment was locally available. However system wide sediment shortage ultimately leads to a retreating coastline, affecting both mangroves and people.\nIn conclusion, seaward mangrove restoration is challenging along coastlines that are subject to rapid relative sea level rise. Foreshore management aimed at creating artificial cheniers or wide mudflats might reduce lateral erosion and lead to limited seaward mangrove expansion in less rapidly subsiding areas. It is also important to consider the landward edge of a desired greenbelt when attempting mangrove restoration, as hectares of potential mangrove habitat still exist in the form of other land-uses. Effective socio-economic measures are required to support mangrove expansion; these may be challenging, but not impossible. Ultimately, interventions that halt regional and global stressors of mangrove establishment and survival will have the most significant impact and long-term effect on coastal protection."
+  },
+  {
+   "paperId": "1c07fc55b3229085844c26e6039edc549e9e06a9",
+   "externalIds": {
+    "DOI": "10.3389/fmars.2023.1165048",
+    "CorpusId": 258620002
+   },
+   "url": "https://www.semanticscholar.org/paper/1c07fc55b3229085844c26e6039edc549e9e06a9",
+   "title": "Coastal wave-energy attenuation by artificial wooden fences deployed for mangrove restoration: an experimental study",
+   "venue": "Frontiers in Marine Science",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fmars.2023.1165048/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fmars.2023.1165048?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fmars.2023.1165048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-05-12",
+   "authors": [
+    {
+     "authorId": "102355911",
+     "name": "A. Shu"
+    },
+    {
+     "authorId": "2124521022",
+     "name": "Jiapin Zhu"
+    },
+    {
+     "authorId": "2635275",
+     "name": "B. Cui"
+    },
+    {
+     "authorId": "2108571698",
+     "name": "Le Wang"
+    },
+    {
+     "authorId": "2327864524",
+     "name": "Ziru Zhang"
+    },
+    {
+     "authorId": "2164770721",
+     "name": "Chengling Pi"
+    }
+   ],
+   "abstract": "By offering natural protection along offshore wetlands, mangroves play a crucial role in providing great ecological and economic benefits to local communities. However, mangroves are currently facing an increasing threat of decline worldwide due to widespread human activities and climate change. Recently, eco-friendly wooden fences have been deployed along eroded coasts for mangrove restoration projects, and these fences have the capability to attenuate incoming waves and strengthen sediment deposition in new habitats for mangrove colonization and persistence. However, the design and performance of the fences used can differ substantially among different projects; therefore, it is necessary to study the major factors affecting the wave dissipation performance of these fences and find out a more effective structural design. Thus, we focus on two distinct types of fences with and without porous infill to study the function of infill porosity and frame density, and physical experiments of waves transmission through the fences were carried out in a wave flume, in which nine wooden fences with varied infill porosities (0.60–0.90) and frame densities (0.40 and 0.70) were predetermined to measure the wave transmission, reflection, and wave dissipation. In total, 180 experimental runs were conducted under 18 wave conditions with different wave steepness. The results showed that the fence with a lower infill porosity appears to increase wave transmission coefficient that comes at a cost of a higher reflection coefficient and less wave-energy dissipation inside the fence, and the fence with the highest porosity infills (90%) is nearly equivalent to the fence without any infills but a dense frame in terms of wave damping performance. Moreover, the wave transmission through both fences with and without infill can be remarkably affected by incoming wave steepness. The outcome of the research is not only indicating the importance of the appropriate infill porosity in attenuating incoming waves but also guiding the design of mangrove restoration project in offshore wetlands."
+  },
+  {
+   "paperId": "6db2e7d0cebd70807b76a03cb9f2a9d567a4dc59",
+   "externalIds": {
+    "DOI": "10.1016/j.jenvman.2026.129802",
+    "CorpusId": 288029124,
+    "PubMed": "42091026"
+   },
+   "url": "https://www.semanticscholar.org/paper/6db2e7d0cebd70807b76a03cb9f2a9d567a4dc59",
+   "title": "A pathway for adaptive practice of mangrove restoration and conservation in Vietnam.",
+   "venue": "Journal of Environmental Management",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jenvman.2026.129802",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2026.129802?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2026.129802, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-05-01",
+   "authors": [
+    {
+     "authorId": "102824135",
+     "name": "L. Ebeler"
+    },
+    {
+     "authorId": "153374032",
+     "name": "T. Balke"
+    },
+    {
+     "authorId": "144572458",
+     "name": "E. Laurie"
+    },
+    {
+     "authorId": "153174643",
+     "name": "H. Le"
+    },
+    {
+     "authorId": "144397788",
+     "name": "Tanh T. N. Nguyen"
+    },
+    {
+     "authorId": "39091687",
+     "name": "F. Renaud"
+    }
+   ],
+   "abstract": "Mangrove restoration and conservation are increasingly promoted as coastal Nature-based Solutions (NbS) for climate change adaptation, disaster risk reduction, biodiversity protection and livelihood resilience. Yet outcomes remain uneven and often limited in success, reflecting not only the design of ecological interventions but also broader socio-economic, institutional and environmental contexts, including the effects of structural coastal interventions that can alter system dynamics. However, existing NbS frameworks rarely translate empirical findings into place-based typologies that directly support implementation decisions. This study examines the enabling and constraining conditions shaping mangrove restoration and conservation in Vietnam's Mekong and Red River deltas. Drawing on interviews, focus groups and questionnaires with multiple stakeholders, we develop a typological framework identifying systemic enablers and barriers across ecological, institutional and socio-economic dimensions. Enablers cluster around relational governance, livelihood incentives, learning systems, ecological fit, institutional coherence and resilience framing. Barriers include governance rigidities, funding and capacity constraints, weak social inclusion, technical-ecological challenges, external environmental pressures and fragmented coordination. Rather than reducing outcomes to binary assessments of \"success\" or \"failure\", often measured through survival rates or area restored, the analysis frames them as emergent properties arising from interactions among ecological, socio-economic, technological, institutional and management processes. Building on international NbS standards, the typology is operationalised into a reflective-question checklist that translates the analytical framework into a practical decision-support tool. The checklist highlights flexible implementation pathways through three operational modes, allowing adaptation across Vietnam's provincial contexts. The findings indicate that long-term effectiveness depends on mutually reinforcing systems of governance legitimacy, ecological fit to local ecosystem dynamics and community engagement. By situating Vietnam's experience within broader NbS debates, the study highlights successes and persistent uncertainties demanding adaptive, interdisciplinary approaches to restoration and conservation."
+  },
+  {
+   "paperId": "516667323fbfb8fc5c5bebc2b8d9ce07cb4a2b27",
+   "externalIds": {
+    "DOI": "10.1088/1748-9326/aebbdd",
+    "CorpusId": 295626611
+   },
+   "url": "https://www.semanticscholar.org/paper/516667323fbfb8fc5c5bebc2b8d9ce07cb4a2b27",
+   "title": "Wave and slope thresholds for mangrove restoration and nature-based solution design",
+   "venue": "Environmental Research Letters",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://iopscience.iop.org/article/10.1088/1748-9326/aebbdd/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1748-9326/aebbdd?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1748-9326/aebbdd, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-11-06",
+   "authors": [
+    {
+     "authorId": "2157164964",
+     "name": "Jin Liu"
+    },
+    {
+     "authorId": "143825997",
+     "name": "A. Pomeroy"
+    },
+    {
+     "authorId": "14513413",
+     "name": "Brendan S. Lanham"
+    },
+    {
+     "authorId": "6764319",
+     "name": "S. Swearer"
+    },
+    {
+     "authorId": "5648793",
+     "name": "M. Ghisalberti"
+    },
+    {
+     "authorId": "2053999195",
+     "name": "R. Lowe"
+    },
+    {
+     "authorId": "2244403375",
+     "name": "Melanie J. Bishop"
+    },
+    {
+     "authorId": "117107294",
+     "name": "C. Jenkins"
+    },
+    {
+     "authorId": "49947993",
+     "name": "V. Cole"
+    },
+    {
+     "authorId": "2244335486",
+     "name": "Roma O. Bodycomb"
+    },
+    {
+     "authorId": "2384032681",
+     "name": "Sydney A. Crisanti"
+    },
+    {
+     "authorId": "2293234005",
+     "name": "Run-Jie Yuan"
+    },
+    {
+     "authorId": "2359927188",
+     "name": "Rui Li"
+    },
+    {
+     "authorId": "2144716402",
+     "name": "Zhao-Hui Wang"
+    },
+    {
+     "authorId": "2324673327",
+     "name": "Shuo Li"
+    },
+    {
+     "authorId": "40545532",
+     "name": "R. Morris"
+    }
+   ],
+   "abstract": "Globally, shorelines are experiencing widespread recession, promoting greater interest in nature-based solutions (NbSs) for coastal protection. Along tropical and sub-tropical coastlines, mangroves are among the habitat-forming species increasingly targeted for nature-based coastal protection. However, practical implementation requires tools that identify shorelines where hydrodynamic and geomorphic conditions are likely to support successful mangrove establishment and long-term persistence. This study quantifies first-order suitability envelopes (hereafter thresholds) for mangrove presence by linking wave height and bathymetric slope to observed mangrove distributions in subtropical wave-dominated barrier estuarine systems. Mangroves were most likely to be present where the 80th percentile significant wave height (Hs) was below 0.14 m and bathymetric slope was gentler than 0.01. Above these thresholds, the probability of mangrove occurrence decreased from approximately 23%–25% to 13%–15%, indicating strong but non-exclusive physical controls. Importantly, the probability did not decline to zero beyond these limits, suggesting that mangrove distribution is better described as a suitability threshold rather than a fixed ecological threshold. Spatial analysis indicated that approximately 26% of currently unvegetated shoreline areas in the study fell within the identified wave-slope thresholds, representing potentially suitable but unrealized mangrove habitat. These findings demonstrate that mangrove distribution is partly governed by hydrodynamic and geomorphic processes. While these potential restoration areas are identified based strictly on hydrodynamic and bathymetric thresholds, other critical drivers, such as tidal elevation, sediment supply, and salinity gradients, may further restrict suitable locations. The proposed methods of deriving thresholds in this study provide transferable, process-based criteria for identifying restoration opportunity areas and informing the design of NbSs for coastal resilience in estuarine environments."
+  },
+  {
+   "paperId": "5c7254ff67676a8b7b934fbde75029402cc1516c",
+   "externalIds": {
+    "DOI": "10.1007/s11273-015-9441-3",
+    "CorpusId": 255105253
+   },
+   "url": "https://www.semanticscholar.org/paper/5c7254ff67676a8b7b934fbde75029402cc1516c",
+   "title": "Dyke design, floodplain restoration and mangrove co-management as parts of an area coastal protection strategy for the mud coasts of the Mekong Delta, Vietnam",
+   "venue": "Wetlands Ecology and Management",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11273-015-9441-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11273-015-9441-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2015-07-11",
+   "authors": [
+    {
+     "authorId": "100643389",
+     "name": "T. Albers"
+    },
+    {
+     "authorId": "145565420",
+     "name": "K. Schmitt"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2dd69fcf0f46618feae348d14fe4a21231300c6d",
+   "externalIds": {
+    "DOI": "10.3389/fenvs.2025.1459034",
+    "CorpusId": 276633805
+   },
+   "url": "https://www.semanticscholar.org/paper/2dd69fcf0f46618feae348d14fe4a21231300c6d",
+   "title": "Integrated spatial cost-benefit analysis of large-scale mangrove conservation and restoration in Indonesia",
+   "venue": "Frontiers in Environmental Science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3389/fenvs.2025.1459034",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fenvs.2025.1459034?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fenvs.2025.1459034, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-25",
+   "authors": [
+    {
+     "authorId": "47593479",
+     "name": "B. V. Van Zanten"
+    },
+    {
+     "authorId": "49497499",
+     "name": "L. Brander"
+    },
+    {
+     "authorId": "2379124253",
+     "name": "Juan-Pablo Castaneda"
+    },
+    {
+     "authorId": "46977822",
+     "name": "D. Herrera"
+    },
+    {
+     "authorId": "10033599",
+     "name": "D. Kaczan"
+    },
+    {
+     "authorId": "2257336886",
+     "name": "Benjamin M. Brown"
+    },
+    {
+     "authorId": "2067915629",
+     "name": "Ian A. Smith"
+    },
+    {
+     "authorId": "3330057",
+     "name": "B. Jongman"
+    }
+   ],
+   "abstract": "Economic development in Indonesia has resulted in reduced poverty but has also been accompanied by significant pressure on natural capital, including its mangrove forests. In recognition of the role of mangroves in providing coastal protection and the delivery of other ecosystem services, the Government of Indonesia has engaged in several policy actions, among others the use of nature based solutions and has set a target to restore or enhance the protection of 600,000 ha of mangroves by 2025. The objective of the analysis presented in this paper is to inform the design and development of a national-scale mangrove conservation and restoration policy for Indonesia through a spatially explicit cost-benefit analysis. The analytical framework involves the integration of maps, data and models to estimate the costs and benefits of mangrove restoration at a high spatial resolution. On the benefit side, we make use of meta-analytic value transfer methods to value changes in fisheries, raw materials, coastal protection, carbon sequestration and avoided emissions, and mangrove tourism. On the cost side, we assess the opportunity and implementation costs using country specific data. Through a spatial overlay of cost and benefit estimates, cost-benefit indicators are calculated per district for investing in additional mangrove restoration and conservation. Using a discount rate of 5.5% and a 30-year project lifetime, the benefit-cost ratios of mangrove conservation and restoration are found to be >1 in most districts indicating positive social returns on investment. We find that mangrove conservation generally has higher benefit-cost ratios than restoration due to both the higher cost of restoration implementation and the additional time that it takes for restored mangroves to deliver ecosystem services. The spatially explicit framework to estimate district-level costs and benefits reveals tradeoffs with agriculture and aquaculture and enables the evaluation of investment scenarios and the spatial prioritisation of investments in mangrove conservation and restoration across Indonesia. Strategic allocation of conservation and restoration investments across districts can potentially significantly increase the economic viability of this nature-based solution."
+  },
+  {
+   "paperId": "af44506301448ac44457ed8eb5b64f507f0caecf",
+   "externalIds": {
+    "DOI": "10.52403/ijrr.20260461",
+    "CorpusId": 288034211
+   },
+   "url": "https://www.semanticscholar.org/paper/af44506301448ac44457ed8eb5b64f507f0caecf",
+   "title": "Ethics, Governance, and Adaptive Management of Mangrove Social-Ecological Systems: An Updated Integrative Review of Conservation, Restoration, Monitoring, and Coastal Livelihoods",
+   "venue": "International journal of research and review",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.52403/ijrr.20260461",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52403/ijrr.20260461?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52403/ijrr.20260461, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-04-28",
+   "authors": [
+    {
+     "authorId": "2121777468",
+     "name": "Titi Hawanda Metania Cono"
+    },
+    {
+     "authorId": "104619298",
+     "name": "Abdul Haris Panai"
+    },
+    {
+     "authorId": "2258155184",
+     "name": "Sukirman Rahim"
+    },
+    {
+     "authorId": "90501813",
+     "name": "M. S. Hamidun"
+    }
+   ],
+   "abstract": "Mangrove scholarship has shifted from documenting ecosystem loss to analyzing how conservation, restoration, law, livelihoods, and climate policy interact within social-ecological systems. Drawing only on the extracted studies supplied in the attached files, this review updates the prior literature base by synthesizing recent advances in governance, ethics, blue carbon, restoration ecology, and monitoring innovation. Across the reviewed evidence, mangroves are consistently shown to provide biodiversity support, fisheries habitat, coastal protection, carbon storage, and livelihood opportunities, yet outcomes remain uneven because ecological interventions are often separated from tenure security, local participation, hydrological diagnosis, and policy coordination [1, 2, 5, 7, 8, 9]. Recent studies further show that the effectiveness of legal protection and protected areas depends on implementation quality, cross-sectoral alignment, and fair engagement with local communities rather than on formal designation alone [5, 6, 11, 12, 51]. Restoration evidence indicates that success depends less on planting numbers than on matching species, hydrology, geomorphology, and social incentives to site conditions [15, 16, 22, 27, 35, 36, 37]. At the same time, remote sensing, UAV photogrammetry, machine learning, phenocams, and spatial prioritization frameworks are strengthening the evidence base for condition assessment and restoration targeting [27, 29, 30, 31, 32, 33, 42]. This review argues that future mangrove management must be ethically grounded, ecologically site-specific, and institutionally accountable. Durable mangrove futures will depend on integrating restoration quality, livelihood justice, blue carbon policy, and transparent monitoring within a single adaptive governance framework.\n\nKeywords: mangrove ethics; mangrove governance; blue carbon; restoration; remote sensing; community-based management; coastal resilience"
+  },
+  {
+   "paperId": "be709e8c2155e214b930a492bed83250e3baccb3",
+   "externalIds": {
+    "MAG": "3161923015",
+    "DOI": "10.1016/J.COASTALENG.2021.103922",
+    "CorpusId": 236365183
+   },
+   "url": "https://www.semanticscholar.org/paper/be709e8c2155e214b930a492bed83250e3baccb3",
+   "title": "Predicting the evolution of coastal protection service with mangrove forest age",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COASTALENG.2021.103922?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COASTALENG.2021.103922, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-05-18",
+   "authors": [
+    {
+     "authorId": "80238117",
+     "name": "M. Maza"
+    },
+    {
+     "authorId": "1901973",
+     "name": "J. Lara"
+    },
+    {
+     "authorId": "2908084",
+     "name": "Í. Losada"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "e27afe978947f39ea6e26008f77656afa421d80c",
+   "externalIds": {
+    "DOI": "10.3389/fenvs.2025.1641301",
+    "CorpusId": 281167891
+   },
+   "url": "https://www.semanticscholar.org/paper/e27afe978947f39ea6e26008f77656afa421d80c",
+   "title": "The Blue Carbon Explorer: a Google Earth Engine tool for mangrove restoration",
+   "venue": "Frontiers in Environmental Science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2025.1641301/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fenvs.2025.1641301?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fenvs.2025.1641301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-05",
+   "authors": [
+    {
+     "authorId": "2134680125",
+     "name": "V. P. McNulty"
+    },
+    {
+     "authorId": "38334931",
+     "name": "D. Perez"
+    },
+    {
+     "authorId": "2379405698",
+     "name": "Stefanie Simpson"
+    },
+    {
+     "authorId": "2379401334",
+     "name": "Jewel N. Beneby"
+    },
+    {
+     "authorId": "2154999221",
+     "name": "Andre Joseph-Witzig"
+    },
+    {
+     "authorId": "108312039",
+     "name": "Loúreene Jones"
+    },
+    {
+     "authorId": "51205617",
+     "name": "Lindsey S. Smart"
+    },
+    {
+     "authorId": "36618757",
+     "name": "R. Moyer"
+    },
+    {
+     "authorId": "2193567196",
+     "name": "Solomon E. Gibson"
+    },
+    {
+     "authorId": "1399852764",
+     "name": "Marcia Musgrove"
+    },
+    {
+     "authorId": "52064187",
+     "name": "Catherine Cattafesta"
+    },
+    {
+     "authorId": "34312972",
+     "name": "S. Schill"
+    }
+   ],
+   "abstract": "The Insular Caribbean is home to over half a million hectares of mangroves, blue carbon ecosystems that can store up to 5 times as much carbon as upland forests while also protecting coastal communities, supporting fisheries, and fostering marine biodiversity. The Blue Carbon Explorer, a Google Earth Engine app, was launched in 2023 to identify areas for mangrove protection and restoration. The tool allows users to visualize and inspect changes in the Normalized Difference Vegetation Index (NDVI) of mangrove habitats over various temporal and spatial scales using Norway’s International Climate & Forests Initiative PlanetScope mosaics (Planet-NICFI), Sentinel-2 images, and Landsat archive composites, as a proxy for habitat condition, indicative of active photosynthesis. Users can also explore lidar and radar-derived canopy height data, analyze changes in mangrove area and extent using the Mangrove Vegetation Index (MVI), calculate areas of significant change based on NDVI, and prioritize mangrove areas for restoration based on their likelihood to recover naturally. Previous mangrove restoration efforts in the Caribbean have largely been based on enhancing coastal protection benefits, as a Nature-based Solution (NbS) for climate adaptation. The Blue Carbon Explorer (BCE) provides governments and conservation practitioners with an easy-to-use decision support tool for tracking changes in mangroves and identifying priority areas for conservation and restoration aimed at ecological recovery and enhancing carbon storage. As proof of concept, we demonstrate the use of the BCE to track mangrove change in Grenada, Jamaica, the Dominican Republic, and The Bahamas. In The Bahamas, highly detailed canopy height data was used to develop a novel prioritization analysis that informed a mangrove restoration plan following Hurricane Dorian."
+  },
+  {
+   "paperId": "6450028592633af91c9bf2f967a863dcd0f7c8a7",
+   "externalIds": {
+    "DOI": "10.52403/ijrr.20260513",
+    "CorpusId": 288225221
+   },
+   "url": "https://www.semanticscholar.org/paper/6450028592633af91c9bf2f967a863dcd0f7c8a7",
+   "title": "Environmental Ethics, Blue Carbon, and Adaptive Governance in Mangrove Social-Ecological Systems: An Updated Integrative Review of Conservation, Restoration, Monitoring, and Coastal Livelihoods",
+   "venue": "International journal of research and review",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.52403/ijrr.20260513",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52403/ijrr.20260513?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52403/ijrr.20260513, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-05-04",
+   "authors": [
+    {
+     "authorId": "2402162695",
+     "name": "Rustam Anwar"
+    },
+    {
+     "authorId": "104619298",
+     "name": "Abdul Haris Panai"
+    },
+    {
+     "authorId": "2258155184",
+     "name": "Sukirman Rahim"
+    },
+    {
+     "authorId": "90501813",
+     "name": "M. S. Hamidun"
+    }
+   ],
+   "abstract": "Mangrove scholarship has moved beyond descriptive accounts of ecosystem loss toward a more demanding agenda that links ecological diagnosis, restoration design, legal protection, blue-carbon policy, monitoring innovation, and questions of justice. Building on the supplied review corpus and the updated records integrated into the user’s files, this article synthesizes how recent literature reframes mangrove systems as ethical social-ecological infrastructures rather than as purely biophysical habitats. The evidence consistently shows that mangroves support biodiversity, fisheries, shoreline stability, carbon storage, and locally embedded livelihoods, yet outcomes remain uneven because restoration, protection, and development decisions are often pursued without adequate attention to tenure, participation, hydrology, monitoring quality, or distributional fairness. Newer studies deepen this picture by showing that legal recognition is widespread but uneven in implementation; that blue-carbon framing can elevate mangroves in national policy while also producing tensions around compensation, restriction, and benefit allocation; and that restoration succeeds only when species choice, geomorphology, salinity, tidal connectivity, and local incentives are matched to place. Methodologically, the field is expanding from classical inventories and stakeholder surveys toward satellite time series, UAV photogrammetry, deep learning, phenocams, and geospatial prioritization, enabling more transparent and adaptive management. This review argues that top-tier mangrove scholarship should move beyond single-objective narratives and instead evaluate success through ecological fit, institutional legitimacy, livelihood justice, and accountable monitoring. It proposes an integrative framework in which environmental ethics is not an external add-on but the normative logic linking conservation, restoration, climate mitigation, and coastal resilience.\n\nKeywords: mangrove environmental ethics; mangrove governance; blue carbon justice; mangrove restoration; remote sensing for mangroves; community-based coastal management; coastal resilience"
+  },
+  {
+   "paperId": "d0f6ac3056b688211431f14e07f3050f6904c1c4",
+   "externalIds": {
+    "DOI": "10.1007/s11273-026-10117-z",
+    "CorpusId": 285806153
+   },
+   "url": "https://www.semanticscholar.org/paper/d0f6ac3056b688211431f14e07f3050f6904c1c4",
+   "title": "Quantifying decadal mangrove dynamics to inform national restoration targets: a geospatial framework for coastal resilience in Southeast Mauritius",
+   "venue": "Wetlands Ecology and Management",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11273-026-10117-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11273-026-10117-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-02-21",
+   "authors": [
+    {
+     "authorId": "103960462",
+     "name": "S. Ragoonaden"
+    },
+    {
+     "authorId": "2413129069",
+     "name": "Prakash Juddoo"
+    },
+    {
+     "authorId": "101373278",
+     "name": "Jay R. S. Doorga"
+    },
+    {
+     "authorId": "2575456039",
+     "name": "Rajeev Khoodeeram"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "8d3391ede7a5b13cc4528488c3c49529b17cce32",
+   "externalIds": {
+    "PubMedCentral": "9723184",
+    "DOI": "10.1038/s41598-022-24953-5",
+    "CorpusId": 254222596,
+    "PubMed": "36470951"
+   },
+   "url": "https://www.semanticscholar.org/paper/8d3391ede7a5b13cc4528488c3c49529b17cce32",
+   "title": "Assessment of suitable habitat of mangrove species for prioritizing restoration in coastal ecosystem of Sundarban Biosphere Reserve, India",
+   "venue": "Scientific Reports",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-022-24953-5.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9723184, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-12-01",
+   "authors": [
+    {
+     "authorId": "2139904057",
+     "name": "M. Sahana"
+    },
+    {
+     "authorId": "15080655",
+     "name": "G. Areendran"
+    },
+    {
+     "authorId": "2824204",
+     "name": "H. Sajjad"
+    }
+   ],
+   "abstract": "Mangrove forests being the abode of diverse fauna and flora are vital for healthy coastal ecosystems. These forests act as a carbon sequester and protection shield against floods, storms, and cyclones. The mangroves of the Sundarban Biosphere Reserve (SBR), being one of the most dynamic and productive ecosystems in the world are in constant degradation. Hence, habitat suitability assessment of mangrove species is of paramount significance for its restoration and ecological benefits. The study aims to assess and prioritize restoration targets for 18 true mangrove species using 10 machine-learning algorithm-based habitat suitability models in the SBR. We identified the degraded mangrove areas between 1975 and 2020 by using Landsat images and field verification. The reserve was divided into 5609 grids using 1 km gird size for understanding the nature of mangrove degradation and collection of species occurrence data. A total of 36 parameters covering physical, environmental, soil, water, bio-climatic and disturbance aspects were chosen for habitat suitability assessment. Niche overlay function and grid-based habitat suitability classes were used to identify the species-based restoration prioritize grids. Habitat suitability analysis revealed that nearly half of the grids are highly suitable for mangrove habitat in the Reserve. Restoration within highly suitable mangrove grids could be achieved in the areas covered with less than 75 percent mangroves and lesser anthropogenic disturbance. The study calls for devising effective management strategies for monitoring and conserving the degraded mangrove cover. Monitoring and effective management strategies can help in maintaining and conserving the degraded mangrove cover. The model proves to be useful for assessing site suitability for restoring mangroves. The other geographical regions interested in assessing habitat suitability and prioritizing the restoration of mangroves may find the methodology adopted in this study effective."
+  }
+ ]
+}

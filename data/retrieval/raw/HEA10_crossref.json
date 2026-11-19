@@ -1,0 +1,1402 @@
+{
+ "query": "Telemedicine effectiveness in rural health care",
+ "retrieved_at": "2026-11-18T18:11:20.933761+00:00",
+ "data": [
+  {
+   "DOI": "10.1089/15305620260353171",
+   "title": [
+    "Cost Effectiveness of Telemedicine for the Delivery of Outpatient Pulmonary Care to a Rural Population"
+   ],
+   "container-title": [
+    "Telemedicine Journal and e-Health"
+   ],
+   "publisher": "SAGE Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2002,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1089/15305620260353171",
+   "author": [
+    {
+     "given": "Zia",
+     "family": "Agha",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ralph M.",
+     "family": "Schapira",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Azmaira H.",
+     "family": "Maker",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:sec>\n                    <jats:title>Purpose:</jats:title>\n                    <jats:p>\n                      Through a qualitative systematic literature review (\n                      <jats:italic toggle=\"yes\">n</jats:italic>\n                       = 12), this article seeks to better understand how telemedicine is used globally to address mental health needs within rural areas. This article highlights common barriers and advantages to providing this type of care, arguing that telemedicine services may be quite impactful in addressing mental health care needs in rural areas, but barriers, risks, and other cultural considerations must be considered when designing and implementing telemental health intervention programs.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>A search was conducted using PubMed, Google Scholar, PsychINFO, Medline, and SocINDEX. The inclusion criteria: (1) studies published between the years 2012 and 2019; (2) studies that met rigorous methodological criteria or analyzed telemedicine programs rigorously with evidence-based approaches; and (3) studies that specifically address or discuss tested telemedicine intervention programs for mental health in rural areas. Twelve articles of the 143 reviewed met the inclusion criteria.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings:</jats:title>\n                    <jats:p>Themes included: (1) advantages (cost-effectiveness; accessibility, feasibility, and addressing disparities; privacy/confidentiality; integrative/collaborative care with primary care providers); (2) barriers and challenges (digital divides and infrastructure; ongoing care); (3) need for evaluation, evidence-based programs, and sustainability; and (4) across-cultural considerations.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>Future research examining the use of telemedicine in mental health intervention programs for rural areas should focus on various types of rural communities across the globe, diversifying the scope of this type of research and allowing for a better understanding of how to implement programs that address specific needs and barriers unique to rural communities across the globe.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1089/tmj.2020.0536",
+   "type": "journal-article",
+   "title": [
+    "The Role of Telemedicine in Rural Mental Health Care Around the Globe"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6397-1056",
+     "authenticated-orcid": false,
+     "given": "Lindsey Jo",
+     "family": "Hand",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Communication and Media, Kennesaw State University, Kennesaw, Georgia, USA."
+      },
+      {
+       "name": "Department of Communication, Georgia State University, Atlanta, Georgia, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1089/tmj.2020.0536"
+  },
+  {
+   "DOI": "10.1037/10489-011",
+   "title": [
+    "Bridging the rural-urban divide with telehealth and telemedicine."
+   ],
+   "container-title": [
+    "Rural behavioral health care: An interdisciplinary guide."
+   ],
+   "publisher": "American Psychological Association",
+   "issued": {
+    "date-parts": [
+     [
+      2003
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1037/10489-011",
+   "author": [
+    {
+     "given": "B. Hudnall",
+     "family": "Stamm",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:p>A systematic review of four relevant databases for articles about the use of telemedicine to expand access to neonatal and reproductive health in rural India was conducted. The objective of this review was to identify initiatives with evidence for potential public health benefits through large-scale implementation. Of 3,098 records from the initial search, 1,415 records were selected for further review after removing duplicates. Eight reports that met the eligibility and inclusion criteria were included in the final review. Selected studies included two types of interventions, direct telemedicine interventions with patients and indirect telemedicine interventions through frontline health care workers. Among studies involving direct telemedicine interventions, 22.4% of the collective health and knowledge outcomes (n = 49) showed statistically significant improvement in the intervention group, whereas 38.0% of the collective health and knowledge outcomes (n = 50) in the studies involving indirect telemedicine intervention showed statistically significant improvement. This systematic review suggested that the use of telemedicine interventions may have a statistically significant effect through educational impacts. There were certain limitations around the use of technology and training that may have undermined the effects of some of the outcomes. This systematic review did not receive any funding.</jats:p>",
+   "DOI": "10.1089/tmj.2021.0481",
+   "type": "journal-article",
+   "title": [
+    "A Systematic Review of the Effectiveness of Telemedicine in Reproductive and Neonatal Health in Rural and Low-Income Areas in India"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4249-1533",
+     "authenticated-orcid": false,
+     "given": "Siddhartha S.",
+     "family": "Peri",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Chemical and Biomolecular Engineering, University of Illinois at Urbana Champaign, Urbana, Illinois, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ann D.",
+     "family": "Bagchi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Nursing, Rutgers University, Newark, New Jersey, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alok",
+     "family": "Baveja",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Rutgers Business School, Rutgers University, Piscataway, New Jersey, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1089/tmj.2021.0481"
+  },
+  {
+   "DOI": "10.1089/tmj.2007.0054",
+   "title": [
+    "Telemedicine in a Rural Gero-Psychiatric Inpatient Unit: Comparison of Perception/Satisfaction to Onsite Psychiatric Care"
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "publisher": "SAGE Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1089/tmj.2007.0054",
+   "author": [
+    {
+     "given": "Dwight",
+     "family": "Holden",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "McCurtain Memorial Hospital, Idabel, Oklahoma."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Elizabeth",
+     "family": "Dew",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "McCurtain Memorial Hospital, Idabel, Oklahoma."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:sec>\n                    <jats:title>Background:</jats:title>\n                    <jats:p>Health care service is worsening in the remote villages due to less complete and further away of healthcare facilities and service and makes this service costs compared to those of urban people. Telemedicine service provides a potential solution regarding this particular issue. This study provides empirical evidence of the benefits package consists of hypothetical telemedicine service and evaluates the economic benefit of telemedicine service.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>The study measures marginal willingness-to-pay (MWTP) responses to policy change on a sample (n = 203) observations. A randomized conjoint experiment has conducted in 7 remote villages of 3 coastal districts of the southwest coastal region of Bangladesh. Each respondent ranks 3 options-two hypothetical alternatives and the telemedicine status quo scheme. The level of attributes-payment for telemedicine service, sample collection from home, medicine delivery to home, capitation through online technology, service delivery frequency, and blood pressure and glucose measure at home-are randomly and jointly assigned to the 2 alternatives.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results and Conclusions:</jats:title>\n                    <jats:p>Coastal villagers would like to pay more in option 4 and above. The lower payment for telemedicine service does not necessarily imply low demand for telemedicine, as the findings from MWTP illustrate potential demand for telemedicine in coastal villages in Bangladesh.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1177/2150132720950519",
+   "type": "journal-article",
+   "title": [
+    "Telemedicine: An Innovative Twist to Primary Health Care in Rural Bangladesh"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6181-1980",
+     "authenticated-orcid": false,
+     "given": "Md. Hafiz",
+     "family": "Iqbal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Government Edward College, Pabna, Bangladesh"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Primary Care &amp; Community Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/2150132720950519"
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:sec>\n                    <jats:title>Background:</jats:title>\n                    <jats:p>In developing countries, satellite-based technology can aid critical telemedicine applications and other digital health services in critically underserved areas. Affordable, high-speed broadband services can and should be accessible to all citizens. Remote locations are necessary to support various critical services, including education and training, telehealth applications, remote patient monitoring, and warning systems, particularly during disasters. Currently, however, these services are limited to urban centers, leaving rural areas without access to specialized health care services. This digital divide significantly impacts health care delivery, with only 48% of rural populations having internet access compared with 83% in urban areas.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>The goal of this study was to assess the suitability of Geostationary Earth Orbit (GEO), Medium Earth Orbit (MEO), and Low Earth Orbit (LEO) satellites for telemedicine and health care backhaul connectivity. To achieve this, the study conducted a comparative analysis of the systems, highlighting their respective advantages and limitations in terms of latency, coverage, and deployment costs. A systematic literature review and the assessment of real-world case studies and worldwide datasets complemented this analysis. Case studies from Starlink deployments in North America and Sub-Saharan Africa and Amazon’s Project Kuiper were evaluated.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>LEO satellites demonstrated significantly lower latency (20–50 ms) compared with MEO (100–300 ms) and GEO (600 ms) systems. Cost analysis revealed LEO services ($110–$500 per month) were substantially more affordable than MEO ($250–$1,000 per month) and GEO ($500–$2,000 per month) alternatives. Starlink deployments achieved download speeds of 50–250 Mbps with sub-50 ms latency, enabling real-time telemedicine consultations that met clinical standards. Rural telemedicine consultations increased by over 300% in areas with LEO satellite coverage.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>Our findings suggest that the LEO Starlink satellite technology would provide the most cost-effective backhaul broadband connectivity for real-time telemedicine services, given its low latency needs (20–50 ms), which enable high-quality video calls and remote diagnostics. We recommend using an LEO-based satellite network as the best approach to extend internet services to underserved remote communities due to its low latency and cost-effectiveness in aiding health care delivery in developing countries.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1177/15305627251409990",
+   "type": "journal-article",
+   "title": [
+    "Deployment of Low-Latency Satellite Technology for Telemedicine: A Backhaul Solution for Improving Rural Health Care Connectivity in Developing Countries"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-9856-9779",
+     "authenticated-orcid": false,
+     "given": "David",
+     "family": "Padi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "The Midwest University, St Louis, Missouri, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0004-9266-146X",
+     "authenticated-orcid": false,
+     "given": "Kevin",
+     "family": "Nyapom",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IU International University of Applied Sciences, Erfurt, Germany."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Patrick L.",
+     "family": "Scheid",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University Koblenz, Koblenz, Germany."
+      },
+      {
+       "name": "ProjOffz Telemicrobiology/Teleparasitology, Central Military Hospital Koblenz, Koblenz, Germany."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/15305627251409990"
+  },
+  {
+   "DOI": "10.1201/9781003579717-18",
+   "title": [
+    "Telemedicine for Children Presenting to Rural Emergency Departments or Intensive Care Units"
+   ],
+   "container-title": [
+    "Telepediatrics: Telemedicine and Child Health"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      10
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003579717-18",
+   "author": [
+    {
+     "given": "James P",
+     "family": "Marcin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marina",
+     "family": "Reznik",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Philip O",
+     "family": "Ozuah",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1089/tmj.2006.0048",
+   "title": [
+    "Teleophthalmology-Based Rural Eye Care in India"
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "publisher": "SAGE Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1089/tmj.2006.0048",
+   "author": [
+    {
+     "given": "V. Thulasi",
+     "family": "Bai",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Sathyabama University, Chennai, India."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "V.",
+     "family": "Murali",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Sankara Nethralaya TeleOphthalmology Project, Chennai, India."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "R.",
+     "family": "Kim",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Aravind Teleophthalmology Network, Madurai, India."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.K.",
+     "family": "Srivatsa",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Electronics Engineering, St. Joseph's College of Engineering, Chennai, India."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Rural health providers have looked to telemedicine as a technology to reduce costs. However, virtual access to physicians and specialists may alter patients' demand for face‐to‐face physician access. We develop a model of service demand under managed care, and apply the model to a telemedicine application in rural Alaska. Provider‐imposed delays and patient costs were highly significant predictors of patient contingent choices in a survey of ENT clinic patients. The results suggest that telemedicine increased estimated patient benefits by about $40 per visit, and reduced patients' loss from rationing of access to physicians by about 20%. Copyright © 2004 John Wiley &amp; Sons, Ltd.</jats:p>",
+   "DOI": "10.1002/hec.952",
+   "type": "journal-article",
+   "title": [
+    "Technology and managed care: patient benefits of telemedicine in a rural health care network"
+   ],
+   "author": [
+    {
+     "given": "Matthew",
+     "family": "Berman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrea",
+     "family": "Fenaughty",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Health Economics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2004,
+      10,
+      20
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1002/hec.952"
+  },
+  {
+   "DOI": "10.1108/ijhcqa.2008.06221fab.011",
+   "title": [
+    "Nigeria - Rural medical care gets boost as UCH commences telemedicine"
+   ],
+   "container-title": [
+    "International Journal of Health Care Quality Assurance"
+   ],
+   "publisher": "Emerald",
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      9,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1108/ijhcqa.2008.06221fab.011"
+  },
+  {
+   "DOI": "10.1089/153056203763317602",
+   "title": [
+    "Telemedicine Reduces Discrepancies in Rural Trauma Care"
+   ],
+   "container-title": [
+    "Telemedicine Journal and e-Health"
+   ],
+   "publisher": "SAGE Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2003,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1089/153056203763317602",
+   "author": [
+    {
+     "given": "Michael A.",
+     "family": "Ricci",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Michael",
+     "family": "Caputo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Judith",
+     "family": "Amour",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Frederick B.",
+     "family": "Rogers",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kenneth",
+     "family": "Sartorelli",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Peter W.",
+     "family": "Callas",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Patrick T.",
+     "family": "Malone",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:sec>\n                    <jats:title>Background:</jats:title>\n                    <jats:p>Rural mental health care access in the United States (U.S.) has remained limited because of psychiatrist shortages, geographic isolation, transportation barriers, and long appointment wait times. Sixty-five percent of nonmetropolitan counties lack a practicing psychiatrist, rising to 80% in the most remote noncore counties. The objective of this work was to evaluate whether telepsychiatry was associated with appointment access, health care utilization, appointment completion, and continuity of care among rural U.S. populations between 2015 and 2026.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>An integrative review was conducted using a structured Population, Intervention, Comparison, and Outcome question framework and Preferred Reporting Items for Systematic Reviews and Meta-Analyses-informed methodology. Searches were conducted from August 2025 through August 2026 in PubMed, Cumulative Index to Nursing and Allied Health Literature, Psychological Information Database, Scopus, and Web of Science, supplemented by Google Scholar and by governmental and professional sources. Sixty sources met eligibility criteria across empirical, review, policy, and economic evidence types.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>Telepsychiatry was associated with faster access to care. Median wait times were 43 days for telepsychiatry versus 67 days for in-person care, and emergency consultation turnaround was 84% shorter. Rural use of any mental health care rose from 9.35% in 2019 to 13.07% in 2023, though nonrural use rose faster. Appointment completion findings were mixed, with lower missed-appointment rates but higher rates in one rural behavioral health population. Telepsychiatry use was associated with a lower hospitalization rate in a Medicaid population.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>Telepsychiatry was associated with faster psychiatric access and with more favorable continuity outcomes in several rural and underserved populations, while appointment-completion findings were inconsistent across rural settings.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1177/15305627261486258",
+   "type": "journal-article",
+   "title": [
+    "Telepsychiatry and Rural Mental Health Access in U.S. Health Care: An Integrative Review of Appointment Access, Utilization, and Care Continuity"
+   ],
+   "author": [
+    {
+     "given": "Kaylee",
+     "family": "Canterbury",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Management and Healthcare Administration Division, Lewis College of Business, Marshall University, Huntington, West Virginia, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Taylor",
+     "family": "Carpenter",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Management and Healthcare Administration Division, Lewis College of Business, Marshall University, Huntington, West Virginia, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Anna",
+     "family": "Heineman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Management and Healthcare Administration Division, Lewis College of Business, Marshall University, Huntington, West Virginia, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nandini",
+     "family": "Manne",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Pharmacy Practice, Administration and Research, School of Pharmacy, Marshall University, Huntington, West Virginia, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7579-689X",
+     "authenticated-orcid": false,
+     "given": "Alberto",
+     "family": "Coustasse",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Management and Healthcare Administration Division, Lewis College of Business, Marshall University, Charleston, West Virginia, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/15305627261486258"
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:sec>\n                    <jats:title>Background:</jats:title>\n                    <jats:p>\n                      <jats:italic toggle=\"yes\">The COVID-19 pandemic significantly increased telehealth adoption. Rural communities experience challenges relating to telehealth, including a shortage of clinicians, low health literacy, mistrust of medicine, and limited technology access, yet rural perceptions have not been a subject of robust study. The setting of this study was a rural Midwestern family medicine clinic within an academic health system.</jats:italic>\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>\n                      <jats:italic toggle=\"yes\">Surveys were given to all patients of age 18 or older visiting the clinic over a one-week period. Those who expressed interest were contacted for a semistructured interview. Descriptive statistics and chi-square testing were used to analyze survey results for significant relationships, while interview transcripts were analyzed for themes.</jats:italic>\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>\n                      <jats:italic toggle=\"yes\">Of respondents, 27% indicated prior telehealth use and were more likely to prefer telehealth visits (</jats:italic>\n                      p\n                      <jats:italic toggle=\"yes\"> = 0.03). Perceptions of telehealth were sorted into themes, including scope of care, convenience, and technology. Telehealth was preferred for discussing test results or mental health. Barriers such as travel time and transportation access favored telehealth. Although more convenient, telehealth was found to be less effective for relationship building. The absence of physical examination during phone visits was a concern. Phone visits were more prevalent due to failure of video-based technology.</jats:italic>\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>\n                      <jats:italic toggle=\"yes\">Despite the potential to address these unique challenges in rural communities, telehealth acceptance is poor. Barriers such as accessibility of technology can be improved through governmental and health systemwide measures. Future work can help develop interventions that counter negative perceptions of telehealth while increasing interest and uptake in rural communities.</jats:italic>\n                    </jats:p>\n                  </jats:sec>",
+   "DOI": "10.1089/tmj.2023.0554",
+   "type": "journal-article",
+   "title": [
+    "Can You Hear Me Now? Patient Perceptions of Telehealth in a Rural Primary Care Population"
+   ],
+   "author": [
+    {
+     "given": "Nithin",
+     "family": "Charlly",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Family and Community Medicine, Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Matthew",
+     "family": "Swedlund",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Family Medicine and Community Health, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1089/tmj.2023.0554"
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:sec>\n                    <jats:title>Objective:</jats:title>\n                    <jats:p>\n                      <jats:italic toggle=\"yes\">Children living in rural communities have disparate access to preventive health care, shifting the burden of care delivery to emergency services. This study examined the association of school-based telemedicine (SBT) and avoidable emergency department (ED) utilization in rural historically underserved pediatric patients served through an SBT program.</jats:italic>\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>\n                      <jats:italic toggle=\"yes\">A retrospective analysis was conducted using electronic medical records and claims data from a large integrated health care system serving as the majority health care provider in the area. Participants included all pediatric patients served through an SBT program between 2017 and 2020 across three rural North Carolina counties. The study was a quasi-experimental before/after design comparing 12-month time periods before and after a patient's index virtual care visit. A subset of patients served 12 months before the start of the coronavirus 2019 (COVID-19) pandemic in 2020 was extracted and analyzed separately for a sensitivity analysis.</jats:italic>\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>\n                      <jats:italic toggle=\"yes\">The complete sample included 1,236 patients. The odds of having an avoidable ED visit were reduced by 33% between time periods, and the estimated count of visits was reduced by 26%. (Models were adjusted for race/ethnicity, gender, age, and insurance payer.) No significant differences in unavoidable ED utilization were observed. The sensitivity analysis showed similar trends.</jats:italic>\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>\n                      <jats:italic toggle=\"yes\">Results demonstrate that telemedicine can improve access to health care and may offset the burden of avoidable care through emergency health services. Policy changes and increased use during the COVID-19 pandemic have created an optimal environment for telemedicine expansion to reduce health care access disparities.</jats:italic>\n                    </jats:p>\n                  </jats:sec>",
+   "DOI": "10.1089/tmj.2023.0013",
+   "type": "journal-article",
+   "title": [
+    "School-Based Telemedicine and Reduced Avoidable Emergency Care Among Rural Pediatric Patients"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1133-6530",
+     "authenticated-orcid": false,
+     "given": "Carlene A.",
+     "family": "Mayfield",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Community Health, Atrium Health, Charlotte, North Carolina, USA."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jennifer S.",
+     "family": "Priem",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Center for Outcomes Research and Evaluation, Atrium Health, Charlotte, North Carolina, USA."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tiffany",
+     "family": "Effinger",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Information and Analytics Services, Population Health Analytics, Atrium Health, Charlotte, North Carolina, USA."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sam",
+     "family": "McGinnis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Levine Children's Pediatric Center, Atrium Health, Charlotte, North Carolina, USA."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Patricia",
+     "family": "Grinton",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Emerging Care, Atrium Health, Charlotte, North Carolina, USA."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1089/tmj.2023.0013"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p><jats:bold>Purpose:</jats:bold> Published advantages of and challenges with telemedicine led us to examine the scope of telemedicine adoption, implementation readiness, and barriers in a southern state where adoption has been historically low. We hypothesized that rural hospitals and primary care providers (RPCPs) differ on adoption, readiness, and implementation barriers. We examined the degree to which they differ on (a) telemedicine adoption or readiness; (b) telemedicine training needs; (c) current use of technology for patient care; and (d) environmental concerns in facilities for telemedicine.</jats:p><jats:p><jats:bold>Methods:</jats:bold> Paper surveys were sent to rural hospitals and RPCPs with response rates of 50% (n = 38) and 25.9% (n = 339), respectively. Three of 4 hospitals were represented. Chi‐square analyses were used to test for differences between rural hospitals and RPCPs.</jats:p><jats:p><jats:bold>Findings:</jats:bold> Compared to RPCPs, rural hospitals were significantly more likely to report higher rates of telemedicine knowledge (<jats:italic>P</jats:italic>= .0007); planning for or implementing telemedicine (<jats:italic>P</jats:italic> &lt; .0001); and reporting their disaster recovery data systems (<jats:italic>P</jats:italic>= .0002) and availability and location of outlets and connections (<jats:italic>P</jats:italic>= .03) as adequate for telemedicine. Rural hospitals were less likely to report having no telemedicine education needs (<jats:italic>P</jats:italic>= .04).</jats:p><jats:p><jats:bold>Conclusions:</jats:bold> Telemedicine continues to be a viable solution for bridging geographic access gaps to a variety of specialty care. Users need assistance in understanding legal implications, care coordination, billing for services, and disaster data recovery. In rural areas, hospitals appear to best embody characteristics of facilities that successfully implement telemedicine and have the greatest degree of readiness.</jats:p>",
+   "DOI": "10.1111/j.1748-0361.2011.00369.x",
+   "type": "journal-article",
+   "title": [
+    "Differences in Readiness Between Rural Hospitals and Primary Care Providers for Telemedicine Adoption and Implementation: Findings From a Statewide Telemedicine Survey"
+   ],
+   "author": [
+    {
+     "given": "Amy Brock",
+     "family": "Martin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Janice C.",
+     "family": "Probst",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kyle",
+     "family": "Shah",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhimin",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Garr",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The Journal of Rural Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      3,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/j.1748-0361.2011.00369.x"
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:p>\n                    <jats:bold>\n                      <jats:italic toggle=\"yes\">Objective:</jats:italic>\n                    </jats:bold>\n                    <jats:italic toggle=\"yes\">Although evidence-based treatments for post-traumatic stress disorder (PTSD) have been available for some time, many treatment-seeking trauma survivors are unable to access such services. This is especially the case in remote and rural areas where access to specialists is an exception rather than a rule. Advances in videoconferencing-based technologies are improving rural residents' access to specialized psychological services. However, at present, little is known about the viability and efficacy of providing psychological interventions via distal technologies to individuals who present at rural domestic violence and rape crisis centers. The present study attempts to partially address this void by evaluating, in the context of an uncontrolled trial, the effectiveness and feasibility of providing evidence-based, trauma-focused treatment via videoconferencing to rural survivors of domestic violence and sexual assault.</jats:italic>\n                    <jats:bold>\n                      <jats:italic toggle=\"yes\">Materials and Methods:</jats:italic>\n                    </jats:bold>\n                    <jats:italic toggle=\"yes\">Participants in the present study were clients referred to the Wyoming Trauma Telehealth Treatment Clinic (WTTTC) for psychological services via videoconferencing from distal domestic violence and rape crisis centers located in the state of Wyoming. Fifteen female victims of assaultive violence who received at least four sessions of trauma-focused treatment via videoconferencing-based technology at distal rape and domestic violence crisis centers were included in the present study. Participants completed measures of PTSD and depression symptom severity and client satisfaction.</jats:italic>\n                    <jats:bold>\n                      <jats:italic toggle=\"yes\">Results:</jats:italic>\n                    </jats:bold>\n                    <jats:italic toggle=\"yes\">Participants evidenced large reductions on measures of PTSD (</jats:italic>\n                    d\n                    <jats:italic toggle=\"yes\"> = 1.17) and depression (</jats:italic>\n                    d\n                    <jats:italic toggle=\"yes\"> = 1.24) symptom severity following treatment via videoconferencing. Additionally, participants reported a high degree of satisfaction with videoconferencing-administered services.</jats:italic>\n                    <jats:bold>\n                      <jats:italic toggle=\"yes\">Conclusions:</jats:italic>\n                    </jats:bold>\n                    <jats:italic toggle=\"yes\">Results provide evidence in support of videoconferencing as an effective means to provide psychological services to rural domestic violence and sexual assault populations. Clinical implications and avenues for future research are discussed.</jats:italic>\n                  </jats:p>",
+   "DOI": "10.1089/tmj.2010.0147",
+   "type": "journal-article",
+   "title": [
+    "The Effectiveness and Feasibility of Videoconferencing Technology to Provide Evidence-Based Treatment to Rural Domestic Violence and Sexual Assault Populations"
+   ],
+   "author": [
+    {
+     "given": "Christina",
+     "family": "Hassija",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Wyoming"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Matt J.",
+     "family": "Gray",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Wyoming"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      5
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1089/tmj.2010.0147"
+  },
+  {
+   "DOI": "10.1089/tmj.2009.0107",
+   "title": [
+    "The Impact of Telemedicine on Quality of Life in Rural Areas: The Extremadura Model of Specialized Care Delivery"
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "publisher": "SAGE Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1089/tmj.2009.0107",
+   "author": [
+    {
+     "given": "Olga",
+     "family": "Ferrer-Roca",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Pathology, Faculty of Medicine, University of La Laguna, Canary Islands, Spain."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Garcia-Nogales",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Cristina Infant Hospital Complex of Badajoz, Badajoz, Spain."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "C.",
+     "family": "Pelaez",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Cristina Infant Hospital Complex of Badajoz, Badajoz, Spain."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1089/tmj.2014.0175",
+   "title": [
+    "Effectiveness and Safety of Acute Care Telemedicine for Children with Regular and Special Healthcare Needs"
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "publisher": "SAGE Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1089/tmj.2014.0175",
+   "author": [
+    {
+     "given": "Kenneth M.",
+     "family": "McConnochie",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Division of General Pediatrics, Department of Pediatrics, University of Rochester Medical Center, Rochester, New York."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sarah D.",
+     "family": "Ronis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Division of General Pediatrics, Department of Pediatrics, University of Rochester Medical Center, Rochester, New York."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nancy E.",
+     "family": "Wood",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Emergency Medicine, University of Rochester Medical Center, Rochester, New York."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Phillip K.",
+     "family": "Ng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Information Services Division, University of Rochester Medical Center, Rochester, New York."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1089/tmj.2005.11.56",
+   "title": [
+    "Delivering Health Care in Rural Cambodia via Store-and-Forward Telemedicine: A Pilot Study"
+   ],
+   "container-title": [
+    "Telemedicine and e-Health"
+   ],
+   "publisher": "SAGE Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1089/tmj.2005.11.56",
+   "author": [
+    {
+     "given": "Heather A.",
+     "family": "Brandling-Bennett",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Harvard Medical School, Boston, Massachusetts."
+      },
+      {
+       "name": "Partners Telemedicine, Boston, Massachusetts."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Iris",
+     "family": "Kedar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Partners Telemedicine, Boston, Massachusetts."
+      },
+      {
+       "name": "Department of Medicine, Section of Dermatology, The University of Chicago Hospitals, Chicago, Illinois."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniel J.",
+     "family": "Pallin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Harvard Medical School, Boston, Massachusetts."
+      },
+      {
+       "name": "Brigham and Women's Hospital, Boston, Massachusetts."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gary",
+     "family": "Jacques",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Sihanouk Hospital Center of HOPE, Phnom Penh, Cambodia."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Graham J.",
+     "family": "Gumley",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Sihanouk Hospital Center of HOPE, Phnom Penh, Cambodia."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Joseph C.",
+     "family": "Kvedar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Harvard Medical School, Boston, Massachusetts."
+      },
+      {
+       "name": "Partners Telemedicine, Boston, Massachusetts."
+      },
+      {
+       "name": "Department of Dermatology, Massachusetts General Hospital, Boston, Massachusetts."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

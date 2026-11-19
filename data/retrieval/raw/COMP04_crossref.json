@@ -1,0 +1,895 @@
+{
+ "query": "Software defect prediction using machine learning",
+ "retrieved_at": "2026-11-18T17:44:38.965547+00:00",
+ "data": [
+  {
+   "DOI": "10.5220/0006886503540361",
+   "title": [
+    "Cross Project Software Defect Prediction using Extreme Learning Machine: An Ensemble based Study"
+   ],
+   "container-title": [
+    "Proceedings of the 13th International Conference on Software Technologies"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2018
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0006886503540361",
+   "author": [
+    {
+     "given": "Pravas Ranjan",
+     "family": "Bal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, Indian Institute of Technology Roorkee, Roorkee and India, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.33140/amlai.02.01.03",
+   "title": [
+    "Ensemble Machine Learning Model for Software Defect Prediction"
+   ],
+   "container-title": [
+    "Advances in Machine Learning &amp; Artificial Intelligence"
+   ],
+   "publisher": "Opast Group LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      3,
+      25
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.33140/amlai.02.01.03",
+   "abstract": "<jats:p>Software defect prediction is a significant activity in every software firm. It helps in producing quality software by reliable defect prediction, defect elimination, and prediction of modules that are susceptible to defect. Several researchers have proposed different software prediction approaches in the past. However, these conventional software defect predictions are prone to low classification accuracy, time-consuming, and tasking. This paper aims to develop a novel multi-model ensemble machine-learning for software defect prediction. The ensemble technique can reduce inconsistency among training and test datasets and eliminate bias in the training and testing phase of the model, thereby overcoming the downsides that have characterized the existing techniques used for the prediction of a software defect. To address these shortcomings, this paper proposes a new ensemble machine-learning model for software defect prediction using k Nearest Neighbour (kNN), Generalized Linear Model with Elastic Net Regularization (GLMNet), and Linear Discriminant Analysis (LDA) with Random Forest as base learner. Experiments were conducted using the proposed model on CM1, JM1, KC3, and PC3 datasets from the NASA PROMISE repository using the RStudio simulation tool. The ensemble technique achieved 87.69% for CM1 dataset, 81.11% for JM1 dataset, 90.70% for PC3 dataset, and 94.74% for KC3 dataset. The performance of the proposed system was compared with that of other existing techniques in literature in terms of AUC. The ensemble technique achieved 87%, which is better than the other seven state-of-the-art techniques under consideration. On average, the proposed model achieved an overall prediction accuracy of 88.56% for all datasets used for experiments. The results demonstrated that the ensemble model succeeded in effectively predicting the defects in PROMISE datasets that are notorious for their noisy features and high dimensions. This shows that ensemble machine learning is promising and the future of software defect prediction.</jats:p>"
+  },
+  {
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "abstract": "<jats:p>Detecting defects in software at the bleeding edge of a software\ndevelopment life cycle is vital. Identifying defects before the\ndeployment of software aids in delivering high-quality products, and\nreduces development costs. Machine learning techniques are deployed in\nthe earlier stages of software development to improve software\nperformance quality and decrease software maintenance costs. This study\nfocuses on reviewing some papers published in software defect prediction\nusing Machine learning techniques from 2020 to the current time to\ndetermine the predominance of machine learning methodologies adoption in\nsoftware defect prediction. Google Scholar was used to source research\npapers for this study, and data was gathered from the publications. The\nprocess involves reviewing the selected papers, writing a concise\nsynopsis of the papers, connecting and involving them where appropriate,\nreviewing existing methodology, and finally summarizing the findings.\nThe result shows recent activities and trends in defect prediction\nresearch. This investigation will aid researchers in understanding the\nmost recent and cutting-edge trends in software defect prediction\nresearch using machine learning techniques.</jats:p>",
+   "DOI": "10.36227/techrxiv.23648907.v1",
+   "type": "posted-content",
+   "title": [
+    "SOFTWARE DEFECT PREDICTION USING MACHINE LEARNING APPROACH : A Contemporary review"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4699-3015",
+     "authenticated-orcid": false,
+     "given": "Abubakar Sadiq",
+     "family": "Shittu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4885-0787",
+     "authenticated-orcid": false,
+     "given": "Baseerat",
+     "family": "Abdulsalami",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      17
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.36227/techrxiv.23648907.v1"
+  },
+  {
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "abstract": "<jats:p>&lt;p&gt;Detecting defects in software at the bleeding edge of a software development life cycle is vital. Identifying defects before the deployment of software aids in delivering high-quality products, and reduces development costs. Machine learning techniques are deployed in the earlier stages of software development to improve software performance quality and decrease software maintenance costs. This study focuses on reviewing some papers published in software defect prediction using Machine learning techniques from 2020 to the current time to determine the predominance of machine learning methodologies adoption in software defect prediction. Google Scholar was used to source research papers for this study, and data was gathered from the publications. The process involves reviewing the selected papers, writing a concise synopsis of the papers, connecting and involving them where appropriate, reviewing existing methodology, and finally summarizing the findings. The result shows recent activities and trends in defect prediction research. This investigation will aid researchers in understanding the most recent and cutting-edge trends in software defect prediction research using machine learning techniques.&lt;/p&gt;</jats:p>",
+   "DOI": "10.36227/techrxiv.23648907",
+   "type": "posted-content",
+   "title": [
+    "SOFTWARE DEFECT PREDICTION USING MACHINE LEARNING APPROACH : A Contemporary review"
+   ],
+   "author": [
+    {
+     "given": "Abubakar Sadiq",
+     "family": "Shittu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4885-0787",
+     "authenticated-orcid": false,
+     "given": "Baseerat",
+     "family": "Abdulsalami",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      17
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.36227/techrxiv.23648907"
+  },
+  {
+   "DOI": "10.5220/0013874500004919",
+   "title": [
+    "AI-Driven Software Defect Prediction Using Machine Learning"
+   ],
+   "container-title": [
+    "Proceedings of the 1st International Conference on Research and Development in Information, Communication, and Computing Technologies"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0013874500004919",
+   "author": [
+    {
+     "given": "J.",
+     "family": "Kumar",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (AI‑ML), Santhiram Engineering College (Autonomous), Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "K.",
+     "family": "Ruthesha",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science & Design, Santhiram Engineering College (Autonomous), Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "D.",
+     "family": "Akshitha",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science & Design, Santhiram Engineering College (Autonomous), Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "G.",
+     "family": "Himavarshini",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science & Design, Santhiram Engineering College (Autonomous), Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "U.",
+     "family": "Manasa",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science & Design, Santhiram Engineering College (Autonomous), Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-032-01336-1_4",
+   "title": [
+    "Class Imbalanced Learning-Based Defect Prediction"
+   ],
+   "container-title": [
+    "Machine-Learning-Assisted Software Defect Prediction"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-032-01336-1_4",
+   "author": [
+    {
+     "given": "Zhou",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-032-01336-1_7",
+   "title": [
+    "Effort-Aware Defect Prediction"
+   ],
+   "container-title": [
+    "Machine-Learning-Assisted Software Defect Prediction"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-032-01336-1_7",
+   "author": [
+    {
+     "given": "Zhou",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5220/0013906700004919",
+   "title": [
+    "Improving Software Defect Prediction Accuracy Using Machine Learning"
+   ],
+   "container-title": [
+    "Proceedings of the 1st International Conference on Research and Development in Information, Communication, and Computing Technologies"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0013906700004919",
+   "author": [
+    {
+     "given": "J.",
+     "family": "Kumar",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (AI‑ML), Santhiram Engineering College, Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shaik",
+     "family": "Akram",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (AI‑ML), Santhiram Engineering College, Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mulinti",
+     "family": "Abhinay",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (AI‑ML), Santhiram Engineering College, Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Desam",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (AI‑ML), Santhiram Engineering College, Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shaik",
+     "family": "Hussain",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (AI‑ML), Santhiram Engineering College, Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ponnaganti",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (AI‑ML), Santhiram Engineering College, Nandyal, Andhra Pradesh, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.18178/ijml.2024.14.2.1159",
+   "title": [
+    "Software Defect Prediction Based on Tree-structured Parzen Estimator Using Machine Learning Classifiers"
+   ],
+   "container-title": [
+    "International Journal of Machine Learning"
+   ],
+   "publisher": "EJournal Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.18178/ijml.2024.14.2.1159"
+  },
+  {
+   "DOI": "10.1007/978-3-032-01336-1_5",
+   "title": [
+    "Cross-Version Defect Prediction"
+   ],
+   "container-title": [
+    "Machine-Learning-Assisted Software Defect Prediction"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-032-01336-1_5",
+   "author": [
+    {
+     "given": "Zhou",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-032-01336-1_6",
+   "title": [
+    "Cross-Project Defect Prediction"
+   ],
+   "container-title": [
+    "Machine-Learning-Assisted Software Defect Prediction"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-032-01336-1_6",
+   "author": [
+    {
+     "given": "Zhou",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-032-01336-1_2",
+   "title": [
+    "Categories of Defect Prediction"
+   ],
+   "container-title": [
+    "Machine-Learning-Assisted Software Defect Prediction"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      20
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-032-01336-1_2",
+   "author": [
+    {
+     "given": "Zhou",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-032-01336-1_3",
+   "title": [
+    "Feature Engineering-Based Defect Prediction"
+   ],
+   "container-title": [
+    "Machine-Learning-Assisted Software Defect Prediction"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-032-01336-1_3",
+   "author": [
+    {
+     "given": "Zhou",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:p>\n                  Software Defect Prediction (SDP), which finds faulty modules before they\nare deployed, is essential for increasing software quality and lowering\nmaintenance costs. Traditional defect Prediction models frequently have\npoor accuracy due to imbalanced datasets, irrelevant features, and\nsuboptimal classification techniques. To overcome such challenges, this\nwork introduced a novel -based approach using the Random Forest\nclassifier\n                  <jats:bold>,</jats:bold>\n                  enhanced with feature selection, data balancing\ntechniques, and hyper parameter optimization\n                  <jats:bold>.</jats:bold>\n                  The proposed\nmodel was evaluated using publicly available COMMIT GURU AND GITHUB and\nDefects4J datasets, applying Synthetic Minority Over-sampling Technique\n(SMOTE) to handle class imbalance. Our method performs better than\nconventional models like Decision Trees, Support Vector Machines (SVM),\nand Neural Networks, according to experimental results, achieving an\naccuracy of 92% with high precision, recall, as well as AUC-ROC scores.\nThe results demonstrate the efficacy of ensemble learning techniques in\ndefect prediction and suggest that integrating with intelligent data\npreprocessing significantly enhances prediction accuracy\n                  <jats:bold>.</jats:bold>\n                </jats:p>",
+   "DOI": "10.22541/au.175369914.48931810/v1",
+   "type": "posted-content",
+   "title": [
+    "ENHANCING SOFTWARE DEFECT PREDICTION ACCURACY USING AN EFFICIENT AND NOVEL MACHINE LEARNING APPROACH"
+   ],
+   "author": [
+    {
+     "given": "N.",
+     "family": "Deepashree",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Dayananda Sagar University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M. K.",
+     "family": "Banga",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dayananda Sagar University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      28
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.22541/au.175369914.48931810/v1"
+  },
+  {
+   "DOI": "10.1007/978-3-032-01336-1",
+   "title": [
+    "Machine-Learning-Assisted Software Defect Prediction"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1007/978-3-032-01336-1",
+   "author": [
+    {
+     "given": "Zhou",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n                <p>The full text of this preprint has been withdrawn by the authors in order to comply with an institutional policy on preprints. Therefore, the authors do not wish this work to be cited as a reference.</p>",
+   "DOI": "10.21203/rs.3.rs-4265974/v2",
+   "type": "posted-content",
+   "title": [
+    "WITHDRAWN: Machine Learning Based Approach for Software Defect Prediction using Hyperparameter"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0006-0705-3588",
+     "authenticated-orcid": false,
+     "given": "Digvijay Narayan",
+     "family": "Sharma",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "National Institute of Technology Jamshedpur"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dilip Kumar",
+     "family": "Yadav",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Institute of Technology Jamshedpur"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      16
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-4265974/v2"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n                <p>Software Defect Prediction (SDP) is an assessment done for software or IT (Information Technology) solution. it enables stakeholders to judge its quality, functionality, scalability, reliability, information security and availability during SDLC of software. With digitalization of business and processes, its scope has multiplied since business look for reliable and good quality solutions for important application. Since most of these activities are done manually, it has been an area of research in software engineering. Researchers have been trying to predict defects from code metrics taken from PROMISE software repository dataset like CM1, JM1 and KC1. In this paper we have developed Model based on hyperparameter tuning for well accepted Machine Learning classifier to predict Software defects and found it better compared to many earlier proposed Model.</p>",
+   "DOI": "10.21203/rs.3.rs-4265974/v1",
+   "type": "posted-content",
+   "title": [
+    "WITHDRAWN: Machine Learning Based Approach for Software Defect Prediction using Hyperparameter"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0006-0705-3588",
+     "authenticated-orcid": false,
+     "given": "Digvijay Narayan",
+     "family": "Sharma",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "National Institute of Technology Jamshedpur"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dilip Kumar",
+     "family": "Yadav",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Institute of Technology Jamshedpur"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      7,
+      22
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-4265974/v1"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n                <p>Risk-based software testing seeks to allocate CI test-execution effort proportional to estimated defect likelihood, and a widely-adopted substrate for that estimate is a machine-learning classifier trained on repository process metrics. We show that the standard formulation harbours a fatal label-feature circularity: when the file-level label is defined as defect_prone = 1 iff bug_fix_commits &gt;= 1 and bug_fix_commits is simultaneously used as an input feature, the classifier learns to read its own label. On our corpus of 296,457 file instances drawn from five mature open-source repositories (Elasticsearch, Spring Boot, Hadoop, Kafka, Express), an honesty test confirms the failure mode: ranking files by bug_fix_commits alone gives 55.52% top-10% coverage and perfect AUC, inflating naive ML numbers by roughly ten percentage points.We propose a clean protocol that (i) drops the two keyword-derived leaky features (bug_fix_commits, commit_frequency), (ii) introduces non-trivial single-feature baselines (rank-by-commit_count, rank-by-code_churn), and (iii) evaluates on a source-only held-out test fold. Under this protocol, Random Forest on the five remaining process metrics achieves 46.47% top-10% coverage (AUC 0.9143, Brier 0.0772), Gradient Boosting achieves 45.29% (AUC 0.9036, Brier 0.0822), and the strongest single-feature baseline (rank by commit_count) achieves 43.17%.Aggregating over 10 stratified splits, the ML lift over the strongest baseline is +3.64 percentage points (95% CI [+3.32, +3.95], paired t-test p = 8.5e-10, Random Forest wins 10/10 seeds) — real, modest, statistically robust, and publishable. On single-row inference latency, Gradient Boosting is Pareto-superior for deployment: it runs at 104 microseconds per row versus 12 ms for Random Forest (115x faster), with comparable calibration.We further disclose an honest negative finding: even the clean feature set does not generalize temporally (time-aware AUC 0.5246, top-10% coverage 12.44%); the paper's random-split numbers should therefore be read as defect-distribution characterisation, not forward prediction.</p>",
+   "DOI": "10.21203/rs.3.rs-10582573/v1",
+   "type": "posted-content",
+   "title": [
+    "Risk Based Software Test Prioritization Using Machine Learning Defect Prediction on Five Open Source Repositories"
+   ],
+   "author": [
+    {
+     "given": "Vijay Prasad",
+     "family": "Javvadi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Independent Researcher"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      17
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-10582573/v1"
+  },
+  {
+   "DOI": "10.1007/978-3-032-01336-1_1",
+   "title": [
+    "Introduction"
+   ],
+   "container-title": [
+    "Machine-Learning-Assisted Software Defect Prediction"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      20
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-032-01336-1_1",
+   "author": [
+    {
+     "given": "Zhou",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.35940/ijrte.b1178.0982s1119",
+   "title": [
+    "Software Defect Prediction Using Machine Learning"
+   ],
+   "container-title": [
+    "International Journal of Recent Technology and Engineering"
+   ],
+   "publisher": "Blue Eyes Intelligence Engineering and Sciences Engineering and Sciences Publication - BEIESP",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      11,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.35940/ijrte.b1178.0982s1119",
+   "abstract": "<jats:p>Software defect prediction analysis is an important problem in the software engineering community. Software defect prediction can directly affect the quality and has achieved significant popularity in the last few years. This software prediction analysis helps in delivering the best development and makes the maintenance of software more reliable. This is because predicting the software faults in the earlier phase improves the software quality,efficiency, reliability and the overall cost in SDLC. Developing and improving the software defect prediction model is a challenging task and many techniques are introducing for better performance. Supervised ML algorithms have been used to predict future software faults based on historical data[1]. These classifiers are Naïve Bayes (NB), Support Vector Machine(SVM) and Artificial neural network(ANN). The evaluation process showed that ML algorithms can be used effectively with a high accuracy rate. The comparison is made with other machine learning algorithms to finds the algorithms which gives more accuracy. And the results show that machine learning algorithms gives the best performance. The existence of software defects affects dramatically on software reliability, quality, and maintenance cost. Achieving reliable software also is hard work, even the software applied carefully because most time there is hidden errors. In addition, developing a software defect prediction model which could predict the faulty modules in the early phase is a real challenge in software engineering. Software defect prediction analysis is an essential activity in software development. This is because predicting the bugs prior to software deployment achieves user satisfaction, and helps in increasing the overall performance of the software. Moreover, predicting software defects early improves software adaptation to different environments and increases resource utilization.</jats:p>"
+  }
+ ]
+}

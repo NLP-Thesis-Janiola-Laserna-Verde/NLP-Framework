@@ -1,0 +1,166 @@
+{
+ "query": "Energy-efficient edge computing for Internet of Things",
+ "retrieved_at": "2026-11-18T17:45:35.992367+00:00",
+ "data": [
+  {
+   "url": "https://www.academia.edu/178887907/A_Layered_Framework_for_Energy_Efficient_Edge_Computing_in_Sustainable_IoT_Systems",
+   "title": "A Layered Framework for Energy-Efficient Edge Computing in Sustainable IoT Systems",
+   "content": "contexts, and real-time disaster recovery and response efforts. Focusing on edge computing with a (large) number of IoT devices, we propose a dynamic policy-based computing approach to improve the overall performance of Edge-of-Things (EoT). We evaluated the energy consumption of heterogeneous edge-only resources for given policies to demonstrate their impact on an EoT computing infrastructure. Finally, we discussed open issues and future research directions in green EoT computing. [...] on the Lyapunov optimization technology. Finally, theoretical analysis demonstrates the effectiveness of the proposed algorithm, and the numerical result of simulation shows that the average performance of the proposed algorithm is an order of magnitude better than state-of-the-art algorithms. Index Terms-Mobile edge computing, internet of things (IoT), partial computation offloading, energy harvesting, resource allocation, lyapunov optimization. I. INTRODUCTION I NTERNET of Things (IoT) [...] of IoT device architecture at the moment, focusing on elements that lead to excessive energy usage. We examine cutting-edge techniques via an extensive examination, such as advanced computing paradigms like edge and fog computing, low-power hardware design, and energy-efficient communication protocols. The study also looks at case studies and tests conducted in the real world, providing concrete proof of the efficacy of various energy-saving strategies. Even with significant progress, issues",
+   "score": 0.7977145,
+   "raw_content": null,
+   "id": "ebfcc5-00"
+  },
+  {
+   "url": "https://www.ijfmr.com/papers/2025/3/43933.pdf",
+   "title": "A Layered Framework for Energy-Efficient Edge Computing in ...",
+   "content": "a sequence of intelligent, adaptive, and predictive steps designed specifically for edge-enabled IoT environments. Step 1: Real-Time Sensing & Device Profiling • TinyML agents are implemented on IoT devices to monitor energy-related information such as battery state, CPU, memory, and network. • These agents provide light continuous profiling with minimal resource overhead. • Real-time state information is accessed as the foundation for downstream energy-efficient choices. efficienc y in MEC [...] ain consens us protocol for IoT by relying on mining operatio ns at edge nodes and choosin g one miner. Adjusted Proof- of-Work via miner selection based on device characteri stics (Bandwid th, CPU, RAM); accommo dates brute force and Boyer– Moore string search to solve miner completio n. Attaine d ~21% energy savings and ~24% memor y gain; single miner load reducti on approac h; great IoT-Edge applicat ion potenti al. Less efficient if edge devices have the same specifications; initial rollout [...] n, Jukka Riekki Enhance power efficienc y of IoT through the extensio n of edge computi ng with mobile agents to facilitate decentra lized, adaptive task executio n on endpoint devices. Mobile multi-agent system (MAS) with mobile agents for dynamic task relocation ; RESTful web service-based mobile agent framewor k for interoper ability. Saves as much as 60% energy; facilitat es autono mous, adaptiv e operati on; promot es decentr alized task executi on that dispens es with cloud and Hardware",
+   "score": 0.79645085,
+   "raw_content": null,
+   "id": "8376bd-01"
+  },
+  {
+   "url": "https://www.synaptics.com/company/blog/iot-edge-computing-ml",
+   "title": "Edge Computing in IoT Devices: Everything You Need to Know | Synaptics",
+   "content": "Lowers energy costs: When data is processed and filtered locally, it reduces the need for constant, high-volume transmission to the cloud. It also decreases reliance on a centralized IT infrastructure and costly cloud service charges. The result is lower bandwidth consumption and less power usage across the network. Edge devices also optimize power through such techniques as sleep modes, adaptive processing and task prioritization, which are beneficial for battery-powered IoT sensors in remote [...] Edge-enabled smart meters and sensors placed throughout the grid collect real-time data, such as energy consumption, load balancing and equipment status. The data is processed locally, enabling improved decision-making for efficient energy distribution, fault detection and reduced utility costs.\n\n### 4. Connected and Autonomous Vehicles [...] IoT-ready wireless connectivity solutions are also improving the performance and responsiveness of edge IoT devices with sensors. In smart homes, motion sensors adjust lighting dynamically, enhancing comfort and energy efficiency. This boosts applications that require timely data processing and control, including security systems and home automation.\n\n### 2. Cameras",
+   "score": 0.77932185,
+   "raw_content": null,
+   "id": "7b6823-02"
+  },
+  {
+   "url": "https://research.kuleuven.be/portal/en/project/3E220870",
+   "title": "Research portal | Energy Efficient Edge Computing",
+   "content": "To answer these questions, this thesis makes three main contributions. First, it presents a hardware/software platform for low-power multimedia sensing and edge intelligence over cellular networks that is built on a Linux-capable System-on-Chip (SoC) with an integrated LTE-M/NB-IoT modem and a middleware layer that manages heterogeneous sensors and actuators, handles uplink/downlink networking and synchronisation, and controls low-power sleep modes. Second, building on the platform, it proposes [...] The Internet of Things (IoT) is expected to reach up to 41 billion connected devices by 2030, driving a shift from centralised cloud computing toward edge computing, in which sensing, processing, and decision-making are performed closer to the data source. This shift reduces latency, bandwidth usage, and dependence on continuous connectivity, but it also exposes IoT devices, which are often battery-powered and deployed in remote, hard-to-maintain environments, where they are subject to severe [...] Together, these contributions show how low-power middleware design, communication-efficient data pipelines, and sustainable hardware/software co-design can enable practical, long-lived, and intelligent IoT deployments in resource-constrained and remote environments, validated through real-world industrial and environmental field studies.\n\n### PhD researcher\n\naccount\\_circle\n\nLi Yinze person\n\nDoctoral Programme in Engineering Science (Leuven) - Faculty of Engineering Science\n\n##### Defence date",
+   "score": 0.72990495,
+   "raw_content": null,
+   "id": "a07fc6-03"
+  },
+  {
+   "url": "https://meta.reapress.com/journal/article/view/47/57",
+   "title": "Energy-Efficient Communication in Edge Computing IoT Networks",
+   "content": "This paper presents a novel framework to enhance energy efficiency in edge computing IoT networks by integrating adaptive routing algorithms and data.",
+   "score": 0.72026986,
+   "raw_content": null,
+   "id": "804a1c-04"
+  },
+  {
+   "url": "https://blog.st.com/using-edge-computing-to-save-energy-and-enhance-sustainability",
+   "title": "Using Edge Computing to Save Energy and Enhance Sustainability - The ST Blog",
+   "content": "the envelope on intelligent functionality and IoT network scalability. Combined, they reduce system-level power and bandwidth requirements, while increasing further the computational efficiency of new-generation microcontrollers for edge devices. [...] ST is already strongly involved in the deployment of AI at the edge in applications across the automotive, smart industry, and IoT. STM32 family of 32-bit Arm Cortex microcontrollers includes low-power versions that are well suited for edge-based operation. To make it straightforward for those less experienced in AI, NANOEDGE AI Studio integrates machine learning libraries and automatically finds and configures the best fit for any specific use case. For those working directly with AI models, [...] The Internet of Things (IoT) and Artificial Intelligence (AI) are transforming industries and society. They make it possible to automate routine activities while unlocking previously unattainable insights and functionality. Edge computing – processing data where it is created, rather than remotely in a data center – offers a greener, smarter solution.\n\n### Moving AI to the edge",
+   "score": 0.67179364,
+   "raw_content": null,
+   "id": "bba8b1-05"
+  },
+  {
+   "url": "https://eureka.patsnap.com/report-how-to-design-edge-intelligence-for-energy-efficient-iot-systems",
+   "title": "How to Design Edge Intelligence for Energy-Efficient IoT Systems",
+   "content": "Maximize computational value per energy unit with edge intelligence optimization strategies for algorithms, hardware, and power management.",
+   "score": 0.6526843,
+   "raw_content": null,
+   "id": "02c6bb-06"
+  },
+  {
+   "url": "https://www.lenovo.com/us/en/glossary/edge-computing-in-internet-of-things",
+   "title": "What is Edge Computing in the Internet of Things (IoT) | Lenovo US",
+   "content": "This approach enhances both security and compliance for IoT systems while ensuring operational continuity.\n\n## What hardware is needed for edge IoT?\n\nEdge IoT requires specialized hardware that can process data locally while remaining energy efficient. Devices need sufficient computing power, storage, and connectivity to handle workloads independently.\n\n3 Core components for edge IoT: [...] Processing data locally reduces the amount of information sent to central servers. Only aggregated or relevant data is transmitted, conserving bandwidth. This is especially beneficial for large-scale IoT networks with high-frequency data streams, minimizing costs and improving network efficiency.\n\n## What challenges exist in deploying edge computing for IoT?\n\nImplementing edge IoT requires robust planning, infrastructure, and ongoing management. [...] Edge computing in IoT refers to processing data near the source, such as sensors or devices, instead of sending it to a centralized cloud. This approach reduces latency and ensures faster decision-making. It allows IoT systems to operate efficiently even when cloud connectivity is limited and helps organizations respond to real-time events quickly. Edge computing also reduces the cost and bandwidth associated with transmitting large volumes of data to remote servers. Edge computing improves",
+   "score": 0.64590204,
+   "raw_content": null,
+   "id": "1ab247-07"
+  },
+  {
+   "url": "https://www.ezurio.com/resources/blog/understanding-edge-iot-computing",
+   "title": "Understanding Edge IoT Computing | Ezurio",
+   "content": "It’s important to note that while IoT devices and edge devices are related, they aren’t always the same. Many IoT sensors are simple and energy-efficient, doing minimal processing; they often rely on an intermediary edge device (like a gateway or local server) to do the heavy computation. For example, a factory might have basic temperature sensors (IoT devices) connected to an edge gateway that aggregates readings and runs anomaly detection algorithms. In other cases, an advanced IoT device [...] Physical Constraints and Reliability: Edge devices deployed outside of data centers must withstand environmental challenges – extreme temperatures, dust, moisture, vibration, and power fluctuations depending on the location. Hardware must be industrial-grade or ruggedized as needed, which can increase costs. There are also power and connectivity constraints: some edge nodes run on battery or solar in remote areas and need energy-efficient designs. Others rely on cellular or satellite links that [...] Industrial Automation: Focus on real-time monitoring and predictive maintenance with devices that process sensor data.\n    Smart Cities: Optimize traffic flow or energy usage, requiring different sensors and protocols.\n\nB. Selecting Appropriate Edge Hardware and Software\n\n1. Hardware Selection: Choose physical devices based on system complexity, environment, and scalability. Balance processing power with energy consumption.\n2. Software Stack:",
+   "score": 0.62897736,
+   "raw_content": null,
+   "id": "7d1649-08"
+  },
+  {
+   "url": "https://www.cs.virginia.edu/~hs6ms/publishedPaper/Conference/2020/Edge%20Processing%20in%20ICA.pdf",
+   "title": "Machine Learning based Timeliness-Guaranteed and Energy-Efficient ...",
+   "content": "Learning based Task Assignment approach, RILTA, that ensures the timeliness guaranteed execution of ICA tasks with high energy efﬁciency. We ﬁrst formulate the task-scheduling problem in the edge computing systems considering timeliness and energy consumption in ICA applications. We then propose a heuristic for solving the problem and design the reinforcement model based on the output of the proposed heuristic. Our simulation results show that RILTA can reduce the task processing time and [...] Machine Learning based Timeliness-Guaranteed and Energy-Efﬁcient Task Assignment in Edge Computing Systems Tanmoy Sen and Haiying Shen Department of Computer Science University of Virginia Email: {ts5xm, hs6ms}@virginia.edu Abstract—The proliferation in the use of the Internet of Things (IoT) and Machine Learning (ML) techniques in edge computing systems have paved the way of using Intelligent Cognitive Assistants (ICA) for assisting people in working, learn-ing, transportation, healthcare, and [...] which imposes formidable challenges of achieving low-power edge processing. In the edge computing domain, several task assignment schemes have been proposed that decide which tier (remote cloud, fog, and edge devices) to assign a task to reduce task latency and (or) energy consump-tion. These methods can be categorized into two groups based on their goals: (1) energy-aware task assignment [5–11] and (2) bandwidth-aware task assignment [12–16]. However, these schemes involve complex calculation",
+   "score": 0.5993679,
+   "raw_content": null,
+   "id": "bc6338-09"
+  },
+  {
+   "url": "https://www.computer.org/csdl/magazine/it/2023/01/10077835/1LH8KtO6UCs",
+   "title": "Toward Performance and Energy-Efficient Edge-of-Things",
+   "content": "Focusing on edge computing with a (large) number of IoT devices, we propose a dynamic policy-based computing approach to improve the overall performance of Edge",
+   "score": 0.597784,
+   "raw_content": null,
+   "id": "181311-10"
+  },
+  {
+   "url": "https://www.igi-global.com/viewtitle.aspx?titleid=390100",
+   "title": "Edge Computing for Energy- Efficient Internet of Things:",
+   "content": "For enhancing the energy efficiency for the IoT systems, edge computing architectures and frameworks are special significant. Edge computing",
+   "score": 0.5905431,
+   "raw_content": null,
+   "id": "fabee8-11"
+  },
+  {
+   "url": "https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1061&context=cday",
+   "title": "GR-38 Energy Cost and Efficiency on Edge Computing",
+   "content": "Our goal is to identify the energy efficient techniques for the Edge computing IoT devices involving many nuances, we have tried to investigate the best",
+   "score": 0.5591998,
+   "raw_content": null,
+   "id": "47737f-12"
+  },
+  {
+   "url": "https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/internet-things-and-edge-computing-meet",
+   "title": "Internet of Things and Edge Computing Meet Green Challenges | IEEE Communications Society",
+   "content": "Energy Efficiency: The global surge in energy consumption demands more sustainable energy solutions. IoT devices and edge computing systems can optimize energy use in industries, buildings, and homes, contributing to substantial energy savings and reducing reliance on non-renewable energy sources. [...] This reduces latency, saves bandwidth, and improves response times. The convergence of IoT and edge computing has opened up new avenues for tackling environmental challenges. For instance, in smart cities, IoT devices can monitor air quality, traffic conditions, and energy use in buildings, while edge computing can process this data locally to provide instant feedback and control actions. This synergy not only enhances operational efficiencies but also contributes to the reduction of greenhouse [...] Case studies on the deployment of green IoT and/or edge computing solutions in various sectors (such as healthcare, urban infrastructure, agriculture).\n Security and privacy concerns in green IoT and/or edge computing ecosystems.\n New sustainability metrics in IoT and/or edge computing context.\n Secure and energy-efficient communication protocols for IoT devices at the edge.\n Energy-efficient cryptographic algorithms for IoT devices at the edge.",
+   "score": 0.50944406,
+   "raw_content": null,
+   "id": "234fa9-13"
+  },
+  {
+   "url": "https://jyx.jyu.fi/jyx/Record/jyx_123456789_59977",
+   "title": "Requirements for Energy Efficient Edge Computing : A Survey",
+   "content": "by O Väänänen · 2018 · Cited by 23 — This survey goes thru many aspects to consider in edge and fog devices to minimize energy consumption and thus lengthen the device and the network lifetime.",
+   "score": 0.47481382,
+   "raw_content": null,
+   "id": "b42aa2-14"
+  },
+  {
+   "url": "https://www.quora.com/How-can-edge-computing-be-energy-efficient-for-IoT-devices",
+   "title": "How can edge computing be energy-efficient for IoT devices?",
+   "content": "How can edge computing be energy-efficient for IoT devices?",
+   "score": 0.43092552,
+   "raw_content": null,
+   "id": "260e2f-15"
+  },
+  {
+   "url": "https://researchwith.njit.edu/en/publications/multiperspective-and-energy-efficient-deep-learning-in-edge-compu",
+   "title": "Multiperspective and Energy-Efficient Deep Learning in Edge Computing",
+   "content": "by H Yuan · 2026 · Cited by 22 — The article systematically examines hardware-level optimizations and software-level techniques for reducing energy consumption while maintaining model accuracy.",
+   "score": 0.3377494,
+   "raw_content": null,
+   "id": "50a134-16"
+  },
+  {
+   "url": "https://escholarship.org/uc/item/4gz2h8r3",
+   "title": "Energy-Efficient and Reliability-Driven Management of IoT Systems",
+   "content": "In this dissertation, we focus on novel solutions for energy-efficient and reliability-driven management of IoT systems. We introduce a simulation framework",
+   "score": 0.2881683,
+   "raw_content": null,
+   "id": "90dc5d-17"
+  },
+  {
+   "url": "https://ttu-ir.tdl.org/items/d407ff49-4f76-431f-82d3-eee4712ac24b",
+   "title": "Enhancing Reliability and Efficiency in IoT Networks: A Study on UAV-Aided ...",
+   "content": "The proposed algorithm transforms a static problem into a dynamic one by using virtual queues to manage energy efficiency and service dependability, which",
+   "score": 0.2639787,
+   "raw_content": null,
+   "id": "ed0a00-18"
+  },
+  {
+   "url": "https://www.itu.int/en/journal/j-fet/2025/002/Pages/default.aspx",
+   "title": "Special issue on sustainable edge computing and communications for AI",
+   "content": "#### Keyw​​​ords\n\nArtificial intelligence, sustainable AI, energy-efficient computing and communications, edge computing, carbon neutrality\n\n#### ​Suggest topics (but not limited to)\n\n​Download the FULL call for papers\nhere​.​\n\n#### Leading Guest Editor\n\n|  |\n\n| ​​​ Jiang (Linda) Xie, The University of North Carolina at Charlotte, USA |\n\n#### ​Guest Editors\n\n|  | [...] |  |\n\n| ​  Haoxin Wang, Georgia State University, USA |\n| ​​​ Kyungtae Han, Toyota Motor North America Research & Development, USA |\n| Li-Chun Wang​, National Yang Ming Chiao Tung University, Taiwan, Province of China |\n\n## \n\n## \n\n## \n\n## \n\n## \n\n## \n\n## \n\n## \n\n## READ\n\nView and download articles  \nof this special issue\nfreely​​​\n\nVolume 6, Issue 2, June​ 2025​​​\n\n## About ITU J-FET\n\n## \n\n© ITU  All Rights Reserved [...] ITU\n\n## Connecting the world and beyond\n\nPP 26\n\n# Special issue on sustainable edge computing and communications for AI\n\nYou are here\nSkip Navigation LinksITU > Homepage > ITU Journal > Future and Evolving Technologies\") > Vol. VI > Issue No. 2\n\nSkip Navigation Links\n\nShare\n\nShare on Facebook\nShare on twitter\nShare on LinkedIn\nShare via email\n\n#### ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​\n\n#### The​​​​me\n\n#### Keyw​​​ords",
+   "score": 0.26265267,
+   "raw_content": null,
+   "id": "916881-19"
+  }
+ ]
+}

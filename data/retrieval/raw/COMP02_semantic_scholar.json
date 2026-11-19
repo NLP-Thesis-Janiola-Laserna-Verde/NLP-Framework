@@ -1,0 +1,881 @@
+{
+ "query": "Federated learning for privacy-preserving machine learning on mobile devices",
+ "retrieved_at": "2026-11-18T19:10:47.498853+00:00",
+ "data": [
+  {
+   "paperId": "db0cc2f21b20cbc0ab8946090967399c25709614",
+   "externalIds": {
+    "MAG": "2949130532",
+    "DBLP": "journals/iacr/BonawitzIKMMPRS17",
+    "DOI": "10.1145/3133956.3133982",
+    "CorpusId": 3833774
+   },
+   "url": "https://www.semanticscholar.org/paper/db0cc2f21b20cbc0ab8946090967399c25709614",
+   "title": "Practical Secure Aggregation for Privacy-Preserving Machine Learning",
+   "venue": "IACR Cryptology ePrint Archive",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3133956.3133982?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3133956.3133982, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Book",
+    "JournalArticle"
+   ],
+   "publicationDate": "2017-10-30",
+   "authors": [
+    {
+     "authorId": "2039588",
+     "name": "Keith Bonawitz"
+    },
+    {
+     "authorId": "2072422622",
+     "name": "Vladimir Ivanov"
+    },
+    {
+     "authorId": "4908509",
+     "name": "Ben Kreuter"
+    },
+    {
+     "authorId": "2212030",
+     "name": "Antonio Marcedone"
+    },
+    {
+     "authorId": "145057514",
+     "name": "H. B. McMahan"
+    },
+    {
+     "authorId": "34521172",
+     "name": "Sarvar Patel"
+    },
+    {
+     "authorId": "1878835",
+     "name": "Daniel Ramage"
+    },
+    {
+     "authorId": "2064203013",
+     "name": "Aaron Segal"
+    },
+    {
+     "authorId": "34185195",
+     "name": "Karn Seth"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "1340b718fa3ef0a10bc956831df4d88d41f15fd9",
+   "externalIds": {
+    "DOI": "10.30574/wjarr.2025.26.1.1099",
+    "CorpusId": 277779183
+   },
+   "url": "https://www.semanticscholar.org/paper/1340b718fa3ef0a10bc956831df4d88d41f15fd9",
+   "title": "Federated learning for privacy-preserving data analytics in mobile applications",
+   "venue": "World Journal of Advanced Research and Reviews",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.30574/wjarr.2025.26.1.1099",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjarr.2025.26.1.1099?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjarr.2025.26.1.1099, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-30",
+   "authors": [
+    {
+     "authorId": "2327917499",
+     "name": "J. Okolo"
+    },
+    {
+     "authorId": "2580048669",
+     "name": "Adesola Adul-Gafar Arowogbadamu"
+    },
+    {
+     "authorId": "2383203017",
+     "name": "Samuel Adeniji"
+    },
+    {
+     "authorId": "2383202923",
+     "name": "R. Tasie"
+    }
+   ],
+   "abstract": "The rapid adoption of mobile AI applications in areas such as healthcare, finance, and personalized services has raised significant concerns about data privacy and security. Traditional centralized machine learning (ML) models require mobile devices to transmit user data to cloud servers, posing risks of data breaches and regulatory non-compliance. Federated learning (FL) addresses these concerns by allowing decentralized AI model training directly on user devices, ensuring that raw data remains private and never leaves the device. However, FL faces security vulnerabilities and performance limitations, including model inversion attacks, data poisoning risks, and high computational overhead. This paper explores key privacy-preserving techniques such as differential privacy, secure aggregation, and homomorphic encryption, which enhance FL security while maintaining model accuracy. Additionally, emerging trends such as blockchain-integrated FL, post-quantum cryptography, and AI-driven optimization are analyzed to highlight the future of privacy-preserving mobile AI ecosystems. By integrating advanced cryptographic techniques and decentralized verification mechanisms, FL can enable scalable, secure, and regulation-compliant AI applications, ensuring a balance between data privacy and AI innovation."
+  },
+  {
+   "paperId": "7a945907336c80a6f5df34664afbcfe62d61f0ba",
+   "externalIds": {
+    "DBLP": "journals/wc/ZhouLWYYWMJ23",
+    "DOI": "10.1109/MWC.004.2200381",
+    "CorpusId": 258219719
+   },
+   "url": "https://www.semanticscholar.org/paper/7a945907336c80a6f5df34664afbcfe62d61f0ba",
+   "title": "Decentralized P2P Federated Learning for Privacy-Preserving and Resilient Mobile Robotic Systems",
+   "venue": "IEEE wireless communications",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MWC.004.2200381?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MWC.004.2200381, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-04-01",
+   "authors": [
+    {
+     "authorId": "2019350335",
+     "name": "Xiao-Kang Zhou"
+    },
+    {
+     "authorId": "2088921907",
+     "name": "Wei Liang"
+    },
+    {
+     "authorId": "1781162",
+     "name": "K. Wang"
+    },
+    {
+     "authorId": "2152532057",
+     "name": "Zheng Yan"
+    },
+    {
+     "authorId": "1690341",
+     "name": "L. Yang"
+    },
+    {
+     "authorId": "2149192096",
+     "name": "Wei Wei"
+    },
+    {
+     "authorId": "2146393373",
+     "name": "Jian-Hua Ma"
+    },
+    {
+     "authorId": "46876083",
+     "name": "Qun Jin"
+    }
+   ],
+   "abstract": "Swarms of mobile robots are being widely applied for complex tasks in various practical scenarios toward modern smart industry. Federated learning (FL) has been developed as a promising privacy-preserving paradigm to tackle distributed machine learning tasks for mobile robotic systems in 5G and beyond networks. However, unstable wireless network conditions of the complex and harsh working environment may lead to poor communication quality and bring big challenges to traditional centralized global training in FL models. In this article, a Peer-to-Peer (P2P) based Privacy-Perceiving Asynchronous Federated Learning (PPAFL) framework is introduced to realize the decentralized model training for secure and resilient modern mobile robotic systems in 5G and beyond networks. Specifically, a reputation-aware coordination mechanism is designed and addressed to coordinate a group of smart devices dynamically into a virtual cluster, in which the asynchronous model aggregation is conducted in a decentralized P2P manner. A secret sharing based communication mechanism is developed to ensure an encrypted P2P FL process, while a Secure Stochastic Gradient Descent (SSGD) scheme is integrated with an Autoencoder and a Gaussian mechanism is developed to ensure an anonymized local model update, communicating within a few neighboring clients. The case study based experiment and evaluation in three different application scenarios demonstrate that the PPAFL can effectively improve the security and resilience issues compared with the traditional centralized approaches for smart mobile robotic applications in 5G and beyond networks."
+  },
+  {
+   "paperId": "da665034a4597ef463e1163d21610cdf26819e6d",
+   "externalIds": {
+    "DBLP": "journals/fgcs/AminifarSA24",
+    "ArXiv": "2405.05611",
+    "DOI": "10.1016/j.future.2024.07.035",
+    "CorpusId": 269635306
+   },
+   "url": "https://www.semanticscholar.org/paper/da665034a4597ef463e1163d21610cdf26819e6d",
+   "title": "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems",
+   "venue": "Future generations computer systems",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.future.2024.07.035",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2405.05611, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-09",
+   "authors": [
+    {
+     "authorId": "40864795",
+     "name": "Amin Aminifar"
+    },
+    {
+     "authorId": "30952996",
+     "name": "Matin Shokri"
+    },
+    {
+     "authorId": "2261528185",
+     "name": "Amir Aminifar"
+    }
+   ],
+   "abstract": "Machine Learning (ML) algorithms are generally designed for scenarios in which all data is stored in one data center, where the training is performed. However, in many applications, e.g., in the healthcare domain, the training data is distributed among several entities, e.g., different hospitals or patients' mobile devices/sensors. At the same time, transferring the data to a central location for learning is certainly not an option, due to privacy concerns and legal issues, and in certain cases, because of the communication and computation overheads. Federated Learning (FL) is the state-of-the-art collaborative ML approach for training an ML model across multiple parties holding local data samples, without sharing them. However, enabling learning from distributed data over such edge Internet of Things (IoT) systems (e.g., mobile-health and wearable technologies, involving sensitive personal/medical data) in a privacy-preserving fashion presents a major challenge mainly due to their stringent resource constraints, i.e., limited computing capacity, communication bandwidth, memory storage, and battery lifetime. In this paper, we propose a privacy-preserving edge FL framework for resource-constrained mobile-health and wearable technologies over the IoT infrastructure. We evaluate our proposed framework extensively and provide the implementation of our technique on Amazon's AWS cloud platform based on the seizure detection application in epilepsy monitoring using wearable technologies."
+  },
+  {
+   "paperId": "a4894a8c1068f1843d3b781e274376fff3617e0a",
+   "externalIds": {
+    "DOI": "10.1109/IC-ICNS68863.2026.11537635",
+    "CorpusId": 288906384
+   },
+   "url": "https://www.semanticscholar.org/paper/a4894a8c1068f1843d3b781e274376fff3617e0a",
+   "title": "Comprehensive Survey on Federated Learning for Privacy Preserving",
+   "venue": "2026 International Conference on Intelligent Computing, Networks, and Security (IC-ICNS)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IC-ICNS68863.2026.11537635?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IC-ICNS68863.2026.11537635, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2026-03-26",
+   "authors": [
+    {
+     "authorId": "2557170303",
+     "name": "Mandira Basak"
+    },
+    {
+     "authorId": "2434442703",
+     "name": "Sahim Khan"
+    },
+    {
+     "authorId": "2245322206",
+     "name": "Rupa Saha"
+    },
+    {
+     "authorId": "2440344790",
+     "name": "Anushree Paul"
+    },
+    {
+     "authorId": "1492119707",
+     "name": "Sudakshina Mandal"
+    },
+    {
+     "authorId": "2237222278",
+     "name": "Subhasree Bhattacharjee"
+    }
+   ],
+   "abstract": "Federated Learning is a way to develop machine learning algorithms that use the data of clients, such as mobile devices, the computers of a hospital, the servers of a bank, or any other data-driven system, and will learn the same model with their own data, and send an extremely small improvement to a central location. No raw information is ever transferred to the device, which means it is in full compliance with strict regulations such as GDPR or CCPA. Though this approach is not perfect, intelligent attackers can guess the original data using gradient leakage, model inversion attacks, etc. However, with clever workarounds, such as random noise, heavy encryption, and fresh defences against poisoning, FL turns into the privacy-first approach to training and using machine learning algorithms, which will provide a strong security to improve healthcare, finance, to recommendation systems by next-word prediction based on user input without leaking personal information. However, many developments are ongoing to ensure more security and liability."
+  },
+  {
+   "paperId": "3f7c8e33110f8da6805b60d3aadadd0e7e711381",
+   "externalIds": {
+    "ArXiv": "2504.17703",
+    "DBLP": "journals/corr/abs-2504-17703",
+    "DOI": "10.48550/arXiv.2504.17703",
+    "CorpusId": 278033793
+   },
+   "url": "https://www.semanticscholar.org/paper/3f7c8e33110f8da6805b60d3aadadd0e7e711381",
+   "title": "Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence",
+   "venue": "arXiv.org",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2504.17703, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-04-24",
+   "authors": [
+    {
+     "authorId": "2317136919",
+     "name": "Ratun Rahman"
+    }
+   ],
+   "abstract": "Federated Learning (FL) has emerged as a transformative paradigm in the field of distributed machine learning, enabling multiple clients such as mobile devices, edge nodes, or organizations to collaboratively train a shared global model without the need to centralize sensitive data. This decentralized approach addresses growing concerns around data privacy, security, and regulatory compliance, making it particularly attractive in domains such as healthcare, finance, and smart IoT systems. This survey provides a concise yet comprehensive overview of Federated Learning, beginning with its core architecture and communication protocol. We discuss the standard FL lifecycle, including local training, model aggregation, and global updates. A particular emphasis is placed on key technical challenges such as handling non-IID (non-independent and identically distributed) data, mitigating system and hardware heterogeneity, reducing communication overhead, and ensuring privacy through mechanisms like differential privacy and secure aggregation. Furthermore, we examine emerging trends in FL research, including personalized FL, cross-device versus cross-silo settings, and integration with other paradigms such as reinforcement learning and quantum computing. We also highlight real-world applications and summarize benchmark datasets and evaluation metrics commonly used in FL research. Finally, we outline open research problems and future directions to guide the development of scalable, efficient, and trustworthy FL systems."
+  },
+  {
+   "paperId": "18ffad18645093dcc894129abf474f1d9db5fe4a",
+   "externalIds": {
+    "DBLP": "conf/iceis/CiaramellaMMPS24",
+    "DOI": "10.5220/0012730600003690",
+    "CorpusId": 269851767
+   },
+   "url": "https://www.semanticscholar.org/paper/18ffad18645093dcc894129abf474f1d9db5fe4a",
+   "title": "An Approach for Privacy-Preserving Mobile Malware Detection Through Federated Machine Learning",
+   "venue": "International Conference on Enterprise Information Systems",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.5220/0012730600003690",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5220/0012730600003690?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5220/0012730600003690, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2123349300",
+     "name": "Giovanni Ciaramella"
+    },
+    {
+     "authorId": "145355672",
+     "name": "F. Martinelli"
+    },
+    {
+     "authorId": "2112431",
+     "name": "F. Mercaldo"
+    },
+    {
+     "authorId": "2127768136",
+     "name": "Christian Peluso"
+    },
+    {
+     "authorId": "1762147",
+     "name": "A. Santone"
+    }
+   ],
+   "abstract": ": Considering the diffusion of smart devices and IoT devices, mobile malware detection represents a task of fundamental importance, considering the inefﬁcacy of signature-based antimalware free and commercial software, which can detect a threat only if its signature is present in the antimalware repository. In the last few years, many methods have been proposed by academia to identify so-called zero-day malware through machine learning: these techniques typically extract a series of features from the mobile device to send to a server where the detection model is located. Typically, these features include network traces or installed applications, among other information that may compromise user privacy. In this context, Federated learning is emerging with privacy advantages because the raw data never leaves the local device. In this paper, we propose a method to integrate federated machine learning in malware detection.Malicious software typically aims to extract sensitive and private data, and mobile devices emerge as particularly enticing targets from the perspective of attackers. In the experimental analysis, comprising a pool of 10 clients from which 7 are uniformly sampled at each round, we demonstrate the efﬁcacy of the proposed method by achieving an accuracy of 0.940."
+  },
+  {
+   "paperId": "9d6f71e08d0794dd39b1ac793f72640744c486e1",
+   "externalIds": {
+    "DBLP": "journals/ijisec/CiaramellaMSM26",
+    "DOI": "10.1007/s10207-026-01268-4",
+    "CorpusId": 288794037
+   },
+   "url": "https://www.semanticscholar.org/paper/9d6f71e08d0794dd39b1ac793f72640744c486e1",
+   "title": "An explainable privacy-preserving method for mobile malware detection through federated machine learning",
+   "venue": "International Journal of Information Security",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10207-026-01268-4.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10207-026-01268-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10207-026-01268-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-05-28",
+   "authors": [
+    {
+     "authorId": "2123349300",
+     "name": "Giovanni Ciaramella"
+    },
+    {
+     "authorId": "145355672",
+     "name": "F. Martinelli"
+    },
+    {
+     "authorId": "1762147",
+     "name": "A. Santone"
+    },
+    {
+     "authorId": "2112431",
+     "name": "F. Mercaldo"
+    }
+   ],
+   "abstract": "Over the last few years, the number of cyberattacks has increased drastically, becoming more resistant to detection systems introduced by researchers. Traditional centralized approaches have been replaced by distributed methods such as Federated Machine Learning to enhance efficiency. The latter enables the creation of a central model by training multiple clients locally and aggregating only the model’s weights rather than sharing raw data. This approach enhances computational efficiency and significantly improves privacy, as sensitive data remains on the client’s devices. This research paper proposes a method for detecting malware in the Android environment leveraging Federated Machine Learning. In detail, we employed two datasets: one of almost 20,000 malicious and trustworthy Android packages and the second of nearly 7,250 applications which were converted into grayscale images by representing their smali code as pixel intensities, enabling Convolutional Neural Networks to process them effectively. After concluding the dataset composition, we trained several models using two Convolutional Neural Networks, such as InceptionV3 and a custom version of MobileNet. After identifying the best-performing model on the binary dataset, we applied the same hyperparameters to train, validate, and test a second dataset composed of four distinct classes. Additionally, we compared the performance of the federated approach with that of centralized training using the same model architectures. At the end of this process, we identified the best-trained model on the binary dataset and applied the two class activation map algorithms to perform explainability using the model. Moreover, as the last step, we also applied the Structural Similarity Index Measure to quantify the consistency and reliability of the generated heatmaps."
+  },
+  {
+   "paperId": "c815d93b7ea8dcb1f60b30dbb7bebb7616401d3f",
+   "externalIds": {
+    "DBLP": "journals/iotj/MaHGLY24",
+    "DOI": "10.1109/JIOT.2023.3340630",
+    "CorpusId": 266093209
+   },
+   "url": "https://www.semanticscholar.org/paper/c815d93b7ea8dcb1f60b30dbb7bebb7616401d3f",
+   "title": "Blockchain-Based Privacy-Preserving Federated Learning for Mobile Crowdsourcing",
+   "venue": "IEEE Internet of Things Journal",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2023.3340630?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2023.3340630, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-04-15",
+   "authors": [
+    {
+     "authorId": "2157401020",
+     "name": "Haiying Ma"
+    },
+    {
+     "authorId": "2271508614",
+     "name": "Shuang-Long Huang"
+    },
+    {
+     "authorId": "31458322",
+     "name": "Jiale Guo"
+    },
+    {
+     "authorId": "2146539092",
+     "name": "Kwok-Yan Lam"
+    },
+    {
+     "authorId": "1840070896",
+     "name": "Tian-Ling Yang"
+    }
+   ],
+   "abstract": "Mobile crowdsourcing (MCS) is an emerging paradigm that enables the outsourcing of a complex task to a group of mobile devices. The ability to utilize the collective power of mobile devices and human intelligence makes MCS a significant tool in various scenarios. Nevertheless, it faces practical challenge in protecting user privacy due to the sensitive nature of information collected by mobile devices. Additionally, the inherent openness of MSC and the heterogeneity of mobile devices raise reliability concerns among participants. To address these challenges, by integrating federated learning (FL) with the pairwise additive masking technique and the Chinese Remainder Theorem, we propose a blockchain-based privacy-preserving FL (BPFL) framework for MCS, which allows mobile participants to collaboratively solve a crowdsourced machine learning task while preserving privacy. Besides, it employs blockchain technology to record the training process in a transparent and tamper-proof ledger. This ledger guarantees the verifiability of aggregation results and the fair distribution of training rewards, thereby enhancing trust and fairness. We prove that our BPFL supports privacy protection and trust mechanism simultaneously and resists inference and collusion attacks. Experimental results show that our BPFL can achieve high performance in terms of computation cost, communication cost and model accuracy, which is friendly for mobile users with resource-constrained devices in MCS ecosystems."
+  },
+  {
+   "paperId": "555b56898a9f41443e5b2e71a771bb3691008b10",
+   "externalIds": {
+    "DOI": "10.36676/dira.v13.i4.182",
+    "CorpusId": 283927879
+   },
+   "url": "https://www.semanticscholar.org/paper/555b56898a9f41443e5b2e71a771bb3691008b10",
+   "title": "Federated Curriculum Learning for Privacy-Preserving Personalization in Edge Environments",
+   "venue": "Darpan International Research Analysis",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.36676/dira.v13.i4.182",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36676/dira.v13.i4.182?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36676/dira.v13.i4.182, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-11-13",
+   "authors": [
+    {
+     "authorId": "32101483",
+     "name": "Arvind Mehta"
+    }
+   ],
+   "abstract": "Personalized machine learning models often require centralizing sensitive user data, creating privacy and compliance challenges. This paper introduces FedCurv, a federated curriculum learning framework designed for edge environments where users have heterogeneous devices and varied data distributions. FedCurv enhances convergence by organizing client updates into a difficulty-aware curriculum. Each client computes a sample-level difficulty score using local gradient variance and confidence metrics. The server aggregates updates in curriculum stages, prioritizing stable and low-variance updates before incorporating high-uncertainty ones. Experiments were conducted on image classification, keyboard-input prediction, and personalized recommendation datasets. FedCurv improves accuracy by 7–15% over FedAvg under non-IID settings and reduces client-side energy consumption. A real-world deployment simulation on 300 mobile devices demonstrates faster stabilization of personalized models while maintaining differential privacy guarantees. The paper discusses limits posed by heterogeneous hardware and suggests adaptive compression techniques for bandwidth-constrained users."
+  },
+  {
+   "paperId": "64f8a087121e88c734cbcd70dec39ab2641f926a",
+   "externalIds": {
+    "DOI": "10.64056/n2nbva22",
+    "CorpusId": 279213129
+   },
+   "url": "https://www.semanticscholar.org/paper/64f8a087121e88c734cbcd70dec39ab2641f926a",
+   "title": "Federated Learning: Decentralized Machine Learning for Privacy Preservation",
+   "venue": "International Journal of Emerging Trends in Information Technology (IJEIT)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://rainyer.com/index.php/IJEIT/article/download/16/15",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.64056/n2nbva22?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.64056/n2nbva22, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-04-24",
+   "authors": [
+    {
+     "authorId": "2366049902",
+     "name": "Ahmed Al-Banori"
+    },
+    {
+     "authorId": "2366050287",
+     "name": "Layla Hassan"
+    }
+   ],
+   "abstract": "Federated Learning (FL) is an emerging paradigm in machine learning that enables multiple devices or organizations to collaboratively train a global model without sharing raw data​. This decentralized approach addresses data silo and privacy challenges by ensuring sensitive information remains local to each participant. In this article, we survey recent advances in FL and propose a hypothetical experiment comparing federated and centralized learning on a standard dataset. Our experimental methodology employs the Federated Averaging algorithm​ across simulated clients and measures model accuracy, convergence, and privacy trade-offs. The results indicate that FL can achieve performance nearly comparable to a centralized model while preserving privacy: for example, achieving roughly 98% accuracy versus 98.5% in the centralized case, with only marginal degradation when adding differential privacy. These findings reinforce the practicality of FL in privacy-sensitive domains, supporting trends observed in applications like mobile keyboards and healthcare​. We conclude that FL is a viable strategy for privacy-preserving ML and discuss future challenges in scalability and security."
+  },
+  {
+   "paperId": "e98467f8eb34d3b45e4c71294680e8f86ed61788",
+   "externalIds": {
+    "DOI": "10.55041/ijsrem55598",
+    "CorpusId": 284345171
+   },
+   "url": "https://www.semanticscholar.org/paper/e98467f8eb34d3b45e4c71294680e8f86ed61788",
+   "title": "Privacy-Preserving Malware Detection Using Federated Learning and AI",
+   "venue": "International Journal of Scientific Research in Engineering and Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ijsrem.com/download/privacy-preserving-malware-detection-using-federated-learning-and-ai/?wpdmdl=63081&refresh=6952a3c9a36fc1767023561",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55041/ijsrem55598?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55041/ijsrem55598, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-29",
+   "authors": [
+    {
+     "authorId": "2560043858",
+     "name": "B. Nirmala"
+    },
+    {
+     "authorId": "2481663757",
+     "name": "H. M"
+    },
+    {
+     "authorId": "2401758566",
+     "name": "Gopimohan Mukherjee"
+    },
+    {
+     "authorId": "2431675154",
+     "name": "K. Yashwanth"
+    },
+    {
+     "authorId": "2464993321",
+     "name": "V. M."
+    }
+   ],
+   "abstract": "Abstract – Malware threats have increased significantly with the rapid expansion of mobile devices, cloud platforms, and Internet-of-Things (IoT) ecosystems. Conventional malware detection systems typically rely on centralized machine learning models that require collecting large volumes of sensitive behavioral data from end-user devices. Such centralized data aggregation raises serious concerns related to privacy leakage, regulatory compliance, and user trust. To address these challenges, this paper presents a privacy-preserving malware detection framework based on Federated Learning (FL).\n\nIn the proposed approach, malware detection models are trained collaboratively across multiple client devices without transferring raw data to a central server. Each client locally trains a lightweight hybrid CNN–LSTM model using its private dataset and shares only encrypted or masked model updates. Secure aggregation and differential privacy mechanisms are incorporated to prevent reconstruction of individual client data and to provide formal privacy guarantees. The framework is evaluated using non-IID malware datasets distributed across multiple clients to simulate real-world deployment conditions. Experimental results demonstrate that the federated model achieves detection performance close to centralized training while significantly reducing data exposure. The findings indicate that federated learning offers a practical and scalable solution for privacy-aware malware detection in modern distributed environments.\n\nKeywords: Federated Learning, Malware Detection, Privacy Preservation, Secure Aggregation, Differential Privacy, Edge AI."
+  },
+  {
+   "paperId": "197a38e490b790b7fff02f26eacec47d2564098a",
+   "externalIds": {
+    "DOI": "10.1109/C4D65382.2025.11306458",
+    "CorpusId": 284229550
+   },
+   "url": "https://www.semanticscholar.org/paper/197a38e490b790b7fff02f26eacec47d2564098a",
+   "title": "Privacy-Preserving Android Malware Detection Using Deep Federated Learning",
+   "venue": "2025 Cybersecurity4D (C4D)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/C4D65382.2025.11306458?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/C4D65382.2025.11306458, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2025-08-17",
+   "authors": [
+    {
+     "authorId": "2400921004",
+     "name": "Rehanatou B. Coulibaly"
+    },
+    {
+     "authorId": "3023999",
+     "name": "T. Bissyandé"
+    },
+    {
+     "authorId": "1748950476",
+     "name": "Rodrique Kafando"
+    },
+    {
+     "authorId": "2135263",
+     "name": "Aminata Sabané"
+    },
+    {
+     "authorId": "2042715833",
+     "name": "A. Kaboré"
+    }
+   ],
+   "abstract": "This work represents a major breakthrough in the fields of legal Technology, digital governance and mobile cybersecurity. Malware attacks on Android are increasing daily at a considerable volume, making Android users more vulnerable to cyberattacks. In response to this growing threat, researchers have developed numerous machine learning and deep learning techniques to detect and mitigate these attacks. However, technological advances have led to an increase in the number of Android mobile devices, which are geographically dispersed, resulting in a distribution of data. This paper proposes an Android malware classification system based on federated learning (FL). To test our approach, we used four key datasets: Drebin, MalGenome, TUANDROMD and Kronodroid.We developed a neural network with a federated architecture and evaluated different algorithms, namely Multi-Layer Perceptron (MLP), Recurrent Neural Network (RNN), Deep Neural Network (DNN) and Convolutional Neural Network 1D (CNN Conv1D). The best-performing model is CNN Conv1D, achieving a precision of 97.62% and a recall of 98.15%. our federated approach maintains an optimal balance, effectively reducing false alarms while maximizing threat detection. The comparison of our approach with traditional centralized machine learning architecture reveals that it offers an optimal compromise between security, confidentiality and performance.This approach demonstrates that institutions can collaboratively train high-performance models on diverse and large-scale Android malware datasets without compromising user privacy. It brings key innovations, including a hybrid static and dynamic analysis, a comparative evaluation of multiple FL-compatible architectures, a contrastive study with centralized learning, and a real-world mobile deployment for on-device threat detection."
+  },
+  {
+   "paperId": "2f75b94de502970f59e6ef927c227cdbee6bc8aa",
+   "externalIds": {
+    "DBLP": "journals/monet/ZhaoGJZJ26",
+    "DOI": "10.1007/s11036-026-02504-w",
+    "CorpusId": 290787711
+   },
+   "url": "https://www.semanticscholar.org/paper/2f75b94de502970f59e6ef927c227cdbee6bc8aa",
+   "title": "Poison-Resilient and Privacy-Preserving Federated Learning Scheme in Mobile Systems",
+   "venue": "Journal on spesial topics in mobile networks and applications",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://www.researchsquare.com/article/rs-9252646/latest.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11036-026-02504-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11036-026-02504-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-07-31",
+   "authors": [
+    {
+     "authorId": "2346485099",
+     "name": "Quan-Yu Zhao"
+    },
+    {
+     "authorId": "2455169645",
+     "name": "Chen-Rui Gu"
+    },
+    {
+     "authorId": "2455172243",
+     "name": "Bing-Bing Jiang"
+    },
+    {
+     "authorId": "2346508027",
+     "name": "Yuan-Jian Zhou"
+    },
+    {
+     "authorId": "2132972",
+     "name": "Zheng-Jun Jing"
+    }
+   ],
+   "abstract": "Mobile systems including smartphones and IoT devices generate massive high-value data, while conventional centralized data collection and analysis suffer from security and privacy vulnerabilities. Federated learning, an emerging paradigm in machine learning, collaboratively trains high-performance models via participants sharing local training model updates rather than raw data, thereby preserving the privacy of their local datasets and providing a new approach for the secure extraction of data value in mobile systems. However, malicious participants may inject carefully crafted poisoned samples into their local datasets, with the intent of disrupting the convergence of the global model or inducing targeted misclassification. Consequently, the identification of such malicious participants is of critical importance in federated learning. To address these challenges, this paper proposes a poison-resilient and privacy-preserving federated learning scheme in mobile systems. It not only detects poisoning attacks in both vertical federated learning and horizontal federated learning, but also removes prior assumptions regarding participants’ data distributions and restrictions on the proportion of adversarial participants. In addition, a convergence control parameter is introduced to regulate the model’s convergence rate. The security, privacy correctness, fairness, and robustness of the proposed scheme are formally analyzed and rigorously proven. Extensive experiments are conducted on two classic image classification datasets MNIST and SVHN, under diverse settings where the number of poisoning attackers is either more or less than half of all participants, and the local data of participant follows both IID and Non-IID distributions. Experimental results demonstrate that the proposed scheme can effectively detect malicious poisoning attackers regardless of the proportion of malicious participants and whether the data distribution is IID or Non-IID. Meanwhile, our method achieves fairness and robustness against poisoning attacks."
+  },
+  {
+   "paperId": "bd80ca3c2af2e53584dfa9d894376b6428159b1e",
+   "externalIds": {
+    "DOI": "10.1109/Cyber-AI70573.2026.11755135",
+    "CorpusId": 295555963
+   },
+   "url": "https://www.semanticscholar.org/paper/bd80ca3c2af2e53584dfa9d894376b6428159b1e",
+   "title": "A Novel Federated Machine Learning-Based Approach for Explainable and Privacy-Preserving Android Malware Detection through Dynamic Analysis",
+   "venue": "2026 International Conference on Cybersecurity and AI-Based Systems (Cyber-AI)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/cyber-ai70573.2026.11755135",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/Cyber-AI70573.2026.11755135?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/Cyber-AI70573.2026.11755135, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2026-09-01",
+   "authors": [
+    {
+     "authorId": "2123349300",
+     "name": "Giovanni Ciaramella"
+    },
+    {
+     "authorId": "145355672",
+     "name": "F. Martinelli"
+    },
+    {
+     "authorId": "1762147",
+     "name": "A. Santone"
+    },
+    {
+     "authorId": "2112431",
+     "name": "F. Mercaldo"
+    }
+   ],
+   "abstract": "Over the years, the number of attacks has increased drastically due to the rise of mobile devices. Due to this enormous number of attacks, protecting users' personal information has become essential. In this paper, we propose an explainable method for Android malware detection by exploiting Federated Machine Learning. In detail, we propose a dynamic analysis that collects system call traces and converts them into images to train several models for dynamic Android malware detection. Moreover, we used non-independent and identically distributed data to better represent a real-world scenario. To provide explainability, we consider adopting Class Activation Mapping to highlight the area of the image under analysis that is symptomatic of a given prediction (i.e., malware or trusted), aiming to provide insights into the model's decision-making process."
+  },
+  {
+   "paperId": "d98eec6f56c78b95277916d6807aaa3d5108bb4f",
+   "externalIds": {
+    "DBLP": "journals/network/WazzehOTMG23",
+    "DOI": "10.1109/MNET.121.2200099",
+    "CorpusId": 251458310
+   },
+   "url": "https://www.semanticscholar.org/paper/d98eec6f56c78b95277916d6807aaa3d5108bb4f",
+   "title": "Privacy-Preserving Continuous Authentication for Mobile and IoT Systems Using Warmup-Based Federated Learning",
+   "venue": "IEEE Network",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MNET.121.2200099?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MNET.121.2200099, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-05-01",
+   "authors": [
+    {
+     "authorId": "2181087123",
+     "name": "Mohamad Wazzeh"
+    },
+    {
+     "authorId": "1403309226",
+     "name": "Hakima Ould-Slimane"
+    },
+    {
+     "authorId": "1723554",
+     "name": "C. Talhi"
+    },
+    {
+     "authorId": "144378341",
+     "name": "A. Mourad"
+    },
+    {
+     "authorId": "145837053",
+     "name": "M. Guizani"
+    }
+   ],
+   "abstract": "Continuous authentication for mobile devices acknowledges users by studying their behavioral interactions with their devices. It provides an extended protection mechanism that supplies an additional layer of security for smartphones and Internet of Things (IoT) devices and locks out intruders in cases of stolen credentials or hijacked sessions. Most of the continuous authentication efforts in the literature consist of collecting behavioral, sensory data from users, and extracting statistical patterns through adopting various Machine Learning (ML) techniques. The main drawback of these approaches is their heavy reliance on acquiring the users' personal data, which exposes the latter's privacy. To address this limitation, we introduce a novel Federated Learning (FL) based continuous authentication mechanism for mobile and IoT devices. Our approach preserves the users' privacy by allowing each individual to locally train an ML model that captures his/her behavior and then shares the model weights with the server for global aggregation. An extended scheme with a warmup FL approach for continuous authentication is proposed. Performance evaluation is done with a unique non-IID dataset built from three well-known datasets: MNIST, CIFAR-10, and FEMNIST. The extensive experimental results show a major accuracy increase in user authentication."
+  },
+  {
+   "paperId": "f25811db6f2de1fe01705d91234ca0bf84e47666",
+   "externalIds": {
+    "DBLP": "journals/iotj/ZhaoZJTNLLL21",
+    "MAG": "3051272477",
+    "DOI": "10.1109/JIOT.2020.3017377",
+    "CorpusId": 220969026
+   },
+   "url": "https://www.semanticscholar.org/paper/f25811db6f2de1fe01705d91234ca0bf84e47666",
+   "title": "Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices",
+   "venue": "IEEE Internet of Things Journal",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/1906.10893",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2020.3017377?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2020.3017377, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-06-26",
+   "authors": [
+    {
+     "authorId": "51325581",
+     "name": "Yang Zhao"
+    },
+    {
+     "authorId": "1390572170",
+     "name": "Jun Zhao"
+    },
+    {
+     "authorId": "3431787",
+     "name": "Linshan Jiang"
+    },
+    {
+     "authorId": "2052820062",
+     "name": "Rui Tan"
+    },
+    {
+     "authorId": "1713586",
+     "name": "D. Niyato"
+    },
+    {
+     "authorId": "2109962700",
+     "name": "Zeng-Xiang Li"
+    },
+    {
+     "authorId": "3366777",
+     "name": "L. Lyu"
+    },
+    {
+     "authorId": "2397085120",
+     "name": "Yingbo Liu"
+    }
+   ],
+   "abstract": "Home appliance manufacturers strive to obtain feedback from users to improve their products and services to build a smart home system. To help manufacturers develop a smart home system, we design a federated learning (FL) system leveraging a reputation mechanism to assist home appliance manufacturers to train a machine learning model based on customers’ data. Then, manufacturers can predict customers’ requirements and consumption behaviors in the future. The working flow of the system includes two stages: in the first stage, customers train the initial model provided by the manufacturer using both the mobile phone and the mobile-edge computing (MEC) server. Customers collect data from various home appliances using phones, and then they download and train the initial model with their local data. After deriving local models, customers sign on their models and send them to the blockchain. In case customers or manufacturers are malicious, we use the blockchain to replace the centralized aggregator in the traditional FL system. Since records on the blockchain are untampered, malicious customers or manufacturers’ activities are traceable. In the second stage, manufacturers select customers or organizations as miners for calculating the averaged model using received models from customers. By the end of the crowdsourcing task, one of the miners, who is selected as the temporary leader, uploads the model to the blockchain. To protect customers’ privacy and improve the test accuracy, we enforce differential privacy (DP) on the extracted features and propose a new normalization technique. We experimentally demonstrate that our normalization technique outperforms batch normalization when features are under DP protection. In addition, to attract more customers to participate in the crowdsourcing FL task, we design an incentive mechanism to award participants."
+  },
+  {
+   "paperId": "f202c98b2f8117f7fe098300ec36aded956ee1ed",
+   "externalIds": {
+    "DOI": "10.58346/jowua.2026.i2.016",
+    "CorpusId": 289956101
+   },
+   "url": "https://www.semanticscholar.org/paper/f202c98b2f8117f7fe098300ec36aded956ee1ed",
+   "title": "Adaptive Federated Learning Algorithm for Privacy-Preserving Personalized Learning in E-Learning Systems with Dynamic User Interactions",
+   "venue": "Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.58346/jowua.2026.i2.016",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58346/jowua.2026.i2.016?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58346/jowua.2026.i2.016, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-30",
+   "authors": [
+    {
+     "authorId": "2402121265",
+     "name": "Ilhom Rizayev"
+    },
+    {
+     "authorId": "2579113713",
+     "name": "Akhror Eshmuhamatov"
+    },
+    {
+     "authorId": "2440655267",
+     "name": "Fotima Abdullayeva"
+    },
+    {
+     "authorId": "2561030191",
+     "name": "Ilyos Rustamov"
+    },
+    {
+     "authorId": "2540076789",
+     "name": "Sherzod Zakirxodjaev"
+    },
+    {
+     "authorId": "2515934304",
+     "name": "Komiljon Gulyamov"
+    },
+    {
+     "authorId": "2582008838",
+     "name": "Khurshida Tillakhodjaeva"
+    }
+   ],
+   "abstract": "The fast proliferation of intelligent e-learning systems has caused the need for personalized learning\nservices, along with security challenges related to data privacy, efficient data transfer, and\ncommunication problems associated with wireless mobile devices. The conventional methods of\ncentralized machine learning are vulnerable to security attacks and are unable to handle the dynamics\nof participant involvement and heterogeneity in educational data. While Federated Learning can\nprovide an effective decentralized solution to the problem by allowing the local training process\nwithout transmitting data, classical federated learning algorithms are also limited by problems of\ncommunication complexity, unstable convergence, and low personalization capability under\nnon-IID learning. Thus, the paper provides an Adaptive Federated Learning Algorithm (AFLA) for\nprivacy-aware personalized learning in e-learning systems with dynamically changing sets of users.\nThis methodology involves the dynamic selection of the participants by considering their ability to communicate effectively, their computational power, and reliability, thus increasing the scalability\nand convergence of the algorithm. From experimental evaluations, it is evident that the proposed\nAFLA approach performs better than other approaches such as Centralized Deep Learning (CDL),\nTraditional Federated Learning (TFL), Differential Privacy Learning (DPL), and Personalized\nFederated Learning (PFL). For instance, this model achieved an accuracy of 96.2%, a precision of\n95.8%, a recall of 95.1%, an efficiency of communication of 91.6%, and a privacy of 96.8%.\nMoreover, from the analysis performed to study the effects of the individual modules used, it was\nclear that both the client selection and personalization play significant roles in improving the overall\nperformance of the proposed method."
+  },
+  {
+   "paperId": "ef192b8530c033af6652394ec5d02c5633f9a270",
+   "externalIds": {
+    "DBLP": "journals/ijim/AnkayarkanniPAMB23",
+    "DOI": "10.3991/ijim.v17i17.42835",
+    "CorpusId": 261920560
+   },
+   "url": "https://www.semanticscholar.org/paper/ef192b8530c033af6652394ec5d02c5633f9a270",
+   "title": "P2FLF: Privacy-Preserving Federated Learning Framework Based on Mobile Fog Computing",
+   "venue": "International Journal of Interactive Mobile Technologies",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://online-journals.org/index.php/i-jim/article/download/42835/13815",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3991/ijim.v17i17.42835?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3991/ijim.v17i17.42835, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-14",
+   "authors": [
+    {
+     "authorId": "2286230378",
+     "name": "B. Ankayarkanni"
+    },
+    {
+     "authorId": "11129564",
+     "name": "Niroj Kumar Pani"
+    },
+    {
+     "authorId": "2285463158",
+     "name": "M. Anand"
+    },
+    {
+     "authorId": "2283496003",
+     "name": "V. Malathy"
+    },
+    {
+     "authorId": "2023421098",
+     "name": "Bhupati"
+    }
+   ],
+   "abstract": "Mobile IoT devices provide a lot of data every day, which provides a strong base for machine learning to succeed. However, the stringent privacy demands associated with mobile IoT data pose significant challenges for its implementation in machine learning tasks. In order to address this challenge, we propose privacy-preserving federated learning framework (P2FLF) in a mobile fog computing environment. By employing federated learning, it is possible to bring together numerous dispersed user sets and collectively train models without the need to upload datasets. Federated learning, an approach to distributed machine learning, has garnered significant attention for its ability to enable collaborative model training without the need to share sensitive data. By utilizing fog nodes deployed at the edge of the network, P2FLF ensures that sensitive mobile IoT data remains local and is not transmitted to the central server. The framework integrates privacy-preserving methods, such as differential privacy and encryption, to safeguard the data throughout the learning process. We evaluate the performance and efficacy of P2FLF through experimental simulations and compare it with existing approaches. The results demonstrate that P2FLF strikes a balance between model accuracy and privacy protection while enabling efficient federated learning in mobile IoT environments."
+  },
+  {
+   "paperId": "d84c65abc29c85f2eff53a6bf5516fb4a064941b",
+   "externalIds": {
+    "DBLP": "journals/tecs/GufranP23",
+    "ArXiv": "2307.01780",
+    "DOI": "10.1145/3607919",
+    "CorpusId": 259342844
+   },
+   "url": "https://www.semanticscholar.org/paper/d84c65abc29c85f2eff53a6bf5516fb4a064941b",
+   "title": "FedHIL: Heterogeneity Resilient Federated Learning for Robust Indoor Localization with Mobile Devices",
+   "venue": "ACM Transactions on Embedded Computing Systems",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3607919",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2307.01780, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-07-04",
+   "authors": [
+    {
+     "authorId": "2165469155",
+     "name": "Danish Gufran"
+    },
+    {
+     "authorId": "1681003",
+     "name": "Sudeep Pasricha"
+    }
+   ],
+   "abstract": "Indoor localization plays a vital role in applications such as emergency response, warehouse management, and augmented reality experiences. By deploying machine learning (ML) based indoor localization frameworks on their mobile devices, users can localize themselves in a variety of indoor and subterranean environments. However, achieving accurate indoor localization can be challenging due to heterogeneity in the hardware and software stacks of mobile devices, which can result in inconsistent and inaccurate location estimates. Traditional ML models also heavily rely on initial training data, making them vulnerable to degradation in performance with dynamic changes across indoor environments. To address the challenges due to device heterogeneity and lack of adaptivity, we propose a novel embedded ML framework called FedHIL. Our framework combines indoor localization and federated learning (FL) to improve indoor localization accuracy in device-heterogeneous environments while also preserving user data privacy. FedHIL integrates a domain-specific selective weight adjustment approach to preserve the ML model's performance for indoor localization during FL, even in the presence of extremely noisy data. Experimental evaluations in diverse real-world indoor environments and with heterogeneous mobile devices show that FedHIL outperforms state-of-the-art FL and non-FL indoor localization frameworks. FedHIL is able to achieve 1.62 × better localization accuracy on average than the best performing FL-based indoor localization framework from prior work."
+  }
+ ]
+}

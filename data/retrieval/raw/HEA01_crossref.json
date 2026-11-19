@@ -1,0 +1,767 @@
+{
+ "query": "Prevalence and prevention of type 2 diabetes",
+ "retrieved_at": "2026-11-18T18:06:39.345605+00:00",
+ "data": [
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>In 2000, more than 151 million people in the world are diabetic. It is predicted that by 2010, 221 million people and by 2025, 324 million will be diabetic. In the U.S., for the population born in 2000, the estimated lifetime risk for diabetes is more than 1 in 3. The economic and human cost of this disease is devastating. The current cost of diabetes in the U.S. is estimated to be at $132 billion, which includes $92 billion of direct medical costs and $40 billion of indirect costs such as disability, work loss and premature mortality. The outbreak of the current diabetic epidemic has been accompanied by a similarly drastic increase in obesity. The relation between the two is a matter of debate but presumably both are caused by changes in dietary habits and an increasingly sedentary modern lifestyle. Compelling scientific evidence indicates that lifestyle modification effectively prevents or delays the occurrence of type 2 diabetes. Recent clinical trials also demonstrate that success in the treatment of obesity, either surgically or pharmacologically, leads to the prevention of type 2 diabetes among the obese. Clinical data have also revealed that the insulin sensitizing agent troglitazone is efficacious in both β-cell preservation and delaying the onset of type 2 diabetes. Future safe and more effective anti-obesity medicines and insulin sensitizing agents that help to preserve β-cell function, in addition to efforts of lifestyle modification, thus hold promise for the overweight population with potential for reduction in the development of diabetics.</jats:p>",
+   "DOI": "10.1186/1743-7075-2-29",
+   "type": "journal-article",
+   "title": [
+    "Prevalence, predisposition and prevention of type II diabetes"
+   ],
+   "author": [
+    {
+     "given": "Dong",
+     "family": "Cheng",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Nutrition &amp; Metabolism"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      10,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1186/1743-7075-2-29"
+  },
+  {
+   "DOI": "10.1002/0470857358.ch5",
+   "title": [
+    "Genetic Screening and Prevention of Type 2 Diabetes"
+   ],
+   "container-title": [
+    "Prevention of Type 2 Diabetes"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      1,
+      7
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/0470857358.ch5",
+   "author": [
+    {
+     "given": "Paolo",
+     "family": "Pozzilli",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1046/j.1399-543x.2001.00000.x-i3",
+   "title": [
+    "Prevention of type 1a diabetes mellitus*"
+   ],
+   "container-title": [
+    "Pediatric Diabetes"
+   ],
+   "publisher": "Hindawi Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2001,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1046/j.1399-543x.2001.00000.x-i3",
+   "author": [
+    {
+     "given": "Darrell M",
+     "family": "Wilson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bruce",
+     "family": "Buckingham",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.2337/9781580406499.06",
+   "title": [
+    "6: The Prevention and Treatment of Hypoglycemia in Diabetes"
+   ],
+   "container-title": [
+    "Hypoglycemia in Diabetes: Pathophysiology, Prevalence, and Prevention"
+   ],
+   "publisher": "American Diabetes Association",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2337/9781580406499.06"
+  },
+  {
+   "DOI": "10.58758/hbsc.ch.diagn.03",
+   "title": [
+    "Prevalence of type 1 or 2 diabetes"
+   ],
+   "publisher": "Addiction Suisse",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "database",
+   "URL": "https://doi.org/10.58758/hbsc.ch.diagn.03"
+  },
+  {
+   "DOI": "10.2174/978160805361211201010020",
+   "title": [
+    "Prevalence of Type 2 Diabetes"
+   ],
+   "container-title": [
+    "Epidemiology of Type 2 Diabetes"
+   ],
+   "publisher": "BENTHAM SCIENCE PUBLISHERS",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      7,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2174/978160805361211201010020"
+  },
+  {
+   "DOI": "10.1002/0470857358.ch2",
+   "title": [
+    "Type 2 Diabetes Mellitus: Primary and Secondary Prevention the Vision of the International Diabetes Federation"
+   ],
+   "container-title": [
+    "Prevention of Type 2 Diabetes"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      1,
+      7
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/0470857358.ch2",
+   "author": [
+    {
+     "given": "Pierre",
+     "family": "Lefèbvre",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1111/pedi.12333",
+   "title": [
+    "Current and future efforts toward the prevention of type 1 diabetes"
+   ],
+   "container-title": [
+    "Pediatric Diabetes"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/pedi.12333",
+   "author": [
+    {
+     "given": "Laura",
+     "family": "Jacobsen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Division of Endocrinology, Department of Pediatrics; University of Florida; Gainesville FL USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Desmond",
+     "family": "Schatz",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Division of Endocrinology, Department of Pediatrics; University of Florida; Gainesville FL USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1111/pedi.12326",
+   "title": [
+    "JDRF's vision and strategy for prevention of type 1 diabetes"
+   ],
+   "container-title": [
+    "Pediatric Diabetes"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/pedi.12326",
+   "author": [
+    {
+     "given": "Richard",
+     "family": "Insel",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "JDRF; Research Department; New York NY USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jessica L.",
+     "family": "Dunne",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "JDRF; Research Department; New York NY USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1034/j.1399-5448.2001.002002071.x",
+   "title": [
+    "Risk assessment, prediction and prevention of type 1 diabetes"
+   ],
+   "container-title": [
+    "Pediatric Diabetes"
+   ],
+   "publisher": "Hindawi Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2001,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1034/j.1399-5448.2001.002002071.x",
+   "author": [
+    {
+     "given": "Leonard C",
+     "family": "Harrison",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4239/wjd.v6.i4.543",
+   "title": [
+    "Type 2 diabetes among Asian Americans: Prevalence and prevention"
+   ],
+   "container-title": [
+    "World Journal of Diabetes"
+   ],
+   "publisher": "Baishideng Publishing Group Inc.",
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.4239/wjd.v6.i4.543",
+   "author": [
+    {
+     "given": "Tam H",
+     "family": "Nguyen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thuc-Nhi",
+     "family": "Nguyen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Taylor",
+     "family": "Fischer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Won",
+     "family": "Ha",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thanh V",
+     "family": "Tran",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "American Diabetes Association",
+   "abstract": "<jats:p>The Diabetes Prevention Program (DPP) was a randomized clinical trial of prevention of type 2 diabetes in high-risk people. Troglitazone, an insulin-sensitizing agent, was used initially but was discontinued during the trial. Troglitazone therapy was compared with other DPP interventions, considering both the short-term “in-trial” results and the longer-term results after troglitazone were discontinued. From 1996 to 1998, participants were randomly assigned to treatment with metformin (n = 587), troglitazone (n = 585), double placebo (n = 582), or intensive lifestyle intervention (ILS) (n = 589). Because of concern regarding its liver toxicity, the troglitazone arm was discontinued in June 1998, after which follow-up of all participants continued. During the mean 0.9 year (range 0.5–1.5 years) of troglitazone treatment, the diabetes incidence rate was 3.0 cases/100 person-years, compared with 12.0, 6.7, and 5.1 cases/100 person-years in the placebo, metformin, and ILS participants (P &amp;lt; 0.001, troglitazone vs. placebo; P = 0.02, troglitazone vs. metformin; P = 0.18, troglitazone vs. ILS). This effect of troglitazone was in part due to improved insulin sensitivity with maintenance of insulin secretion. During the 3 years after troglitazone withdrawal, the diabetes incidence rate was almost identical to that of the placebo group. Troglitazone, therefore, markedly reduced the incidence of diabetes during its limited period of use, but this action did not persist. Whether other thiazolidinedione drugs used for longer periods can safely prevent diabetes remains to be determined.</jats:p>",
+   "DOI": "10.2337/diabetes.54.4.1150",
+   "type": "journal-article",
+   "title": [
+    "Prevention of Type 2 Diabetes With Troglitazone in the Diabetes Prevention Program"
+   ],
+   "author": [
+    {
+     "name": "The Diabetes Prevention Program Research Group*",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Diabetes"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      4,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2337/diabetes.54.4.1150"
+  },
+  {
+   "DOI": "10.2174/1573399813666170915132935",
+   "title": [
+    "Ethnic Disparity and Increased Prevalence of Type 2 Diabetes Among South Asians: Aetiology and Future Implications for Diabetes Prevention and Management"
+   ],
+   "container-title": [
+    "Current Diabetes Reviews"
+   ],
+   "publisher": "Bentham Science Publishers Ltd.",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      10,
+      10
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.2174/1573399813666170915132935",
+   "author": [
+    {
+     "given": "Venugopal",
+     "family": "Vijayakumar",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Anvesana Research Laboratories, S-VYASA University, Bengaluru, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ramesh",
+     "family": "Mavathur",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Anvesana Research Laboratories, S-VYASA University, Bengaluru, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Manjunath N.K.",
+     "family": "Sharma",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Anvesana Research Laboratories, S-VYASA University, Bengaluru, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1111/j.1753-0407.2010.00102.x",
+   "title": [
+    "Prediction and prevention of Type 1 diabetes mellitus"
+   ],
+   "container-title": [
+    "Journal of Diabetes"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/j.1753-0407.2010.00102.x",
+   "author": [
+    {
+     "given": "Li",
+     "family": "ZHANG",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "George S.",
+     "family": "EISENBARTH",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1111/pedi.12325",
+   "title": [
+    "A Swedish approach to the prevention of type 1 diabetes"
+   ],
+   "container-title": [
+    "Pediatric Diabetes"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/pedi.12325",
+   "author": [
+    {
+     "given": "Helena",
+     "family": "Elding Larsson",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Skåne University Hospital; Lund University/CRC; Malmö Sweden"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/b15389-9",
+   "title": [
+    "Micronutrients and type 2 diabetes"
+   ],
+   "container-title": [
+    "Nutrition and Type 2 Diabetes"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      8,
+      27
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/b15389-9"
+  },
+  {
+   "DOI": "10.5772/24324",
+   "title": [
+    "Prevention of Diabetes Complications"
+   ],
+   "container-title": [
+    "Type 1 Diabetes Complications"
+   ],
+   "publisher": "InTech",
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      11,
+      25
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5772/24324",
+   "author": [
+    {
+     "given": "Nepton",
+     "family": "Soltani",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.15620/cdc/251769",
+   "title": [
+    "National Diabetes Prevention Program: Working Together to Prevent Type 2 Diabetes"
+   ],
+   "publisher": "Centers for Disease Control and Prevention",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      30
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.15620/cdc/251769",
+   "abstract": "<jats:p>Description to come</jats:p>"
+  },
+  {
+   "DOI": "10.1002/0470857358.ch9",
+   "title": [
+    "A Paradigm Shift is Needed in the Primary Prevention of Type 2 Diabetes"
+   ],
+   "container-title": [
+    "Prevention of Type 2 Diabetes"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      1,
+      7
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/0470857358.ch9",
+   "author": [
+    {
+     "given": "Jaakko",
+     "family": "Tuomilehto",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.2337/9781580406499",
+   "title": [
+    "Hypoglycemia in Diabetes: Pathophysiology, Prevalence, and Prevention"
+   ],
+   "publisher": "American Diabetes Association",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "monograph",
+   "URL": "https://doi.org/10.2337/9781580406499",
+   "author": [
+    {
+     "given": "Philip",
+     "family": "Cryer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

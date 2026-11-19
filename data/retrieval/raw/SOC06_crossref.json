@@ -1,0 +1,935 @@
+{
+ "query": "Gender gap in labor force participation",
+ "retrieved_at": "2026-11-18T17:57:43.781065+00:00",
+ "data": [
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>A number of studies have shown a correlational relationship between measures of terrorism and the standing of women in the workforce as measured by female labor force participation. Various studies have proposed theories to explain these associations. Some have concluded that women’s participation in the labor force could be the driver that moves terrorism; others have proposed theories where terrorism and conflict motivate the deviations in the labor force. No study has adequately explored causality and the direction of this association. Using a panel data set of 165 countries and terrorism data from 1980-2007, this paper finds that terrorist attacks decrease female labor force participation and increase the gap between male and female labor force participation. By exploiting variation across countries and time, it is able to identify the effects of terrorism on female labor force participation and the labor gender gap. Furthermore, by using two novel instrumental variable approaches, it identifies a causal link and address endogeneity concerns related to the possibility of transitional development and shifting gender relations inciting terrorism. It finds that, on average, terrorist attacks decrease female labor force participation, ultimately widening the labor gender gap. The results are statistically significant and robust across a multitude of model specifications.</jats:p>",
+   "DOI": "10.2139/ssrn.2230011",
+   "type": "posted-content",
+   "title": [
+    "Terrorism and the Labor Force: Evidence of an Effect on Female Labor Force Participation and the Labor Gender Gap"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1350-5062",
+     "authenticated-orcid": true,
+     "given": "Claude",
+     "family": "Berrebi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jordan",
+     "family": "Ostwald",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2013
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.2230011"
+  },
+  {
+   "DOI": "10.2139/ssrn.5309995",
+   "title": [
+    "Job-Housing Mismatch and the Gender Gap in Labor Force Participation"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5309995",
+   "author": [
+    {
+     "given": "Xiong",
+     "family": "Xiao",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yifan",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chunbing",
+     "family": "Xing",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Banco de la República",
+   "abstract": "<jats:p>This study examines the cyclical and structural determinants of labor force participation (LFP) in Colombia between 1984 and 2024, focusing on the gender gap and its implications for potential economic growth. We find that higher women’s participation drove the upward LFP trend until 2014 and that the added worker effect predominates during economic fluctuations, particularly for women. Projecting the LFP to 2035 under various scenarios, we show that halving the gender gap could increase the potential GDP by up to 0.41 percentage points. This underscores the significant potential of increased female participation in driving economic growth and the need for supportive policies.</jats:p>",
+   "DOI": "10.32468/be.1326",
+   "type": "report",
+   "title": [
+    "A Cohort Analysis of the Gender Gap in Labor Force Participation in Colombia"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0374-5417",
+     "authenticated-orcid": false,
+     "given": "Francisco",
+     "family": "Lasso-Valderrama",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6844-9790",
+     "authenticated-orcid": false,
+     "given": "Mario A.",
+     "family": "Ramos-Veloza",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      5
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.32468/be.1326"
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Despite well-documented convergence during the later years of the 20th century, labor force attachment remains markedly higher for men than for women. The current paper employs rich longitudinal registry data to investigate the intergenerational transfer of the gender gap in labor force participation. We explore the extent that family- and community-level characteristics, measured in childhood, differentially predict the likelihood of employment for adult Norwegian men and women. Drawing on theories pertaining to the importance of information, skills and gender norms transfer, our empirical analysis demonstrates that a parsimonious set of family- and community-level characteristics can explain a substantial part of the gender gap. These results suggest that female labor force participation is constrained by the intergenerational transfer of beliefs and expectations about family and work.</jats:p>",
+   "DOI": "10.2139/ssrn.2363903",
+   "type": "posted-content",
+   "title": [
+    "The Intergenerational Transfer of the Gender Gap in Labor Force Participation"
+   ],
+   "author": [
+    {
+     "given": "Venke Furre",
+     "family": "Haaland",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9574-5851",
+     "authenticated-orcid": true,
+     "given": "Mari",
+     "family": "Rege",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kjetil",
+     "family": "Telle",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mark",
+     "family": "Votruba",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2013
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.2363903"
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:p>Recent studies have identified correlational associations linking terrorism and females’ standing in the labor market. Theories have been proposed to explain these associations. Some concluded that women’s participation in the labor force could be the driver that moves terrorism; others proposed that terrorism motivates the deviations in the labor force. No study has adequately explored causality and the direction of this association. Using a panel data set of 165 countries and terrorism data from 1980 to 2007, we find that terrorist attacks decrease female labor force participation and increase the gender gap between male and female labor force participation. By exploiting variation across countries and time, we are able to identify and quantify these effects; we are also able to address endogeneity concerns by using two novel instrumental variable approaches. The results are statistically significant and robust across a multitude of model specifications.</jats:p>",
+   "DOI": "10.1177/0022002714535251",
+   "type": "journal-article",
+   "title": [
+    "Terrorism and the Labor Force"
+   ],
+   "author": [
+    {
+     "given": "Claude",
+     "family": "Berrebi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Federmann School of Public Policy and Government, The Hebrew University of Jerusalem, Jerusalem, Israel"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jordan",
+     "family": "Ostwald",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Pardee RAND Graduate School, Santa Monica, CA, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Conflict Resolution"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      5,
+      27
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/0022002714535251"
+  },
+  {
+   "DOI": "10.1016/j.labeco.2023.102359",
+   "title": [
+    "Marriage patterns and the gender gap in labor force participation: Evidence from Italy"
+   ],
+   "container-title": [
+    "Labour Economics"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.labeco.2023.102359",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4699-5635",
+     "authenticated-orcid": false,
+     "given": "Giovanni",
+     "family": "Righetto",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4135/9781412964517.n242",
+   "title": [
+    "Labor Force Participation Rates by Gender"
+   ],
+   "container-title": [
+    "Encyclopedia of Gender and Society"
+   ],
+   "publisher": "SAGE Publications, Inc.",
+   "issued": {
+    "date-parts": [
+     [
+      2009
+     ]
+    ]
+   },
+   "type": "reference-entry",
+   "URL": "https://doi.org/10.4135/9781412964517.n242"
+  },
+  {
+   "DOI": "10.5089/9798229021456.001.a001",
+   "title": [
+    "Impact of Cross-Border Migration on the Gender Gap in Labor Force Participation in Latin America and in the Caribbean Countries"
+   ],
+   "publisher": "International Monetary Fund (IMF)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.5089/9798229021456.001.a001",
+   "author": [
+    {
+     "given": "Cassie Chen",
+     "family": "Xiang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Manuk",
+     "family": "Ghazanchyan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.2139/ssrn.5294938",
+   "title": [
+    "The Stalled Quiet Revolution: Population Control, Skewed Sex Ratios, and the Widening Gender Gap in Labor Force Participation"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5294938",
+   "author": [
+    {
+     "given": "Zihao",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yawen",
+     "family": "Ding",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Xu",
+     "family": "Tian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1257/rct.14648-1.0",
+   "title": [
+    "Misperceived Gender Norms and the Gender Gap in Labor Force Participation: Experimental Evidence from Couples in Colombia"
+   ],
+   "container-title": [
+    "AEA Randomized Controlled Trials"
+   ],
+   "publisher": "American Economic Association",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      24
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1257/rct.14648-1.0",
+   "author": [
+    {
+     "given": "Ana Maria",
+     "family": "Diaz",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Marie",
+     "family": "Boltz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Monserrat",
+     "family": "Bustelo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Agustina",
+     "family": "Suaya",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1257/rct.14648",
+   "title": [
+    "Misperceived Gender Norms and the Gender Gap in Labor Force Participation: Experimental Evidence from Couples in Colombia"
+   ],
+   "container-title": [
+    "AEA Randomized Controlled Trials"
+   ],
+   "publisher": "American Economic Association",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      24
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1257/rct.14648",
+   "author": [
+    {
+     "given": "Ana Maria",
+     "family": "Diaz",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Marie",
+     "family": "Boltz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Monserrat",
+     "family": "Bustelo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Agustina",
+     "family": "Suaya",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1596/1813-9450-9119",
+   "title": [
+    "Regional Integration in South Asia: Implications for Green Growth, Female Labor Force Participation, and the Gender Wage Gap"
+   ],
+   "publisher": "World Bank, Washington, DC",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1596/1813-9450-9119",
+   "author": [
+    {
+     "given": "Muthukumara",
+     "family": "Mani",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Badri Narayanan",
+     "family": "Gopalakrishnan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Deepika",
+     "family": "Wadhwa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/s0927-5371(00)00007-5",
+   "title": [
+    "An examination of cross-country differences in the gender gap in labor force participation rates"
+   ],
+   "container-title": [
+    "Labour Economics"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2000,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/s0927-5371(00)00007-5",
+   "author": [
+    {
+     "given": "Heather",
+     "family": "Antecol",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/s11205-021-02631-9",
+   "title": [
+    "Rising Female Labor Force Participation and Gender Wage Gap: Evidence From Turkey"
+   ],
+   "container-title": [
+    "Social Indicators Research"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s11205-021-02631-9",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0676-2375",
+     "authenticated-orcid": false,
+     "given": "Altan",
+     "family": "Aldan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.jdeveco.2014.07.003",
+   "title": [
+    "International trade, the gender wage gap and female labor force participation"
+   ],
+   "container-title": [
+    "Journal of Development Economics"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      11
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.jdeveco.2014.07.003",
+   "author": [
+    {
+     "given": "Philip",
+     "family": "Sauré",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hosny",
+     "family": "Zoabi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "American Economic Association",
+   "abstract": "<jats:p> Married women's labor force participation (LFP) increased dramatically in the United States between the 1940 and 1960 cohort. The two cohorts lived under different divorce regimes (unilateral divorce rather than mutual consent). The 1960 cohort also had a lower gender wage gap. We use a quantitative dynamic life-cycle model of endogenous marital status, calibrated to key statistics for the 1940 cohort, to study the effects of these two changes. We find that both drivers combined are able to account for over 50 percent of the increase in married women's LFP and also generate large movements in marriage and divorce rates. </jats:p>",
+   "DOI": "10.1257/aer.104.5.342",
+   "type": "journal-article",
+   "title": [
+    "Unilateral Divorce, the Decreasing Gender Gap, and Married Women's Labor Force Participation"
+   ],
+   "author": [
+    {
+     "given": "Raquel",
+     "family": "Fernández",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "NYU, 19 W. 4th St, New York, NY 10012 (e-mail: )"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Joyce",
+     "family": "Wong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IMF, 1900 Pennsylvania Avenue, Washington, DC 20431 (e-mail: )"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "American Economic Review"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      5,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1257/aer.104.5.342"
+  },
+  {
+   "publisher": "Yonetim ve Ekonomi Arastirmalari Dergisi - Journal of Management and Economics Research",
+   "abstract": "<jats:p xml:lang=\"en\">The roles and status of women have been discovered to be lagging behind in developing countries, especially when it comes to distribution of resources. Why? You may ask. The answer is not far-fetched. The cultural and demographic values developed overtime, as well as the practice of having a social system that is run by males rather than females, are a few reasons for this. Owing to the fact that the existing socio-cultural environment goes a long way to determine how things are accorded to both genders both in the home front, as well as in the labor market, it is not surprising to find women in Turkey lagging behind in many aspects. The purpose of this study is to observe and understand the inherent relationship between female unemployment and economic inequality with regards to the social and demographic norms surrounding the female gender in Turkey. In addition, reducing informal employment, promoting high quality and productive jobs are crucial for addressing the problems of female unemployment.</jats:p>",
+   "DOI": "10.11611/yead.556291",
+   "type": "journal-article",
+   "title": [
+    "GENDER INEQUALITY IN LABOR FORCE PARTICIPATION IN TURKEY:  CLOSING THE GENDER GAP?",
+    "TÜRKİYE'DE İŞGÜCÜNE KATILIMDA CİNSİYET EŞİTSİZLİĞİ: CİNSİYET FARKI KAPANIYOR MU?"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4689-3196",
+     "authenticated-orcid": true,
+     "given": "Meltem",
+     "family": "İNCE YENİLMEZ",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "YASAR UNIVERSITESY FACULTY OF BUSINESS"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Yönetim ve Ekonomi Araştırmaları Dergisi"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      9,
+      30
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.11611/yead.556291"
+  },
+  {
+   "DOI": "10.1787/888933691781",
+   "title": [
+    "Figure 1.20. Thailand’s gender gap in labour force participation is small relative to comparator countries"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1787/888933691781"
+  },
+  {
+   "DOI": "10.1257/rct.12801-3.0",
+   "title": [
+    "Female Labor Force Participation and Mixed Gender Workplaces"
+   ],
+   "container-title": [
+    "AEA Randomized Controlled Trials"
+   ],
+   "publisher": "American Economic Association",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      6
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1257/rct.12801-3.0",
+   "author": [
+    {
+     "given": "Kailash",
+     "family": "Rajah",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Mahidol University Library and Knowledge Center",
+   "abstract": "<jats:p>Myanmar has undertaken significant economic and social changes but the challenges related to traditional customs and ideas still remained. In Myanmar, the labor force participation rates of males and females are still disproportionate. The traditional belief that household chores and reproductive burdens should be solely carried by women still exists. This disproportionate distribution of household responsibilities affects the women’s ability to explore their lives outside the homes. Therefore, female burden on the unpaid work could lead to their lower capacity to participate in labor market. This study aimed to explore the influence of gender inequality in unpaid work on the labor market outcomes among women and to examine the unpaid work factors affect the lower female labor market outcomes using the 2019 Myanmar Inter-censal survey data. This study analyzed 194,830 women at working age 15 to 64 years old using univariate, bivariate, multivariate and linear regressions analysis. Results showed that unpaid work factors were significantly associated with the female labor force participation. Commonly in Myanmar, wife bears responsibility in child rising and housework which could reduce time to work outside home. The findings supported this norm. Four measures of unpaid-work responsibility which comprised of being married (AOR = 0.67), having children (AOR=0.76), number of household member (AOR = 0.97) and having males in the household (AOR= 0.83) were negatively related to the odds of participating in the labor market of women controlling for age, education, household wealth, and residential areas. However, some members can help bearing the household chores and make it possible for women to work outside home. The findings showed that a woman who live in the house with other women and with elders were 1.11 times and 1.14 times more likely to participate in the labor market. For the employed women who lived in the house with other women and with more members were more likely to work full-time. On the other hand, married women (AOR=1.10), those with children (AOR =1.15), women who live with elders (AOR=1.06) and those live with males (AOR=1.05) were more likely to have part-time jobs. Similarly, the women who live in a household with more members and other women used more time for work outside. However, married women, women who live in a household with the children, elders and having males in the household invested lower time for work. Implication of Thesis: Unpaid work performs as a creation of well-being. However, disproportional burden of housework and child rearing that hinder women to perform well in the labor market could deplete female well-being. This study suggests that unpaid factors are associated with lower female labor market outcomes in Myanmar. Interventions that can effectively transform unpaid work for gender equality is required.</jats:p>",
+   "DOI": "10.67546/mu.th.6338196",
+   "type": "dissertation",
+   "title": [
+    "Gender inequality in unpaid work and female labor force participation in Myanmar"
+   ],
+   "author": [
+    {
+     "given": "Theingi Win",
+     "family": "Aye",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/01znkr924",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.67546/mu.th.6338196"
+  }
+ ]
+}

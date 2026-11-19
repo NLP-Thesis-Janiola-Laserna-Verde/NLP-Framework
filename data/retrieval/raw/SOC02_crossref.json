@@ -1,0 +1,739 @@
+{
+ "query": "Remittances and household welfare in developing countries",
+ "retrieved_at": "2026-11-18T17:56:39.032830+00:00",
+ "data": [
+  {
+   "DOI": "10.55057/ijbtm.2025.7.11.23",
+   "title": [
+    "Do Remittances, FDI, and Digitalization Drive Household Welfare in Asian Developing Countries? The Moderating Role of Regulatory Quality"
+   ],
+   "container-title": [
+    "International Journal of Business and Technology Management"
+   ],
+   "publisher": "Asian Scholars Network",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.55057/ijbtm.2025.7.11.23",
+   "abstract": "<jats:p>Asia’s economic growth has been strong, yet many households have not experienced matching welfare gains. This study examines the effects of remittances, foreign direct investment (FDI), and digitalization on household welfare in Asian lower middle income and upper middle-income countries. Annual panel data for 2010 to 2023 are analyzed using System GMM to address endogeneity, unobserved heterogeneity, and persistence, with robustness checks using alternative specifications and country level estimates. The results show that digitalization has a positive and the most consistent effect across both groups. Remittances are also positive, with a stronger impact in upper middle-income economies. FDI does not exhibit a stable effect at the household level. Regulatory quality, particularly in upper middle-income countries, amplifies the effect of digitalization, while its moderation of remittances is weak and not observed for FDI. Country level checks confirm substantial cross-country heterogeneity. Policy implications include expanding affordable digital infrastructure, strengthening digital literacy, deepening financial inclusion, and improving governance so that the benefits of digitalization and remittances shift from consumption toward household saving and investment. The study’s novelty lies in jointly mapping these three channels within a dynamic framework that distinguishes income groups and underscores the role of regulatory quality in transmitting gains to households.</jats:p>"
+  },
+  {
+   "DOI": "10.2499/p15738coll2.136768",
+   "title": [
+    "Remittances and household welfare: Findings from the Myanmar Household Welfare Survey MHWS"
+   ],
+   "publisher": "International Food Policy Research Institute",
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.2499/p15738coll2.136768",
+   "author": [
+    {
+     "given": "Myanmar Agriculture",
+     "family": "Policy Support Activity",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Engineering Perspective",
+   "abstract": "<jats:p>Nowadays, the world’s socio-economic development and well-being of society are based on energy accessibility. As the number of energy accessors increases some global problems have been highlighted including climate change and global\n                        warming. Those problems lead the developing countries including Rwanda to food insecurity and poverty. Easily accessible energy in Rwanda is biomass energy which occupies above 83% of the total energy consumption. Electrification\n                        and green energy like solar and gas energy are considerably increasingly accessed by Rwandans. Those clean energies are mostly available in the cities compared to the rural villages. Industries and other businesses are located\n                        in the city due to the energy accessibility, and youth are shifting from rural areas to the cities to look for jobs and a civilized way of living. Therefore, in this study, we assessed and analysed the impact of energy accessibility\n                        on the household’s welfare. The econometric approach method with Integrated Household Living Conditions Survey 5 (EICV5) has been used to assess the country’s level of energy access and the impact of energy access on the households\n                        ‘welfare is identified. We used simple regression analysis's ordinary least squares test (OLS) to analyze those impacts. The data from the National Institute of Statistics Rwanda that are treated using STATA software show that\n                        access to electricity affects a household’s welfare generally increasing. From the coefficient estimates, the non-farm business increased by 68.4% in rural areas. In the education sector, there is an impact of clean energy accessibility\n                        which has 52.6%. Therefore, the general consideration of the impact of energy accessibility impact to the household’s welfare plays an important role at a rate of 68% in people’s way of living in both rural areas and cities of\n                        Rwanda.</jats:p>",
+   "DOI": "10.29228/eng.pers.70681",
+   "type": "journal-article",
+   "title": [
+    "Impact of Energy Accessibility to Household Welfare in Developing Countries: Case Study Rwanda"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0005-0249-1813",
+     "authenticated-orcid": true,
+     "given": "Umuhoza",
+     "family": "Redempta",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Rwanda"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Umugwaneza",
+     "family": "Julie",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Rwanda"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2422-9056",
+     "authenticated-orcid": true,
+     "given": "Pacifique",
+     "family": "Turabimana",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Engineering Perspective"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.29228/eng.pers.70681"
+  },
+  {
+   "DOI": "10.1016/j.worlddev.2010.10.006",
+   "title": [
+    "Remittances and Household Consumption Instability in Developing Countries"
+   ],
+   "container-title": [
+    "World Development"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.worlddev.2010.10.006",
+   "author": [
+    {
+     "given": "Jean-Louis",
+     "family": "Combes",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Christian",
+     "family": "Ebeke",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>This paper mainly focuses on the construction of a household welfare index to examine the welfare impact of international remittances in rural Bangladesh. This paper, in achieving this objective, uses primary data and several methods. This paper constructs a household welfare index newly to measure the level of household welfare. Besides, a linear regression and Chi-square test is used to examine the welfare and poverty impact of international remittances, respectively. Remittance receiving households enjoy the higher level of welfare more than non-recipient households in the study area. Household welfare is augmented by 0.116 if the household is under the shade of international remittances. A significant impact of international remittances on the reduction of household poverty is also found in this study. Therefore, this paper suggests policymakers for utilizing international remittances as a significant tool to enhance household welfare and to reduce household poverty.</jats:p>",
+   "DOI": "10.20944/preprints202105.0551.v1",
+   "type": "posted-content",
+   "title": [
+    "Construction of Household Welfare Index and Welfare Impact of International Remittances in Rural Bangladesh"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4489-431X",
+     "authenticated-orcid": false,
+     "given": "Bezon",
+     "family": "Kumar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      24
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.20944/preprints202105.0551.v1"
+  },
+  {
+   "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+   "abstract": "<jats:title>\"Remittances\" et activité économique dans les pays en développement</jats:title>\n                <jats:p xml:lang=\"fr\">Depuis le vingtième siècle, les flux migratoires ont augmenté entrainant des flux financiers – nommés \"remittances\" - partant des zones d'immigration vers celles d'émigration. Ces transferts, que les migrants envoient à leurs familles dans leur pays d'origine peuvent générer des effets opposés selon des pays. Cette thèse a pour objectif d'analyser leurs conséquences sur le capital physique et humain dans les pays qui les reçoivent.Le premier chapitre souligne l'impact négatif de ces flux sur le stock de capital ainsi que sur l'offre de travail. Ce revenu supplémentaire durant leur dernière période de vie conduit les individus à moins travailler et moins épargner. Ces transferts peuvent rapprocher ou éloigner les économies de la règle d'or d'accumulation du capital en fonction de leurs caractéristiques. Une politique de taxation est proposée afin de maximiser le bien-être. Le second chapitre étend l'analyse à des économies ouvertes faisant face à des contraintes exogènes de crédit sur le marché international des capitaux. Il montre que les transferts réduisent les incitations des agents à épargner, mais peuvent accroitre l'investissement en capital physique dans certains pays, via les entrées de capitaux, en relâchant directement la contrainte de crédit. Le troisième chapitre développe un modèle de croissance avec accumulation de capital humain, dans lequel les agents empruntent pour s'éduquer. Les contraintes de crédit sont cette fois endogènes : les agents ne peuvent s'engager à rembourser et sont exclus du marché des capitaux en cas de défaut. Ce modèle explique que les \"remittances\" peuvent générer des effets positifs, dans certains pays, ou négatifs dans d'autres.</jats:p>",
+   "DOI": "10.70675/3cb3e548zdc52z4c68z879czf230712cc8e1",
+   "type": "dissertation",
+   "title": [
+    "Remittances and economic activity in developing countries"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0075-9805",
+     "authenticated-orcid": false,
+     "given": "Nicolas",
+     "family": "Destrée",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/035xkbk20",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Aix-Marseille"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70675/3cb3e548zdc52z4c68z879czf230712cc8e1"
+  },
+  {
+   "DOI": "10.1596/1813-9450-3310",
+   "title": [
+    "Bundling Services and Household Welfare in Developing Countries: The Case of Peru"
+   ],
+   "publisher": "World Bank, Washington, D.C.",
+   "issued": {
+    "date-parts": [
+     [
+      2003,
+      11
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1596/1813-9450-3310",
+   "author": [
+    {
+     "given": "Alberto",
+     "family": "Chong",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jesko",
+     "family": "Hentschel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jaime",
+     "family": "Saavedra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/888933856986",
+   "title": [
+    "Figure 2.22. Remittances have been increasing with developing countries’ GDP"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1787/888933856986"
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>This paper examines the impact of remittances on economy and household welfare in Pakistan by using a general equilibrium framework and microeconometric analysis. The first approach is to highlight the macroeconomic and sectoral effects of a reduction in remittances, while the second is to show how remittances decrease the probability of being poor and affect the household consumption expenditure and hence poverty. The findings suggest that reduction in remittances will reduce gross domestic product, investment, and household consumption, which in turn will increase poverty. On the other hand, the probability of households becoming poor decreases by 12.7% if they receive remittances. The poverty headcount ratio and Gini coefficient decline by 7.8% and 4.8%, respectively, for household-receiving remittances. Given the important role of remittance, the key challenge for the government is to provide incentives to attract more remittances sent through formal channels and ensure their productive use.</jats:p>",
+   "DOI": "10.2139/ssrn.1632200",
+   "type": "posted-content",
+   "title": [
+    "Remittances and Household Welfare: A Case Study of Pakistan"
+   ],
+   "author": [
+    {
+     "given": "Vaqar",
+     "family": "Ahmed",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guntur",
+     "family": "Sugiyarto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4451-2740",
+     "authenticated-orcid": true,
+     "given": "Shikha",
+     "family": "Jha",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.1632200"
+  },
+  {
+   "DOI": "10.1786/532553067068",
+   "title": [
+    "Migrants’ remittances and other capital flows to developing countries, 1988-2002"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1786/532553067068"
+  },
+  {
+   "DOI": "10.1786/326418524774",
+   "title": [
+    "Top 30 developing countries with the highest total remittances received, 2002"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1786/326418524774"
+  },
+  {
+   "DOI": "10.1786/701528020322",
+   "title": [
+    "Top 30 developing countries with the highest remittances per capita received, 2002"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1786/701528020322"
+  },
+  {
+   "DOI": "10.1787/888933422652",
+   "title": [
+    "Figure 7.3. Remittances to developing countries far exceed official development assistance (ODA)"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1787/888933422652"
+  },
+  {
+   "DOI": "10.1016/j.enpol.2016.06.039",
+   "title": [
+    "Household welfare implications of fossil fuel subsidy reforms in developing countries"
+   ],
+   "container-title": [
+    "Energy Policy"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.enpol.2016.06.039",
+   "author": [
+    {
+     "given": "Allen",
+     "family": "Dennis",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.worlddev.2022.106110",
+   "title": [
+    "Household welfare in the digital age: Assessing the effect of mobile money on household consumption volatility in developing countries"
+   ],
+   "container-title": [
+    "World Development"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.worlddev.2022.106110",
+   "author": [
+    {
+     "given": "Ablam Estel",
+     "family": "Apeti",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Remittances can potentially help to promote economic development by providing a mechanism to share risks, reduce poverty, and improve equality.  However, the overall impacts of remittances are uncertain from the view of economic theory as different mechanisms lead to opposite impacts.  Since the 1990s, Vietnam has experienced a dramatic growth in remittance flows from abroad.  Vietnam is a unique case for study, as economic motives historically played a smaller role in outward migration.  Fortunately, household survey data is available for this time period, allowing for a detailed analysis of the impacts of international remittances on Vietnam.  Specifically, we examine the characteristics of recipients and the impacts of international remittances on economic inequality and poverty.  We conclude that international remittances are helping to improve equality.  As such, new development policies must also account for potential impacts on remittance flows.</jats:p>",
+   "DOI": "10.2139/ssrn.1296304",
+   "type": "posted-content",
+   "title": [
+    "Determinants and Impacts of International Remittances on Household Welfare in Vietnam"
+   ],
+   "author": [
+    {
+     "given": "Wade D.",
+     "family": "Pfau",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6296-0563",
+     "authenticated-orcid": true,
+     "given": "Long Thanh",
+     "family": "Giang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.1296304"
+  },
+  {
+   "DOI": "10.22541/au.173016229.99374988/v2",
+   "title": [
+    "Economic Impact of Remittances on Household Welfare in  South Asia: A Study of Nepal and Bangladesh"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      15
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.22541/au.173016229.99374988/v2",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8874-3372",
+     "authenticated-orcid": false,
+     "given": "Shunsuke",
+     "family": "Sato",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.eap.2018.07.001",
+   "title": [
+    "The impacts of international migrants’ remittances on household consumption volatility in developing countries"
+   ],
+   "container-title": [
+    "Economic Analysis and Policy"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.eap.2018.07.001",
+   "author": [
+    {
+     "given": "Ripon Kumar",
+     "family": "Mondal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rasheda",
+     "family": "Khanam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.22541/au.173016229.99374988/v1",
+   "title": [
+    "Economic Impact of Remittances on Household Welfare in South Asia: A Study of Nepal and Bangladesh"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      29
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.22541/au.173016229.99374988/v1",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8874-3372",
+     "authenticated-orcid": false,
+     "given": "Shunsuke",
+     "family": "Sato",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1596/1813-9450-9576",
+   "title": [
+    "How Do Digital Technologies Affect Household Welfare in Developing Countries? Evidence from Senegal"
+   ],
+   "publisher": "World Bank, Washington, DC",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      3
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1596/1813-9450-9576",
+   "author": [
+    {
+     "given": "Samantha",
+     "family": "Lach",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Carlos",
+     "family": "Rodriguez-Castelan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Takaaki",
+     "family": "Masaki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rogelio",
+     "family": "Granguillhome Ochoa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

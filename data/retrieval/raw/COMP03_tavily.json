@@ -1,0 +1,166 @@
+{
+ "query": "Explainable artificial intelligence methods for deep neural networks",
+ "retrieved_at": "2026-11-18T17:44:24.821127+00:00",
+ "data": [
+  {
+   "url": "https://www.cda.cit.tum.de/files/eda/2022_icmla_utilizing_explainable_ai_for_improving_the_performance_of_neural_networks.pdf",
+   "title": "Utilizing Explainable AI for improving the Performance of Neural Networks",
+   "content": "A. Explainable Artificial Intelligence Several class activation mapping (CAM) based XAI algo-rithms such as CAM  and gradient class activation mapping (Grad-CAM)  are used, in the literature, to explain well-trained CNN architecture in image classification tasks. They typically work by generating saliency maps through a linear combination of activation maps that highlight the model’s attention area. Although those methods are widely-spread, there is still a lack of research on using XAI [...] a hyper-parameter retrieved by using grid-search methods on the validation set. This defines the stability of the training procedure. Afterward, we combine our weighting approaches with each one of the retraining experiments. This shows for the first time that XAI methods substantially improve the network performance by aligning the weighting parameter with the data sample. In order to establish a benchmark, we compare our weighting approaches to the non-weighted parameter retraining. This [...] For a given input x, f(x) denotes the prediction output. A simplified input x′ can be restored to the input x through a mapping function x = hx(x′). When the binary vector z′ ≈x′, additive feature attribution methods ensure g(z′) ≈f c(hx(x′)) where c is the target class of given input x.\nSHAP values SHAP values are the feature attributions of the explanation model, which obeys Eq. 1 and are formulated as follows: ϕi = X z′⊂x′ (M −|z′|)!(z′ −1)!\nM!",
+   "score": 0.8000679,
+   "raw_content": null,
+   "id": "d25a41-00"
+  },
+  {
+   "url": "https://ceur-ws.org/Vol-3803/paper4.pdf",
+   "title": "Explainable Artificial Intelligence: An Overview on Hybrid Models",
+   "content": "k-Nearest Neighbors (DkNN) algorithm , by employing its inference on the latent representation of the training data set acquired through layers of a DNN. DKNNs have proven to be efficient and robust, and offer example-based and neighborhood-based explanations. Another model that applies neighborhood information and ensemble methods is Deep Weighted Averaging Classifiers (DWAC) , which combines the output of multiple classifiers using a weighted average, where weights are learned adaptively. [...] of computation, characterization and analysis of symbolic computation to improve the interpretability of the neural network. Among this type of algorithms are Conceptors , which restrict the represen-tations learned by a deep neural network to a specific concept, being applied as an additional layer at the end of the network that makes them more stable, interpretable and robust to per-turbations, allowing them to generalize to new data and increase their explainability. With a similar [...] 3.2. Interpretable Modeling Techniques Approaches One of the prevailing methodologies in this domain involves integrating Deep Neural Networks (DNN) with inherently interpretable modeling techniques . This approach seeks to combine the powerful predictive capabilities of DNNs with the inherent transparency and comprehensi-bility offered by specific modeling methods, such as decision trees and linear regression. By leveraging interpretable methods alongside DNNs, researchers aim to develop",
+   "score": 0.77475387,
+   "raw_content": null,
+   "id": "81cf7f-01"
+  },
+  {
+   "url": "http://iphome.hhi.de/samek/pdf/HolXXAI22b.pdf",
+   "title": "Explainable AI Methods - A Brief Overview",
+   "content": "GitHub Repo:  Discussion: Integrated Gradients is a widespread technique for explaining deep neural networks or other diﬀerentiable models. It is a theoretically sound approach based on two desirable properties: sensitivity and implementation in-variance. In addition, it is computationally eﬃcient and uses gradient informa-tion at a few selected points α. The three main drawbacks are: (1) need for the baseline observation, selection of which signiﬁcantly inﬂuence the attributions, (2) works [...] 2.5 Deep Taylor Decomposition (DTD) Idea: The Deep Taylor Decomposition (DTD) method  is a propagation-based explanation technique, which explains decisions of a neural network by decomposition. It redistributes the function value (i.e., the output of the neural network) to the input variables in a layer-by-layer fashion, while utilizing the mathematical tool of (ﬁrst-order) Taylor expansion to determine the proportion or relevance assigned to the lower layer elements in the redistribution [...] (2) works only for diﬀerentiable models, suitable for neural networks but not, e.g., for decision trees, (3) by default, gradients are integrated along the shortest path between the baseline and the point of interest. Depending on the topology of the data, this path does not always make sense and cover the data. Fur-thermore, deep models usually suﬀer from the gradient shattering problem , which may negative aﬀect the explanation (see discussion in ). Extensions to this method are proposed to",
+   "score": 0.7629543,
+   "raw_content": null,
+   "id": "9de39e-02"
+  },
+  {
+   "url": "https://schortenger.github.io/files/XAI_Adrian_salazar_Literature_Review.pdf",
+   "title": "Explainable Artificial Intelligence: A Review of the Literature",
+   "content": "them to detect bias behaviours in the neural network structures Finally, explanation-producing systems are model-intrinsic methodologies that modify the deep learning architecture to make it explainable. The techniques usually follow three approaches. First, through attention networks that learn and display the weight of the inputs [Xiao et al., 2015]. A sec-ond approach is through disentangled representations; this approach identiﬁes relevant elements in the data; the concept is similar to a [...] is similar to a feature selection process. However, in this case the methodology is embedded into the neural network architecture. One example in this category is Beta-VAE that identiﬁes explainable factors in generative neural networks [Higgins et al., 2017]. The last approach is through training neural networks with actual explanations. This approach generates human read-able information resulting from a training process with a data-set that contains human written explanations [Antol et al., [...] Another kind of model-intrinsic methodologies suggests to modify the original architecture of the opaque models such as neural networks to produce explanations. In this direction, the studies are mostly focus in modifying artiﬁcial neural networks [Adadi and Berrada, 2018]. [Choi et al., 2016] suggests a neural network able to provide explainable elements by constraining the weights as-signed to the neural networks inputs. [Simonyan et al., 2013] suggest a explainable methodology for",
+   "score": 0.76242405,
+   "raw_content": null,
+   "id": "141f34-03"
+  },
+  {
+   "url": "https://nvlpubs.nist.gov/nistpubs/ir/2021/nist.ir.8312.pdf",
+   "title": "Four Principles of Explainable Artificial Intelligence",
+   "content": "In deep neural networks, one such global algorithm is TCAV (Testing with Concept Ac-tivation Vectors) . TCAV wishes to explain a neural network in a more user-friendly way by representing the neural network state as a linear weighting of human-friendly con-cepts, called Concept Activation Vectors (CAVs). TCAV was applied to explain image classiﬁcation algorithms through learning CAVs including color, to see how colors inﬂu-enced the image classiﬁer’s decisions. [...] Prototypes , representative samples of each class, are also sometimes used as a global explanation for a neural network in addition to sometimes being a self-interpretable model as mentioned in Section 6.1. [...] explanation accuracy by adding white noise to 17 ______________________________________________________________________________________________________ This publication is available free of charge from:  the inputs and measuring how much the explanation changes. Adebayo et al.  evaluated explanation accuracy of saliency pixel explanations for deep neural networks by measur-ing the amount the explanation changed relative to how the trained models differed. Sixt et al.  evaluated the quality of",
+   "score": 0.76100606,
+   "raw_content": null,
+   "id": "cb001d-04"
+  },
+  {
+   "url": "https://www.itu.int/dms_pub/itu-s/opb/journal/S-JOURNAL-ICTF.VOL1-2018-1-P05-PDF-E.pdf",
+   "title": "EXPLAINABLE ARTIFICIAL INTELLIGENCE",
+   "content": "field and makes a plea for more interpretability in artificial intelligence. Furthermore, it presents two approaches to explaining predictions of deep learning models, one method which computes the sensitivity of the prediction with respect to changes in the input and one approach which meaningfully decomposes the decision in terms of the input variables. These methods are evaluated on three classification tasks. Keywords – Artificial intelligence, black-box models, deep neural networks, [...] and can be summarized as This property says that at every step of the redistribution process (e.g. at every layer of a deep neural network), the total amount of relevance i.e. the prediction f (x) is conserved. No relevance is artificially added or removed during redistribution. The relevance score Ri of each input variable determines how much this variable has contributed to the prediction. Thus, in contrast to sensitivity analysis, LRP truly decomposes the function value f (x). [...] In the following we describe the LRP redistribution process for feed-forward neural networks; redistribution procedures have also been proposed for other popular models [5, 4, 20]. Let xj be the neuron activations at layer l, Rk be the relevance scores associated to the neurons at layer l + 1 and wjk be the weight connecting neuron j to neuron k. The simple LRP rule redistributes relevance from layer l + 1 to layer l in the following way: where a small stabilization term 𝜖𝜖 is added to prevent",
+   "score": 0.7407374,
+   "raw_content": null,
+   "id": "54daac-05"
+  },
+  {
+   "url": "https://www.intechopen.com/chapters/1232451",
+   "title": "Explainable Deep Learning Models for Engineering Systems: Bridging Accuracy and Interpretability | IntechOpen",
+   "content": "Recent research has explored hybrid approaches to improve accuracy and interpretability in machine learning. These strategies include rule extraction, which uses interpretable decision rules from DNNs, and knowledge distillation, which trains a simpler model to mimic complex predictions. Attention mechanisms within neural networks allow models to focus on relevant input data, providing implicit explanations for predictions. These hybrid methods aim to bridge the gap between accuracy and [...] Permutation importance: The permutation importance technique measures the impact of individual features on a model’s performance, indicating high feature importance and providing a global interpretation of feature relevance.\n Gradient-based methods: Saliency maps use backpropagation to compute gradients of outputs with input features, revealing model sensitivity to changes in input variables, particularly in engineering contexts involving sensor networks.\n\n#### 4.2.2 Surrogate models [...] Deep neural network-based controllers in the chemical industry improve process yield optimization. However, regulatory compliance requires transparent control actions. XAI methods bridge this gap by using surrogate models, such as decision trees, to simplify complex DNN controllers. Integrating XAI in process engineering improved chemical yield by 15% and ensured transparent decision-making. This demonstrates the dual benefit of XAI in both enhancing process efficiency and satisfying regulatory",
+   "score": 0.7397986,
+   "raw_content": null,
+   "id": "4adabe-06"
+  },
+  {
+   "url": "https://medium.com/@_dipkamal/deep-learning-and-explainable-ai-xai-a-brief-overview-c92dc2e4a273",
+   "title": "Deep learning and explainable AI (XAI): A brief overview",
+   "content": "methods include: rule-based explanations like ANCHOR that provides a decision rule on a combination of input features and are commonly used in tabular data. Counterfactual-based explanations (e.g., DeepAID) provide the closest instance of opposite prediction, such that their difference in feature provides explanations for the model prediction. A different explanation direction explains model prediction in terms of high-level human concepts. Instead of relying on input features, these methods, [...] Feature attribution methods interpret the impact of individual features (input variables) on the model’s predictions. They assign a score to each feature that quantifies its importance in the model’s prediction for the given example, and are widely used in research and industry. Given a trained model and a test instance , a feature attribution-based explanation method returns a vector that provides the attribution vector (importance vector) of the feature. Other explanation methods include: [...] Pitfalls: How do you get the baseline right? Luck?\n\n### Class Activation Maps: Zooming in\n\nThe Play: Generating feature-importance maps for specific classes\n\nHow? Techniques like Grad-CAM involve backpropagating gradients to the convolutional layer, creating localization maps that highlight feature attribution. Perfect for Convolutional Neural Networks (CNNs).\n\nPitfalls: Specific to Convolutional Neural Networks (CNNs)\n\n### The Reality Check",
+   "score": 0.72691053,
+   "raw_content": null,
+   "id": "eced9f-07"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence",
+   "title": "Explainable artificial intelligence - Wikipedia",
+   "content": "Explainable AI recently became a topic of research within deep learning. Modern complex AI techniques, such as deep learning, are naturally opaque. To address this issue, methods have been developed to make new models more explainable and interpretable. This includes layerwise relevance propagation (LRP), a technique for determining which features in a particular input vector contribute most strongly to a neural network's output, although this technique has been shown to suffer from several [...] For convolutional neural networks, DeepDream can generate images that strongly activate a particular neuron, providing a visual hint about what the neuron is trained to identify.\n\n### Knowledge localization\n\n[edit]\n\nLarge language models (LLMs), such as transformer-based models \"Transformer (deep learning)\") (GPT), appear to use general knowledge when generating output (completing inference). This capability raises the question of how, exactly, such knowledge is stored within the model. [...] | Neural network architectures |  Neural Turing machine  Differentiable neural computer  Transformer \"Transformer (deep learning)\")   + Vision transformer (ViT)  Recurrent neural network (RNN)  Long short-term memory (LSTM)  Gated recurrent unit (GRU)  Echo state network  Multilayer perceptron (MLP)  Convolutional neural network (CNN)  Residual neural network (RNN)  Highway network  Mamba \"Mamba (deep learning architecture)\")  Autoencoder  Variational autoencoder (VAE)  Generative adversarial",
+   "score": 0.71092945,
+   "raw_content": null,
+   "id": "a1032f-08"
+  },
+  {
+   "url": "https://www.foi.se/rest-api/report/FOI-R--4849--SE",
+   "title": "Exploring XAI Techniques in Military Deep Learning Applications",
+   "content": "3.2.1 Gradient saliency Gradient saliency (also called sensitivity analysis) is one of the earliest local explanation techniques, and it has been used to explain the behavior of neural networks for a long time [33, 34]. The idea in gradient saliency is to generate explanations by calculating how much changes in input values will change the model output value. Inputs where changes in their values will aﬀect the model output value the most are considered more important for the model output value [...] 12 2.3.1 Deep neural networks . . . . . . . . . . . . . . . . . . .\n12 2.3.2 Inference . . . . . . . . . . . . . . . . . . . . . . . . . .\n14 2.3.3 Training . . . . . . . . . . . . . . . . . . . . . . . . . . .\n14 3 Techniques for explainable artiﬁcial intelligence 17 3.1 Global explanation techniques . . . . . . . . . . . . . . . . . .\n18 3.1.1 Visualization techniques for large high-dimensional da-tasets . . . . . . . . . . . . . . . . . . . . . . . . . . . . [...] Pieter-Jan Kindermans, Kristof T. Sch¨ utt, Maximilian Alber, Klaus-Robert M¨ uller, Dumitru Erhan, Been Kim, and Sven D¨ ahne. Learning how to explain neural networks: Patternnet and patternattribution. In 6th International Conference on Learning Representations (ICLR), 2018.",
+   "score": 0.69750595,
+   "raw_content": null,
+   "id": "eeb2a4-09"
+  },
+  {
+   "url": "https://ebooks.iospress.nl/volume/knowledge-graphs-for-explainable-artificial-intelligence-foundations-applications-and-challenges",
+   "title": "IOS Press Ebooks - Knowledge Graphs for eXplainable Artificial Intelligence: Foundations, Applications and Challenges",
+   "content": "use of hybrid AI methodology as a general framework for combining the strengths of both approaches. Specifically, we inherit the concept of neuro-symbolism as a way of using knowledge-bases to guide the learning progress of deep neural networks. We further ground our discussion in two applications of neuro-symbolism and, in both cases, show that our systems maintain interpretability while achieving comparable performance, relative to the state-of-the-art. [...] a powerful tool to automatically compute explainable results. The two methods relies on two completely different machine learning algorithms, namely, factorization machines and autoencoder neural networks. We also show how to measure the interpretability of the model through the introduction of two metrics: semantic accuracy and robustness. [...] In this chapter we focus the use of knowledge representation and reasoning (KRR) methods as a guide to machine learning algorithms whereby relevant contextual knowledge can be leveraged upon. In this way, the learning methods improve performance by taking into account causal relationships behind errors. Performance improvement can be obtained by focusing the learning task on aspects that are particularly challenging (or prone to error), and then using added knowledge inferred by the reasoner as",
+   "score": 0.67672676,
+   "raw_content": null,
+   "id": "cc5a04-10"
+  },
+  {
+   "url": "https://drpress.org/ojs/index.php/HSET/article/view/26686",
+   "title": "Research on Explainability of Deep Neural Networks and Its Applications | Highlights in Science, Engineering and Technology",
+   "content": "their usefulness in high-risk applications. Explainable Artificial Intelligence aims to alleviate this issue by generating explanations for DNNs to allow humans to understand their reasoning and increase their transparency. This paper reviews research on neural network explainability, detailing its definition, necessity, classification, and evaluation. It categorizes current explanation methods for deep neural networks according to their number of inputs. Additionally, it introduces the [...] it introduces the principles and evaluation methods for common interpretability algorithms. Future research directions and applications of interpretable neural networks are summarized. The challenges facing interpretable neural networks are outlined, along with potential solutions to these challenges. [...] Hassija, Vikas, et al. “Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence.” Cognitive Computation, vol. 16, no. 1, Jan. 2024, pp. 45–74. [doi: 10.1007/s12559-023-10179-8.]\n\n Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2020). “Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization.” International Journal of Computer Vision, 128(2), 336–359. [doi: 10.1007/s11263-019-01228-7]",
+   "score": 0.66855574,
+   "raw_content": null,
+   "id": "9b2f0b-11"
+  },
+  {
+   "url": "https://www.coursera.org/specializations/explainable-artificial-intelligence-xai",
+   "title": "Explainable AI (XAI) | Coursera",
+   "content": "Describe and implement regression and generalized interpretable models\n Demonstrate knowledge of decision trees, rules, and interpretable neural networks\n Explain foundational Mechanistic Interpretability concepts, hypotheses, and experiments\n\n#### Skills you'll gain\n\nCategory: Artificial Neural Networks\n\nArtificial Neural Networks\n\nCategory: Decision Tree Learning\n\nDecision Tree Learning\n\nCategory: Regression Analysis\n\nRegression Analysis\n\nCategory: Python Programming\n\nPython Programming [...] Explain and implement model-agnostic explainability methods.\n Visualize and explain neural network models using SOTA techniques.\n Describe emerging approaches to explainability in large language models (LLMs) and generative computer vision.\n\n#### Skills you'll gain\n\nCategory: Responsible AI\n\nResponsible AI\n\nCategory: Artificial Intelligence and Machine Learning (AI/ML)\n\nArtificial Intelligence and Machine Learning (AI/ML)\n\nCategory: Large Language Modeling\n\nLarge Language Modeling [...] Implement XAI approaches to enhance transparency, trust, robustness, and ethics in decision-making processes.\n Build interpretable models in Python, including decision trees, regression models, and neural networks.\n Apply advanced techniques like LIME, SHAP, and explore explainability for LLMs and computer vision models.\n\n## Skills you'll gain",
+   "score": 0.51778424,
+   "raw_content": null,
+   "id": "3c52c9-12"
+  },
+  {
+   "url": "https://publica.fraunhofer.de/entities/publication/257b3a25-bfd9-47c4-b292-83a4f45a320d",
+   "title": "Explainable AI Methods - A Brief Overview - Fraunhofer-Publica",
+   "content": "The following 17 methods are covered in this chapter: LIME, Anchors, GraphLIME, LRP, DTD, PDA, TCAV, XGNN, SHAP, ASV, Break-Down, Shapley Flow, Textual",
+   "score": 0.5117776,
+   "raw_content": null,
+   "id": "5f3570-13"
+  },
+  {
+   "url": "https://paperguide.ai/papers/top/research-papers-explainable-ai",
+   "title": "Top Research Papers on Explainable AI",
+   "content": "Most of state of the art methods applied on time series consist of deep learning methods that are too complex to be interpreted. This lack of interpretability is a major drawback, as several applications in the real world are critical tasks, such as the medical field or the autonomous driving field. The explainability of models applied on time series has not gather much attention compared to the computer vision or the natural language processing fields. In this paper, we present an overview of [...] Explainable Artificial Intelligence (XAI) has emerged as a critical facet in the realm of machine learning and artificial intelligence, responding to the increasing complexity of models, particularly deep neural networks, and the subsequent need for transparent decision making processes. This research paper delves into the essence of XAI, unraveling its significance across diverse domains such as healthcare, finance, and criminal justice. As a countermeasure to the opacity of intricate models, [...] ### Explainable artificial intelligence (XAI) in deep learning-based medical image analysis1204 Citations 2022\n\nBas H. M. van der Velden, Hugo J. Kuijf, Kenneth G. A. Gilhuijs + 1 more\n\nMedical Image Analysis\n\nAn overview of explainable artificial intelligence (XAI) used in deep learning-based medical image analysis methods and an outlook of future opportunities for XAI inmedical image analysis are presented.",
+   "score": 0.4813929,
+   "raw_content": null,
+   "id": "707144-14"
+  },
+  {
+   "url": "https://ilc.enhanceuniversity.eu/opportunities/304",
+   "title": "Explainable Artificial Intelligence for neural networks and its evaluation",
+   "content": "This intensive 5-day course provides an accelerated, interactive introduction to XAI in the specific case of neural networks. The course is composed of lectures",
+   "score": 0.448849,
+   "raw_content": null,
+   "id": "588932-15"
+  },
+  {
+   "url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176784518.86968822/v1?onload=true",
+   "title": "Explainable AI in Deep Learning: Methods, Challenges, and Future ...",
+   "content": "by G Zhang · 2026 · Cited by 2 — The rapid advancement of deep learning has revolutionized artificial intelligence [1], enabling unprecedented performance in complex tasks",
+   "score": 0.3934433,
+   "raw_content": null,
+   "id": "d15538-16"
+  },
+  {
+   "url": "https://www.redhat.com/en/topics/ai/what-is-deep-learning",
+   "title": "What is deep learning?",
+   "content": "We know that deep learning works by utilizing a structure of nodes that communicate with one another within an artificial neural network. To create an ANN, calculations and parameters must be introduced to the model alongside the data we give it, and precautions must be taken to ensure that these calculations account for bias and variance. [...] PyTorch is an open source framework widely used to build and train deep neural networks. Because PyTorch lets developers build their AI models in real-time as the code runs, it's easier to experiment with new ideas, fix bugs, and run tests before launching a model into production.\n\nConnect models to data and agents with Red Hat AI\n\n### Inference and deployment [...] Artificial neural networks (ANNs)--the underlying architecture behind deep learning–are based on this biological phenomenon but formed by artificial neurons that are made from software modules called nodes. These nodes use mathematical calculations (instead of chemical signals as in the brain) to communicate and transmit information. This simulated neural network (SNN) processes data by clustering data points and making predictions.",
+   "score": 0.29017562,
+   "raw_content": null,
+   "id": "04cdb4-17"
+  },
+  {
+   "url": "https://ai.stackexchange.com/questions/12870/which-explainable-artificial-intelligence-techniques-are-there",
+   "title": "Which explainable artificial intelligence techniques are there?",
+   "content": "Explainable artificial intelligence (XAI) is concerned with the development of techniques that can enhance the interpretability, accountability,",
+   "score": 0.2710587,
+   "raw_content": null,
+   "id": "376e75-18"
+  },
+  {
+   "url": "https://deepscienceresearch.com/index.php/dsr/catalog/download/6/50/347",
+   "title": "Explainable and trustworthy artificial intelligence, machine learning, and ...",
+   "content": "This research explores the growing area of Explainable Artificial Intelligence (XAI) that seeks to improve the clarity, comprehensibility, and responsibility of",
+   "score": 0.18907149,
+   "raw_content": null,
+   "id": "8e9210-19"
+  }
+ ]
+}

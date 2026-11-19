@@ -1,0 +1,809 @@
+{
+ "query": "Sea level rise and coastal community adaptation",
+ "retrieved_at": "2026-11-18T18:02:02.651839+00:00",
+ "data": [
+  {
+   "paperId": "9efdf4f2ee390fd0cb29aee2a683d58995e16fc9",
+   "externalIds": {
+    "MAG": "2888785294",
+    "DOI": "10.1002/SDR.1597",
+    "CorpusId": 69259410
+   },
+   "url": "https://www.semanticscholar.org/paper/9efdf4f2ee390fd0cb29aee2a683d58995e16fc9",
+   "title": "Fighting the inevitable: infrastructure investment and coastal community adaptation to sea level rise",
+   "venue": "",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.17615/t2xq-5682",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/SDR.1597?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/SDR.1597, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "46678325",
+     "name": "Sierra C. Woodruff"
+    },
+    {
+     "authorId": "8197373",
+     "name": "T. BenDor"
+    },
+    {
+     "authorId": "40421352",
+     "name": "A. Strong"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "3923ae343a282637dc13cabad6bcc31b73ae94bd",
+   "externalIds": {
+    "DOI": "10.9753/icce.v38.management.59",
+    "CorpusId": 279015667
+   },
+   "url": "https://www.semanticscholar.org/paper/3923ae343a282637dc13cabad6bcc31b73ae94bd",
+   "title": "COMMUNITY-ENGAGED COASTAL FLOOD MODELING TO EVALUATE SEA LEVEL RISE ADAPTATION STRATEGIES",
+   "venue": "Coastal Engineering Proceedings",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://icce-ojs-tamu.tdl.org/icce/article/download/14192/13464",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9753/icce.v38.management.59?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9753/icce.v38.management.59, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-29",
+   "authors": [
+    {
+     "authorId": "2318376166",
+     "name": "Thomas Thelen"
+    },
+    {
+     "authorId": "100681053",
+     "name": "K. Anarde"
+    },
+    {
+     "authorId": "98636247",
+     "name": "C. Dietrich"
+    },
+    {
+     "authorId": "2182732802",
+     "name": "M. Cawley"
+    },
+    {
+     "authorId": "72621580",
+     "name": "M. Hino"
+    }
+   ],
+   "abstract": "As sea levels continue to rise, coastal communities are searching for strategies to reduce flooding of low-lying roads, property, and stormwater drainage networks. Here we focus on the development of adaptation strategies for communities that experience flooding outside of extreme storms like hurricanes due to sea level rise (SLR). Processes that contribute to these floods can include tides, rainfall, wind setup, groundwater, and infrastructure failure (Gold et al., 2023). Here we present a framework to test the effectiveness of adaptation strategies in reducing multi-driver chronic flooding at both current and future sea levels. This framework integrates coastal engineering and stakeholder input to 1) identify adaptation strategies that are preferred by a community that frequently floods and 2) test the effectiveness of these strategies with a numerical model under both current and future conditions."
+  },
+  {
+   "paperId": "58be1859b21c84bcaee6bb1f04f96448f6a52a90",
+   "externalIds": {
+    "DOI": "10.5670/oceanog.2024.223",
+    "CorpusId": 269415968
+   },
+   "url": "https://www.semanticscholar.org/paper/58be1859b21c84bcaee6bb1f04f96448f6a52a90",
+   "title": "A Visionary Approach to Advancing Sea Level Rise Adaptation in an Urban Coastal Community, Waikīkī, Hawai‘i",
+   "venue": "Oceanography",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.5670/oceanog.2024.223",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5670/oceanog.2024.223?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5670/oceanog.2024.223, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "1389788448",
+     "name": "Wendy Meguro"
+    },
+    {
+     "authorId": "16195231",
+     "name": "C. Fletcher"
+    },
+    {
+     "authorId": "2295202009",
+     "name": "Josephine Briones"
+    },
+    {
+     "authorId": "2298651004",
+     "name": "Eric Teeples"
+    },
+    {
+     "authorId": "2543942108",
+     "name": "Georgina Casey"
+    }
+   ],
+   "abstract": "In Hawai‘i, a $19 billion loss is anticipated due to the 3.2 feet (1 meter) of global sea level rise (SLR) predicted earlier this century to occur by 2100, while, in fact, 3 to 4 feet (.9 to 1.2 meters) of SLR by 2100 are now estimated as a mid-range scenario (HSCC, 2022). In Waikīkī, the economic hub of Hawai‘i’s tourism industry, future flooding caused by SLR, groundwater inundation, king tides, rainfall, and storm surge are projected to become a chronic disruption by mid-century (Habel et al., 2017, 2020). In contrast to retreat, one approach to managing SLR in dense urban areas, such as Waikīkī, is to consider an “in-place” flood adaptation or accommodation strategy. An interdisciplinary team of faculty and students at the University of Hawai‘i at Mānoa are merging science with design to create conceptual urban and architectural design renderings in order to visualize SLR adaptation strategies over time for buildings, utilities, transportation, and open space. Through iterative, structured public outreach, this research provides designers, planners, and policymakers with valuable insights into a diverse group of stakeholders’ preferences and their comments on each adaptation strategy. It supports the resilient planning goals outlined by the state, the City and County of Honolulu, and also the Waikīkī Special District Guidelines (DPP, 2021). In addition, through coursework and employment, students are learning how they might address SLR in their future careers."
+  },
+  {
+   "paperId": "21d83e7cc793a32269f2b58fcb26f4f57797d08c",
+   "externalIds": {
+    "DOI": "10.1016/j.ijdrr.2022.102905",
+    "CorpusId": 247432719
+   },
+   "url": "https://www.semanticscholar.org/paper/21d83e7cc793a32269f2b58fcb26f4f57797d08c",
+   "title": "Sea level rise induced impacts on coastal areas of Bangladesh and local-led community-based adaptation",
+   "venue": "International Journal of Disaster Risk Reduction",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2212420922001248/pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ijdrr.2022.102905?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ijdrr.2022.102905, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-03-01",
+   "authors": [
+    {
+     "authorId": "47644193",
+     "name": "B. Roy"
+    },
+    {
+     "authorId": "1403196583",
+     "name": "G. Penha-Lopes"
+    },
+    {
+     "authorId": "90543665",
+     "name": "M. Uddin"
+    },
+    {
+     "authorId": "115006239",
+     "name": "Md Humayain Kabir"
+    },
+    {
+     "authorId": "47209096",
+     "name": "T. C. Lourenço"
+    },
+    {
+     "authorId": "2158710362",
+     "name": "Alexandre Torrejano"
+    }
+   ],
+   "abstract": "Bangladesh is as a low-lying country, susceptible to various Sea Level Rise (SLR) induced impacts. Previous studies have separately explored SLR effects on Bangladesh ’ s coastal ecosystems and livelihoods, across multiple spatial and temporal scales. However, empirical studies acknowl-edging local population ’ s perceptions on the causal factors to different SLR induced physio-graphic impacts, their effects at societal scale and ongoing adaptation to these impacts of SLR have not been able to establish a causal-linkage relationship between these impacts and their potential effects. Our study explores how SLR has already impacted the lives and livelihoods of coastal communities in Bangladesh and how these have been responded by adopting different adaptative measures. We applied a qualitative community-based multistage sampling procedure, using two Participatory Rural Appraisal (PRA) tools, namely Focus Group Discussions (FGDs) and Community Meetings (CM), to collect empirical data about SLR effects on livelihoods and implemented adaptation responses. Our study found that both man-made and natural causes are responsible for different physiographic impacts of SLR, and which seem to vary between place and context. Five major SLR induced impacts were identified by coastal communities, namely: salinity increase, rising water levels, land erosion, waterlogging and the emergence of char land. Salinity increase and land erosion are the two most severe impacts of SLR resulting in the largest economic losses to agriculture. Our results highlight how coastal communities in Bangladesh perceive the impacts of SLR and the benefits of different adaptation processes set in motion to protect them, via development projects and other local interventions."
+  },
+  {
+   "paperId": "5e8f92c3dc2da3c1ae9dbe42594ba29eaa3e7edb",
+   "externalIds": {
+    "DOI": "10.9734/jerr/2025/v27i81599",
+    "CorpusId": 280581541
+   },
+   "url": "https://www.semanticscholar.org/paper/5e8f92c3dc2da3c1ae9dbe42594ba29eaa3e7edb",
+   "title": "Evaluating Coastal Communities' Sea Level Rise Adaptation Plans in Nigeria's Niger Delta",
+   "venue": "Journal of Engineering Research and Reports",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.journaljerr.com/index.php/JERR/article/download/1599/3550",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9734/jerr/2025/v27i81599?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/jerr/2025/v27i81599, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-08-05",
+   "authors": [
+    {
+     "authorId": "97902176",
+     "name": "Emejiri Alikor"
+    },
+    {
+     "authorId": "2121882834",
+     "name": "C. Ikebude"
+    }
+   ],
+   "abstract": "With a focus on Opobo/Nkoro communities, this study examines the adaptation tactics used by coastal communities in Nigeria's Niger Delta Region in response to sea level rise. Nigeria's low-lying coastal areas are increasingly at risk from sea level rise, but little is known about how the local population will adjust. Assessing shoreline changes over time and evaluating community-level responses to the continuous effects of coastal erosion and inundation were the objectives of the study. Using a combination of physical, socioeconomic, and participatory GIS data, a qualitative research methodology was chosen. Shoreline evolution over both short-term (2015–2020) and long-term (1984–2020) periods was evaluated using remotely sensed imagery. With a total average linear regression rate (LRR) of -2.7 ± 0.18 m/year from 1984 to 2020 and -3.94 ± 1.28 m/year between 2015 and 2020, the shoreline change analysis's findings showed steady erosional trends. These results support the idea that sea level rise is to blame for the gradual coastal retreat. Furthermore, survey information was gathered from 384 randomly chosen household heads in various residential densities in order to investigate socioeconomic characteristics, awareness levels, and adaptation tactics. According to the analysis, residents took a variety of actions, such as moving away from high-risk areas, fixing or replacing damaged property, and urging the government and neighborhood organizations to build more drainage systems. According to the study, these adaptation techniques differed greatly depending on socioeconomic status and residential density. The results highlight how urgently localized, integrated climate change adaptation policies are needed. To improve the absorptive, adaptive, and transformative capacities of coastal households in the area, policymakers are advised to give priority to awareness campaigns and the execution of community-based adaptation measures."
+  },
+  {
+   "paperId": "3575cf184373bd7feac0fc7954c14c31a844cdb7",
+   "externalIds": {
+    "MAG": "3006123368",
+    "DOI": "10.1007/978-3-030-37425-9_39",
+    "CorpusId": 212848382
+   },
+   "url": "https://www.semanticscholar.org/paper/3575cf184373bd7feac0fc7954c14c31a844cdb7",
+   "title": "Chennai City and Coastal Hazards: Addressing Community-Based Adaptation Through the Lens of Climate Change and Sea-Level Rise (CBACCS)",
+   "venue": "",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-37425-9_39?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-37425-9_39, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2163668303",
+     "name": "A. S. Khan"
+    },
+    {
+     "authorId": "2527242706",
+     "name": "M. S. Kumar"
+    },
+    {
+     "authorId": "12398646",
+     "name": "R. Chella"
+    },
+    {
+     "authorId": "1572346697",
+     "name": "B. Devdyuti"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "f487e5d22f3d586f8acfd64326634cd58b8e2971",
+   "externalIds": {
+    "DOI": "10.1007/s10584-024-03763-w",
+    "CorpusId": 270813223
+   },
+   "url": "https://www.semanticscholar.org/paper/f487e5d22f3d586f8acfd64326634cd58b8e2971",
+   "title": "Adjusting to the reality of sea level rise: reshaping coastal communities through resilience-informed adaptation",
+   "venue": "Climatic Change",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10584-024-03763-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10584-024-03763-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-06-27",
+   "authors": [
+    {
+     "authorId": "2179451205",
+     "name": "M. Abdelhafez"
+    },
+    {
+     "authorId": "2269171193",
+     "name": "Hussam N. Mahmoud"
+    },
+    {
+     "authorId": "2658381",
+     "name": "B. Ellingwood"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "bad561af6e1226e63e0cd58c1bf075856e8a0ebb",
+   "externalIds": {
+    "DOI": "10.58812/wsshs.v2i07.1045",
+    "CorpusId": 271751213
+   },
+   "url": "https://www.semanticscholar.org/paper/bad561af6e1226e63e0cd58c1bf075856e8a0ebb",
+   "title": "Adaptation Strategies of Coastal Communities to Sea Level Rise Due to Climate Change",
+   "venue": "West Science Social and Humanities Studies",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://wsj.westsciences.com/index.php/wsshs/article/download/1045/1126",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58812/wsshs.v2i07.1045?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58812/wsshs.v2i07.1045, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-07-16",
+   "authors": [
+    {
+     "authorId": "2279383684",
+     "name": "Yohanes Kamakaula"
+    }
+   ],
+   "abstract": "This study examines adaptation strategies employed by coastal communities in Indonesia to address sea level rise due to climate change. Utilizing a literature review method, the research identifies various adaptation strategies, their success factors, and the challenges faced by coastal communities. Findings reveal adaptation strategies including physical infrastructure development, mangrove rehabilitation, early warning systems, community education and awareness raising, livelihood diversification, resettlement, drainage infrastructure improvement, and sustainable coastal resource management. Each strategy presents its own strengths and challenges, necessitating a holistic and participatory approach for effective implementation. Recommendations include enhancing stakeholder collaboration, developing flexible policies responsive to local conditions, and increasing investments in education and infrastructure. Regular evaluation of adaptation strategy success is also advised to ensure sustainability of adaptation efforts in the future."
+  },
+  {
+   "paperId": "7ca019204b7a553b732fa780d8db6ea97d094d43",
+   "externalIds": {
+    "DOI": "10.1007/s11027-024-10176-8",
+    "CorpusId": 273731996
+   },
+   "url": "https://www.semanticscholar.org/paper/7ca019204b7a553b732fa780d8db6ea97d094d43",
+   "title": "Public preferences for sea-level rise adaptation vary depending on strategy, community, and perceiver characteristics",
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11027-024-10176-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11027-024-10176-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-30",
+   "authors": [
+    {
+     "authorId": "2244756107",
+     "name": "Andrea Y. J. Mah"
+    },
+    {
+     "authorId": "2282952930",
+     "name": "Daniel A. Chapman"
+    },
+    {
+     "authorId": "2282689113",
+     "name": "Ezra M. Markowitz"
+    },
+    {
+     "authorId": "48058041",
+     "name": "Brian Lickel"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "261896fa0e149464cfef2e432826f841f90d3d94",
+   "externalIds": {
+    "DOI": "10.58860/ijsh.v2i6.62",
+    "CorpusId": 259753557
+   },
+   "url": "https://www.semanticscholar.org/paper/261896fa0e149464cfef2e432826f841f90d3d94",
+   "title": "A Phenomenology Approach to Rethinking Coastal Community Vulnerability Toward Sea-Level Rise",
+   "venue": "International Journal of Social Health",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://ijsh.ph/index.php/rp/article/download/62/266",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58860/ijsh.v2i6.62?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58860/ijsh.v2i6.62, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-30",
+   "authors": [
+    {
+     "authorId": "2532641226",
+     "name": "Aulia Dara Nur Arifin"
+    },
+    {
+     "authorId": "108011357",
+     "name": "T. Taqyuddin"
+    }
+   ],
+   "abstract": "Due to its proximity to the ocean and the danger it poses, such as sea level rise, coastal floods, tsunamis, and many other natural disasters, the coastal community has been long regarded as one of the most vulnerable communities. However, coastal communities that have prohibited these areas for a long period have grown accustomed to its threats, especially coastal floods, and have adopted localized survival and mitigation strategies. These events have tested the coastal communities' ability to adapt using limited resources, knowledge, and power. Using a phenomenology approach, this paper aims to illustrate the vulnerability exposed to the coastal community in Muara Baru, Penjaringan District, city of North Jakarta, Indonesia, using a geographic and exposure criteria to determine participants. Data gathered from in-depth interviews with head villagers and 25 residents of Muara Baru along with field observations to capture their lived experience as a community in terms of adaptation strategies and how they cope with the rising sea-level and coastal flood. Results show that contrary to previous conceptions, Muara Baru’s coastal community are no longer vulnerable to sea-level rise and this research highlights the rising concern for social risks they experience. By focusing on this factor rather on the disadvantage due to their geographical location, policy designs can be tailored to support the enhancement and well-being of the community.   "
+  },
+  {
+   "paperId": "1321c62d28d97578364d77293d132ba774cea78d",
+   "externalIds": {
+    "MAG": "2773133243",
+    "DOI": "10.1007/s10113-017-1267-5",
+    "CorpusId": 158816819
+   },
+   "url": "https://www.semanticscholar.org/paper/1321c62d28d97578364d77293d132ba774cea78d",
+   "title": "Clusters of community exposure to coastal flooding hazards based on storm and sea level rise scenarios—implications for adaptation networks in the San Francisco Bay region",
+   "venue": "Regional Environmental Change",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10113-017-1267-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10113-017-1267-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2018-06-01",
+   "authors": [
+    {
+     "authorId": "70657853",
+     "name": "M. Hummel"
+    },
+    {
+     "authorId": "31277055",
+     "name": "N. Wood"
+    },
+    {
+     "authorId": "70637130",
+     "name": "A. Schweikert"
+    },
+    {
+     "authorId": "38880664",
+     "name": "M. Stacey"
+    },
+    {
+     "authorId": "49156297",
+     "name": "Jeanne M. Jones"
+    },
+    {
+     "authorId": "2915681",
+     "name": "P. Barnard"
+    },
+    {
+     "authorId": "47617104",
+     "name": "L. Erikson"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "735d0cb0aa860b78cabc4a666e9afb1dbbe9f647",
+   "externalIds": {
+    "MAG": "2537968915",
+    "DOI": "10.3390/JMSE4040067",
+    "CorpusId": 16486343
+   },
+   "url": "https://www.semanticscholar.org/paper/735d0cb0aa860b78cabc4a666e9afb1dbbe9f647",
+   "title": "Assessment of Damage and Adaptation Strategies for Structures and Infrastructure from Storm Surge and Sea Level Rise for a Coastal Community in Rhode Island, United States",
+   "venue": "",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2077-1312/4/4/67/pdf?version=1476945777",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/JMSE4040067?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/JMSE4040067, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2016-10-20",
+   "authors": [
+    {
+     "authorId": "2239505897",
+     "name": "C. Small"
+    },
+    {
+     "authorId": "108749175",
+     "name": "Tyler Blanpied"
+    },
+    {
+     "authorId": "2542044007",
+     "name": "Alicia Kauffman"
+    },
+    {
+     "authorId": "1421993467",
+     "name": "C. O'Neil"
+    },
+    {
+     "authorId": "2571657512",
+     "name": "Nicholas Proulx"
+    },
+    {
+     "authorId": "78409769",
+     "name": "Mathew Rajacich"
+    },
+    {
+     "authorId": "2552832576",
+     "name": "Hailey Simpson"
+    },
+    {
+     "authorId": "2107838519",
+     "name": "J. White"
+    },
+    {
+     "authorId": "32113336",
+     "name": "M. Spaulding"
+    },
+    {
+     "authorId": "36153829",
+     "name": "C. Baxter"
+    },
+    {
+     "authorId": "145763243",
+     "name": "J. Swanson"
+    }
+   ],
+   "abstract": "This paper presents an evaluation of inundation, erosion, and wave damage for a coastal community in Rhode Island, USA. A methodology called the Coastal Environmental Risk Index (CERI) was used that incorporates levels of inundation including sea level rise, wave heights using STWAVE, and detailed information about individual structures from an E911 database. This information was input into damage functions developed by the U.S. Army Corps of Engineers following Hurricane Sandy. Damage from erosion was evaluated separately from local published erosion rates. Using CERI, two different adaptation strategies were evaluated that included a combination of dune restoration, protective berms, and a tide gate. A total of 151 out of 708 structures were estimated to be protected from inundation and wave action by the combined measures. More importantly, the use of CERI allowed for the assessment of the impact of different adaptation strategies on both individual structures and an entire community in a Geographical Information Systems (GIS) environment. This tool shows promise for use by coastal managers to assess damage and mitigate risk to coastal communities."
+  },
+  {
+   "paperId": "343e582760543943ff729362e9d3ec8aa3919c81",
+   "externalIds": {
+    "DOI": "10.1007/s44218-025-00113-w",
+    "CorpusId": 284406352
+   },
+   "url": "https://www.semanticscholar.org/paper/343e582760543943ff729362e9d3ec8aa3919c81",
+   "title": "Small island community resilience and sea level rise modelling in the Kepulauan Seribu Administrative Regency, Jakarta, Indonesia",
+   "venue": "Anthropocene Coasts",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s44218-025-00113-w.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44218-025-00113-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44218-025-00113-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-01",
+   "authors": [
+    {
+     "authorId": "2343895244",
+     "name": "A. Nugroho"
+    },
+    {
+     "authorId": "2355762108",
+     "name": "Imam Mahdi"
+    },
+    {
+     "authorId": "2402254895",
+     "name": "Ike Fitri Samsiyah"
+    },
+    {
+     "authorId": "2343946630",
+     "name": "Agung Hidayat"
+    }
+   ],
+   "abstract": "Small islands such as the Kepulauan Seribu Administrative Regency face a high risk of tidal flooding and sea level rise. This study aims to analysis the resilience of coastal communities to tidal flooding and prediction the spatial distribution of flooding using a geospatial approach. The research design uses a descriptive qualitative approach combined with GIS-based spatial analysis using the Hazard Loss Estimation (HLOSS) model. Data were collected through interviews, field observations, and spatial data. The research location focused on Pramuka Island and Panggang Island. The results of the study show that community resilience is shaped by social practices such as mutual assistance, economic adaptation, and the role of local communities. Pramuka Island has better physical protection, while Panggang Island experiences high vulnerability due to low elevation and the absence of protective infrastructure. Spatial analysis indicates that over 50% of Panggang Island is at risk of flooding under extreme tidal surge scenarios. This study provides a scientific basis for adaptive spatial planning and community-based policies. An integrated approach combining social and spatial data is necessary to enhance coastal resilience to climate change."
+  },
+  {
+   "paperId": "67307f5cba7c55c4021a82d6551cf54e88f4995c",
+   "externalIds": {
+    "DOI": "10.3233/jcc220011",
+    "CorpusId": 249492598
+   },
+   "url": "https://www.semanticscholar.org/paper/67307f5cba7c55c4021a82d6551cf54e88f4995c",
+   "title": "Local Knowledge of Coastal Population to Sea Level Rise and Climate Change – A Case Study in Fishermen Community, Kanyakumari District, Tamil Nadu, India",
+   "venue": "Journal of Climate Change",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3233/jcc220011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3233/jcc220011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-06-04",
+   "authors": [
+    {
+     "authorId": "2114593575",
+     "name": "Yoganandan Veeran"
+    },
+    {
+     "authorId": "2539396128",
+     "name": "R. S. John Bose"
+    },
+    {
+     "authorId": "40231708",
+     "name": "S. Kandasamy"
+    }
+   ],
+   "abstract": "This research synthesises two evaluations of a local level climate change adaptation and planning process in the southernmost coastal region, Kanyakumari, India which was supported through community-based appraisals. First, understanding the public perception of climate change factors is crucial in generating support for climate change response. Second, generating enough grass-root level support from the local population to assess the long-term climate change impacts on decision-making to design the adaptation strategies for sea-level rise. These two results highlight the level of understanding and awareness of climate change’s impact by the local population in the coastal region of Kanyakumari. A well-designed questionnaire with structured interviews, to collect data on local knowledge and local perception of climate change and sea-level rise from 100 respondents was distributed each in 44 coastal villages in the study area. The finding showed that 20.7% of the local population have knowledge of climate change and its impacts and 18.4% of the population agreed that the impact of sea-level rise is experienced in the coastal region. This study is to provide insight into the communities’ knowledge of the adaptive capacity of the local population to cope with climate change towards the treaty of sea-level rise."
+  },
+  {
+   "paperId": "5f86ccbca676bce84ce478d450aa4973544ac8cf",
+   "externalIds": {
+    "MAG": "2914087117",
+    "DOI": "10.1016/J.OCECOAMAN.2019.01.011",
+    "CorpusId": 159124343
+   },
+   "url": "https://www.semanticscholar.org/paper/5f86ccbca676bce84ce478d450aa4973544ac8cf",
+   "title": "Coastal adaptation laws and the social justice of policies to address sea level rise: An Indonesian insight",
+   "venue": "Ocean and Coastal Management",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.OCECOAMAN.2019.01.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.OCECOAMAN.2019.01.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-04-01",
+   "authors": [
+    {
+     "authorId": "101967297",
+     "name": "Laely Nurhidayah"
+    },
+    {
+     "authorId": "90179701",
+     "name": "A. McIlgorm"
+    }
+   ],
+   "abstract": "Abstract Climate change and sea level rise (SLR) poses serious risks to coastal communities around the world requiring nations to apply adaptation laws and policies. Climate change will exacerbate the existing threats to vulnerable communities, such as the poor, and threaten the food security of populations in coastal areas through the effects of flooding due to coastal inundation. Indonesia is an Archipelagic State of over 17,000 islands and is vulnerable to climate change impacts in its coastal areas and especially in its highly populated low lying delta areas, such as Jakarta and Semarang, where vulnerability to sea level rise is evident. The adequacy of the legal adaptation framework in Indonesia to respond to this climate vulnerability is assessed and it is found to have limited consideration of the community burden arising from these climate and SLR uncertainties. A more inclusive social justice approach could assist government to respond to the impacts from these issues and to their implications for vulnerable groups. The nation can improve adaptive legal measures to address climate change impacts and increase the involvement of local people in climate change adaptation decision making. Funding is required to assist policy makers to further incorporate adaptation into decision making, and this could improve social justice outcomes for vulnerable Indonesian coastal communities."
+  },
+  {
+   "paperId": "35520af3452cee3f55aa567b0aaea847972f8c91",
+   "externalIds": {
+    "DOI": "10.1080/24751448.2024.2322918",
+    "CorpusId": 270027178
+   },
+   "url": "https://www.semanticscholar.org/paper/35520af3452cee3f55aa567b0aaea847972f8c91",
+   "title": "Co-Innovating for Integrated Research, Teaching, and Outreach in Sea Level Rise Adaptation",
+   "venue": "Technology|Architecture + Design",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1080/24751448.2024.2322918",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/24751448.2024.2322918?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/24751448.2024.2322918, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-01-02",
+   "authors": [
+    {
+     "authorId": "1389788448",
+     "name": "Wendy Meguro"
+    }
+   ],
+   "abstract": "Approximately 680 million people live in low-lying coastal regions susceptible to flooding (IPCC 2019), and architects are positioned to drive wide-scale adoption of practical design solutions to address climate change impacts (AIA 2020). This paper describes innovative pedagogical approaches to integrate climate change into the architectural curricula in conjunction with funded applied research and community outreach to inform future climate change adaptation. The community-engaged scholarship, Envisioning Sea Level Rise Adaptation in Waikīkī, Hawai‘i and its parallel graduate architecture courses resulted in locally tailored architectural renderings, policy guidance, and visions that may inform future design and policy. The replicable research methods describe the processes, individuals, partnerships, and products for knowledge-sharing and coordinating climate change adaptation and resilience through interdisciplinary cocreation within academia and coordinated community input."
+  },
+  {
+   "paperId": "2886390e77ef6a35909f739e69e20a8723306707",
+   "externalIds": {
+    "DOI": "10.1575/1912/70528",
+    "CorpusId": 272718787
+   },
+   "url": "https://www.semanticscholar.org/paper/2886390e77ef6a35909f739e69e20a8723306707",
+   "title": "Coastal resilience and sea level rise workshop report",
+   "venue": "",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1575/1912/70528?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1575/1912/70528, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "CaseReport",
+    "Review"
+   ],
+   "publicationDate": "2024-09-17",
+   "authors": [
+    {
+     "authorId": "92102812",
+     "name": "K. Grabb"
+    },
+    {
+     "authorId": "49548362",
+     "name": "K. Ramakrishna"
+    }
+   ],
+   "abstract": "To predict and adapt to future sea levels, we need to understand where and why the sea levels are rising now and have risen in the past. Institutions whether large or small, coastal communities whether rich or poor, cannot control sea level rise by their actions alone. But they can prepare well through a variety of adaptation measures. The goal of this workshop was to review the latest scientific findings on sea level rise and coastal resilience to discuss community approaches to increase resilience and adaptation. While examples abound, the participants focused on what has been attempted in Woods Hole, a small coastal town in southeastern Massachusetts, and in the Commonwealth of Massachusetts at the regional and state level. A goal of this exercise was to assess the lessons learned and how they translate to other communities as participants critically reviewed what else is needed to increase coastal resilience. A select group of leading specialists from science institutions within Woods Hole, partnering organizations, coastal community members, the Commonwealth of Massachusetts, as well as those involved in policy formulation at the national and international levels were invited to discuss progress and plans while also sharing lessons learned with representatives from other states."
+  },
+  {
+   "paperId": "9a1bd23e5f780836e7ad33e86212293a16e6878a",
+   "externalIds": {
+    "MAG": "3161548059",
+    "DOI": "10.3390/W13091324",
+    "CorpusId": 235656871
+   },
+   "url": "https://www.semanticscholar.org/paper/9a1bd23e5f780836e7ad33e86212293a16e6878a",
+   "title": "A Holistic Framework for Evaluating Adaptation Approaches to Coastal Hazards and Sea Level Rise: A Case Study from Imperial Beach, California",
+   "venue": "Water",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2073-4441/13/9/1324/pdf?version=1620816203",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/W13091324?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/W13091324, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-05-10",
+   "authors": [
+    {
+     "authorId": "81634991",
+     "name": "D. Revell"
+    },
+    {
+     "authorId": "97554022",
+     "name": "P. King"
+    },
+    {
+     "authorId": "2115177244",
+     "name": "Jeff Giliam"
+    },
+    {
+     "authorId": "4263190",
+     "name": "Juliano Calil"
+    },
+    {
+     "authorId": "2115177167",
+     "name": "Sarah Jenkins"
+    },
+    {
+     "authorId": "2069824455",
+     "name": "C. Helmer"
+    },
+    {
+     "authorId": "2115175220",
+     "name": "J. Nakagawa"
+    },
+    {
+     "authorId": "48059900",
+     "name": "A. Snyder"
+    },
+    {
+     "authorId": "152334355",
+     "name": "J. Ellis"
+    },
+    {
+     "authorId": "2527200589",
+     "name": "Matthew Jamieson"
+    }
+   ],
+   "abstract": "Sea level rise increases community risks from erosion, wave flooding, and tides. Current management typically protects existing development and infrastructure with coastal armoring. These practices ignore long-term impacts to public trust coastal recreation and natural ecosystems. This adaptation framework models physical responses to the public beach and private upland for each adaptation strategy over time, linking physical changes in widths to damages, economic costs, and benefits from beach recreation and nature using low-lying Imperial Beach, California, as a case study. Available coastal hazard models identified community vulnerabilities, and local risk communication engagement prioritized five adaptation approaches—armoring, nourishment, living shorelines, groins, and managed retreat. This framework innovates using replacement cost as a proxy for ecosystem services normally not valued and examines a managed retreat policy approach using a public buyout and rent-back option. Specific methods and economic values used in the analysis need more research and innovation, but the framework provides a scalable methodology to guide coastal adaptation planning everywhere. Case study results suggest that coastal armoring provides the least public benefits over time. Living shoreline approaches show greater public benefits, while managed retreat, implemented sooner, provides the best long-term adaptation strategy to protect community identity and public trust resources."
+  },
+  {
+   "paperId": "c2e605b97a99c4304ca22efba1e18df2bbdbfe57",
+   "externalIds": {
+    "MAG": "3194585016",
+    "DOI": "10.1016/J.OCECOAMAN.2021.105846",
+    "CorpusId": 238676526
+   },
+   "url": "https://www.semanticscholar.org/paper/c2e605b97a99c4304ca22efba1e18df2bbdbfe57",
+   "title": "An integrative approach to planning for community-based adaptation to sea-level rise in Thailand",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.OCECOAMAN.2021.105846?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.OCECOAMAN.2021.105846, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2021-10-15",
+   "authors": [
+    {
+     "authorId": "2132251497",
+     "name": "Adirake Markphol"
+    },
+    {
+     "authorId": "97421121",
+     "name": "Jawanit Kittitornkool"
+    },
+    {
+     "authorId": "38457848",
+     "name": "D. Armitage"
+    },
+    {
+     "authorId": "88761079",
+     "name": "P. Chotikarn"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ab13fbf9d6ea9dee15bf32d0cb12fb2b6bc773de",
+   "externalIds": {
+    "DOI": "10.1038/s41558-023-01603-w",
+    "CorpusId": 257331127
+   },
+   "url": "https://www.semanticscholar.org/paper/ab13fbf9d6ea9dee15bf32d0cb12fb2b6bc773de",
+   "title": "Increased exposure of coastal cities to sea-level rise due to internal climate variability",
+   "venue": "Nature Climate Change",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://cnrs.hal.science/hal-04012725v1/file/BECKER2023_accepted.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41558-023-01603-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41558-023-01603-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2023-03-02",
+   "authors": [
+    {
+     "authorId": "2071187551",
+     "name": "M. Becker"
+    },
+    {
+     "authorId": "6458713",
+     "name": "M. Karpytchev"
+    },
+    {
+     "authorId": "1899100",
+     "name": "A. Hu"
+    }
+   ],
+   "abstract": null
+  }
+ ]
+}

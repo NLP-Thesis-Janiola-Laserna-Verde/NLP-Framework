@@ -1,0 +1,892 @@
+{
+ "query": "Peer assessment in collaborative learning",
+ "retrieved_at": "2026-11-10T10:50:30.957771+00:00",
+ "data": [
+  {
+   "DOI": "10.1109/fie.2004.1408638",
+   "title": [
+    "From peer assessment towards collaborative learning"
+   ],
+   "container-title": [
+    "34th Annual Frontiers in Education, 2004. FIE 2004."
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/fie.2004.1408638",
+   "author": [
+    {
+     "given": "S.",
+     "family": "Trahasch",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-19-4383-6_3",
+   "title": [
+    "Student Collaboration Through Assessment, Feedback and Peer Instruction"
+   ],
+   "container-title": [
+    "Collaborative Active Learning"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-19-4383-6_3",
+   "author": [
+    {
+     "given": "Chan",
+     "family": "Chang-Tik",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.learninstruc.2009.08.005",
+   "title": [
+    "Peer assessment as collaborative learning: A cognitive perspective"
+   ],
+   "container-title": [
+    "Learning and Instruction"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.learninstruc.2009.08.005",
+   "author": [
+    {
+     "given": "Ingo",
+     "family": "Kollar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Frank",
+     "family": "Fischer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.26226/m.6638aa1871c357785d6e7707",
+   "title": [
+    "Fostering Deeper Learning And Collaborative Skills Through Peer Assessment -  A Catalyst For Modern Educational Transformation"
+   ],
+   "publisher": "Morressier GmbH",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      6,
+      12
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.26226/m.6638aa1871c357785d6e7707",
+   "author": [
+    {
+     "given": "Krishna",
+     "family": "Mohan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Russell",
+     "family": "D'Souza",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/cie.2002.1185920",
+   "title": [
+    "Enhancing collaborative learning through online discussion and peer assessment"
+   ],
+   "container-title": [
+    "International Conference on Computers in Education, 2002. Proceedings."
+   ],
+   "publisher": "IEEE Comput. Soc",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/cie.2002.1185920",
+   "author": [
+    {
+     "given": "E.M.W.",
+     "family": "Ng",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.47408/jldhe.vi22.682",
+   "title": [
+    "Community-building through collaborative peer-generated formative assessment: enhancing attainment and assessment literacy"
+   ],
+   "container-title": [
+    "Journal of Learning Development in Higher Education"
+   ],
+   "publisher": "Association for Learning Development in Higher Education",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      10,
+      28
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.47408/jldhe.vi22.682",
+   "author": [
+    {
+     "given": "Emma",
+     "family": "Roberts",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-10-1972-2_9",
+   "title": [
+    "Facilitating Collaborative Learning Through Peer Assessment APP: A Case Study"
+   ],
+   "container-title": [
+    "Perspectives on Rethinking and Reforming Education",
+    "Knowledge Building and Regulation in Computer-Supported Collaborative Learning"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      10,
+      15
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-10-1972-2_9",
+   "author": [
+    {
+     "given": "Lanqin",
+     "family": "Zheng",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>The free nature and open access courses in the Massive Open Online Courses (MOOC) allow the facilities of disseminating information for a large number of participants. However, the “massive” propriety can generate many pedagogical problems, such as the assessment of learners, which is considered as the major difficulty facing in the MOOC. In fact, the immense number of learners who exceeded in some MOOC the hundreds of thousands make the instructors' evaluation of students' production quite impossible. In this work, the authors present a new approach for assessing the learners' production in MOOC. This approach combines the peer assessment with the collaborative learning and the calibrated method. It aims at increasing the degree of trust in peer-assessment. For evaluating the proposed approach, the authors implemented a MOOC dedicated for learning algorithms. In addition, an experiment was conducted during two months for knowing the effects of the proposed approach. The obtained results are presented in this paper. They are judged as very interesting and encouraging.</jats:p>",
+   "DOI": "10.4018/978-1-7998-0420-8.ch065",
+   "type": "book-chapter",
+   "title": [
+    "Collaborative Calibrated Peer Assessment in Massive Open Online Courses"
+   ],
+   "author": [
+    {
+     "given": "Asma",
+     "family": "Boudria",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University 8 May 1945 Guelma, Algeria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yacine",
+     "family": "Lafifi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University 8 May 1945 Guelma, Algeria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yamina",
+     "family": "Bordjiba",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University 8 May 1945 Guelma, Algeria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Learning and Performance Assessment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-7998-0420-8.ch065"
+  },
+  {
+   "DOI": "10.18260/1-2--3890",
+   "title": [
+    "Peer Assessment Of Team Work And Collaborative Learning In Construction/Civil Engineering"
+   ],
+   "container-title": [
+    "2008 Annual Conference &amp; Exposition Proceedings"
+   ],
+   "publisher": "ASEE Conferences",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.18260/1-2--3890",
+   "author": [
+    {
+     "given": "Enno",
+     "family": "Koehn",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Lamar University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "James",
+     "family": "Koehn",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Chadron State College"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-19-4383-6_8",
+   "title": [
+    "Future-Proofing Healthcare Skills Education: Technology-Enhanced Collaborative Learning and Peer Teaching Strategies for Large Student Cohorts in Anatomy Practicals"
+   ],
+   "container-title": [
+    "Collaborative Active Learning"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-19-4383-6_8",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9198-7124",
+     "authenticated-orcid": false,
+     "given": "Arkendu",
+     "family": "Sen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Lakshmi",
+     "family": "Selvaratnam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-19-4383-6_12",
+   "title": [
+    "Peer-Led Case Study Methodology in the Learning of Statistics"
+   ],
+   "container-title": [
+    "Collaborative Active Learning"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-19-4383-6_12",
+   "author": [
+    {
+     "given": "Shiney",
+     "family": "John",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Revathi",
+     "family": "Sagadavan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1080/0144929x.2016.1232752",
+   "title": [
+    "Evaluating peer learning and assessment in online collaborative learning environments"
+   ],
+   "container-title": [
+    "Behaviour &amp; Information Technology"
+   ],
+   "publisher": "Informa UK Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      9,
+      16
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1080/0144929x.2016.1232752",
+   "author": [
+    {
+     "given": "Zehra",
+     "family": "Altınay",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Springer International Publishing",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Peer learning is an umbrella term covering diverse strategies supporting students to learn from each other. Studies highlight the power of combining two intertwined models of peer learning, namely peer assessment/feedback and collaborative team-based learning, to prepare graduates for the world of work and encourage acceptable social behaviours. Nevertheless, this approach comes with distinct challenges of marking bias, implementation difficulties, quality, trust and other issues. Studies addressing these challenges in the collaborative teamwork context are sparse and fail to consider the complex and intertwined challenges. Responding to this need, we propose a four-pillar framework comprising veracity, validity, volume and literacy to provide a strong footing on which to base future work in this area. Each of the pillars supports specific but overlapping aspects of peer assessment including assessment design (veracity pillar); implementation considerations (validity pillar); technology factors (volume pillar); and roles and responsibilities (literacy pillar). The framework aims to support educators, policymakers and scholars in mitigating challenges to reimagine and renew peer learning practices to effect positive change.</jats:p>",
+   "DOI": "10.1007/978-3-031-29411-2_1",
+   "type": "book-chapter",
+   "title": [
+    "The Four Pillars of Peer Assessment for Collaborative Teamwork in Higher Education"
+   ],
+   "author": [
+    {
+     "given": "Bhavani",
+     "family": "Sridharan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jade",
+     "family": "McKay",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Boud",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Social Interaction in Learning and Development",
+    "The Power of Peer Learning"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1007/978-3-031-29411-2_1"
+  },
+  {
+   "publisher": "Castledown Publishers",
+   "abstract": "<jats:p>In this paper we will discuss an action research project where students created an article and also created the assessment tools to assess it. Through collaborative tool-mediated learning, students shared language both to create the article and to create the assessment criteria. In creating the assessment tools and then using the tools to assess, students also developed the skills to learn how to assess. An adapted model of the third-generation activity theory is also introduced to identify the processes of how this type of assignment unfolds, how the learners learn and also identifies the zone of proximal development through the process.</jats:p>",
+   "DOI": "10.29140/jaltcall.v8n2.135",
+   "type": "journal-article",
+   "title": [
+    "Tool-mediated collaborative learning: Peer-assessment workshop case study"
+   ],
+   "author": [
+    {
+     "given": "Mark",
+     "family": "De Boer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Simon",
+     "family": "Townsend",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The JALT CALL Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      8,
+      31
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.29140/jaltcall.v8n2.135"
+  },
+  {
+   "DOI": "10.2307/j.ctv13xprqb.12",
+   "title": [
+    "Peer and Collaborative Assessment"
+   ],
+   "container-title": [
+    "Assessment and Feedback in Higher Education"
+   ],
+   "publisher": "UCL Press",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      5,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/j.ctv13xprqb.12"
+  },
+  {
+   "DOI": "10.4324/9780203837290.ch16",
+   "title": [
+    "Assessment in Collaborative Learning"
+   ],
+   "container-title": [
+    "The International Handbook of Collaborative Learning"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203837290.ch16",
+   "author": [
+    {
+     "given": "Jan Van",
+     "family": "Aalst",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/icalt.2007.135",
+   "title": [
+    "Effect of Learning Styles on Peer Assessment in an Agent-based Collaborative Learning Environment"
+   ],
+   "container-title": [
+    "Seventh IEEE International Conference on Advanced Learning Technologies (ICALT 2007)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      7
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/icalt.2007.135",
+   "author": [
+    {
+     "given": "Chung Hsien",
+     "family": "Lan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sabine",
+     "family": "Graf",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "K. Robert",
+     "family": "Lai",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "family": "Kinshuk",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>In (web-based) collaborative learning, practitioners increasingly stress the need to acknowledge individual efforts. To this end, peer assessment is regarded as a valuable tool. Research, however, shows shortcomings in the calculations and flexibility of peer assessment formats that are used to transform a group score into individual scores. This chapter proposes an innovative approach by presenting peer assessment formats that underlie sound formulas, but moreover allow flexibility in peer assessment design. Subsequently, the effects of the formats on individual scores are investigated. The results reveal that our formulas and formats outweigh ‘traditional’ practices to utilise peer assessment for transforming a group score into individual scores. Guidelines for practitioners on the application of peer assessment formats are presented, as well as an outline for a research agenda with a strong focus on the development of flexible peer assessment in (web-based) collaborative based learning.</jats:p>",
+   "DOI": "10.4018/978-1-61520-729-9.ch008",
+   "type": "book-chapter",
+   "title": [
+    "Flexible Peer Assessment Formats to Acknowledge Individual Contributions During (Web-Based) Collaborative Learning"
+   ],
+   "author": [
+    {
+     "given": "Dominique M.A.",
+     "family": "Sluijsmans",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "HAN University & Open University of the Netherlands, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jan-Willem",
+     "family": "Strijbos",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Leiden University, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Social Networking and Online Communities",
+    "E-Collaborative Knowledge Construction"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-61520-729-9.ch008"
+  },
+  {
+   "DOI": "10.1109/icl.2015.7318106",
+   "title": [
+    "Peer assessment based assignment to enhance interactions in online learning groups"
+   ],
+   "container-title": [
+    "2015 International Conference on Interactive Collaborative Learning (ICL)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      9
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/icl.2015.7318106",
+   "author": [
+    {
+     "given": "Godfrey",
+     "family": "Mayende",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ghislain Maurice N.",
+     "family": "Isabwe",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Paul B.",
+     "family": "Muyinda",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Andreas",
+     "family": "Prinz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780203451496-15",
+   "title": [
+    "Technology-supported collaborative learning"
+   ],
+   "container-title": [
+    "Learning Together"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2003,
+      8,
+      27
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203451496-15"
+  }
+ ]
+}

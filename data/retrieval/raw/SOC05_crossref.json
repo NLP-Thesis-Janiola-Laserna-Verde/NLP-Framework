@@ -1,0 +1,654 @@
+{
+ "query": "Misinformation and public trust in institutions",
+ "retrieved_at": "2026-11-18T17:57:27.248553+00:00",
+ "data": [
+  {
+   "publisher": "National Education Services",
+   "abstract": "<jats:p>Abstract:\nPublic trust in science is increasingly shaped by the speed, scale, and strategic design of contemporary information systems. This manuscript develops an analytic framework for understanding how uncertainty, institutional credibility, and digital media infrastructures interact to produce trust, distrust, and polarized epistemic communities. The core argument is that misinformation is not only a problem of false content but also a structural outcome of incentive misalignment, measurement error, and governance gaps across the research-to-public pipeline. Across five chapters, the text moves from foundations and research design to causal inference, predictive machine learning, scalable data engineering, and sectoral policy horizons. Each chapter couples theory with operational research workflows, specifying defensible assumptions, evaluation logic, and governance artifacts that can be implemented by researchers, practitioners, and policymakers. Rather than offering a single disciplinary lens, the manuscript treats trust as a measurable and governable system property that can be stress-tested across contexts, including public health, climate risk, education, and emerging technologies. The outcome is a publisher-style draft that supports rigorous empirical research and responsible decision-making without relying on unverified claims or fabricated evidence.\nKeywords:\npublic trust, misinformation, uncertainty, epistemic risk, research design, causal inference, measurement error, bias diagnostics, model validation, explainability, robustness, prediction, generalization, scalable analytics, reproducibility, governance, policy design, risk communication</jats:p>",
+   "DOI": "10.62311/nesx/rb-978-81-980090-8-1",
+   "type": "reference-book",
+   "title": [
+    "Public Trust in Science and Misinformation"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0007-1023-7035",
+     "authenticated-orcid": false,
+     "given": "Murali Krishna",
+     "family": "Pasupuleti",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      30
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.62311/nesx/rb-978-81-980090-8-1"
+  },
+  {
+   "DOI": "10.4324/9780203120149-14",
+   "title": [
+    "Public trust in governing institutions"
+   ],
+   "container-title": [
+    "Accountability in Crises and Public Trust in Governing Institutions"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      6,
+      14
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203120149-14"
+  },
+  {
+   "publisher": "Oxford University Press",
+   "abstract": "<p>This chapter examines the conditions under which lustration and truth commissions affected trust in targeted public institutions, such as the judiciary, the parliament, the police, and political parties, or composites of institutions, such as oversight institutions or elected institutions. I find strong and consistent relationships between lustration and political trust, except for the most highly politicized public institutions. More extensive and compulsory programs were associated with the largest trust-building effects. Truth commissions were not associated with political trust-building. This chapter also demonstrates that delayed reforms were more effective than reforms initiated right after the transition for most of the institutions, except for highly politicized institutions. This runs contrary to assumptions about the necessity of starting reforms immediately after the transition or not at all. The chapter presents the paired cases of Bulgaria and Romania and illustrates the possibilities for public disclosure programs to effect lustration-like reforms.</p>",
+   "DOI": "10.1093/oso/9780198793328.003.0004",
+   "type": "book",
+   "title": [
+    "Building Trust in Public Institutions"
+   ],
+   "author": [
+    {
+     "given": "Cynthia M.",
+     "family": "Horne",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Oxford Scholarship Online"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      5,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/oso/9780198793328.003.0004"
+  },
+  {
+   "publisher": "Medwin Publishers",
+   "abstract": "<jats:p>Genetically modified (GM) foods have been at the center of global debate, resulting in diverse public perceptions and\nregulatory responses. Proponents argue that GM foods are crucial for addressing food security and climate change challenges,\nhighlighting their potential to increase crop yields, enhance nutritional quality, and reduce the environmental impact of\nagriculture. However, skepticism persists, driven by concerns about potential health risks, environmental effects, and ethical\nimplications. Despite a scientific consensus affirming the safety of GM foods, factors such as cultural values, media influence,\nand distrust in regulatory authorities have significantly shaped public attitudes, particularly in regions like Europe, Asia, and\nparts of Africa where skepticism is higher. In contrast, the United States and Latin America show relatively greater acceptance,\ninfluenced by economic benefits and trust in scientific institutions like the FDA and EPA. This paper examines the key factors\ninfluencing public perception of GM foods, including knowledge gaps, media misinformation, ethical concerns, and regulatory\ntrust. It also explores regional differences in attitudes towards GM foods and provides strategies to bridge the divide in public\nacceptance. Effective communication, increased transparency in regulatory processes, and inclusive engagement with the\npublic are critical in building trust and fostering a more balanced understanding of GM technology. Addressing these challenges\nis essential for aligning public perceptions with scientific evidence and promoting informed decision-making about the role of\nGM foods in the global food system.</jats:p>",
+   "DOI": "10.23880/fsnt-16000354",
+   "type": "journal-article",
+   "title": [
+    "Understanding Public Perception of Genetically Modified Food: Navigating Misinformation and Trust"
+   ],
+   "author": [
+    {
+     "given": "Cabelkova",
+     "family": "I*",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Food Science &amp; Nutrition Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      8
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.23880/fsnt-16000354"
+  },
+  {
+   "DOI": "10.1787/28a876c2-en",
+   "title": [
+    "Drivers of Trust in Public Institutions in Australia"
+   ],
+   "container-title": [
+    "Building Trust in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      31
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/28a876c2-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "National Education Services",
+   "abstract": "<jats:p>Abstract: This chapter explores the growing challenge of misinformation in science and its impact on public trust, focusing on developing strategies to combat misinformation and promote scientific literacy. The role of social media in amplifying misinformation is analyzed, along with the use of artificial intelligence to detect and mitigate false information. The chapter also discusses the importance of education and science journalism in fostering critical thinking and accurate public understanding of scientific issues. Additionally, it evaluates public policy responses, fact-checking efforts, and the ethical considerations involved in regulating misinformation. Through case studies and best practices, the chapter provides actionable solutions for improving public engagement with science and rebuilding trust.  Keywords: misinformation, scientific literacy, public trust, social media, artificial intelligence, fact-checking, science journalism, public policy, critical thinking, science communication</jats:p>",
+   "DOI": "10.62311/nesx/9081",
+   "type": "book-chapter",
+   "title": [
+    "Developing Strategies to Combat Misinformation and Promote Scientific Literacy"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0007-1023-7035",
+     "authenticated-orcid": false,
+     "given": "Murali",
+     "family": "Krishna Pasupuleti",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Public Trust in Science and Misinformation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.62311/nesx/9081"
+  },
+  {
+   "DOI": "10.1787/81b01318-en",
+   "title": [
+    "Drivers of Trust in Public Institutions in Norway"
+   ],
+   "container-title": [
+    "Building Trust in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      3,
+      15
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/81b01318-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/52600c9e-en",
+   "title": [
+    "Drivers of trust in public institutions in Finland"
+   ],
+   "container-title": [
+    "Building Trust in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      4
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/52600c9e-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/fb0e1896-en",
+   "title": [
+    "Drivers of Trust in Public Institutions in Brazil"
+   ],
+   "container-title": [
+    "Building Trust in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12,
+      5
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/fb0e1896-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/0eb6341f-en",
+   "title": [
+    "Drivers of Trust in Public Institutions in Chile"
+   ],
+   "container-title": [
+    "Building Trust in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      15
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/0eb6341f-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/948accf8-en",
+   "title": [
+    "Drivers of Trust in Public Institutions in New Zealand"
+   ],
+   "container-title": [
+    "Building Trust in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      2,
+      28
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/948accf8-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7312/facc20504-007",
+   "title": [
+    "5 The Spread of Vaccine Misinformation and How We Can Rebuild Trust in Institutions"
+   ],
+   "container-title": [
+    "Misguided"
+   ],
+   "publisher": "Columbia University Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.7312/facc20504-007"
+  },
+  {
+   "DOI": "10.1787/b407f99c-en",
+   "title": [
+    "Building Trust to Reinforce Democracy"
+   ],
+   "container-title": [
+    "Building Trust in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      7,
+      13
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/b407f99c-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780203120149-15",
+   "title": [
+    "Crises, accountability, and trust in governing institutions: conclusions"
+   ],
+   "container-title": [
+    "Accountability in Crises and Public Trust in Governing Institutions"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      6,
+      14
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203120149-15"
+  },
+  {
+   "DOI": "10.2307/jj.17072605.6",
+   "title": [
+    "Trust in Institutions"
+   ],
+   "container-title": [
+    "Trust in Public Life"
+   ],
+   "publisher": "Haus Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      10,
+      2
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/jj.17072605.6",
+   "author": [
+    {
+     "given": "Anthony",
+     "family": "Ball",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/cdc4c319-en",
+   "title": [
+    "Updated OECD Guidelines on Measuring Trust and Trust Drivers in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      16
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/cdc4c319-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/b7d1e606-en",
+   "title": [
+    "Building Trust in Public Institutions"
+   ],
+   "publisher": "OECD Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "book-series",
+   "URL": "https://doi.org/10.1787/b7d1e606-en"
+  },
+  {
+   "DOI": "10.5040/9798881835804.ch-8",
+   "title": [
+    "An Examination of the Multiple Dimensions of Public Trust in Science as Health Misinformation Roadblocks"
+   ],
+   "container-title": [
+    "Combating Online Health Misinformation"
+   ],
+   "publisher": "Rowman & Littlefield",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798881835804.ch-8",
+   "author": [
+    {
+     "given": "Keselman",
+     "family": "Alla",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Wilson",
+     "family": "Amanda",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/888933583956",
+   "title": [
+    "Figure 5.5. Trust in public institutions in European countries, 2013"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1787/888933583956"
+  },
+  {
+   "publisher": "Center for Open Science",
+   "abstract": "<p>Misinformation has been recognised as a leading global risk. Yet while this risk largely concerns the impact of misinformation on societal attitudes, particularly related to trust in institutions and information, there is limited causal evidence for such effects. Accordingly, we ran two experiments testing the spillover impacts of misinformation on broader societal attitudes. In study 1, we manipulated misinformation proportion (2: high 80% misinformation, low 20% misinformation) and countermeasure (3: misinformation only, fact-check label, detailed correction) within a simulated social media environment. A representative sample of US adults (N = 487) viewed 50 headlines and responded to measures of institutional and source trust, polarisation, support for political violence, and perceived moral decline. We only found significant effects for study-specific measures, including decreased trust in sources sharing false headlines. Given the findings of Study 1, we ran a second experiment focused more directly on source and institutional trust. A representative sample of US adults (N = 336) viewed 48 headlines within a simulated social-media environment, with participants randomised to either a high misinformation (75% false; 25% true) or low misinformation (25% false; 75% true) environment. Participants provided their general trust (trust, mistrust, distrust) in institutions before and after headline exposure, indicated their trust in the sources present within the information environment and the information environment itself, and completed measures of conspiracist ideation and intellectual humility. Participants exposed to a high misinformation environment had significantly lower trust in non-misinforming sources present within the simulated environment (p &amp;lt; .001, d = 0.82), lower trust in the simulated information environment (p &amp;lt; .001, r = -.40), and lower general positive trust in institutions (p &amp;lt; .001, d = 0.20). These findings provide causal evidence for misinformation’s potential to cause spillover effects that erode trust in non-misinforming sources and institutions, underscoring the need to address misinformation and limit its spread. However, they also point to the need for better tests of misinformation’s effects on other societal attitudes, such as polarisation and support for political violence, to better understand its broader impacts and develop appropriate interventions.</p>",
+   "DOI": "10.31234/osf.io/qdjts_v1",
+   "type": "posted-content",
+   "title": [
+    "Understanding Misinformation Exposure: Effects on Societal Attitudes, Trust in Institutions, Perceptions of Morality, and Affective Polarisation"
+   ],
+   "author": [
+    {
+     "given": "Tayla Erica",
+     "family": "D'Aloia",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1886-4603",
+     "authenticated-orcid": true,
+     "given": "Natasha",
+     "family": "van Antwerpen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Toby",
+     "family": "Prike",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      20
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.31234/osf.io/qdjts_v1"
+  }
+ ]
+}

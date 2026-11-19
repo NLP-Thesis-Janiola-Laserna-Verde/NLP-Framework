@@ -1,0 +1,875 @@
+{
+ "query": "Cyberbullying among adolescents",
+ "retrieved_at": "2026-11-18T17:58:46.754150+00:00",
+ "data": [
+  {
+   "paperId": "78f481b5332401feafd08e3933fb82ab832fe1e6",
+   "externalIds": {
+    "PubMedCentral": "8006937",
+    "DOI": "10.3389/fpubh.2021.634909",
+    "CorpusId": 232172312,
+    "PubMed": "33791270"
+   },
+   "url": "https://www.semanticscholar.org/paper/78f481b5332401feafd08e3933fb82ab832fe1e6",
+   "title": "Cyberbullying Among Adolescents and Children: A Comprehensive Review of the Global Situation, Risk Factors, and Preventive Measures",
+   "venue": "Frontiers in Public Health",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2021.634909/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8006937, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2021-03-11",
+   "authors": [
+    {
+     "authorId": "113278542",
+     "name": "Cheng-Yan Zhu"
+    },
+    {
+     "authorId": "2206260755",
+     "name": "Shiqing Huang"
+    },
+    {
+     "authorId": "2087371545",
+     "name": "R. Evans"
+    },
+    {
+     "authorId": "101586660",
+     "name": "Wei Zhang"
+    }
+   ],
+   "abstract": "Background: Cyberbullying is well-recognized as a severe public health issue which affects both adolescents and children. Most extant studies have focused on national and regional effects of cyberbullying, with few examining the global perspective of cyberbullying. This systematic review comprehensively examines the global situation, risk factors, and preventive measures taken worldwide to fight cyberbullying among adolescents and children. Methods: A systematic review of available literature was completed following PRISMA guidelines using the search themes “cyberbullying” and “adolescent or children”; the time frame was from January 1st, 2015 to December 31st, 2019. Eight academic databases pertaining to public health, and communication and psychology were consulted, namely: Web of Science, Science Direct, PubMed, Google Scholar, ProQuest, Communication & Mass Media Complete, CINAHL, and PsycArticles. Additional records identified through other sources included the references of reviews and two websites, Cyberbullying Research Center and United Nations Children's Fund. A total of 63 studies out of 2070 were included in our final review focusing on cyberbullying prevalence and risk factors. Results: The prevalence rates of cyberbullying preparation ranged from 6.0 to 46.3%, while the rates of cyberbullying victimization ranged from 13.99 to 57.5%, based on 63 references. Verbal violence was the most common type of cyberbullying. Fourteen risk factors and three protective factors were revealed in this study. At the personal level, variables associated with cyberbullying including age, gender, online behavior, race, health condition, past experience of victimization, and impulsiveness were reviewed as risk factors. Likewise, at the situational level, parent-child relationship, interpersonal relationships, and geographical location were also reviewed in relation to cyberbullying. As for protective factors, empathy and emotional intelligence, parent-child relationship, and school climate were frequently mentioned. Conclusion: The prevalence rate of cyberbullying has increased significantly in the observed 5-year period, and it is imperative that researchers from low and middle income countries focus sufficient attention on cyberbullying of children and adolescents. Despite a lack of scientific intervention research on cyberbullying, the review also identified several promising strategies for its prevention from the perspectives of youths, parents and schools. More research on cyberbullying is needed, especially on the issue of cross-national cyberbullying. International cooperation, multi-pronged and systematic approaches are highly encouraged to deal with cyberbullying."
+  },
+  {
+   "paperId": "cadc7e9835dcc4e4e1bc55d0ef82d343ac45938d",
+   "externalIds": {
+    "DOI": "10.1080/17549507.2025.2451305",
+    "CorpusId": 275905163,
+    "PubMed": "39856803"
+   },
+   "url": "https://www.semanticscholar.org/paper/cadc7e9835dcc4e4e1bc55d0ef82d343ac45938d",
+   "title": "Managing cyberbullying among adolescents with neurodevelopmental disorders: A scoping review",
+   "venue": "International Journal of Speech-Language Pathology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/17549507.2025.2451305?needAccess=true",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/17549507.2025.2451305?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/17549507.2025.2451305, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-01-24",
+   "authors": [
+    {
+     "authorId": "144311525",
+     "name": "E. Jackson"
+    },
+    {
+     "authorId": "6034244",
+     "name": "M. Boyes"
+    },
+    {
+     "authorId": "32210506",
+     "name": "B. Blundell"
+    },
+    {
+     "authorId": "113011247",
+     "name": "Juliana Hirn"
+    },
+    {
+     "authorId": "79665321",
+     "name": "S. Leitão"
+    }
+   ],
+   "abstract": "Abstract Purpose While there is evidence for the effectiveness of programmes targeting cyberbullying in general adolescent populations, less is known for adolescents with neurodevelopmental disorders, who are at heightened risk of involvement in cyberbullying. This scoping review aimed to identify and map the evidence in relation to managing cyberbullying among adolescents aged 10–19 with neurodevelopmental disorders. Method The following databases were searched: ProQuest (including dissertations and theses), PsychInfo, MEDLINE, Scopus, and Google Scholar. Two independent reviewers screened the studies in two stages: Title and abstract, and full text. Result Twenty-nine studies were included; 19 involved exploring existing strategies used by adolescents with neurodevelopmental disorders, their parents, teachers, or service providers, to manage cyberbullying. The remaining 10 papers implemented and evaluated the effectiveness of cyberbullying prevention and/or intervention programmes. Conclusion While there is some emerging evidence for the efficacy of cyberbullying programs for adolescents with neurodevelopmental disorders, the literature is sparse. Future research should explore the efficacy of programmes delivered at classroom, small group, and individual levels and examine how adolescents with a range of neurodevelopmental disorders and diverse learning needs respond to such programmes. Critically, this may help reduce cyberbullying incidents and the subsequent impact on mental health among adolescents with neurodevelopmental disorders."
+  },
+  {
+   "paperId": "d5b62f58303e380c897be4348795f12251effe2d",
+   "externalIds": {
+    "PubMedCentral": "12369216",
+    "DOI": "10.1186/s40359-025-03318-3",
+    "CorpusId": 280704176,
+    "PubMed": "40835953"
+   },
+   "url": "https://www.semanticscholar.org/paper/d5b62f58303e380c897be4348795f12251effe2d",
+   "title": "Exploring the mediating roles of bullying, school fighting, and media literacy in the relationship between social-emotional competence and cyberbullying among adolescents",
+   "venue": "BMC Psychology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://bmcpsychology.biomedcentral.com/counter/pdf/10.1186/s40359-025-03318-3",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12369216, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-20",
+   "authors": [
+    {
+     "authorId": "2276422639",
+     "name": "Can Xiao"
+    },
+    {
+     "authorId": "2366818078",
+     "name": "M. Heidari"
+    },
+    {
+     "authorId": "2137679600",
+     "name": "Kamran Sheivandi Cholicheh"
+    }
+   ],
+   "abstract": "Cyberbullying has become a significant concern among adolescents, with various factors contributing to its prevalence. Previous research suggests that social-emotional competence can influence bullying behaviors and cyberbullying, but the mediating roles of bullying, school conflict, and media literacy remain underexplored. This study aims to investigate how social-emotional competence relates to cyberbullying, specifically examining the mediating roles of bullying behaviors, school fighting, and media literacy among Iranian adolescents. A descriptive correlational design was employed with a sample of 564 high school students from three cities in China and one city in Tehran, selected through random cluster sampling. Data were collected using four instruments: the Social-Emotional Competence Questionnaire, the Media Literacy Questionnaire, the Illinois Bully Scale and the Cyberbullying Victimization Experience Questionnaire. Path analysis techniques were used for data analysis. The findings indicated that bullying behaviors, school conflicts, and media literacy significantly mediate the relationship between social-emotional competence and cyberbullying. Specifically, higher social-emotional competence was associated with reduced bullying behaviors and conflict, which in turn contributed to lower levels of cyberbullying. The study highlights the importance of enhancing social-emotional competence in reducing bullying and cyberbullying. The findings suggest that interventions should focus on promoting social-emotional skills while also addressing bullying and school conflicts. Furthermore, integrating ethical education into media literacy programs is recommended to mitigate cyberbullying among adolescents."
+  },
+  {
+   "paperId": "9f18af3bbc65aee74dddc41c2c6b3d7d48b1d856",
+   "externalIds": {
+    "PubMedCentral": "12589082",
+    "DOI": "10.3389/fpsyg.2025.1664970",
+    "CorpusId": 282334369,
+    "PubMed": "41209808"
+   },
+   "url": "https://www.semanticscholar.org/paper/9f18af3bbc65aee74dddc41c2c6b3d7d48b1d856",
+   "title": "Parental psychological control and cyberbullying among adolescents: the mediating roles of sleep quality and moral disengagement and the moderating role of grade",
+   "venue": "Frontiers in Psychology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1664970/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12589082, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-23",
+   "authors": [
+    {
+     "authorId": "2319234994",
+     "name": "Jing Xu"
+    },
+    {
+     "authorId": "2052804805",
+     "name": "Shu-Fen Dai"
+    },
+    {
+     "authorId": "2238393878",
+     "name": "Suo Jiang"
+    },
+    {
+     "authorId": "2387846980",
+     "name": "Hui Xu"
+    }
+   ],
+   "abstract": "Background This study investigated how parental psychological control (PPC) influences adolescents’ cyberbullying behaviors through the mediating roles of sleep quality and moral disengagement, as well as examined the moderating effect of grade level. Methods In this study, a total of 688 students from 23 schools in one province were enrolled, and they have completed several psychological assessments including PPC, sleep quality, moral disengagement, and cyberbullying. A moderated chain mediation model was conducted to examine their relationships. Results The finding revealed that PPC significantly positive associated with adolescents’ engagement in cyberbullying. Mediation analyses demonstrated that both sleep quality and moral disengagement served as significant mediators in this relationship, and a sequential (chain) mediation effect was also observed. Furthermore, the effect of moral disengagement on cyberbullying was found to be moderated by grade level, and the relationship was stronger among highschoolers than pupils. Conclusion These findings underscored the importance of parenting style, adolescent sleep health, and moral cognition in understanding and preventing cyberbullying, and suggested that effective intervention should address parental control strategies, promote healthy sleep habits, and enhance adolescents’ moral reasoning to reduce cyberbullying and support healthy adolescent development."
+  },
+  {
+   "paperId": "462b07f652bc9d4407cc24260b091cd572b3cab9",
+   "externalIds": {
+    "PubMedCentral": "12625393",
+    "DOI": "10.1186/s40359-025-03597-w",
+    "CorpusId": 283073824,
+    "PubMed": "41250260"
+   },
+   "url": "https://www.semanticscholar.org/paper/462b07f652bc9d4407cc24260b091cd572b3cab9",
+   "title": "Cyber victimization experience, uncertainty stress, and internet self-efficacy as predictors of negative bystander behavior in cyberbullying among adolescents: a moderated mediation model",
+   "venue": "BMC Psychology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://bmcpsychology.biomedcentral.com/counter/pdf/10.1186/s40359-025-03597-w",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12625393, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-11-17",
+   "authors": [
+    {
+     "authorId": "2305799748",
+     "name": "Rui Chen"
+    },
+    {
+     "authorId": "2542658473",
+     "name": "Ming Dan"
+    },
+    {
+     "authorId": "2316673127",
+     "name": "Xin Hao"
+    },
+    {
+     "authorId": "2392961393",
+     "name": "Zhen Hu"
+    },
+    {
+     "authorId": "2152527636",
+     "name": "Min Zhao"
+    },
+    {
+     "authorId": "2238216060",
+     "name": "Cui-Ying Fan"
+    }
+   ],
+   "abstract": "Negative bystander behaviors significantly impact the trajectory of cyberbullying incidents. Previous research has established a link between cyber victimization experience and negative bystander behavior in cyberbullying. However, little is known about the underlying mechanisms of this relationship. To address this gap, the current study investigated the mediating role of uncertainty stress and the moderating role of internet self-efficacy between cyber victimization experience and negative bystander behavior in cyberbullying. A cross-sectional survey was conducted with a total of 826 Chinese senior high school students (Mage=15.82 years, SDage=0.68, age range: 14–17 years) recruited via a cluster sampling strategy. Validated self-report measures were used to assess cyber victimization experience, uncertainty stress, internet self-efficacy, and negative bystander behavior in cyberbullying. Structural equation modeling (SEM) was employed to test the proposed model in which uncertainty stress mediates the relationship between cyber victimization experience and negative bystander behavior in cyberbullying, with internet self-efficacy moderating the relationship between uncertainty stress and negative bystander behavior in cyberbullying. This study revealed that cyber victimization experience was significantly and positively associated with negative bystander behavior in cyberbullying among adolescents. Mediation modeling indicated that cyber victimization experience directly affected negative bystander behavior in cyberbullying and indirectly affected negative bystander behavior in cyberbullying through the mediating role of uncertainty stress. Furthermore, the mediation role of uncertainty stress was moderated by internet self-efficacy. Specifically, adolescents with lower internet self-efficacy had a stronger association between uncertainty stress and negative bystander behavior in cyberbullying, compared to those with higher self-efficacy. This study enriches existing literature by elucidating that the mediating effect of uncertainty stress and the moderating effect of internet self-efficacy represent additional explanations of the association between cyber victimization experience and negative bystander behavior in cyberbullying among adolescents. It also provides empirical support for formulating the intervention measures in cyberbullying among adolescents from a bystander’s perspective."
+  },
+  {
+   "paperId": "cdfba9d9179370413b48bdf4af4c7a3978db938e",
+   "externalIds": {
+    "DOI": "10.1080/00221325.2024.2374712",
+    "CorpusId": 270972318,
+    "PubMed": "38965912"
+   },
+   "url": "https://www.semanticscholar.org/paper/cdfba9d9179370413b48bdf4af4c7a3978db938e",
+   "title": "Parental Warmth, Friendship Quality, Empathy and Bystander Defending Behavior in Cyberbullying Among Adolescents in China",
+   "venue": "The Journal of Genetic Psychology",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/00221325.2024.2374712?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00221325.2024.2374712, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-07-05",
+   "authors": [
+    {
+     "authorId": "2309926936",
+     "name": "Fang Li"
+    },
+    {
+     "authorId": "2309818898",
+     "name": "Chuyou Gou"
+    },
+    {
+     "authorId": "2309902672",
+     "name": "Xu Tang"
+    },
+    {
+     "authorId": "2309892359",
+     "name": "Yuedong Qiu"
+    },
+    {
+     "authorId": "2309821550",
+     "name": "Mengxue Deng"
+    },
+    {
+     "authorId": "2289688199",
+     "name": "X. Ji"
+    }
+   ],
+   "abstract": "Abstract Adolescents’ bystander defending behavior in cyberbullying contributes to reducing the harm done to cyberbullying victims. This study examined the relationships and underlying mechanisms of parental warmth, friendship quality, empathy and bystander defending behavior in cyberbullying among 848 Chinese adolescents (43.986% girls, mean age = 14.960 years old [SD = 1.398]). The results showed that parental warmth, friendship quality and empathy were all positively correlated with bystander defending behavior in cyberbullying among adolescents. Both friendship quality and empathy played a mediating role between parental warmth and bystander defending behavior in cyberbullying, indicating that parental warmth was associated with increased bystander defending behavior through higher levels of friendship quality and empathy, respectively. Friendship quality and empathy also played a chain mediating role between these two, indicating that parental warmth was linked to increased bystander defending behavior by first associating with higher level of friendship quality and subsequently with greater empathy. These results suggest that high degrees of parental warmth, friendship quality and empathy may all increase the likelihood of bystander defending behavior in cyberbullying among adolescents. This study provides practical implications for improving adolescent bystander defending behavior in cyberbullying."
+  },
+  {
+   "paperId": "074d500130a6632a12c50be88cf2914d2c0189cd",
+   "externalIds": {
+    "PubMedCentral": "12178578",
+    "DOI": "10.1016/j.jpsychires.2024.03.033",
+    "CorpusId": 268939984,
+    "PubMed": "38593696"
+   },
+   "url": "https://www.semanticscholar.org/paper/074d500130a6632a12c50be88cf2914d2c0189cd",
+   "title": "An exploratory study of the prevalence and adverse associations of in-school traditional bullying and cyberbullying among adolescents in Connecticut",
+   "venue": "Journal of Psychiatric Research",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12178578/pdf/nihms-2089411.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12178578, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-04-01",
+   "authors": [
+    {
+     "authorId": "51355914",
+     "name": "Yasna Rostam-Abadi"
+    },
+    {
+     "authorId": "4865412",
+     "name": "E. Stefanovics"
+    },
+    {
+     "authorId": "6997092",
+     "name": "Zu Zhai"
+    },
+    {
+     "authorId": "3113215",
+     "name": "M. Potenza"
+    }
+   ],
+   "abstract": "Bullying, traditional or cyber, among adolescents, is a public health concern. In this study, we explored frequencies and correlates of different forms of bullying among Connecticut high-school students. Youth Risk Behavior Survey data from 2019 from Connecticut adolescents (N = 1814) were used. χ2 tests and survey-weighted logistic regressions examined relationships between bullying subgroups (in-school traditional bullying (ISTB) only, cyberbullying only, and both) and mental concerns, risk behaviors, academic performance, physical health, and receipt of social support, with the logistic regressions adjusted for demographics. The past-12-month frequency of having experienced only cyberbullying was 5.6%, only ISTB was 9.1%, and both forms was 8.7%. Between-group differences were observed by bullying status in terms of sex and race/ethnicity. In adjusted models, bullying status was associated with suicide attempts, suicidal ideation, self-harm, depression/dysphoria, mental health, use of alcohol, marijuana, injection drugs, tobacco, and e-vapor, gambling, driving under influence of alcohol, high-risk sexual behavior, physical fights, weapon-carrying, injuries/threats at school, feeling unsafe at school, dating violence, obesity, poor general health, insecure housing, less perceived family support, and poor academic performance. People experiencing both types of bullying were typically more likely to report adverse measures. High-school students commonly report bullying. The findings that both forms (traditional and cyber) were more robustly linked to negative experiences highlight the need for examining further relationships between types and patterns of bullying and mental health and functioning. Better understanding may help improve preventive anti-bullying interventions."
+  },
+  {
+   "paperId": "a40f692e1d073fdac852e0558756cc9e57562691",
+   "externalIds": {
+    "PubMedCentral": "9914628",
+    "DOI": "10.3390/ijerph20031846",
+    "CorpusId": 256162592,
+    "PubMed": "36767216"
+   },
+   "url": "https://www.semanticscholar.org/paper/a40f692e1d073fdac852e0558756cc9e57562691",
+   "title": "Empathic Skills Training As a Means of Reducing Cyberbullying among Adolescents: An Empirical Evaluation",
+   "venue": "International Journal of Environmental Research and Public Health",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/1660-4601/20/3/1846/pdf?version=1674118453",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9914628, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-01-19",
+   "authors": [
+    {
+     "authorId": "145581406",
+     "name": "A. Salem"
+    },
+    {
+     "authorId": "2078189293",
+     "name": "Amthal Alhuwailah"
+    },
+    {
+     "authorId": "2181043976",
+     "name": "Mahfouz Abdelsattar"
+    },
+    {
+     "authorId": "2181048403",
+     "name": "Nadiah A. H. Al-Hamdan"
+    },
+    {
+     "authorId": "2181043954",
+     "name": "E. Derar"
+    },
+    {
+     "authorId": "2203670970",
+     "name": "Sheikhah Alazmi"
+    },
+    {
+     "authorId": "2579471746",
+     "name": "Mosaad Abu Al-Diyar"
+    },
+    {
+     "authorId": "1759568",
+     "name": "M. Griffiths"
+    }
+   ],
+   "abstract": "Cyberbullying is a form of aggression in which electronic communication such as e-mails, mobile phone calls, text messages, instant messenger contacts, photos, social networking sites and personal webpages are used to threaten or intimidate individuals. Cognitive-behavioral therapy (CBT) counselling based on empathic training may reduce cyberbullying among adolescents. The present study investigated the impact of developing empathy skills in reducing cyberbullying among a sample of adolescents using two groups (i.e., an experimental group and control group). The experimental group received counselling intervention based on CBT with special focus on improving empathy whereas the control group received CBT general counselling. The participants comprised 217 adolescents (experimental group = 98 adolescents, control group = 119 adolescents) with a mean age of 15.1 years (SD ± 1.5). The measures included the Toronto Empathy Questionnaire (TEQ) and the Bullying, Cyberbullying Scale for Adolescents (BCS-A). Results showed that there were statistically significant differences on TEQ scores and BCS-A scores in the experimental and control groups after the intervention but more so in favor of the experimental group in terms of reduced levels of cyberbullying (both victimization and perpetration). Positive gains among the experimental group in both empathy and reduced cyberbullying remained at two-month follow-up. It is recommended that teachers and school counselors tackling cyberbullying should use empathy training as part of their cyberbullying prevention programs."
+  },
+  {
+   "paperId": "529f2fd72ebc6220f55df56910a06f543886bacc",
+   "externalIds": {
+    "DOI": "10.33487/edumaspul.v7i2.8400",
+    "CorpusId": 276553083
+   },
+   "url": "https://www.semanticscholar.org/paper/529f2fd72ebc6220f55df56910a06f543886bacc",
+   "title": "Islamic Education Approach in Addressing Cyberbullying Among Adolescents",
+   "venue": "Edumaspul - Jurnal Pendidikan",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.33487/edumaspul.v7i2.8400",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33487/edumaspul.v7i2.8400?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33487/edumaspul.v7i2.8400, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-01",
+   "authors": [
+    {
+     "authorId": "119083597",
+     "name": "Z. Mukarom"
+    },
+    {
+     "authorId": "2976463",
+     "name": "M. Agustin"
+    },
+    {
+     "authorId": "2326889510",
+     "name": "Rohman Heryana"
+    },
+    {
+     "authorId": "2307943040",
+     "name": "Laesti Nurishlah"
+    },
+    {
+     "authorId": "2091156640",
+     "name": "I. Heriyanto"
+    },
+    {
+     "authorId": "2313780419",
+     "name": "M. Samadi"
+    }
+   ],
+   "abstract": "Cyberbullying is one of the big challenges faced by teenagers in today's digital era. This issue can have a negative impact on the mental, emotional, and social health of adolescents. This study aims to explore the approach of Islamic education in dealing with the issue of cyberbullying among adolescents. Through a qualitative method with a literature study approach, this study finds that the values and principles in Islamic education, such as manners, noble morals, and social responsibility, can be a strong foundation to prevent and overcome cyberbullying behavior. Islamic education emphasizes the importance of maintaining the honor of oneself and others and encouraging the wise use of technology. The results of this study are expected to contribute to the development of more effective educational strategies in tackling cyberbullying among adolescents, by utilizing Islamic values as the basis for the approach."
+  },
+  {
+   "paperId": "34f3371f49b1ce35d4d2b4fd408047d831826ebe",
+   "externalIds": {
+    "DBLP": "journals/cbsn/Wiederhold24c",
+    "DOI": "10.1089/cyber.2024.29309.editorial",
+    "CorpusId": 267721179,
+    "PubMed": "38364097"
+   },
+   "url": "https://www.semanticscholar.org/paper/34f3371f49b1ce35d4d2b4fd408047d831826ebe",
+   "title": "The Dark Side of the Digital Age: How to Address Cyberbullying among Adolescents",
+   "venue": "Cyberpsychology, Behavior, and Social Networking",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1089/cyber.2024.29309.editorial?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/cyber.2024.29309.editorial, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-16",
+   "authors": [
+    {
+     "authorId": "1686405",
+     "name": "B. Wiederhold"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "eeb151845deb1ebbf2624b7d7c5fdcec00d14c47",
+   "externalIds": {
+    "PubMedCentral": "11195741",
+    "DOI": "10.4103/indianjpsychiatry.indianjpsychiatry_867_23",
+    "CorpusId": 269947402,
+    "PubMed": "38919578"
+   },
+   "url": "https://www.semanticscholar.org/paper/eeb151845deb1ebbf2624b7d7c5fdcec00d14c47",
+   "title": "Prevalence and factors associated with cyberbullying among adolescents (15–19 years) in Gurugram District – A community based cross-sectional study",
+   "venue": "Indian Journal of Psychiatry",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_867_23",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11195741, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-01",
+   "authors": [
+    {
+     "authorId": "151247914",
+     "name": "V. Pathak"
+    },
+    {
+     "authorId": "2146891841",
+     "name": "Saparya Tripathi"
+    },
+    {
+     "authorId": "2157797668",
+     "name": "M. Kumar"
+    },
+    {
+     "authorId": "2103888204",
+     "name": "S. Panigrahi"
+    },
+    {
+     "authorId": "2302515388",
+     "name": "Rohit Sohkey"
+    },
+    {
+     "authorId": "2302513086",
+     "name": "Apila Kadian"
+    },
+    {
+     "authorId": "2302516897",
+     "name": "Madhulekha Bhattacharya"
+    },
+    {
+     "authorId": "2383373180",
+     "name": "Namrta Jha"
+    }
+   ],
+   "abstract": "Background: Digitalization in the form of increased Internet use through screen media has also shown its ramification like cyberbullying. They are aggressive acts with the intention or motivation to harm another person through technology. The aim is to study the prevalence of cyberbullying and its association with mental illness in the adolescent age group (15–19 years). Methods: This community-based cross-sectional study was rolled out among adolescents aged 15–19 years. A total of 387 were given a semistructured interviewer-administered questionnaire consisting of general details, cyberbullying victimization, and offending questions, PHQ-9 and GAD-7. Results: The mean (SD) age was 16.8 (1.3) years. More than half (53.2%) were males, and nearly three-fourths (74.4%) were school-going. Around 28.2% reported being cyberbullied at least once in their lifetime. About 7.0% of adolescents were cyberbullied more than once, and 0.8% more than five times in the past 30 days. The most common ways were posting a mean or hurtful picture (31.9%) and the concerned person’s comments (24.2%) online. Multivariable logistic regression analysis found that adolescents attending colleges (AOR 1.9, 95% CI 1.1 to 3.4), using tobacco (AOR 2.5, 95% CI 1.4 to 4.5), and depressed (of any severity, AOR 2.0, 95% CI 1.1 to 4.3) were at significantly increased risk of being cyberbullied (P < 0.05). Conclusion: The prevalence of cyberbullying among adolescents aged 15–19 is notable, with significant associations found between cyberbullying and attending college, tobacco use, and depression. Understanding the correlates of cyberbullying can inform targeted interventions to support mental health and well-being among adolescents."
+  },
+  {
+   "paperId": "3e293806f7a7dc3030d19da511584439d53a2f59",
+   "externalIds": {
+    "PubMedCentral": "11591066",
+    "DOI": "10.3390/bs14111043",
+    "CorpusId": 273857270,
+    "PubMed": "39594343"
+   },
+   "url": "https://www.semanticscholar.org/paper/3e293806f7a7dc3030d19da511584439d53a2f59",
+   "title": "Cyberbullying Among Adolescents in Norway: Time Trends and Factors Associated with Perpetration and Victimization",
+   "venue": "Behavioral Science",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-328X/14/11/1043/pdf?version=1730802658",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11591066, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-11-01",
+   "authors": [
+    {
+     "authorId": "5046363",
+     "name": "T. Bonsaksen"
+    },
+    {
+     "authorId": "13765568",
+     "name": "A. Kleppang"
+    },
+    {
+     "authorId": "35535466",
+     "name": "A. Steigen"
+    }
+   ],
+   "abstract": "There is limited knowledge about time trends in cyberbullying involvement, and whereas previous studies have often focused on various mental health outcomes, possible outcomes of cyberbullying may concern a wide range of areas. A better understanding of cyberbullying development over time, as well as of the possible consequences, is needed for effective prevention and intervention efforts. The aims of this study were (i) to gain knowledge of time trends in cyberbullying among Norwegian adolescents, and (ii) to better understand how different forms of cyberbullying involvement is related to a variety of outcomes. Data from the Norwegian Ungdata surveys (2014–2016) were used to assess involvement in cyberbullying over time. Associations with cyberbullying involvement and four outcome variables (belief in a good and happy life, loneliness, school thriving, and depressive symptoms) were assessed using logistic regression analyses. Across years of study, the prevalence rates for cyberbullying involvement were 1.5% for perpetration, 3% for victimization, and 1% for perpetration-victimization. Compared with non-involvement, involvement in cyberbullying in any role was associated with poorer outcomes on all variables. Cyber-victims who were also perpetrators were less likely to have high levels of loneliness and depressive symptoms, compared to cyber-victims only. The prevalence of cyberbullying involvement among adolescents in Norway was relatively unchanged between 2014 and 2016. Cyberbullying involvement is associated with negative outcomes related to mental health, loneliness, school thriving, and beliefs in one’s personal future, and victims of cyberbullying appear to be the most vulnerable group."
+  },
+  {
+   "paperId": "2c651eda8fc1890cc1a182808c6cc285112e2903",
+   "externalIds": {
+    "DOI": "10.1007/s42380-023-00204-7",
+    "CorpusId": 267475452
+   },
+   "url": "https://www.semanticscholar.org/paper/2c651eda8fc1890cc1a182808c6cc285112e2903",
+   "title": "Cyberbullying Among Adolescents in East Asian Societies: Explanations Based on General Strain Theory",
+   "venue": "International Journal of Bullying Prevention",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s42380-023-00204-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s42380-023-00204-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-01-30",
+   "authors": [
+    {
+     "authorId": "2157952248",
+     "name": "Nan Li"
+    },
+    {
+     "authorId": "31910432",
+     "name": "Siying Guo"
+    },
+    {
+     "authorId": "2238390321",
+     "name": "Hyejoon Park"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "537dcc85a9acc700c6ffeb147b54f60347fdb7d0",
+   "externalIds": {
+    "PubMedCentral": "10508182",
+    "DOI": "10.3389/fpsyg.2023.1196571",
+    "CorpusId": 261565903,
+    "PubMed": "37731887"
+   },
+   "url": "https://www.semanticscholar.org/paper/537dcc85a9acc700c6ffeb147b54f60347fdb7d0",
+   "title": "Empathy and bystander helping behavior in cyberbullying among adolescents: the mediating role of internet moral judgment and the moderating role of internet self-efficacy",
+   "venue": "Frontiers in Psychology",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1196571/pdf?isPublishedV2=False",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10508182, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-05",
+   "authors": [
+    {
+     "authorId": "2238206501",
+     "name": "Yang Hu"
+    },
+    {
+     "authorId": "2375099363",
+     "name": "Tian Zhang"
+    },
+    {
+     "authorId": "2238549635",
+     "name": "Hui-Fen Shi"
+    },
+    {
+     "authorId": "2238216060",
+     "name": "Cui-Ying Fan"
+    }
+   ],
+   "abstract": "Introduction Cyberbullying poses a significant challenge among adolescents. If bystanders stand up and help victims, their helping behavior may be able to reduce the frequency and negative impact of cyberbullying. This study investigates the association of empathy, internet moral judgment, and internet self-efficacy with bystander helping behavior among adolescents, building upon the empathy-altruism hypothesis, bystander intervention model, and dual-process model of morality. Methods A sample of 919 Chinese adolescents from 3 schools in Hunan, Jiangxi and Guangdong provinces completed the Basic Empathy Scale, Internet Moral Judgment Questionnaire, Internet Self-Efficacy Questionnaire and Styles of Bystander Intervention Scale. And we constructed a moderated mediation model to examine the relationship between empathy and bystander helping behavior in cyberbullying and assessed the mediating role of internet moral judgment and the moderating role of internet self-efficacy. Results Our findings revealed a significant positive correlation between empathy and bystander helping behavior in cyberbullying. Internet moral judgment mediated the relationship between empathy and helping behavior, whereas internet self-efficacy moderated the latter half of the mediation pathway. Specifically, the association between internet moral judgment and helping behavior was stronger for bystanders with higher levels of internet self-efficacy compared with those that have lower levels. Discussion These results further deepen our understanding of the mechanisms involved in bystander helping behavior in cyberbullying, thus providing a basis for future interventions to encourage more helping actions from bystanders during cyberbullying incidents."
+  },
+  {
+   "paperId": "123b611963c6cb4095cc8a980a3500d54c99bf2f",
+   "externalIds": {
+    "DOI": "10.1016/j.chiabu.2023.106251",
+    "CorpusId": 259007246,
+    "PubMed": "37267760"
+   },
+   "url": "https://www.semanticscholar.org/paper/123b611963c6cb4095cc8a980a3500d54c99bf2f",
+   "title": "Temporal association of parental corporal punishment with violence in school and cyberbullying among adolescents.",
+   "venue": "International Journal of Child Abuse & Neglect",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.chiabu.2023.106251?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.chiabu.2023.106251, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-05-31",
+   "authors": [
+    {
+     "authorId": "2109264059",
+     "name": "Ji-Kang Chen"
+    },
+    {
+     "authorId": "2383102458",
+     "name": "Ling Lin"
+    },
+    {
+     "authorId": "2275273509",
+     "name": "Jun-Sung Hong"
+    },
+    {
+     "authorId": "2143373489",
+     "name": "Li-Chih Wang"
+    }
+   ],
+   "abstract": "BACKGROUND AND OBJECTIVE\nPrevious cross-sectional research suggested a link between parental corporal punishment, school violence, and cyberbullying among adolescents. However, their temporal relationships remain unclear. This study used longitudinal panel data to examine the temporal relationships between parental corporal punishment, adolescent school violence against peers and teachers, and cyberbullying perpetration.\n\n\nPARTICIPANTS AND SETTING\nSeven hundred and two junior high school students from Taiwan participated.\n\n\nMETHODS\nA probability sample and two waves of longitudinal panel data collected a nine-month apart were analyzed. A self-administered questionnaire was used to collect students' self-reported information about their experiences of parental corporal punishment, perpetration of school violence against peers and teachers, and cyberbullying.\n\n\nRESULTS\nParental corporal punishment at Time 1 predicted violence against school peers, violence against teachers, and cyberbullying perpetration at Time 2; however, these three behaviors at Time 1 did not predict parental corporal punishment at Time 2. These findings applied to both sex groups, although the effects of parental corporal punishment on violence against teachers were slightly stronger for boys than girls.\n\n\nCONCLUSIONS\nParental corporal punishment is a predictor rather than an outcome of adolescent school violence against peers and teachers and cyberbullying. Policies and interventions need to target parental corporal punishment to prevent adolescents from engaging in violence against peers and teachers and cyberbullying."
+  },
+  {
+   "paperId": "3547bd213775269a66f67d61f6208154491c739c",
+   "externalIds": {
+    "DOI": "10.1016/j.childyouth.2023.107216",
+    "CorpusId": 264550087
+   },
+   "url": "https://www.semanticscholar.org/paper/3547bd213775269a66f67d61f6208154491c739c",
+   "title": "Prevalence and predisposing factors of peer bullying and cyberbullying among adolescents: A cross-sectional study",
+   "venue": "Children and youth services review",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.childyouth.2023.107216?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.childyouth.2023.107216, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-10-01",
+   "authors": [
+    {
+     "authorId": "2488952235",
+     "name": "Semra Seyhan Şahin"
+    },
+    {
+     "authorId": "1423178386",
+     "name": "Sultan Ayaz-Alkaya"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "e7d6e48bdf52d507452c5cfaaac290456d31a11a",
+   "externalIds": {
+    "MAG": "3037974849",
+    "DOI": "10.1177/1524838020933867",
+    "CorpusId": 220075763,
+    "PubMed": "32588769"
+   },
+   "url": "https://www.semanticscholar.org/paper/e7d6e48bdf52d507452c5cfaaac290456d31a11a",
+   "title": "The Effectiveness of Educational Interventions on Traditional Bullying and Cyberbullying Among Adolescents: A Systematic Review and Meta-Analysis",
+   "venue": "Trauma, Violence, & Abuse",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/1524838020933867?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1524838020933867, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-06-26",
+   "authors": [
+    {
+     "authorId": "49583236",
+     "name": "E. Ng"
+    },
+    {
+     "authorId": "1420805262",
+     "name": "Joelle Yan Xin Chua"
+    },
+    {
+     "authorId": "5364688",
+     "name": "S. Shorey"
+    }
+   ],
+   "abstract": "In consideration of the adverse societal, physical, and psychological impacts of bullying on a child’s development and future, many studies have developed anti-bullying programs and educational interventions to curb bullying occurrences. Therefore, this systematic review aimed to examine the effectiveness of such educational interventions at reducing the frequencies of traditional bullying or cyberbullying and cybervictimization among adolescents. A comprehensive search was conducted using PubMed, Embase, PsycINFO, Cumulative Index to Nursing and Allied Health Literature, Google Scholar, and ProQuest Dissertations and Theses. Only quantitative studies that reported the effects of educational interventions on reducing the frequencies of traditional bullying or cyberbullying victimization and perpetration were included. Seventeen studies (Ntotal = 35,694 adolescents, Rangechild age = 10–18 years) were finalized, and meta-analyses were conducted using a random effect model. Overall, the existing educational interventions had very small to small effect sizes on traditional bullying and cyberbullying perpetration (traditional: standardized mean differences [SMD] = −.30 and cyber: SMD = −.16) and victimization (traditional: SMD = −18 and cyber: SMD = −.13) among adolescents. Type of intervention (i.e., whole school–based or classroom-based), program duration, and presence of parental involvement did not moderate program effectiveness, but cyberbullying programs were more effective when delivered by technology-savvy content experts compared to teachers. Since existing educational interventions were marginally effective in reducing bullying frequencies, further research is needed to identify key moderators that enhance educational programs or develop alternative forms of anti-bullying interventions."
+  },
+  {
+   "paperId": "3f5820914239a8ed2ce0e5dff7c87ffec5a172a9",
+   "externalIds": {
+    "DOI": "10.1007/s10560-023-00946-9",
+    "CorpusId": 262225385
+   },
+   "url": "https://www.semanticscholar.org/paper/3f5820914239a8ed2ce0e5dff7c87ffec5a172a9",
+   "title": "The Effects of Psychological Resilience, Self-efficacy and Metacognition on Cyberbullying Among Adolescents",
+   "venue": "Child and Adolescent Social Work Journal",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10560-023-00946-9.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10560-023-00946-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10560-023-00946-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-23",
+   "authors": [
+    {
+     "authorId": "2502422064",
+     "name": "Merve Güçlü-Aydogan"
+    },
+    {
+     "authorId": "1396321406",
+     "name": "P. Ünal-Aydın"
+    },
+    {
+     "authorId": "31836896",
+     "name": "O. Aydın"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2e67536e62871f4bbddf3485936483fe40507f9c",
+   "externalIds": {
+    "DOI": "10.24869/psyd.2023.369",
+    "CorpusId": 264444185,
+    "PubMed": "37917842"
+   },
+   "url": "https://www.semanticscholar.org/paper/2e67536e62871f4bbddf3485936483fe40507f9c",
+   "title": "CYBERBULLYING AMONG ADOLESCENTS AND ONLINE INFORMATION SEEKING ABOUT MENTAL HEALTH.",
+   "venue": "Psychiatria Danubina",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.24869/psyd.2023.369",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://hrcak.srce.hr/file/448340, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-10-23",
+   "authors": [
+    {
+     "authorId": "2814167",
+     "name": "T. Gazibara"
+    },
+    {
+     "authorId": "46212596",
+     "name": "Milica Cakić"
+    },
+    {
+     "authorId": "46216399",
+     "name": "Jelena Cakić"
+    },
+    {
+     "authorId": "2579969",
+     "name": "A. Grgurević"
+    },
+    {
+     "authorId": "49636505",
+     "name": "T. Pekmezović"
+    }
+   ],
+   "abstract": "BACKGROUND\nCyberbullying is a serious problem among adolescents and has an impact on mental health. The purpose of this study was to: 1) translate and validate the Cyberbullying and Online Aggression Survey in the Serbian language; 2) explore factors associated with more intense cyber victimization and cyber offending and 3) examine whether more intense cyber victimization and cyber offending are associated with a higher likelihood of online search for topics on mental health in a sample of high school students.\n\n\nSUBJECTS AND METHODS\nA total of 702 students from 4 public high schools participated in this cross-sectional study. Data were collected using a general questionnaire and the Cyberbullying and Online Aggression Survey. Internal consistency of the questionnaire was examined and confirmatory factor analysis was conducted to assess construct validity. The multiple linear regression model examined factors associated with higher levels of cyber offending and cyber victimization. The multiple logistic regression models examined whether cyber offending and cyber victimizations were associated with searching for mental health topics on the Internet.\n\n\nRESULTS\nCronbach's alpha for the Cyberbullying Victimization Scale was 0.813 and for the Cyberbullying Offending Scale was 0.789. Both scales had a one-factorial structure and parameters on the confirmatory factor analysis were appropriate. More than one-half of students (56.2%) reported ever being cyber victimized and 39.9% of students reported ever being cyber offenders. Having lower grades, being younger at first Internet use and more frequent use of the internet were associated with both higher Cyberbullying Victimization and Offending scores. Having higher scores on both Cyberbullying Victimization and Offending scales was associated with higher odds of searching for mental health topics online.\n\n\nCONCLUSION\nIt is necessary to address cyberbullying in schools to help recognize and modify the behavior of cyber offenders and provide means of support and empowerment to cyber victims."
+  },
+  {
+   "paperId": "62be586ca1b39e5a7c922b86400589ba5c9316d5",
+   "externalIds": {
+    "DOI": "10.1080/15388220.2023.2266811",
+    "CorpusId": 264297747
+   },
+   "url": "https://www.semanticscholar.org/paper/62be586ca1b39e5a7c922b86400589ba5c9316d5",
+   "title": "Risk and Resiliency Factors Associated with School Bullying and Cyberbullying Among Adolescents in Mediterranean Countries",
+   "venue": "Journal of School Violence",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15388220.2023.2266811?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15388220.2023.2266811, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-10-17",
+   "authors": [
+    {
+     "authorId": "117212515",
+     "name": "Rotem Maor"
+    },
+    {
+     "authorId": "11787861",
+     "name": "R. Tesler"
+    },
+    {
+     "authorId": "2128734080",
+     "name": "Ariela Giladi"
+    },
+    {
+     "authorId": "2208860899",
+     "name": "Ben‐Meir Lilach"
+    },
+    {
+     "authorId": "2260062709",
+     "name": "Jerassi Meital"
+    },
+    {
+     "authorId": "145365010",
+     "name": "A. Marques"
+    },
+    {
+     "authorId": "1699245535",
+     "name": "Harel-Fisch Yossi"
+    }
+   ],
+   "abstract": "ABSTRACT School bullying and cyberbullying are serious public health problems that negatively affect the lives of school-aged children. We examined the correlation between risk behaviors and lack of resiliency factors with bullying and cyberbullying across seven Mediterranean countries. The sample consisted of 33,399 adolescents (51.1% girls) aged 11, 13, and 15 years who participated in the Health Behavior in School-aged Children (HBSC) survey in 2018 in Greece, Israel, Italy, Macedonia, Malta, Portugal, and Spain. Bivariate logistic regressions were conducted to test the relationship between risk behaviors, resilience, and bullying. All risk behaviors and lack of resiliency factors examined were related to involvement in bullying as a victim, perpetrator, or bully-victim, both in school and cyberbullying. Moreover, the odds of involvement in school bullying and cyberbullying increased as the number of risk behaviors and the lack of resiliency factors grew. Our results may contribute to the development and implementation of anti-bullying programs."
+  }
+ ]
+}

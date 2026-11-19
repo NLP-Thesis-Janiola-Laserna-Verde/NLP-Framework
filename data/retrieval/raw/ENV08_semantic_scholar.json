@@ -1,0 +1,852 @@
+{
+ "query": "Carbon sequestration in agricultural soils",
+ "retrieved_at": "2026-11-18T18:03:57.305640+00:00",
+ "data": [
+  {
+   "paperId": "ac52198f123fc8bca58a4401a75c31c9fdf072e4",
+   "externalIds": {
+    "CorpusId": 261055831
+   },
+   "url": "https://www.semanticscholar.org/paper/ac52198f123fc8bca58a4401a75c31c9fdf072e4",
+   "title": "carbon sequestration in agricultural soils",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://site.uvm.edu/vtclimateassessment/files/2022/08/VCA-Chapter-10-8-1-22.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2142462057",
+     "name": "Catherine Horner"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "e5235f3841b0f010084474da9e40f1916a5b13c5",
+   "externalIds": {
+    "MAG": "1490588668",
+    "CorpusId": 11243370
+   },
+   "url": "https://www.semanticscholar.org/paper/e5235f3841b0f010084474da9e40f1916a5b13c5",
+   "title": "Carbon Sequestration in Agricultural Soils",
+   "venue": "",
+   "year": 2011,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at http://ageconsearch.umn.edu/record/105535/files/JARE_Apr2011__08_pp121-138_Wilman.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2011-04-01",
+   "authors": [
+    {
+     "authorId": "7789734",
+     "name": "E. A. Wilman"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2d7bfe8ed6cbd3a83b31ca02a6a5d267c9422b66",
+   "externalIds": {
+    "MAG": "1964700776",
+    "DOI": "10.1016/J.AGEE.2014.10.024",
+    "CorpusId": 83516374
+   },
+   "url": "https://www.semanticscholar.org/paper/2d7bfe8ed6cbd3a83b31ca02a6a5d267c9422b66",
+   "title": "Carbon sequestration in agricultural soils via cultivation of cover crops – A meta-analysis",
+   "venue": "",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.AGEE.2014.10.024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.AGEE.2014.10.024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2015-02-01",
+   "authors": [
+    {
+     "authorId": "6260877",
+     "name": "C. Poeplau"
+    },
+    {
+     "authorId": "35933962",
+     "name": "A. Don"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ce48ff3113ab628c79505c64fdf4d75d5110c245",
+   "externalIds": {
+    "DOI": "10.1111/gcb.70319",
+    "CorpusId": 279995610,
+    "PubMed": "40643145"
+   },
+   "url": "https://www.semanticscholar.org/paper/ce48ff3113ab628c79505c64fdf4d75d5110c245",
+   "title": "Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective",
+   "venue": "Global Change Biology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/gcb.70319?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/gcb.70319, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-01",
+   "authors": [
+    {
+     "authorId": "2222818241",
+     "name": "Lei Luo"
+    },
+    {
+     "authorId": "2261379718",
+     "name": "Tian-Ran Sun"
+    },
+    {
+     "authorId": "2371293749",
+     "name": "Zhizhi Pan"
+    },
+    {
+     "authorId": "2295569461",
+     "name": "Ji-Tao Lv"
+    },
+    {
+     "authorId": "144287812",
+     "name": "J. Peňuelas"
+    },
+    {
+     "authorId": "89907775",
+     "name": "J. Sardans"
+    },
+    {
+     "authorId": "35099887",
+     "name": "Ke-Qing Xiao"
+    },
+    {
+     "authorId": "2254831133",
+     "name": "Zhengang Liu"
+    },
+    {
+     "authorId": "2237596320",
+     "name": "Yong-Guan Zhu"
+    }
+   ],
+   "abstract": "Sequestering organic carbon (OC) in soil encompasses complex abiotic and biotic processes that involve vegetation carbon (C) inputs, and following microbial‐mediated transformations and mineral‐organic associations, which are closely related to environmental constraints in climate change scenarios. Agroecosystems have substantial potential for sequestering OC in soil and thus mitigating climate change, through optimizing management strategies. However, the efficient strategies and underlying mechanisms to fulfill the potential remain largely elusive. Here, we elucidate how the stoichiometry of elements, including C, nitrogen (N), and phosphorus (P), controls the chemical persistence and energetic potential of organic inputs, the community and metabolisms of microorganisms, and the transformation and accrual of their derived products, thereby profoundly regulating OC sequestration in soil. After examining the elemental stoichiometry in global agricultural soils over recent decades, we underline that agroecosystems are experiencing completely different dynamics in elemental stoichiometry from natural terrestrial ecosystems, which will have significant consequences for the cycling and sequestration of OC and the health of agroecosystems. We propose that developing efficient OC sequestration strategies should consider both total and available element stoichiometry in local soils and the incorporated organics, as elemental stoichiometry provides a critical fundamental framework for predicting the potential and size of OC sequestration in the complex ecosystems."
+  },
+  {
+   "paperId": "c3487f7c6af1b3a962d3231f3ad6f9a46e8f1508",
+   "externalIds": {
+    "DOI": "10.1111/gcb.70160",
+    "CorpusId": 277548873,
+    "PubMed": "40183475"
+   },
+   "url": "https://www.semanticscholar.org/paper/c3487f7c6af1b3a962d3231f3ad6f9a46e8f1508",
+   "title": "Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils",
+   "venue": "Global Change Biology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.70160",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/gcb.70160?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/gcb.70160, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "MetaAnalysis",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-01",
+   "authors": [
+    {
+     "authorId": "2212713039",
+     "name": "Yang Liao"
+    },
+    {
+     "authorId": "2241095660",
+     "name": "Lei Deng"
+    },
+    {
+     "authorId": "2353670418",
+     "name": "Yuanyuan Huang"
+    },
+    {
+     "authorId": "2109192725",
+     "name": "Jian-Zhao Wu"
+    },
+    {
+     "authorId": "2353667657",
+     "name": "Wende Zheng"
+    },
+    {
+     "authorId": "2244590092",
+     "name": "Jingwei Shi"
+    },
+    {
+     "authorId": "2256933957",
+     "name": "Ling-Bo Dong"
+    },
+    {
+     "authorId": "2240896270",
+     "name": "Ji-Wei Li"
+    },
+    {
+     "authorId": "2305668869",
+     "name": "Feng Yang"
+    },
+    {
+     "authorId": "144736523",
+     "name": "Zhou-Ping Shangguan"
+    },
+    {
+     "authorId": "5797911",
+     "name": "Y. Kuzyakov"
+    }
+   ],
+   "abstract": "Improved agricultural practices that restore soil organic carbon (SOC) are recognized as climate solutions, whereas soil inorganic carbon (SIC) is ignored nearly in all practices. Here, we meta‐analyzed the joint response of SOC and SIC to six common agricultural practices, i.e., reduced tillage, irrigation, fertilization, residue utilization, reclamation, and restoration. The results demonstrated that the most agricultural practices strongly increased SOC, whereas SIC was less sensitive. SOC and SIC increased synergistically by following practices: Irrigation, biochar application, and improved reclamation. However, “trade‐offs” between SOC and SIC due to mineral fertilizer application and restoration to forestland may partly offset soil carbon sequestration. The magnitude of SOC changes decreased with increasing depth, and deep SOC was still responsive to agricultural practices. In contrast, SIC loss occurred mainly in the topsoil, while increases were mainly in the deep soil. By optimizing agricultural practices, we estimated the global potential of carbon sequestration in soil at 1.5 Gt yr.−1 (95% confidence interval: 0.3–2.8), with SOC contributing 1.4 Gt yr.−1, while SIC contributed less (0.1 Gt yr.−1) due to its losses under some practices. This potential is equivalent to 16% of global fossil fuel emissions. Concluding, this study highlights the potential contribution of SIC in enhancing the integrity of soil‐based climate solutions, broadening the scope of carbon management in mitigating climate change."
+  },
+  {
+   "paperId": "f90a041329a71bcc7b7bf5042d418418277e0599",
+   "externalIds": {
+    "DOI": "10.1007/s11707-025-1168-8",
+    "CorpusId": 280471563
+   },
+   "url": "https://www.semanticscholar.org/paper/f90a041329a71bcc7b7bf5042d418418277e0599",
+   "title": "Unlocking the potential of whole-profile carbon sequestration in agricultural soils",
+   "venue": "Frontiers in Earth Science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11707-025-1168-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11707-025-1168-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-01",
+   "authors": [
+    {
+     "authorId": "2283879741",
+     "name": "Zhong-Kui Luo"
+    },
+    {
+     "authorId": "2145475396",
+     "name": "Ming-Ming Wang"
+    },
+    {
+     "authorId": "2326009043",
+     "name": "Guo-Cheng Wang"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2f62858daa2e202fc76e641eb8388893cbe17d11",
+   "externalIds": {
+    "DOI": "10.9734/jabb/2025/v28i123382",
+    "CorpusId": 283639549
+   },
+   "url": "https://www.semanticscholar.org/paper/2f62858daa2e202fc76e641eb8388893cbe17d11",
+   "title": "Carbon Sequestration in Agricultural Soils: Strategies to Improve Soil Health",
+   "venue": "Journal of Advances in Biology &amp; Biotechnology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.9734/jabb/2025/v28i123382",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9734/jabb/2025/v28i123382?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/jabb/2025/v28i123382, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-05",
+   "authors": [
+    {
+     "authorId": "2305361585",
+     "name": "K. Kumari"
+    },
+    {
+     "authorId": "2568590972",
+     "name": "Sonia Sagwal"
+    },
+    {
+     "authorId": "2397019481",
+     "name": "Vikas Tondon"
+    },
+    {
+     "authorId": "2462594919",
+     "name": "S. Chauhan"
+    },
+    {
+     "authorId": "2397019469",
+     "name": "Kanika Panwar"
+    }
+   ],
+   "abstract": "Agricultural soils are increasingly recognized as a critical leverage point for both climate change mitigation and the restoration of soil health. Enhancing soil organic carbon in croplands can offset a portion of anthropogenic greenhouse gas emissions while simultaneously improving soil structure, nutrient cycling, biodiversity and resilience to climate extremes. Yet, the magnitude and durability of carbon sequestration, and the extent to which it co-delivers soil health benefits, depend strongly on management, climate and soil context. This review synthesizes recent evidence on mechanisms of soil carbon stabilization and evaluates the performance, trade-offs and complementarities of key agricultural strategies, including conservation tillage, cover cropping and crop diversification, organic amendments and integrated nutrient management, biochar application, and agroforestry and perennial systems. We draw on global meta-analyses and regional long-term experiments to show that these practices can increase soil organic carbon in surface horizons and improve multiple soil health indicators, though responses are heterogeneous and often exhibit saturation over time. Co-benefits include improved aggregate stability, reduced erosion, enhanced water-holding capacity and more robust biological functioning, which can translate into higher and less variable yields under climate stress. However, constraints such as biophysical limits, potential trade-offs with nitrous oxide emissions, and socio-economic and measurement challenges temper expectations of large-scale deployment. We conclude by outlining research and policy priorities for designing context-specific portfolios of practices, strengthening monitoring and verification systems, and aligning incentives so that carbon-focused interventions deliver durable gains in soil health and farm livelihoods."
+  },
+  {
+   "paperId": "3229eca1a9e3d9be9a58e1ba0067bf70afbabb9d",
+   "externalIds": {
+    "DOI": "10.1051/matecconf/202440401009",
+    "CorpusId": 273606809
+   },
+   "url": "https://www.semanticscholar.org/paper/3229eca1a9e3d9be9a58e1ba0067bf70afbabb9d",
+   "title": "Carbon sequestration in agricultural soils and measures",
+   "venue": "MATEC Web of Conferences",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2024/16/matecconf_menec2024_01009.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/matecconf/202440401009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/matecconf/202440401009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2363676081",
+     "name": "K. Lin"
+    },
+    {
+     "authorId": "2298414752",
+     "name": "Ya-Fei Wang"
+    }
+   ],
+   "abstract": "Against the background of increasing greenhouse gas (GHG) emissions such as CO2 from human activities, reducing carbon and growing sinks has become a hot issue of global concern. Soil, with its strong CO2 absorption capacity, has gradually attracted widespread attention. Agricultural ecosystems are the most active carbon reservoirs in the carbon cycle process. In recent years, some progress has been made in achieving carbon emission reduction through carbon sequestration in agricultural soils, but the ways of carbon sequestration in agricultural soils have not been systematically sorted out. This paper reviews carbon sequestration characteristics in agricultural soils by straw return, organic fertilizer and biochar. Straw return to the field affects soil carbon sequestration capacity by increasing soil active carbon and nitrogen content and stimulating microbial activity. Organic fertilizer significantly increases soil organic carbon (SOC) content. Biochar affects soil carbon sequestration capacity by improving soil aeration, increasing cation exchange, and inhibiting methanogenic bacterial activity to reduce CH4 emissions from paddy fields. Optimizing fertilizer management measures, rationally using resources such as straw return, organic fertilizer and biochar, and combining conservation tillage and precision farming techniques are effective ways to improve the carbon sequestration capacity of farmland soils and reduce greenhouse gas emissions."
+  },
+  {
+   "paperId": "5367a545136c6d6991515641752b53eae135fb46",
+   "externalIds": {
+    "MAG": "2912094957",
+    "DOI": "10.1016/j.scitotenv.2019.02.125",
+    "CorpusId": 73511882,
+    "PubMed": "30790762"
+   },
+   "url": "https://www.semanticscholar.org/paper/5367a545136c6d6991515641752b53eae135fb46",
+   "title": "Current and emerging methodologies for estimating carbon sequestration in agricultural soils: A review.",
+   "venue": "Science of the Total Environment",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.scitotenv.2019.02.125?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.scitotenv.2019.02.125, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-05-15",
+   "authors": [
+    {
+     "authorId": "91717883",
+     "name": "A. Nayak"
+    },
+    {
+     "authorId": "35068257",
+     "name": "M. Rahman"
+    },
+    {
+     "authorId": "145895051",
+     "name": "R. Naidu"
+    },
+    {
+     "authorId": "48870505",
+     "name": "B. Dhal"
+    },
+    {
+     "authorId": "15961478",
+     "name": "C. K. Swain"
+    },
+    {
+     "authorId": "2228265630",
+     "name": "A. Nayak"
+    },
+    {
+     "authorId": "48580401",
+     "name": "R. Tripathi"
+    },
+    {
+     "authorId": "48406458",
+     "name": "M. Shahid"
+    },
+    {
+     "authorId": "2157473180",
+     "name": "M. R. Islam"
+    },
+    {
+     "authorId": "101153305",
+     "name": "H. Pathak"
+    }
+   ],
+   "abstract": "This review covers the current and emerging analytical methods used in laboratory, field, landscape and regional contexts for measuring soil organic carbon (SOC) sequestration in agricultural soil. Soil depth plays an important role in estimating SOC sequestration. Selecting appropriate sampling design, depth of soil, use of proper analytical methods and base line selection are prerequisites for estimating accurately the soil carbon stocks. Traditional methods of wet digestion and dry combustion (DC) are extensively used for routine laboratory analysis; the latter is considered to be the \"gold standard\" and superior to the former for routine laboratory analysis. Recent spectroscopic techniques can measure SOC stocks in laboratory and in-situ even up to a deeper depth. Aerial spectroscopy using multispectral and/or hyperspectral sensors located on aircraft, unmanned aerial vehicles (UAVs) or satellite platforms can measure surface soil organic carbon. Although these techniques' current precision is low, the next generation hyperspectral sensor with improved signal noise ratio will further improve the accuracy of prediction. At the ecosystem level, carbon balance can be estimated directly using the eddy-covariance approach and indirectly by employing agricultural life cycle analysis (LCA). These methods have tremendous potential for estimating SOC. Irrespective of old or new approaches, depending on the resources and research needed, they occupy a unique place in soil carbon and climate research. This paper highlights the overview, potential limitations of various scale-dependent techniques for measuring SOC sequestration in agricultural soil."
+  },
+  {
+   "paperId": "eb0932e7a8af0d24daa8eaf34ca6699c0ae070c5",
+   "externalIds": {
+    "MAG": "2160561617",
+    "DOI": "10.1016/J.AGEE.2010.08.006",
+    "CorpusId": 85752351
+   },
+   "url": "https://www.semanticscholar.org/paper/eb0932e7a8af0d24daa8eaf34ca6699c0ae070c5",
+   "title": "Can no-tillage stimulate carbon sequestration in agricultural soils? A meta-analysis of paired experiments",
+   "venue": "",
+   "year": 2010,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.AGEE.2010.08.006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.AGEE.2010.08.006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2010-10-15",
+   "authors": [
+    {
+     "authorId": "1833506",
+     "name": "Zhongkui Luo"
+    },
+    {
+     "authorId": "2550411",
+     "name": "E. Wang"
+    },
+    {
+     "authorId": "7863594",
+     "name": "O. Sun"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "dee89df4f60da400b7c30e6a2830af141b84f262",
+   "externalIds": {
+    "DOI": "10.1080/07352689.2022.2148923",
+    "CorpusId": 254296082
+   },
+   "url": "https://www.semanticscholar.org/paper/dee89df4f60da400b7c30e6a2830af141b84f262",
+   "title": "An Overview of Carbon Sequestration in Agricultural Soils of Latin America and the Caribbean",
+   "venue": "Critical reviews in plant sciences",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/07352689.2022.2148923?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/07352689.2022.2148923, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2022-11-02",
+   "authors": [
+    {
+     "authorId": "2464561970",
+     "name": "Jimenez-Castaneda M. E."
+    },
+    {
+     "authorId": "2430598613",
+     "name": "L. R."
+    },
+    {
+     "authorId": "146729028",
+     "name": "F. Mello"
+    },
+    {
+     "authorId": "2390872918",
+     "name": "W. K."
+    },
+    {
+     "authorId": "148019505",
+     "name": "S. C"
+    },
+    {
+     "authorId": "2562610468",
+     "name": "Villarreal F."
+    }
+   ],
+   "abstract": "Abstract A major challenge in Latin America and the Caribbean (LAC) is to determine how to meet the ever-growing global needs for food while preserving natural ecosystems and contributing to climate change mitigation. In the region, continuing land use is occurring and has caused a significant soil organic carbon (SOC) loss. We estimated the SOC reduction in three representative ecosystems of the region: forests (4.21 petagrams of carbon, Pg C, over 30 years), grasslands (1.86−7.32 Pg C, over different periods) and mangroves (0.36 Pg C over 25 years). Increasing SOC stocks in agricultural lands can help to mitigate the SOC loss due to land use change, but multiple factors influence the dynamics and response of the agricultural production and carbon sequestration. Farmers are pivotal actors that contribute to food production and could maintain SOC stocks; however, incentives or fair compensation must be considered to enable this. Moreover, national, and continental policies are needed for land restoration and sustainable management of soil health as a living entity through adoption of nature-positive practices which enhance soil organic matter (SOM) stocks, increase use-efficiency of inputs, and lead to nutrition-sensitive agriculture."
+  },
+  {
+   "paperId": "3463d3f2a37c7e46147d50948669db01e1012a32",
+   "externalIds": {
+    "DOI": "10.1016/j.scitotenv.2021.145037",
+    "CorpusId": 231908689,
+    "PubMed": "33578172"
+   },
+   "url": "https://www.semanticscholar.org/paper/3463d3f2a37c7e46147d50948669db01e1012a32",
+   "title": "Effects of long-term fertilization on calcium-associated soil organic carbon: Implications for C sequestration in agricultural soils.",
+   "venue": "Science of the Total Environment",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.scitotenv.2021.145037?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.scitotenv.2021.145037, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-02-02",
+   "authors": [
+    {
+     "authorId": "2047199842",
+     "name": "Dan Wan"
+    },
+    {
+     "authorId": "1917638",
+     "name": "Mingkai Ma"
+    },
+    {
+     "authorId": "145207719",
+     "name": "Na Peng"
+    },
+    {
+     "authorId": "5246991",
+     "name": "Xue-Song Luo"
+    },
+    {
+     "authorId": "2111908052",
+     "name": "Wen-Li Chen"
+    },
+    {
+     "authorId": "143671078",
+     "name": "P. Cai"
+    },
+    {
+     "authorId": "2121276",
+     "name": "Li-Hui Wu"
+    },
+    {
+     "authorId": "2091563567",
+     "name": "Hai-Bin Pan"
+    },
+    {
+     "authorId": "46259290",
+     "name": "Jiubin Chen"
+    },
+    {
+     "authorId": "143702525",
+     "name": "Guang-Hui Yu"
+    },
+    {
+     "authorId": "2226142737",
+     "name": "Qiao-Yun Huang"
+    }
+   ],
+   "abstract": "Although the contribution of calcium ion (Ca2+) to stabilizing organic carbon (OC) in soils has been known for years, we still have a limited understanding of the quantity and molecular composition of Ca2+ bound SOC (Ca-OC) evolution in response to long-term fertilization. Here we report the role of Ca2+ in the accumulation of OC in the topsoil (0-20 cm) from two long-term (25-37 years) fertilization experiment sites. Approximately 4.54-19.27% and 9.00-25.15% of SOC was bound with Ca2+ in the Ferric Acrisol and Fluvic Cambisol, respectively. The application of NPK mineral fertilizers (NPK) decreased (p < 0.05) the Ca-OC stocks from 3.40 t ha-1 to 0.96 t ha-1 and from 2.03 t ha-1 to 1.17 t ha-1 in the Ferric Acrisol and Fluvic Cambisol, respectively. Swine manure (M) addition did not change (p > 0.05) the Ca-OC stock in Ferric Acrisol, but enhanced (p < 0.05) that from 2.03 t ha-1 to 9.75 t ha-1 in Fluvic Cambisol. Fourier transform infrared and carbon (1s)-near X-ray absorption spectroscopies showed that Ca2+ was mainly bound with aromatic carbon and carboxylic carbon. Long-term M fertilization facilitated the binding of Ca2+ with O-alkyl C, suggesting an increment of Ca-linked polysaccharide. Calcium ion was preferentially associated with 13C enriched organic matter (OM). Mineral fertilization promoted the 13C-enriched organic compounds in the Ca-OC, while organic fertilization facilitated the binding of 13C-depleted organic C with Ca2+. This study suggests that Ca-OC may be a potentially vital and stable OC pool in arable soils, and provides direct evidence for the preferential association of OC with Ca2+ in edaphic environments."
+  },
+  {
+   "paperId": "78726129fb1477a2860f1527f95b74bc749b1e97",
+   "externalIds": {
+    "MAG": "2123073816",
+    "DOI": "10.1016/J.GEODERMA.2004.01.021",
+    "CorpusId": 140629100
+   },
+   "url": "https://www.semanticscholar.org/paper/78726129fb1477a2860f1527f95b74bc749b1e97",
+   "title": "Carbon sequestration in the agricultural soils of Europe",
+   "venue": "",
+   "year": 2004,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.GEODERMA.2004.01.021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.GEODERMA.2004.01.021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2004-09-01",
+   "authors": [
+    {
+     "authorId": "4895794",
+     "name": "A. Freibauer"
+    },
+    {
+     "authorId": "2418996",
+     "name": "M. Rounsevell"
+    },
+    {
+     "authorId": "2026231413",
+     "name": "P. Smith"
+    },
+    {
+     "authorId": "145674931",
+     "name": "J. Verhagen"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ed1fa68cab29cd74225b27415d052f5c2ffb72e6",
+   "externalIds": {
+    "MAG": "1975656385",
+    "DOI": "10.1080/09064702.2013.779316",
+    "CorpusId": 84061179
+   },
+   "url": "https://www.semanticscholar.org/paper/ed1fa68cab29cd74225b27415d052f5c2ffb72e6",
+   "title": "Strategies for carbon sequestration in agricultural soils in northern Europe",
+   "venue": "",
+   "year": 2012,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/09064702.2013.779316?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/09064702.2013.779316, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2012-12-01",
+   "authors": [
+    {
+     "authorId": "5845880",
+     "name": "T. Kätterer"
+    },
+    {
+     "authorId": "14798136",
+     "name": "M. A. Bolinder"
+    },
+    {
+     "authorId": "40417011",
+     "name": "K. Berglund"
+    },
+    {
+     "authorId": "2317342",
+     "name": "H. Kirchmann"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "50b790b6ec04f7bf927facd3bc693f5d0f50fe85",
+   "externalIds": {
+    "MAG": "2492047454",
+    "DOI": "10.1201/9781420032291-7",
+    "CorpusId": 131808416
+   },
+   "url": "https://www.semanticscholar.org/paper/50b790b6ec04f7bf927facd3bc693f5d0f50fe85",
+   "title": "Why Carbon Sequestration in Agricultural Soils",
+   "venue": "",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1201/9781420032291-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1201/9781420032291-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2016-04-19",
+   "authors": [
+    {
+     "authorId": "21669357",
+     "name": "R. Lal"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "689cf768f94a98c3a43e359acfb543f52b67a64e",
+   "externalIds": {
+    "MAG": "2068432235",
+    "DOI": "10.1016/J.STILL.2008.10.022",
+    "CorpusId": 129534592
+   },
+   "url": "https://www.semanticscholar.org/paper/689cf768f94a98c3a43e359acfb543f52b67a64e",
+   "title": "Carbon sequestration in agricultural soils in the Cerrado region of the Brazilian Amazon",
+   "venue": "",
+   "year": 2009,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0167198708002109",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.STILL.2008.10.022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.STILL.2008.10.022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2009-05-01",
+   "authors": [
+    {
+     "authorId": "39352707",
+     "name": "J. Carvalho"
+    },
+    {
+     "authorId": "80385994",
+     "name": "C. Cerri"
+    },
+    {
+     "authorId": "31835546",
+     "name": "B. Feigl"
+    },
+    {
+     "authorId": "13179133",
+     "name": "Marisa de Cássia Piccolo"
+    },
+    {
+     "authorId": "90875388",
+     "name": "V. P. Godinho"
+    },
+    {
+     "authorId": "77979938",
+     "name": "C. Cerri"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "eeb2e34001043c6e6da5b0c40077a7393eaf0294",
+   "externalIds": {
+    "MAG": "2495596460",
+    "DOI": "10.1007/978-3-642-23385-2",
+    "CorpusId": 109367411
+   },
+   "url": "https://www.semanticscholar.org/paper/eeb2e34001043c6e6da5b0c40077a7393eaf0294",
+   "title": "Carbon Sequestration in Agricultural Soils: A Multidisciplinary Approach to Innovative Methods",
+   "venue": "",
+   "year": 2012,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-642-23385-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-642-23385-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Book"
+   ],
+   "publicationDate": "2012-05-01",
+   "authors": [
+    {
+     "authorId": "50334445",
+     "name": "A. Piccolo"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "fd1eeb863e22f7a1d924d40418675401795a9552",
+   "externalIds": {
+    "MAG": "3082216518",
+    "DOI": "10.1016/j.rser.2020.110293",
+    "CorpusId": 224927053
+   },
+   "url": "https://www.semanticscholar.org/paper/fd1eeb863e22f7a1d924d40418675401795a9552",
+   "title": "Can deep tillage enhance carbon sequestration in soils? A meta-analysis towards GHG mitigation and sustainable agricultural management",
+   "venue": "Renewable & Sustainable Energy Reviews",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.rser.2020.110293?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.rser.2020.110293, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-11-01",
+   "authors": [
+    {
+     "authorId": "2068042871",
+     "name": "Q. Feng"
+    },
+    {
+     "authorId": "36431092",
+     "name": "C. An"
+    },
+    {
+     "authorId": "102665493",
+     "name": "Zhi Chen"
+    },
+    {
+     "authorId": "98358546",
+     "name": "Zheng Wang"
+    }
+   ],
+   "abstract": "Abstract Sequestration of soil organic carbon (SOC) is regarded as a promising approach to offset global CO2 emissions. Deep tillage (DT) can alleviate high soil strength, influencing both the surface and subsoil carbon pools either directly or indirectly. However, field studies on the benefits of DT to SOC remain inconclusive, and comprehensive quantitative assessment has been lacking. This study used meta-analysis to assess the response of SOC storage to DT based on global data of 430 comparisons from 43 studies. In general, DT was found to significantly enhanced SOC by 7.79%. Specifically, subsoiling significantly increased SOC, augmenting it by 8.87%. Deep ploughing did not facilitate SOC sequestration to a significant extent for the whole soil profile, although it did significantly increase SOC in 20–50 cm layer. The individual response of SOC to DT was found to be highly site-specific. DT was found to bring greater benefits in soil under arid zones, which typically featured fine or medium textured soil, and relatively high background SOC (> 6 g kg−1) and BD content (> 1.3 g cm−3). Furthermore, agronomic practices played an essential role in constraining SOC responses to DT, where better SOC responses were observed under rotational cropping, DT/NT (no-tillage) rotational tillage, advisable DT depth difference, and moderate nitrogen application rate (200–300 kg ha−1 y−1) with prolonged experiment duration. In this regard, it is important to include site-specific environmental and agronomic conditions when identifying appropriate DT practices for enhancing SOC sequestration. The investigation into SOC storage capacity and DT technologies can provide scientific policy guidance for long-term global carbon management."
+  },
+  {
+   "paperId": "0095d5c884ed248d9ff43a550709a993eeb13b92",
+   "externalIds": {
+    "MAG": "2470086687",
+    "DOI": "10.1080/00224561.2001.12457386",
+    "CorpusId": 133403043
+   },
+   "url": "https://www.semanticscholar.org/paper/0095d5c884ed248d9ff43a550709a993eeb13b92",
+   "title": "CQESTR: A model to estimate carbon sequestration in agricultural soils",
+   "venue": "Journal of Soil and Water Conservation",
+   "year": 2001,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/00224561.2001.12457386?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00224561.2001.12457386, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2001-07-01",
+   "authors": [
+    {
+     "authorId": "48974376",
+     "name": "R. Rickman"
+    },
+    {
+     "authorId": "49583168",
+     "name": "C. Douglas"
+    },
+    {
+     "authorId": "35141468",
+     "name": "S. Albrecht"
+    },
+    {
+     "authorId": "3849098",
+     "name": "L. Bundy"
+    },
+    {
+     "authorId": "12210184",
+     "name": "J. Berc"
+    }
+   ],
+   "abstract": "ABSTRACT: The PC-based model for predicting tillage and crop rotation effects on organic carbon decomposition and storage in the soil as organic matter (OM) uses crop residue and root biomass production, tillage type and timing, and average temperature from existing c-factor files, created with the Revised Universal Soil Loss Equation (RUSLE). Residue nitrogen content and soil Layering information-including layer thickness, organic matter content, and bulk density-complete the input requirements for the model. Short-term trends of surface and remaining buried residue and Long-term trends in soil organic matter content, are computed for individual fields and cropping practices. The model was calibrated with soil organic carbon observations (converted to equivalent OM values) from plots with over 60 years of recorded management history including wheat/fallow with manure additions and wheat/fallow with stubble removal. Computations have a 95% confidence interval of +/-3.3 g OM kg−1 soil (0.33% OM). Comparison of OM calculations from the calibrated model with observed values from Lancaster, Wisconsin, and Lexington, Kentucky, produced mean residual errors ranging from -3.O to + 0.2 g OM kg−1 soil (-0.3 to + 0.02% OM."
+  },
+  {
+   "paperId": "94eea1652364f4869ed0d1c7c2e6de713a66034d",
+   "externalIds": {
+    "MAG": "1587791148",
+    "DOI": "10.1016/J.JEDC.2008.03.007",
+    "CorpusId": 121176177
+   },
+   "url": "https://www.semanticscholar.org/paper/94eea1652364f4869ed0d1c7c2e6de713a66034d",
+   "title": "The optimal carbon sequestration in agricultural soils : does the dynamics of the physical process matter ?",
+   "venue": "",
+   "year": 2008,
+   "openAccessPdf": {
+    "url": "https://shs.hal.science/halshs-00115685",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.JEDC.2008.03.007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.JEDC.2008.03.007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2008-12-01",
+   "authors": [
+    {
+     "authorId": "30635842",
+     "name": "L. Ragot"
+    },
+    {
+     "authorId": "25193387",
+     "name": "Katheline Schubert"
+    }
+   ],
+   "abstract": null
+  }
+ ]
+}

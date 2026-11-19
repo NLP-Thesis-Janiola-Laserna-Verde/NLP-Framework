@@ -1,0 +1,158 @@
+{
+ "query": "Learning loss after COVID-19 school closures",
+ "retrieved_at": "2026-11-18T17:55:02.572952+00:00",
+ "data": [
+  {
+   "url": "https://edulog.pt/storage/app/uploads/public/665/662/f83/665662f8320e4170855968.pdf",
+   "title": "A Review of Learning Loss during COVID-19",
+   "content": "10% of SD = 5 months of learning • Countries with average length school closures lost 7 months • Countries with longest closures lost 12 months of learning Jakubowski et al 2024 PISA Departures from the time trend separately for each year of PISA assessment (95% confidence intervals) Jakubowski et al 2024 PISA Learning loss estimates depending on student achievement quantiles and the length of closures Jakubowski et al 2024 PISA Figure 1. Learning loss depending on the length of school closure [...] Causal impact of duration on learning loss Every week closed increases learning loss by ~1 point ∴ 20 weeks of school closures = one year worth of learning International Assessments PIRLS • 55 countries, 16 million children • Evolution of reading scores before & after COVID-19 • Model effect of closures on achievement by predicting deviation of most recent results from a linear trend in reading achievement Jakubowski, M., Gajderowicz, T. and Patrinos, H.A., 2023. Global learning loss in student [...] deviation of the most recent results from a linear trend in math Jakubowski, M, Gajderowicz, T, Patrinos, HA. 2024. Covid-19, School Closures, and Student Learning Outcomes: New Global Evidence from PISA. IZA Discussion Paper No. 16731 PISA • Math scores declined 2018-2022 by 12 points: 14% of a SD = 7 months of learning • Larger declines for students that faced longer closures & for lower-achieving students • Countries with shortest closures experienced relatively small losses: 10% of SD = 5",
+   "score": 0.83359575,
+   "raw_content": null,
+   "id": "a3af25-00"
+  },
+  {
+   "url": "https://www.brookings.edu/articles/how-much-learning-may-be-lost-in-the-long-run-from-covid-19-and-how-can-mitigation-strategies-help",
+   "title": "How much learning may be lost in the long-run from COVID-19 and how can mitigation strategies help? | Brookings",
+   "content": "year’s worth of learning even from a three-month school closure because the losses continue to compound after children return to school. I also use the model to examine two mitigation strategies: short-term or “emergency” remediation, and the same remediation combined with ongoing adaptation of instruction to children’s learning levels. The latter both fully mitigates the losses from the shock and surpasses learning in the counterfactual of no shock by more than a full year’s worth of learning. [...] I model such a scenario, in which “emergency” remediation is combined with ongoing adaptation of instruction to children’s learning levels. This scenario both fully mitigates the long-term learning losses from the school closures and provides children with a full year’s more learning than if there had been no shock (see Figure 1). [...] Recent evidence suggests that the long-term learning losses from COVID-19 school closures could be big—far surpassing the short-term learning losses experienced during the school closures themselves. A study of the impact of the 2005 earthquake in Pakistan found that while children missed three months of school, four years after the earthquake, they were the learning equivalent of 1.5 years behind where they would have been with no earthquake. The likeliest explanation is that because the",
+   "score": 0.8318272,
+   "raw_content": null,
+   "id": "e00dda-01"
+  },
+  {
+   "url": "https://www.adb.org/publications/learning-loss-recovery-covid19-pandemic",
+   "title": "Learning Loss and Recovery from the COVID-19 Pandemic: A Systematic Review of Evidence",
+   "content": "Citable URL\n\n   \n\nThe review provides the first meta-analysis of learning losses that covers more developing countries than developed ones. It finds that a year of school closure is associated with learning loss equivalent to 1.1 years’ worth of learning and that school reopening reduces this loss to 0.5 years. Looking at measures to reduce learning loss, it finds that tutoring delivered either in-person or through mobile phones has positive, statistically significant effects.\n\n### Contents [...] ### Contents\n\n   Introduction\n   Methods\n   Evidence on Learning Loss\n   Effects of Learning Interventions\n   Conclusion\n   Appendix\n\n### Additional Details [...] Dela Cruz, Nina Ashley, Ann Jillian Adona, Rhea Molato-Gayares, and Albert Park. 2025. \"Learning Loss and Recovery from the COVID-19 Pandemic: A Systematic Review of Evidence.\" _International Journal of Educational Development_ 115: 103271. \n\ncb Creative Commons Attribution 3.0 IGO License\")\n\n#### Related\n\n   Education in Asia and the Pacific\n\n#### Also in this Series",
+   "score": 0.8318272,
+   "raw_content": null,
+   "id": "83a06d-02"
+  },
+  {
+   "url": "https://hpatrinos.com/2025/01/22/covid-19-and-learning-loss",
+   "title": "COVID-19 and Learning Loss – Education, economics and public policy",
+   "content": "We find clear evidence that school closures led to learning losses. On average, math scores declined by 12 points from 2018 to 2022, representing about 14 percent of a standard deviation. This decline is roughly equivalent to seven months of learning. [...] However, the impact of school closures varied across countries, with some experiencing smaller declines and others facing more severe losses. Countries that kept school closures relatively short, experienced learning losses of 9 to 12 percent of a standard deviation, or about four to six months of learning. In contrast, countries with longer school closures saw much larger losses—up to 23 percent of a standard deviation, or 12 months of learning. This means that the longer students were out of [...] Studies consistently show that these closures led to substantial declines in student achievement. On average, students lost at least one-third of a year’s worth of learning. However, this loss was not evenly distributed. Disadvantaged students, particularly those from lower-income or marginalized communities, experienced greater setbacks than their more advantaged peers. Many of these students had less access to the resources needed to engage with distance learning, such as computers, a",
+   "score": 0.8275496,
+   "raw_content": null,
+   "id": "6b8eea-03"
+  },
+  {
+   "url": "https://files.eric.ed.gov/fulltext/ED678267.pdf",
+   "title": "COVID-19-Induced School Closures and Disadvantaged Children's Post- ...",
+   "content": "in math learning during school closures. In other words, children experienced almost no growth in their math skills during school closures. The magnitude of this loss is roughly consistent with the worst-case estimates of Kogan and Lavertu (2021), who concluded—based on a comparison of standardized test scores among pre- and post-COVID cohorts—that pandemic-related losses in children’s math skills were equivalent to roughly one-half to one full year of math learning. Children’s development of [...] closures (ages 4-6; 2017-2019) to after school reopening (ages 8-11; 2021-2023) and tested whether children’s remote learning participation moderated these changes. Results suggest that academic growth stagnated during school closures, with “losses” ranging from 3 months of literacy growth to 14 months of math growth. Remote learning participation was protective for math only. After schools re-opened, children’s growth rates were slower than they had been prior to school closures but bounced [...] trajectories from before school closures (ages 4-6; 2017-2019) to after school reopening (ages 8-11; 2021-2023) and tested whether children’s remote learning participation moderated these changes. Results suggest that academic growth stagnated during school closures, with “losses” ranging from 3 months of literacy growth to 14 months of math growth. Remote learning participation was protective for math only. After schools re-opened, children’s growth rates were slower than they had been prior",
+   "score": 0.82544905,
+   "raw_content": null,
+   "id": "298e0d-04"
+  },
+  {
+   "url": "https://www.pnas.org/doi/10.1073/pnas.2022376118",
+   "title": "Learning loss due to school closures during the COVID-19 pandemic | PNAS",
+   "content": "widen, this finding has failed to replicate in more recent studies (8, 9) or in European samples (48, 49). However, there are limits to the analogy between summer recess and forced school closures, when children are still being expected to learn at a normal pace (50). Our results show that learning loss was particularly pronounced for students from disadvantaged homes, confirming the fears held by many that school closures would cause socioeconomic gaps to widen (51–55). [...] School closures have been a common tool in the battle against COVID-19. Yet, their costs and benefits remain insufficiently known. We use a natural experiment that occurred as national examinations in The Netherlands took place before and after lockdown to evaluate the impact of school closures on students’ learning. The Netherlands is interesting as a “best-case” scenario, with a short lockdown, equitable school funding, and world-leading rates of broadband access. Despite favorable [...] We have described The Netherlands as a best-case scenario due to the country’s short school closures, high degree of technological preparedness, and equitable school funding. However, this does not mean that circumstances were ideal. The short duration of school closures gave students, educators, and parents little time to adapt. It is possible that remote learning might improve with time (47). At the very least, our results imply that technological access is not itself sufficient to guarantee",
+   "score": 0.8149381,
+   "raw_content": null,
+   "id": "bdf199-05"
+  },
+  {
+   "url": "https://www.nber.org/system/files/working_papers/w30552/w30552.pdf",
+   "title": "Covid-19 Learning Loss and Recovery: Panel Data Evidence ...",
+   "content": "Overall, learning loss was regressive, and correlated with a significant socioeconomic gradient in educational inputs received during school closures. The magnitude of this heterogeneity is, however, small relative to the size of the learning loss in the overall population.\nSecond, we estimate the pace of recovery and find a rapid catch-up in learning within 5–6 months of school reopening.\nTwo-thirds of the learning loss documented in December 2021 was made up for by May 2022. [...] Covid-19 Learning Loss and Recovery: Panel Data Evidence from India Abhijeet Singh, Mauricio Romero, and Karthik Muralidharan NBER Working Paper No. 30552 October 2022 JEL No. H52,I21,I25,O15 ABSTRACT We use a panel survey of ~19,000 primary-school-aged children in rural Tamil Nadu to study ‘learning loss’ after COVID-19-induced school closures, and the pace of recovery after schools reopened. Students tested in December 2021 (18 months after school closures) displayed learning deficits of ~0.7 [...] Indeed, mothers’ education is significantly correlated with student access to educational inputs during school closures (see Table A.5), with most of these inputs being significantly predictive of learning changes during the 18-months of school closures. While we do not find significant differences in learning loss by SES, as measured by ownership of consumer durables, the point estimates suggest greater learning loss among lower SES children.",
+   "score": 0.8045595,
+   "raw_content": null,
+   "id": "07a4fa-06"
+  },
+  {
+   "url": "https://mauricio-romero.com/pdfs/papers/Forthcoming_JHR_TNLL.pdf",
+   "title": "COVID-19 Learning loss and recovery: Panel data evidence from India",
+   "content": "COVID-19 Learning loss and recovery: Panel data evidence from India Abhijeet Singh† Mauricio Romero‡ Karthik Muralidharan§ March 4, 2024 Abstract We use a panel survey of ∼19,000 primary-school-aged children in rural Tamil Nadu to study ‘learning loss’ after COVID-19-induced school closures, and the pace of recovery after schools reopened. Students tested in December 2021 (18 months after school closures) displayed learning deficits of ∼0.73σ in math and 0.34σ in language compared to [...] On average, students between 5–7 years were 0.73 and 0.34 standard deviations (σ) behind in mathematics and language, respectively, compared to students of the same age in the same villages in 2019. This is equivalent to 1–2 years of schooling in this context. These learning losses were regressive, consistent with a significant positive socioeconomic gradient in educational inputs received by children during school closures. [...] This recovery was modestly larger for children from more disadvantaged backgrounds, compensating fully for the socioeconomically unequal learning loss found after 18 months of school closures.\nFinally, we evaluate the effectiveness of the state government’s flagship COVID-recovery intervention in education.",
+   "score": 0.7973991,
+   "raw_content": null,
+   "id": "df2aaf-07"
+  },
+  {
+   "url": "https://budgetmodel.wharton.upenn.edu/p/2021-10-27-covid-19-learning-loss-long-run-macroeconomic-effects-update",
+   "title": "COVID-19 Learning Loss: Long-run Macroeconomic Effects Update | Penn Wharton Budget Model",
+   "content": "This study updates our previous work where we projected long-run macroeconomic effects of school closure policies. New estimates of learning loss based on new data of student academic performance show a smaller average loss than estimates used in our prior analysis, an average of 0.4 years of math education lost versus the previous estimate of 0.8 years lost by the end of the 2020-2021 school year. [...] Because of pandemic school closures and the shift to remote education during the 2020-2021 school year, it is widely accepted that students have suffered various levels of learning loss. Studies have found that remote education reduces learning outcomes for students and that current students are likely to earn less in future wages as a result of their lower labor productivity. Since labor productivity affects the production of goods, services, and wealth in an economy, current cohorts of [...] Using recently available data on learning loss from pandemic school closures, PWBM estimates that projected 2051 GDP is 1.4 percent lower than it would have been without the learning loss. Extending the 2021-22 school year for all public schools by one month would cost $78 billion and limit the reduction in 2051 GDP to 1.0 percent—a net present value gain in GDP of more than $1 trillion over the next three decades, equal to a $15.14 return for each $1 invested.\n\nIntroduction",
+   "score": 0.7890712,
+   "raw_content": null,
+   "id": "09be29-08"
+  },
+  {
+   "url": "https://edpolicyinca.org/publications/what-can-be-done-address-learning-losses-due-school-closures",
+   "title": "What Can Be Done to Address Learning Losses Due to School Closures? | Policy Analysis for California Education",
+   "content": "Students suffer learning losses over the summer holiday in the best of circumstances; the COVID-19 school closures are likely to intensify that effect. While it is impossible to know at this point to what degree learning loss will be impacted by this extraordinary circumstance, research demonstrates that academic “slide” is typically observed most in math and, to a somewhat lesser extent, reading. Given the current limitations on in-person learning, schools can consider online summer programs [...] Growth assessment, suggest that students lose about 20 to 50 percent of their school-year math and reading gains during a typical summer. We can use this information to estimate how much ground students will lose due to the 2 to 3 additional months of face-to-face instruction that most students have missed. Based on millions of test scores, projections suggest that when schools reopen in the fall, students will return with about 70 percent of their typical reading gains and less than half of [...] The projected learning losses also identify key differences by subject and grade, with greater declines in math than reading skills and with older students experiencing greater disadvantages than younger students. Research shows that, in general, students’ out-of-school learning outcomes are far more variable than their school-year outcomes. As a result, we can expect that when schools reopen in the fall (at the earliest), there will be even larger learning differences among students than usual",
+   "score": 0.78695047,
+   "raw_content": null,
+   "id": "f43e28-09"
+  },
+  {
+   "url": "https://osf.io/preprints/socarxiv/ve4z7",
+   "title": "Learning Loss Due to School Closures During the COVID-19 Pandemic",
+   "content": "by P Engzell · Cited by 3146 — The effect is equivalent to a fifth of a school year, the same period that schools remained closed. Losses are up to 60% larger among students",
+   "score": 0.7866228,
+   "raw_content": null,
+   "id": "07fa4a-10"
+  },
+  {
+   "url": "https://ideas.repec.org/p/zbw/glodps/1574.html",
+   "title": "The Learning Crisis in the United States Three Years After Covid-19",
+   "content": "by HA Patrinos · 2025 · Cited by 5 — These closures, aimed at reducing virus transmission, resulted in significant learning losses, particularly in mathematics and science. Using United States data",
+   "score": 0.75833166,
+   "raw_content": null,
+   "id": "bb0cca-11"
+  },
+  {
+   "url": "https://jhr.uwpress.org/content/early/2024/04/01/jhr.0723-13025R2",
+   "title": "COVID-19 Learning loss and recovery | Journal of Human Resources",
+   "content": "by A Singh · 2024 · Cited by 130 — Students tested in December 2021 (18 months after school closures) displayed learning deficits of ~0.73σ in math and 0.34σ in language compared",
+   "score": 0.7570767,
+   "raw_content": null,
+   "id": "8a5fbe-12"
+  },
+  {
+   "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1177&context=edrepub",
+   "title": "The Learning Crisis: Three Years After COVID-19 - ScholarWorks@UARK",
+   "content": "by T Gajderowicz · 2024 · Cited by 37 — These closures, aimed at reducing virus transmission, resulted in significant learning losses, particularly in mathematics and science. Using",
+   "score": 0.7501869,
+   "raw_content": null,
+   "id": "e08222-13"
+  },
+  {
+   "url": "https://openknowledge.worldbank.org/entities/publication/07ebc2c3-2157-512d-960e-0797c2fd4033",
+   "title": "Learning Losses in Pakistan Due to COVID-19 School Closures",
+   "content": "Globally, a school shutdown of 5 months could generate learning losses that have a present value of $10 trillion. a reduction of $366 to $1,776 in yearly",
+   "score": 0.7306744,
+   "raw_content": null,
+   "id": "16bb2e-14"
+  },
+  {
+   "url": "https://www.nwea.org/research/publication/new-research-on-science-learning-loss-following-covid-19-school-closures",
+   "title": "New research on science learning loss following COVID-19 school closures",
+   "content": "This research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning. Using MAP Growth data",
+   "score": 0.72603726,
+   "raw_content": null,
+   "id": "91e4a6-15"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=OELGr2_qQI0",
+   "title": "Learning losses 5 years after schools closed due to COVID-19 pandemic",
+   "content": "It's been five years since COVID closed schools, sending students home to learn through a computer screen. The learning losses that followed",
+   "score": 0.69035035,
+   "raw_content": null,
+   "id": "458f01-16"
+  },
+  {
+   "url": "https://www.unesco.org/en/covid-19/education-response",
+   "title": "Education: From COVID-19 school closures to recovery | UNESCO",
+   "content": "# Education: From COVID-19 school closures to recovery\n\nAfter the historic disruption of the COVID-19 pandemic, most schools are back open worldwide but education is still in recovery assessing the damage done and lessons learned. Education: The pandemic affected more than 1.6 billion students and youth globally, with the most vulnerable learners being hit hardest. Some gains already made towards the goals of the 2030 Education Agenda were lost. [...] Learning never stops\n\nTwo years into the COVID-19 crisis: Students and teachers share their stories\n\n## Resources\n\nlocal\\_library\n\nIssue notes\n\nEvidence of good practices, practical tips and references to mitigate the impact of school closures\n\nexplore\n\nSelected publications\n\nExplore UNESCO database for useful resources.\n\nvideo\\_library\n\nGlobal Education Coalition founding members\n\nVideo messages from the first group of partners who joined UNESCO’s Global Education Coalition. [...] Global Education Coalition\n\nCECIL BO DZWOWA/Shutterstock.com\n\n### Global Education Coalition\n\nA multi-sector Coalition to protect the right to education during unprecedented disruption from response to recovery #LearningNeverStops\n\nRead more\n\n## Monitoring of school closures",
+   "score": 0.5158333,
+   "raw_content": null,
+   "id": "a2a3bc-17"
+  },
+  {
+   "url": "https://epaa.asu.edu/index.php/epaa/article/view/8082/3342",
+   "title": "COVID-19 learning loss and recovery in Brazil: Assessing gaps across social groups | Education Policy Analysis Archives",
+   "content": "Education Policy Analysis Archives\n\n## About\n\nEducation Policy Analysis Archives/Archivos Analíticos de Políticas Educativas/Arquivos Analíticos de Políticas Educativas (EPAA/AAPE;ISSN 1068-2341) is a peer-reviewed, open-access, international, multilingual, and multidisciplinary journal designed for researchers, practitioners, policy makers, and development analysts concerned with education policies.\n\n## Language\n\n English\n Português (Brasil)\n Español (España)\n\n## Make a Gift [...] ## Search\n\n## Sponsors\n\nEPAA/AAPE is supported by the Scholarly Communications Group at the Mary Lou Fulton College for Teaching and Learning Innovation, Arizona State University.\n\n## Keywords\n\nMore information about the publishing system, Platform and Workflow by OJS/PKP. [...] ## Make a Gift\n\n Keep EPAA open access\n\n## Submit a Manuscript or Revision\n\nSubmit a Manuscript or Revision\n\n## Recent special issues\n\nNEW! Continuing the conversation: “Life is Good”—David Berliner's legacy\n\nInitial Teacher Education and Inclusion: Progress, Setbacks, and Challenges 30 Years after the Salamanca Statement\n\nAdvancing Equity Globally\n\nScience of Reading Policies\n\nEducation Privatization and Commercialization in the Context and Aftermath of the COVID-19 Pandemic\n\n## Search",
+   "score": 0.33993718,
+   "raw_content": null,
+   "id": "0e231d-18"
+  }
+ ]
+}

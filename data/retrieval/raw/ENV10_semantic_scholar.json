@@ -1,0 +1,843 @@
+{
+ "query": "Climate-smart agriculture adaptation for smallholder farmers",
+ "retrieved_at": "2026-11-18T18:06:16.884940+00:00",
+ "data": [
+  {
+   "paperId": "08435c6ed57b0745b58545dc4a4b288fb9bf2ff8",
+   "externalIds": {
+    "DOI": "10.47191/ijsshr/v9-i10-18",
+    "CorpusId": 292872693
+   },
+   "url": "https://www.semanticscholar.org/paper/08435c6ed57b0745b58545dc4a4b288fb9bf2ff8",
+   "title": "Climate Smart Agriculture Adaptation Resource Inequalities Among Smallholder Farmers in the Barind Tract of Bangladesh: The Role of Governance Inclusion and Institutional Access",
+   "venue": "International journal of social science and human research",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://ijsshr.in/v9i10/Doc/18.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47191/ijsshr/v9-i10-18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47191/ijsshr/v9-i10-18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-10-12",
+   "authors": [
+    {
+     "authorId": "2506071379",
+     "name": "Md Shahabuddin"
+    },
+    {
+     "authorId": "2510372485",
+     "name": "Most Jesmin Ara"
+    },
+    {
+     "authorId": "2244381247",
+     "name": "B. Biswas"
+    },
+    {
+     "authorId": "90059675",
+     "name": "Santos Rui"
+    },
+    {
+     "authorId": "2510372907",
+     "name": "Faizah Sadik Tapti"
+    },
+    {
+     "authorId": "2510372394",
+     "name": "Kazi Afnan Maha"
+    },
+    {
+     "authorId": "2510372064",
+     "name": "Sumia Akter Mim"
+    },
+    {
+     "authorId": "2510373107",
+     "name": "Tanisha Tabassum Khan"
+    }
+   ],
+   "abstract": "Climate-smart agriculture (CSA) is increasingly discussed as an approach for responding to climate risks while supporting agricultural productivity, resilience and sustainable resource use. However, access to the institutional and governance resources that enable farmers to adopt CSA may be uneven. This manuscript develops an empirical framework for examining adaptation-resource inequalities among smallholder farmers in the drought-prone Barind Tract of Bangladesh, with particular attention to governance inclusion and institutional access. The study is aligned with an approved doctoral research design focused on CSA adoption and its contribution to livelihood resilience in Rajshahi, Naogaon and Chapainawabganj. A mixed-methods design will combine a structured household survey, GPS-based spatial information, key-informant interviews, focused ethnographic fieldwork, policy and institutional document review, and relevant secondary data. The quantitative component will construct a Climate-Smart Agriculture Adoption Index (CSAAI) and examine socioeconomic, livelihood-capital, institutional, environmental and behavioural determinants using a Fractional Logit model. The institutional component will examine stakeholder roles, financing, extension, policy implementation and barriers through stakeholder mapping, a Power–Interest Matrix, a Barrier Severity Index and thematic analysis. Governance inclusion and institutional access will therefore be treated as mechanisms and explanatory conditions within the broader CSA adoption framework rather than as unsupported outcome measures. The manuscript does not report empirical results because the household survey and fieldwork are scheduled for the subsequent fieldwork phase of the doctoral project. This design provides a transparent basis for assessing whether differences in institutional access and governance inclusion are associated with unequal opportunities to adopt CSA and, subsequently, with livelihood resilience."
+  },
+  {
+   "paperId": "007f99393b93bc248c904fae9e7bb8e95c74aa9c",
+   "externalIds": {
+    "DOI": "10.3390/cli12050074",
+    "CorpusId": 269857745
+   },
+   "url": "https://www.semanticscholar.org/paper/007f99393b93bc248c904fae9e7bb8e95c74aa9c",
+   "title": "Adaptation through Climate-Smart Agriculture: Examining the Socioeconomic Factors Influencing the Willingness to Adopt Climate-Smart Agriculture among Smallholder Maize Farmers in the Limpopo Province, South Africa",
+   "venue": "Climate",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/cli12050074",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/cli12050074?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/cli12050074, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-17",
+   "authors": [
+    {
+     "authorId": "2301971858",
+     "name": "Koketso Cathrine Machete"
+    },
+    {
+     "authorId": "89634277",
+     "name": "M. P. Senyolo"
+    },
+    {
+     "authorId": "113258812",
+     "name": "L. Gidi"
+    }
+   ],
+   "abstract": "Agriculture contributes to the South African economy, but this sector is highly vulnerable to climate change risks. Smallholder maize farmers are specifically susceptible to climate change impacts. The maize crop plays a crucial role in the country’s food security as is considered a staple food and feed. The study aimed at examining the socioeconomic factors influencing smallholder maize farmers’ willingness to adopt climate-smart agriculture in the Limpopo Province, South Africa. It was conducted in three different areas due to their specific agro-ecological zones. A multipurpose research design was used to gather data, and multistage random sampling was used to choose the study areas. Subsequently, 209 purposefully selected farmers were interviewed face-to-face using structured questionnaires and focus discussion groups. Descriptive results revealed that 81%, 67%, and 63% farmers in Ga-Makanye, Gabaza, and Giyani were willing to adopt CSA. Using the double-hurdle model, the t-test was significant at 1%, Prob > chi2 = 0. 0000, indicating a good model. At a 5% confidence level, education, crop diversification, and information about climate-smart agriculture (CSA) positively influenced adoption, while household size and agricultural experience negatively influenced it. It is recommended that the Department of Agriculture, Land Reform, and Rural Development provide CSA workshops and educational programs to farmers to enhance their knowledge and decision-making processes regarding adaptation strategies."
+  },
+  {
+   "paperId": "66ccc0791ab8a19a8a22a5a868ada478ee12e3b9",
+   "externalIds": {
+    "DOI": "10.1108/ijccsm-05-2025-0139",
+    "CorpusId": 283362804
+   },
+   "url": "https://www.semanticscholar.org/paper/66ccc0791ab8a19a8a22a5a868ada478ee12e3b9",
+   "title": "Climate change and smallholder farmers in Northwest Syria: perceptions, impacts and the promise of climate-smart agriculture",
+   "venue": "International Journal of Climate Change Strategies and Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.emerald.com/ijccsm/article-pdf/17/1/1079/10857089/ijccsm-05-2025-0139en.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/ijccsm-05-2025-0139?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/ijccsm-05-2025-0139, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-10-31",
+   "authors": [
+    {
+     "authorId": "2395052906",
+     "name": "Safwan Abdulghani Alhaiek"
+    },
+    {
+     "authorId": "2079194790",
+     "name": "A. Nabhan"
+    },
+    {
+     "authorId": "2087457506",
+     "name": "Abdulkarim Lakmes"
+    },
+    {
+     "authorId": "2214664392",
+     "name": "M. Alobaidy"
+    },
+    {
+     "authorId": "2395040689",
+     "name": "Basem Mohamed Saleh"
+    },
+    {
+     "authorId": "2535593098",
+     "name": "Melhem al Abdulah"
+    },
+    {
+     "authorId": "1405378376",
+     "name": "T. C. Camacho-Villa"
+    }
+   ],
+   "abstract": "\n \n This study focuses on the climate changes affecting the livelihoods of smallholder farmers in the Northwest Syria (NWS), a largely overlooked topic to date. It aims to assess the impact of climate change and examine adaptation strategies, of which climate-smart agriculture (CSA) practices, in particular.\n \n \n \n The study uses a mixed-methods approach, integrating primary data from 19 key informant interviews, a structured survey and three focus group discussions with farmers and relevant locals, with an analysis of 44 years of rainfall and temperature data, to assess climatic trends.\n \n \n \n The study reveals a reduction of approximately 20 mm in precipitation and an increase of 0.5°C in temperature per decade, intensifying water scarcity and agricultural losses. Testimonies relating to climate change confirm severe economic impacts, including crop losses, reduced agriculture employment opportunities (particularly for women) and diminishing social solidarity. It also reveals little knowledge of CSA amongst farmers who are largely unaware of its objectives. Obstacles to CSA implementation include a lack of supportive policies, due to the conflict, limited access to climate-resilient technologies and insufficient communication channels.\n \n \n \n To the best of the authors’ knowledge, this study is the first comprehensive assessment of climate change in NWS, a context of conflict, with a weak institutional structure and no climate-focused agricultural extension services. It highlights the complex relationship between farmers’ perceptions and climatic datasets by triangulating primary data with secondary climate data, emphasizing the urgent need to raise awareness of climate change and CSA practices and for additional studies and related policies.\n"
+  },
+  {
+   "paperId": "21888bdaa54fc12c9e072a1314107130ab0e9b1e",
+   "externalIds": {
+    "DOI": "10.22194/jgias/25.1302",
+    "CorpusId": 275893032
+   },
+   "url": "https://www.semanticscholar.org/paper/21888bdaa54fc12c9e072a1314107130ab0e9b1e",
+   "title": "Enhancing Adoption Intensity: Exploring the Nexus between Climate Information Access and Climate-Smart Adaptation Practices among Smallholder Farmers in Ghana",
+   "venue": "Journal of Global Innovations in Agricultural Sciences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.22194/jgias/25.1302",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22194/jgias/25.1302?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22194/jgias/25.1302, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-24",
+   "authors": [
+    {
+     "authorId": "107795998",
+     "name": "Abdul-Fatahi Alidu"
+    },
+    {
+     "authorId": "49410436",
+     "name": "N. Man"
+    }
+   ],
+   "abstract": "Globally, climate change is a significant development challenge. Sub-Saharan Africa is particularly vulnerable to the negative effects of climate change because of the region’s low adaptive capacity and its excessive reliance on rain-fed agriculture for food security and livelihood. Climate information accessibility is promoted to improve smallholder farmers’ adoption intensity of climate-smart adaptation practices. The object of this research is to examine climate information access as a driver of climate-smart adaptation practices. This study utilized primary data from 475 smallholder farmers in the Northern Region of Ghana. The Endogenous-Switching Poisson regression model was fitted to examine the determinants of access to climate information and the subsequent effect of access to climate information on climate-smart adaptation practices adoption intensity. According to the study, access to climate information is endogenous and is influenced positively by gender, farming experience, off-farm income and the number of times smallholder farmers listen to the radio. Age, farm income, access to extension, education, off-farm income, farm experience, perception of temperature and Access to climate information thus had a significant influence on the adoption intensity of smallholder farmers’ climate-smart adaptation practices. Based on these results, we suggest that climate change and agricultural programs should encourage smallholder farmers' subscription to access climate information in promoting the adoption of numerous climate-smart adaptation practices. To provide climate information to smallholder farmers in this situation, extension agents should be the main targets. The large effect of income that is both farm and off-farm income on the rate of climate-smart adaptation practices adoption is one of the study’s key findings. We contend that agricultural programmes should include ways to improve both farm and off-farm income of smallholder farmers to enable them to intensify their climate-smart adaptation practices adoption."
+  },
+  {
+   "paperId": "78e53e71d654168fe6339406b76c5e64df285322",
+   "externalIds": {
+    "DOI": "10.1080/23311932.2023.2294547",
+    "CorpusId": 267290124
+   },
+   "url": "https://www.semanticscholar.org/paper/78e53e71d654168fe6339406b76c5e64df285322",
+   "title": "Adapting agriculture to climate change: institutional determinants of adoption of climate-smart agriculture among smallholder farmers in Kenya",
+   "venue": "Cogent Food &amp; Agriculture",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1080/23311932.2023.2294547",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/23311932.2023.2294547?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/23311932.2023.2294547, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-01-25",
+   "authors": [
+    {
+     "authorId": "2103275377",
+     "name": "Andrew Waaswa"
+    },
+    {
+     "authorId": "1478549298",
+     "name": "A. Oywaya-Nkurumwa"
+    },
+    {
+     "authorId": "2125445274",
+     "name": "Anthony Mwangi Kibe"
+    },
+    {
+     "authorId": "2583999986",
+     "name": "Joel Ng'eno Kipkemoi"
+    }
+   ],
+   "abstract": "Abstract Climate-smart agriculture (CSA) adoption rates have remained low in Kenya despite being promoted by the Kenyan government and its development partners. Analyzing institutional factors could help inform efforts to mitigate potential climate adaptation mal-actions in Kenya and other contexts. This study examined the relationship between institutional factors and CSA adoption among smallholder potato farmers in Gilgil Sub County of Nakuru County, Kenya. The institutional factors selected for this study included access to credit, training on CSA, non-governmental organization (NGO) support, and farmers' group membership. A binary logistic regression analysis unveiled that smallholder potato farmers' adoption of CSA was positively related to institutional factors, which was statistically significant at a 5% significance level (χ2 = 10.219, df = 4, p < 0.05). However, only access to credit was positive and statistically significant at a 5% significance level (Wald χ2 = 4.524, df = 1, p < 0.05) among the four explanatory variables included in the binary logistic regression model. Therefore, warranting access to credit is deemed to produce favorable requisites for adopting farming methods befitted to adapting agriculture to the effects of climate change. One way of warranting access to credit could be mobilizing farmers to join groups that serve as Savings and Credit Cooperatives (SACCOs) and Village Savings and Lending Associations (VSLAs) because farmers that join SACCOs or VSLAs have access to loans that may otherwise be challenging to obtain from conventional financial institutions."
+  },
+  {
+   "paperId": "6759569141f769b38ad78dfdfec12a2ade18cdf2",
+   "externalIds": {
+    "DOI": "10.36782/apjsafe.v13i1.487",
+    "CorpusId": 283729996
+   },
+   "url": "https://www.semanticscholar.org/paper/6759569141f769b38ad78dfdfec12a2ade18cdf2",
+   "title": "Climate-smart agriculture and technical efficiency of smallholder maize farmers in Wa East District of Ghana",
+   "venue": "Asia Pacific Journal of Sustainable Agriculture, Food and Energy",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ojs.bakrie.ac.id/index.php/APJSAFE/article/download/487/321",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36782/apjsafe.v13i1.487?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36782/apjsafe.v13i1.487, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-06-01",
+   "authors": [
+    {
+     "authorId": "2334339220",
+     "name": "A. Ibrahim"
+    },
+    {
+     "authorId": "94959113",
+     "name": "Benjamin Tetteh Anang"
+    },
+    {
+     "authorId": "74668679",
+     "name": "Lea Anzagra"
+    },
+    {
+     "authorId": "32513567",
+     "name": "E. Derbile"
+    }
+   ],
+   "abstract": "Climate-smart agriculture (CSA) seeks to improve adaptation and mitigation to climate change and eventually, improve the productivity and sustainability of farming. However, CSA adoption particularly among smallholder farmers in developing countries remains low in spite of its potential benefits of improving productivity. Also, empirical evidence of the linkage between CSA adoption and technical efficiency (TE) of smallholder farmers remains scanty. This study therefore examined the drivers of adoption of CSA practices (CSAPs) and how adoption intensity affects TE of smallholder maize production in Wa East District of Ghana. Relying on survey data, generalized Poisson regression and stochastic frontier analysis, the study observed that uptake of multiple CSAPs increased TE of maize producers. The study therefore recommends the provision of CSA training and awareness creation to encourage uptake of multiple CSAPs to increase TE of smallholder maize producers."
+  },
+  {
+   "paperId": "f8bda9f88e5330c24c36178feee7257acd9fa487",
+   "externalIds": {
+    "PubMedCentral": "8403538",
+    "DOI": "10.1016/j.heliyon.2021.e07873",
+    "CorpusId": 237398039,
+    "PubMed": "34485747"
+   },
+   "url": "https://www.semanticscholar.org/paper/f8bda9f88e5330c24c36178feee7257acd9fa487",
+   "title": "Communicating climate change adaptation strategies: climate-smart agriculture information dissemination pathways among smallholder potato farmers in Gilgil Sub-County, Kenya",
+   "venue": "Heliyon",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "http://www.cell.com/article/S2405844021019769/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8403538, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-08-01",
+   "authors": [
+    {
+     "authorId": "2103275377",
+     "name": "Andrew Waaswa"
+    },
+    {
+     "authorId": "108251762",
+     "name": "A. Nkurumwa"
+    },
+    {
+     "authorId": "2125445274",
+     "name": "Anthony Mwangi Kibe"
+    },
+    {
+     "authorId": "2330484504",
+     "name": "Ng eno Joel Kipkemoi"
+    }
+   ],
+   "abstract": "Proven and sustainable practices like climate-smart agricultural practices (CSAPs) need to be prioritized and promoted for uptake especially by the farmers to achieve sustainable development. These are capable of contributing to the realization of sustainable development goals through averting food and nutritional insecurity, increasing and sustaining yields that translate into increased incomes and later reduced poverty. This is because CSAPs enable farmers to adapt and mitigate climate change effects. However, due to inappropriate communication of CSAPs to the farmers, to date, some farmers still see no escape route from the frightening effects of climate change and they are currently adopting a rather fatalistic attitude. This study investigated the information dissemination pathways used by different categories of smallholder potato farmers for and practice of CSAPs. It found a difference between information sources and practice of CSAPs at a 5% level of significance (χ2 = 100.12139, df = 2, p < 0.05, Cramer's V = 1.0), and a difference in the use of the three information dissemination pathways between men and women at a 5% level of significance (χ2 = 6.05949, df = 2, p < 0.05, Cramer's V = 0.17406). The three information dissemination pathways included media, neighbors and friends, and extension officers. Generally, farmers were aware and practiced the CSAPs investigated in this study except for irrigation with high awareness yet with low uptake percentage and potato seedlings and minitubers both with low awareness and practice respectively. This study recommended mainstreaming of CSAPs information."
+  },
+  {
+   "paperId": "49087d5419e38b5e3f22fd3b5ebe35e21192e208",
+   "externalIds": {
+    "DOI": "10.1007/s11027-024-10112-w",
+    "CorpusId": 268710937
+   },
+   "url": "https://www.semanticscholar.org/paper/49087d5419e38b5e3f22fd3b5ebe35e21192e208",
+   "title": "Effect of different forms of capital on the adoption of multiple climate-smart agriculture strategies by smallholder farmers in Assam, India",
+   "venue": "Mitigation and Adaptation Strategies for Global Change",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11027-024-10112-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11027-024-10112-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-03-25",
+   "authors": [
+    {
+     "authorId": "2214900812",
+     "name": "Jigyasa Sandilya"
+    },
+    {
+     "authorId": "2244608254",
+     "name": "Kishor Goswami"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "c00aa27eb234691e9a010b5942f2af00fa6047a2",
+   "externalIds": {
+    "MAG": "3199938111",
+    "DOI": "10.2139/ssrn.3900538",
+    "CorpusId": 240522477
+   },
+   "url": "https://www.semanticscholar.org/paper/c00aa27eb234691e9a010b5942f2af00fa6047a2",
+   "title": "Climate Smart Agriculture techniques as a strategy for Climate Adaptation by Smallholder Farmers in Nkayi District",
+   "venue": "Social Science Research Network",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2139/ssrn.3900538",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.3900538?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.3900538, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-04-09",
+   "authors": [
+    {
+     "authorId": "2137472173",
+     "name": "Knowledge Khumalo"
+    }
+   ],
+   "abstract": "The study investigates the viability of Climate Smart Agriculture (CSA) techniques being utilized in communal areas in Zimbabwe as mitigation strategy to the effects of climate change, with particular reference to Wards 18 and 19 in Nkayi District. As their livelihoods are highly dependent on climate-sensitive activities such as rain-fed agriculture, climate change has a significantly negative effect on people's livelihoods in communal areas of this country. Increased temperatures, reduced annual rainfall marked by dry spells in the mid-season, and increased frequency and severity of climate-related hazards such as droughts and El Ninos have been detrimental to the livelihoods of communal farmers. The most important problems facing communal farmers in the Nkayi District as a result of climate change are food shortage, water scarcity and livestock loss. CSA techniques are the solution to this predicament. Conservation Agriculture (CA), small grains production, Water Harvesting Techniques (WHTs), fodder production, small livestock production and seed banks are some of the techniques available to communal farmers. Community-based adaptation to climate change helps to develop communities' capacity to guide climate change adaptation strategies to fix their own challenges and to meet their own needs. Thus, traditional awareness, unique environments, tools and mechanisms for societies to map their own strategies to tackle climate change are taken into account by community-based adaptation. The research thus concludes that CSA techniques are a viable strategy in mitigating the effects of climate change."
+  },
+  {
+   "paperId": "5bbd93a469ea6831c5ec4325987daf3ba06686bc",
+   "externalIds": {
+    "PubMedCentral": "12037644",
+    "DOI": "10.1007/s43621-025-01150-8",
+    "CorpusId": 278179454,
+    "PubMed": "40308685"
+   },
+   "url": "https://www.semanticscholar.org/paper/5bbd93a469ea6831c5ec4325987daf3ba06686bc",
+   "title": "Assessing gender disparities in farmers’ access and use of climate-smart agriculture in Southern Tanzania",
+   "venue": "Discover Sustainability",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s43621-025-01150-8.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12037644, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-28",
+   "authors": [
+    {
+     "authorId": "90093419",
+     "name": "E. Nchanji"
+    },
+    {
+     "authorId": "89684742",
+     "name": "A. Ndunguru"
+    },
+    {
+     "authorId": "87410074",
+     "name": "C. Kabungo"
+    },
+    {
+     "authorId": "2347983817",
+     "name": "A. Katunzi"
+    },
+    {
+     "authorId": "2185527930",
+     "name": "Victor Nyamolo"
+    },
+    {
+     "authorId": "1484512069",
+     "name": "F. Ouya"
+    },
+    {
+     "authorId": "40390292",
+     "name": "M. Mutua"
+    },
+    {
+     "authorId": "5463353",
+     "name": "B. Waswa"
+    },
+    {
+     "authorId": "1579810472",
+     "name": "C. Lutomia"
+    }
+   ],
+   "abstract": "The importance of common bean in Tanzania is increasingly challenged by climate change, which increases women's vulnerability and undermines the contribution of the crop to food security and rural livelihoods. This study assessed gender differences in the use of climate-smart agriculture technologies and practices among bean farmers in Tanzania. A multi-stage sampling procedure was used to collect data from 364 smallholder bean farmers. Descriptive statistics and a multivariate probit model were employed to analyse the determinants of farmers’ adoption of climate-smart agricultural technologies and practices in common bean production. Results revealed that men dominated climate-adaptation decision-making processes at the household level because of their ownership and control over access to land, and access to agricultural support services. Older men farmers demonstrated a positive and significantly higher likelihood of adopting improved seeds (β = 0.026; p < 0.01), signifying they possess greater accumulated knowledge and wealth compared to women farmers and youths. Women farmers also had lower levels of education with fewer technological access contributing to their low uptake of climate-smart technologies, aggravating their vulnerability to climate change. Enhancing inclusive gender access to land and group-based approaches to information dissemination, and capacity building, would be relevant in enabling men, women, and young farmers to improve their adaptive and resilience capacities to climate change. Gender dynamics should be considered in designing climate-smart agriculture policies and implementation of climate-smart agriculture programs and policies to improve farmers’ resilience to climate change."
+  },
+  {
+   "paperId": "0a7998794315a3bec12dffb2d58af664b1937d90",
+   "externalIds": {
+    "DOI": "10.3389/fsufs.2026.1818609",
+    "CorpusId": 288937879
+   },
+   "url": "https://www.semanticscholar.org/paper/0a7998794315a3bec12dffb2d58af664b1937d90",
+   "title": "Mediated influence of digital agriculture technologies on climate-smart agriculture decisions among smallholder farmers in sub-Saharan Africa: a systematic review",
+   "venue": "Frontiers in Sustainable Food Systems",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1818609/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fsufs.2026.1818609?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fsufs.2026.1818609, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-06-02",
+   "authors": [
+    {
+     "authorId": "2440338726",
+     "name": "Calvince Andele Ogutu"
+    },
+    {
+     "authorId": "104628366",
+     "name": "E. Cavane"
+    }
+   ],
+   "abstract": "Digital agricultural technologies like remote sensing, geographic information systems (GIS), artificial intelligence (AI), mobile-based advisory services, and the Internet of Things (IoT) potentially promise to enhance smallholder farmers’ climate-smart agriculture (CSA) adoption decisions in sub-Saharan Africa (SSA). This study examines how digital technologies influence smallholder farmers’ decision-making regarding the adoption of climate-smart practices in SSA, focusing on identifying key technological pathways that enhance adaptive capacity and resilience to climate change. The study explored the role of digital agricultural tools in influencing CSA adoption. A critical analysis of 82 selected peer-reviewed articles published between 2015 and 2025 was conducted, identified through academic databases including Scopus, Web of Science, and Google Scholar. The review synthesized findings to identify consistent pathways through which digital tools support climate adaptation and agricultural resilience. Results indicate that digital technologies influence decision-making through three pathways: real-time information provision using IoT sensors and remote sensing, predictive analytics for climate risk assessment using artificial intelligence and machine learning, and optimized timing of farm operations through digital advisory and early warning systems. Empirical evidence shows improvements in resource use efficiency, yield stability, and climate risk preparedness using decision-support tools, although adoption remains constrained by barriers such as limited digital literacy, infrastructural challenges, affordability constraints, institutional capacity, social fabric limitations, and gender inequality. We conclude that digital technologies significantly enhance CSA adoption by reducing uncertainty and improving farm-level decision-making, although investment in infrastructure, digital literacy, and institutional support remains critical for scaling sustainable climate adaptation outcomes."
+  },
+  {
+   "paperId": "9ddf3df153b0115e4fddc87bcf5ee8ac506b41e0",
+   "externalIds": {
+    "DOI": "10.1007/s10113-026-02576-0",
+    "CorpusId": 287406282
+   },
+   "url": "https://www.semanticscholar.org/paper/9ddf3df153b0115e4fddc87bcf5ee8ac506b41e0",
+   "title": "Climate-Smart Agriculture (CSA) practices and food security among smallholder farmers in Ghana: a case study of Sekyere Kumawu District",
+   "venue": "Regional Environmental Change",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10113-026-02576-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10113-026-02576-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-04-10",
+   "authors": [
+    {
+     "authorId": "2003008520",
+     "name": "Frank Baffour-Ata"
+    },
+    {
+     "authorId": "2323573516",
+     "name": "Sylvia Cecilia Mensah"
+    },
+    {
+     "authorId": "2188708639",
+     "name": "Louisa Boakye"
+    },
+    {
+     "authorId": "2219497889",
+     "name": "Enock G. Arthur"
+    },
+    {
+     "authorId": "2547954965",
+     "name": "Selina Adowaa Owusu"
+    },
+    {
+     "authorId": "2429306088",
+     "name": "David Kingsley Asiedu-Asare"
+    },
+    {
+     "authorId": "2277544968",
+     "name": "Charles Boateng"
+    },
+    {
+     "authorId": "2429183605",
+     "name": "Enock Kofi Debrah"
+    },
+    {
+     "authorId": "2429308811",
+     "name": "Benedicta Oboadey"
+    },
+    {
+     "authorId": "2429308296",
+     "name": "Alexander Kofi Yeboah"
+    },
+    {
+     "authorId": "2429929348",
+     "name": "Clara Abena Obenewah Asare"
+    },
+    {
+     "authorId": "2344439222",
+     "name": "E. Adu"
+    },
+    {
+     "authorId": "2404615291",
+     "name": "Emmanuel Fosu Mensah"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "88acecf8e5ec54c05718647d98e8281b56b12bf1",
+   "externalIds": {
+    "DOI": "10.62049/jkncu.v4i1.49",
+    "CorpusId": 267086424
+   },
+   "url": "https://www.semanticscholar.org/paper/88acecf8e5ec54c05718647d98e8281b56b12bf1",
+   "title": "Climate Smart Agriculture and its Implication on Climate Change Adaptation Measures within Smallholder Farming Systems in Gatundu South, Kenya",
+   "venue": "Journal of the Kenya National Commission for UNESCO",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://journals.unesco.go.ke/index.php/jknatcom/article/download/49/40",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62049/jkncu.v4i1.49?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62049/jkncu.v4i1.49, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-01-15",
+   "authors": [
+    {
+     "authorId": "2280266115",
+     "name": "Jilo Naghea Tei"
+    },
+    {
+     "authorId": "91036176",
+     "name": "F. Waswa"
+    }
+   ],
+   "abstract": "The impacts of climate change and the need for implementing adaptation and mitigation measures continues to dominate global environmental dialogue, with the Africa Climate Summit 2023 and Conference of Parties 28 being the most recent in this series. A hitherto marginalised aspect is the level of adoption of climate-smart agriculture practices in smallholder production systems.  This study explored this dimension using Gatundu South as a case study. Rainfall data was obtained from the Climate Hazards Group Infrared Precipitation with Station data. Socio-economic data targeting 384 respondents was collected using questionnaires. Standard procedures were used to analyse these data. Results showed that farmers are generally aware of climatic variability especially as evidenced by changes in rainfall patterns. Farmers adapt and attempt to mitigate effects of climate change and variability by using practices that deliver direct economic benefits and not necessarily the climate-smartness of the practices. Farmers did not associate their adaptation measures with the need to reduce emission of greenhouse gasses. To smallholder farmers, direct economic benefits are the primary incentives for the adoption of climate-smart practices. Further, the link between climate change and the invisible greenhouse gases is a knowledge gap among smallholder farmers. Therefore, adoption of climate smart agriculture practices can be enhanced if the narrative shifts to emphasise the negative contribution of greenhouse gases to farmers’ health and the concomitant medical costs, through their role in exacerbating air pollution"
+  },
+  {
+   "paperId": "7280d556773a2f440bf5ec379e25b062840fa224",
+   "externalIds": {
+    "MAG": "3192683363",
+    "DOI": "10.1016/J.LANDUSEPOL.2021.105666",
+    "CorpusId": 238667945
+   },
+   "url": "https://www.semanticscholar.org/paper/7280d556773a2f440bf5ec379e25b062840fa224",
+   "title": "Adoption of climate‐smart agriculture among smallholder farmers: Does farmer entrepreneurship matter?",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0264837721003896/pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.LANDUSEPOL.2021.105666?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.LANDUSEPOL.2021.105666, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-10-01",
+   "authors": [
+    {
+     "authorId": "119134609",
+     "name": "D. Kangogo"
+    },
+    {
+     "authorId": "5032144",
+     "name": "D. Dentoni"
+    },
+    {
+     "authorId": "34753357",
+     "name": "J. Bijman"
+    }
+   ],
+   "abstract": "Abstract Climate change poses significant challenges to agriculture, with serious impacts on smallholder farmers’ food security and livelihoods. Climate-smart agriculture (CSA) is being promoted to facilitate climate change adaptation and mitigation. While there is evidence that CSA supports smallholders’ adaption to climate change, the rate of CSA adoption remains low, particularly in sub-Saharan Africa. Previous studies have explained the low adoption based on generic factors such as farm, farmer, institutional and location characteristics, yet little is known about the role of farmers’ cognitive traits. This study investigates the influence of farmer entrepreneurial orientation, a cognitive trait reflecting a farmer’s innovativeness, proactiveness and propensity to take risks. We use data from smallholder potato farmers in Kenya and estimate a set of multivariate probit models to analyse the adoption decisions. Results show that risk-taking positively influences the adoption of irrigation, changing cultivation calendar, use of certified seed, crop rotation and soil testing. Proactiveness is positively related to the use of irrigation, changing the cultivation calendar and use of certified seed, while it is negatively related to intercropping. Contrary to our hypothesis that innovative farmers are more likely to adopt CSA practices, we find a negative relation between innovativeness and the use of certified seed. After categorizing CSA practices based on the main resources required, we find that risk-taking is positively associated with the adoption of practices that require high intensity of skilled labour and financial resources. Innovativeness is negatively associated with practices that require high intensity of financial resources. Lastly, we find proactiveness to be positively associated with the adoption of finance-intensive practices but negatively associated with unskilled-labour-intensive practices. These findings imply, first, that development practitioners should consider the interrelations among CSA practices and farmer entrepreneurial orientation in designing development interventions. Second, policy-makers need to create an environment conducive to farmer entrepreneurship as an indirect way to support the adoption of appropriate CSA practices."
+  },
+  {
+   "paperId": "3d978b8497509ff87e92dd8c6f24488cb0b0af3c",
+   "externalIds": {
+    "DOI": "10.1002/cli2.70071",
+    "CorpusId": 293558918
+   },
+   "url": "https://www.semanticscholar.org/paper/3d978b8497509ff87e92dd8c6f24488cb0b0af3c",
+   "title": "Behavioral Readiness for Climate‐Smart Agriculture Adoption Among Smallholder Farmers in Southwest Ethiopia",
+   "venue": "Climate Resilience and Sustainability",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cli2.70071",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/cli2.70071?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/cli2.70071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-10-14",
+   "authors": [
+    {
+     "authorId": "1581763588",
+     "name": "Tesfaye Gafaro"
+    },
+    {
+     "authorId": "2244377387",
+     "name": "Kassa Tarekegn Erekalo"
+    },
+    {
+     "authorId": "89659521",
+     "name": "F. Zeleke"
+    },
+    {
+     "authorId": "2184540578",
+     "name": "Sime Shiferaw"
+    }
+   ],
+   "abstract": "\n \n Understanding the behavioral mechanisms underlying farmers' readiness to adopt climate‐smart agriculture (CSA) is important for informing climate adaptation efforts. This study examines CSA adoption readiness among 384 smallholder farmers in Kaffa zone, Southwest Ethiopia, using covariance‐based structural equation modeling. The study extends the Theory of Planned Behavior by incorporating technology perceptions, previous CSA experience, risk aversion, and institutional support. The result shows attitude, subjective norms, perceived behavioral control (PBC), perceived ease of use, previous CSA adoption experience, and institutional support were positively associated with CSA adoption readiness, whereas perceived usefulness and risk aversion were not significant. Perceived ease of use showed the strongest association with adoption intention (\n β\n  = 0.377,\n p\n  = 0.001). Institutional support was positively associated with PBC (\n β\n  = 0.243,\n p\n  < 0.001) and future intention (\n β\n  = 0.112,\n p\n  = 0.030), explaining 5.9% of variance in PBC and 41.4% of the variance in adoption readiness. PBC showed a significant indirect association between institutional support and future intention (\n β\n  = 0.058,\n p\n  = 0.013; 95% bootstrap CI: 0.015–0.102), alongside a remaining direct association. The significant indirect association through perceived behavioral control suggests that farmers’ perceptions of their ability to implement CSA may represent an important pathway linking institutional support with adoption intentions. The findings highlight the relevance of integrating institutional support with efforts to strengthen farmers' perceived capability to implement CSA and to enhance behavioural readiness for future adoption.\n"
+  },
+  {
+   "paperId": "ff0772e4132dee66bfb21a8f7bd137abc2f14c62",
+   "externalIds": {
+    "DOI": "10.3389/fsufs.2026.1757702",
+    "CorpusId": 287591090
+   },
+   "url": "https://www.semanticscholar.org/paper/ff0772e4132dee66bfb21a8f7bd137abc2f14c62",
+   "title": "Communication for climate smart agricultural adaptation among smallholder farmers in Northern Ghana: risk management implications",
+   "venue": "Frontiers in Sustainable Food Systems",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1757702/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fsufs.2026.1757702?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fsufs.2026.1757702, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-04-17",
+   "authors": [
+    {
+     "authorId": "2430357667",
+     "name": "Eliasu Mumuni"
+    },
+    {
+     "authorId": "122939685",
+     "name": "K. Yussif"
+    },
+    {
+     "authorId": "2087508030",
+     "name": "Ahmed Taifique Chentiba"
+    }
+   ],
+   "abstract": "\n \n With growing climate variability, smallholder farmers in Ghana are exposed to climate risks that threaten agricultural productivity and the entire food system. Effective and timely agricultural and climate information is essential for smallholder farmers to adopt climate-smart agriculture practices (CSAPs) and navigate around climate-induced risks. This study investigates the role of information access in climate adaptation and climate-induced risk management by examining the impact of climate information access on the CSA adoption and risk management processes among smallholder farmers in Northern Ghana.\n \n \n \n A qualitative research design involving 40 focus group discussions (FGDs) with smallholder farmers across 10 districts in the Northern, Upper East, and Upper West regions of Ghana was conducted. Gender-matched moderators facilitated gender-segregated FGDs to ensure comfort and openness. Discussions were recorded, coded and analysed (thematically and narratively) to explore patterns in climate information access, climate risk gaps, access and use of climate smart agricultural practices for climate adaptation and risk management.\n \n \n \n Findings reveal that primary climate information sources include the radio, agro-input traders, farmer-to-farmer (peer) and conventional extension agents. Women access information largely via farmer-to-farmer (peer) channels. The mobile phones use is as well emerging as an essential channel although mobile network penetration is still a challenge in most parts of rural Ghana. Generally, peer-to-peer learning, social networks, and participatory channels plays critical roles in knowledge sharing. Female farmers had lower access to and use of innovative climate communication channels like the smartphone-based social media, SMS alerts, than their male counterparts. Farmers are generally concerned that this information lacked precision with regards to particularly rainfall onset, end of rains, drought occurrence and other extremes relating to rainfall such as thunderstorm, floods and windstorm. Climate information lag influenced decisions on crop variety, timing of planting, while incomplete climate-related market information induces economic and social risks to farmers. From this climate information, farmers, although largely aware of essential climate-smart agricultural practices to mitigate climate risk, were not using most of these practices (exceptions were with regards to early/delayed planting in line with forecast; use of drought tolerant varieties; intercropping/diversification and use of short duration or early maturing varieties).\n \n \n \n \n The study underscores the significance of communication in empowering farmers to manage risks and adapt to changing climatic conditions. However, systemic challenges—including limited extension services, gender disparities in information access, low digital literacy, and infrastructural constraints could hamper participatory information dissemination which is emerging to be the most reliable way to disseminate trustworthy information in this 21\n st\n century. The findings highlight the need for inclusive, gender-sensitive communication strategies and expanded communication media in building a risk responsive agricultural communication system. Strengthening institutional capacity for timely and tailored information delivery is key to building resilience among smallholder farmers.\n \n"
+  },
+  {
+   "paperId": "0c278b0010109a08f449bd30e4f5387ee71a41c1",
+   "externalIds": {
+    "DOI": "10.18488/ijsar.v13i3.5022",
+    "CorpusId": 290168915
+   },
+   "url": "https://www.semanticscholar.org/paper/0c278b0010109a08f449bd30e4f5387ee71a41c1",
+   "title": "The impact of climate-smart agriculture technology adoption on the welfare of smallholder vegetable farmers in Eswatini",
+   "venue": "International Journal of Sustainable Agricultural Research",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://archive.conscientiabeam.com/index.php/70/article/download/5022/9268",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18488/ijsar.v13i3.5022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18488/ijsar.v13i3.5022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-30",
+   "authors": [
+    {
+     "authorId": "2449887975",
+     "name": "Sibandze Sikelela Simo"
+    },
+    {
+     "authorId": "2449886322",
+     "name": "Olarinde Luke Oyesola"
+    },
+    {
+     "authorId": "2449886609",
+     "name": "Dlamini Delsile Daisy"
+    }
+   ],
+   "abstract": "The impact of climate change is already evident in the Kingdom of Eswatini and the key sectors of its economy, especially food security, agriculture, water, and health. The country frequently experiences droughts, erratic rainfall, and prolonged dry spells, which disrupt agricultural production and exacerbate food insecurity due to declining yields and farm incomes. In Eswatini, government and development partners have increasingly prioritised CSA within national agricultural and climate adaptation strategies, recognising its potential to address climate-induced risks and improve rural livelihoods. The objective of the study was to analyse the impact of CSAT adoption on the welfare of smallholder vegetable farmers. The study used a factorial research design to determine the impact of climate-smart agriculture technology on the welfare of smallholder vegetable farmers. A multistage sampling procedure was used to select 365 vegetable farmers. The data were collected using a structured questionnaire. Data were analysed using propensity score matching. The results on the impact of CSAT adoption on welfare indicate that the adoption of CSAT had a positive impact on both food security status and income of the smallholder vegetable farmers. The study recommends that more training be undertaken to sensitize farmers to adopt more CSAT and increase awareness of CSAT. It is recommended that the Ministry of Agriculture and the National Agricultural Marketing Board (NAMBoard) improve its extension services, capacitation of farmers through CSA workshops, and diversify CSA interventions to other enterprises."
+  },
+  {
+   "paperId": "7662fdf8dea0f22d340dd8aac3edfc95ee47b146",
+   "externalIds": {
+    "DOI": "10.1007/s44274-026-01162-9",
+    "CorpusId": 295558620
+   },
+   "url": "https://www.semanticscholar.org/paper/7662fdf8dea0f22d340dd8aac3edfc95ee47b146",
+   "title": "Climate information services shape the adoption of climate smart agriculture practices among smallholder maize farmers in Ghana",
+   "venue": "Discover Environment",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s44274-026-01162-9.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44274-026-01162-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44274-026-01162-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-11-05",
+   "authors": [
+    {
+     "authorId": "82465748",
+     "name": "Daniel Agyemang"
+    },
+    {
+     "authorId": "2295026423",
+     "name": "Faizal Adams"
+    },
+    {
+     "authorId": "2326657430",
+     "name": "Ayat Ullah"
+    },
+    {
+     "authorId": "2114285324",
+     "name": "Bavorova Miroslava"
+    }
+   ],
+   "abstract": "Climate Information Services (CIS) are widely promoted as a key strategy for strengthening climate adaptation and accelerating the adoption of Climate-Smart Agriculture (CSA) among smallholder farmers. However, evidence on how different dimensions of CIS, including awareness, access, and intensity of use, influence CSA adoption remains limited. This study examines the relationship between CIS and CSA adoption among 550 smallholder maize farmers in Ghana’s Ashanti Region. Using Inverse Probability Weighting (IPW) to estimate adoption under exposure and Generalized Propensity Score Matching (GPSM) to evaluate the effects of CIS use intensity, we distinguish between the effects of access to climate information and the intensity with which farmers engage with multiple information sources. The results show that universal exposure to CIS and CSA could substantially increase adoption rates, indicating considerable unmet potential for climate adaptation. Institutional factors, including farmer training, credit access, farmer organizations, and knowledge, significantly increase both CIS use and CSA adoption. However, greater CIS use intensity is weakly associated with lower CSA adoption intensity (β = −0.425, p = 0.091), suggesting that expanding the number of information channels alone may not translate into greater technology uptake. This relationship may reflect information quality limitations, conflicting advisories, institutional constraints, or increasing information demands relative to farmers’ capacity to act, although these mechanisms were not directly measured. The findings highlight the importance of complementing climate information with effective extension services, financial inclusion, and institutional support to strengthen climate adaptation and promote sustainable agricultural development among smallholder farmers."
+  },
+  {
+   "paperId": "768e64cb6fafadff96dd36cc5c93f6e2ae6ecae6",
+   "externalIds": {
+    "PubMedCentral": "8085708",
+    "DOI": "10.1016/j.heliyon.2021.e06789",
+    "CorpusId": 234470418,
+    "PubMed": "33981877"
+   },
+   "url": "https://www.semanticscholar.org/paper/768e64cb6fafadff96dd36cc5c93f6e2ae6ecae6",
+   "title": "Smallholder farmers’ perception of climate change and adoption of climate smart agriculture practices in Masaba South Sub-county, Kisii, Kenya",
+   "venue": "Heliyon",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.heliyon.2021.e06789",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8085708, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-04-01",
+   "authors": [
+    {
+     "authorId": "96898119",
+     "name": "Jared Nyang’au"
+    },
+    {
+     "authorId": "2076902968",
+     "name": "Jema H. Mohamed"
+    },
+    {
+     "authorId": "5229526",
+     "name": "N. Mango"
+    },
+    {
+     "authorId": "5872187",
+     "name": "Clifton Makate"
+    },
+    {
+     "authorId": "2006734959",
+     "name": "A. Wangeci"
+    }
+   ],
+   "abstract": "Many countries experience the negative impacts of climate change especially in the decline of agricultural productivity leading to decreased national and household food security. This study assessed smallholder farmers' perception of climate variability and change and their adaptation strategies in Masaba South Sub-County, Kisii County, Kenya. A multi-stage sampling technique was used to collect data from 196 smallholder farmers. Additionally, focused group discussions and key informant interviews were used. The study revealed that most farmers perceived climate changes. 88.3% of the respondents noted a decrease in rainfall, 79.1% reported poor rainfall distribution, 88.3% perceived a late onset of rainfall while 76.6% perceived an increase in temperature. The farmers' perception mirrored the actual climatic data trends for the area obtained from the meteorological department. The major climate-smart agriculture practices adopted by farmers in the area included; diversification of crops, change of planting time and crop rotation/mixed cropping. The adoption of climate-smart agriculture practices significantly correlated with the household size, monthly income, access to credit and farmers’ perception of climate change. The study recommends the incorporation and prioritization of climate change in the county and government development agenda as a means of enhancing the uptake of climate-smart agricultural practices."
+  },
+  {
+   "paperId": "e57ee6d43b1cd53ed017336b08e349d3bb8cb5b9",
+   "externalIds": {
+    "MAG": "3013276250",
+    "DOI": "10.14445/23942568/ijaes-v6i6p103",
+    "CorpusId": 216363980
+   },
+   "url": "https://www.semanticscholar.org/paper/e57ee6d43b1cd53ed017336b08e349d3bb8cb5b9",
+   "title": "Prioritizing Climate-Smart Agriculture Adaptation Options: The Case of Smallholder Farmers at Wiyumiririe Laikipia County, Kenya",
+   "venue": "International Journal of Agriculture & Environmental Science",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.14445/23942568/ijaes-v6i6p103",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.14445/23942568/ijaes-v6i6p103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14445/23942568/ijaes-v6i6p103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-11-25",
+   "authors": [
+    {
+     "authorId": "2093125055",
+     "name": "P. M. Muchiri"
+    },
+    {
+     "authorId": "104866470",
+     "name": "J. Maweu"
+    },
+    {
+     "authorId": "100975691",
+     "name": "F. Karanja"
+    },
+    {
+     "authorId": "2100155175",
+     "name": "W. Ogara"
+    }
+   ],
+   "abstract": null
+  }
+ ]
+}

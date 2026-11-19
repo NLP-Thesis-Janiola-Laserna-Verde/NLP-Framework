@@ -1,0 +1,671 @@
+{
+ "query": "Physical activity and cardiovascular health",
+ "retrieved_at": "2026-11-18T18:09:46.580917+00:00",
+ "data": [
+  {
+   "DOI": "10.1001/jama.1996.03540030075036",
+   "title": [
+    "Physical Activity and Cardiovascular Health"
+   ],
+   "container-title": [
+    "JAMA"
+   ],
+   "publisher": "American Medical Association (AMA)",
+   "issued": {
+    "date-parts": [
+     [
+      1996,
+      7,
+      17
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1001/jama.1996.03540030075036"
+  },
+  {
+   "DOI": "10.1037/e602002007-001",
+   "title": [
+    "Simple Lifestyle Changes Boost Physical Activity/Cardiovascular Health"
+   ],
+   "container-title": [
+    "PsycEXTRA Dataset"
+   ],
+   "publisher": "American Psychological Association (APA)",
+   "issued": {
+    "date-parts": [
+     [
+      1999
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1037/e602002007-001"
+  },
+  {
+   "DOI": "10.5040/9781492595717.ch-005",
+   "title": [
+    "Metabolic, Cardiovascular, and Respiratory Responses to Physical Activity"
+   ],
+   "container-title": [
+    "Physical Activity and Health"
+   ],
+   "publisher": "Human Kinetics",
+   "issued": {
+    "date-parts": [
+     [
+      2012
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9781492595717.ch-005",
+   "author": [
+    {
+     "given": "Edward T.",
+     "family": "Howley",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5772/38250",
+   "title": [
+    "Physical Activity and Cardiovascular Health"
+   ],
+   "container-title": [
+    "The Cardiovascular System - Physiology, Diagnostics and Clinical Implications"
+   ],
+   "publisher": "InTech",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      4,
+      25
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5772/38250",
+   "author": [
+    {
+     "given": "Raul",
+     "family": "A.",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5040/9781492596905.ch-007",
+   "title": [
+    "Cardiovascular Disease"
+   ],
+   "container-title": [
+    "Physical Activity for Health and Fitness"
+   ],
+   "publisher": "Human Kinetics",
+   "issued": {
+    "date-parts": [
+     [
+      2004
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9781492596905.ch-007"
+  },
+  {
+   "DOI": "10.4324/9780203132678-53",
+   "title": [
+    "Physical Activity and Quality of Life in Cardiovascular and Pulmonary diseases"
+   ],
+   "container-title": [
+    "Routledge Handbook of Physical Activity and Mental Health"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      8,
+      21
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203132678-53"
+  },
+  {
+   "DOI": "10.17077/etd.g6qjq745",
+   "title": [
+    "Physical activity, cardiorespiratory fitness, adiposity, and cardiovascular health in children and adolescents"
+   ],
+   "publisher": "The University of Iowa",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.17077/etd.g6qjq745",
+   "author": [
+    {
+     "given": "Soyang",
+     "family": "Kwon",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781042009237-20",
+   "title": [
+    "Physical activity, hypertension, and cardiovascular disease"
+   ],
+   "container-title": [
+    "The Routledge Handbook of Physical Activity and Health"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      20
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781042009237-20",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4491-0826",
+     "authenticated-orcid": false,
+     "given": "Sol",
+     "family": "Vidal-Almela",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2001-1121",
+     "authenticated-orcid": false,
+     "given": "Francisco B.",
+     "family": "Ortega",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780203095270-4",
+   "title": [
+    "Cardiovascular disease"
+   ],
+   "container-title": [
+    "Physical Activity and Health"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203095270-4",
+   "author": [
+    {
+     "given": "Stephen F.",
+     "family": "Burns",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1080/00970050.1982.10614260",
+   "title": [
+    "Cardiovascular Health: Physical Activity: Fit to be Tried"
+   ],
+   "container-title": [
+    "Health Education"
+   ],
+   "publisher": "Informa UK Limited",
+   "issued": {
+    "date-parts": [
+     [
+      1982,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1080/00970050.1982.10614260",
+   "author": [
+    {
+     "given": "Donna L.",
+     "family": "Osness",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Oxford University Press",
+   "abstract": "<p>Physical activity (PA) and exercise training (ET) are highly effective in the prevention of cardiovascular disease (CVD) via improvement of cardiovascular risk factors (CV RFs), such as blood pressure (BP), lipid profile, glycaemic control, body fat mass, and inflammation. In the first part of this chapter, we describe the currently observed effects of PA and exercise intervention on these RFs. In the second part, we explain which exercise modalities should be selected to optimize these CVD RFs, especially for those patients with multiple CVD RFs.</p>",
+   "DOI": "10.1093/med/9780198849308.003.0007",
+   "type": "book-chapter",
+   "title": [
+    "Modalities of physical activity and exercise in the management of cardiovascular health in individuals with cardiovascular risk factors"
+   ],
+   "author": [
+    {
+     "given": "Dominique",
+     "family": "Hansen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Martin",
+     "family": "Halle",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "ESC Handbook of Cardiovascular Rehabilitation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/med/9780198849308.003.0007"
+  },
+  {
+   "DOI": "10.47485/2998-4513.1046",
+   "title": [
+    "Active Meditation : Integrating Physical Activity and Mindfulness for Cardiovascular and Mental Health"
+   ],
+   "container-title": [
+    "International Journal of Cardiology and Cardiovascular Disorder"
+   ],
+   "publisher": "Uniscience Publishers LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      28
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.47485/2998-4513.1046",
+   "abstract": "<jats:p>Active meditation, defined as the practice of mindfulness during walking or light running, represents a promising integrative strategy for promoting both cardiovascular and mental health. While physical activity and mindfulness meditation have robust individual evidence bases, their combination remains underexplored. Recent findings including a systematic review identifying improvements in blood pressure, functional capacity and inflammatory markers in addition to anxiety reduction support the potential of mindfulness and physical activity. Experimental studies have shown that walking or running with attentional focus enhances exercise enjoyment, reduces perceived effort, and fosters adherence. Although randomized controlled trials are still limited, preliminary data indicate benefits on autonomic regulation and psychophysiological balance, particularly for populations with high stress or cardiovascular risk. This opinion piece argues for increased recognition of active meditation as a complementary approach in preventive and clinical health strategies. A structured protocol is under development, aimed at expanding its application. The time has come to integrate body and mind in movement and presence.</jats:p>"
+  },
+  {
+   "DOI": "10.1097/jcn.0000000000000151",
+   "title": [
+    "Physical Activity and Cardiovascular Health"
+   ],
+   "container-title": [
+    "Journal of Cardiovascular Nursing"
+   ],
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1097/jcn.0000000000000151",
+   "author": [
+    {
+     "given": "Laura L.",
+     "family": "Hayman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Cheryl Dennison",
+     "family": "Himmelfarb",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/b23245-5",
+   "title": [
+    "Lifestyle Medicine, Physical Activity and Cardiovascular Disease"
+   ],
+   "container-title": [
+    "Integrating Lifestyle Medicine in Cardiovascular Health and Disease Prevention"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      11,
+      15
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/b23245-5",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3887-194X",
+     "authenticated-orcid": false,
+     "given": "James M.",
+     "family": "Rippe",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Human Kinetics",
+   "abstract": "<jats:p>Cardiovascular disease is the leading cause of death in women. The purpose of this study was to explore the relationship between physical activity and other determinants of cardiovascular health in aging women from a health-promotion perspective. Participants (<jats:italic>N</jats:italic> = 206) completed a cardiovascular health-promotion profile, and various physical measures were recorded. The findings suggest that physically active aging women, especially those who exercise regularly or vigorously, have healthier cardiovascular profiles than do their less active counterparts. They were more likely to be members of a health and fitness facility, to be younger, and have higher socioeconomic status. Their diets were healthier, and their perception of their health status was more positive. Physical measures of cardiovascular health also decreased with increased levels of activity (<jats:italic>p</jats:italic> &lt; .05). These findings validate physical activity promotion as an effective strategy to ameliorate the cardiovascular health profile of aging women. The study also lends support for population-based cardiovascular health-promotion strategies.</jats:p>",
+   "DOI": "10.1123/japa.10.4.396",
+   "type": "journal-article",
+   "title": [
+    "Physical Activity and Cardiovascular Health in Aging Women: A Health-Promotion Perspective"
+   ],
+   "author": [
+    {
+     "given": "Jo-Ann V.",
+     "family": "Sawatzky",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Barbara J.",
+     "family": "Naimark",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Aging and Physical Activity"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2002,
+      10
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1123/japa.10.4.396"
+  },
+  {
+   "publisher": "Oxford University PressOxford",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The incidence of morbidity and mortality related to CVD is rather low in a paediatric population. Studies investigating the relationship between physical activity, physical fitness, and cardiovascular health in children and adolescents are therefore mostly limited to CVD risk factors as outcome measures. For this reason, this chapter will focus on the association of physical activity and physical fitness with CVD risk factors in children and adolescents. These risk factors can be divided into the so-called traditional CVD risk factors; that is, lipoproteins [total cholesterol, low-density lipoprotein (LDL) cholesterol, high-density lipoprotein (HDL) cholesterol, triglycerides (TG)], blood pressure, body fatness, and diabetes, and ‘new’ CVD risk factors; that is, other lipoproteins [lipoprotein(a) (Lp(a)), apolipoprotein (apo)B, and apoA-1], coagulation and inflammation markers [fibrinogen, C-reactive protein (CRP)], homocysteine, and heart rate variability.</jats:p>",
+   "DOI": "10.1093/med/9780199232482.003.0025",
+   "type": "book-chapter",
+   "title": [
+    "Physical activity, physical               fitness, and cardiovascular health"
+   ],
+   "author": [
+    {
+     "given": "Jos",
+     "family": "Twisk",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Isabel",
+     "family": "Ferreira",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Paediatric Exercise Science and Medicine"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      10
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/med/9780199232482.003.0025"
+  },
+  {
+   "DOI": "10.1016/j.genhosppsych.2022.07.002",
+   "title": [
+    "Physical activity and cardiovascular health in depression: Links between changes in physical activity and cardiovascular risk"
+   ],
+   "container-title": [
+    "General Hospital Psychiatry"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.genhosppsych.2022.07.002",
+   "author": [
+    {
+     "given": "Hyewon",
+     "family": "Kim",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Juhwan",
+     "family": "Yoo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kyungdo",
+     "family": "Han",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hong Jin",
+     "family": "Jeon",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781119833475.ch6",
+   "title": [
+    "Implications and Health Benefits of Physical Activity in Adults"
+   ],
+   "container-title": [
+    "Prevention and Management of Cardiovascular and Metabolic Disease"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      14
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119833475.ch6"
+  },
+  {
+   "DOI": "10.58275/aha.23sfrnccs1052486.pc.gr.168490",
+   "publisher": "American Heart Association (AHA)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      1
+     ]
+    ]
+   },
+   "type": "grant",
+   "URL": "https://doi.org/10.58275/aha.23sfrnccs1052486.pc.gr.168490"
+  },
+  {
+   "DOI": "10.58275/aha.25post1373600.pc.gr.227398",
+   "publisher": "American Heart Association (AHA)",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      1
+     ]
+    ]
+   },
+   "type": "grant",
+   "URL": "https://doi.org/10.58275/aha.25post1373600.pc.gr.227398"
+  }
+ ]
+}

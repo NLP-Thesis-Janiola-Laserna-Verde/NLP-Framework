@@ -1,0 +1,991 @@
+{
+ "query": "Climate change impacts on coral reef ecosystems",
+ "retrieved_at": "2026-11-18T19:11:19.545683+00:00",
+ "data": [
+  {
+   "paperId": "1c13c88daea9f3a1d6decf3bd3cec7bee0bcbca7",
+   "externalIds": {
+    "MAG": "1575953746",
+    "DOI": "10.1007/s10113-015-0832-z",
+    "CorpusId": 44190260
+   },
+   "url": "https://www.semanticscholar.org/paper/1c13c88daea9f3a1d6decf3bd3cec7bee0bcbca7",
+   "title": "A framework for understanding climate change impacts on coral reef social–ecological systems",
+   "venue": "Regional Environmental Change",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "https://univ-reunion.hal.science/hal-01306704",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10113-015-0832-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10113-015-0832-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2016-04-01",
+   "authors": [
+    {
+     "authorId": "4203551",
+     "name": "J. Cinner"
+    },
+    {
+     "authorId": "3612638",
+     "name": "M. Pratchett"
+    },
+    {
+     "authorId": "2053676262",
+     "name": "N. A. Graham"
+    },
+    {
+     "authorId": "4433830",
+     "name": "V. Messmer"
+    },
+    {
+     "authorId": "145670052",
+     "name": "M. Fuentes"
+    },
+    {
+     "authorId": "2694931",
+     "name": "T. Ainsworth"
+    },
+    {
+     "authorId": "46752699",
+     "name": "Natalie Ban"
+    },
+    {
+     "authorId": "3944547",
+     "name": "L. Bay"
+    },
+    {
+     "authorId": "36611417",
+     "name": "J. Blythe"
+    },
+    {
+     "authorId": "51011970",
+     "name": "Delphine Dissard"
+    },
+    {
+     "authorId": "3942367",
+     "name": "S. Dunn"
+    },
+    {
+     "authorId": "47344595",
+     "name": "L. Evans"
+    },
+    {
+     "authorId": "50372195",
+     "name": "M. Fabinyi"
+    },
+    {
+     "authorId": "152505285",
+     "name": "P. Fidelman"
+    },
+    {
+     "authorId": "145884563",
+     "name": "J. Figueiredo"
+    },
+    {
+     "authorId": "39894518",
+     "name": "Ashley J. Frisch"
+    },
+    {
+     "authorId": "47244661",
+     "name": "C. Fulton"
+    },
+    {
+     "authorId": "4021387",
+     "name": "C. Hicks"
+    },
+    {
+     "authorId": "6472540",
+     "name": "V. Lukoschek"
+    },
+    {
+     "authorId": "5718306",
+     "name": "J. Mallela"
+    },
+    {
+     "authorId": "145097141",
+     "name": "A. Moya"
+    },
+    {
+     "authorId": "40170196",
+     "name": "L. Penin"
+    },
+    {
+     "authorId": "4489779",
+     "name": "J. Rummer"
+    },
+    {
+     "authorId": "32917831",
+     "name": "S. Walker"
+    },
+    {
+     "authorId": "145575495",
+     "name": "D. Williamson"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "c0f653c89fca5e69ab953efdb6b4798fb4e33504",
+   "externalIds": {
+    "DOI": "10.1016/j.marpolbul.2025.118267",
+    "CorpusId": 279162196,
+    "PubMed": "40483768"
+   },
+   "url": "https://www.semanticscholar.org/paper/c0f653c89fca5e69ab953efdb6b4798fb4e33504",
+   "title": "The seven sins of climate change: A review of rates of change, and quantitative impacts on ecosystems and water quality in the Great Barrier Reef.",
+   "venue": "Marine Pollution Bulletin",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.marpolbul.2025.118267",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.marpolbul.2025.118267?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.marpolbul.2025.118267, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-07",
+   "authors": [
+    {
+     "authorId": "4520598",
+     "name": "K. Fabricius"
+    },
+    {
+     "authorId": "2407646963",
+     "name": "Aimee L Brown"
+    },
+    {
+     "authorId": "34667956",
+     "name": "C. Collier"
+    },
+    {
+     "authorId": "50493731",
+     "name": "M. Pineda"
+    },
+    {
+     "authorId": "15008884",
+     "name": "B. Robson"
+    },
+    {
+     "authorId": "6838755",
+     "name": "S. Uthicke"
+    },
+    {
+     "authorId": "47801711",
+     "name": "J. Waterhouse"
+    }
+   ],
+   "abstract": "The term climate change encompasses many types of impacts and threats to the long-term outlook of coastal marine ecosystems. Based on a structured Evidence Summary methodology, this review synthesises the peer-reviewed knowledge on climate change impacts on the Great Barrier Reef (GBR). We summarise the observed and predicted region-specific rates of change for seven climate change factors; three representing episodic extreme weather events (heatwaves, tropical storms, and extreme rainfall events), and four chronic progressive climate change factors (rising temperatures, ocean acidification and sea level, and altered cloudiness/windiness). We extract key quantitative findings on their impacts on GBR ecosystems and associated organisms, especially coral reefs, seagrasses, mangroves and wetlands, and on GBR water quality. Quantifying GBR-wide effects requires data on their four dimensions: intensity, duration, spatial extent, and frequency. The review shows that to date, most damage to GBR ecosystems is inflicted by extreme weather events. Of the progressive climate change factors, ocean acidification is already altering some GBR ecosystem functions, potentially reaching a critical threshold within decades. The progressive climate change factors are already causing selective mortality and changes in communities. We document regional differences, and we outline the evidence of climate change impacts on GBR water quality, suggesting further cumulative effects. This review provides an overview of empirical data for modellers and ecologists, and for experimentalists to choose environmentally relevant treatment levels. Intensifying climate change disturbances increase the urgency of climate change mitigation, as well as effective local management to accelerate ecosystem recovery."
+  },
+  {
+   "paperId": "bb1fa3fb4fe800f477f5e084a1c6a787754cd0fb",
+   "externalIds": {
+    "DOI": "10.1029/2022JG006999",
+    "CorpusId": 251889361
+   },
+   "url": "https://www.semanticscholar.org/paper/bb1fa3fb4fe800f477f5e084a1c6a787754cd0fb",
+   "title": "Rates of Future Climate Change in the Gulf of Mexico and the Caribbean Sea: Implications for Coral Reef Ecosystems",
+   "venue": "Journal of Geophysical Research - Biogeosciences",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1029/2022jg006999",
+    "status": "BRONZE",
+    "license": "publisher-specific-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1029/2022JG006999?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1029/2022JG006999, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-08-27",
+   "authors": [
+    {
+     "authorId": "1581735783",
+     "name": "A. Lawman"
+    },
+    {
+     "authorId": "10772224",
+     "name": "S. Dee"
+    },
+    {
+     "authorId": "32996617",
+     "name": "K. Delong"
+    },
+    {
+     "authorId": "32843335",
+     "name": "A. M. Correa"
+    }
+   ],
+   "abstract": "Rising temperatures and ocean acidification due to anthropogenic climate change pose ominous threats to coral reef ecosystems in the Gulf of Mexico (GoM) and the western Caribbean Sea. Unfortunately, the once structurally complex coral reefs in the GoM and Caribbean have dramatically declined since the 1970s; relatively few coral reefs still exhibit a mean live coral cover of >10%. Additional work is needed to characterize future climate stressors on coral reefs in the GoM and the Caribbean Sea. Here, we use climate model simulations spanning the period of 2015–2100 to partition and assess the individual impacts of climate stressors on corals in the GoM and the western Caribbean Sea. We use a top‐down modeling framework to diagnose future projected changes in thermal stress and ocean acidification and discuss its implications for coral reef ecosystems. We find that ocean temperatures increase by 2°C–3°C over the 21st century, and surpass reported regional bleaching thresholds by mid‐century. Whereas ocean acidification occurs, the rate and magnitude of temperature changes outpace and outweigh the impacts of changes in aragonite saturation state. A framework for quantifying and communicating future risks in the GoM and Caribbean using reef risk projection maps is discussed. Without substantial mitigation efforts, the combined impact of increasing ocean temperatures and acidification are likely to stress most existing corals in the GoM and the Caribbean, with widespread economic and ecological consequences."
+  },
+  {
+   "paperId": "8f692dea6130c9517352bec9d573012b16ea91e5",
+   "externalIds": {
+    "DOI": "10.1016/j.envres.2024.118858",
+    "CorpusId": 269094029,
+    "PubMed": "38609066"
+   },
+   "url": "https://www.semanticscholar.org/paper/8f692dea6130c9517352bec9d573012b16ea91e5",
+   "title": "Evaluating climate change impacts on reef environments via multibeam echo sounder and acoustic Doppler current profiler technology.",
+   "venue": "Environmental Research",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envres.2024.118858?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envres.2024.118858, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-04-01",
+   "authors": [
+    {
+     "authorId": "2256149411",
+     "name": "Mohd Azhafiz Abdullah"
+    },
+    {
+     "authorId": "15476614",
+     "name": "L. Chuah"
+    },
+    {
+     "authorId": "152424229",
+     "name": "Razak Zakariya"
+    },
+    {
+     "authorId": "2292504082",
+     "name": "Asad Syed"
+    },
+    {
+     "authorId": "32709170",
+     "name": "R. Hasan"
+    },
+    {
+     "authorId": "2277534074",
+     "name": "Shahrul Miza Mahmud"
+    },
+    {
+     "authorId": "2184895751",
+     "name": "A. Elgorban"
+    },
+    {
+     "authorId": "48601201",
+     "name": "A. Bokhari"
+    },
+    {
+     "authorId": "2255451105",
+     "name": "Muhammad Saeed Akhtar"
+    },
+    {
+     "authorId": "1418142748",
+     "name": "Hind A. Al-Shwaiman"
+    }
+   ],
+   "abstract": "Crucial to the Earth's oceans, ocean currents dynamically react to various factors, including rotation, wind patterns, temperature fluctuations, alterations in salinity and the gravitational pull of the moon. Climate change impacts coastal ecosystems, emphasizing the need for understanding these currents. This study explores multibeam echo sounder (MBES), specifically R2-Sonic 2020, offering detailed seabed information. Investigating coral reefs, rocky reefs and artificial reefs aimed to map seafloor currents movement and their climate change responses. MBES data study explores multibeam echo sounder (MBES), specifically R2-Sonic 2020, offering detailed seabed information. Investigating coral reefs, rocky reefs and artificial reefs aimed to map seafloor currents movement and their climate change responses. MBES data viz. Bathymetry and backscatter were classified and acoustic doppler current profiler (ADCP) ground data were validated using random forest regression. Results indicated high precision in currents speed measurement i.e. coral reefs with 0.96, artificial reefs with 0.94 and rocky reefs with 0.97. Currents direction accuracy was notable in coral reefs with 0.85, slightly lower in rocky reefs with 0.72 and artificial reefs with 0.60. Random forest identified sediment and backscatter as key for speed prediction while direction relies on bathymetry, slope and aspect. The study emphasizes integrating sediment size, backscatter, bathymetry and ADCP data for seafloor current analysis. This multibeam data on sediments and currents support better marine spatial planning and determine biodiversity patterns planning in the reef area."
+  },
+  {
+   "paperId": "7eef7a143877e34383f60dbf921b1175b3bb36ef",
+   "externalIds": {
+    "DOI": "10.36948/ijfmr.2025.v07i05.58803",
+    "CorpusId": 282703324
+   },
+   "url": "https://www.semanticscholar.org/paper/7eef7a143877e34383f60dbf921b1175b3bb36ef",
+   "title": "Climate Change Impacts on Biodiversity and Natural Resource Use",
+   "venue": "International Journal For Multidisciplinary Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.ijfmr.com/papers/2025/5/58803.pdf",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36948/ijfmr.2025.v07i05.58803?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36948/ijfmr.2025.v07i05.58803, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-10-24",
+   "authors": [
+    {
+     "authorId": "2303064716",
+     "name": "P. Kumari"
+    }
+   ],
+   "abstract": "Climate change is exerting severe pressure on biodiversity and the sustainable use of natural resources worldwide. According to the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES, 2019), nearly 1 million species are at risk of extinction, many within decades, due to climate-related disruptions. Rising global temperatures—approximately 1.1°C above pre-industrial levels (IPCC, 2021)—have led to altered ecosystems, shifts in species distributions, and changes in phenological events like flowering, breeding, and migration. Biodiversity hotspots, such as the Western Ghats, the Amazon rainforest, and coral reef systems, are already witnessing widespread habitat degradation. For instance, India lost over 90,000 sq. km of forest cover between 2001 and 2020 (Global Forest Watch), much of it linked to climate and anthropogenic factors. Coral reefs have experienced mass bleaching events, with the Great Barrier Reef losing over 50% of its coral cover since 1995, primarily due to heat stress. These ecological losses directly affect natural resources—such as freshwater, soil fertility, fisheries, and forest products—upon which more than 3 billion people rely globally. The paper further highlights how rural and indigenous communities in countries like India and Sub-Saharan Africa, where over 60% of livelihoods depend on climate-sensitive sectors like agriculture, forestry, and fishing, are disproportionately affected. It reviews scientific studies, remote sensing data, and community-based reports to understand spatial and temporal changes in biodiversity and resource availability. To address these challenges, the study advocates for nature-based solutions (NbS), climate-resilient conservation strategies, and integration of biodiversity policies with climate action plans. Strengthening local governance, traditional ecological knowledge, and adaptive land-use planning are emphasized as essential steps. Ultimately, without immediate mitigation of greenhouse gas emissions and systemic resource governance, both biodiversity and the vital ecosystem services it supports will face irreversible damage—posing significant risks to food security, water availability, and human well-being."
+  },
+  {
+   "paperId": "41a84881815954c25b9867c0891b30d11dd602fa",
+   "externalIds": {
+    "DOI": "10.1146/annurev-marine-032223-024511",
+    "CorpusId": 271796790,
+    "PubMed": "39116436"
+   },
+   "url": "https://www.semanticscholar.org/paper/41a84881815954c25b9867c0891b30d11dd602fa",
+   "title": "Standardized Methods to Assess the Impacts of Thermal Stress on Coral Reef Marine Life.",
+   "venue": "Annual Review of Marine Science",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1146/annurev-marine-032223-024511",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1146/annurev-marine-032223-024511?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1146/annurev-marine-032223-024511, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-08-08",
+   "authors": [
+    {
+     "authorId": "2003519",
+     "name": "C. Voolstra"
+    },
+    {
+     "authorId": "1602661629",
+     "name": "Rachel Alderdice"
+    },
+    {
+     "authorId": "147295039",
+     "name": "Luigi Colin"
+    },
+    {
+     "authorId": "2275478270",
+     "name": "Sebastian Staab"
+    },
+    {
+     "authorId": "4395004",
+     "name": "A. Apprill"
+    },
+    {
+     "authorId": "21584441",
+     "name": "J. Raina"
+    }
+   ],
+   "abstract": "The Earth's oceans have absorbed more than 90% of the excess, climate change-induced atmospheric heat. The resulting rise in oceanic temperatures affects all species and can lead to the collapse of marine ecosystems, including coral reefs. Here, we review the range of methods used to measure thermal stress impacts on reef-building corals, highlighting current standardization practices and necessary refinements to fast-track discoveries and improve interstudy comparisons. We also present technological developments that will undoubtedly enhance our ability to record and analyze standardized data. Although we use corals as an example, the methods described are widely employed in marine sciences, and our recommendations therefore apply to all species and ecosystems. Enhancing collaborative data collection efforts, implementing field-wide standardized protocols, and ensuring data availability through dedicated, openly accessible databases will enable large-scale analysis and monitoring of ecosystem changes, improving our predictive capacities and informing active intervention to mitigate climate change effects on marine life."
+  },
+  {
+   "paperId": "b9b9f45ac77aa0d46d213afcb1b3f676debed979",
+   "externalIds": {
+    "DOI": "10.1016/j.ecolecon.2022.107628",
+    "CorpusId": 252855944
+   },
+   "url": "https://www.semanticscholar.org/paper/b9b9f45ac77aa0d46d213afcb1b3f676debed979",
+   "title": "The economic value of coral reefs: Climate change impacts and spatial targeting of restoration measures",
+   "venue": "Ecological Economics",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/am/pii/S0921800922002890",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ecolecon.2022.107628?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ecolecon.2022.107628, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2023-01-01",
+   "authors": [
+    {
+     "authorId": "6771007",
+     "name": "Carlo Fezzi"
+    },
+    {
+     "authorId": "2187619614",
+     "name": "Derek Ford"
+    },
+    {
+     "authorId": "39977552",
+     "name": "K. Oleson"
+    }
+   ],
+   "abstract": "We develop a travel-cost random utility model to estimate the value of recreational ecosystem services provided by more than 170 outdoor sites located on the island of Maui (Hawaii, USA). Particular emphasis is placed on the role of coastal ecosystems by combining recent fine-scale data on coral cover and fish biomass with information on almost 3000 recreation trips taken by Maui’s residents. Our approach is grounded in economic theory and provides estimates that are directly applicable to inform a wide array of spatial planning questions for coastal management. We apply our model to calculate the economic losses caused by the 2014-2015 coral bleaching event, which are in the order of $25M per year. We also identify the areas where coral reef restoration would maximize welfare gains. Impacts can vary up to a factor of 1000 across locations, demonstrating the need to carefully consider such heterogeneity in spatial prioritization. Our simulations also show how access fees can raise funds for financing conservation measures aimed at bolstering coral reefs resilience to climate change."
+  },
+  {
+   "paperId": "e2d595b398e3782508fb56d60eb86bf586d0dc07",
+   "externalIds": {
+    "DOI": "10.1016/j.scitotenv.2023.168063",
+    "CorpusId": 264814438,
+    "PubMed": "37907104"
+   },
+   "url": "https://www.semanticscholar.org/paper/e2d595b398e3782508fb56d60eb86bf586d0dc07",
+   "title": "Marine heatwaves in the Great Barrier Reef and Coral Sea, their mechanisms and impacts on shallow and mesophotic coral ecosystems.",
+   "venue": "Science of the Total Environment",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.scitotenv.2023.168063",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.scitotenv.2023.168063?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.scitotenv.2023.168063, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-10-01",
+   "authors": [
+    {
+     "authorId": "144302466",
+     "name": "Zhi Huang"
+    },
+    {
+     "authorId": "2263515659",
+     "name": "Ming Feng"
+    },
+    {
+     "authorId": "16806409",
+     "name": "S. Dalton"
+    },
+    {
+     "authorId": "48945973",
+     "name": "A. Carroll"
+    }
+   ],
+   "abstract": "The Great Barrier Reef (GBR) World Heritage Area and adjacent Coral Sea Marine Park are under serious threat from global climate change. This study used sea surface temperature (SST) data to identify major marine heatwaves (MHWs) occurring in this region over the last three decades (1992-2022) and to map significant MHW events that have occurred between 2015 and 2022. We investigated the mechanisms of the MHWs and identified potential coral refugia. MHWs in this region have increased in frequency, intensity and spatial extent. El Niño, especially when it is in phase with positive Indian Ocean Dipole, was the key remote driver leading to intense MHWs. However, the more recent strong MHWs (e.g., 2017 and 2022) occurred without these climatic events, signifying the impacts of long-term climate change and local drivers. We also found that reduced wind speed and shoaling mixed layer depth, often together with reduced cloudiness, were the main local drivers pre-conditioning these MHWs. Anomalous air-sea heat flux into the ocean, mainly controlled by shortwave solar radiation (cloudiness) and latent heat flux (wind), was the most constant contributor to the 2015-16 and 2019-20 MHW events. However, local oceanographic dynamics, especially horizontal advection and turbulent mixing, played important roles in MHW heat budgets. This study confirmed that shallow-water coral bleaching severity was positively related to the cumulative MHW intensity in these two MHWs. We identified the shallow reefs along the path of the North Queensland Current as potential coral refugia from bleaching because of the cooler waters upwelled from the ocean current. We also found that, except during abnormal weather events such as tropical cyclones, the mesophotic reefs in the Coral Sea Marine Park may be less susceptible to severe bleaching as the MHWs are more confined within the shallow mixed layer."
+  },
+  {
+   "paperId": "ef94bb47236573402028243e8ab46ed27dab8803",
+   "externalIds": {
+    "MAG": "120688521",
+    "DOI": "10.2112/JCR-SI50-089.1",
+    "CorpusId": 126489269
+   },
+   "url": "https://www.semanticscholar.org/paper/ef94bb47236573402028243e8ab46ed27dab8803",
+   "title": "Critical Thresholds and the Vulnerability of Australian Tropical Coastal Ecosystems to the Impacts of Climate Change",
+   "venue": "Journal of Coastal Research",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2112/JCR-SI50-089.1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2112/JCR-SI50-089.1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-03-29",
+   "authors": [
+    {
+     "authorId": "39424768",
+     "name": "C. Woodroffe"
+    }
+   ],
+   "abstract": "ABSTRACT Woodroffe, C.D. 2007. Critical thresholds and the vulnerability of Australian tropical coastal ecosystems to the impacts of climate change. Journal of Coastal Research, SI 50 (Proceedings of the 9th International Coastal Symposium), 464 – 468. Gold Coast, Australia, ISSN 0749.0208 Paleoenvironmental studies of tropical coastal ecosystems in northern Australia indicate past responses to sea-level changes, implying geomorphological resilience in the face of future sea-level rise. However, there are several critical thresholds beyond which abrupt change appears inevitable. Elevated temperatures have recently caused extensive coral bleaching and reefs appear threatened if the thermal tolerance of corals is exceeded. Many reef islands have accumulated on reef platforms under stable or falling sea level. Continued accretion seems likely under gradual sea-level rise, but may no longer be sustainable if the sea drowns the reef platform on which they have formed. Similarly, broad mangrove-fringed plains have prograded under stable sea level, predisposing them to inundation if sea level continues to rise rapidly. The resilience of coastal ecosystems is also threatened by the synergistic interaction with several other pressures."
+  },
+  {
+   "paperId": "e97a177ab5f5caa7e6b51c8b86d6453e75e331db",
+   "externalIds": {
+    "CorpusId": 248394306
+   },
+   "url": "https://www.semanticscholar.org/paper/e97a177ab5f5caa7e6b51c8b86d6453e75e331db",
+   "title": "Climate warning marine protected areas and the ocean-scale integrity of coral reef ecosystems",
+   "venue": "",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://hal.archives-ouvertes.fr/file/index/docid/344607/filename/Graham-Climate.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "35676853",
+     "name": "N. Graham"
+    },
+    {
+     "authorId": "32446396",
+     "name": "T. McClanahan"
+    },
+    {
+     "authorId": "144590308",
+     "name": "M. Macneil"
+    },
+    {
+     "authorId": "2242561503",
+     "name": "S. Wilson"
+    },
+    {
+     "authorId": "2163535105",
+     "name": "C. NicholasV."
+    },
+    {
+     "authorId": "2163534081",
+     "name": "Polunin"
+    },
+    {
+     "authorId": "144532094",
+     "name": "S. Jennings"
+    },
+    {
+     "authorId": "88321513",
+     "name": "P. Chabanet"
+    },
+    {
+     "authorId": "153250824",
+     "name": "S. Clark"
+    },
+    {
+     "authorId": "7542572",
+     "name": "M. Spalding"
+    },
+    {
+     "authorId": "2048237",
+     "name": "Y. Letourneur"
+    },
+    {
+     "authorId": "2278721047",
+     "name": "L. Bigot"
+    },
+    {
+     "authorId": "4506074",
+     "name": "R. Galzin"
+    },
+    {
+     "authorId": "2489871364",
+     "name": "M. Öhman"
+    },
+    {
+     "authorId": "5348734",
+     "name": "K. Garpe"
+    },
+    {
+     "authorId": "30386467",
+     "name": "A. Edwards"
+    },
+    {
+     "authorId": "108480761",
+     "name": "C. CharlesR."
+    },
+    {
+     "authorId": "2092092026",
+     "name": "Sheppard"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2fc0b936f8b781ed0296f6266330775e0a17d4b9",
+   "externalIds": {
+    "MAG": "2135639494",
+    "DOI": "10.1016/J.GLOENVCHA.2011.09.018",
+    "CorpusId": 54961837
+   },
+   "url": "https://www.semanticscholar.org/paper/2fc0b936f8b781ed0296f6266330775e0a17d4b9",
+   "title": "Vulnerability of coastal communities to key impacts of climate change on coral reef fisheries.",
+   "venue": "",
+   "year": 2012,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.25405/ncl.34178481",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.GLOENVCHA.2011.09.018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.GLOENVCHA.2011.09.018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2012-02-01",
+   "authors": [
+    {
+     "authorId": "4203551",
+     "name": "J. Cinner"
+    },
+    {
+     "authorId": "32446396",
+     "name": "T. McClanahan"
+    },
+    {
+     "authorId": "35676853",
+     "name": "N. Graham"
+    },
+    {
+     "authorId": "3572064",
+     "name": "T. Daw"
+    },
+    {
+     "authorId": "40273699",
+     "name": "J. Maina"
+    },
+    {
+     "authorId": "100883861",
+     "name": "S. Stead"
+    },
+    {
+     "authorId": "9879126",
+     "name": "A. Wamukota"
+    },
+    {
+     "authorId": "118466588",
+     "name": "K. Brown"
+    },
+    {
+     "authorId": "2599339",
+     "name": "Ö. Bodin"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "27e374b73ac55568b9bc592bd03ffc14ce377d19",
+   "externalIds": {
+    "MAG": "3041129673",
+    "DOI": "10.1002/eap.2124",
+    "CorpusId": 212692448,
+    "PubMed": "32167633"
+   },
+   "url": "https://www.semanticscholar.org/paper/27e374b73ac55568b9bc592bd03ffc14ce377d19",
+   "title": "Direct and indirect effects of climate change-amplified pulse heat stress events on coral reef fish communities.",
+   "venue": "Ecological Applications",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.1706",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/eap.2124?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/eap.2124, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-03-13",
+   "authors": [
+    {
+     "authorId": "6801243",
+     "name": "Jennifer M. T. Magel"
+    },
+    {
+     "authorId": "91634739",
+     "name": "Sean A. Dimoff"
+    },
+    {
+     "authorId": "49245630",
+     "name": "J. Baum"
+    }
+   ],
+   "abstract": "Climate change-amplified temperature anomalies pose an imminent threat to coral reef ecosystems. While much focus has been placed on the effects of heat stress on scleractinian corals-including bleaching, mortality, and loss of reef structural complexity-and many studies have documented changes to reef fish communities arising indirectly from shifts in benthic composition, the direct impacts of heat stress on reef fish are much less well understood. Here, we quantify the direct and indirect effects of heat stress on reef fishes, using underwater visual censuses of coral reef fish communities conducted before, during, and after the 2015-2016 El Niño-induced global coral bleaching event. Surveys took place at the epicentre of this event, at 16 sites on Kiritimati (Republic of Kiribati; central equatorial Pacific) spanning across a gradient of local human disturbance. We expected that heat stress would have both direct and indirect negative effects on the reef fish community-with direct effects resulting from physiological stress during the event, and indirect effects manifesting afterwards as a consequence of coral mortality-and that the ability of fish communities to recover following the heat stress would depend on levels of local human disturbance. We found that total reef fish biomass and abundance declined by> 50% during heat stress, likely as a result of vertical migration of fish to cooler waters. One year after the cessation of heat stress, however, total biomass, abundance, and species richness had recovered to-or even exceeded-pre-heat stress levels. However, the biomass of corallivores declined by over 70% following severe coral loss, and reefs exposed to higher levels of local human disturbance showed impaired recovery following the heat stress. These findings enhance understanding of the projected impacts of climate change-associated marine heatwaves on reef fishes, and highlight the interacting effects of local and global stressors on this vital component of coral reef ecosystems."
+  },
+  {
+   "paperId": "0dad2582270f6ff8ece7eaebc82fa2da9ae1bab9",
+   "externalIds": {
+    "DOI": "10.1016/j.biocon.2021.109328",
+    "CorpusId": 239142280
+   },
+   "url": "https://www.semanticscholar.org/paper/0dad2582270f6ff8ece7eaebc82fa2da9ae1bab9",
+   "title": "Impacts of heat stress on soft corals, an overlooked and highly vulnerable component of coral reef ecosystems, at a central equatorial Pacific atoll",
+   "venue": "Biological Conservation",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.biocon.2021.109328?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.biocon.2021.109328, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2021-10-01",
+   "authors": [
+    {
+     "authorId": "2124169870",
+     "name": "Dominique G. Maucieri"
+    },
+    {
+     "authorId": "49245630",
+     "name": "J. Baum"
+    }
+   ],
+   "abstract": "Climate change threatens coral reefs, with recent heatwaves causing widespread coral bleaching and mortality. Soft corals (order Alcyonacea) provide reef structure and habitat, but most reef research has instead focused on reef-building hard corals (order Scleractinia). Reviewing the primary literature documenting the effects of recent (2014 – 2020) marine heatwaves on corals, a period including the third global coral bleaching event, we found that only 20% (19/94) of studies presented any results of heat stress effects on soft corals, and even fewer (5%) presented taxonomic-specific results, highlighting the need for further study. Using images ( n = 6265) collected on 16 expeditions to the world's largest atoll (Kiritimati; central equatorial Pacific) between 2007 and 2019, we quantified soft coral cover around the atoll's shallow (10-12 m depth) forereefs before and after a prolonged heatwave (the 2015/2016 El Ni ˜ no). Prior to the heatwave, soft coral accounted for 3.0% of the benthic community, with greater cover at more sheltered sites with lower net primary productivity; Lobophytum and Sinularia were the most common genera. We documented a complete loss of soft coral after the heatwave within our sites. New soft corals were detected in 2019, three years after the heatwave. Photos of individual colonies tracked over time revealed that soft coral structures can persist for several years post-mortality, and hard corals can recruit onto these structures. Our study exposes the vulnerability of soft corals to heat stress, which has received scant previous documentation. Future studies examining the effects of heatwaves on coral bleaching and mortality should include soft corals."
+  },
+  {
+   "paperId": "b01f48d08f4df901c4b435535ef6d2069ef39908",
+   "externalIds": {
+    "DOI": "10.11591/ijece.v14i1.pp398-408",
+    "CorpusId": 265244085
+   },
+   "url": "https://www.semanticscholar.org/paper/b01f48d08f4df901c4b435535ef6d2069ef39908",
+   "title": "Monitoring climate change effects on coral reefs using edge-based image segmentation",
+   "venue": "International Journal of Electrical and Computer Engineering (IJECE)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://ijece.iaescore.com/index.php/IJECE/article/download/32523/17091",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11591/ijece.v14i1.pp398-408?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11591/ijece.v14i1.pp398-408, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-01",
+   "authors": [
+    {
+     "authorId": "2534518493",
+     "name": "Ezmahamrul Afreen Awalludin"
+    },
+    {
+     "authorId": "2537891",
+     "name": "W. Yussof"
+    },
+    {
+     "authorId": "2678643",
+     "name": "Z. Bachok"
+    },
+    {
+     "authorId": "2535935414",
+     "name": "Muhammad Afiq Firdaus Aminudin"
+    },
+    {
+     "authorId": "2532318776",
+     "name": "Mohd Safuan Che Din"
+    },
+    {
+     "authorId": "2579568206",
+     "name": "Muhammad Suzuri Hitam"
+    }
+   ],
+   "abstract": "Coral reefs are valuable ecosystems that face vulnerability to climate change impacts. Underwater images often encounter noise from various factors, such as water turbidity, lighting conditions, attenuation, and scattering, which can complicate edge detection and segmentation processes, leading to inaccuracies. However, image processing techniques offer a viable solution to this issue. In this study, an edge-based segmentation approach is proposed that uses multiple contrast techniques to detect and quantify changes in coral reef imagery. The proposed approach effectively identifies changes in coral reef imagery, making it a valuable tool for monitoring climate change's effects on these ecosystems. Furthermore, high-resolution images at different time points and locations were collected, and then an edge-based segmentation approach was utilized to enhance the accuracy of edge detection and segmentation. Comparing the proposed method with traditional segmentation techniques showed a significant improvement in terms of segmentation precision. Subsequently, alterations in the structure and composition of coral reefs are observed, indicating the influence of climate change on these ecosystems. This research highlights the capabilities of image processing techniques using edge-based segmentation in monitoring coral reefs. It offers an effective and precise approach to detecting changes in coral reef images, thereby contributing to conservation endeavors."
+  },
+  {
+   "paperId": "51a2383997d5e4e9bfee20eaa5eaa47a88b41ef9",
+   "externalIds": {
+    "DOI": "10.3390/su17177651",
+    "CorpusId": 280927744
+   },
+   "url": "https://www.semanticscholar.org/paper/51a2383997d5e4e9bfee20eaa5eaa47a88b41ef9",
+   "title": "Tropical Cyclones and Coral Reefs Under a Changing Climate: Prospects and Likely Synergies Between Future High-Energy Storms and Other Acute and Chronic Coral Reef Stressors",
+   "venue": "Sustainability",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2071-1050/17/17/7651/pdf?version=1756115488",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su17177651?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su17177651, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-25",
+   "authors": [
+    {
+     "authorId": "37704093",
+     "name": "S. Turton"
+    }
+   ],
+   "abstract": "Shallow warm-water coral reefs are among the most biodiverse and valuable ecosystems on Earth, supporting a quarter of all marine life and delivering critical ecosystem services such as coastal protection, food security, and economic benefits through tourism and fisheries. However, these ecosystems are under escalating threat from anthropogenic climate change, with tropical cyclones representing their most significant high-energy storm disturbances. Approximately 70% of the world’s coral reefs lie within the tropical cyclone belt, where the frequency, intensity, and rainfall associated with tropical cyclones are changing due to global warming. Coral reefs already compromised by climate-induced stressors—such as marine heatwaves, ocean acidification, and sea-level rise—are increasingly vulnerable to the compounding impacts of more intense and slower-moving cyclones. Projected changes in cyclone behaviour, including regional variations in storm intensity and rainfall, may further undermine coral reef resilience, pushing many reef systems toward irreversible degradation. Future impacts will be regionally variable but increasingly severe without immediate climate mitigation. Building reef resilience will require a combination of rapid global carbon emission reductions and ambitious adaptation strategies, including enhanced reef management and restoration and conservation efforts. The long-term survival of coral reefs now hinges on coordinated global action and support for reef-dependent communities."
+  },
+  {
+   "paperId": "815ab740ffd1b0659e5058c8a5ed77c82e8c7972",
+   "externalIds": {
+    "DOI": "10.3390/su16041506",
+    "CorpusId": 267608442
+   },
+   "url": "https://www.semanticscholar.org/paper/815ab740ffd1b0659e5058c8a5ed77c82e8c7972",
+   "title": "Stronger Hurricanes and Climate Change in the Caribbean Sea: Threats to the Sustainability of Endangered Coral Species",
+   "venue": "Sustainability",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2071-1050/16/4/1506/pdf?version=1707492412",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su16041506?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su16041506, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-09",
+   "authors": [
+    {
+     "authorId": "1400505603",
+     "name": "E. Hernández-Delgado"
+    },
+    {
+     "authorId": "1403799310",
+     "name": "P. Alejandro-Camis"
+    },
+    {
+     "authorId": "1422444866",
+     "name": "G. Cabrera-Beauchamp"
+    },
+    {
+     "authorId": "1403799302",
+     "name": "J. Fonseca-Miranda"
+    },
+    {
+     "authorId": "1999228745",
+     "name": "N. Gómez-Andújar"
+    },
+    {
+     "authorId": "2307522058",
+     "name": "Pedro Gómez"
+    },
+    {
+     "authorId": "1403799295",
+     "name": "Roger Guzmán-Rodríguez"
+    },
+    {
+     "authorId": "2283709442",
+     "name": "Iván Olivo-Maldonado"
+    },
+    {
+     "authorId": "1403799291",
+     "name": "Samuel E. Suleimán-Ramos"
+    }
+   ],
+   "abstract": "An increasing sea surface temperature as a result of climate change has led to a higher frequency and strengthening of hurricanes across the northeastern Caribbean in recent decades, with increasing risks of impacts to endangered corals and to the sustainability of coral reefs. Category five Hurricanes Irma and María during 2017 caused unprecedented damage to coral reef ecosystems across northeastern Puerto Rico, including mechanical destruction, localized sediment bedload (horizontal sediment transport and abrasion), and burial by hurricane-generated rubble fields. Hurricanes inflicted significant site-, depth-, and life history trait-specific impacts to endangered corals, with substantial and widespread mechanical damage to branching species, moderate mechanical damage to foliose species, and moderate to high localized damage to small-sized encrusting and massive morphotypes due to sediment bedload and burial by rubble. There was a mean 35% decline in Acropora palmata live cover, 79% in A. cervicornis, 12% in Orbicella annularis, 7% in O. faveolata, 12% in O. franksi, and 96% in Dendrogyra cylindrus. Hurricane disturbances resulted in a major regime shift favoring dominance by macroalgae, algal turf, and cyanobacteria. Recovery from coral recruitment or fragment reattachment in A. palmata was significantly higher on more distant coral reefs, but there was none for massive endangered species. Stronger hurricanes under projected climate change may represent a major threat to the conservation of endangered coral species and reef sustainability which will require enhancing coral propagation and restoration strategies, and the integration of adaptive, ecosystem-based management approaches. Recommendations are discussed to enhance redundancy, rapid restoration responses, and conservation-oriented strategies."
+  },
+  {
+   "paperId": "2d67f626356acd5133027dd8dd666ba1b1dad654",
+   "externalIds": {
+    "MAG": "2086993800",
+    "DOI": "10.1016/J.ECSS.2008.09.003",
+    "CorpusId": 58923907
+   },
+   "url": "https://www.semanticscholar.org/paper/2d67f626356acd5133027dd8dd666ba1b1dad654",
+   "title": "Climate change and coral reef bleaching: An ecological assessment of long-term impacts, recovery trends and future outlook",
+   "venue": "",
+   "year": 2008,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.ECSS.2008.09.003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.ECSS.2008.09.003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2008-12-10",
+   "authors": [
+    {
+     "authorId": "48990488",
+     "name": "A. Baker"
+    },
+    {
+     "authorId": "2191939112",
+     "name": "P. Glynn"
+    },
+    {
+     "authorId": "48657295",
+     "name": "Bernhard Riegl"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "d3aed5ba244d4a4f8a41e3c91c5ece996faad335",
+   "externalIds": {
+    "DOI": "10.5194/esd-16-275-2025",
+    "CorpusId": 276216250
+   },
+   "url": "https://www.semanticscholar.org/paper/d3aed5ba244d4a4f8a41e3c91c5ece996faad335",
+   "title": "Considerations for determining warm-water coral reef tipping points",
+   "venue": "Earth System Dynamics",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://esd.copernicus.org/articles/16/275/2025/esd-16-275-2025.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/esd-16-275-2025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/esd-16-275-2025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-07",
+   "authors": [
+    {
+     "authorId": "1404733361",
+     "name": "P. Pearce-Kelly"
+    },
+    {
+     "authorId": "35001732",
+     "name": "A. Altieri"
+    },
+    {
+     "authorId": "2583355",
+     "name": "J. Bruno"
+    },
+    {
+     "authorId": "4903451",
+     "name": "C. Cornwall"
+    },
+    {
+     "authorId": "6781973",
+     "name": "M. McField"
+    },
+    {
+     "authorId": "35510846",
+     "name": "Aarón Israel Muñiz-Castillo"
+    },
+    {
+     "authorId": "2267105298",
+     "name": "Juan C. Rocha"
+    },
+    {
+     "authorId": "1658972069",
+     "name": "Renee O. Setter"
+    },
+    {
+     "authorId": "2288306224",
+     "name": "Charles Sheppard"
+    },
+    {
+     "authorId": "1403548522",
+     "name": "R. Román-Cuesta"
+    },
+    {
+     "authorId": "2223254",
+     "name": "C. Yesson"
+    }
+   ],
+   "abstract": "Abstract. Warm-water coral reefs are facing unprecedented human-driven threats to their continued existence as biodiverse functional ecosystems upon which hundreds of millions of people rely. These impacts may drive coral ecosystems past critical thresholds, beyond which the system reorganises, often abruptly and potentially irreversibly; this is what the Intergovernmental Panel on Climate Change (IPCC, 2022) define as a tipping point. Determining tipping point thresholds for coral reef ecosystems requires a robust assessment of multiple stressors and their interactive effects. In this perspective piece, we draw upon the recent global tipping point revision initiative (Lenton et al., 2023a) and a literature search to identify and summarise the diverse range of interacting stressors that need to be considered for determining tipping point thresholds for warm-water coral reef ecosystems. Considering observed and projected stressor impacts, we endorse the global tipping point revision's conclusion of a global mean surface temperature (relative to pre-industrial) tipping point threshold of 1.2 °C (range 1–1.5 °C) and the long-term impacts of atmospheric CO2 concentrations above 350 ppm, while acknowledging that comprehensive assessment of stressors, including ocean warming response dynamics, overshoot, and cascading impacts, have yet to be sufficiently realised. These tipping point thresholds have already been exceeded, and therefore these systems are in an overshoot state and are reliant on policy actions to bring stressor levels back within tipping point limits. A fuller assessment of interacting stressors is likely to further lower the tipping point thresholds in most cases. Uncertainties around tipping points for such crucially important ecosystems underline the imperative of robust assessment and, in the case of knowledge gaps, employing a precautionary principle favouring lower-range tipping point values.\n"
+  },
+  {
+   "paperId": "5c658abbf132fb3ae5427d2fc05101664786c138",
+   "externalIds": {
+    "MAG": "71135556",
+    "DOI": "10.1007/978-94-007-0114-4_22",
+    "CorpusId": 126838774
+   },
+   "url": "https://www.semanticscholar.org/paper/5c658abbf132fb3ae5427d2fc05101664786c138",
+   "title": "The Impact of Climate Change on Coral Reef Ecosystems",
+   "venue": "",
+   "year": 2011,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-94-007-0114-4_22?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-94-007-0114-4_22, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "1398297041",
+     "name": "O. Hoegh-Guldberg"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "b2e08f6b5f96847c19592ed6cef0c07254dfb3f0",
+   "externalIds": {
+    "MAG": "3034275370",
+    "DOI": "10.1002/wcc.657",
+    "CorpusId": 225764217
+   },
+   "url": "https://www.semanticscholar.org/paper/b2e08f6b5f96847c19592ed6cef0c07254dfb3f0",
+   "title": "Climate change impacts on Australia's eucalypt and coral species: Comparing and sharing knowledge across disciplines",
+   "venue": "WIREs Climate Change",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/wcc.657?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/wcc.657, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-06-09",
+   "authors": [
+    {
+     "authorId": "12596186",
+     "name": "T. Booth"
+    },
+    {
+     "authorId": "40653382",
+     "name": "P. Muir"
+    }
+   ],
+   "abstract": "Two of Australia's most iconic ecosystems have recently sustained heavy damage related to climatic changes: the extensive eucalypt forests from catastrophic bushfires and the Great Barrier Reef from mass coral bleaching. Despite obvious differences, eucalypt trees and reef corals share some similarities in biology and ecology, particularly in relation to climate change impacts and adaptation. Both groups are the focus of an increasing research effort to characterize and respond to climate changes and here we examine how sharing research experiences can benefit both fields. Four key areas of research are considered: (a) modeling current distributions, (b) assessing impacts of climate change on future distributions, (c) using human‐assisted migration to improve survival, and (d) applying genetic enhancement to improve the species’ survival. Examples of each research area are used to examine potential crossovers, limitations of the methods, and future requirements. We conclude that eucalypt and coral researchers, and indeed researchers for many other endangered taxa, can gain much by comparing experiences and methods, despite the apparent differences in their respective taxa."
+  }
+ ]
+}

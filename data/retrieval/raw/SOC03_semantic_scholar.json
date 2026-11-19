@@ -1,0 +1,712 @@
+{
+ "query": "Urbanization and income inequality",
+ "retrieved_at": "2026-11-18T17:56:54.314738+00:00",
+ "data": [
+  {
+   "paperId": "83210787eb4b8ff7a8418bf32b76ce133914c4d8",
+   "externalIds": {
+    "DOI": "10.1057/s41599-023-02005-1",
+    "CorpusId": 261513716
+   },
+   "url": "https://www.semanticscholar.org/paper/83210787eb4b8ff7a8418bf32b76ce133914c4d8",
+   "title": "Impact of urbanization and income inequality on life expectancy of male and female in South Asian countries: a moderating role of health expenditures",
+   "venue": "Humanities and Social Sciences Communications",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41599-023-02005-1.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1057/s41599-023-02005-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1057/s41599-023-02005-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-04",
+   "authors": [
+    {
+     "authorId": "2237646166",
+     "name": "Nisar Ahmad"
+    },
+    {
+     "authorId": "2203206590",
+     "name": "Moodhi Raid"
+    },
+    {
+     "authorId": "2089646288",
+     "name": "J. Alzyadat"
+    },
+    {
+     "authorId": "2122650488",
+     "name": "H. Alhawal"
+    }
+   ],
+   "abstract": "Urbanization, income inequality and health expenditures are important factors of life expectancy. Urbanization and income inequalities are avoidable occurrences to tackle the health penalties. The objective of this study is to estimate the impact of urbanization and income inequality on the life expectancy male and female in six selected South Asian countries. To investigate the impact of urbanization and income inequality on life expectancy, eight econometric models are specified and estimated with recent panel data from 1997 to 2021. Based on the Hausman test, the random effect model is used for estimation. Life expectancy male and life expectancy female, respectively, are the dependent variables. Urbanization and income inequality are the independent variables, and health expenditure is the control variable. Further, the study finds the interaction effect of health expenditure with urbanization on life expectancy (male and female). Results explain that urbanization, income inequality and health expenditure have significant impacts on life expectancy in the case of both male and female. In both cases, life expectancy is negatively affected by urbanization and income inequality, whereas health expenditure has a positive impact on life expectancy. Health expenditures moderate the impact of urbanization on life expectancies of male and female with a small size effect. It explains that the negative impact of urbanization can be mitigated through health expenditures. The results of the study are robust. Based on the results of the study, policy-makers may suggest overcoming the problems of urbanization. It is a dire need to redistribute income in South Asian countries to achieve better health and improve life expectancy. More public health expenditures are required in these countries to provide more health facilities, especially in urban areas, to mitigate the impact of urbanization on life expectancy."
+  },
+  {
+   "paperId": "3b4161fddc490907119ab3c4b002cfb018dce428",
+   "externalIds": {
+    "MAG": "2937916084",
+    "DOI": "10.1016/J.SCS.2019.101544",
+    "CorpusId": 146035662
+   },
+   "url": "https://www.semanticscholar.org/paper/3b4161fddc490907119ab3c4b002cfb018dce428",
+   "title": "Urbanization and income inequality in Sub-Saharan Africa",
+   "venue": "Sustainable cities and society",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.SCS.2019.101544?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.SCS.2019.101544, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-07-01",
+   "authors": [
+    {
+     "authorId": "7933958",
+     "name": "Iddisah Sulemana"
+    },
+    {
+     "authorId": "1398511528",
+     "name": "E. Nketiah-Amponsah"
+    },
+    {
+     "authorId": "113505029",
+     "name": "E. Codjoe"
+    },
+    {
+     "authorId": "2069976497",
+     "name": "Jennifer Akua Nyarko Andoh"
+    }
+   ],
+   "abstract": "Abstract According to the World Bank, a burgeoning proportion of Africans now live in urban areas. The United Nations notes that the fastest urbanizing regions in the world are Africa and Asia and projects that by the year 2050 these regions would become about 56% and 64% urban, respectively. At the same time, over the last several decades, many countries and regions have recorded rising income inequality. While some scholars have argued that urbanization worsens income inequality, others contend that the relationship is non-linear and dependent on the stage of development. In this regard, Sub-Saharan Africa remains largely understudied. This paper employed an unbalanced panel dataset for 48 Sub-Saharan African countries over the period 1996–2016 to examine whether urbanization is correlated with income inequality. We find evidence of a positive association between urbanization and income inequality in the region."
+  },
+  {
+   "paperId": "1a4f1800a525616e4c83892e41732320638877cf",
+   "externalIds": {
+    "DOI": "10.1016/j.esr.2022.100942",
+    "CorpusId": 252101938
+   },
+   "url": "https://www.semanticscholar.org/paper/1a4f1800a525616e4c83892e41732320638877cf",
+   "title": "The asymmetric impact of renewable and non-renewable energy on total factor carbon productivity in 114 countries: Do urbanization and income inequality matter?",
+   "venue": "Energy Strategy Reviews",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2211467X22001365/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.esr.2022.100942?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.esr.2022.100942, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-11-01",
+   "authors": [
+    {
+     "authorId": "1715161",
+     "name": "Qiang Wang"
+    },
+    {
+     "authorId": "2151534801",
+     "name": "Le-Jia Li"
+    },
+    {
+     "authorId": "2119921304",
+     "name": "Rong-Rong Li"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "bfac936f91d6f229195bc2ba8420d54e10711e77",
+   "externalIds": {
+    "MAG": "2796805375",
+    "DOI": "10.1007/s11356-018-1900-y",
+    "CorpusId": 4792152,
+    "PubMed": "29651725"
+   },
+   "url": "https://www.semanticscholar.org/paper/bfac936f91d6f229195bc2ba8420d54e10711e77",
+   "title": "The heterogeneous effects of urbanization and income inequality on CO2 emissions in BRICS economies: evidence from panel quantile regression",
+   "venue": "Environmental science and pollution research international",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11356-018-1900-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11356-018-1900-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2018-04-12",
+   "authors": [
+    {
+     "authorId": "37904274",
+     "name": "Hui-Ming Zhu"
+    },
+    {
+     "authorId": "1510774017",
+     "name": "H. Xia"
+    },
+    {
+     "authorId": "49813963",
+     "name": "Ya-Wei Guo"
+    },
+    {
+     "authorId": "2113567293",
+     "name": "Cheng Peng"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2dbad5db287ba1026614f7e4d5094c99e112cea9",
+   "externalIds": {
+    "DOI": "10.54254/2754-1169/2024.ga19625",
+    "CorpusId": 275369377
+   },
+   "url": "https://www.semanticscholar.org/paper/2dbad5db287ba1026614f7e4d5094c99e112cea9",
+   "title": "Investigating the Connection Between Income Inequality, Urbanization, and Real Estate Prices: A Comparative Analysis",
+   "venue": "Advances in Economics, Management and Political Sciences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.ewadirect.com/proceedings/aemps/article/view/19625/pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.54254/2754-1169/2024.ga19625?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54254/2754-1169/2024.ga19625, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-01-07",
+   "authors": [
+    {
+     "authorId": "2343753224",
+     "name": "Zijing Peng"
+    }
+   ],
+   "abstract": "This paper analyzes relationship of real estate, urbanization, road construction, and income disparity in the same system. It can theoretically solve problem of the excessive income disparity and slow urbanization. The author will utilize the literature research approach to clean up a lot of data in order to assess and summarize the three keywords in detail. This paper reviews and summarizes the literature at home and abroad from the perspective of three pairs of economic relations: (1) The impact of real estate price fluctuations on income disparity (2) the impact of urbanization on real estate prices (3) The impact of urbanization on income inequality. The relationship between the three are analyzed in the context of urbanization in the new era, From the literature research, it is concluded that the rise in real estate prices enlarges the gap of income inequality. (1) Real estate prices have an unsustainable impact on the urbanization path (2) The \"negative effect\" of the urbanization development model on the income gap will be greater than the \"positive effect\" Finally, according to the above analysis, it is concluded that urbanization can narrow the income gap between urban and rural areas through the medium of the real estate industry. Based on the research conclusions, the following suggestions are drawn: (1) Long-term development of urban planning: It is recommended to have more reasonable urban planning, avoid over-development of core cities, promote the development of small and medium-sized cities, and alleviate the upward pressure on real estate prices."
+  },
+  {
+   "paperId": "bf131a1769104b319d9b60e3e98b3f9a09d28b94",
+   "externalIds": {
+    "MAG": "169366492",
+    "DOI": "10.1007/S11205-016-1229-1",
+    "CorpusId": 150772451
+   },
+   "url": "https://www.semanticscholar.org/paper/bf131a1769104b319d9b60e3e98b3f9a09d28b94",
+   "title": "Urbanization and Income Inequality in China: An Empirical Investigation at Provincial Level",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S11205-016-1229-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S11205-016-1229-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2017-03-01",
+   "authors": [
+    {
+     "authorId": "15101554",
+     "name": "Dong-Jie Wu"
+    },
+    {
+     "authorId": "143645384",
+     "name": "P. Rao"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "1f41c9145971c14b2ddb6ae95d1cb97821128528",
+   "externalIds": {
+    "DOI": "10.55214/25768484.v8i6.2082",
+    "CorpusId": 273137108
+   },
+   "url": "https://www.semanticscholar.org/paper/1f41c9145971c14b2ddb6ae95d1cb97821128528",
+   "title": "Urbanization, economic growth and income inequality in Sub-Saharan Africa",
+   "venue": "Edelweiss Applied Science and Technology",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://learning-gate.com/index.php/2576-8484/article/download/2082/792",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55214/25768484.v8i6.2082?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55214/25768484.v8i6.2082, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-02",
+   "authors": [
+    {
+     "authorId": "2149831166",
+     "name": "Konan Abogni Augustin Kouadio"
+    },
+    {
+     "authorId": "2210440319",
+     "name": "M. V. Koffi"
+    }
+   ],
+   "abstract": "The purpose of this study is to analyse the role of economic growth in the relationship between urbanisation and income inequality in Sub-Saharan Africa. Methodologically, we apply the generalised method of moments to a sample of 33 Sub-Saharan African countries. The findings indicate that economic growth mitigates the exacerbating effect of urbanisation on income inequality. On the other hand, inflation and the labour force participation rate are sources of income inequality.  Thus, urbanisation will only reduce income inequality in Africa if it stimulates economic growth.  In terms of implication, the authorities must strengthen their strategies in favour of the sanitation of urban areas. Smart city strategies can also be adopted to make cities more inclusive."
+  },
+  {
+   "paperId": "7ee59d922280d8c8f4d34c3d9bcaaf951473e092",
+   "externalIds": {
+    "MAG": "3092146993",
+    "DOI": "10.32479/ijeep.10070",
+    "CorpusId": 225142241
+   },
+   "url": "https://www.semanticscholar.org/paper/7ee59d922280d8c8f4d34c3d9bcaaf951473e092",
+   "title": "ON THE RELATIONS AMONG CO2 EMISSIONS, GROSS DOMESTIC PRODUCT, ENERGY CONSUMPTION, ELECTRICITY USE, URBANIZATION, AND INCOME INEQUALITY FOR A SAMPLE OF 134 COUNTRIES",
+   "venue": "International Journal of Energy Economics and Policy",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.32479/ijeep.10070",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32479/ijeep.10070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32479/ijeep.10070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-10-10",
+   "authors": [
+    {
+     "authorId": "1403788897",
+     "name": "R. J. Santillán-Salgado"
+    },
+    {
+     "authorId": "2065284896",
+     "name": "Humberto Valencia-Herrera"
+    },
+    {
+     "authorId": "1402034302",
+     "name": "Francisco Venegas-Martínez"
+    }
+   ],
+   "abstract": "This paper is aimed at examining the relations among CO2 emissions, gross domestic product (GDP) growth, energy consumption, electricity use, urbanization, and income inequality for a sample of 134 countries by using principal components analysis, Granger causality, vector error correction models, and panel vector autoregression models. Data was obtained from the World Bank with annual observations from 1990 to 2014. The chosen countries are those with 10 years or more of concurrent data of the variables under study. The main empirical findings suggest a Kuznets curve between CO2 emissions per capita and GDP per capita. In addition, CO2 emissions have a long-term relationship with economic growth, energy use, electricity use, urbanization, and inequality. Finally, in the short run, CO2 emissions depend on economic growth, urbanization, and income inequality."
+  },
+  {
+   "paperId": "10b99defc1e004edb75925494e4f7ab789f0b951",
+   "externalIds": {
+    "PubMedCentral": "4951071",
+    "MAG": "2483958795",
+    "DOI": "10.1371/journal.pone.0158826",
+    "CorpusId": 15850922,
+    "PubMed": "27433966"
+   },
+   "url": "https://www.semanticscholar.org/paper/10b99defc1e004edb75925494e4f7ab789f0b951",
+   "title": "Urbanization and Income Inequality in Post-Reform China: A Causal Analysis Based on Time Series Data",
+   "venue": "PLoS ONE",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1371/journal.pone.0158826",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4951071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2016-07-19",
+   "authors": [
+    {
+     "authorId": "40601174",
+     "name": "Guo Chen"
+    },
+    {
+     "authorId": "2594437",
+     "name": "A. Glasmeier"
+    },
+    {
+     "authorId": "2157501662",
+     "name": "Min Zhang"
+    },
+    {
+     "authorId": "48202772",
+     "name": "Y. Shao"
+    }
+   ],
+   "abstract": "This paper investigates the potential causal relationship(s) between China’s urbanization and income inequality since the start of the economic reform. Based on the economic theory of urbanization and income distribution, we analyze the annual time series of China’s urbanization rate and Gini index from 1978 to 2014. The results show that urbanization has an immediate alleviating effect on income inequality, as indicated by the negative relationship between the two time series at the same year (lag = 0). However, urbanization also seems to have a lagged aggravating effect on income inequality, as indicated by positive relationship between urbanization and the Gini index series at lag 1. Although the link between urbanization and income inequality is not surprising, the lagged aggravating effect of urbanization on the Gini index challenges the popular belief that urbanization in post-reform China generally helps reduce income inequality. At deeper levels, our results suggest an urgent need to focus on the social dimension of urbanization as China transitions to the next stage of modernization. Comprehensive social reforms must be prioritized to avoid a long-term economic dichotomy and permanent social segregation."
+  },
+  {
+   "paperId": "a2d11eccd6a0fbfed37d5fa8f5f054a293e48eaf",
+   "externalIds": {
+    "PubMedCentral": "10136393",
+    "DOI": "10.1007/s11205-023-03120-x",
+    "CorpusId": 258385759,
+    "PubMed": "37304456"
+   },
+   "url": "https://www.semanticscholar.org/paper/a2d11eccd6a0fbfed37d5fa8f5f054a293e48eaf",
+   "title": "Income Inequality in Africa: Exploring the Interaction Between Urbanization and Governance Quality",
+   "venue": "Social Indicators Research",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11205-023-03120-x.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10136393, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-04-27",
+   "authors": [
+    {
+     "authorId": "134784708",
+     "name": "T. Dossou"
+    }
+   ],
+   "abstract": "While many studies have examined the influence of urbanization on income inequality, the study on the moderating effect of governance on the relationship between urbanization and income inequality remains quite inexistent. To fill this gap in the literature, the study examines the moderation of governance quality on the influence of urbanization on income inequality in 46 African economies from 1996 to 2020. A two stage system GMM estimation approach has been used to achieve this goal. The results unveil that the impact of urbanization on income inequality is positive and significant, meaning that increase in urbanization exacerbates income inequality in Africa. However, the results show that the improvement of governance quality could contribute to improve income distribution in urban areas. Interestingly, the results show that improving governance quality in Africa could contribute to spurring a positive urbanization which could contribute to promote urban economic growth and reduce income inequality."
+  },
+  {
+   "paperId": "e034ba60fb2e8c7ba8dee48e17b812cd4f287208",
+   "externalIds": {
+    "DOI": "10.1016/j.resourpol.2023.104007",
+    "CorpusId": 260691201
+   },
+   "url": "https://www.semanticscholar.org/paper/e034ba60fb2e8c7ba8dee48e17b812cd4f287208",
+   "title": "How do natural resources, urbanization, and institutional quality meet with ecological footprints in the presence of income inequality and human capital in the next eleven countries?",
+   "venue": "Resources policy",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.resourpol.2023.104007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.resourpol.2023.104007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-08-01",
+   "authors": [
+    {
+     "authorId": "49696993",
+     "name": "Yunpeng Sun"
+    },
+    {
+     "authorId": "2458435861",
+     "name": "Wen-Juan Tian"
+    },
+    {
+     "authorId": "1753733626",
+     "name": "U. Mehmood"
+    },
+    {
+     "authorId": "2198628076",
+     "name": "Xiaoyu Zhang"
+    },
+    {
+     "authorId": "49317853",
+     "name": "S. Tariq"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "880503939b5a8866e5be387c9b22105e5e0e32be",
+   "externalIds": {
+    "MAG": "3082306934",
+    "DOI": "10.22394/1993-7601-2020-59-55-70",
+    "CorpusId": 226651003
+   },
+   "url": "https://www.semanticscholar.org/paper/880503939b5a8866e5be387c9b22105e5e0e32be",
+   "title": "Urbanization and income inequality: Cause or solution?",
+   "venue": "",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22394/1993-7601-2020-59-55-70?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22394/1993-7601-2020-59-55-70, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "108737700",
+     "name": "E. Kolomak"
+    }
+   ],
+   "abstract": "The influence of urbanization on the income differentiation of the Russian population is studied. Methods of descriptive statistics, panel regression and quantile regression are used. The hypothesis of a bell-shaped relationship between urbanization and indicators of income inequality: the Gini coefficient and the coefficient of funds were confirmed. A principally different relationship for the poverty has been identified, U-shaped dependence is revealed."
+  },
+  {
+   "paperId": "04bf661351cf16bd5aaad43511d1f09d18d251b1",
+   "externalIds": {
+    "DOI": "10.1016/j.trd.2023.103879",
+    "CorpusId": 261038320
+   },
+   "url": "https://www.semanticscholar.org/paper/04bf661351cf16bd5aaad43511d1f09d18d251b1",
+   "title": "Motorcycle-to-car ownership at different urbanization levels: Road mobility, accessibility, and income inequality",
+   "venue": "Transportation Research Part D: Transport and Environment",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.trd.2023.103879?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.trd.2023.103879, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-01",
+   "authors": [
+    {
+     "authorId": "2454203",
+     "name": "T. Law"
+    },
+    {
+     "authorId": "6425070",
+     "name": "C. P. Ng"
+    },
+    {
+     "authorId": "72851358",
+     "name": "A. Poi"
+    },
+    {
+     "authorId": "2081083342",
+     "name": "B. Guo"
+    },
+    {
+     "authorId": "2295712770",
+     "name": "Qi-Zhou Hu"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "fca0259ec08982463180e01b7f486ff5726c2e9b",
+   "externalIds": {
+    "DOI": "10.1177/13548166221108121",
+    "CorpusId": 249663313
+   },
+   "url": "https://www.semanticscholar.org/paper/fca0259ec08982463180e01b7f486ff5726c2e9b",
+   "title": "Tourism, urbanization, and urban income inequality in China",
+   "venue": "Tourism Economics",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/13548166221108121?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/13548166221108121, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-06-12",
+   "authors": [
+    {
+     "authorId": "1977692260",
+     "name": "Jie-Kuan Zhang"
+    }
+   ],
+   "abstract": "Despite the persisting interest in the nexus of tourism and income inequality, the relationships between tourism and urban income inequality remain unknown. In the past few decades, tourism, urbanization, and urban income inequality are all prominent social and economic phenomena in China. This study investigates such relationships and the underlying influence mechanism of urbanization based on provincial panel data in China between 1995 and 2019. The results show that tourism significantly increases urban income inequality. Moreover, there exists a Kuznets curve between tourism and urban income inequality. When the ratio of tourism revenue to GDP reaches the value of 0.416, the positive influence of tourism on urban income inequality reaches its maximum. Most of China’s provinces currently face the positive influence of tourism on urban income inequality. Besides, urbanization partially mediates tourism’s effects on urban income inequality. Heterogeneity analysis indicates that in high-urbanization, high-income, and low economic levels regions, tourism increases urban income inequality to a greater extent. This article enriches the knowledge of the association between tourism and income distribution."
+  },
+  {
+   "paperId": "32b1d85f592831927dce8356773c5e812e67778a",
+   "externalIds": {
+    "DOI": "10.3390/su14116896",
+    "CorpusId": 249387906
+   },
+   "url": "https://www.semanticscholar.org/paper/32b1d85f592831927dce8356773c5e812e67778a",
+   "title": "The Dynamic Effects of Urban–Rural Income Inequality on Sustainable Economic Growth under Urbanization and Monetary Policy in China",
+   "venue": "Sustainability",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2071-1050/14/11/6896/pdf?version=1654503506",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su14116896?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su14116896, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-06-05",
+   "authors": [
+    {
+     "authorId": "2149044885",
+     "name": "Junli Cheng"
+    },
+    {
+     "authorId": "20296397",
+     "name": "F. Lin"
+    }
+   ],
+   "abstract": "Income inequality in China has become increasingly serious since the beginning of the economic reform period in the 1970s, with urban–rural income inequality playing a large role. Urbanization policy and monetary policy are currently important economic policy tools for the Chinese government. In order to investigate the influence of inequality on the economy and to provide recommendations for ensuring the sustainability of growth, we study the effect of urban–rural income inequality on economic growth in the context of urbanization and monetary policy in China between 2002 and 2021. Using a flexible time-varying parametric structural vector auto-regression (TVP-VAR) model and a robust Markov chain Monte Carlo (MCMC) algorithm, our empirical results show that the effect is time-varying, with inequality promoting growth in the early years but affecting it adversely at later stages. Currently, urbanization mitigates inequality and promotes growth simultaneously, while easy monetary policy worsens inequality and affects growth adversely in the long term. We suggest that the authorities need to consider the implementation of policy rebalancing to ensure that the sustainability of economic development is not jeopardized because of worsening income disparity. Proactive urbanization policy and prudent monetary policy are viable rebalancing options."
+  },
+  {
+   "paperId": "a43dc860f7aa39e59bd9eaca65d938c773b251e6",
+   "externalIds": {
+    "DOI": "10.26650/istjecon2022-1195063",
+    "CorpusId": 259693718
+   },
+   "url": "https://www.semanticscholar.org/paper/a43dc860f7aa39e59bd9eaca65d938c773b251e6",
+   "title": "Urbanization and Urban-Rural Income Inequality in Latin America",
+   "venue": "Istanbul Journal of Economics / İstanbul İktisat Dergisi",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.26650/istjecon2022-1195063",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.26650/istjecon2022-1195063?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26650/istjecon2022-1195063, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-26",
+   "authors": [
+    {
+     "authorId": "2222572893",
+     "name": "Buket Savranlar"
+    },
+    {
+     "authorId": "84444772",
+     "name": "Ebru Topçu"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "548edf93161e7285435f52474eb66c2a3081df42",
+   "externalIds": {
+    "DOI": "10.1007/s11205-021-02812-6",
+    "CorpusId": 243222248
+   },
+   "url": "https://www.semanticscholar.org/paper/548edf93161e7285435f52474eb66c2a3081df42",
+   "title": "The Effect of Urbanization and Industrialization on Income Inequality: An Analysis Based on the Method of Moments Quantile Regression",
+   "venue": "Social Indicators Research",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11205-021-02812-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11205-021-02812-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-10-05",
+   "authors": [
+    {
+     "authorId": "2086724687",
+     "name": "I. Ali"
+    },
+    {
+     "authorId": "14158931",
+     "name": "Imed Attiaoui"
+    },
+    {
+     "authorId": "8986365",
+     "name": "R. Khalfaoui"
+    },
+    {
+     "authorId": "40996169",
+     "name": "A. Tiwari"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "36cb095adb9f21354fd4b7dfec539098f1043522",
+   "externalIds": {
+    "DOI": "10.61186/jpbud.28.1.97",
+    "CorpusId": 294749802
+   },
+   "url": "https://www.semanticscholar.org/paper/36cb095adb9f21354fd4b7dfec539098f1043522",
+   "title": "Investigating the Relationship between Income Inequality, Urbanization, and Economic Growth in Provinces of Iran",
+   "venue": "Planning and Budgeting",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "http://eprj.ir/files/site1/user_files_e54c2e/enobahar-A-10-1925-1-04ea3e2.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.61186/jpbud.28.1.97?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.61186/jpbud.28.1.97, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-05-01",
+   "authors": [
+    {
+     "authorId": "108045001",
+     "name": "Elham Nobahar"
+    },
+    {
+     "authorId": "51015727",
+     "name": "H. Panahi"
+    },
+    {
+     "authorId": "2522905744",
+     "name": "Zahra Mehri"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "e7f0df28f0d05781192710f1129828c24a76a1b7",
+   "externalIds": {
+    "DOI": "10.67487/ijprss.v1i3.140",
+    "CorpusId": 290914329
+   },
+   "url": "https://www.semanticscholar.org/paper/e7f0df28f0d05781192710f1129828c24a76a1b7",
+   "title": "Urbanization, Income Inequality and Poverty in Nigeria",
+   "venue": "INTERNATIONAL JOURNAL OF PUBLIC RELATIONS AND SOCIAL SCIENCES",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://wordastrajournals.com/index.php/ijprss/article/download/140/106",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.67487/ijprss.v1i3.140?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.67487/ijprss.v1i3.140, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-11-01",
+   "authors": [
+    {
+     "authorId": "2319327838",
+     "name": "Edward Wasurum"
+    },
+    {
+     "authorId": "2456086591",
+     "name": "Firstborn Woke"
+    }
+   ],
+   "abstract": "This study applies the Toda–Yamamoto non-Granger causality approach to examine the relationships among urbanization, economic inequality, and poverty in Nigeria over the period 1981–2024. The primary objective is to determine whether urbanization and income inequality exert causal effects on poverty. The results reveal multiple statistically significant causal linkages among the variables. Although inflation exhibits a relatively weak effect, population growth, population density, migration, income inequality, and unemployment are found to significantly cause poverty. The findings suggest that rapid urbanization in Nigeria has not been accompanied by adequate economic opportunities or infrastructure development, thereby exacerbating poverty levels. Consistent with demographic transition theory, poverty, migration, and inequality contribute to increased population growth. Furthermore, poverty, population growth, population density, and income inequality significantly influence migration patterns, lending empirical support to the push–pull theory of migration. Income inequality is shaped by a combination of socioeconomic and demographic factors, while migration and unemployment emerge as key determinants of inflation. "
+  },
+  {
+   "paperId": "c1192ccaa42ee4cbf3a6c89dc6ac58618ad06a5c",
+   "externalIds": {
+    "DOI": "10.52123/1994-2370-2025-1387",
+    "CorpusId": 279914217
+   },
+   "url": "https://www.semanticscholar.org/paper/c1192ccaa42ee4cbf3a6c89dc6ac58618ad06a5c",
+   "title": "THE IMPACT OF URBANIZATION ON INCOME INEQUALITY IN KAZAKHSTAN: THE REGIONAL ASPECT",
+   "venue": "Public Administration and Civil Service",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journal.apa.kz/index.php/path/article/download/1387/1095",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52123/1994-2370-2025-1387?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52123/1994-2370-2025-1387, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-30",
+   "authors": [
+    {
+     "authorId": "2359936292",
+     "name": "D. Abdrakhmanova"
+    },
+    {
+     "authorId": "133686089",
+     "name": "Assel Zhunussova"
+    },
+    {
+     "authorId": "120852780",
+     "name": "R. Dulambayeva"
+    },
+    {
+     "authorId": "151743279",
+     "name": "S. Niyazbekova"
+    }
+   ],
+   "abstract": "Urbanization has a significant impact on the economic growth of countries and the development of human capital. At the same time, it increases the income gap between the city and the countryside, as well as in the structure of one city.\nThe article is devoted to the study of the relationship between urbanization and income inequality at the national and regional levels.\nAlong with general scientific methods of cognition, the method of regression analysis was used in the study. A model where the proportion of the urban population characterizing the urbanization process acts as independent variable (determinant) are constructed. The Gini coefficient is chosen as the influencing factor.\nBased on the analysis, it is concluded that there is a weak positive relationship between urbanization and the level of income inequality in the context of the country. However, for some regions of Kazakhstan, the movement of the population from rural to urban, on the contrary, increases income differentiation. This allows us to conclude that there is a need for a more balanced policy in the field of urbanization, using further classification of regions based on the principle of dependence of income inequality on the urbanization process.\nKeywords: urbanization, income inequality, regression analysis, Gini coefficient, sustainable development."
+  }
+ ]
+}

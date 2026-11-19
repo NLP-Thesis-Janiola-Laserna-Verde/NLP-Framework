@@ -1,0 +1,701 @@
+{
+ "query": "Transformer models for automatic text summarization",
+ "retrieved_at": "2026-11-10T10:49:39.503915+00:00",
+ "data": [
+  {
+   "paperId": "4c954180645763455915a83a0e49bd9684ca3275",
+   "externalIds": {
+    "DBLP": "journals/saem/RaoSM24",
+    "DOI": "10.1007/s13198-024-02280-4",
+    "CorpusId": 270712280
+   },
+   "url": "https://www.semanticscholar.org/paper/4c954180645763455915a83a0e49bd9684ca3275",
+   "title": "Automatic text summarization using transformer-based language models",
+   "venue": "International Journal of System Assurance Engineering and Management",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13198-024-02280-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13198-024-02280-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-03-08",
+   "authors": [
+    {
+     "authorId": "2285531821",
+     "name": "R. Rao"
+    },
+    {
+     "authorId": "2518029835",
+     "name": "Sourabh Sharma"
+    },
+    {
+     "authorId": "2333290793",
+     "name": "Nitin Malik"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "a4a3197876ba0f5db74f79d0b59d7edc77316a74",
+   "externalIds": {
+    "DBLP": "conf/ccris/WangSM20",
+    "DOI": "10.1145/3437802.3437832",
+    "CorpusId": 230507419
+   },
+   "url": "https://www.semanticscholar.org/paper/a4a3197876ba0f5db74f79d0b59d7edc77316a74",
+   "title": "Survey on Automatic Text Summarization and Transformer Models Applicability",
+   "venue": "International Conference on Control, Robotics and Intelligent System",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3437802.3437832?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3437802.3437832, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Book",
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-10-27",
+   "authors": [
+    {
+     "authorId": "2495038920",
+     "name": "Wang Guan"
+    },
+    {
+     "authorId": "1865474",
+     "name": "I. Smetannikov"
+    },
+    {
+     "authorId": "2051252627",
+     "name": "Tian-Xing Man"
+    }
+   ],
+   "abstract": "This survey talks about Automatic Text Summarization. Information explosion, the problem caused by the rapid growth of the internet, increased more and more necessity of powerful summarizers. This article briefly reviews different methods and evaluation metrics. The main attention is on the applications of the latest trends, neural network-based, and pre-trained transformer language models. Pre-trained language models now are ruling the NLP field, as one of the main down-stream tasks, Automatic Text Summarization is quite an interdisciplinary task and requires more advanced techniques. But there is a limitation of input and context length results in that the whole article cannot be encoded completely. Motivated by the application of recurrent mechanism in Transformer-XL, we build an abstractive summarizer for long text and evaluate how well it performs on dataset CNN/Daily Mail. The model is under general sequence to sequence structure with a recurrent encoder and stacked Transformer decoder. The obtained ROUGE scores tell that the performance is good as expected."
+  },
+  {
+   "paperId": "f6da1f68a24b22f3e1f4b58f7e837451a5599d5c",
+   "externalIds": {
+    "DOI": "10.1109/ICoDSA67155.2025.11157303",
+    "CorpusId": 281334183
+   },
+   "url": "https://www.semanticscholar.org/paper/f6da1f68a24b22f3e1f4b58f7e837451a5599d5c",
+   "title": "Comparative Performance Analysis of LSTM and Transformer Models for Abstractive Text Summarization",
+   "venue": "2025 International Conference on Data Science and Its Applications (ICoDSA)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICoDSA67155.2025.11157303?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICoDSA67155.2025.11157303, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-07-03",
+   "authors": [
+    {
+     "authorId": null,
+     "name": "I. Made Denis Maharditha"
+    },
+    {
+     "authorId": "8769141",
+     "name": "K. Lhaksmana"
+    }
+   ],
+   "abstract": "The exponential growth of digital content demands advanced tools to efficiently manage and extract meaningful information, with Automatic Text Summarization (ATS) increasingly emerging as a crucial solution. This study presents a comparative evaluation of two ATS architectures: LSTM-based models (LSTM-based Seq2Seq with Attention and LSTM-based Seq2Seq with Attention and GloVe) and Transformer-based models (BERT and RoBERTa). Experiments are conducted on the CNN/DailyMail and XSum benchmark datasets utilizing standard ROUGE metrics for performance evaluation. Results indicate that Transformer-based models outperform LSTM-based counterparts, with BERT achieving a ROUGE-1 score of 98.25% on the complex XSum dataset, demonstrating superior contextual understanding and abstraction capabilities. In contrast, LSTM models exhibit strong sequential processing capabilities but face challenges in handling long-range dependencies and complex data structures. This study also highlights dataset-specific biases, such as topical overrepresentation, and their impact on model performance. While Transformer-based models demonstrate robustness and adaptability, occasional factual inconsistencies remain a challenge. Future research should address these limitations by integrating reinforcement learning, advanced fine-tuning methods for enhanced factual accuracy, and data augmentation strategies to mitigate biases. Additionally, exploring other Transformer variants and conducting ablation studies on LSTM attention mechanisms could provide deeper insights and further advancing the effectiveness and reliability of ATS systems."
+  },
+  {
+   "paperId": "e489ea4568fb353b233a8f3716589b3b0ba1c136",
+   "externalIds": {
+    "DBLP": "journals/information/AzharADK25",
+    "DOI": "10.3390/info16090784",
+    "CorpusId": 281293666
+   },
+   "url": "https://www.semanticscholar.org/paper/e489ea4568fb353b233a8f3716589b3b0ba1c136",
+   "title": "A Systematic Review and Experimental Evaluation of Classical and Transformer-Based Models for Urdu Abstractive Text Summarization",
+   "venue": "Inf.",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2078-2489/16/9/784/pdf?version=1757486628",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/info16090784?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/info16090784, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-09-09",
+   "authors": [
+    {
+     "authorId": "2373809909",
+     "name": "Muhammad Azhar"
+    },
+    {
+     "authorId": "2283061568",
+     "name": "Adeen Amjad"
+    },
+    {
+     "authorId": "9231085",
+     "name": "D. Dewi"
+    },
+    {
+     "authorId": "2319561215",
+     "name": "Shahreen Kasim"
+    }
+   ],
+   "abstract": "The rapid growth of digital content in Urdu has created an urgent need for effective automatic text summarization (ATS) systems. While extractive methods have been widely studied, abstractive summarization for Urdu remains largely unexplored due to the language’s complex morphology and rich literary tradition. This paper systematically evaluates four transformer-based language models (BERT-Urdu, BART, mT5, and GPT-2) for Urdu abstractive summarization, comparing their performance against conventional machine learning and deep learning approaches. Using multiple Urdu datasets—including the Urdu Summarization Corpus, Fake News Dataset, and Urdu-Instruct-News—we show that fine-tuned Transformer Language Models (TLMs) consistently outperform traditional methods, with the multilingual mT5 model achieving a 0.42 absolute improvement in F1-score over the best baseline. Our analysis reveals that mT5’s architecture is particularly effective at handling Urdu-specific challenges such as right-to-left script processing, diacritic interpretation, and complex verb–noun compounding. Furthermore, we present empirically validated hyperparameter configurations and training strategies for Urdu ATS, establishing transformer-based approaches as the new state-of-the-art for Urdu summarization. Notably, mT5 outperforms Seq2Seq baselines by up to 20% in ROUGE-L, underscoring the efficacy of Transformer-based models for low-resource languages. This work contributes both a systematic review of prior research and a novel empirical benchmark for advancing Urdu abstractive summarization."
+  },
+  {
+   "paperId": "1e40df18f3be3e261cc35d82832c7473509fe880",
+   "externalIds": {
+    "DOI": "10.70382/ajasr.v12i6.0119",
+    "CorpusId": 288888519
+   },
+   "url": "https://www.semanticscholar.org/paper/1e40df18f3be3e261cc35d82832c7473509fe880",
+   "title": "Comparative Analysis of Deep Learning and Transformer Models for Low Resource Hausa Language Text Summarization",
+   "venue": "Journal of Arts and Sociological Research",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://africanscholarpub.com/ajasr/article/download/1315/1212",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70382/ajasr.v12i6.0119?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70382/ajasr.v12i6.0119, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-01",
+   "authors": [
+    {
+     "authorId": "1573550620",
+     "name": "A. E. Chahari"
+    },
+    {
+     "authorId": "2440179507",
+     "name": "M. M. Elias"
+    },
+    {
+     "authorId": "2440179406",
+     "name": "Usman Dahiru Degereji"
+    }
+   ],
+   "abstract": "Natural language processing for low-resource languages presents unique and multifaceted challenges that necessitate carefully designed research methodologies and model architectures capable of delivering meaningful performance despite limited data availability. This paper presents a systematic comparative study of three distinct model architectures applied to the task of automatic text summarization for the Hausa language: a Recurrent Neural Network (RNN) baseline, a Long Short-Term Memory (LSTM) network, and the state-of-the-art mT5_multilingual_XLSum transformer model. Using the GEM/xlsum Hausa dataset, comprising 8,020 Hausa language news article-summary pairs, this study implements a comprehensive research pipeline encompassing dataset collection, data preprocessing with T5Tokenizer and AutoTokenizer, synonym-based data augmentation, model training with a 70:10:20 train-validation-test split, and rigorous performance evaluation using ROUGE metrics. Results demonstrate that the mT5 transformer model substantially outperforms both deep learning baselines across all evaluation metrics, with ROUGE-1, ROUGE-2, ROUGE-L, and ROUGE-LSUM scores of 63.73%, 41.54%, 51.79%, and 48.81%, respectively compared to the LSTM's 43.73%, 21.54%, 41.79%, 48.81% and the RNN's 51.73%, 26.54%, 37.79%, 38.81%. Analysis of these differential outcomes reveals architectural factors driving the performance gap, with implications for future research in low-resource NLP, multilingual model development, and computational linguistic resource creation for underrepresented African languages."
+  },
+  {
+   "paperId": "c87eae2cb7f75125e6f321cad3d0a435739560dc",
+   "externalIds": {
+    "ArXiv": "2608.19200",
+    "DBLP": "journals/corr/abs-2608-19200",
+    "DOI": "10.5121/ijaia.2026.17302",
+    "CorpusId": 289112970
+   },
+   "url": "https://www.semanticscholar.org/paper/c87eae2cb7f75125e6f321cad3d0a435739560dc",
+   "title": "Transformer Models for Text Summarization: A Comparative Study of BART, BERT, and RoBERTa",
+   "venue": "International Journal of Artificial Intelligence &amp; Applications",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.5121/ijaia.2026.17302",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2608.19200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-05-28",
+   "authors": [
+    {
+     "authorId": "2441567477",
+     "name": "Daisy Aptovska"
+    },
+    {
+     "authorId": "39576849",
+     "name": "V. Elangovan"
+    }
+   ],
+   "abstract": "Text summarization refers to the task of condensing a document into a shorter version while preserving itskey information. Automatic text summarization (ATS), driven by advancements in natural language processing (NLP), has developed rapidly in recent years. ATS methods are commonly categorized by input type (such as single-document or multi-document summarization) and by output type (extractive, abstractive, and hybrid). This article presents a focused review of modern summarization techniques with an emphasis on transformer-based models and large language models (LLMs), specifically BERT, RoBERTa and BART. It examines their architectures, pretraining strategies, and their suitability for extractive and abstractive summarization tasks. The paper also discusses key challenges, including computational requirements, data limitations, and issues such as factual inconsistency in generated summaries, and highlights the strengths and limitations of encoder-only and encoder–decoder models."
+  },
+  {
+   "paperId": "cd127cedddb869734940dd57859e2188de0b8cb5",
+   "externalIds": {
+    "DOI": "10.58225/mpmma.2026.213",
+    "CorpusId": 290489643
+   },
+   "url": "https://www.semanticscholar.org/paper/cd127cedddb869734940dd57859e2188de0b8cb5",
+   "title": "A FRAMEWORK FOR SEMANTIC DOCUMENT SIMILARITY DETECTION BASED ON AUTOMATIC TEXT SUMMARIZATION AND TRANSFORMER EMBEDDINGS",
+   "venue": "Scientific works/Elmi eserler",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.58225/mpmma.2026.213",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58225/mpmma.2026.213?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58225/mpmma.2026.213, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-22",
+   "authors": [
+    {
+     "authorId": "2167998365",
+     "name": "Shukurla Bekchanov"
+    },
+    {
+     "authorId": "2452831800",
+     "name": "Malika Babadjanova"
+    }
+   ],
+   "abstract": "The rapid growth of digital document\ncollections has increased the need for efficient\nmethods for identifying semantically similar\ndocuments. Traditional similarity measures often\nrely on lexical overlap and fail to capture deeper\nsemantic relationships. This paper proposes a\nframework for semantic document similarity\ndetection based on automatic text summarization\nand transformer embeddings. First, source\ndocuments are summarized to extract their most\ninformative content while reducing noise and\nredundancy. The generated summaries are then\nencoded using transformer-based embedding\nmodels to obtain semantic representations.\nDocument similarity is computed in the embedding\nspace using cosine similarity. The proposed\napproach improves retrieval efficiency and semantic\nmatching accuracy for large-scale document\ncollections"
+  },
+  {
+   "paperId": "496fa1bb72ff089a7c1729ad097a434804c92579",
+   "externalIds": {
+    "DOI": "10.9734/jamcs/2026/v41i62152",
+    "CorpusId": 288575576
+   },
+   "url": "https://www.semanticscholar.org/paper/496fa1bb72ff089a7c1729ad097a434804c92579",
+   "title": "A Comprehensive Narrative Review of Extractive Text Summarization: Techniques, Transformer Models and Open Challenges (2010–2026)",
+   "venue": "Journal of Advances in Mathematics and Computer Science",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.9734/jamcs/2026/v41i62152",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9734/jamcs/2026/v41i62152?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/jamcs/2026/v41i62152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-05-20",
+   "authors": [
+    {
+     "authorId": "2429501244",
+     "name": "Baraa A. Elhady"
+    },
+    {
+     "authorId": "2274447477",
+     "name": "O. Emam"
+    },
+    {
+     "authorId": "115727677",
+     "name": "H. A. Suleiman"
+    }
+   ],
+   "abstract": "Automatic text summarization is critical for managing information overload in the digital era. This comprehensive narrative review examines extractive text summarization research published between 2010 and 2026, synthesizing classical statistical methods, machine learning approaches, and contemporary deep learning and transformer-based architectures. The review provides a unified taxonomy of extractive methods, comparative analysis of prominent models (including TextRank, BERT, RoBERTa, GPT, and T5), evaluation trends across major benchmark datasets and metrics, and consolidated evidence on persistent research gaps such as long-document handling, computational efficiency, cross-domain robustness, interpretability, and multilingual support. Findings indicate that transformer-based models achieve strong benchmark performance but still face practical limitations in scalability and context length, highlighting clear directions for future research and deployment-ready extractive summarization systems."
+  },
+  {
+   "paperId": "e8c0f777d1c4ba44b9b9247811d94fdb2979cde6",
+   "externalIds": {
+    "DOI": "10.1109/ICRTCST68392.2026.11545386",
+    "CorpusId": 289138863
+   },
+   "url": "https://www.semanticscholar.org/paper/e8c0f777d1c4ba44b9b9247811d94fdb2979cde6",
+   "title": "A Comparative Study of Automatic Text Summarization: From Statistical Baselines to Transformers and Large Language Models",
+   "venue": "2026 6th International Conference on Recent Trends in Computer Science and Technology (ICRTCST)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICRTCST68392.2026.11545386?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICRTCST68392.2026.11545386, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2026-01-29",
+   "authors": [
+    {
+     "authorId": "2299040563",
+     "name": "Shalu Rani"
+    },
+    {
+     "authorId": "1925727",
+     "name": "J. Vashishtha"
+    }
+   ],
+   "abstract": "Text summarization has become a significant task in natural language processing (NLP), which is dealing with the issue of the information overload in the digital age. This paper we presents a detailed comparative analysis of three paradigms of major trends in automatic text summarization: statistical extractive models, transformer-based abstractive models, and API-powered large language models (LLMs). The approach entails using nine representative models (TF-IDF, TextRank, LexRank, BART, T5, PEGASUS, Gemini Flash, LLaMA-3-8B and Mistral-7B) on three benchmark datasets CNN/DailyMail, XSum and PubMed. The same preprocessing and evaluation conditions are offered in order to offer fair cross-paradigm comparison on ROUGE-1, ROUGE-2, ROUGE-L, and BERTScore. Findings indicate that statistical summarization tools like LexRank are still very relevant to fact-sensitive biomedical summarization with a ROUGE-1 retrieval score of over 0.43 on PubMed. Abstractive ability is higher in transformer models, and PEGASUS scored 0.91 on XSum. LLM-based APIs can have high semantic quality - Gemini Flash has ROUGE-L between 0.38 and 0.42 - and have low local computation requirements. These results show that the effectiveness of summarizing is extremely domain-specific: statistical extractive algorithms are superior in precision-based tasks, transformers in abstraction-based tasks, and LLM API in resource-based, but fluency-oriented, environments."
+  },
+  {
+   "paperId": "84360cc4c424ccf2bba0ec8ccb65d94bb95a63ac",
+   "externalIds": {
+    "DBLP": "journals/information/AlcantaraKRH23",
+    "DOI": "10.3390/info14060303",
+    "CorpusId": 258922685
+   },
+   "url": "https://www.semanticscholar.org/paper/84360cc4c424ccf2bba0ec8ccb65d94bb95a63ac",
+   "title": "Multilingual Text Summarization for German Texts Using Transformer Models",
+   "venue": "Inf.",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2078-2489/14/6/303/pdf?version=1684999519",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/info14060303?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/info14060303, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-05-25",
+   "authors": [
+    {
+     "authorId": "2219122940",
+     "name": "Tomas Humberto Montiel Alcantara"
+    },
+    {
+     "authorId": "2511280573",
+     "name": "David Krütli"
+    },
+    {
+     "authorId": "2219178647",
+     "name": "Revathi Ravada"
+    },
+    {
+     "authorId": "1797464",
+     "name": "T. Hanne"
+    }
+   ],
+   "abstract": "The tremendous increase in documents available on the Web has turned finding the relevant pieces of information into a challenging, tedious, and time-consuming activity. Text summarization is an important natural language processing (NLP) task used to reduce the reading requirements of text. Automatic text summarization is an NLP task that consists of creating a shorter version of a text document which is coherent and maintains the most relevant information of the original text. In recent years, automatic text summarization has received significant attention, as it can be applied to a wide range of applications such as the extraction of highlights from scientific papers or the generation of summaries of news articles. In this research project, we are focused mainly on abstractive text summarization that extracts the most important contents from a text in a rephrased form. The main purpose of this project is to summarize texts in German. Unfortunately, most pretrained models are only available for English. We therefore focused on the German BERT multilingual model and the BART monolingual model for English, with a consideration of translation possibilities. As the source of the experiment setup, took the German Wikipedia article dataset and compared how well the multilingual model performed for German text summarization when compared to using machine-translated text summaries from monolingual English language models. We used the ROUGE-1 metric to analyze the quality of the text summarization."
+  },
+  {
+   "paperId": "dd52ce05f539cd389b994daf56f6cf9075d87045",
+   "externalIds": {
+    "DBLP": "conf/seeda/PappaKS25",
+    "DOI": "10.1109/SEEDA-CECNSM68644.2025.11329594",
+    "CorpusId": 284891823
+   },
+   "url": "https://www.semanticscholar.org/paper/dd52ce05f539cd389b994daf56f6cf9075d87045",
+   "title": "A Review of Automatic Text Summarization: The Case of Greek Legal Documents",
+   "venue": "SouthEast European Design Automation, Computer Engineering, Computer Networks and Social Media Conference",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SEEDA-CECNSM68644.2025.11329594?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SEEDA-CECNSM68644.2025.11329594, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2025-09-19",
+   "authors": [
+    {
+     "authorId": "2094933058",
+     "name": "Lamprini Pappa"
+    },
+    {
+     "authorId": "2189464891",
+     "name": "Petros S. Karvelis"
+    },
+    {
+     "authorId": "9256337",
+     "name": "C. Stylios"
+    }
+   ],
+   "abstract": "Automatic Text Summarization (ATS) of Greek legal documents is a challenging task that combines the complexities of legal language with the linguistic intricacies of Greek. This paper presents a structured review of ATS methods applied to this domain. We compare extractive, abstractive, and hybrid techniques, highlighting their strengths and limitations. Emphasis is placed on the structural and morphological challenges of Greek legal texts. We also catalog and compare all publicly available datasets relevant to the task and examine existing summarization approaches, including graph-based algorithms and transformer-based models. The paper consolidates current efforts, identifies key limitations, and outlines directions for future research in legal NLP for lowresource languages."
+  },
+  {
+   "paperId": "589a75df33ba161c961317dc1e2d1ab25fce63ce",
+   "externalIds": {
+    "DOI": "10.1051/itmconf/20257302008",
+    "CorpusId": 276425259
+   },
+   "url": "https://www.semanticscholar.org/paper/589a75df33ba161c961317dc1e2d1ab25fce63ce",
+   "title": "From Extractive to Generative: An Analysis of Automatic Text Summarization Techniques",
+   "venue": "ITM Web of Conferences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1051/itmconf/20257302008",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/itmconf/20257302008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/itmconf/20257302008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2363063451",
+     "name": "Zixun Liu"
+    }
+   ],
+   "abstract": "With the explosive growth of digital content, the demand for effective information retrieval and summarization has become increasingly important. This paper provides a comprehensive review of automated text summarization techniques, focusing on the challenge of condensing large volumes of text into concise summaries. The article explores the evolution of automatic summarization methods, from early extractive techniques to modern generative approaches based on deep learning. The review highlights significant milestones in the development of summarization algorithms, including the emergence of Transformer-based models like Bidirectional Encoder Representations from Transformers (BERT) and Generative Pre-trained Transformer (GPT), which have significantly improved the quality and coherence of generated summaries. Additionally, the paper examines the diverse applications of summarization technologies across fields such as healthcare, discussing the challenges and solutions presented in the literature. By shedding light on the current advancements and ongoing challenges, this review underscores the crucial role of automated text summarization in enhancing information accessibility, with promising implications for future research and practical applications."
+  },
+  {
+   "paperId": "b53c1f975dd5b688414e5b6cb293b854b5662aa3",
+   "externalIds": {
+    "DBLP": "journals/dai/SadiqueA25",
+    "DOI": "10.1007/s44163-025-00230-y",
+    "CorpusId": 275915853
+   },
+   "url": "https://www.semanticscholar.org/paper/b53c1f975dd5b688414e5b6cb293b854b5662aa3",
+   "title": "Automatic summarization of cooking videos using transfer learning and transformer-based models",
+   "venue": "Discover Artificial Intelligence",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s44163-025-00230-y.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44163-025-00230-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44163-025-00230-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-25",
+   "authors": [
+    {
+     "authorId": null,
+     "name": "P. M. Alen Sadique"
+    },
+    {
+     "authorId": "104889379",
+     "name": "R. Aswiga"
+    }
+   ],
+   "abstract": "The proliferation of cooking videos on the internet these days necessitates the conversion of these lengthy video contents into concise text recipes. Many online platforms now have a large number of cooking videos, in which, there is a challenge for viewers to extract comprehensive recipes from lengthy visual content. Effective summary is necessary in order to translate the abundance of culinary knowledge found in videos into text recipes that are easy to read and follow. This will make the cooking process easier for individuals who are searching for precise step by step cooking instructions. Such a system satisfies the needs of a broad spectrum of learners while also improving accessibility and user simplicity. As there is a growing need for easy-to-follow recipes made from cooking videos, researchers are looking on the process of automated summarization using advanced techniques. One such approach is presented in our work, which combines simple image-based models, audio processing, and GPT-based models to create a system that makes it easier to turn long culinary videos into in-depth recipe texts. A systematic workflow is adopted in order to achieve the objective. Initially, Focus is given for frame summary generation which employs a combination of two convolutional neural networks and a GPT-based model. A pre-trained CNN model called Inception-V3 is fine-tuned with food image dataset for dish recognition and another custom-made CNN is built with ingredient images for ingredient recognition. Then a GPT based model is used to combine the results produced by the two CNN models which will give us the frame summary in the desired format. Subsequently, Audio summary generation is tackled by performing Speech-to-text functionality in python. A GPT-based model is then used to generate a summary of the resulting textual representation of audio in our desired format. Finally, to refine the summaries obtained from visual and auditory content, Another GPT-based model is used which combines the output of the frame summary and audio summary modules and give the final enhanced summary. By minimizing the complications involved with traditional and sophisticated methodologies, this research helps with the development of a straightforward but efficient cooking video summarization system. The results achieved in the work are on par with the existing work in the respective field which demonstrates comparable performance and efficacy in converting cooking videos into detailed recipe texts."
+  },
+  {
+   "paperId": "b0baa80f753e599faadab15508f0fd261b43a974",
+   "externalIds": {
+    "DOI": "10.1109/AICCIT57614.2023.10218006",
+    "CorpusId": 261107405
+   },
+   "url": "https://www.semanticscholar.org/paper/b0baa80f753e599faadab15508f0fd261b43a974",
+   "title": "Automatic Text Summarization Based on Pre-trained Models",
+   "venue": "2023 Al-Sadiq International Conference on Communication and Information Technology (AICCIT)",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/AICCIT57614.2023.10218006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/AICCIT57614.2023.10218006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2023-07-04",
+   "authors": [
+    {
+     "authorId": "2219172188",
+     "name": "Alaa Ahmed AL-Banna"
+    },
+    {
+     "authorId": "1403734769",
+     "name": "Abeer K. Al-Mashhadany"
+    }
+   ],
+   "abstract": "Due to the current technological eras, increased accessibility of textual information. Numerous people search and read vast amounts of information to ascertain what is necessary, comprehensive, and pertinent to their goals. Most published documents entice readers to read the rest but frequently omit the most important details. As a result, recent years have seen several attempts to automate this process. Despite advances in deep learning and machine learning, the need for many training samples has made achieving good results on low-resource datasets difficult. Additionally, transfer learning cannot be used in conventional training methods and used the pre-trained models to address a related problem rather than creating a new model from scratch to address the same problem and improve the dataset. Promising results were obtained by assessing the text summaries created by adjusting the dataset using already-trained models based on the transformer architecture with reduced training time. Natural language processing has significantly benefited from transfer learning, where a model is initially pre-trained on a data-rich job before being fine-tuned on a downstream task (NLP). Because of its usefulness, transfer learning generated various methods, strategies, and techniques."
+  },
+  {
+   "paperId": "1826beb511c6cd307251f05525ddea0c08f902af",
+   "externalIds": {
+    "DOI": "10.63070/jesc.2026.033",
+    "CorpusId": 291055422
+   },
+   "url": "https://www.semanticscholar.org/paper/1826beb511c6cd307251f05525ddea0c08f902af",
+   "title": "Assessing Transformer Models for Abstractive Summarization of Scientific Articles",
+   "venue": "Islamic University Journal of Applied Sciences",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63070/jesc.2026.033?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63070/jesc.2026.033, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "143902393",
+     "name": "Emad Nabil"
+    }
+   ],
+   "abstract": "The rapid growth of academic literature has intensified the need for effective automatic text summarization techniques capable of producing concise and informative representations of scientific documents. While extractive methods are widely used, they are limited in their ability to generate coherent and semantically rich summaries. Recent advances in Transformer-based architectures have enabled significant progress in abstractive summarization; however, their effectiveness on domain-specific datasets, such as scientific articles, remains an open challenge. In this study, we investigate the performance of three pre-trained Transformer-based models—T5, BART, and GPT-2—on the task of abstractive summarization using the CL-SciSumm 2019 dataset. A total of 19 experimental configurations are conducted to analyze the impact of generation parameters, including beam size, length penalties, and n-gram constraints, on summarization quality. The models are evaluated using ROUGE metrics, with a focus on ROUGE-2.To complement content-based evaluation, this work incorporates linguistic acceptability assessment using the Corpus of Linguistic Acceptability (CoLA), a benchmark dataset for evaluating grammatical correctness. The results show that BART achieves the best performance with an ROUGE-2 F1-score of 0.40664, while T5 demonstrates superior grammatical acceptability, achieving 93.36%, but BART achieves a very near performance to T5. Ultimately, these findings demonstrate the potential of pre-trained neural networks, particularly the BART architecture, to drive the future of complex, generative NLP applications, transforming how academic research is processed and understood."
+  },
+  {
+   "paperId": "bed7a71e6efeb3737ddb46a6f66c405633aa3e55",
+   "externalIds": {
+    "DOI": "10.32629/jai.v7i5.1331",
+    "CorpusId": 268599416
+   },
+   "url": "https://www.semanticscholar.org/paper/bed7a71e6efeb3737ddb46a6f66c405633aa3e55",
+   "title": "Automatic text summarization of scientific articles using transformers—A brief review",
+   "venue": "Journal of Autonomous Intelligence",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.32629/jai.v7i5.1331",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32629/jai.v7i5.1331?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32629/jai.v7i5.1331, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-03-13",
+   "authors": [
+    {
+     "authorId": "2292584324",
+     "name": "Seema Aswani"
+    },
+    {
+     "authorId": "2163890424",
+     "name": "Kabita Choudhary"
+    },
+    {
+     "authorId": "2292457806",
+     "name": "Sujala D. Shetty"
+    },
+    {
+     "authorId": "40377340",
+     "name": "Nasheen Nur"
+    }
+   ],
+   "abstract": "Learning how to read research papers is a skill. The researcher must go through many published articles during the research. It is a challenging and tedious task to go through numerous published articles. The research process would sped up by automatic summarization of scientific publications, which would aid researchers in their investigation. However automatic text summarization of scientific research articles is difficult due to its distinct structure. Various text summarization approaches have been proposed for research article summarization in the past. After the invention of transformer architecture, it has created a big shift in Natural Language Processing. The models based on transformers are able to achieve state-of-the-art results in text summarization. This paper provides a brief review of transformer-based approaches used for text summarization of scientific research articles along with the available corpus and evaluation methods that can be used to assess the model generated summary. The paper also discusses the future direction and limitations in this field."
+  },
+  {
+   "paperId": "ecf3d2ef42d806f9b77fb43650b270e30af48fb4",
+   "externalIds": {
+    "DOI": "10.3390/app122311944",
+    "CorpusId": 253858971
+   },
+   "url": "https://www.semanticscholar.org/paper/ecf3d2ef42d806f9b77fb43650b270e30af48fb4",
+   "title": "Deep Transformer Language Models for Arabic Text Summarization: A Comparison Study",
+   "venue": "Applied Sciences",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-3417/12/23/11944/pdf?version=1669198422",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app122311944?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app122311944, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-11-23",
+   "authors": [
+    {
+     "authorId": "48681828",
+     "name": "H. Chouikhi"
+    },
+    {
+     "authorId": "2377624526",
+     "name": "Mohammed Alsuhaibani"
+    }
+   ],
+   "abstract": "Large text documents are sometimes challenging to understand and time-consuming to extract vital information from. These issues are addressed by automatic text summarizing techniques, which condense lengthy texts while preserving their key information. Thus, the development of automatic summarization systems capable of fulfilling the ever-increasing demands of textual data becomes of utmost importance. It is even more vital with complex natural languages. This study explores five State-Of-The-Art (SOTA) Arabic deep Transformer-based Language Models (TLMs) in the task of text summarization by adapting various text summarization datasets dedicated to Arabic. A comparison against deep learning and machine learning-based baseline models has also been conducted. Experimental results reveal the superiority of TLMs, specifically the PEAGASUS family, against the baseline approaches, with an average F1-score of 90% on several benchmark datasets."
+  },
+  {
+   "paperId": "53fe352902ca2306fd255a1cfe4b3feb825f7909",
+   "externalIds": {
+    "DOI": "10.15587/2706-5448.2024.309472",
+    "CorpusId": 272436816
+   },
+   "url": "https://www.semanticscholar.org/paper/53fe352902ca2306fd255a1cfe4b3feb825f7909",
+   "title": "An overview of current issues in automatic text summarization of natural language using artificial intelligence methods",
+   "venue": "Technology audit and production reserves",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.15587/2706-5448.2024.309472",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15587/2706-5448.2024.309472?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15587/2706-5448.2024.309472, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-07-31",
+   "authors": [
+    {
+     "authorId": "2319985292",
+     "name": "Oleksii Kuznietsov"
+    },
+    {
+     "authorId": "9095311",
+     "name": "G. Kyselov"
+    }
+   ],
+   "abstract": "The object of the research is the task of automatic abstracting of natural language texts. The importance of these tasks is determined by the existing problem of creating essays that would adequately reflect the content of the original text and highlight key information. This task requires the ability of models to deeply analyze the context of the text, which complicates the abstracting process.\nResults are presented that demonstrate the effectiveness of using generative models based on neural networks, text semantic analysis methods, and deep learning for automatic creation of abstracts. The use of models showed a high level of adequacy and informativeness of abstracts. GPT (Generative Pre-trained Transformer) generates text that looks like it was written by a human, which makes it useful for automatic essay generation.\nFor example, the GPT model generates abbreviated summaries based on input text, while the BERT model is used for summarizing texts in many areas, including search engines and natural language processing. This allows for short but informative abstracts that retain the essential content of the original and provides the ability to produce high-quality abstracts that can be used for abstracting web pages, emails, social media, and other content. Compared to traditional abstracting methods, artificial intelligence provides such advantages as greater accuracy, informativeness and the ability to process large volumes of text more efficiently, which facilitates access to information and improves productivity in text processing.\nAutomatic abstracting of texts using artificial intelligence models allows to significantly reduce the time required for the analysis of large volumes of textual information. This is especially important in today's information environment, where the amount of available data is constantly growing. The use of these models promotes efficient use of resources and increases overall productivity in a variety of fields, including scientific research, education, business and media."
+  },
+  {
+   "paperId": "ab402d35b0595fb03b9ffb7c8ece256b970c3dd5",
+   "externalIds": {
+    "DOI": "10.36871/2618-9976.2025.12-2.008",
+    "CorpusId": 284477591
+   },
+   "url": "https://www.semanticscholar.org/paper/ab402d35b0595fb03b9ffb7c8ece256b970c3dd5",
+   "title": "COMPARATIVE ANALYSIS OF LANGUAGE MODELS (BERT, GPT, AND THEIR COUNTERPARTS) FOR THE TASK OF AUTOMATIC SCIENTIFIC TEXT SUMMARIZATION",
+   "venue": "SOFT MEASUREMENTS AND COMPUTING",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36871/2618-9976.2025.12-2.008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36871/2618-9976.2025.12-2.008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2339792940",
+     "name": "Aset A. Daudova"
+    },
+    {
+     "authorId": "2402628147",
+     "name": "Ramina Aslambekovna Musayeva"
+    }
+   ],
+   "abstract": "Automatic summarization of scientific texts is one of the most challenging tasks in natural language processing, requiring the simultaneous extraction of key information and the generation of coherent, logically connected, and stylistically correct text. The choice of language model architecture is crucial for the quality of the resulting summary. This article provides a comparative analysis of modern language models based on the transformer architecture, including BERT, GPT, and their most common counterparts, in terms of their ability to adequately represent the semantic structure of scientific text, eliminate information redundancy, and generate summaries that meet the requirements of scientific discourse."
+  },
+  {
+   "paperId": "5d34eca912a6a54600c6a3d481f80bcdf2fc0274",
+   "externalIds": {
+    "DBLP": "conf/icmla/FalakiG22",
+    "DOI": "10.1109/ICMLA55696.2022.00030",
+    "CorpusId": 257719758
+   },
+   "url": "https://www.semanticscholar.org/paper/5d34eca912a6a54600c6a3d481f80bcdf2fc0274",
+   "title": "A Robust Approach to Fine-tune Pre-trained Transformer-based models for Text Summarization through Latent Space Compression",
+   "venue": "International Conference on Machine Learning and Applications",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICMLA55696.2022.00030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICMLA55696.2022.00030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2022-12-01",
+   "authors": [
+    {
+     "authorId": "1453598239",
+     "name": "A. A. Falaki"
+    },
+    {
+     "authorId": "35031080",
+     "name": "R. Gras"
+    }
+   ],
+   "abstract": "We proposed a technique to reduce the decoder’s number of parameters in a sequence-to-sequence (seq2seq) architecture for automatic text summarization. This approach uses a pre-trained Autoencoder (AE) trained on top of an encoder’s output to reduce its embedding dimension, which significantly reduces the summarizer model’s decoder size. Two experiments were performed to validate the idea: a custom seq2seq architecture with various pre-trained encoders and incorporating the approach in an encoder-decoder model (BART) for text summarization. Both studies showed promising results in terms of ROUGE score. However, the impressive outcome is the 54% decrease in the inference time and a 57% drop in GPU memory usage while fine-tuning with minimal quality loss (4.5% R1 score). It significantly reduces the hardware requirement to fine-tune large-scale pre-trained models. It is also shown that our approach can be combined with other network size reduction techniques (e.g. Distillation) to further reduce any encoder-decoder model parameters count. The implementation and checkpoints are available on GitHub.1"
+  }
+ ]
+}

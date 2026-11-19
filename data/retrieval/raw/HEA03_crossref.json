@@ -1,0 +1,1195 @@
+{
+ "query": "Childhood vaccination coverage and vaccine hesitancy",
+ "retrieved_at": "2026-11-18T18:08:18.945514+00:00",
+ "data": [
+  {
+   "DOI": "10.1016/j.vaccine.2024.126422",
+   "title": [
+    "Association between parental vaccine hesitancy and geographical coverage for childhood vaccination: A cross-sectional study"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2024.126422",
+   "author": [
+    {
+     "given": "Sukriti",
+     "family": "Gera",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Monsurul",
+     "family": "Hoq",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Margie",
+     "family": "Danchin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jane",
+     "family": "Tuckerman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7551/mitpress/15307.003.0010",
+   "title": [
+    "Beyond Childhood Vaccination"
+   ],
+   "container-title": [
+    "Inducing Immunity?"
+   ],
+   "publisher": "The MIT Press",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3,
+      26
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.7551/mitpress/15307.003.0010"
+  },
+  {
+   "DOI": "10.1016/j.vaccine.2017.08.016",
+   "title": [
+    "Reasons for non-vaccination: Parental vaccine hesitancy and the childhood influenza vaccination school pilot programme in England"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2017.08.016",
+   "author": [
+    {
+     "given": "Pauline",
+     "family": "Paterson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tracey",
+     "family": "Chantler",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Heidi J.",
+     "family": "Larson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7551/mitpress/15307.003.0008",
+   "title": [
+    "Mandatory Childhood Vaccination and Legal Exemptions"
+   ],
+   "container-title": [
+    "Inducing Immunity?"
+   ],
+   "publisher": "The MIT Press",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3,
+      26
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.7551/mitpress/15307.003.0008"
+  },
+  {
+   "DOI": "10.7551/mitpress/15307.003.0009",
+   "title": [
+    "A Framework for a Proportionate Childhood Vaccination Policy"
+   ],
+   "container-title": [
+    "Inducing Immunity?"
+   ],
+   "publisher": "The MIT Press",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3,
+      26
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.7551/mitpress/15307.003.0009"
+  },
+  {
+   "DOI": "10.1016/j.vaccine.2018.12.062",
+   "title": [
+    "Parent perspectives on childhood vaccination: How to deal with vaccine hesitancy and refusal?"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2018.12.062",
+   "author": [
+    {
+     "given": "Aida",
+     "family": "Bianco",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Valentina",
+     "family": "Mascaro",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rossella",
+     "family": "Zucco",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3879-1322",
+     "authenticated-orcid": false,
+     "given": "Maria",
+     "family": "Pavia",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "openRxiv",
+   "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Society, culture, and individual motivations affect human decisions regarding their health behaviors and preventative care, and health-related perceptions and behaviors can change at the population level as cultures evolve. An increase in vaccine hesitancy, an individual mindset informed within a cultural context, has resulted in a decrease in vaccination coverage and an increase in vaccine-preventable disease (VPD) outbreaks, particularly in developed countries where vaccination rates are generally high. Understanding local vaccination cultures, which evolve through an interaction between beliefs and behaviors and are influenced by the broader cultural landscape, is critical to fostering public health. Vaccine mandates and vaccine inaccessibility are two external factors that interact with individual beliefs to affect vaccine-related behaviors. To better understand the population dynamics of vaccine hesitancy, it is important to study how these external factors could shape a population’s vaccination decisions and affect the broader health culture. Using a mathematical model of cultural evolution, we explore the effects of vaccine mandates, vaccine inaccessibility, and varying cultural selection trajectories on a population’s level of vaccine hesitancy and vaccination behavior. We show that vaccine mandates can lead to a phenomenon in which high vaccine hesitancy co-occurs with high vaccination coverage, and that high vaccine confidence can be maintained even in areas where access to vaccines is limited.</jats:p>",
+   "DOI": "10.1101/2022.09.20.22280174",
+   "type": "posted-content",
+   "title": [
+    "Internal and external factors affecting vaccination coverage: modeling the interactions between vaccine hesitancy, accessibility, and mandates"
+   ],
+   "author": [
+    {
+     "given": "Kerri-Ann",
+     "family": "Anderson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nicole",
+     "family": "Creanza",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      21
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1101/2022.09.20.22280174"
+  },
+  {
+   "DOI": "10.20935/al1282",
+   "title": [
+    "ANALYSING DRIVERS OF VACCINE HESITANCY TOWARD CHILDHOOD AND ADOLESCENT VACCINATION IN MALAWI:  A POLICY BRIEF"
+   ],
+   "container-title": [
+    "Academia Letters"
+   ],
+   "publisher": "Academia.edu",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      28
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.20935/al1282",
+   "author": [
+    {
+     "given": "Collins G.",
+     "family": "Adeyanju",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.vaccine.2022.07.051",
+   "title": [
+    "COVID-19 vaccine hesitancy cannot fully explain disparities in vaccination coverage across the contiguous United States"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2022.07.051",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0731-3080",
+     "authenticated-orcid": false,
+     "given": "Songhua",
+     "family": "Hu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chenfeng",
+     "family": "Xiong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Qingchen",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zitong",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yuan",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Vaccine hesitancy has risen in the United States, leading to declines in childhood immunization rates and increases in vaccine-preventable diseases. This paper examines whether direct-to-consumer (DTC) pharmaceutical advertising can mitigate vaccine hesitancy and increase uptake. Using commercial health insurance records and detailed advertising data, we analyze the impact of television advertising on the uptake of HPV vaccinations. We document a substantial level of advertising effectiveness in households with low vaccine hesitancy, and a more muted yet still positive impact among households with high vaccine hesitancy. These results point to the untapped potential of advertising as a policy tool to increase vaccine adoption. Ancillary analyses of ad content also show that mentions of side effects are associated with reduced ad effectiveness, though this negative impact is substantially larger among households with low levels of vaccine hesitancy compared to those with high vaccine hesitancy. This finding highlights the potential implications of policy requirements on households with different attitudes and the need to evaluate targeted messaging in the context of vaccine hesitancy.</jats:p>",
+   "DOI": "10.2139/ssrn.5877122",
+   "type": "posted-content",
+   "title": [
+    "The Role of For-Profit Advertising in Combating Childhood Vaccination Hesitancy: The Case of the HPV Vaccine"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0003-6798-4892",
+     "authenticated-orcid": true,
+     "given": "Aishwarya",
+     "family": "Joshi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2573-0715",
+     "authenticated-orcid": true,
+     "given": "A. Yesim",
+     "family": "Orhun",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.5877122"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n        <p>Background Acceptance of vaccines is an important predictor of vaccine uptake. This has public health implications as those who are not vaccinated are at a higher risk of infection from vaccine preventable diseases. We aimed to systematically review studies of parental attitudes and beliefs in childhood vaccination, with a focus on the methods used to measure hesitancy and refusal.Methods We identified and reviewed primary research studies using quantitative methods and investigating vaccine attitudes and beliefs published between January 2012 and May 2018. Studies were included if they involved a quantitative survey of the attitudes and beliefs of parents about vaccinations recommended for children. We undertook a narrative synthesis of the results with a focus on evaluating variation in the use of behavioural theories, validated survey instruments, and localisation and adaptation of questions to suit local context.Results A total of 116 studies met the inclusion criteria; 99 used a cross sectional study design, 5 used a case control study design, 4 used a pre-post study design and 8 used mixed methods study designs. Sample sizes of included studies ranged from 49 to 12,259. Thirty-six countries were represented in the included studies. The most commonly used tool was the Parent Attitudes about Childhood Vaccines (PACV) Survey. Questions eliciting vaccination attitudes and beliefs varied widely.Conclusions There was heterogeneity in the types of measures used in studies investigating attitudes and beliefs about vaccination in parents. Broader and more consistent use of validated survey instruments for measuring parental attitudes and beliefs about childhood vaccination would help to better understand localised differences in the reasons for vaccine hesitancy and refusal.</p>",
+   "DOI": "10.21203/rs.2.14640/v1",
+   "type": "posted-content",
+   "title": [
+    "A systematic review of parental vaccine hesitancy and refusal in childhood vaccination"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2806-4834",
+     "authenticated-orcid": false,
+     "given": "Amalie",
+     "family": "Dyda",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Australian Institute of Health Innovation"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Catherine",
+     "family": "King",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Centre for Immunisation Research and Surveillance of Vaccine Preventable Diseases"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Aditi",
+     "family": "Dey",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Centre for Immunisation Research and Surveillance of Vaccine Preventable Diseases"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Julie",
+     "family": "Leask",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "The University of Sydney Susan Wakil School of Nursing and Midwifery"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Adam",
+     "family": "Dunn",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Australian Institute of Health Innovation"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      9,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.2.14640/v1"
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Vaccine hesitancy is a prevalent and ongoing issue. However, due to the COVID-19 pandemic, additional attention has been brought to the topic of vaccine hesitancy. Vaccine hesitancy is a threat to the population’s health globally. This article aims to acquire insights from previous literature to determine what works to increase vaccine uptake and how we can apply this knowledge to increase COVID-19 vaccine uptake. Research has focused chiefly on childhood vaccination and the hesitancy of caregivers. After conducting an extensive literature review, we have created a conceptual model of indicators that influence vaccine uptake for health providers and caregivers, which can also be used for vaccine recipients. Overall, the reasons for vaccine hesitancy are complex; therefore, a multifaceted approach is needed to address it. Understanding the factors that affect vaccine hesitancy will aid in addressing hesitancy and, in turn, lead to an increase in vaccine uptake.</jats:p>",
+   "DOI": "10.3390/vaccines10010080",
+   "type": "journal-article",
+   "title": [
+    "What Determines Vaccine Hesitancy: Recommendations from Childhood Vaccine Hesitancy to Address COVID-19 Vaccine Hesitancy"
+   ],
+   "author": [
+    {
+     "given": "Farren",
+     "family": "Rodrigues",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Dornsife School of Public Health, Drexel University, Philadelphia, PA 19104, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Suzanne",
+     "family": "Block",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dornsife School of Public Health, Drexel University, Philadelphia, PA 19104, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Suruchi",
+     "family": "Sood",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dornsife School of Public Health, Drexel University, Philadelphia, PA 19104, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Vaccines"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/vaccines10010080"
+  },
+  {
+   "DOI": "10.1016/j.vaccine.2025.127154",
+   "title": [
+    "Associations between parental vaccine hesitancy, religion-based vaccine hesitancy, and childhood full vaccination in a cross-sectional study in Aceh, Indonesia, 2023"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2025.127154",
+   "author": [
+    {
+     "given": "Jacob",
+     "family": "Jacovetty",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abram L.",
+     "family": "Wagner",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ichsan",
+     "family": "Ichsan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Amanda",
+     "family": "Yufika",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tita",
+     "family": "Menawati",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rosaria",
+     "family": "Indah",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fitdha",
+     "family": "Kairadini",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Antonios M.",
+     "family": "Koumpias",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Harapan",
+     "family": "Harapan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.vaccine.2004.04.026",
+   "title": [
+    "Do changes in policy affect vaccine coverage levels? Results of a national study to evaluate childhood vaccination coverage and reasons for missed vaccination in Italy"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2004,
+      10
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2004.04.026",
+   "author": [
+    {
+     "given": "M.L.",
+     "family": "Ciofi degli Atti",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Maria Cristina",
+     "family": "Rota",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Antonino",
+     "family": "Bella",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Stefania",
+     "family": "Salmaso",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.vaccine.2009.08.014",
+   "title": [
+    "SIP 1: Increasing the overall epidemic vaccination coverage Epidemic vaccination coverage:"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      10
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2009.08.014"
+  },
+  {
+   "DOI": "10.3386/w29075",
+   "title": [
+    "Vaccine Hesitancy, Passports and the Demand for Vaccination"
+   ],
+   "publisher": "National Bureau of Economic Research",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.3386/w29075",
+   "author": [
+    {
+     "given": "Joshua",
+     "family": "Gans",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.vaccine.2023.04.082",
+   "title": [
+    "Influences of sociodemographic characteristics and parental HPV vaccination hesitancy on HPV vaccination coverage in five US states"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2023.04.082",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8749-4490",
+     "authenticated-orcid": false,
+     "given": "T.",
+     "family": "Shato",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0694-091X",
+     "authenticated-orcid": false,
+     "given": "S.",
+     "family": "Humble",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0430-9561",
+     "authenticated-orcid": false,
+     "given": "A.",
+     "family": "Anandarajah",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Barnette",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1066-2879",
+     "authenticated-orcid": false,
+     "given": "H.M.",
+     "family": "Brandt",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.",
+     "family": "Garbutt",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "L.",
+     "family": "Klesges",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "V.S",
+     "family": "Thompson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.I.",
+     "family": "Silver",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7759/cureus.14105",
+   "title": [
+    "Vaccine Hesitancy: Characteristics of the Refusal of Childhood Vaccination in a Peruvian Population"
+   ],
+   "container-title": [
+    "Cureus"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      3,
+      25
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.7759/cureus.14105",
+   "author": [
+    {
+     "given": "Kocfa",
+     "family": "Chung-Delgado",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Javier E",
+     "family": "Valdivia Venero",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tuong M",
+     "family": "Vu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/s0264-410x(04)00361-5",
+   "title": [
+    "Timeliness of MMR vaccination?influence on vaccination coverage"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2004,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/s0264-410x(04)00361-5",
+   "author": [
+    {
+     "given": "E",
+     "family": "DANNETUN",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.vaccine.2026.129317",
+   "title": [
+    "Changes in childhood vaccination coverage and sociodemographic determinants across Nigerian states, 2018–2024"
+   ],
+   "container-title": [
+    "Vaccine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2027,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.vaccine.2026.129317",
+   "author": [
+    {
+     "given": "Ryoko",
+     "family": "Sato",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Olufunmilayo",
+     "family": "Bello",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Olorunfemi A.",
+     "family": "Ogundele",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

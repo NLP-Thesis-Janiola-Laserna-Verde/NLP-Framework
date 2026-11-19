@@ -1,0 +1,777 @@
+{
+ "query": "Large language models for automated code generation in software engineering",
+ "retrieved_at": "2026-11-18T17:46:35.107521+00:00",
+ "data": [
+  {
+   "paperId": "4473e2aa346475dbc62250149f6327ef911e29bd",
+   "externalIds": {
+    "DOI": "10.63282/3050-922x.ijeret-v1i3p101",
+    "CorpusId": 279706338
+   },
+   "url": "https://www.semanticscholar.org/paper/4473e2aa346475dbc62250149f6327ef911e29bd",
+   "title": "An Efficient Transformer-Based Model for Automated Code Generation: Leveraging Large Language Models for Software Engineering",
+   "venue": "International Journal of Emerging Research in Engineering and Technology",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://ijeret.org/index.php/ijeret/article/download/21/22",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63282/3050-922x.ijeret-v1i3p101?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63282/3050-922x.ijeret-v1i3p101, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2543659149",
+     "name": "Leema Rose"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "5cd76cb41d530fb1c7f546a2e29721aa8f8e81ec",
+   "externalIds": {
+    "DOI": "10.63090/ijitrs/3139.3209.0022",
+    "CorpusId": 288969743
+   },
+   "url": "https://www.semanticscholar.org/paper/5cd76cb41d530fb1c7f546a2e29721aa8f8e81ec",
+   "title": "Large Language Models for Automated Software Test Generation",
+   "venue": "International Journal of Information Technology Research Studies (IJITRS)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.63090/ijitrs/3139.3209.0022",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63090/ijitrs/3139.3209.0022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63090/ijitrs/3139.3209.0022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-04-30",
+   "authors": [
+    {
+     "authorId": "2372348814",
+     "name": "Juby George"
+    }
+   ],
+   "abstract": "Automated test generation is critical for ensuring software quality, yet existing tools such as EvoSuite and Randoop often produce tests with limited readability, low semantic coverage, and weak fault-detection capability. Large Language Models (LLMs) offer a transformative approach by leveraging natural language understanding and code generation capabilities to produce human-like test cases. This paper proposes LLM-Test, a framework that integrates LLMs with coverage-guided feedback loops and prompt engineering strategies for automated unit test generation. The framework incorporates a context-aware prompt construction module that extracts method signatures, docstrings, and dependent class hierarchies to formulate targeted prompts. A mutation-guided feedback loop iteratively refines generated tests by feeding coverage gaps and surviving mutants back to the LLM for targeted test augmentation. Evaluation on four open-source Java projects demonstrates that LLM-Test achieves 81.5% average branch coverage, surpassing EvoSuite (66.9%) and Randoop (53.7%), while detecting 65 unique bugs compared to 25 for zero-shot prompting. The generated tests exhibit significantly higher readability and maintainability scores, addressing a longstanding limitation of automated test generation tools."
+  },
+  {
+   "paperId": "397c49d9831e116a3088a54e5c9aab675a48e4fb",
+   "externalIds": {
+    "DBLP": "journals/jss/WalczakTL26",
+    "ArXiv": "2507.14256",
+    "DOI": "10.48550/arXiv.2507.14256",
+    "CorpusId": 280256801
+   },
+   "url": "https://www.semanticscholar.org/paper/397c49d9831e116a3088a54e5c9aab675a48e4fb",
+   "title": "Impact of Code Context and Prompting Strategies on Automated Unit Test Generation with Modern General-Purpose Large Language Models",
+   "venue": "Journal of Systems and Software",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2507.14256, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-18",
+   "authors": [
+    {
+     "authorId": "1753632542",
+     "name": "Jakub Walczak"
+    },
+    {
+     "authorId": "2373336821",
+     "name": "Piotr Tomalak"
+    },
+    {
+     "authorId": "31211046",
+     "name": "Artur Laskowski"
+    }
+   ],
+   "abstract": "Generative AI is gaining increasing attention in software engineering, where testing remains an indispensable reliability mechanism. According to the widely adopted testing pyramid, unit tests constitute the majority of test cases and are often schematic, requiring minimal domain expertise. Automatically generating such tests under the supervision of software engineers can significantly enhance productivity during the development phase of the software lifecycle. This paper investigates the impact of code context and prompting strategies on the quality and adequacy of unit tests generated by various large language models (LLMs) across several families. The results show that including docstrings notably improves code adequacy, while further extending context to the full implementation yields definitely smaller gains. Notably, the chain-of-thought prompting strategy -- applied even to'reasoning'models -- achieves the best results, with up to 96.3\\% branch coverage, a 57\\% average mutation score, and near-perfect compilation success rate. Among the evaluated models, M5 (Gemini 2.5 Pro) demonstrated superior performance in both mutation score and branch coverage being still in top in terms of compilation success rate. All the code and resulting test suites are publicly available at https://github.com/peetery/LLM-analysis."
+  },
+  {
+   "paperId": "76ed0b3d77cf008456e8e81481b2650af47d14ac",
+   "externalIds": {
+    "DOI": "10.55041/ijsrem44215",
+    "CorpusId": 277706830
+   },
+   "url": "https://www.semanticscholar.org/paper/76ed0b3d77cf008456e8e81481b2650af47d14ac",
+   "title": "Generative AI for Code Synthesis: A Comparative Study of Large Language Models in Software Engineering",
+   "venue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ijsrem.com/download/generative-ai-for-code-synthesis-a-comparative-study-of-large-language-models-in-software-engineering/?wpdmdl=47545&refresh=67f8c15988fc21744355673",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55041/ijsrem44215?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55041/ijsrem44215, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-10",
+   "authors": [
+    {
+     "authorId": "143654783",
+     "name": "P. Bhatt"
+    },
+    {
+     "authorId": "2580405997",
+     "name": "Piyush Kashiyani"
+    }
+   ],
+   "abstract": "This paper presents a comprehensive analysis of large language models (LLMs) in automated code generation, comparing architectural approaches, security implications, and practical efficacy. Through systematic evaluation of GPT-4, GLM-4, CodeGen, and Polycoder models, we identify key performance metrics in code quality, vulnerability rates, and development efficiency. Our findings reveal a 30-100x efficiency gain in AI-assisted programming compared to traditional methods, with GPT-4 achieving 42% vulnerability-free code versus CodeGen's 39% in Python implementations. The study highlights the critical need for robust validation frameworks when deploying LLMs in software engineering workflows.\n\n \n\nKeywords: Analysis, Investigation, Research, Code Generation, Vulnerability Detection, Development Efficiency"
+  },
+  {
+   "paperId": "605a8b0d425a7cf6a0e97eafa681e656081d958e",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2504-07137",
+    "ArXiv": "2504.07137",
+    "DOI": "10.48550/arXiv.2504.07137",
+    "CorpusId": 277667158
+   },
+   "url": "https://www.semanticscholar.org/paper/605a8b0d425a7cf6a0e97eafa681e656081d958e",
+   "title": "Large Language Model (LLM) for Software Security: Code Analysis, Malware Analysis, Reverse Engineering",
+   "venue": "arXiv.org",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2504.07137, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-04-07",
+   "authors": [
+    {
+     "authorId": "2351812647",
+     "name": "H. Jelodar"
+    },
+    {
+     "authorId": "2354559964",
+     "name": "Samita Bai"
+    },
+    {
+     "authorId": "2344830730",
+     "name": "Parisa Hamedi"
+    },
+    {
+     "authorId": "2154677498",
+     "name": "Hesamodin Mohammadian"
+    },
+    {
+     "authorId": "1403021821",
+     "name": "R. Razavi-Far"
+    },
+    {
+     "authorId": "2328010967",
+     "name": "Ali A. Ghorbani"
+    }
+   ],
+   "abstract": "Large Language Models (LLMs) have recently emerged as powerful tools in cybersecurity, offering advanced capabilities in malware detection, generation, and real-time monitoring. Numerous studies have explored their application in cybersecurity, demonstrating their effectiveness in identifying novel malware variants, analyzing malicious code structures, and enhancing automated threat analysis. Several transformer-based architectures and LLM-driven models have been proposed to improve malware analysis, leveraging semantic and structural insights to recognize malicious intent more accurately. This study presents a comprehensive review of LLM-based approaches in malware code analysis, summarizing recent advancements, trends, and methodologies. We examine notable scholarly works to map the research landscape, identify key challenges, and highlight emerging innovations in LLM-driven cybersecurity. Additionally, we emphasize the role of static analysis in malware detection, introduce notable datasets and specialized LLM models, and discuss essential datasets supporting automated malware research. This study serves as a valuable resource for researchers and cybersecurity professionals, offering insights into LLM-powered malware detection and defence strategies while outlining future directions for strengthening cybersecurity resilience."
+  },
+  {
+   "paperId": "96cc053cf275796e47e105ae9fa404985551c6e1",
+   "externalIds": {
+    "DOI": "10.65664/jeie.v2i02.22",
+    "CorpusId": 290140495
+   },
+   "url": "https://www.semanticscholar.org/paper/96cc053cf275796e47e105ae9fa404985551c6e1",
+   "title": "A Case Study on Using Customized Large Language Models for Requirement-to-Code Transformation in Software Engineering",
+   "venue": "Journal of Emerging Innovations in Engineering",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://jurnal.sutajaya.org/jeie/article/download/22/31",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.65664/jeie.v2i02.22?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.65664/jeie.v2i02.22, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-30",
+   "authors": [
+    {
+     "authorId": "2449687744",
+     "name": "Seemal Shahbaz"
+    }
+   ],
+   "abstract": "Large Language Models (LLMs) have shown great promise for assisting software engineering tasks that can be automated, like mapping natural language to code. This paper describes a practical case study using a domain specific LLM to convert software requirements into semi-formal designs, tests and code. We suggest a simple iterative refinement process for engineering prompts and progressively prompting with the intention of improving the accuracy of outputs, alignment to software requirements. We validate our approach with a case study based on real-world scenarios that show how LLMs can be leveraged for requirement extraction, Generation of Object-oriented Design (OOD) and implementation steps. These findings also give an understanding of the utility of LLM-assisted development in relation to affordances and constraints.\n "
+  },
+  {
+   "paperId": "71b5327e2cbd2a7bce1141a77704a797a2c2e26b",
+   "externalIds": {
+    "DOI": "10.1109/CONISOFT63288.2024.00013",
+    "CorpusId": 274824171
+   },
+   "url": "https://www.semanticscholar.org/paper/71b5327e2cbd2a7bce1141a77704a797a2c2e26b",
+   "title": "Transforming Software Development: A Study on the Integration of Multi-Agent Systems and Large Language Models for Automatic Code Generation",
+   "venue": "2024 12th International Conference in Software Engineering Research and Innovation (CONISOFT)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CONISOFT63288.2024.00013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CONISOFT63288.2024.00013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2024-10-28",
+   "authors": [
+    {
+     "authorId": "1411786489",
+     "name": "Rolando Ramírez-Rueda"
+    },
+    {
+     "authorId": "1403861566",
+     "name": "E. Benítez-Guerrero"
+    },
+    {
+     "authorId": "1405639047",
+     "name": "C. Mezura-Godoy"
+    },
+    {
+     "authorId": "144138367",
+     "name": "Everardo Bárcenas"
+    }
+   ],
+   "abstract": "This paper explores the integration of Multi-Agent Systems (MAS) and Large Language Models (LLMs) for auto-matic code generation, addressing the limitations of traditional manual coding. By conducting a comprehensive review of existing literature and analyzing a practical case study, we demonstrate how MAS and LLMs can collaboratively enhance software development processes. The research focuses on the technical and theoretical challenges of this integration, highlighting the potential for improved productivity, adaptability, and quality in code generation. The findings contribute to AI-based software engineering by revealing new research directions in collective intelligence and automated programming."
+  },
+  {
+   "paperId": "fd3dfb143553a46f914b7236f09e1bf5cb442d25",
+   "externalIds": {
+    "DBLP": "journals/tosem/YeHZXGWLZ26",
+    "DOI": "10.1145/3828167",
+    "CorpusId": 290225017
+   },
+   "url": "https://www.semanticscholar.org/paper/fd3dfb143553a46f914b7236f09e1bf5cb442d25",
+   "title": "Large Language Models for Quantum Software Engineering: Opportunities and Challenges in Modeling, Generation, Testing, and Repair",
+   "venue": "ACM Transactions on Software Engineering and Methodology",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1145/3828167",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3828167?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3828167, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-07-15",
+   "authors": [
+    {
+     "authorId": "147179436",
+     "name": "Jiaming Ye"
+    },
+    {
+     "authorId": "2315779072",
+     "name": "Qiang Hu"
+    },
+    {
+     "authorId": "2265717250",
+     "name": "Fu-Yuan Zhang"
+    },
+    {
+     "authorId": "2265667032",
+     "name": "Shang-Zhou Xia"
+    },
+    {
+     "authorId": "2281792627",
+     "name": "Xiao-Yu Guo"
+    },
+    {
+     "authorId": "2223182637",
+     "name": "Xiong-Fei Wu"
+    },
+    {
+     "authorId": "2066413681",
+     "name": "Yongqiang Lyu"
+    },
+    {
+     "authorId": "2283310283",
+     "name": "Jian-Jun Zhao"
+    }
+   ],
+   "abstract": "Large Language Models (LLMs) have already reshaped many aspects of traditional software engineering, from code generation and debugging to automated testing and maintenance. As an important research sub-domain in the software engineering area, quantum software engineering (QSE) is poised to undergo a similar transformation. As QSE moves toward broader adoption, including the generation of quantum code, program testing, and automated program repair, LLMs will likely play a key supporting role in its development. However, despite encouraging early attempts, the community still lacks a roadmap for using LLMs in QSE. Without such a roadmap, opportunities may be missed, challenges may remain unrevealed, and risks may be overlooked. In this article, we present our vision for how LLMs can advance QSE, focusing on four core tasks: program modeling and analysis, program generation, testing, and repair. We outline the opportunities and unique challenges, identify the risks inherent in this integration, and propose a research agenda to guide the community toward realizing the full potential of LLM-powered QSE."
+  },
+  {
+   "paperId": "34e662b47ee50dba16eb3621f2fbe402aaea8157",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2506-10330",
+    "ArXiv": "2506.10330",
+    "DOI": "10.1109/Forge66646.2025.00017",
+    "CorpusId": 279318962
+   },
+   "url": "https://www.semanticscholar.org/paper/34e662b47ee50dba16eb3621f2fbe402aaea8157",
+   "title": "Augmenting Large Language Models with Static Code Analysis for Automated Code Quality Improvements",
+   "venue": "2025 IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2506.10330",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2506.10330, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2025-04-27",
+   "authors": [
+    {
+     "authorId": "2366564300",
+     "name": "Seyed Moein Abtahi"
+    },
+    {
+     "authorId": "2452210",
+     "name": "Akramul Azim"
+    }
+   ],
+   "abstract": "This study examined code issue detection and revision automation by integrating Large Language Models (LLMs) such as OpenAI’s GPT-3.5 Turbo and GPT-4o into software development workflows. A static code analysis framework detects issues such as bugs, vulnerabilities, and code smells within a large-scale software project. Detailed information on each issue was extracted and organized to facilitate automated code revision using LLMs. An iterative prompt engineering process is applied to ensure that prompts are structured to produce accurate and organized outputs aligned with the project requirements. Retrieval-augmented generation (RAG) is implemented to enhance the relevance and precision of the revisions, enabling LLM to access and integrate real-time external knowledge. The issue of LLM hallucinations—where the model generates plausible but incorrect outputs—is addressed by a custom-built \"Code Comparison App,\" which identifies and corrects erroneous changes before applying them to the codebase. Subsequent scans using the static code analysis framework revealed a significant reduction in code issues, demonstrating the effectiveness of combining LLMs, static analysis, and RAG to improve code quality, streamline the software development process, and reduce time and resource expenditure."
+  },
+  {
+   "paperId": "59e0e0c1aa06d51430792eb5d8308911a1b0110f",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2310-10508",
+    "DOI": "10.48550/arXiv.2310.10508",
+    "CorpusId": 264145854
+   },
+   "url": "https://www.semanticscholar.org/paper/59e0e0c1aa06d51430792eb5d8308911a1b0110f",
+   "title": "Prompt Engineering or Fine Tuning: An Empirical Assessment of Large Language Models in Automated Software Engineering Tasks",
+   "venue": "arXiv.org",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.48550/arXiv.2310.10508?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48550/arXiv.2310.10508, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2111246288",
+     "name": "Jiho Shin"
+    },
+    {
+     "authorId": "2258775333",
+     "name": "Clark Tang"
+    },
+    {
+     "authorId": "2258712314",
+     "name": "Tahmineh Mohati"
+    },
+    {
+     "authorId": "9461040",
+     "name": "Maleknaz Nayebi"
+    },
+    {
+     "authorId": "2257362205",
+     "name": "Song Wang"
+    },
+    {
+     "authorId": "1857838",
+     "name": "H. Hemmati"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "f8382da5a40018700534382a8a223944b9c3c3d1",
+   "externalIds": {
+    "DOI": "10.22214/ijraset.2025.76399",
+    "CorpusId": 284124518
+   },
+   "url": "https://www.semanticscholar.org/paper/f8382da5a40018700534382a8a223944b9c3c3d1",
+   "title": "Benchmarking Security and Efficiency of Locally Hosted Large Language Models for Code Generation",
+   "venue": "International Journal for Research in Applied Science and Engineering Technology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.22214/ijraset.2025.76399",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22214/ijraset.2025.76399?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22214/ijraset.2025.76399, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-31",
+   "authors": [
+    {
+     "authorId": "2401449793",
+     "name": "R. Kumar"
+    }
+   ],
+   "abstract": "The rapid evolution of Large Language Models (LLMs) has revolutionized software development, with tools like\nGitHub Copilot and ChatGPT setting the standard for automated code generation. However, the reliance on cloud-based models\nraises significant concerns regarding data privacy, latency, and operational costs. Consequently, there is a growing shift towards\nlocally hosted open-weights models that can run on consumer-grade hardware (16-32GB RAM). Despite this trend, limited\nempirical research exists to quantify whether these smaller, resource-constrained models (7B-9B parameters) can match the\nsecurity and efficiency of human-written code or larger cloud counterparts. This research aims to conduct a comparative\nanalysis of the security and efficiency of five state-of-the-art local LLMs: Mistral 7B, LLaMA 3.1 8B, Gemma 2 9B, Qwen 2.5\n7B, and Phi-3 3.8B. Using a controlled experimental setup on medium-configuration hardware, the study evaluates Python code\ngeneration across a suite of algorithmic tasks. Security vulnerabilities were assessed using static analysis tools (Bandit), while\nefficiency metrics—including execution runtime (ms) and peak memory usage (KB)—were measured to determine the suitability\nof these models for edge deployment. The results demonstrate that Mistral 7B and Qwen 2.5 achieve superior performance,\ndelivering 100% functional correctness with zero security flaws and minimal resource consumption. By benchmarking these\nmodels, this research provides critical insights into the viability of privacy-preserving, local AI coding assistants, helping\ndevelopers select optimal models for secure and efficient offline software development."
+  },
+  {
+   "paperId": "8ac6498f988011508cfe8634a662c09bd3a33807",
+   "externalIds": {
+    "DOI": "10.63282/3050-9246.ijetcsit-v1i4p103",
+    "CorpusId": 279673507
+   },
+   "url": "https://www.semanticscholar.org/paper/8ac6498f988011508cfe8634a662c09bd3a33807",
+   "title": "AI-Augmented Software Engineering: Automated Code Generation and Optimization Using Large Language Models",
+   "venue": "International Journal of Emerging Trends in Computer Science and Information Technology",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://ijetcsit.org/index.php/ijetcsit/article/download/48/30",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63282/3050-9246.ijetcsit-v1i4p103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63282/3050-9246.ijetcsit-v1i4p103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "1736651",
+     "name": "S. Levine"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "b2a5c7d2349707e100fb6bb3ecbd07629b2f6e29",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2511-05165",
+    "ArXiv": "2511.05165",
+    "DOI": "10.1109/MODELS-C68889.2025.00080",
+    "CorpusId": 282890088
+   },
+   "url": "https://www.semanticscholar.org/paper/b2a5c7d2349707e100fb6bb3ecbd07629b2f6e29",
+   "title": "Generating Software Architecture Description from Source Code using Reverse Engineering and Large Language Model",
+   "venue": "2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2511.05165",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2511.05165, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2025-10-05",
+   "authors": [
+    {
+     "authorId": "2391519931",
+     "name": "Ahmad Hatahet"
+    },
+    {
+     "authorId": "2707430",
+     "name": "Christoph Knieke"
+    },
+    {
+     "authorId": "2265876272",
+     "name": "Andreas Rausch"
+    }
+   ],
+   "abstract": "Software Architecture Descriptions (SADs) are indispensable for navigating the complexity of modern software systems. They enable high-level reasoning, guide design decisions, and facilitate communication among diverse stakeholders. Yet in practice, SADs are frequently missing, outdated, or poorly aligned with the system’s actual implementation. As a result, developers are forced to derive architectural insights directly from source code—a time-intensive task that increases mental effort, slows onboarding, and contributes to the gradual degradation of architectural clarity over a system’s lifetime. To address these challenges, we propose an automated generation of SADs from source code by combining reverse engineering (RE) techniques with Large Language Model (LLM). Our approach recovers both static and behavioral views by extracting a comprehensive component diagram, filters architecturally significant elements—core components—via prompt-guided LLM analysis, and generates state machine diagrams to model component behavior based on code logic. This dual-view representation offers a scalable and maintainable alternative to manual architectural documentation. This approach, demonstrated with C++ examples, showcases the potent capability of LLMs to: 1) find abstract component diagram, lowering the reliance on human expert involvement, and 2) represent complex software behaviors, especially when enriched with domain-specific knowledge through few-shot prompting. These findings suggest a viable path toward reducing manual effort while enhancing system understanding and long-term maintainability."
+  },
+  {
+   "paperId": "86e57cc9d0d68aaa031eb63b1d281fae20603702",
+   "externalIds": {
+    "DOI": "10.5335/rbca.v17i3.16310",
+    "CorpusId": 284251183
+   },
+   "url": "https://www.semanticscholar.org/paper/86e57cc9d0d68aaa031eb63b1d281fae20603702",
+   "title": "A Systematic Review about Large Language Models (LLMs) applied to Code Generation",
+   "venue": "Revista Brasileira de Computação Aplicada",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ojs.upf.br/index.php/rbca/article/download/16310/114118552",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5335/rbca.v17i3.16310?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5335/rbca.v17i3.16310, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-07",
+   "authors": [
+    {
+     "authorId": "2534856202",
+     "name": "Fabio Alecsandro Bacin"
+    },
+    {
+     "authorId": "2532476822",
+     "name": "Braulio Adriano de Mello"
+    },
+    {
+     "authorId": "2533730263",
+     "name": "Giancarlo Dondoni Salton"
+    },
+    {
+     "authorId": "2487019834",
+     "name": "Samuel da Silva Feitosa"
+    }
+   ],
+   "abstract": "Large Language Models (LLMs) for code generation represent a significant advancement in software development by boosting productivity, simplifying repetitive tasks, enabling automated testing, and promoting best practices. This paper presents a systematic literature review (SLR) of studies focused on LLMs applied to code generation. The review enhances understanding of the capabilities and limitations of these models, outlining both their benefits and challenges. The review protocol included a search on the Google Scholar database using relevant keywords related to LLMs and code generation. A total of 112 articles were initially retrieved, from which 15 were selected based on relevance and quality criteria. Of these, 8 were analyzed in depth to evaluate various approaches and outcomes, while the remaining 7 provided the theoretical foundation for the study. This work contributes to the growing body of knowledge in the field and supports future research and applications of LLMs in software engineering."
+  },
+  {
+   "paperId": "2d41d032763a3251846783b3e2ad120dd33e8218",
+   "externalIds": {
+    "DOI": "10.56028/aetr.15.1.1795.2025",
+    "CorpusId": 283967516
+   },
+   "url": "https://www.semanticscholar.org/paper/2d41d032763a3251846783b3e2ad120dd33e8218",
+   "title": "Large Language Models in Software Engineering: Automation, Collaboration, and Challenges",
+   "venue": "Advances in Engineering Technology Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://madison-proceedings.com/index.php/aetr/article/download/4456/4475",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56028/aetr.15.1.1795.2025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56028/aetr.15.1.1795.2025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-11-20",
+   "authors": [
+    {
+     "authorId": "2346312879",
+     "name": "Chenghua Zhong"
+    }
+   ],
+   "abstract": "As artificial intelligence (AI) technology develops rapidly, large-scale pre-trained language models (LLMs) have become widely applied in software engineering. This has revolutionized software development and brought significant value to testing, debugging, operations, project management, and other areas. This article systematically reviews the latest research findings on LLMs empowered software engineering through literature analysis and comparative research. It also provides a detailed explanation of requirements analysis and modeling, automated code generation, intelligent debugging, and operations and maintenance, and discusses software quality assurance and team collaboration. The article also explores the challenges encountered in the practical application of LLMs, primarily security and privacy concerns, difficulties in understanding and controlling, and issues such as copyright ownership and legal liability. Besides, the article offers predictions for future trends. Neural-symbolic integration, human-computer collaboration, and the establishment of standards are key drivers of continued progress in software engineering in the era of LLMs. Despite its contributions, this study is limited by its reliance on existing literature and secondary data, highlighting the need for future longitudinal and quantitative research to assess the real-world impact of LLMs on software quality, security, and maintainability."
+  },
+  {
+   "paperId": "4e70b7fd07b6542913e965a042103a94e22ba0f2",
+   "externalIds": {
+    "DOI": "10.1109/ICIPCN67432.2026.11438429",
+    "CorpusId": 286778219
+   },
+   "url": "https://www.semanticscholar.org/paper/4e70b7fd07b6542913e965a042103a94e22ba0f2",
+   "title": "Reviewing the Tools Of Creation: Large Language models and AI Agents in Automated software Engineering and Debugging",
+   "venue": "2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIPCN67432.2026.11438429?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIPCN67432.2026.11438429, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2026-01-27",
+   "authors": [
+    {
+     "authorId": "2401875156",
+     "name": "Payal Lonare"
+    },
+    {
+     "authorId": "2401872735",
+     "name": "Om Chaudhari"
+    },
+    {
+     "authorId": "2386882688",
+     "name": "Diksha P. Nishane"
+    },
+    {
+     "authorId": "84741588",
+     "name": "Chetan G. Puri"
+    }
+   ],
+   "abstract": "The introduction of the Large Language Models (LLM) and AI agents is a radical change to the fast-developing world of software development and software engineering that focuses on automated engineering and debugging. This review bridges the gap between the world of tools and techniques of the state-of-art through considering the utility of the LLMs calling on GPT variants and Code BERT in code generation and code refactoring/translating and the AI agents, which apply reinforcement learning, such as Alpha Code, to coordinate and rectify errors. Important applications of automated testing, vulnerability detection, and human-AI collaboration are also mentioned, as well as the empirical data on the basis of such benchmarks as HumanEval and Leet Code. Lastly, this piece presents the position that the said tools, developed to speed up the process of development, can and will democratize software engineering, enable innovative developing, but stated that will most certainly need heavy checks of reliability and accountability."
+  },
+  {
+   "paperId": "10b7c5656f642cb5a3df236ab7a302433dc36198",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2512-20328",
+    "ArXiv": "2512.20328",
+    "DOI": "10.1145/3837084",
+    "CorpusId": 284132393
+   },
+   "url": "https://www.semanticscholar.org/paper/10b7c5656f642cb5a3df236ab7a302433dc36198",
+   "title": "Toward Explaining Large Language Models in Software Engineering Tasks",
+   "venue": "ACM Transactions on Software Engineering and Methodology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://arxiv.org/pdf/2512.20328",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2512.20328, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-23",
+   "authors": [
+    {
+     "authorId": "2265675204",
+     "name": "A. Vitale"
+    },
+    {
+     "authorId": "2345417413",
+     "name": "Khai-Nguyen Nguyen"
+    },
+    {
+     "authorId": "1697757",
+     "name": "D. Poshyvanyk"
+    },
+    {
+     "authorId": "143764471",
+     "name": "R. Oliveto"
+    },
+    {
+     "authorId": "3439470",
+     "name": "Simone Scalabrino"
+    },
+    {
+     "authorId": "2079107343",
+     "name": "A. Mastropaolo"
+    }
+   ],
+   "abstract": "Recent progress in Large Language Models (LLMs) has substantially advanced the automation of software engineering (SE) tasks, enabling complex activities such as code generation and code summarization. However, the black-box nature of LLMs remains a major barrier to their adoption in high-stakes and safety-critical domains, where explainability and transparency are vital for trust, accountability, and effective human supervision. Despite increasing interest in explainable AI for software engineering, existing methods lack domain-specific explanations aligned with how practitioners reason about SE artifacts. To address this gap, we introduce FeatureSHAP, the first fully automated, model-agnostic explainability framework tailored to software engineering tasks. Based on Shapley values, FeatureSHAP attributes model outputs to high-level input features through systematic input perturbation and task-specific similarity comparisons, while remaining compatible with both opensource and proprietary LLMs. We evaluate FeatureSHAP on two bi-modal SE tasks: code generation and code summarization. The results show that FeatureSHAP assigns less importance to irrelevant input features and produces explanations with higher fidelity than baseline methods, at a substantially lower computational cost than token-level alternatives. A practitioner survey involving 37 participants shows that FeatureSHAP helps practitioners better interpret model outputs and make more informed decisions. Collectively, FeatureSHAP represents a meaningful step toward practical explainable AI in software engineering. FeatureSHAP is available at https://github.com/deviserlab/FeatureSHAP."
+  },
+  {
+   "paperId": "2d229c947d5a37c61284cb2b8d2b09ae73dd20ab",
+   "externalIds": {
+    "DBLP": "conf/icsm/TaoSKK25",
+    "DOI": "10.1109/ICSME64153.2025.00088",
+    "CorpusId": 282613862
+   },
+   "url": "https://www.semanticscholar.org/paper/2d229c947d5a37c61284cb2b8d2b09ae73dd20ab",
+   "title": "A Preliminary Study on Large Language Models Self-Negotiation in Software Engineering",
+   "venue": "IEEE International Conference on Software Maintenance and Evolution",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSME64153.2025.00088?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSME64153.2025.00088, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2025-09-07",
+   "authors": [
+    {
+     "authorId": "2389533091",
+     "name": "Chun-Run Tao"
+    },
+    {
+     "authorId": "2314832975",
+     "name": "Honglin Shu"
+    },
+    {
+     "authorId": "22022819",
+     "name": "Masanari Kondo"
+    },
+    {
+     "authorId": "1706639",
+     "name": "Y. Kamei"
+    }
+   ],
+   "abstract": "Large Language Models (LLMs) have shown great potential in code-related software engineering tasks, including code generation, classification, and understanding. While current research primarily focuses on direct inference with single LLMs, this approach may fall short for complex tasks due to ambiguous instructions. To address this limitation, we propose LLM selfnegotiation, where multiple LLMs collaborate and debate to reach consensus on code-related tasks. This approach aims to better handle unclear instructions and improve overall effectiveness. We evaluated LLM self-negotiation in three key software engineering domains: Equivalent Mutant Detection (EMD), Automated Vulnerability Detection (AVD), and Automated Program Repair (APR). These domains represent distinct aspects of coderelated tasks: functionality understanding, code classification, and code generation, respectively. Our experimental results revealed varying effectiveness across domains. In EMD, LLM self-negotiation demonstrated remarkable improvements, with most models showing performance gains between 114.72 % and 351.01% (though CodeLlama experienced a minor 4.5% decrease in F1-score). For APR tasks, self-negotiation performed comparably to single LLM implementations. However, in AVD, the results were mixed - while Vicuna showed improved F1-scores, most models exhibited lower recall rates. These findings indicate that LLM self-negotiation is particularly promising for functionality understanding tasks, while its application to code classification and generation requires further research and refinement."
+  },
+  {
+   "paperId": "b463efd7e02a7c26600764ff9a70e80cbeb98822",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2604-15485",
+    "ArXiv": "2604.15485",
+    "DOI": "10.48550/arXiv.2604.15485",
+    "CorpusId": 287607180
+   },
+   "url": "https://www.semanticscholar.org/paper/b463efd7e02a7c26600764ff9a70e80cbeb98822",
+   "title": "LLM4C2Rust: Large Language Models for Automated Memory-Safe Code Transpilation",
+   "venue": "arXiv.org",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2604.15485, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-04-16",
+   "authors": [
+    {
+     "authorId": "2549339766",
+     "name": "Sarah Bedell"
+    },
+    {
+     "authorId": "2373456208",
+     "name": "Nazanin Siavash"
+    },
+    {
+     "authorId": "1958747767",
+     "name": "Armin Moin"
+    }
+   ],
+   "abstract": "Memory safety has long been a critical challenge in software engineering, particularly for legacy systems written in memory-unsafe languages such as C and C++. Rust, one of the youngest modern programming languages, offers built-in memory-safety guarantees that make it a strong candidate for secure systems development. Consequently, transpiling C/C++ code into memory-safe Rust code has become a growing area of research. However, manual transpilation is often time-consuming and error-prone. Additionally, rule-based automated approaches are not as flexible or cost-effective as methods enabled by state-of-the-art AI models, techniques, and methods, such as those that deploy Large Language Models (LLMs), for example, Generative Pretrained Transformers (GPT). In this paper, we propose a Retrieval-Augmented Generation (RAG)-assisted framework that integrates an LLM with a Small Language Model (SLM) to perform C/C++-to-Rust transpilation with a focus on enhancing memory safety. The framework deploys a segmentation strategy that processes C/C++ code in balanced blocks, guiding the LLM with retrieved context from Rust documentation and compiler error references. Our experiments using three OpenAI models (GPT-4o, GPT-4-Turbo, and o3-Mini) demonstrate that the RAG-enhanced pipeline generally improves both code correctness and security for C-to-Rust code transpilation. Several Coreutils programs achieve complete elimination of Raw Pointer Dereferences (RPDs) and Unsafe Type Casts (UTCs) in the final Rust output, indicating the potential of LLM-based transpilation for advancing automated software modernization and repair, as well as memory-safe code generation."
+  },
+  {
+   "paperId": "d191f704aab2a1deffb9a0f406a51202120176d7",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2604-03986",
+    "ArXiv": "2604.03986",
+    "DOI": "10.48550/arXiv.2604.03986",
+    "CorpusId": 287203290
+   },
+   "url": "https://www.semanticscholar.org/paper/d191f704aab2a1deffb9a0f406a51202120176d7",
+   "title": "COBOL-Coder: Domain-Adapted Large Language Models for COBOL Code Generation and Translation",
+   "venue": "arXiv.org",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2604.03986, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-04-05",
+   "authors": [
+    {
+     "authorId": "98458146",
+     "name": "Anh T. V. Dau"
+    },
+    {
+     "authorId": "2273752110",
+     "name": "Shin Hwei Tan"
+    },
+    {
+     "authorId": "1410146355",
+     "name": "Jin-Qiu Yang"
+    },
+    {
+     "authorId": "26910508",
+     "name": "N. Bui"
+    },
+    {
+     "authorId": "144659797",
+     "name": "A. Nguyen"
+    }
+   ],
+   "abstract": "COBOL remains a critical language for mainframe systems, yet existing large language models (LLMs) struggle to generate and translate COBOL code correctly. This paper reports our experience in developing and evaluating domain-adapted LLMs for COBOL and mainframe software engineering. We introduce (1) an automated data curation pipeline that combines compiler-guided validation with multi-stage similarity-based filtering to construct high-quality COBOL training data, and (2) COBOL-Coder, a COBOL-specialized LLM fine-tuned on the curated COBOL domain data. We evaluate COBOL-Coder on two tasks: code generation (on COBOLEval and COBOLCodeBench) and code translation (on COBOL-JavaTrans, our proposed benchmark for bidirectional COBOL-Java translation). In our experiments, COBOL-Coder achieves up to a 73.95 percent compilation success rate and 49.33 Pass-1 on COBOLEval, compared to 41.8 percent and 16.4 for GPT-4o, while most open-source baselines (e.g., CodeGemma, CodeLlama, StarCoder2) fail to produce compilable programs. For Java-to-COBOL translation, COBOL-Coder reaches 34.93 Pass-1, whereas general-purpose LLMs achieve near-zero scores. To assess the usability of LLM-generated code in real-world settings, we conduct a survey with experienced COBOL developers. Participants consistently report that COBOL-Coder exhibits stronger COBOL awareness, has more reliable program structure, and is better aligned with enterprise practices than general-purpose LLMs."
+  }
+ ]
+}

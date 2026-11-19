@@ -1,0 +1,874 @@
+{
+ "query": "Agricultural runoff and freshwater quality",
+ "retrieved_at": "2026-11-18T18:05:33.755505+00:00",
+ "data": [
+  {
+   "publisher": "National Institute of STEM Research",
+   "abstract": "<jats:p>Agricultural  runoff  has  been  recognized  as  one  of  the  most  prevalent  non-point  sources  of  pollution affecting the water quality in rivers worldwide. In this study,examine the effects of agricultural runoff on the levels of various water quality indicators in the mixed-useriver basin that comprises both crop lands and peri-urban areas. Water samples were taken from twelve monitoring stations spread out in the study river and its tributaries during three periods, namely pre-monsoon, monsoon, and post-monsoon seasons. The  parameters investigated include  pH, DO, nitrate,  phosphate,  TSS,  BOD,  turbidity,  and  E. Coli  Conclusively,  the  results  showed  that  the  quality  of  water significantly  declined  during  the  monsoon  season,  characterized  by  nitrate  content  of  8.7  ±  1.4  mg/L,  phosphate content of 0.31 ± 0.07 mg/L, and a higher than WHO guidelines value of E. coli bacteria at over 310 CFU/100 ml. High  Pearson  correlation  coefficients  (r  &gt;  0.74,  p  &lt;  0.01)  were  established  between  fertilizer  application  rate  and enrichment  with  nutrients,  as  well  as  rainfall  intensity  and  soil  erosion.  Eutrophication  was  evident  through  high phosphate-algal biomass correlations. In addition to this, the effectiveness of the mitigation measures is assessed in a comparative  sense,  and  some  of  these  include  riparian  buffer  strips,  constructed  wetlands,  precision  agriculture practices, as well as AI-based systems to monitor such practices. These findings highlight the absolute necessity of watershed management policies that incorporate both agricultural intensification and hydrology.</jats:p>",
+   "DOI": "10.70102/aeef/v3i3/14",
+   "type": "journal-article",
+   "title": [
+    "Impacts of Agricultural Runoff on Freshwater Ecosystem Health and Water Quality"
+   ],
+   "author": [
+    {
+     "given": "Alejandro",
+     "family": "García",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Valeria",
+     "family": "Hernández",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Aquatic Ecosystems and Environmental Frontiers"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      30
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70102/aeef/v3i3/14"
+  },
+  {
+   "DOI": "10.1071/ec13197",
+   "title": [
+    "Agricultural runoff main threat to Reef water quality"
+   ],
+   "container-title": [
+    "ECOS"
+   ],
+   "publisher": "CSIRO Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2013
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1071/ec13197"
+  },
+  {
+   "DOI": "10.31274/rtd-180814-633",
+   "title": [
+    "Economics of water quality management;exemplified by specified pollutants in agricultural runoff"
+   ],
+   "publisher": "Iowa State University",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.31274/rtd-180814-633",
+   "author": [
+    {
+     "given": "James Jerome",
+     "family": "Jacobs",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Iowa State University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1081/e-ews2-120010215",
+   "title": [
+    "Water Quality: Sampling of Runoff from Agricultural Fields"
+   ],
+   "container-title": [
+    "Encyclopedia of Water Science, Second Edition"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      12,
+      26
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1081/e-ews2-120010215"
+  },
+  {
+   "DOI": "10.3133/wri824073",
+   "title": [
+    "Runoff, sediment transport, and water quality in a northern Illinois agricultural watershed before urban development, 1979-81"
+   ],
+   "publisher": "US Geological Survey",
+   "issued": {
+    "date-parts": [
+     [
+      1984
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.3133/wri824073"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The concentrations and loads of atrazine [6‐chloro‐<jats:italic>N</jats:italic>‐ethyl‐<jats:italic>N</jats:italic>′‐(1‐methylethyl)‐1,3,5‐triazine‐2,4‐diamine] in runoff water from “tilted‐bed” soil trays under intense simulated rainfall were similar to losses reported in field studies. Atrazine was applied at rates of 2.7 to 3.4 kg/ha as emulsion, wettable powder, dispersible liquid, and dispersible granule formulations, on a loam soil in eight 2.2‐ by 1.2‐m trays tilted to 1.3% slope. In simulated storms in which 3 cm of rainfall fell in 5 min and generated 0.7 cm of runoff, total atrazine losses ranged from 4 to 8% for the emulsion and dispersible‐liquid applications and 9 to 12% for the dispersible‐granule and wettable‐powder formulations. One‐fifth of the total losses occurred in the first liter of the runoff. This initial “flush” loss of atrazine in the water front resulted in concentrations up to 23 mg/L in the first runoff depending on the differing particle sizes of the spray deposits of the different atrazine formulations. The tilted‐bed/rainfall simulator system appears to offer promise as an inexpensive and convenient supplement to field experiments for characterizing pesticide movement or yield in runoff and evaluating the potential of new chemicals for nonpoint source pollution.</jats:p>",
+   "DOI": "10.2134/jeq1987.00472425001600030004x",
+   "type": "journal-article",
+   "title": [
+    "Tilted‐bed Simulation of Erosion and Chemical Runoff from Agricultural Fields: II. Effects of Formulation on Atrazine Runoff"
+   ],
+   "author": [
+    {
+     "given": "R. Don",
+     "family": "Wauchope",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Environmental Quality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1987,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2134/jeq1987.00472425001600030004x"
+  },
+  {
+   "DOI": "10.22271/allresearch.2021.v7.i7d.12097",
+   "title": [
+    "The effect of agricultural runoff on freshwater ecosystems"
+   ],
+   "container-title": [
+    "International Journal of Applied Research"
+   ],
+   "publisher": "AkiNik Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.22271/allresearch.2021.v7.i7d.12097",
+   "author": [
+    {
+     "given": "Dr. Vinod Kumar",
+     "family": "Ojha",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Pesticide loss from agricultural fields by runoff was simulated using a rainfall simulator over 2.2‐ by 1.2‐m fiberglass “tilted bed” soil trays. Intense rainfall events were applied to eight trays containing a loam soil at 1.3 ± 0.4% slope. To simulate soil‐surface‐applied pesticides thai are lost in the sediment phase of runoff, the soil surfaces of six of the trays (two were used as controls) were sprayed with aqueous solutions of Cu and Zn salts to give “application rates” of 1 kg elemental Cu and Zn/ha. The rainfall simulator applied 30 mm of rain to the trays in 5 min with a CV of 10%, and an average of 7.6 mm of runoff was obtained with a CV of 14%. The trays that received salt applications showed significantly lower erosion rates (629 ± 160 kg/ha) than those that did not receive salts (1200 ± 100 kg/ha), even though the total salt applied was only 11 kg/ha. All measurable Cu and Zn was found in the sediment phase of the runoff, and enrichment of the metals in the sediment was a function of runoff flow rate. The estimated adsorption constants (<jats:italic>K<jats:sub>d</jats:sub></jats:italic>) for Cu and Zn in this soil were 186 and 20, respectively, but this difference did not effect runoff losses; the total loads of Cu and Zn from individual trays, after correction for background Cu and Zn, were essentially identical and highly correlated with soil loss. The total losses of the tracers ranged from 3 to 7% of the amounts applied, in good agreement with field studies of losses of pesticides strongly bound to soil. These results suggest that this system may provide an inexpensive alternative to field testing for pesticide mobility in runoff, and provide insights into the physical process by which pesticides are entrained into runoff.</jats:p>",
+   "DOI": "10.2134/jeq1987.00472425001600030003x",
+   "type": "journal-article",
+   "title": [
+    "Tilted‐bed Simulation of Erosion and Chemical Runoff from Agricultural Fields: I. Runoff of Sediment and Sediment‐associated Copper and Zinc"
+   ],
+   "author": [
+    {
+     "given": "R. Don",
+     "family": "Wauchope",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Environmental Quality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1987,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2134/jeq1987.00472425001600030003x"
+  },
+  {
+   "DOI": "10.3389/fmicb.2020.539921",
+   "title": [
+    "Freshwater Sediment Microbial Communities Are Not Resilient to Disturbance From Agricultural Land Runoff"
+   ],
+   "container-title": [
+    "Frontiers in Microbiology"
+   ],
+   "publisher": "Frontiers Media SA",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.3389/fmicb.2020.539921",
+   "author": [
+    {
+     "given": "Rachelle E.",
+     "family": "Beattie",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aditya",
+     "family": "Bandla",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sanjay",
+     "family": "Swarup",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Krassimira R.",
+     "family": "Hristova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The continual application of more phosphorus (P) in fertilizer and manure to agricultural systems than removed in harvested crops can lead to surface soil accumulation of P. As a result, soil P has become of environmental rather than agronomic concern in areas of intensive crop and livestock production where P enrichment of runoff can promote eutrophication. To target cost‐effective remedial measures, sites vulnerable to P loss in runoff must be identified. Site identification by traditional field trials and computer simulations can be time consuming, costly, and data intensive. The Lemunyon and Gilbert field index was used to rank the vulnerability for P loss from 30 unfertilized and P‐fertilized, grassed, and cropped watersheds in the Southern Plains. Watershed vulnerability to P loss in runoff was closely related (<jats:italic>r</jats:italic><jats:sup>2</jats:sup> = 0.70**) to actual losses measured over the last 16 yr (0.1–5 kg P ha<jats:sup>−1</jats:sup> yr<jats:sup>−1</jats:sup>). Vulnerability to P loss decreased in the order: conventionally tilled wheat (<jats:italic>Triticum aestivum</jats:italic> L.); no‐till wheat; native grass; and set‐aside grass. Also, erosive gully remediation by shaping, sprigging with Midland bermudagrass [<jats:italic>Cynodon dactylon</jats:italic> (L.) Pers.] reduced vulnerability from medium to low. The P index is a valuable tool to identify P sources within a watershed that will require more intensive management to minimize P loss in runoff while maintaining crop productivity.</jats:p>",
+   "DOI": "10.2134/jeq1995.00472425002400050024x",
+   "type": "journal-article",
+   "title": [
+    "Identifying Sites Vulnerable to Phosphorus Loss in Agricultural Runoff"
+   ],
+   "author": [
+    {
+     "given": "Andrew",
+     "family": "Sharpley",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "USDA‐ARS Pasture Systems and Watershed Research Laboratory Curtin Road University Park PA 16802‐3702"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Environmental Quality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1995,
+      9
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2134/jeq1995.00472425002400050024x"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Copper (Cu) roofing materials have traditionally been used in New Zealand for institutional roofing, but are now increasingly used on domestic dwellings. The potential contribution to Cu contamination in urban catchment systems was assessed by measuring dissolved and acid‐soluble Cu concentrations in the runoff from three full Cu roofs, and one concrete tile roof with Cu guttering, as a function of time during multiple rain events. Full Cu roofs generated runoff with concentrations of up to 7690 μg/litre Cu, predominantly present as dissolved, free Cu\n                    <jats:sup>2+</jats:sup>\n                    owing to the low pH of the rainwater runoff. Runoff from the concrete tile roof with Cu guttering generated up to 590 μg/litre Cu, and the portion of dissolved and free Cu\n                    <jats:sup>2+</jats:sup>\n                    was less owing to the pH buffering effect of the cement‐based roofing material. A “first flush” effect was demonstrated in many rain events, where initial runoff had elevated concentrations of both dissolved Cu and particulate Cu, in the form of inorganic Cu minerals and organic Cu‐rich aggregate particles.\n                  </jats:p>",
+   "DOI": "10.1080/00288330809509940",
+   "type": "journal-article",
+   "title": [
+    "Stormwater runoff quality from copper roofing, Auckland, New Zealand"
+   ],
+   "author": [
+    {
+     "given": "Sarah L.",
+     "family": "Pennington",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Geology Geography and Environmental Science University of Auckland Private Bag 92019 Auckland New Zealand"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jenny G.",
+     "family": "Webster‐Brown",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Chemistry University of Auckland Private Bag 92019 Auckland New Zealand"
+      },
+      {
+       "name": "School of Geology Geography and Environmental Science University of Auckland Private Bag 92019 Auckland New Zealand"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "New Zealand Journal of Marine and Freshwater Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1080/00288330809509940"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Using an electrolytic respirometer, agricultural runoff from seven crop and tillage practices were studied to determine the 5‐d biochemical oxygen demand (BOD<jats:sub>5</jats:sub>). Mean BOD<jats:sub>5</jats:sub> concentrations for the practices ranged from 10 to 25 mg O<jats:sub>2</jats:sub> L<jats:sup>−1</jats:sup> as compared to 4 to 56 mg O<jats:sub>2</jats:sub> L<jats:sup>−1</jats:sup> for individual storm events. In general, there was no difference in BOD<jats:sub>5</jats:sub> concentrations between conventional and no‐till practices. Biochemical oxygen demand‐time relationships were found to best fit a first‐order reaction equation. The aqueous phase was the dominant source of BOD<jats:sub>5</jats:sub>, amounting to 64 ± 17% (1 SD) of the total BOD<jats:sub>5</jats:sub> in runoff from notill soybeans, double‐cropped with winter wheat (<jats:italic>Triticum aestivum</jats:italic> L.). However, additional data indicate that conventional tillage practices, producing higher sediment concentrations, may result in a greater proportion of the BOD associated with the sediment phase.</jats:p>",
+   "DOI": "10.2134/jeq1987.00472425001600010002x",
+   "type": "journal-article",
+   "title": [
+    "Biochemical Oxygen Demand of Agricultural Runoff"
+   ],
+   "author": [
+    {
+     "given": "J. D.",
+     "family": "Schreiber",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "E. E.",
+     "family": "Neumaier",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Environmental Quality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1987,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2134/jeq1987.00472425001600010002x"
+  },
+  {
+   "DOI": "10.1201/noe0849396274.ch324",
+   "title": [
+    "Water Quality"
+   ],
+   "container-title": [
+    "Encyclopedia of Water Science, Second Edition (Print Version)"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      12,
+      26
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/noe0849396274.ch324",
+   "author": [
+    {
+     "given": "John",
+     "family": "Laflen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-08-031862-2.50017-4",
+   "title": [
+    "ANALYSIS OF OIL AND GREASE COMPONENTS TO ASSESS THE QUALITY OF URBAN RUNOFF"
+   ],
+   "container-title": [
+    "Oil in Freshwater: Chemistry, Biology, Countermeasure Technology"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      1987
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-08-031862-2.50017-4",
+   "author": [
+    {
+     "given": "M.K.",
+     "family": "STENSTROM",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.",
+     "family": "FAM",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "G.S.",
+     "family": "SILVERMAN",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The loss of bioavailable P (BAP) in both soluble (SP) and participate (BPP, bioavailable particulate P) forms in agricultural runoff, can accelerate the eutrophication of surface waters. Bioavailable P represents P that is potentially available for algal uptake. Although prediction of BAP loss would provide a more reliable assessment of the impact of agricultural management on surface water eutrophication than just SP or total P (TP), currently no predictive equations are available. Bioavailable P transport in soluble and particulate forms in runoff from 20 agricultural watersheds in the Southern Plains over a 5‐yr period, was predicted using kinetic and enrichment ratio approaches, respectively. Measured and predicted SP and BPP concentrations of individual runoff events were similar for all watersheds and management practices over a range of 7 to 3522 and 3 to 4059 <jats:italic>µ</jats:italic>g L<jats:sup>−1</jats:sup>, respectively. Calculated as the sum of SP and BPP, BAP loss in runoff was predicted accurately, with only a 12% error in measured mean annual loss (662 g ha<jats:sup>−1</jats:sup> yr<jats:sup>−1</jats:sup>). Although BAP loss below 100 g ha<jats:sup>−1</jats:sup> yr<jats:sup>−1</jats:sup> was underestimated, above this value measured and predicted values closely followed a 1:1 relationship. Inclusion of these equations in comprehensive water quality models will improve the prediction of agricultural management on the biological response of receiving water bodies.</jats:p>",
+   "DOI": "10.2134/jeq1993.00472425002200010004x",
+   "type": "journal-article",
+   "title": [
+    "Prediction of Bioavailable Phosphorus Loss in Agricultural Runoff"
+   ],
+   "author": [
+    {
+     "given": "Andrew N.",
+     "family": "Sharpley",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "USDA‐ARS National Agricultural Water Quality Laboratory P.O. Box 1430 Durant OK 74702‐1430"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S.J.",
+     "family": "Smith",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "USDA‐ARS National Agricultural Water Quality Laboratory P.O. Box 1430 Durant OK 74702‐1430"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Environmental Quality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1993,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2134/jeq1993.00472425002200010004x"
+  },
+  {
+   "publisher": "International Research Publication and Journals",
+   "abstract": "<jats:p>Agricultural intensification in semi-arid regions of South India has significantly increased the application of synthetic pesticides, raising concerns regarding their unintended ecological consequences. Aquatic insects, which form the foundation of freshwater food webs, are particularly vulnerable to agrochemical runoff. The present study evaluated the seasonal impact of agricultural pesticide contamination on non-target aquatic insect biodiversity in selected freshwater bodies of the Karimnagar region, Telangana. Comparative sampling was conducted across pesticide-influenced sites adjacent to paddy and cotton fields and relatively undisturbed control sites. Diversity indices including Shannon–Wiener and Simpson’s index were calculated to assess ecological changes. The results revealed a measurable decline in species richness and abundance in pesticide-exposed habitats, particularly during the post-monsoon agricultural peak season. Sensitive taxa such as Ephemeroptera and Trichoptera showed substantial reductions, whereas tolerant Dipteran species exhibited increased dominance. The findings highlight the need for sustainable pest management strategies to preserve freshwater biodiversity and ecosystem stability.</jats:p>",
+   "DOI": "10.71097/ijsat.v17.i1.10504",
+   "type": "journal-article",
+   "title": [
+    "Seasonal Influence of Agricultural Pesticide Runoff on Aquatic Insect Community Structure in Semi-Arid Freshwater Systems of Telangana, India"
+   ],
+   "author": [
+    {
+     "given": "Adupa",
+     "family": "Sumalatha",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chinthala",
+     "family": "krishna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal on Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      19
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.71097/ijsat.v17.i1.10504"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>A review of the literature reporting the methods and results of studies concerned with the nature of nonpoint source microbial pollution leads to several conclusions: (i) Comparison of data from different studies may be complicated by variation in the choice of indicator organisms, variation in watershed size and homogeneity, and variation in media and procedures for determining fecal streptococcus densities. (ii) The ratio of fecal coliform to fecal streptococcus densities can be used to help identify particular sources of fecal pollution, but its usefulness declines with age. Its usefulness may also be affected by media and procedures used to determine fecal streptococcus densities, particularly when data derived from different media or procedures are compared. (iii) Bacterial densities in runoff from agricultural lands often exceed water quality standards. This is true of virtually all types of agricultural land. (iv) Although some connection between bacterial densities and stream discharge during storm events is apparent, the relationship is not simple. Factors such as temperature, hydrologic proximity of pollution sources, livestock management practices, wildlife activity, fecal deposit age, and channel and bank storage, all affect bacterial densities in runoff. Of these factors, only the influence of fecal deposit age on bacterial releases has been studied and quantified. (v) There is in the literature no loading function to predict bacterial densities in runoff that satisfactorily considers the factors listed above; however, typical density values may be used in a simple loading function to estimate probable density ranges.</jats:p>",
+   "DOI": "10.2134/jeq1988.00472425001700010004x",
+   "type": "journal-article",
+   "title": [
+    "Bacterial Pollution in Runoff from Agricultural Lands"
+   ],
+   "author": [
+    {
+     "given": "Wanada R.",
+     "family": "Baxter‐Potter",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Civil Engineering Dep. Univ. of Nebraska‐Lincoln Omaha NE 68182‐0178"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Martha W.",
+     "family": "Gilliland",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Civil Engineering Dep. Univ. of Nebraska‐Lincoln Omaha NE 68182‐0178"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Environmental Quality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1988,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2134/jeq1988.00472425001700010004x"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The soluble phosphorus (SP) concentrations of runoff for individual events from agricultural land were predicted using relationships describing soil P desorption kinetics and effective depth of surface soil‐runoff interaction (<jats:italic>E</jats:italic>). These values were compared with concentrations measured for runoff from 9 grassed and 11 cropped watersheds in the Southern Plains, USA, over a 10‐yr period. Using a constant value of <jats:italic>E</jats:italic> for a given watershed, measured SP concentrations were over‐estimated by up to 4415% for runoff events of &gt; 0.75 mm in volume. Using a value of <jats:italic>E</jats:italic> calculated for each runoff event from soil loss, correlation coefficients between measured and predicted values and prediction errors were improved (<jats:italic>R</jats:italic><jats:sup>2</jats:sup> = 0.95–0.99 and error = 11–18%) compared to use of a constant <jats:italic>E</jats:italic> value (<jats:italic>R</jats:italic><jats:sup>2</jats:sup> = 0.21–0.83 error = 38–380%) averaged for each watershed location. Although these improvements did not significantly (5% level) affect estimates of the amounts of SP transported, the improvements will be important from environmental aspects, in terms of assessing the impact of agricultural management practices on P‐related eutrophication for all runoff events.</jats:p>",
+   "DOI": "10.2134/jeq1989.00472425001800030013x",
+   "type": "journal-article",
+   "title": [
+    "Prediction of Soluble Phosphorus Transport in Agricultural Runoff"
+   ],
+   "author": [
+    {
+     "given": "A. N.",
+     "family": "Sharpley",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "USDA‐ARS Water Quality and Watershed Res. Lab. P.O. Box 1430 Durant OK 74702‐1430"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S. J.",
+     "family": "Smith",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "USDA‐ARS Water Quality and Watershed Res. Lab. P.O. Box 1430 Durant OK 74702‐1430"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Environmental Quality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1989,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2134/jeq1989.00472425001800030013x"
+  },
+  {
+   "DOI": "10.1016/0378-3774(86)90002-8",
+   "title": [
+    "Effects of catchment management on runoff, water quality and yield potential from vertisols"
+   ],
+   "container-title": [
+    "Agricultural Water Management"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      1986,
+      10
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/0378-3774(86)90002-8",
+   "author": [
+    {
+     "given": "D.M.",
+     "family": "Freebairn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "G.H.",
+     "family": "Wockner",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "D.M.",
+     "family": "Silburn",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4314/tfb.v15i1.20898",
+   "title": [
+    "Effect of Nutrient Runoff on the Water Microbiology and Quality of a Community Water Source: A Case Study of Orogodo River"
+   ],
+   "container-title": [
+    "Tropical Freshwater Biology"
+   ],
+   "publisher": "African Journals Online (AJOL)",
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      7,
+      18
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.4314/tfb.v15i1.20898",
+   "author": [
+    {
+     "given": "H",
+     "family": "Obueh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "I",
+     "family": "Osaikhuwuomwan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

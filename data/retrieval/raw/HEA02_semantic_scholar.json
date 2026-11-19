@@ -1,0 +1,874 @@
+{
+ "query": "Dengue prevention and vector control",
+ "retrieved_at": "2026-11-18T18:07:47.950459+00:00",
+ "data": [
+  {
+   "paperId": "8380fafe9d5c546798f26745e5225cf4c7a1d594",
+   "externalIds": {
+    "PubMedCentral": "11863257",
+    "DOI": "10.1177/23779608241302713",
+    "CorpusId": 276643529,
+    "PubMed": "40013006"
+   },
+   "url": "https://www.semanticscholar.org/paper/8380fafe9d5c546798f26745e5225cf4c7a1d594",
+   "title": "Knowledge, Attitudes, and Practices for the Prevention and Vector Control of Dengue in a Colombian Rural Population: A Mixed Method Study",
+   "venue": "SAGE Open Nursing",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1177/23779608241302713",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11863257, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-01-01",
+   "authors": [
+    {
+     "authorId": "108010105",
+     "name": "López-Saleme Rossana"
+    },
+    {
+     "authorId": "2347489854",
+     "name": "E. Katty"
+    },
+    {
+     "authorId": "2347489851",
+     "name": "Barajas-Lizarazo Mayra"
+    }
+   ],
+   "abstract": "Introduction Dengue fever is a viral disease of public health concern. Adequate knowledge and self-care practices are the most effective strategies for vector control. Objective To describe the knowledge, attitudes, and practices for the prevention and vector control of dengue. Methods Mixed method study. A total of 283 residents in a Colombian rural population were studied. Relative and absolute frequency measures were used for statistical analysis of study variables; emergent categories were identified for qualitative data. Results 73% were women, 60% were housewives, and 37% had completed primary education. Both knowledge and attitudes presented low percentages in relation to the characteristics of the vector. Regarding practices, 76% did not have a positive disposition toward the use of mosquito nets. Participants perceived problems related to waste management, lack of education, and the presence of mosquitoes in covered water tanks. Conclusion The inhabitants of the surveyed population demonstrated acceptable knowledge with respect to dengue control practices; however, they neglected sources of risk in their immediate environment."
+  },
+  {
+   "paperId": "71a55b7bd7ddd691e4347218c63cb1599ea1ccf4",
+   "externalIds": {
+    "PubMedCentral": "9520141",
+    "DOI": "10.1177/20552076221129099",
+    "CorpusId": 252607001,
+    "PubMed": "36185390"
+   },
+   "url": "https://www.semanticscholar.org/paper/71a55b7bd7ddd691e4347218c63cb1599ea1ccf4",
+   "title": "Effects of a serious game on knowledge, attitude and practice in vector control and dengue prevention among adults in primary care: A randomised controlled trial",
+   "venue": "Digital Health",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1177/20552076221129099",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9520141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-01-01",
+   "authors": [
+    {
+     "authorId": "2186470454",
+     "name": "Alon Tan"
+    },
+    {
+     "authorId": "6677913",
+     "name": "E. Koh"
+    },
+    {
+     "authorId": "4511298",
+     "name": "U. Sankari"
+    },
+    {
+     "authorId": "46199756",
+     "name": "Jiasheng Tang"
+    },
+    {
+     "authorId": "2160655864",
+     "name": "Chi Keong Goh"
+    },
+    {
+     "authorId": "144840717",
+     "name": "N. Tan"
+    }
+   ],
+   "abstract": "Objective Dengue is endemic but vaccination against it is optional in tropical Singapore. Despite vector control measures to curb mosquito breeding, dengue infection continues to be prevalent. A serious game has been developed to raise the community awareness of dengue vector control programme among residents in Singapore. The study aimed to evaluate the effectiveness of this serious game on the knowledge, attitude and practice (KAP) in dengue prevention among adults. It also determined their willingness to be vaccinated against dengue. Methods A randomised controlled trial was conducted among volunteer adults who were visiting a regional primary care clinic in Sengkang, Singapore. 400 participants were randomly allocated to receive information regarding dengue prevention from either playing a serious game (intervention) or visiting a dengue prevention website (control). Before and after receiving information on dengue prevention, participants completed a self-administered online questionnaire within a two-week interval to assess the KAP score and their interest to vaccinate against dengue. Participants, who played serious game, evaluated the game with the System Usability Scale (SUS). Results A total of 374 participants, comprising of 178 participants (89%) from intervention group and 196 participants (98%) from control group, completed both questionnaires. 157 (78.5%) participants in the intervention group completed playing the serious game. Participants in both groups had increased KAP score from baseline, but the mean difference in score (SD) was greater when assessing participants’ daily practice towards dengue prevention in the serious game group compared to the control group (1.0 (2.8) vs 0.3 (1.9), p = .009). There was a positive correlation (rho = 0.275) between mean change in KAP score and highest achievement attained within serious game (p = .001). The mean SUS (SD) was 61.8 (19.2) among participants who played the serious game. 84.2% of the study population was willing to undertake the dengue vaccination at baseline. Participants in both groups had increased proportion of participants who showed interest in dengue vaccination from baseline but the difference between serious game group and control group were not significant (5.6% vs 2.6%, p = .131). Conclusions Serious game is at least equally effective compared to conventional web-based learning in promoting dengue prevention measures and vaccination intention among adults, and may be considered as a feasible alternative to digitally engage local residents."
+  },
+  {
+   "paperId": "733c2f819659fe51720dab4c57e988981094af5a",
+   "externalIds": {
+    "DOI": "10.1007/82_2025_293",
+    "CorpusId": 280551631,
+    "PubMed": "40779247"
+   },
+   "url": "https://www.semanticscholar.org/paper/733c2f819659fe51720dab4c57e988981094af5a",
+   "title": "Entomological Surveillance and Vector Competence: A Crucial Front in Dengue Prevention.",
+   "venue": "Current Topics in Microbiology and Immunology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/82_2025_293?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/82_2025_293, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-09",
+   "authors": [
+    {
+     "authorId": "34136390",
+     "name": "J. H. Oliveira"
+    },
+    {
+     "authorId": "1400892258",
+     "name": "R. Maciel-de-Freitas"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "9b0452e3b9648b3afea2dc6e9810a7ec2314a358",
+   "externalIds": {
+    "DOI": "10.1007/s40819-021-01167-3",
+    "CorpusId": 240473647
+   },
+   "url": "https://www.semanticscholar.org/paper/9b0452e3b9648b3afea2dc6e9810a7ec2314a358",
+   "title": "The Role of Isolation and Vector Control in the Prevention of Dengue: A Case Study of 2014 Dengue Outbreak in Singapore",
+   "venue": "International Journal of Applied and Computational Mathematics",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40819-021-01167-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40819-021-01167-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-11-01",
+   "authors": [
+    {
+     "authorId": "2150472981",
+     "name": "S. Biswas"
+    },
+    {
+     "authorId": "50843613",
+     "name": "S. Sarkar"
+    },
+    {
+     "authorId": "35234409",
+     "name": "U. Ghosh"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "29ff4142cfa05a00ec64e83f1ef36f835aeb93b4",
+   "externalIds": {
+    "PubMedCentral": "10286981",
+    "DOI": "10.1371/journal.pntd.0011400",
+    "CorpusId": 259231007,
+    "PubMed": "37347767"
+   },
+   "url": "https://www.semanticscholar.org/paper/29ff4142cfa05a00ec64e83f1ef36f835aeb93b4",
+   "title": "Singapore’s 5 decades of dengue prevention and control—Implications for global dengue control",
+   "venue": "PLoS Neglected Tropical Diseases",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0011400&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10286981, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-01",
+   "authors": [
+    {
+     "authorId": "47289923",
+     "name": "S. H. Ho"
+    },
+    {
+     "authorId": "2279964792",
+     "name": "Jue T. Lim"
+    },
+    {
+     "authorId": "46241942",
+     "name": "Janet Ong"
+    },
+    {
+     "authorId": "3935687",
+     "name": "H. Hapuarachchi"
+    },
+    {
+     "authorId": "2253438",
+     "name": "S. Sim"
+    },
+    {
+     "authorId": "16256565",
+     "name": "L. Ng"
+    }
+   ],
+   "abstract": "This paper summarises the lessons learnt in dengue epidemiology, risk factors, and prevention in Singapore over the last half a century, during which Singapore evolved from a city of 1.9 million people to a highly urban globalised city-state with a population of 5.6 million. Set in a tropical climate, urbanisation among green foliage has created ideal conditions for the proliferation of Aedes aegypti and Aedes albopictus, the mosquito vectors that transmit dengue. A vector control programme, largely for malaria, was initiated as early as 1921, but it was only in 1966 that the Vector Control Unit (VCU) was established to additionally tackle dengue haemorrhagic fever (DHF) that was first documented in the 1960s. Centred on source reduction and public education, and based on research into the bionomics and ecology of the vectors, the programme successfully reduced the Aedes House Index (HI) from 48% in 1966 to <5% in the 1970s. Further enhancement of the programme, including through legislation, suppressed the Aedes HI to around 1% from the 1990s. The current programme is characterised by 4 key features: (i) proactive inter-epidemic surveillance and control that is stepped up during outbreaks; (ii) risk-based prevention and intervention strategies based on advanced data analytics; (iii) coordinated inter-sectoral cooperation between the public, private, and people sectors; and (iv) evidence-based adoption of new tools and strategies. Dengue seroprevalence and force of infection (FOI) among residents have substantially and continuously declined over the 5 decades. This is consistent with the observation that dengue incidence has been delayed to adulthood, with severity highest among the elderly. Paradoxically, the number of reported dengue cases and outbreaks has increased since the 1990s with record-breaking epidemics. We propose that Singapore’s increased vulnerability to outbreaks is due to low levels of immunity in the population, constant introduction of new viral variants, expanding urban centres, and increasing human density. The growing magnitude of reported outbreaks could also be attributed to improved diagnostics and surveillance, which at least partially explains the discord between rising trend in cases and the continuous reduction in dengue seroprevalence. Changing global and local landscapes, including climate change, increasing urbanisation and global physical connectivity are expected to make dengue control even more challenging. The adoption of new vector surveillance and control tools, such as the Gravitrap and Wolbachia technology, is important to impede the growing threat of dengue and other Aedes-borne diseases."
+  },
+  {
+   "paperId": "ecbd0b8f85d7c4a1f20b59a7a2290cea544952f5",
+   "externalIds": {
+    "MAG": "1894874618",
+    "PubMedCentral": "4423954",
+    "DOI": "10.1371/journal.pntd.0003655",
+    "CorpusId": 7752911,
+    "PubMed": "25951103"
+   },
+   "url": "https://www.semanticscholar.org/paper/ecbd0b8f85d7c4a1f20b59a7a2290cea544952f5",
+   "title": "A Critical Assessment of Vector Control for Dengue Prevention",
+   "venue": "PLoS Neglected Tropical Diseases",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003655&type=printable",
+    "status": "GOLD",
+    "license": "public-domain",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4423954, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2015-05-01",
+   "authors": [
+    {
+     "authorId": "3896548",
+     "name": "N. Achee"
+    },
+    {
+     "authorId": "145804793",
+     "name": "F. Gould"
+    },
+    {
+     "authorId": "144852694",
+     "name": "T. Perkins"
+    },
+    {
+     "authorId": "144210251",
+     "name": "R. Reiner"
+    },
+    {
+     "authorId": "35095876",
+     "name": "A. Morrison"
+    },
+    {
+     "authorId": "1958933",
+     "name": "S. Ritchie"
+    },
+    {
+     "authorId": "5522525",
+     "name": "D. Gubler"
+    },
+    {
+     "authorId": "4796780",
+     "name": "R. Teyssou"
+    },
+    {
+     "authorId": "145706708",
+     "name": "T. Scott"
+    }
+   ],
+   "abstract": "Recently, the Vaccines to Vaccinate (v2V) initiative was reconfigured into the Partnership for Dengue Control (PDC), a multi-sponsored and independent initiative. This redirection is consistent with the growing consensus among the dengue-prevention community that no single intervention will be sufficient to control dengue disease. The PDC's expectation is that when an effective dengue virus (DENV) vaccine is commercially available, the public health community will continue to rely on vector control because the two strategies complement and enhance one another. Although the concept of integrated intervention for dengue prevention is gaining increasingly broader acceptance, to date, no consensus has been reached regarding the details of how and what combination of approaches can be most effectively implemented to manage disease. To fill that gap, the PDC proposed a three step process: (1) a critical assessment of current vector control tools and those under development, (2) outlining a research agenda for determining, in a definitive way, what existing tools work best, and (3) determining how to combine the best vector control options, which have systematically been defined in this process, with DENV vaccines. To address the first step, the PDC convened a meeting of international experts during November 2013 in Washington, DC, to critically assess existing vector control interventions and tools under development. This report summarizes those deliberations."
+  },
+  {
+   "paperId": "a3fc4af932a8ed7d4b43cbc229b9d84eec8c6dca",
+   "externalIds": {
+    "DOI": "10.1101/2025.01.07.25320153",
+    "CorpusId": 275356029
+   },
+   "url": "https://www.semanticscholar.org/paper/a3fc4af932a8ed7d4b43cbc229b9d84eec8c6dca",
+   "title": "Investigating the Role of Vitamin D in the Prevention and Control of Dengue Virus Vectors and Related Diseases: A Systematic Review Study",
+   "venue": "medRxiv",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2139/ssrn.5100757",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2025.01.07.25320153?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2025.01.07.25320153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2025-01-08",
+   "authors": [
+    {
+     "authorId": "2320730415",
+     "name": "E. Abbasi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ebf573cf223ea68687b937def56dcdbbafdae865",
+   "externalIds": {
+    "DOI": "10.1016/j.actatropica.2025.107741",
+    "CorpusId": 280187372,
+    "PubMed": "40659152"
+   },
+   "url": "https://www.semanticscholar.org/paper/ebf573cf223ea68687b937def56dcdbbafdae865",
+   "title": "The Role Artificial Intelligence for Dengue Prevention, Control, and Management: A Technical Narrative Review.",
+   "venue": "Acta Tropica",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.actatropica.2025.107741?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.actatropica.2025.107741, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-12",
+   "authors": [
+    {
+     "authorId": "143934214",
+     "name": "H. Sutanto"
+    },
+    {
+     "authorId": "2328380831",
+     "name": "B. A. Ansharullah"
+    }
+   ],
+   "abstract": "Dengue fever remains a significant global health threat, particularly in tropical and subtropical regions, where rapid urbanization and climate variability exacerbate its spread. Traditional surveillance and control systems often struggle with delayed reporting, limited predictive capacity, and resource constraints. Artificial Intelligence (AI) presents a transformative opportunity to enhance dengue prevention, control, and management through data-driven decision-making. This review synthesizes current applications of AI across key domains: outbreak forecasting, vector control, clinical management, and public health intervention. Machine learning models have demonstrated promising accuracy in predicting dengue outbreaks using environmental, climatic, and epidemiological data. AI-powered image recognition and autonomous systems support more effective mosquito monitoring and habitat targeting. In clinical settings, AI assists with early diagnosis, severity prediction, and treatment planning. Additionally, AI-driven tools facilitate real-time analysis of behavioral data and community engagement through mobile platforms. However, challenges remain, including data standardization, model interpretability, and ethical concerns around data privacy. This review highlights the need for interdisciplinary collaboration and robust infrastructure to scale and sustain AI-based systems. With continued innovation and policy support, AI has the potential to significantly reduce dengue burden and build more resilient public health systems."
+  },
+  {
+   "paperId": "51a11baf05be367ecd358a8dc251077f344077db",
+   "externalIds": {
+    "DOI": "10.11591/ijphs.v12i2.22797",
+    "CorpusId": 257786331
+   },
+   "url": "https://www.semanticscholar.org/paper/51a11baf05be367ecd358a8dc251077f344077db",
+   "title": "Eco-health survey effort to diagnose readiness for sustainability dengue prevention and control",
+   "venue": "International Journal of Public Health Science (IJPHS)",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://ijphs.iaescore.com/index.php/IJPHS/article/download/22797/13790",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11591/ijphs.v12i2.22797?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11591/ijphs.v12i2.22797, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2023-06-01",
+   "authors": [
+    {
+     "authorId": "51228071",
+     "name": "Nur Siyam"
+    },
+    {
+     "authorId": "86964124",
+     "name": "Bertakalswa Hermawati"
+    },
+    {
+     "authorId": "2069688725",
+     "name": "Lukman Fauzi"
+    },
+    {
+     "authorId": "2520922836",
+     "name": "Fahma Nur Fadila"
+    },
+    {
+     "authorId": "2165976247",
+     "name": "Niken Lestari"
+    },
+    {
+     "authorId": "2550431990",
+     "name": "Sifa Ul Janah"
+    },
+    {
+     "authorId": "2213053726",
+     "name": "Sungatno Sungatno"
+    },
+    {
+     "authorId": "2212412274",
+     "name": "Nadia Insrswari Utomo"
+    }
+   ],
+   "abstract": "The prevention and control of dengue fever with the eco-health approach are crucial especially at the household level. However, the implementation is still limited and has continued to experience several obstacles. This study aimed to analyze the eco-health-based dengue vector control at the household level, identify the factors influencing decision-making, and assess household readiness towards the implementation. The study was conducted in Bandarharjo Village, the coastal area of Semarang City and the samples were residents who had settled for at least six months, selected using the purposive sampling technique. Furthermore, the household survey used a mixed method with quantitative and qualitative approaches. Data were collected through a Google Form, which consists of a questionnaire, an observation checklist by respondents, and interview guidelines with open- ended answer questions. The data were further analyzed with Univariate Analysis and qualitative data were processed with the Uwe Flick method. The results showed that the majority or 65.1% of the community is ready to carry out prevention and control with the eco-health method as indicated by the excellent and good readiness criteria of 14.7% and 50.5% respectively. Social capital and support from stakeholders, as well as community leaders, were found to strengthen community readiness for sustainable eco-health prevention and control of dengue fever."
+  },
+  {
+   "paperId": "e3fd0bcdfa4c65ce02cdc13c5bf7857af90d5d4c",
+   "externalIds": {
+    "PubMedCentral": "3373041",
+    "MAG": "2010207445",
+    "DOI": "10.3201/10.3201/eid1206.051210",
+    "CorpusId": 16628384,
+    "PubMed": "16707042"
+   },
+   "url": "https://www.semanticscholar.org/paper/e3fd0bcdfa4c65ce02cdc13c5bf7857af90d5d4c",
+   "title": "Dengue Prevention and 35 Years of Vector Control in Singapore",
+   "venue": "Emerging Infectious Diseases",
+   "year": 2006,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3201/eid1206.051210",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3373041, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2006-06-01",
+   "authors": [
+    {
+     "authorId": "120395155",
+     "name": "E. Ooi"
+    },
+    {
+     "authorId": "35896868",
+     "name": "Kee Goh"
+    },
+    {
+     "authorId": "5522525",
+     "name": "D. Gubler"
+    }
+   ],
+   "abstract": "A vector control program must be based on epidemiologic and entomologic data."
+  },
+  {
+   "paperId": "b1eb75b9eb7267c986d39898fdeea8a38f87a970",
+   "externalIds": {
+    "DOI": "10.1016/j.evalprogplan.2025.102597",
+    "CorpusId": 277469309,
+    "PubMed": "40209329"
+   },
+   "url": "https://www.semanticscholar.org/paper/b1eb75b9eb7267c986d39898fdeea8a38f87a970",
+   "title": "Impact of customised community training program on the prevention and control of dengue fever: A study from India.",
+   "venue": "Evaluation and Program Planning",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.evalprogplan.2025.102597?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.evalprogplan.2025.102597, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-01",
+   "authors": [
+    {
+     "authorId": "98150386",
+     "name": "Swati Alok"
+    },
+    {
+     "authorId": "1395689597",
+     "name": "S. Nessa"
+    },
+    {
+     "authorId": "5908059",
+     "name": "A. S. Begum"
+    },
+    {
+     "authorId": "2137521276",
+     "name": "R. Kumar"
+    }
+   ],
+   "abstract": "The global threat of dengue has burdened the health systems of underdeveloped and developing countries. In such a scenario, a 'community training program' has become the only remedy for vector-borne diseases like dengue. The absence of any anti-viral therapy or licensed vaccination for dengue fever further underlines the importance of an awareness program. However, the employed interventions and attempts made so far, to bring about behavioural change have been proved inadequate. Given this, the authors strongly believe that a personalised/customised training program designed for a set of population has the potential to bring a significant impact on behavioural change in the masses. To prove this, an attempt was made among the semi-urban population (outskirts of Hyderabad city, India). The methodology involved (i) accessing baseline knowledge through the KAP survey (ii) deciding on control as well as experimental village based on the outcome of the entomological survey and spatial survey and (iii) designing training materials based on the outcome of the survey (iv) conducting of the customized training program in the same households where KAP survey was conducted (v) assessing the effectiveness of the customized training program. The customised materials included personalized videos, PowerPoint presentations, posters & pamphlets, games, activity sheets, demos, etc. The effectiveness of training was evaluated after six months using the \"Difference in differences\" (DID) methodology. The results revealed a positive impact of the customized and tailor-made training materials on knowledge, attitude, risk perception, and preventive practices scores. The encouraging outcome concerning behavioural change among the common masses could be attributed to the customised materials used for the training. The present study could help in empathizing the knowledge, attitude, and practice of a community in general and add a pragmatic value to the policy-makers in designing effective strategies to control dengue."
+  },
+  {
+   "paperId": "8cac8ea894aefbc6257b87b98d96df938c6af4a6",
+   "externalIds": {
+    "DOI": "10.1177/00494755221076910",
+    "CorpusId": 246428491,
+    "PubMed": "35098790"
+   },
+   "url": "https://www.semanticscholar.org/paper/8cac8ea894aefbc6257b87b98d96df938c6af4a6",
+   "title": "A multifactorial strategy for dengue prevention and control: A public health situation analysis",
+   "venue": "Tropical doctor",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/00494755221076910?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/00494755221076910, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-01-31",
+   "authors": [
+    {
+     "authorId": "2119190627",
+     "name": "K. P. Kua"
+    }
+   ],
+   "abstract": "Dengue is the most widespread mosquito-borne flavivirus infection transmitted by Aedes mosquitoes. It is one of the greatest challenges to public health with a substantial economic burden in countries with tropical or subtropical climates. Over the past few decades, there has been a dramatic increase in the frequency of epidemics and severe dengue disease. Global surveillance estimates reveal that dengue affects 400 million people and results in over 20,000 deaths annually. The rise in ambient temperature as a result of climate change, unplanned rapid urbanisation, extensive geographic distribution of Aedes mosquitoes, unabated population growth, ecological conditions favouring mosquito breeding, and weak surveillance systems have collectively made dengue to be one of the most pressing health threats. A more worrying outlook is shown as presently no specific antiviral therapies are available for treatment and supportive care management of dengue patients. Mosquito vector control remains a key strategy to curtail the transmission and intensification of dengue. This commentary presents a concise yet comprehensive summary of factors driving the transmission of dengue, challenges associated with the current community-based interventions, and approaches to effective prevention and control. Dengue transmission dynamics are complex and have been impacted by local knowledge, attitudes, and behaviour that are largely affected by factors in relation to demographic, health, societal, economic, environmental, and political spheres. Many dengue-endemic zones are in low-income and middle-income countries that face a myriad of constraints ascribable to fragile healthcare delivery systems and sparse human and financial resources to implement vector control and prevention strategies. Current healthcare modalities are fragmented, uncoordinated, and unsustainable, and are blighted by rising healthcare costs and poor health systems and security.10–12 There is a lack of emerging preventive care systems that focus on population health and connect to strong and readily accessible primary and community care, where multidisciplinary teams can work together on all health-related issues.11–13 The current healthcare delivery model also does not capture infected individuals who are asymptomatic or develop only very minor symptoms, contributing to a silent infectious reservoir in the dynamics of persistent transmission in areas that have competent mosquito vectors and conducive climatic conditions. Although a dengue vaccine has been approved worldwide, many low-income countries with a consistently high dengue burden encounter numerous constraints owing to poorly resourced and understaffed organisation in the delivery of health services, thus limiting their capacity to administer the vaccine to their populations. Such a situation is further plagued with pressures to provide universal health coverage, unavailability of integrated management tools, deficiencies of entomological expertise and understanding of critical epidemiological aspects of the disease, difficulties to distribute prevaccination screening test kits and vaccines to hard-to-reach rural and urban areas, as well as narrow age groups who are suitable for the dengue vaccine.9,15–17 The scarcity of quality research for more effective and timely solutions, as well as inadequate healthcare initiatives to combine various interventions known to be effective against other mosquito-borne diseases, including rapid diagnostic methods, vaccination strategies, immunological markers, environmental determinants, and vector control measures,"
+  },
+  {
+   "paperId": "5050ca05326432d7a4968f2d47569058e70f5362",
+   "externalIds": {
+    "DOI": "10.3934/mmc.2025010",
+    "CorpusId": 278814849
+   },
+   "url": "https://www.semanticscholar.org/paper/5050ca05326432d7a4968f2d47569058e70f5362",
+   "title": "Prevention of dengue virus transmission: insights from host-vector mathematical model",
+   "venue": "Mathematical Modelling and Control",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "http://www.aimspress.com/aimspress-data/mmc/2025/2/PDF/mmc-05-02-010.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3934/mmc.2025010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3934/mmc.2025010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "66918967",
+     "name": "E. Sari"
+    },
+    {
+     "authorId": "69945536",
+     "name": "N. P. Puspita"
+    },
+    {
+     "authorId": "2545581387",
+     "name": "R. Farah"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "54d26ace3d87804d32717b7aa4bccd6f1e301252",
+   "externalIds": {
+    "DOI": "10.1007/s13538-024-01656-y",
+    "CorpusId": 274210635
+   },
+   "url": "https://www.semanticscholar.org/paper/54d26ace3d87804d32717b7aa4bccd6f1e301252",
+   "title": "Discussion on Vector Control Dengue Epidemic Model for Stability Analysis and Numerical Simulations",
+   "venue": "Brazilian journal of physics",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13538-024-01656-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13538-024-01656-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-23",
+   "authors": [
+    {
+     "authorId": "2331890047",
+     "name": "Ali Raza"
+    },
+    {
+     "authorId": "2161113225",
+     "name": "K. Ali"
+    },
+    {
+     "authorId": "2244367766",
+     "name": "S. T. R. Rizvi"
+    },
+    {
+     "authorId": "2320007065",
+     "name": "S. Sattar"
+    },
+    {
+     "authorId": "2608480",
+     "name": "A. Seadawy"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "aa2c9341feb66b1fd4611b7986f04734a31712cb",
+   "externalIds": {
+    "PubMedCentral": "11614563",
+    "DOI": "10.1055/s-0044-1792091",
+    "CorpusId": 274460177,
+    "PubMed": "39626875"
+   },
+   "url": "https://www.semanticscholar.org/paper/aa2c9341feb66b1fd4611b7986f04734a31712cb",
+   "title": "Dengue and severe dengue with neurological complications: a challenge for prevention and control",
+   "venue": "Arquivos de Neuro-Psiquiatria",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0044-1792091.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11614563, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-04-29",
+   "authors": [
+    {
+     "authorId": "2486267244",
+     "name": "Emanuelle de Oliveira Francelino"
+    },
+    {
+     "authorId": "1398477197",
+     "name": "M. Puccioni-Sohler"
+    }
+   ],
+   "abstract": "Abstract Dengue is the main urban arbovirus in the Americas. The disease manifests in a varied spectrum: from asymptomatic cases to those with neurological involvement, which is considered a severe form of the disease. Its annual reemergence represents a serious public health problem. The rise in the number of cases causes an increase in the number of patients with neurological manifestations of the disease, which can range from headaches to more serious conditions such as encephalitis and Guillain-Barré syndrome, with high potential of death or sequelae. Dengue prevention and control strategies should also be a concern for neurologists. The aim of the present study is to carry out a narrative review of the current methods to prevent dengue fever and its severe forms, such as cases with neurological complications. The main control measures include vaccination, which is still carried out on a small scale, vector control, and individual protection. The CYD-TDV/Dengvaxia and TAK-003/DENVax vaccines, licensed for use by the Brazilian National Health Regulatory Agency (Agência Nacional de Vigilância Sanitária, ANVISA, in Portuguese), show efficacy against hospitalizations of 72.7% (95% confidence interval [95%CI]: 62.3–80.3%) and of 90.4% (95%CI: 82.6–94.7%) respectively. The TV003/TV005 vaccine, which is being studied by Intituto Butantan in Brazil, shows promising results, with an efficacy of 79.6% for symptomatic dengue. Vector control is based on biotechnological and behavioral measures, as well as on the improvement of basic sanitation conditions. The main individual protection measure is the use of topical repellents (icaridin). All of these actions represent important tools for the prevention of dengue fever and its neurological complications."
+  },
+  {
+   "paperId": "ed66121a48b7f9520e1b81f625230bec41660acf",
+   "externalIds": {
+    "PubMedCentral": "10993837",
+    "DOI": "10.4269/ajtmh.23-0627",
+    "CorpusId": 268039353,
+    "PubMed": "38412550"
+   },
+   "url": "https://www.semanticscholar.org/paper/ed66121a48b7f9520e1b81f625230bec41660acf",
+   "title": "Historical Hot Spots of Dengue and Zika Viruses to Guide Targeted Vector Control in San Juan, Puerto Rico (2010–2022)",
+   "venue": "American Journal of Tropical Medicine and Hygiene",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.ajtmh.org/downloadpdf/view/journals/tpmd/aop/article-10.4269-ajtmh.23-0627/article-10.4269-ajtmh.23-0627.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10993837, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-27",
+   "authors": [
+    {
+     "authorId": "2249942481",
+     "name": "Roberto Barrera"
+    },
+    {
+     "authorId": "40618319",
+     "name": "José Ruíz"
+    },
+    {
+     "authorId": "2237420831",
+     "name": "L. Adams"
+    },
+    {
+     "authorId": "2287895949",
+     "name": "M. Marzán-Rodríguez"
+    },
+    {
+     "authorId": "1390016912",
+     "name": "G. Paz-Bailey"
+    }
+   ],
+   "abstract": "ABSTRACT. Dengue viruses (DENV) continue to cause large outbreaks in tropical countries, while chikungunya and Zika (ZIKV) viruses have added complexity to Aedes-borne disease prevention and control efforts. Because these viruses are transmitted by the same vectors in urban areas, it is useful to understand if sequential outbreaks caused by these viruses have commonalities, such as similar seasonal and spatial patterns, that would help anticipate and perhaps prevent future outbreaks. We explored and analyzed the heterogeneity of confirmed cases of DENV (2010–2014 and 2015–2022) and ZIKV (2016–2017) during outbreaks in the San Juan metropolitan area of Puerto Rico to explore their degree of overlap and prioritize areas for Aedes aegypti control. Deidentified, georeferenced case data were aggregated into grid cells (500 × 500 m) within a geographical information system of the study area and analyzed to calculate the degree of overlap between outbreaks. Spatial autocorrelations using local indicators of spatial associations were conducted to identify significant disease case hot spots and correlations between outbreaks. We found that 75% of cases during the three transmission periods were concentrated in 25% of the total number of grid cells covering the study area. We also found significant clustering of cases during each outbreak, enabling identification of consistent disease hot spots. Our results showed 85% spatial overlap between cases of ZIKV in 2015–2017 and DENV in 2010–2014 and 97% overlap between DENV cases in 2010–2014 and 2015–2022. These results reveal urban areas at greater risk of future arbovirus outbreaks that should be prioritized for vector control."
+  },
+  {
+   "paperId": "8e21b79d6782c28f4debbd1fa8a3ddfa26aa63ff",
+   "externalIds": {
+    "PubMedCentral": "11293470",
+    "DOI": "10.11604/pamj.2024.47.185.43298",
+    "CorpusId": 269201096,
+    "PubMed": "39092020"
+   },
+   "url": "https://www.semanticscholar.org/paper/8e21b79d6782c28f4debbd1fa8a3ddfa26aa63ff",
+   "title": "The need for active and integrated involvement of the community and health professionals in the prevention and control of dengue hemorrhagic fever in Indonesia",
+   "venue": "The Pan African Medical Journal",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.11604/pamj.2024.47.185.43298",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11293470, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Editorial",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-04-16",
+   "authors": [
+    {
+     "authorId": "153778472",
+     "name": "M. Lusno"
+    },
+    {
+     "authorId": "66327458",
+     "name": "Setya Haksama"
+    },
+    {
+     "authorId": "12204498",
+     "name": "R. Yudhastuti"
+    },
+    {
+     "authorId": "144045582",
+     "name": "S. Zubaidah"
+    },
+    {
+     "authorId": "151497283",
+     "name": "A. al Mamun"
+    },
+    {
+     "authorId": "2295545184",
+     "name": "Abubakar Tarawally"
+    },
+    {
+     "authorId": "2210265085",
+     "name": "M. Farid"
+    },
+    {
+     "authorId": "9206796",
+     "name": "H. Nugroho"
+    }
+   ],
+   "abstract": "Successful control and prevention of dengue fever requires active involvement from all parties. For this reason, three innovative programs are needed, namely: i) increasing knowledge, attitude and practice (KAP) of the community and health professionals as capital in controlling dengue fever in a sustainable manner; ii) application of “3M Plus” to suppress vector breeding in household settings; iii) promotion of the “Jumantik” program as an effective community empowerment approach to prevent and control dengue fever based on community independence. It was concluded that successful control of dengue fever requires integration of the community and health workers through various innovative programs."
+  },
+  {
+   "paperId": "c1a22f6511052459f887fd772badbb47cddfbf7d",
+   "externalIds": {
+    "PubMedCentral": "10058638",
+    "DOI": "10.3390/vaccines11030575",
+    "CorpusId": 257351228,
+    "PubMed": "36992159"
+   },
+   "url": "https://www.semanticscholar.org/paper/c1a22f6511052459f887fd772badbb47cddfbf7d",
+   "title": "Knowledge, Attitudes and Practices toward Dengue Fever, Vector Control, and Vaccine Acceptance Among the General Population in Countries from Latin America and Asia Pacific: A Cross-Sectional Study (GEMKAP)",
+   "venue": "Vaccines",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-393X/11/3/575/pdf?version=1679041773",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10058638, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-03-01",
+   "authors": [
+    {
+     "authorId": "2399610",
+     "name": "A. Shafie"
+    },
+    {
+     "authorId": "3750379",
+     "name": "E. Moreira"
+    },
+    {
+     "authorId": "2460117794",
+     "name": "A. Di Pasquale"
+    },
+    {
+     "authorId": "48581133",
+     "name": "D. Demuth"
+    },
+    {
+     "authorId": "2210722332",
+     "name": "Joanne Yoong Su Yin"
+    }
+   ],
+   "abstract": "Dengue represents a major public health concern. With effective vaccines in development, it is important to identify motivational factors to maximize dengue vaccine uptake. A cross-sectional, quantitative, electronic survey was administered to a nationally representative adult population (n = 3800) in Argentina, Brazil, Colombia, Mexico, Indonesia, Malaysia, and Singapore. Willingness to vaccinate against dengue, and Knowledge, Attitudes, and Practices (KAP) toward dengue, vector control, prevention, and vaccination were determined. The Capability, Opportunity, Motivation for Behavior change (COM-B) framework was used to identify factors correlated with dengue vaccine(s) uptake. KAP scores (standardized, 0–100% scale) resulted in a low global score for Knowledge (48%) and Practice (44%), and a moderate score for Attitude (66%); scores were comparable across countries. Of all respondents, 53% had a high willingness (Score: 8–10/10) to vaccinate against dengue, which was higher (59%) in Latin America (Argentina, Brazil, Colombia, Mexico) than in Asia Pacific (40%) (Indonesia, Malaysia, Singapore). Key factors significantly (p < 0.05) associated with increased willingness to vaccinate included accessibility to the public (subsidies and incentives) and trust in the healthcare system and government. A common approach to dengue prevention across endemic countries––with some country-specific customization, including education, vaccination, and vector control (multi-pronged)––may reduce dengue burden and improve outcomes."
+  },
+  {
+   "paperId": "c9c420b896921cc951fcd12ba31b41e5bce2219a",
+   "externalIds": {
+    "PubMedCentral": "10892244",
+    "DOI": "10.3390/vaccines12020184",
+    "CorpusId": 267643340,
+    "PubMed": "38400167"
+   },
+   "url": "https://www.semanticscholar.org/paper/c9c420b896921cc951fcd12ba31b41e5bce2219a",
+   "title": "Sustainable Dengue Prevention and Management: Integrating Dengue Vaccination Strategies with Population Perspectives",
+   "venue": "Vaccines",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-393X/12/2/184/pdf?version=1707723345",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10892244, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-01",
+   "authors": [
+    {
+     "authorId": "2399610",
+     "name": "A. Shafie"
+    },
+    {
+     "authorId": "3750379",
+     "name": "E. Moreira"
+    },
+    {
+     "authorId": "2064976536",
+     "name": "G. Vidal"
+    },
+    {
+     "authorId": "2460117794",
+     "name": "A. Di Pasquale"
+    },
+    {
+     "authorId": "2283982216",
+     "name": "Andrew Green"
+    },
+    {
+     "authorId": "2555459129",
+     "name": "Rie Tai"
+    },
+    {
+     "authorId": "3828374",
+     "name": "J. Yoong"
+    }
+   ],
+   "abstract": "The GEMKAP study (2023) unveiled consistent knowledge, attitude, and practice (KAP) levels across Asia-Pacific (APAC) and Latin America (LATAM) countries regarding dengue, with variations in the willingness to vaccinate. Despite an overall KAP parity, the disparities within and between the countries indicated the need for both overarching and tailored strategies. Population-wide gaps in dengue awareness result in suboptimal vaccination priorities and preventive measures. This commentary delves into identifying the drivers and barriers for implementing a multi-pronged dengue prevention and management program, emphasizing the pivotal role of vaccination alongside education and vector control. Drawing on expert interviews in APAC and LATAM, informed by the Consolidated Framework for Implementation Research (CFIR), four key themes emerged: prioritizing and continuously advocating for dengue on national health agendas, fostering stakeholder collaboration, incorporating population perspectives for behavioral change, and designing sustainable dengue prevention and management programs. Successful implementation requires evidence-based decision making and a comprehensive understanding of population dynamics to design adaptive education tailored to diverse population views. This commentary provides actionable strategies for enhancing dengue prevention and management, with a pronounced emphasis on dengue vaccination, advocating for a holistic, population-centric approach for sustained effectiveness."
+  },
+  {
+   "paperId": "e7ceb2f00675c3eba16f4e9742be354e2d96304f",
+   "externalIds": {
+    "MAG": "3091422638",
+    "PubMedCentral": "7534600",
+    "DOI": "10.1016/j.heliyon.2020.e05181",
+    "CorpusId": 222135296,
+    "PubMed": "33043162"
+   },
+   "url": "https://www.semanticscholar.org/paper/e7ceb2f00675c3eba16f4e9742be354e2d96304f",
+   "title": "COVID-19 lockdown: impact assessment on Aedes larval indices, breeding habitats, effects on vector control programme and prevention of dengue outbreaks",
+   "venue": "Heliyon",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.heliyon.2020.e05181",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7534600, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-10-01",
+   "authors": [
+    {
+     "authorId": "146048137",
+     "name": "Appadurai Daniel Reegan"
+    },
+    {
+     "authorId": "1997410742",
+     "name": "M. Rajiv Gandhi"
+    },
+    {
+     "authorId": "2496951341",
+     "name": "Antony Cruz Asharaja"
+    },
+    {
+     "authorId": "90724346",
+     "name": "C. Devi"
+    },
+    {
+     "authorId": "38549941",
+     "name": "S. P. Shanthakumar"
+    }
+   ],
+   "abstract": "Aedes aegypti (Linn.) and Aedes albopictus (Skuse) are widespread vector mosquitoes responsible for the transmission of various disease-causing viruses to human including dengue virus (DENV). India is endemic for dengue disease and both of these vector mosquitoes are well established throughout India. Since, Aedes mosquitoes breeds in containers, WHO recommends to do a regular immature surveillance and implement appropriate control measures. Owing to the current COVID-19 pandemic, most of the countries have implemented continuous shutdown/lockdown, which affected the routine Aedes surveillance and vector control measures. In India, the first nation-wide lockdown was implemented on 24th, March 2020. As of now, Government of India has extended the lockdown till 30th, June 2020. In the present study, two rounds of Aedes surveillance was carried out in two localities of Bengaluru City (urban) of Karnataka State, India during the COVID-19 lockdown days and results were compared with pre-lockdown surveillance data to assess the impact of lockdown on Aedes larval indices, breeding habitats and dengue vector control programme. The recorded house index (HI) and Breteau index (BI) were 6.6 and 9.3 in K.P. Agrahara and 4.0 and 5.3 in Palace Guttahalli during pre-lockdown survey. The house index (HI) and Breteau index (BI) were found to be increased to 26.6 and 34.6 in K.P. Agrahara and 21.3 and 28.0 in Palace Guttahalli during the COVID-19 lockdown second survey. Aedes immature density has drastically increased in both the localities due to temporarily discontinued Aedes surveillance, larval control activities like source reduction and anti-larval measures during COVID-19 lockdown. The high indices show that the vector is increasing and this may result in higher dengue virus transmission. The results highly recommend to implement the Aedes vector control programme with limited health staffs following the physical distance and other protectives measures to prevent dengue outbreaks."
+  }
+ ]
+}

@@ -1,0 +1,871 @@
+{
+ "query": "Renewable energy transition in Southeast Asia",
+ "retrieved_at": "2026-11-18T18:01:26.506853+00:00",
+ "data": [
+  {
+   "DOI": "10.1016/j.rset.2026.100152",
+   "title": [
+    "Target-based energy transitions in the electricity systems of Southeast Asia: A comparative study of Indonesia, the Philippines, and Vietnam"
+   ],
+   "container-title": [
+    "Renewable and Sustainable Energy Transition"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.rset.2026.100152",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0002-9334-1041",
+     "authenticated-orcid": false,
+     "given": "M.R.",
+     "family": "Dzikrurrokhim",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "E.O.",
+     "family": "Ahlgren",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-99-2683-1_9",
+   "title": [
+    "Renewable Energy Procurement in Southeast Asia: Challenges and Opportunities"
+   ],
+   "container-title": [
+    "State-of-the-Art Indonesia Energy Transition"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-99-2683-1_9",
+   "author": [
+    {
+     "given": "Dinita",
+     "family": "Setyawati",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Purnomo Yusgiantoro Center",
+   "abstract": "<jats:p>One of the strategies used to decrease the production of greenhouse gases is to promote the use of clean, renewable energy. Mitigation initiatives are also part of the action plan to meet the Paris Agreement, which aims to keep global temperature rise below 1.5°C. The growth of the new and renewable energy mix is influenced by a variety of factors, including the economy, technology, energy consumption behavior, financial support, and policy instruments implemented by a country. The novelty of this study lies in examining the effects of five policy tools (i.e., net metering, feed-in tariffs, renewable portfolio standards/quotas, tax incentives, and auctions) on renewable energy growth across Southeast Asian countries grouped by gross domestic product per capita level, which are high (i.e., Singapore, Brunei), upper-middle (i.e., Indonesia, Malaysia, Thailand), and lower-middle (i.e., Cambodia, Myanmar). A fixed-effect model under the Feasible Generalized Least Squares approach was used for panel data estimation with data spanning from 2010 to 2022. It was found that of the 5 policy instruments utilized, net metering, feed-in tariffs, and renewable energy portfolios had a substantial impact on the accelerating renewable energy growth. In comparison, auctions and tax incentives did not. According to the findings, the three types of policy instruments can be strengthened and utilized as recommendations to accelerate the transition to new and renewable energy.</jats:p>",
+   "DOI": "10.33116/ije.v9i1.287",
+   "type": "journal-article",
+   "title": [
+    "Policy Instruments Reform for Growth and Renewable Energy Transition in the Southeast Asia Region"
+   ],
+   "author": [
+    {
+     "given": "Mahfita",
+     "family": "Ardyarum",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/01wk3d929",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "University of Brawijaya"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Indonesian Journal of Energy"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2,
+      27
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.33116/ije.v9i1.287"
+  },
+  {
+   "DOI": "10.1016/j.rser.2022.112226",
+   "title": [
+    "Accelerating a clean energy transition in Southeast Asia: Role of governments and public policy"
+   ],
+   "container-title": [
+    "Renewable and Sustainable Energy Reviews"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.rser.2022.112226",
+   "author": [
+    {
+     "given": "J.",
+     "family": "Aleluia",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "P.",
+     "family": "Tharakan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0947-7556",
+     "authenticated-orcid": false,
+     "given": "A.P.",
+     "family": "Chikkatur",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8476-0108",
+     "authenticated-orcid": false,
+     "given": "G.",
+     "family": "Shrimali",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "X.",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1142/9789819812608_0001",
+   "title": [
+    "Advancing Access to Renewable Energy in Southeast Asia to Enhance Energy Security"
+   ],
+   "container-title": [
+    "Energy Security, Transition, and Economic Growth"
+   ],
+   "publisher": "WORLD SCIENTIFIC",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      26
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1142/9789819812608_0001",
+   "author": [
+    {
+     "given": "FARHAD",
+     "family": "TAGHIZADEH-HESARY",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Tokai University Research Institute for Environment and Sustainability (TRIES), Tokai University, Tokyo, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "EHSAN",
+     "family": "RASOULINEZHAD",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of World Studies, Tehran University,Tehran, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "HAN",
+     "family": "PHOUMIN",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Economic Research Institute for ASEAN and East Asia, Indonesia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "LILU",
+     "family": "VANDERCAMME",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Economics, Keio University, Tokyo, Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.22617/tcs230310-2",
+   "title": [
+    "Renewable Energy Manufacturing"
+   ],
+   "publisher": "Asian Development Bank",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.22617/tcs230310-2",
+   "author": [
+    {
+     "name": "Asian Development Bank",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:p>China offers the Global Energy Interconnections as a planetary project\nto deliver sustainable development and climate action through\nlarge-scale energy transition. What does this mean for Southeast Asian\ncountries’ regional quest for greater energy connectivity? Although\nChina-Southeast Asia interconnections promise a durable regional energy\nconnectivity, bringing distant renewable energy to demand centers using\nGEI technologies, these future energy systems are not free of\nchallenges: technical and political. A closer look at this future\ninterconnection further reveals other chokepoints: politically powerful\ndomestic energy regimes; levels of trust between China and these\ncountries; aging and absent transmission infrastructures; heterogeneous\nnational energy markets and regulations; and differing receptions\ntowards China’s externalization of its surplus industrial capacity.</jats:p>",
+   "DOI": "10.1002/essoar.10504751.1",
+   "type": "posted-content",
+   "title": [
+    "Interconnecting China’s Renewable Energy: Promises and Pitfalls of China-Southeast Asia Energy Connectivity"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8637-4609",
+     "authenticated-orcid": false,
+     "given": "Laurence",
+     "family": "Delina",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Hong Kong University of Science and Technology"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      11,
+      13
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1002/essoar.10504751.1"
+  },
+  {
+   "DOI": "10.4324/9781315559261-25",
+   "title": [
+    "Renewable energy governance"
+   ],
+   "container-title": [
+    "How Power Shapes Energy Transitions in Southeast Asia"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      12,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781315559261-25"
+  },
+  {
+   "DOI": "10.1016/j.rser.2020.110403",
+   "title": [
+    "Ocean renewable energy development in Southeast Asia: Opportunities, risks and unintended consequences"
+   ],
+   "container-title": [
+    "Renewable and Sustainable Energy Reviews"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.rser.2020.110403",
+   "author": [
+    {
+     "given": "M.A.J.R.",
+     "family": "Quirapas",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Taeihagh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781315559261-30",
+   "title": [
+    "Renewable energy governance"
+   ],
+   "container-title": [
+    "How Power Shapes Energy Transitions in Southeast Asia"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      12,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781315559261-30"
+  },
+  {
+   "DOI": "10.1007/978-981-15-8905-8_1",
+   "title": [
+    "Framing the Renewable Energy Context for Asia"
+   ],
+   "container-title": [
+    "Renewable Energy Transition in Asia"
+   ],
+   "publisher": "Springer Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-15-8905-8_1",
+   "author": [
+    {
+     "given": "Nandakumar",
+     "family": "Janardhanan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vaibhav",
+     "family": "Chaturvedi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Springer Singapore",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The Gulf Cooperation Council (GCC) region plays a vital role in shaping the global energy markets because of its substantial amount of hydrocarbons resources. Although the GCC has abundant hydrocarbon resources, countries in the region have also shown their commitment and intent to become the global leaders in alternate energy, especially, renewable energy through their “Visions and Laws”. Further, All the countries in the Middle East have also set targets for the deployment of renewable energy at the federal or local level.</jats:p>\n                  <jats:p>For several decades, there has been steady economic and population growth of the Middle East countries, with most of the region’s wealth and socio-economic development, tied to its substantial oil and gas resources. Renewable energy can provide an alternative to their energy landscape, which holds a vast potential to cut fuel costs, reduce GHG emissions.</jats:p>\n                  <jats:p>\n                    To promote renewable energy, in the last five years, renewable energy has gained a lot of interest in the Gulf Cooperation Council (GCC) countries. Low tariffs bids for renewable energy generation in the United Arab Emirates (UAE) and Saudi Arabia since 2016 have made renewable energy, especially solar power competitive with conventional energy (International Renewable Energy Agency.\n                    <jats:italic>Renewable Energy Market Analysis-GCC 2019.</jats:italic>\n                    s.l.: International Renewable Energy Agency, 2019).\n                  </jats:p>\n                  <jats:p>\n                    With the push from the decision-makers to reduce the risk of dependence fossil fuels, the renewable energy plans can be implemented in the GCC. Decision-makers in the GCC have recognized the need for a plan for the post-oil era. This chapter will explore the GCC long term policies and government’s role in shaping the renewable energy market. Further, the chapter will also explore the challenges &amp; opportunities related to the renewable energy sector in GCC (International Renewable Energy Agency.\n                    <jats:italic>Renewable Energy Market Analysis-GCC 2019.</jats:italic>\n                    s.l.: International Renewable Energy Agency, 2019).\n                  </jats:p>",
+   "DOI": "10.1007/978-981-15-8905-8_8",
+   "type": "book-chapter",
+   "title": [
+    "Renewable Energy Deployment to Stimulate Energy Transition in the Gulf Cooperation Council"
+   ],
+   "author": [
+    {
+     "given": "Yagyavalk",
+     "family": "Bhatt",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Renewable Energy Transition in Asia"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1007/978-981-15-8905-8_8"
+  },
+  {
+   "DOI": "10.1016/j.renene.2023.01.022",
+   "title": [
+    "Role of trade and green bond market in renewable energy deployment in Southeast Asia"
+   ],
+   "container-title": [
+    "Renewable Energy"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.renene.2023.01.022",
+   "author": [
+    {
+     "given": "Weijian",
+     "family": "Dong",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ying",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pengpeng",
+     "family": "Gao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yunpeng",
+     "family": "Sun",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.renene.2025.124762",
+   "title": [
+    "Hydrogen energy integration for renewable power transition in South Asia: A strategic assessment towards sustainable development"
+   ],
+   "container-title": [
+    "Renewable Energy"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.renene.2025.124762",
+   "author": [
+    {
+     "given": "Muhammad",
+     "family": "Aziz",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003110071",
+   "title": [
+    "Sustainable Energy in Central Asia"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      28
+     ]
+    ]
+   },
+   "type": "monograph",
+   "URL": "https://doi.org/10.4324/9781003110071",
+   "author": [
+    {
+     "given": "Nigora",
+     "family": "Djalilova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1355/9789815306026-005",
+   "title": [
+    "1. Green Financing for a Sustainable Energy Transition in Southeast Asia: Analysis of Public and Private Investments, 2010–21"
+   ],
+   "container-title": [
+    "Energy and Decarbonization in Southeast Asia, volume 2"
+   ],
+   "publisher": "ISEAS–Yusof Ishak Institute Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1355/9789815306026-005",
+   "author": [
+    {
+     "given": "Paul",
+     "family": "Bertheau",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.64628/aa.ms4mudxkx",
+   "title": [
+    "Imagine it’s 2030 and Australia is a renewable energy superpower in Southeast Asia"
+   ],
+   "publisher": "The Conversation Media Group Ltd",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      10
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.64628/aa.ms4mudxkx",
+   "author": [
+    {
+     "given": "Melissa",
+     "family": "Tyler",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "The University of Melbourne"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003110071-7",
+   "title": [
+    "Socioeconomic impact of the deployment of renewable energy sources"
+   ],
+   "container-title": [
+    "Sustainable Energy in Central Asia"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      28
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003110071-7",
+   "author": [
+    {
+     "given": "Nigora",
+     "family": "Djalilova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.renene.2024.121797",
+   "title": [
+    "The contribution of energy policies to green energy transition in the Asia-Pacific region"
+   ],
+   "container-title": [
+    "Renewable Energy"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.renene.2024.121797",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8780-1983",
+     "authenticated-orcid": false,
+     "given": "Nurcan",
+     "family": "Kilinc",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0205-825X",
+     "authenticated-orcid": false,
+     "given": "Liliana N.",
+     "family": "Proskuryakova",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "rScroll",
+   "abstract": "<jats:p>Abstract: \r\n \r\nRenewable energy sources, such as solar, wind, and hydropower, offer great promise in the fight against climate change. The use of these clean energy sources can significantly reduce greenhouse gas emissions and help mitigate the impacts of global warming. One of the biggest advantages of renewable energy is that it is sustainable and does not deplete natural resources. Unlike fossil fuels, which are finite and create harmful emissions when burned, renewable energy sources can be replenished naturally and emit little to no greenhouse gasses. This makes them a crucial component in the transition to a low-carbon economy and a sustainable future.\r\nSolar energy has great potential in Southeast Asia due to the region's high levels of solar irradiation. Several countries in the region, including Thailand, Malaysia, Vietnam, and the Philippines, have implemented policies and incentives to encourage the deployment of solar energy systems.\r\nHydropower is another significant source of renewable energy in Southeast Asia, particularly in countries with large rivers and mountainous regions such as Laos, Cambodia, and Myanmar. However, the development of large hydropower projects has faced criticism due to their potential environmental and social impacts.\r\nWind energy is less prevalent in Southeast Asia, but there are increasing efforts to develop wind power in some countries, such as Vietnam and the Philippines. However, the region's low wind speeds and limited land availability for wind turbines have limited the potential for large-scale deployment.\r\nBut what is the status of the uptake of solar, wind, and hydropower energies? This paper focuses on South East Asia and the uptake of renewable energies in the past two decades. We focus on the different laws and policies in place in multiple countries and how those laws have been implemented in the countries, and what remains to be done.</jats:p>",
+   "DOI": "10.47611/jsrhs.v13i2.6811",
+   "type": "journal-article",
+   "title": [
+    "Renewable Energy in Southeast Asia"
+   ],
+   "author": [
+    {
+     "given": "Jeongho",
+     "family": "Woo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Student Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      5,
+      31
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.47611/jsrhs.v13i2.6811"
+  }
+ ]
+}

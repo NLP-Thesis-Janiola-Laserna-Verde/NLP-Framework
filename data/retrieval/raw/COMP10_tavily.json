@@ -1,0 +1,166 @@
+{
+ "query": "Algorithmic bias and fairness in machine learning systems",
+ "retrieved_at": "2026-11-18T17:47:03.537473+00:00",
+ "data": [
+  {
+   "url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/36/e3sconf_iconnect2023_04036.pdf",
+   "title": "Algorithmic Fairness and Bias in Machine Learning Systems",
+   "content": "more priority than others, biased objectives or loss functions can maintain inequities. Fair machine learning algorithms require an understanding of the origins of bias. Strategies for Algorithmic Fairness: Several tactics and techniques have been put forth in the literature to combat algorithmic bias. Pre-processing, in-processing, and post-processing procedures can be used to broadly classify these techniques. Pre-processing methods, including reweighting or creating synthetic data, [...] action to reduce or remove them. In order to reduce bias in training data and increase algorithmic fairness, methods including data preparation, data augmentation, and oversampling of underrepresented groups can be used. The creation of algorithms that are fairness-aware is another essential component. To guarantee that machine learning models generate judgments that are impartial and fair, researchers have put forth a number of different strategies. In order to ensure that the model optimizes [...] must be attained in order to respect moral principles, advance social justice, and prevent prejudices in society from being reinforced or amplified. Machine learning systems may be biased for a number of reasons. The biases prevalent in the training data used to create these systems are one of the main causes. Machine learning models may unintentionally pick up and reinforce biases if historical data reflects social prejudices or systematic imbalances. The model may unintentionally favor one",
+   "score": 0.7977145,
+   "raw_content": null,
+   "id": "eaee69-00"
+  },
+  {
+   "url": "https://www.ibm.com/think/topics/algorithmic-bias",
+   "title": "What Is Algorithmic Bias? | IBM",
+   "content": "### Biases in data\n\nFlawed data is characterized as non-representative, lacking information, historically biased or otherwise “bad” data. It leads to algorithms that produce unfair outcomes and amplify any biases in the data. AI systems that use biased results as input data for decision-making create a feedback loop that can also reinforce bias over time. This cycle, where the algorithm continuously learns and perpetuates the same biased patterns, leads to increasingly skewed results. [...] ### Biases in proxy data\n\nAI systems sometimes use proxies as a stand-in for protected attributes, like race or gender. However, proxies can be unintentionally biased as they might have a false or accidental correlation with the sensitive attributes they were meant to replace. For example, if an algorithm uses postal codes as a proxy for economic status, it might unfairly disadvantage certain groups where postal codes are associated with specific racial demographics.\n\n### Biases in evaluation [...] # What is algorithmic bias?\n\nPublished 20 September 2024\n\nUpdated 08 July 2026\n\nTwo businesswoman working together using digital tablet pc at modern office\n\nBy Alexandra Jonker and Julie Rogers\n\n## What is algorithmic bias?\n\nAlgorithmic bias occurs when systematic errors in machine learning algorithms%20to%20learn.) produce unfair or discriminatory outcomes. It often reflects or reinforces existing socioeconomic, racial and gender biases.",
+   "score": 0.7864589,
+   "raw_content": null,
+   "id": "cbbd83-01"
+  },
+  {
+   "url": "https://oecs.mit.edu/pub/b61joemo",
+   "title": "Algorithmic Bias — OECS",
+   "content": "Individual fairness is based on the idea that similar individuals should receive similar outcomes from a machine learning system (Dwork et al., 2011). Unlike group fairness, which compares outcomes across demographic groups, individual fairness focuses on consistency at the person-to-person level. Counterfactual fairness is, for example, a type of individual fairness in which a decision or prediction is considered fair if it would remain the same in the real world and a hypothetical [...] Although bias can arise at any and all stages of the AI pipeline and lifecycle, the most commonly studied types of bias focus on bias from data and its processing (i.e., bias that might occur in both the content of the data and its processing pipeline) and bias from model training and evaluation (i.e., bias that might be introduced by training architecture and dynamics and optimization choices or evaluation methodology). Fairness in machine learning is a core concept and a broad umbrella that [...] Seeking technical solutions to complex historical and societal problems, numerous scholars have argued, is not only methodologically limiting but also serves to blur accountability and responsibility. Within the fairness in machine learning approaches, addressing bias primarily consists of mathematical characterization of fairness at the level of data preparation, model learning, or postprocessing, which might result in some incremental change in an algorithm. Broader societal issues that are",
+   "score": 0.7801604,
+   "raw_content": null,
+   "id": "d46887-02"
+  },
+  {
+   "url": "https://lcheng.org/files/TAI_Fairness_chapter_2022.pdf",
+   "title": "[PDF] Algorithmic Fairness in Machine Learning - Lu Cheng",
+   "content": "5 Conclusions In this chapter, we provide a comprehensive review of the current state of knowledge in this critical area of fairness in machine learning. First, we divide algorithmic fair-ness into two broad categories: prediction outcome discrimination and prediction quality parity. Based on this categorization, we introduce some typical fairness met-Algorithmic Fairness in Machine Learning 23 rics. Second, we have discussed representative bias mitigation algorithms, from pre-processing, [...] Algorithmic Fairness in Machine Learning 7 First, the causing reasons are different. For prediction outcome discrimination, due to sampling bias, the privileged group is more correlated with the favorable la-bel and vice versa. Machine learning models have captured this kind of data bias and even amplify data bias through spurious learning (i.e., shortcut learning) . [...] Sampling Bias Amplification Bias Underrepresentation Bias Outcome Discrimination ✓ ✓ Quality Disparity ✓ ✓ typical example [26, 29]. Compared to bias in machine learning, fairness is a more specialized field because only biases that are important to humans may be referred to as fairness problems. We only discuss the three bias families that are most likely to lead to the fairness problem (see Table 2), which can be used to explain most types of algorithmic unfairness, as discussed in the",
+   "score": 0.77029204,
+   "raw_content": null,
+   "id": "3269dc-03"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=Ezap2E2BHTs",
+   "title": "AI Bias & Fairness: Understanding Algorithmic Bias in Machine Learning",
+   "content": "[1:29] inaccurate measur M ment methods during data collection then there's prejudicial bias reflecting historical discrimination or\n[1:37] stereotypes that are unintentionally incorporated into the training data finally aggregation bias which happens\n[1:44] when an AI model incorrectly groups distinct populations leading to inaccurate results for specific\n[1:52] subgroups let's consider an example of gender bias in language models word embeddings often reflect societal gender [...] [0:32] systematically prejudiced results this happens due to erroneous assumptions in the machine learning process in simple\n[0:39] words it means the AI system makes unfair decisions regularly some key aspects to remember are these are\n[0:47] systematic errors in artificial intelligence systems that create unfair outcomes it reflects historical biases\n[0:54] present in training data it can amplify existing social inequalities and it is often unintentional but [...] [1:04] impactful there are several types of algorithmic bias that can affect the outcomes of AI systems here's a breakdown of some key types first is\n[1:13] sampling bias which occurs when the training data does not accurately represent the population the AI will be used on this often leads to\n[1:21] underrepresented groups in training data second we have measurement bias resulting from poor feature selection or",
+   "score": 0.7559974,
+   "raw_content": null,
+   "id": "091c07-04"
+  },
+  {
+   "url": "https://arize.com/blog-course/algorithmic-bias-examples-tools",
+   "title": "Algorithmic Bias: Examples and Tools for Tackling Model Fairness In Production - Arize AI",
+   "content": "Algorithmic bias is the tendency of a machine learning model to make consistent, systematic errors in its predictions. A model will tend to systematically learn the wrong signals by not considering all the information contained within the data. Model bias may lead an algorithm to miss the relevant relationship between data inputs (features) and targeted outputs (predictions). In essence, bias arises when an algorithm has insufficient capability in learning the appropriate signal from the [...] Biases can be introduced into the machine learning process and reinforced by model predictions from a variety of sources. At various phases of the model’s development, insufficient data, inconsistent data collecting, and poor data practices can all lead to bias in the model’s decisions. While these biases are typically unintentional, their existence can have a substantial influence on machine learning systems and result in disastrous outcomes — from employment discrimination to misdiagnosis in [...] | In-processing | In-processing refers to any action that changes the training process of a machine learning model. | If we can’t intervene at the earliest (pre-processing) due to computational constraints or constraints on  proprietary or licensed data, the next best option for addressing model fairness is in the training process. Intervening at this stage can allow teams to keep their training data sets raw and unaltered. |  Model regularization via adding an additional term to the model’s",
+   "score": 0.7442848,
+   "raw_content": null,
+   "id": "df4982-05"
+  },
+  {
+   "url": "https://pub.towardsai.net/why-ethics-in-ai-matters-tackling-bias-and-building-fair-machine-learning-systems-9ec1f1a5ffb9",
+   "title": "Why Ethics in AI Matters: Tackling Bias and Building Fair Machine Learning Systems",
+   "content": "It was shown that a popular healthcare algorithm in the US consistently understates Black patients’ probability of getting sick. The model suggested Black patients were healthier than they actually were because it used healthcare prices as a proxy for need, and historically, Black patients received less care. Despite being seen as “high-performing” by conventional accuracy standards, this resulted in notable discrepancies in access to care.\n\n## Challenges and Best Practices [...] The resume screening algorithm used by Amazon punished resumes that included phrases related to women’s experiences, such as “captain of the women’s chess club.” Resumes sent to the company over a ten-year period, when the applicant pool was predominantly male, were used to train the model. After internal reviews revealed the tool’s discriminatory nature, Amazon finally discontinued it.\n\n### Twitter’s Image Cropping Algorithm [...] Responsible AI is a rapidly developing field. Academic frameworks for causal fairness and explainability, specialized regulatory measures (such as the EU AI Act), and interdisciplinary teams in large enterprises are also emerging.\n\nIn the next few years, we can expect:\n\n   Greater integration of fairness metrics in mainstream ML libraries\n   Legal mandates for algorithmic audits and transparency reports\n   The rise of fairness-by-design tools and automated monitoring systems",
+   "score": 0.73829186,
+   "raw_content": null,
+   "id": "33c525-06"
+  },
+  {
+   "url": "https://unece.org/sites/default/files/2025-10/Companion%20Paper%20on%20Fairness%20in%20Machine%20Learning_Responsible%20AI%20Framework_ADSaMM%20group.pdf",
+   "title": "Fairness in Machine Learning - UNECE",
+   "content": "Algorithmic processing bias occurs when the algorithm itself is biased because of the choices made during the design process. • Deployment bias occurs when an",
+   "score": 0.73392886,
+   "raw_content": null,
+   "id": "2c860c-07"
+  },
+  {
+   "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2023_c74f03de-en/full-report/algorithmic-bias-the-state-of-the-situation-and-policy-recommendations_a0b7cec1.html",
+   "title": "Algorithmic bias: the state of the situation and policy recommendations: OECD Digital Education Outlook 2023",
+   "content": "The term _algorithmic bias_ has been used to describe many problems of fairness in automated systems, only some of which map onto statistical or technical definitions of bias. Some researchers define the term broadly, referring to _biases_ as the set of possible harms throughout the machine-learning process, including any “unintended or potentially harmful” properties of the data that lead to “unwanted or societally unfavourable outcome[s]” [(Suresh and Guttag, 2021)]( Others apply _algorithmic [...] Much current work addressing algorithmic bias has focused on mitigation at the model evaluation and post‑processing stages of the machine-learning process. Recent surveys present several taxonomies and definitions of fairness with related metrics [(Barocas, Hardt and Narayanan, 2019;]( and Haas, 2020;]( and Lee, 2022;]( et al., 2021;]( et al., 2020;]( and Rubin, 2018)]( While these formalised metrics make a clear contribution to clarifying algorithmic bias, their application has revealed [...] In known bias, it is now known that there is a problem, where it is occurring, and who is impacted. Our knowledge may still be incomplete, but it is sufficient to potentially take action. Once we know what the bias is, it becomes possible to move towards _fairness._ There is increasing understanding of the steps that can be taken to increase the fairness of algorithms, within the broader machine-learning community [(Mehrabi et al., 2021;]( 2018)]( Although this work remains far from perfect,",
+   "score": 0.7272981,
+   "raw_content": null,
+   "id": "3d0614-08"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Fairness_(machine_learning)",
+   "title": "Fairness (machine learning) - Wikipedia",
+   "content": "Fairness in machine learning (ML) refers to the various attempts to correct algorithmic bias in automated decision processes based on ML models. Decisions made by such models after a learning process may be considered unfair if they were based on variables considered sensitive (e.g., gender, ethnicity, sexual orientation, or disability). [...] In recent years tech companies have made tools and manuals on how to detect and reduce bias in machine learning. IBM has tools for Python \"Python (programming language)\") and R \"R (programming language)\") with several algorithms to reduce software bias and increase its fairness. Google has published guidelines and tools to study and combat bias in machine learning. Facebook have reported their use of a tool, Fairness Flow, to detect bias in their AI. However, critics have argued that the [...] An entire branch of the academic research on fairness metrics is devoted to leverage causal models to assess bias in machine learning models. This approach is usually justified by the fact that the same observational distribution of data may hide different causal relationships among the variables at play, possibly with different interpretations of whether the outcome are affected by some form of bias or not.",
+   "score": 0.72671664,
+   "raw_content": null,
+   "id": "e92785-09"
+  },
+  {
+   "url": "https://sites.google.com/view/kdd19-fairness-tutorial",
+   "title": "KDD'19 Fairness Tutorial",
+   "content": "of higher risk scores of recidivism with minorities, over/under-representation and racial/gender stereotypes in image search results, and incorporation of gender and other human biases as part of algorithmic tools). One possible reason is that machine learned prediction models that are trained on datasets that exhibit existing societal biases end up learning them and can reinforce such bias in its results, potentially even amplifying the effect of biases. In light of the importance of [...] posed by the use of such data-driven systems. Researchers and practitioners from different disciplines have highlighted the potential for such systems to discriminate against certain population groups, due to biases in algorithmic decision-making systems. Several studies have shown that ranked lists produced by a biased machine learning model can result in systematic discrimination and reduced visibility for an already disadvantaged group (e.g., disproportionate association of higher risk [...] Researchers and practitioners from different disciplines have highlighted the ethical and legal challenges posed by the use of machine learned models and data-driven systems, and the potential for such systems to discriminate against certain population groups, due to biases in algorithmic decision-making systems. This tutorial presents an overview of algorithmic bias / discrimination issues observed over the last few years and the lessons learned, key regulations and laws, and evolution of",
+   "score": 0.7208598,
+   "raw_content": null,
+   "id": "6e2a0c-10"
+  },
+  {
+   "url": "https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/docs/Survery_of_Bias_and_Fairness_in_ML.pdf",
+   "title": "[PDF] A Survey on Bias and Fairness in Machine Learning",
+   "content": "In  authors extended a formalization of algorithmic fairness from their previous work to the setting of learning optimal policies that are subject to constraints based on definitions of fairness.\nThey describe several strategies for learning optimal policies by modifying some of the existing strategies, such as Q-learning, value search, and G-estimation, based on some fairness considerations. [...] In  authors also propose a debiased VAE architecture called DB-VAE which learns sensitive latent variables that can bias the model (e.g., skin tone, gender, etc.) and propose an algorithm on top of this DB-VAE using these latent variables to debias systems like facial detection systems. In  authors model their representation-learning task as an optimization objective that would minimize the loss of the mutual information between the encoding and the sensitive variable. The relaxed version of [...] subgroup and more expensive to show advertisements to. This optimization algorithm would deliver ads in a discriminatory way although its original and pure intention was to be gender-neutral. Bias in facial recognition systems  and recommender systems  have also been largely studied and evaluated and in many cases shown to be discriminative towards certain populations and subgroups. In order to be able to address the bias issue in these application, it is important for us to know where these",
+   "score": 0.71492666,
+   "raw_content": null,
+   "id": "7f6095-11"
+  },
+  {
+   "url": "https://timkimutai.medium.com/bias-and-fairness-in-machine-learning-a-beginners-guide-to-building-models-that-don-t-play-c9a503c3c78b",
+   "title": "Bias and Fairness in Machine Learning - Medium",
+   "content": "Algorithmic bias is when your machine learning model consistently makes unfair or discriminatory decisions based on protected characteristics",
+   "score": 0.6374823,
+   "raw_content": null,
+   "id": "8258c1-12"
+  },
+  {
+   "url": "https://www.ieai.sot.tum.de/more-than-just-math",
+   "title": "More Than Just Math – How Fairness is Being Approached in AI - Institute for Ethics in Artificial Intelligence",
+   "content": "As with explainability, which we dealt with in a prior blog post, there is no silver bullet for eliminating unfair and discriminatory bias and ensuring fairness in AI systems (Mahoney et al., 2022). With the increasing use of AI systems in sensitive sectors like education, hiring, health care or criminal justice, there is an urgent need to resolve the issue of algorithmic bias and ensure fairness. Accordingly, there has been a growing number of approaches, methods and processes to achieve this. [...] The next step to mitigating unfair bias and improving fairness in AI systems involves identifying and evaluating a given system in terms of its fairness . This is done by a wide range of methods that can be as straightforward as asking end-users and affected groups about the performance of a given system. Other methods involve data auditing to see if, for example, the training data accurately represents the population the system is targetting or if the labelling is done correctly (Mahoney et [...] All these technical methods provide essential tools to mitigate bias, but fairness isn’t something that can be programmed into existence. While technical methods like unfair bias audits, regularisation techniques or post-processing corrections are essential, they can not achieve the goal of improving fairness on their own. Instead, fairness has to incorporate broader societal dynamics of how these systems are developed, who profits from them, how we interact with them, and what place and power",
+   "score": 0.6298884,
+   "raw_content": null,
+   "id": "edfe7d-13"
+  },
+  {
+   "url": "https://www.ijimai.org/index.php/ijimai/article/view/269",
+   "title": "A Review of Bias and Fairness in Artificial Intelligence. | International Journal of Interactive Multimedia and Artificial Intelligence",
+   "content": "Automating decision systems has led to hidden biases in the use of artificial intelligence (AI). Consequently, explaining these decisions and identifying responsibilities has become a challenge. As a result, a new field of research on algorithmic fairness has emerged. In this area, detecting biases and mitigating them is essential to ensure fair and discrimination-free decisions. This paper contributes with: (1) a categorization of biases and how these are associated with different phases of an [...] D. Pessach, E. Shmueli, “Improving fairness of artificial intelligence algorithms in privileged- group selection bias data settings,” Expert Systems with Applications, vol. 185, 12 2021, doi: 10.1016/j.eswa.2021.115667.\n\nD. Pessach, E. Shmueli, “A review on fairness in machine learning,” Association for Computing Machinery: Computing Surveys, vol. 55, feb 2022, doi: 10.1145/3494672. [...] A. Pérez-Suay, V. Laparra, G. Mateo-García, J. Muñoz- Marí, L. Gómez-Chova, G. Camps-Valls, “Fair kernel learning,” in Machine Learning and Knowledge Discovery in Databases, 2017, pp. 339–355, Springer International Publishing.\n\nP. Smith, K. Ricanek, “Mitigating algorithmic bias: Evolving an augmentation policy that is non-biasing,” in 2020 IEEE Winter Applications of Computer Vision Workshops, 2020, pp. 90–97, IEEE.",
+   "score": 0.61230963,
+   "raw_content": null,
+   "id": "00427e-14"
+  },
+  {
+   "url": "https://humanrights.gov.au/sites/default/files/document/publication/final_version_technical_paper_addressing_the_problem_of_algorithmic_bias.pdf",
+   "title": "Addressing the problem of algorithmic bias",
+   "content": "This paper explores how unfairness, and potentially unlawful discrimination, can arise through the operation of AI systems used in decision making. The paper",
+   "score": 0.5963744,
+   "raw_content": null,
+   "id": "7b6673-15"
+  },
+  {
+   "url": "http://ui.adsabs.harvard.edu/abs/2023E3SWC.39904036C/abstract",
+   "title": "Algorithmic Fairness and Bias in Machine Learning Systems - ADS",
+   "content": "This abstract gives a general explanation of the idea of algorithmic fairness, the difficulties posed by bias in machine learning systems, and different",
+   "score": 0.5373449,
+   "raw_content": null,
+   "id": "d59b9e-16"
+  },
+  {
+   "url": "https://www.drps.ed.ac.uk/26-27/dpt/cxefie11466.htm",
+   "title": "Algorithmic Bias, Fairness and Justice (EFIE11466) - DRPS",
+   "content": "Algorithmic fairness is an emerging research area for addressing societal biases in the hope of making data-driven AI systems ethical.",
+   "score": 0.5305862,
+   "raw_content": null,
+   "id": "bafa7f-17"
+  },
+  {
+   "url": "https://nysba.org/bias-and-fairness-in-artificial-intelligence",
+   "title": "Bias and Fairness in Artificial Intelligence - New York State Bar Association",
+   "content": "(#_ednref39) Tiago Palma Pagano et al., Bias and Unfairness in Machine Learning Models: A Systematic Literature Review, Cornell University, arXiv:2202.08176, Nov. 3, 2022, \n\n(#_ednref40) Sergio Charles, The Algorithmic Bias and Misrepresentation of Mixed Race Identities by Artificial Intelligence Systems in the West, Research Based Argument in Vol. 1 No. 1 (2023): AI Frameworks Discission of Abeba Birhane’s “Algorithmic Injustice” and Social Impact Articles (Feb. 16, 2023), [...] Humans are still in the driver seat when it comes to verifying the fairness of a machine learning system at the time of creation, deployment and application, and attorneys are clearly called to verify the liability of the machine learning creators based on various theories among which include product defect, lack of transparency, abuse of privacy, fraud unjust enrichment and intentional use of false information, among others. [...] Previously, in 2022, the White House Office of Science and Technology Policy released a whitepaper intended to be a reference point in the design, use and deployment of machine learning systems to “protect the American public in the age of artificial intelligence.”(#_edn33) Privacy and protection against discrimination take a central stage.",
+   "score": 0.49548355,
+   "raw_content": null,
+   "id": "f9f56d-18"
+  },
+  {
+   "url": "https://www.computer.org/csdl/proceedings-article/trustcom/2023/819900b960/1XlejWAWzao",
+   "title": "Literature Study on Bias and Fairness in Machine Learning Systems",
+   "content": "In this work, we investigated research identifying different sources causing biases impacting artificial intelligence and machine learning applications.",
+   "score": 0.45147765,
+   "raw_content": null,
+   "id": "d57a41-19"
+  }
+ ]
+}

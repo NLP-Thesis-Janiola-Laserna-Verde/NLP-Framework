@@ -1,0 +1,158 @@
+{
+ "query": "Retrieval-augmented generation for reducing hallucination in large language models",
+ "retrieved_at": "2026-11-18T17:42:33.214402+00:00",
+ "data": [
+  {
+   "url": "https://www.digital-alpha.com/reducing-llm-hallucinations-using-retrieval-augmented-generation-rag",
+   "title": "RAG: A Promising Approach to Combat Hallucinations in LLMs - Digital Alpha",
+   "content": "Retrieval-Augmented Generation (RAG): RAG is a promising approach that combines the strengths of LLMs with the factual knowledge from external sources. By retrieving relevant information from a knowledge base or corpus and incorporating it into the generation process, RAG can help reduce hallucination and improve the factual accuracy of the generated text. [...] ### RAG Pipeline:\n\nRAG combines the generative capabilities of LLMs with the precision of information retrieval systems. By integrating real-time information retrieval into the generation process, RAG can ground the model’s responses in up-to-date and relevant data, significantly reducing the likelihood of hallucinations.\n\nThe RAG pipeline typically consists of three main components: [...] RAG can help reduce LLM hallucination in several ways. First, by retrieving relevant documents before generating a response, RAG ensures that the model has access to accurate and up-to-date information. This can help reduce the likelihood of the model generating factually incorrect or outdated information. Second, RAG can help ensure that the model’s responses are faithful to the input prompt. By using the input prompt to retrieve relevant documents, RAG ensures that the model’s responses are",
+   "score": 0.8271311,
+   "raw_content": null,
+   "id": "e7c430-00"
+  },
+  {
+   "url": "https://www.saspublishers.com/media/articles/SJET_135_328-330.pdf",
+   "title": "Retrieval-Augmented Generation and Hallucination in Large ...",
+   "content": "information, thereby enhancing factual accuracy. 4. RAG vs. Hallucination: Empirical Insights 4.1 Hallucination Reduction Empirical studies have demonstrated that RAG significantly reduces hallucination rates across various tasks. For example, Shuster et al., (2021) reported up to a 35% reduction in hallucinated responses in open-domain question answering. Similarly, Borgeaud et al., (2022) showed that RETRO, a retrieval-based model, outperforms similarly sized LLMs in factual benchmarks. 4.2 [...] such as through reinforcement learning from human feedback (RLHF), may further reduce hallucinations (Ouyang et al., 2022). 7. CONCLUSION Retrieval-Augmented Generation represents a promising paradigm for enhancing the factual accuracy of LLMs and reducing hallucinations. While challenges remain, particularly in aligning retriever and generator components, the approach has shown robust empirical gains and continues to evolve. As LLMs become increasingly integrated into high-stakes domains, the [...] domains such as healthcare, law, and scientific research. Retrieval-Augmented Generation (RAG) is a hybrid approach that incorporates external document retrieval into the generation process, aiming to ground responses in factual information (Lewis et al., 2020). By combining the strengths of traditional information retrieval with neural language modeling, RAG offers a mechanism to reduce hallucinations and enhance factual consistency. 2. Understanding Hallucination in LLMs 2.1 Definition and",
+   "score": 0.82573026,
+   "raw_content": null,
+   "id": "7f79e0-01"
+  },
+  {
+   "url": "https://thenewstack.io/reduce-ai-hallucinations-with-retrieval-augmented-generation",
+   "title": "Reduce AI Hallucinations with Retrieval Augmented Generation - The New Stack",
+   "content": "Integrating RAG into LLMs doesn’t only improve the accuracy of their responses, but it also maximizes their potential. The process enables LLMs to focus on what they excel at: intelligently generating content from a prompt. The model is no longer the sole source of information because RAG provides it with relevant proprietary knowledge when required, and the corpus of knowledge accessible to the model can be expanded and updated without expensive model-training jobs. [...] Once the relevant documents have been retrieved, the query, along with these documents, is used to generate a response from the model. This way, the model doesn’t have to rely solely on its internal knowledge but can access whatever data you provide it at the right time. The model is therefore better equipped to provide more accurate and contextually appropriate responses, by incorporating proprietary data stored in a database that offers vector search as a feature. [...] Fine-tuning offers many benefits for optimizing LLMs. But it’s also got some limitations. For one, it doesn’t allow for dynamic integration of new or proprietary data. The model’s knowledge remains static post-training, leading it to hallucinate when asked about data outside of its training set. RAG, on the other hand, dynamically retrieves and incorporates up-to-date and proprietary data from an external database, mitigating the hallucination issue and providing more contextually accurate",
+   "score": 0.80131465,
+   "raw_content": null,
+   "id": "55cfc9-02"
+  },
+  {
+   "url": "https://iclr.cc/virtual/2025/poster/27644",
+   "title": "ICLR Poster ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability",
+   "content": "we propose ReDeEP, a novel method that detects hallucinations by decoupling LLM’s utilization of external context and parametric knowledge. Our experiments show that ReDeEP significantly improves RAG hallucination detection accuracy. Additionally, we introduce AARF, which mitigates hallucinations by modulating the contributions of Knowledge FFNs and Copying Heads. [...] Retrieval-Augmented Generation (RAG) models are designed to incorporate external knowledge, reducing hallucinations caused by insufficient parametric (internal) knowledge. However, even with accurate and relevant retrieved content, RAG models can still produce hallucinations by generating outputs that conflict with the retrieved information. Detecting such hallucinations requires disentangling how Large Language Models (LLMs) balance external and parametric knowledge. Current detection methods [...] detection methods often focus on one of these mechanisms or without decoupling their intertwined effects, making accurate detection difficult. In this paper, we investigate the internal mechanisms behind hallucinations in RAG scenarios. We discover hallucinations occur when the Knowledge FFNs in LLMs overemphasize parametric knowledge in the residual stream, while Copying Heads fail to effectively retain or integrate external knowledge from retrieved content. Based on these findings, we propose",
+   "score": 0.783823,
+   "raw_content": null,
+   "id": "c10a88-03"
+  },
+  {
+   "url": "https://medium.com/@nakateashwath/mitigating-hallucinations-in-retrieval-augmented-generation-rag-systems-a65880ec5505",
+   "title": "Mitigating Hallucinations in Retrieval-Augmented Generation (RAG) Systems",
+   "content": "## Conclusion\n\nWhile RAG significantly reduces the hallucination rate of LLMs, it does not eliminate it entirely. A layered approach that strengthens retrieval, structures generation, enforces source fidelity, and verifies outputs is essential. As LLMs continue to integrate with mission-critical applications, rigorous hallucination mitigation will be pivotal for trustworthy AI.\n\n_Further Reading:_\n\n   RAG Paper by Patrick Lewis.\n   Reducing Hallucination in Language Models with RAG [...] > _Relevant resource:__Semantic Search with Sentence Transformers_\n\n### 2. Context-Aware Prompting\n\nExplicitly structure prompts to instruct the model to rely strictly on the provided context.\n\nPress enter or click to view image in full size\n\nImage 5\n\n_Constructing context-aware prompts to encourage LLMs to limit their responses to retrieved factual information, reducing the likelihood of hallucinations._\n\n> _Learn more about prompt engineering:__OpenAI Prompting Guide_ [...] ## Understanding Hallucinations in RAG\n\nRAG systems retrieve relevant documents from a knowledge base and use them to condition the response of an LLM. However, hallucinations may still occur due to:\n\n1.   Retrieval Errors: Irrelevant or outdated documents retrieved.\n2.   Insufficient Conditioning: The LLM underutilizes retrieved context.\n3.   Generative Overreach: LLMs extrapolate or fabricate details not grounded in the retrieval context.",
+   "score": 0.7833262,
+   "raw_content": null,
+   "id": "4c140d-04"
+  },
+  {
+   "url": "https://sciety.org/articles/activity/10.31219/osf.io/pv7r5",
+   "title": "Hallucination Reduction in Large Language Models with Retrieval-Augmented Generation Using Wikipedia Knowledge | Sciety",
+   "content": "Natural language understanding and generation have seen great progress, yet the persistent issue of hallucination undermines the reliability of model outputs. Introducing retrieval-augmented generation (RAG) with external knowledge sources, such as Wikipedia, presents a novel and significant approach to enhancing factual accuracy and coherence in generated content. By dynamically integrating relevant information, the Mistral model demonstrates substantial improvements in precision, recall, and [...] recall, and overall quality of responses. This research offers a robust framework for mitigating hallucinations, providing valuable insights for deploying reliable AI systems in critical applications. The comprehensive evaluation underscores the potential of RAG to advance the performance and trustworthiness of large language models. [...] ## Article activity feed\n\n1. \n\n   Version published to 10.31219/osf.io/pv7r5 on OSF Preprints\n\n## Related articles\n\n1. ### BanglaDiaHallu: Hallucinations of large language models and the effect of guideline-grounded retrieval-augmented generation in Bangla diabetes question answering\n\n   This article has 6 authors:",
+   "score": 0.7762839,
+   "raw_content": null,
+   "id": "b0fc30-05"
+  },
+  {
+   "url": "https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems",
+   "title": "Detect hallucinations for RAG-based systems | Artificial Intelligence",
+   "content": "With the rise of generative AI and knowledge extraction in AI systems, Retrieval Augmented Generation (RAG) has become a prominent tool for enhancing the accuracy and reliability of AI-generated responses. RAG is as a way to incorporate additional data that the large language model (LLM) was not trained on. This can also help reduce generation of false or misleading information (hallucinations). However, even with RAG’s capabilities, the challenge of AI hallucinations remains a significant [...] ### Get hallucination classifications from the LLM\n\nThe next step is to use the prompt, dataset, and LLM to get hallucination scores for each response from your RAG system. Taking this a step further, you can use a threshold to determine whether the response is a hallucination or not. See the following code: [...] We can use an LLM to classify the responses from our RAG system into context-conflicting hallucinations and facts. The aim is to identify which responses are based on the context or whether they contain hallucinations.\n\nThis approach consists of the following steps:\n\n### Create a prompt template",
+   "score": 0.75635755,
+   "raw_content": null,
+   "id": "be487c-06"
+  },
+  {
+   "url": "https://www.k2view.com/blog/rag-hallucination",
+   "title": "RAG hallucination: What is it and how to avoid it",
+   "content": "As explained, RAG is not a silver bullet and cannot completely eliminate AI hallucinations. Retrieval-augmented generation is limited by its:\n\n Data quality\n\n  RAG relies on the quality and accuracy of the internal knowledge bases it searches. Biases or errors in these sources can still influence the LLM's response.\n Contextual awareness [...] How does RAG work? When a user asks a question, RAG retrieves information specifically relevant to that query from up-to-date internal sources, then combines that information with the user's query. RAG creates an enhanced prompt which is fed to the LLM, allowing the model to generate a response based on both its inherent external knowledge combined with up-to-date internal data. By allowing the LLM to ground its answer in real internal data, active retrieval-augmented generation improves [...] RAG AI combats AI hallucinations by providing factual grounding. RAG searches an organization’s private data sources for relevant information to supplement the LLM's public knowledge – allowing it to anchor its responses in actual data, reducing the risk of fabricated or whimsical outputs.",
+   "score": 0.75292206,
+   "raw_content": null,
+   "id": "88046e-07"
+  },
+  {
+   "url": "https://www.ijfmr.com/research-paper.php?id=89701",
+   "title": "Evaluating Retrieval-Augmented Generation for Reducing ...",
+   "content": "More importantly, RAG reduced the hallucination rate on unanswerable queries from 100.00% down to 36.00%. Average Faithfulness and Retrieval",
+   "score": 0.7468782,
+   "raw_content": null,
+   "id": "5f7f54-08"
+  },
+  {
+   "url": "https://www.vectara.com/blog/correcting-hallucinations-in-large-language-models",
+   "title": "Correcting Hallucinations in Large Language Models",
+   "content": "As we mention in our hallucination detection blog post, one of the most effective methods for reducing hallucinations is grounding LLM responses in a set of provided documents (also called references). In other words Augmenting Generation with Retrieval aka RAG. However, even RAG is not the catch-all solution to the hallucination problem, and as Vectara’s Hallucination Leaderboard shows modern LLMs hallucinate anywhere from 1% to nearly 30% of the time even when generating outputs based on [...] From the perspective of retrieval augmented generation, where you want your answers to only depend on the supporting documents, this is a form of hallucination. Table 1 below shows a few examples of such cases. [...] In this blog post, we introduce Mockingbird, Vectara’s Retrieval Augmented Generation (RAG) and structured output focused LLM, and do a technical deep dive into its performance and discuss its technical capabilities.\n\nIntroducing Boomerang – Vectara’s New and Improved Retrieval Model\n\nRetrieval and Search\n\n# Introducing Boomerang – Vectara’s New and Improved Retrieval Model",
+   "score": 0.73961055,
+   "raw_content": null,
+   "id": "91b8c7-09"
+  },
+  {
+   "url": "https://www.nec-labs.com/blog/reducing-hallucinations-of-medical-multimodal-large-language-models-with-visual-retrieval-augmented-generation",
+   "title": "Reducing Hallucinations of Medical Multimodal Large Language Models with Visual Retrieval-Augmented Generation",
+   "content": "image caption generation datasets, we show that Visual RAG improves the accuracy of entity probing, which asks whether a medical entities is grounded by an image. We show that the improvements extend both to frequent and rare entities, the latter of which may have less positive training data. Downstream, we apply V-RAG with entity probing to correct hallucinations and generate more clinically accurate X-ray reports, obtaining a higher RadGraph-F1 score. [...] Abstract: Multimodal Large Language Models (MLLMs) have shown impressive performance in vision and text tasks. However, hallucination remains a major challenge, especially in fields like healthcare where details are critical. In this work, we show how MLLMs may be enhanced to support Visual RAG (V-RAG), a retrieval-augmented generation framework that incorporates both text and visual data from retrieved images. On the MIMIC-CXR chest X-ray report generation and Multicare medical image caption [...] Reference: pp. 1-8, 2025\n\nAuthors: Yun-Wei Chu, NEC Laboratories America, Purdue University; Kai Zhang, NEC Laboratories America, Lehigh University; Christopher Malon, NEC Laboratories America, Inc.; Martin Renqiang Min, NEC Laboratories America, Inc.",
+   "score": 0.73866904,
+   "raw_content": null,
+   "id": "4e64bc-10"
+  },
+  {
+   "url": "https://www.kaggle.com/datasets/sohaibdevv/hallucination-reduction-in-rag-based-llms",
+   "title": "Hallucination Reduction in RAG-Based LLMs",
+   "content": "This dataset is designed to support research on hallucination detection and reduction in Large Language Models (LLMs) using Retrieval-Augmented Generation (RAG) techniques. Each data instance represents a single query-response interaction, capturing both LLM outputs with and without retrieval support. [...] Question & Ground Truth: User query + correct verified answer  \n Retrieved Context (RAG): External knowledge used for support  \n LLM Responses:  \n Without RAG (normal output)  \n With RAG (context-based output)\n\n## Hallucination Labels:\n\n0 = correct\n\n1 = hallucinated\n\n## Evaluation Scores:\n\nFactual consistency\n\nContext relevance\n\nView more\n\n## Usability\n\ninfo\n\n10.00\n\n## License\n\nCC0: Public Domain\n\n## Expected update frequency\n\nNever\n\n## Tags [...] vpn_key sample_id sort\nunique record ID text_format domain sort\nquestion category text_format question sort\nuser query text_format ground_truth_answer sort\ncorrect answer text_format retrieved_context sort\nexternal supporting text text_format llm_response_without_rag sort\nLLM output without context text_format llm_response_with_rag sort\nLLM output with RAG grid_3x3 hallucination_label_without_rag sort\n0/1 error label (no RAG)grid_3x3 hallucination_label_with_rag sort",
+   "score": 0.70629174,
+   "raw_content": null,
+   "id": "9e1394-11"
+  },
+  {
+   "url": "https://www.scribd.com/document/1068731452/Evaluating-the-Efficacy-of-Retrieval-Augmented-Generation-RAG-in-Reducing-Hallucinations-in-Large-Language-Models",
+   "title": "Evaluating the Efficacy of Retrieval-Augmented Generation (RAG ...",
+   "content": "This study evaluates the effectiveness of Retrieval-Augmented Generation (RAG) in reducing hallucinations in Large Language Models (LLMs) across Healthcare,",
+   "score": 0.6312534,
+   "raw_content": null,
+   "id": "2cdd47-12"
+  },
+  {
+   "url": "https://www.linkedin.com/pulse/reducing-hallucinations-language-models-using-ravindra-rapaka-off1f",
+   "title": "Reducing Hallucinations in Language Models Using Retrieval- ...",
+   "content": "The recent studies seem to be in utilizing the Retrieval-Augmented Generation (RAG) which has emerged as an effective strategy against the",
+   "score": 0.57910293,
+   "raw_content": null,
+   "id": "a6e8ef-13"
+  },
+  {
+   "url": "https://www.springerprofessional.de/en/reducing-hallucinations-in-retrieval-augmented-llm-question-answ/53086898",
+   "title": "Reducing Hallucinations in Retrieval-Augmented LLM Question Answering for Indian Code-Mixed Queries | springerprofessional.de",
+   "content": "### Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book QA\n\nMG-CRAG: fusion of multi-granular retrieval evaluators in corrective RAG with weakly supervised fine-tuning\n\n### MG-CRAG: fusion of multi-granular retrieval evaluators in corrective RAG with weakly supervised fine-tuning\n\nControlling Hallucinations in RAG: A Comparative Study of Structured System Prompts for Factual Grounding [...] Link to Book Smart Trends in Computing and Communications\n\n## Abstract\n\n## Abstract\n\nThis summary of the content was generated with the help of AI.\n\n## You may also like\n\nAgentic Workflow for Reliable RAG: Reducing Hallucinations with Coordinated Reasoning\n\n### Agentic Workflow for Reliable RAG: Reducing Hallucinations with Coordinated Reasoning\n\nNavigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book QA [...] ### Controlling Hallucinations in RAG: A Comparative Study of Structured System Prompts for Factual Grounding\n\n### MyTopic Alert\n\nLogin for updating and creating your alerts.\n\n## Already a customer? Then log in here to gain access.\n\n## Not a customer yet? Then find out more about our access models now:\n\nMiniLizenz_EN-1\n\n## Individual Access\n\nStart your personal individual access now. Get instant access to more than 164,000 books and 540 journals – including PDF downloads and new releases.",
+   "score": 0.57110894,
+   "raw_content": null,
+   "id": "2f7d76-14"
+  },
+  {
+   "url": "https://cancer.jmir.org/2025/1/e70176",
+   "title": "Reducing Hallucinations and Trade-Offs in ... - JMIR Cancer",
+   "content": "by S Nishisako · 2025 · Cited by 55 — Returning wrong information is called hallucination. Retrieval-augmented generation (RAG), which supplements large language model (LLM) outputs",
+   "score": 0.56481874,
+   "raw_content": null,
+   "id": "96ad1a-15"
+  },
+  {
+   "url": "https://ai.stackexchange.com/questions/50575/what-s-the-most-effective-way-to-reduce-hallucinations-in-enterprise-rag-systems",
+   "title": "What's the most effective way to reduce hallucinations in enterprise RAG ...",
+   "content": "We’ve been testing different approaches for reducing hallucinations in production-grade LLM applications, especially in retrieval-augmented generation",
+   "score": 0.55880857,
+   "raw_content": null,
+   "id": "413e58-16"
+  },
+  {
+   "url": "https://aclanthology.org/2024.naacl-industry.19",
+   "title": "Reducing hallucination in structured outputs via Retrieval-Augmented Generation - ACL Anthology",
+   "content": "ACL Logo\n\n###### Details\n\n## Reducing hallucination in structured outputs via Retrieval-Augmented Generation\n\nPatrice Béchard,\nOrlando Marquez Ayala\n\n##### Correct Metadata for\n\n##### Abstract\n\n##### Export citation\n\n##### Markdown (Informal)\n\nReducing hallucination in structured outputs via Retrieval-Augmented Generation (Béchard & Marquez Ayala, NAACL 2024)\n\n##### ACL [...] Creative Commons License\n\nThe ACL Anthology is managed and built by the ACL Anthology team of volunteers.\n\nSite last built on 21 October 2026 at 01:31 UTC with commit 2dd9f3c. [...] ##### ACL\n\nCreative Commons License\nACL materials are Copyright © 1963–2026 ACL; other materials are copyrighted by their respective copyright holders. Materials prior to 2016 here are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License. Permission is granted to make copies for the purposes of teaching and research. Materials published in or after 2016 are licensed on a Creative Commons Attribution 4.0 International License.",
+   "score": 0.5387406,
+   "raw_content": null,
+   "id": "171d7e-17"
+  },
+  {
+   "url": "https://www.facebook.com/groups/aimlmalaysia/posts/2150293192037570",
+   "title": "How to reduce hallucination in LLMs, particularly in RAG and domain- ...",
+   "content": "Morning to everyone, I have a questions for those who are researching in LLMs region, particularly in RAG (Retrieval Augmented Generation) or",
+   "score": 0.46274617,
+   "raw_content": null,
+   "id": "1c12c1-18"
+  }
+ ]
+}

@@ -1,0 +1,873 @@
+{
+ "query": "Explainable artificial intelligence methods for deep neural networks",
+ "retrieved_at": "2026-11-18T17:44:15.681242+00:00",
+ "data": [
+  {
+   "paperId": "3c49d6400b3143b7642d65b724d5c0168683237d",
+   "externalIds": {
+    "PubMedCentral": "12475248",
+    "DOI": "10.1038/s41598-025-15146-x",
+    "CorpusId": 281615080,
+    "PubMed": "41006487"
+   },
+   "url": "https://www.semanticscholar.org/paper/3c49d6400b3143b7642d65b724d5c0168683237d",
+   "title": "Explainable artificial intelligence-based cyber resilience in internet of things networks using hybrid deep learning with improved chimp optimization algorithm",
+   "venue": "Scientific Reports",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-025-15146-x.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12475248, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-26",
+   "authors": [
+    {
+     "authorId": "2287397192",
+     "name": "Sarah A. Alzakari"
+    },
+    {
+     "authorId": "69329729",
+     "name": "Mohammed Aljebreen"
+    },
+    {
+     "authorId": "2311815289",
+     "name": "Nazir Ahmad"
+    },
+    {
+     "authorId": "32063446",
+     "name": "Sultan Alahmari"
+    },
+    {
+     "authorId": "2349409063",
+     "name": "Othman A. Alrusaini"
+    },
+    {
+     "authorId": "2349518078",
+     "name": "Ali Alqazzaz"
+    },
+    {
+     "authorId": "2347025035",
+     "name": "Hassan Alkhiri"
+    },
+    {
+     "authorId": "2348640287",
+     "name": "Yahia F. Said"
+    }
+   ],
+   "abstract": "The rapid growth of the Internet of Things (IoT) has driven new research into artificial intelligence (AI)-based methods for detecting anomalies. With its advanced capabilities, AI can automate tasks, analyze large datasets, and accurately identify vulnerabilities. The lack of transparency in cybersecurity systems makes it difficult to explain critical decisions and associated risks clearly. Machine learning (ML)-based intrusion detection systems (IDS) excel in threat detection but encounter threats due to limited transparency and scarce attack data, specifically in IoT. This paper presents the Explainable Artificial Intelligence for Cyber Resilience Using a Hybrid Deep Learning and Optimization Algorithm (XAICR-HDLOA) approach to improve cyber threat detection and interpretation in IoT environments. Min-max normalization is initially applied to standardize feature scales, followed by the Bald Eagle Search (BES) model for selecting key features. Moreover, the hybrid Convolutional Neural Networks-Bidirectional Gated Recurrent Unit (CNN-BiGRU) model is employed for cyberattack classification. Furthermore, the Improved Chimp Optimizer Algorithm (IChoA) is implemented for the hyperparameter tuning process. Finally, SHAP is applied to improve model interpretability, increasing trust and reliability in cybersecurity. Simulations on the Edge-IIoT and BoT-IoT datasets highlight the efficiency of the XAICR-HDLOA approach, achieving high accuracy of 98.41% and 98.25%, outperforming existing methods."
+  },
+  {
+   "paperId": "a077798a65ab902d84a43acf333da897b69ae4c9",
+   "externalIds": {
+    "ArXiv": "2202.07276",
+    "DOI": "10.1063/5.0087310",
+    "CorpusId": 246863489,
+    "PubMed": "35459300"
+   },
+   "url": "https://www.semanticscholar.org/paper/a077798a65ab902d84a43acf333da897b69ae4c9",
+   "title": "Explaining reaction coordinates of alanine dipeptide isomerization obtained from deep neural networks using Explainable Artificial Intelligence (XAI).",
+   "venue": "Journal of Chemical Physics",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://aip.scitation.org/doi/pdf/10.1063/5.0087310",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2202.07276, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-02-15",
+   "authors": [
+    {
+     "authorId": "50990695",
+     "name": "Takuma Kikutsuji"
+    },
+    {
+     "authorId": "2161473151",
+     "name": "Yusuke Mori"
+    },
+    {
+     "authorId": "8420964",
+     "name": "K. Okazaki"
+    },
+    {
+     "authorId": "3059712",
+     "name": "Toshifumi Mori"
+    },
+    {
+     "authorId": "14694269",
+     "name": "Kang-Min Kim"
+    },
+    {
+     "authorId": "2067359",
+     "name": "Nobuyuki Matubayasi"
+    }
+   ],
+   "abstract": "A method for obtaining appropriate reaction coordinates is required to identify transition states distinguishing the product and reactant in complex molecular systems. Recently, abundant research has been devoted to obtaining reaction coordinates using artificial neural networks from deep learning literature, where many collective variables are typically utilized in the input layer. However, it is difficult to explain the details of which collective variables contribute to the predicted reaction coordinates owing to the complexity of the nonlinear functions in deep neural networks. To overcome this limitation, we used Explainable Artificial Intelligence (XAI) methods of the Local Interpretable Model-agnostic Explanation (LIME) and the game theory-based framework known as Shapley Additive exPlanations (SHAP). We demonstrated that XAI enables us to obtain the degree of contribution of each collective variable to reaction coordinates that is determined by nonlinear regressions with deep learning for the committor of the alanine dipeptide isomerization in vacuum. In particular, both LIME and SHAP provide important features to the predicted reaction coordinates, which are characterized by appropriate dihedral angles consistent with those previously reported from the committor test analysis. The present study offers an AI-aided framework to explain the appropriate reaction coordinates, which acquires considerable significance when the number of degrees of freedom increases."
+  },
+  {
+   "paperId": "b74a949828e536bff2f4e35151f43ebe23beb78c",
+   "externalIds": {
+    "PubMedCentral": "12473817",
+    "DOI": "10.3390/plants14182841",
+    "CorpusId": 281286693,
+    "PubMed": "41011993"
+   },
+   "url": "https://www.semanticscholar.org/paper/b74a949828e536bff2f4e35151f43ebe23beb78c",
+   "title": "Recent Trends in Machine Learning, Deep Learning, Ensemble Learning, and Explainable Artificial Intelligence Techniques for Evaluating Crop Yields Under Abnormal Climate Conditions",
+   "venue": "Plants",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2223-7747/14/18/2841/pdf?version=1757646518",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12473817, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-01",
+   "authors": [
+    {
+     "authorId": "2268031085",
+     "name": "J. Choi"
+    },
+    {
+     "authorId": "2335240899",
+     "name": "Mohamad Soleh Hidayat"
+    },
+    {
+     "authorId": "2323630600",
+     "name": "S. Cho"
+    },
+    {
+     "authorId": "2323624241",
+     "name": "Woon-Ha Hwang"
+    },
+    {
+     "authorId": "2243043302",
+     "name": "Hoonsoo Lee"
+    },
+    {
+     "authorId": "3349437",
+     "name": "B. Cho"
+    },
+    {
+     "authorId": "2311303560",
+     "name": "Moon S. Kim"
+    },
+    {
+     "authorId": "5025387",
+     "name": "I. Baek"
+    },
+    {
+     "authorId": "2268038625",
+     "name": "G. Kim"
+    }
+   ],
+   "abstract": "Crop yield prediction (CYP) has become increasingly critical in addressing the adverse effects of abnormal climate and enhancing agricultural productivity. This review investigates the application of advanced Artificial Intelligence (AI) techniques including Machine Learning (ML), Deep Learning (DL), Ensemble Learning, and Explainable AI (XAI) to CYP. It also explores the use of remote sensing and imaging technologies, identifies key environmental factors, and analyzes the primary causes of yield reduction. A wide diversity of input features was observed across studies, largely influenced by data availability and specific research goals. Stepwise feature selection was found to be more effective than increasing feature volume in improving model accuracy. Frequently used algorithms include Random Forest (RF) and Support Vector Machines (SVM) for ML, Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs) for DL, as well as stacking-based ensemble methods. Although XAI remains in the early stages of adoption, it shows strong potential for interpreting complex, multi-dimensional CYP models. Hyperspectral imaging (HSI) and multispectral imaging (MSI), often collected via drones, were the most commonly used sensing techniques. Major factors contributing to yield reduction included atmospheric and soil-related conditions under abnormal climate, as well as pest outbreaks, declining soil fertility, and economic constraints. Providing a comprehensive overview of AI-driven CYP frameworks, this review offers insights that support the advancement of precision agriculture and the development of data-informed agricultural policies."
+  },
+  {
+   "paperId": "a90ee340141d78e97b87415af6fba83460bcb406",
+   "externalIds": {
+    "DBLP": "journals/nca/MuruganKS25",
+    "DOI": "10.1007/s00521-024-10790-2",
+    "CorpusId": 274791441
+   },
+   "url": "https://www.semanticscholar.org/paper/a90ee340141d78e97b87415af6fba83460bcb406",
+   "title": "Efficient breast cancer detection using neural networks and explainable artificial intelligence",
+   "venue": "Neural computing & applications (Print)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00521-024-10790-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00521-024-10790-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-12-16",
+   "authors": [
+    {
+     "authorId": "2230802056",
+     "name": "Tamilarasi Kathirvel Murugan"
+    },
+    {
+     "authorId": "2185102197",
+     "name": "P. Karthikeyan"
+    },
+    {
+     "authorId": "2380844918",
+     "name": "Pavithra Sekar"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "7dd4c5a9aafa6e357c915e88a953d7b4869cbf01",
+   "externalIds": {
+    "PubMedCentral": "11820747",
+    "DOI": "10.3390/s25030847",
+    "CorpusId": 276024783,
+    "PubMed": "39943488"
+   },
+   "url": "https://www.semanticscholar.org/paper/7dd4c5a9aafa6e357c915e88a953d7b4869cbf01",
+   "title": "An Intrusion Detection System over the IoT Data Streams Using eXplainable Artificial Intelligence (XAI)",
+   "venue": "Italian National Conference on Sensors",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/s25030847",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11820747, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-30",
+   "authors": [
+    {
+     "authorId": "2343150283",
+     "name": "Adel Alabbadi"
+    },
+    {
+     "authorId": "1700909",
+     "name": "Fuad Bajaber"
+    }
+   ],
+   "abstract": "The rise in intrusions on network and IoT systems has led to the development of artificial intelligence (AI) methodologies in intrusion detection systems (IDSs). However, traditional AI or machine learning (ML) methods can compromise accuracy due to the vast, diverse, and dynamic nature of the data generated. Moreover, many of these methods lack transparency, making it challenging for security professionals to make predictions. To address these challenges, this paper presents a novel IDS architecture that uses deep learning (DL)-based methodology along with eXplainable AI (XAI) techniques to create explainable models in network intrusion detection systems, empowering security analysts to use these models effectively. DL models are needed to train enormous amounts of data and produce promising results. Three different DL models, i.e., customized 1-D convolutional neural networks (1-D CNNs), deep neural networks (DNNs), and pre-trained model TabNet, are proposed. The experiments are performed on seven different datasets of TON_IOT. The CNN model for the network dataset achieves an impressive accuracy of 99.24%. Meanwhile, for the six different IoT datasets, in most of the datasets, the CNN and DNN achieve 100% accuracy, further validating the effectiveness of the proposed models. In all the datasets, the least-performing model is TabNet. Implementing the proposed method in real time requires an explanation of the predictions generated. Thus, the XAI methods are implemented to understand the essential features responsible for predicting the particular class."
+  },
+  {
+   "paperId": "bf4d6ad36ce33b644c820b4f1757606a4eac15b9",
+   "externalIds": {
+    "DBLP": "journals/aeog/KakogeorgiouK21",
+    "ArXiv": "2104.01375",
+    "DOI": "10.1016/j.jag.2021.102520",
+    "CorpusId": 233024721
+   },
+   "url": "https://www.semanticscholar.org/paper/bf4d6ad36ce33b644c820b4f1757606a4eac15b9",
+   "title": "Evaluating Explainable Artificial Intelligence Methods for Multi-label Deep Learning Classification Tasks in Remote Sensing",
+   "venue": "International Journal of Applied Earth Observation and Geoinformation",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303243421002270/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2104.01375, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-04-03",
+   "authors": [
+    {
+     "authorId": "2064596258",
+     "name": "Ioannis Kakogeorgiou"
+    },
+    {
+     "authorId": "144542193",
+     "name": "K. Karantzalos"
+    }
+   ],
+   "abstract": "Although deep neural networks hold the state-of-the-art in several remote sensing tasks, their black-box operation hinders the understanding of their decisions, concealing any bias and other shortcomings in datasets and model performance. To this end, we have applied explainable artificial intelligence (XAI) methods in remote sensing multi-label classification tasks towards producing human-interpretable explanations and improve transparency. In particular, we utilized and trained deep learning models with state-of-the-art performance in the benchmark BigEarthNet and SEN12MS datasets. Ten XAI methods were employed towards understanding and interpreting models' predictions, along with quantitative metrics to assess and compare their performance. Numerous experiments were performed to assess the overall performance of XAI methods for straightforward prediction cases, competing multiple labels, as well as misclassification cases. According to our findings, Occlusion, Grad-CAM and Lime were the most interpretable and reliable XAI methods. However, none delivers high-resolution outputs, while apart from Grad-CAM, both Lime and Occlusion are computationally expensive. We also highlight different aspects of XAI performance and elaborate with insights on black-box decisions in order to improve transparency, understand their behavior and reveal, as well, datasets' particularities."
+  },
+  {
+   "paperId": "05aae448e22849d56418fefb06ca810836e27a69",
+   "externalIds": {
+    "PubMedCentral": "12748609",
+    "DOI": "10.1038/s41598-025-28387-7",
+    "CorpusId": 284046168,
+    "PubMed": "41419508"
+   },
+   "url": "https://www.semanticscholar.org/paper/05aae448e22849d56418fefb06ca810836e27a69",
+   "title": "Trustworthy deep learning for malaria diagnosis using explainable artificial intelligence",
+   "venue": "Scientific Reports",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-025-28387-7_reference.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12748609, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-01",
+   "authors": [
+    {
+     "authorId": "2181030",
+     "name": "R. Parveen"
+    },
+    {
+     "authorId": "2399779111",
+     "name": "Baozhi Qui"
+    },
+    {
+     "authorId": "2400708415",
+     "name": "Wei Song"
+    },
+    {
+     "authorId": "65809725",
+     "name": "Nouf Al-kahtani"
+    },
+    {
+     "authorId": "35031901",
+     "name": "M. Jamjoom"
+    },
+    {
+     "authorId": "7903954",
+     "name": "S. M. Mostafa"
+    },
+    {
+     "authorId": "2077623455",
+     "name": "Nadia Sultan"
+    },
+    {
+     "authorId": "9175737",
+     "name": "Joddat Fatima"
+    }
+   ],
+   "abstract": "Malaria remains a major global health concern, particularly in regions with limited healthcare infrastructure. Traditional diagnostic methods such as microscopy, rapid diagnostic tests (RDTs), and polymerase chain reaction (PCR) suffer from scalability, sensitivity, and expertise-related limitations, underscoring the need for automated diagnostic strategies. This study investigates deep learning models for malaria detection from blood smear images. Four convolutional neural networks (CNNs), MobileNetV2, VGG19, InceptionV3, and ResNet18, were empirically evaluated, with ResNet18 achieving the highest F1-score of 96.33%. Building on these results, two advanced hybrid architectures, Xception and Inception-ResNetV2, were fine-tuned on a dataset of 27,090 images from the Kaggle malaria collection, attaining classification accuracies of approximately 98% on validation and test sets. Model robustness was further confirmed using an independent dataset from the Harvard Dataverse containing thick smear images captured under varied staining and imaging conditions, where accuracy remained consistently high (97–98%). To enhance interpretability and clinical trust, three explainable artificial intelligence (XAI) techniques, Gradient-weighted Class Activation Mapping (Grad-CAM), Local Interpretable Model-agnostic Explanations (LIME), and SHapley Additive exPlanations (SHAP), were employed. These complementary methods provide spatial, superpixel, and pixel-level transparency into the models’ decision-making. Furthermore, representative misdiagnosed samples are presented, wherein these visualization techniques reveal morphological and staining artifacts that led to erroneous predictions, clarifying model failure modes and improving transparency. The proposed AI-based diagnostic framework thus demonstrates high accuracy, interpretability, and generalization, representing a scalable solution for malaria detection in resource-limited healthcare settings."
+  },
+  {
+   "paperId": "8893ae7c1a8ae8875e81d76092f2d9d3632a485a",
+   "externalIds": {
+    "PubMedCentral": "11699199",
+    "DOI": "10.1038/s41598-024-84692-7",
+    "CorpusId": 275304094,
+    "PubMed": "39753735"
+   },
+   "url": "https://www.semanticscholar.org/paper/8893ae7c1a8ae8875e81d76092f2d9d3632a485a",
+   "title": "Explainable artificial intelligence with UNet based segmentation and Bayesian machine learning for classification of brain tumors using MRI images",
+   "venue": "Scientific Reports",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-024-84692-7.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11699199, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-03",
+   "authors": [
+    {
+     "authorId": "2338558784",
+     "name": "K. Lakshmi"
+    },
+    {
+     "authorId": "1453607463",
+     "name": "Sibi Amaran"
+    },
+    {
+     "authorId": "2338557834",
+     "name": "G. Subbulakshmi"
+    },
+    {
+     "authorId": "2562405483",
+     "name": "S. Padmini"
+    },
+    {
+     "authorId": "2338558366",
+     "name": "Gyanenedra Prasad Joshi"
+    },
+    {
+     "authorId": "2338554055",
+     "name": "Woong Cho"
+    }
+   ],
+   "abstract": "Detecting brain tumours (BT) early improves treatment possibilities and increases patient survival rates. Magnetic resonance imaging (MRI) scanning offers more comprehensive information, such as better contrast and clarity, than any alternative scanning process. Manually separating BTs from several MRI images gathered in medical practice for cancer analysis is challenging and time-consuming. Tumours and MRI scans of the brain are exposed utilizing methods and machine learning technologies, simplifying the process for doctors. MRI images can sometimes appear normal even when a patient has a tumour or malignancy. Deep learning approaches have recently depended on deep convolutional neural networks to analyze medical images with promising outcomes. It supports saving lives faster and rectifying some medical errors. With this motivation, this article presents a new explainable artificial intelligence with semantic segmentation and Bayesian machine learning for brain tumors (XAISS-BMLBT) technique. The presented XAISS-BMLBT technique mainly concentrates on the semantic segmentation and classification of BT in MRI images. The presented XAISS-BMLBT approach initially involves bilateral filtering-based image pre-processing to eliminate the noise. Next, the XAISS-BMLBT technique performs the MEDU-Net+ segmentation process to define the impacted brain regions. For the feature extraction process, the ResNet50 model is utilized. Furthermore, the Bayesian regularized artificial neural network (BRANN) model is used to identify the presence of BTs. Finally, an improved radial movement optimization model is employed for the hyperparameter tuning of the BRANN technique. To highlight the improved performance of the XAISS-BMLBT technique, a series of simulations were accomplished by utilizing a benchmark database. The experimental validation of the XAISS-BMLBT technique portrayed a superior accuracy value of 97.75% over existing models."
+  },
+  {
+   "paperId": "338862bbb722ff3cb12e37f43578a07db1543b55",
+   "externalIds": {
+    "DOI": "10.1134/S1064230724700138",
+    "CorpusId": 272023851
+   },
+   "url": "https://www.semanticscholar.org/paper/338862bbb722ff3cb12e37f43578a07db1543b55",
+   "title": "Explainable Artificial Intelligence in Deep Learning Neural Nets-Based Digital Images Analysis",
+   "venue": "Journal of computer & systems sciences international",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1134/S1064230724700138?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1134/S1064230724700138, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-02-01",
+   "authors": [
+    {
+     "authorId": "145084187",
+     "name": "A. Averkin"
+    },
+    {
+     "authorId": "2220686419",
+     "name": "E. Volkov"
+    },
+    {
+     "authorId": "19216939",
+     "name": "S. Yarushev"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "d6ed9e170d77d41c016c96ee618f361cc91e06df",
+   "externalIds": {
+    "PubMedCentral": "11488171",
+    "DOI": "10.1080/07853890.2024.2407063",
+    "CorpusId": 273403062,
+    "PubMed": "39417227"
+   },
+   "url": "https://www.semanticscholar.org/paper/d6ed9e170d77d41c016c96ee618f361cc91e06df",
+   "title": "Explainable artificial intelligence and domain adaptation for predicting HIV infection with graph neural networks",
+   "venue": "Annals medicus",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/07853890.2024.2407063?needAccess=true",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11488171, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-17",
+   "authors": [
+    {
+     "authorId": "2176377806",
+     "name": "Evan Yu"
+    },
+    {
+     "authorId": "2111146103",
+     "name": "Jing-Cheng Du"
+    },
+    {
+     "authorId": "2289585775",
+     "name": "Yang Xiang"
+    },
+    {
+     "authorId": "2110049012",
+     "name": "Xin-Yue Hu"
+    },
+    {
+     "authorId": "2154852204",
+     "name": "Jing-Na Feng"
+    },
+    {
+     "authorId": "2204758783",
+     "name": "Xi Luo"
+    },
+    {
+     "authorId": "2326309897",
+     "name": "John A. Schneider"
+    },
+    {
+     "authorId": "2842889",
+     "name": "D. Zhi"
+    },
+    {
+     "authorId": "2240817737",
+     "name": "Kayo Fujimoto"
+    },
+    {
+     "authorId": "2265562916",
+     "name": "Cui Tao"
+    }
+   ],
+   "abstract": "Abstract Objective Investigation of explainable deep learning methods for graph neural networks to predict HIV infections with social network information and performing domain adaptation to evaluate model transferability across different datasets. Methods Network data from two cohorts of younger sexual minority men (SMM) from two U.S. cities (Chicago, IL, and Houston, TX) were collected between 2014 and 2016. Feature importance from graph attention network (GAT) models were determined using GNNExplainer. Domain adaptation was performed to examine model transferability from one city dataset to the other dataset, training with 100% of the source dataset with 30% of the target dataset and prediction on the remaining 70% from the target dataset. Results Domain adaptation showed the ability of GAT to improve prediction over training with single city datasets. Feature importance analysis with GAT models in single city training indicated similar features across different cities, reinforcing potential application of GAT models in predicting HIV infections through domain adaptation. Conclusion GAT models can be used to address the data sparsity issue in HIV study populations. They are powerful tools for predicting individual risk of HIV that can be further explored for better understanding of HIV transmission. KEY MESSAGES In this study, we conducted domain adaptation between two urban areas to predict HIV status by incorporating social network data. We employ GNNExplainer to elucidate the model’s predictions on each city dataset, aligning them with knowledge of HIV risk factors. Domain adaptation resulted in better model performance over individual city training and has great potential for applications in modeling other sexually transmitted infections."
+  },
+  {
+   "paperId": "852ddc22862a82ce1fc158a8f1b5327e84ad53c6",
+   "externalIds": {
+    "DBLP": "journals/artmed/ToumajHN25",
+    "DOI": "10.1016/j.artmed.2025.103243",
+    "CorpusId": 281086886,
+    "PubMed": "40839960"
+   },
+   "url": "https://www.semanticscholar.org/paper/852ddc22862a82ce1fc158a8f1b5327e84ad53c6",
+   "title": "Leveraging explainable artificial intelligence for transparent and trustworthy cancer detection systems",
+   "venue": "Artif. Intell. Medicine",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.artmed.2025.103243?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.artmed.2025.103243, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-14",
+   "authors": [
+    {
+     "authorId": "2145189648",
+     "name": "Shiva Toumaj"
+    },
+    {
+     "authorId": "2063999298",
+     "name": "Arash Heidari"
+    },
+    {
+     "authorId": "2253670",
+     "name": "N. Navimipour"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2f260603c47abfe0bfc9baf48fef40733d07d0e9",
+   "externalIds": {
+    "MAG": "3185234019",
+    "DOI": "10.1016/J.COMPOSITESB.2021.109160",
+    "CorpusId": 237686037
+   },
+   "url": "https://www.semanticscholar.org/paper/2f260603c47abfe0bfc9baf48fef40733d07d0e9",
+   "title": "Investigations on Explainable Artificial Intelligence methods for the deep learning classification of fibre layup defect in the automated composite manufacturing",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1359836821005394/pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.COMPOSITESB.2021.109160?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.COMPOSITESB.2021.109160, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-11-01",
+   "authors": [
+    {
+     "authorId": "1726052704",
+     "name": "Sebastian Meister"
+    },
+    {
+     "authorId": "1726042626",
+     "name": "Mahdieu A. M. Wermes"
+    },
+    {
+     "authorId": "2489216505",
+     "name": "J. Stüve"
+    },
+    {
+     "authorId": "40582307",
+     "name": "R. Groves"
+    }
+   ],
+   "abstract": "Abstract Automated fibre layup techniques are widely used in the aviation sector for the efficient production of composite components. However, the required manual inspection can take up to 50 % of the manufacturing time. The automated classification of fibre layup defects with Neural Networks potentially increases the inspection efficiency. However, the machine decision-making processes of such classifiers are difficult to verify. Hence, we present an approach for analysing the classification procedure of fibre layup defects. Therefore, we comprehensively evaluate 20 Explainable Artificial Intelligence methods from the literature. Accordingly, the techniques Smoothed Integrated Gradients, Guided Gradient Class Activation Mapping and DeepSHAP are applied to a Convolutional Neural Network classifier. These methods analyse the neural activations and robustness of a classifier for an unknown and manipulated input data. Our investigations show that especially Smoothed Integrated Gradients and DeepSHAP are well suited for the visualisation of such classifications. Additionally, maximum-sensitivity and infidelity calculations confirm this behaviour. In future, customers and developers could apply the presented methods for the certification of their inspection systems."
+  },
+  {
+   "paperId": "d3487e1361cc0f4a8962249738074848a70d2fe4",
+   "externalIds": {
+    "DOI": "10.3390/app15137261",
+    "CorpusId": 279833984
+   },
+   "url": "https://www.semanticscholar.org/paper/d3487e1361cc0f4a8962249738074848a70d2fe4",
+   "title": "Explainable Artificial Intelligence: Advancements and Limitations",
+   "venue": "Applied Sciences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-3417/15/13/7261/pdf?version=1751358861",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app15137261?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app15137261, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-06-27",
+   "authors": [
+    {
+     "authorId": "2160733660",
+     "name": "Halil Ibrahim Aysel"
+    },
+    {
+     "authorId": "2290035922",
+     "name": "Xiaohao Cai"
+    },
+    {
+     "authorId": "2494957133",
+     "name": "A. Prügel-Bennett"
+    }
+   ],
+   "abstract": "Explainable artificial intelligence (XAI) has emerged as a crucial field for understanding and interpreting the decisions of complex machine learning models, particularly deep neural networks. This review presents a structured overview of XAI methodologies, encompassing a diverse range of techniques designed to provide explainability at different levels of abstraction. We cover pixel-level explanation strategies such as saliency maps, perturbation-based methods and gradient-based visualisations, as well as concept-based approaches that align model behaviour with human-understandable semantics. Additionally, we touch upon the relevance of XAI in the context of weakly supervised semantic segmentation. By synthesising recent developments, this paper aims to clarify the landscape of XAI methods and offer insights into their comparative utility and role in fostering trustworthy AI systems."
+  },
+  {
+   "paperId": "7fccdcb9d07894d6c64a0826c3fdf8a9eb8483ce",
+   "externalIds": {
+    "PubMedCentral": "12071678",
+    "DOI": "10.3390/diagnostics15091177",
+    "CorpusId": 278386878,
+    "PubMed": "40361994"
+   },
+   "url": "https://www.semanticscholar.org/paper/7fccdcb9d07894d6c64a0826c3fdf8a9eb8483ce",
+   "title": "Explainable Artificial Intelligence for Diagnosis and Staging of Liver Cirrhosis Using Stacked Ensemble and Multi-Task Learning",
+   "venue": "Diagnostics",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/diagnostics15091177",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12071678, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-01",
+   "authors": [
+    {
+     "authorId": "101402242",
+     "name": "Serkan Savaş"
+    }
+   ],
+   "abstract": "Background/Objectives: Liver cirrhosis is a critical chronic condition with increasing global mortality and morbidity rates, emphasizing the necessity for early and accurate diagnosis. This study proposes a comprehensive deep-learning framework for the automatic diagnosis and staging of liver cirrhosis using T2-weighted MRI images. Methods: The methodology integrates stacked ensemble learning, multi-task learning (MTL), and transfer learning within an explainable artificial intelligence (XAI) context to improve diagnostic accuracy, reliability, and transparency. A hybrid model combining multiple pre-trained convolutional neural networks (VGG16, MobileNet, and DenseNet121) with XGBoost as a meta-classifier demonstrated robust performance in binary classification between healthy and cirrhotic cases. Results: The model achieved a mean accuracy of 96.92%, precision of 95.12%, recall of 98.93%, and F1-score of 96.98% across 10-fold cross-validation. For staging (mild, moderate, and severe), the MTL framework reached a main task accuracy of 96.71% and an average AUC of 99.81%, with a powerful performance in identifying severe cases. Grad-CAM visualizations reveal class-specific activation regions, enhancing the transparency and trust in the model’s decision-making. The proposed system was validated using the CirrMRI600+ dataset with a 10-fold cross-validation strategy, achieving high accuracy (AUC: 99.7%) and consistent results across folds. Conclusions: This research not only advances State-of-the-Art diagnostic methods but also addresses the black-box nature of deep learning in clinical applications. The framework offers potential as a decision-support system for radiologists, contributing to early detection, effective staging, personalized treatment planning, and better-informed treatment planning for liver cirrhosis."
+  },
+  {
+   "paperId": "ea925cfa147fb02dbef9033a9e20b31e46a73ef5",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2504-04549",
+    "ArXiv": "2504.04549",
+    "DOI": "10.48550/arXiv.2504.04549",
+    "CorpusId": 277621212
+   },
+   "url": "https://www.semanticscholar.org/paper/ea925cfa147fb02dbef9033a9e20b31e46a73ef5",
+   "title": "Opening the black box of deep learning: Validating the statistical association between explainable artificial intelligence (XAI) and clinical domain knowledge in fundus image-based glaucoma diagnosis",
+   "venue": "arXiv.org",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2504.04549, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-06",
+   "authors": [
+    {
+     "authorId": "2358888941",
+     "name": "Hang Yuan"
+    },
+    {
+     "authorId": "2317234615",
+     "name": "Lican Kang"
+    },
+    {
+     "authorId": "2154404557",
+     "name": "Yong Li"
+    }
+   ],
+   "abstract": "While deep learning has exhibited remarkable predictive capabilities in various medical image tasks, its inherent black-box nature has hindered its widespread implementation in real-world healthcare settings. Our objective is to unveil the decision-making processes of deep learning models in the context of glaucoma classification by employing several Class Activation Map (CAM) techniques to generate model focus regions and comparing them with clinical domain knowledge of the anatomical area (optic cup, optic disk, and blood vessels). Four deep neural networks, including VGG-11, ResNet-18, DeiT-Tiny, and Swin Transformer-Tiny, were developed using binary diagnostic labels of glaucoma and five CAM methods (Grad-CAM, XGrad-CAM, Score-CAM, Eigen-CAM, and Layer-CAM) were employed to highlight the model focus area. We applied the paired-sample t-test to compare the percentage of anatomies in the model focus area to the proportion of anatomies in the entire image. After that, Pearson's and Spearman's correlation tests were implemented to examine the relationship between model predictive ability and the percentage of anatomical structures in the model focus area. On five public glaucoma datasets, all deep learning models consistently displayed statistically significantly higher percentages of anatomical structures in the focus area than the proportions of anatomical structures in the entire image. Also, we validated the positive relationship between the percentage of anatomical structures in the focus area and model predictive performance. Our study provides evidence of the convergence of decision logic between deep neural networks and human clinicians through rigorous statistical tests. We anticipate that it can help alleviate clinicians' concerns regarding the trustworthiness of deep learning in healthcare. For reproducibility, the code and dataset have been released at GitHub."
+  },
+  {
+   "paperId": "aa911ba1c3ca0502564053c851340c2c5eea4e30",
+   "externalIds": {
+    "DOI": "10.1007/s11069-024-06414-6",
+    "CorpusId": 267482303
+   },
+   "url": "https://www.semanticscholar.org/paper/aa911ba1c3ca0502564053c851340c2c5eea4e30",
+   "title": "Novel optimized deep learning algorithms and explainable artificial intelligence for storm surge susceptibility modeling and management in a flood-prone island",
+   "venue": "Natural Hazards",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11069-024-06414-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11069-024-06414-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-02",
+   "authors": [
+    {
+     "authorId": "2282857263",
+     "name": "Mohammed J. Alshayeb"
+    },
+    {
+     "authorId": "2466644152",
+     "name": "H. T. Hoang"
+    },
+    {
+     "authorId": "1742094936",
+     "name": "Ahmed Ali A. Shohan"
+    },
+    {
+     "authorId": "97697343",
+     "name": "A. Bindajam"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "40db27adaa8d667a4b4bf5d1c05b5f150240a873",
+   "externalIds": {
+    "DOI": "10.1109/NeuroNT66873.2025.11049976",
+    "CorpusId": 279899453
+   },
+   "url": "https://www.semanticscholar.org/paper/40db27adaa8d667a4b4bf5d1c05b5f150240a873",
+   "title": "Concept of Hierarchically Organized Explainable Intelligent Systems: Synthesis of Deep Neural Networks, Fuzzy Logic and Incremental Learning in Medical Diagnostics",
+   "venue": "2025 VI International Conference on Neural Networks and Neurotechnologies (NeuroNT)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/NeuroNT66873.2025.11049976?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/NeuroNT66873.2025.11049976, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-06-20",
+   "authors": [
+    {
+     "authorId": "2335493645",
+     "name": "Y. Trofimov"
+    },
+    {
+     "authorId": "2370135214",
+     "name": "A. Shevchenko"
+    },
+    {
+     "authorId": "2336600935",
+     "name": "A. Averkin"
+    },
+    {
+     "authorId": "2370136795",
+     "name": "I. P. Muravyov"
+    },
+    {
+     "authorId": "2481775089",
+     "name": "Егор Михайлович Кузнецов"
+    }
+   ],
+   "abstract": "The development of explainable artificial intelligence (XAI) goes beyond traditional post-hoc methods of interpretation, forming a new generation of cognitive-oriented intelligent systems based on deep integration of neural network methods, fuzzy logic and incremental learning. The report presents the concept of hierarchically organized XAI systems that provide adaptive explainability and continuous knowledge updating in the process of their practical application. The implementation is based on the dynamic formation of explanations, including a cascade connection of local and global interpreters, production models and adaptive mechanisms for generating medical reports. The presented approach forms the XAI 2.0 paradigm, providing resistance to uncertainty of medical data, cognitive transparency of decisions and the possibility of multi-level interpretation of results. The paper discusses the theoretical and practical principles of building such systems, and substantiates the need to integrate deep neural networks and fuzzy logic to create intelligent medical systems of a new generation."
+  },
+  {
+   "paperId": "2c10af10e31442d82a2289d94c820555985a4e88",
+   "externalIds": {
+    "DOI": "10.1109/PIERE62470.2024.10805072",
+    "CorpusId": 275019937
+   },
+   "url": "https://www.semanticscholar.org/paper/2c10af10e31442d82a2289d94c820555985a4e88",
+   "title": "Explainable Artificial Intelligence Methods in Text Classification Machine Learning Models for Investigating Human Behavior in Digital Environments",
+   "venue": "2024 IEEE 3rd International Conference on Problems of Informatics, Electronics and Radio Engineering (PIERE)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/PIERE62470.2024.10805072?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/PIERE62470.2024.10805072, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-11-15",
+   "authors": [
+    {
+     "authorId": "47433100",
+     "name": "F. Gafarov"
+    },
+    {
+     "authorId": "2095267414",
+     "name": "V. Gafarova"
+    },
+    {
+     "authorId": "2129010343",
+     "name": "P. Ustin"
+    }
+   ],
+   "abstract": "Text classification, also commonly known as text categorization, is the process of assigning labels or tags to textual data. To solve this problem different models are used, based on machine learning algorithms, as well as deep learning methods based on neural networks of different architectures (recurrent, convolutional, transformers, etc.). But most complex machine learning and deep learning models are black boxes because they contain a large number of parameters and have complex architectures that make them uninterpretable. This paper proposes a framework to generate explanations in binary text classification task for an investigation of subject's behavior in the digital environment. Our framework utilizes five machine learning models (Random Forest, K-nearest neighbors, Decision Tree, Logistic Regression, Gradient Boosting) and a fine-tuned BERT-based classifier and an explainability module using LIME, SHAP and Integrated Gradients to generate explanations for each prediction. The main objective of this paper is to show how machine learning-based natural language processing methods enhanced by Explainable AI methods can be applied in psychological domain."
+  },
+  {
+   "paperId": "64774f472be7bda24c953a832e1e1bd09b6c0564",
+   "externalIds": {
+    "DBLP": "journals/ijhci/GezginE26",
+    "DOI": "10.1080/10447318.2025.2526587",
+    "CorpusId": 280303330
+   },
+   "url": "https://www.semanticscholar.org/paper/64774f472be7bda24c953a832e1e1bd09b6c0564",
+   "title": "Using Explainable Artificial Intelligence to Predict Internet Addiction in Turkish University Students",
+   "venue": "International journal of human computer interactions",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10447318.2025.2526587?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10447318.2025.2526587, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-16",
+   "authors": [
+    {
+     "authorId": "144895268",
+     "name": "D. Gezgin"
+    },
+    {
+     "authorId": "2003816745",
+     "name": "Ebru Efeoğlu"
+    }
+   ],
+   "abstract": "Abstract The rising incidence of internet addiction (IA) among university students has raised concerns about its impact on academic performance, mental health, and social relationships. This study aims to model internet addiction in 1,180 university students using Explainable Artificial Intelligence (XAI) methods, including SHapley Additive Explanations (SHAP). Unlike traditional statistical approaches, such as linear regression, and opaque AI models like deep neural networks, XAI offers interpretable outputs that help reveal underlying factors contributing to IA. Student demographics, internet use patterns, and psychological variables were analyzed by machine learning algorithms, and SHAP was used to interpret the models. The findings reveal key predictors of IA, such as fear of missing out (FoMO), social anxiety, and social-emotional loneliness. By using XAI, the study shows how specific traits and behaviors elevate IA risk and offers actionable insights for educators and policymakers. It also supports early detection and intervention strategies in educational and psychological contexts."
+  },
+  {
+   "paperId": "35b7bbcc2f828d4f427dc1a954529247f419ab56",
+   "externalIds": {
+    "DOI": "10.1007/s12161-025-02880-1",
+    "CorpusId": 281057314
+   },
+   "url": "https://www.semanticscholar.org/paper/35b7bbcc2f828d4f427dc1a954529247f419ab56",
+   "title": "Detection of LTP in Food Using Near-Infrared Spectroscopy and Explainable Artificial Intelligence",
+   "venue": "Food Analytical Methods",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.researchsquare.com/article/rs-6554929/latest.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12161-025-02880-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12161-025-02880-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-01",
+   "authors": [
+    {
+     "authorId": "2265830453",
+     "name": "Ainhoa Osa-Sanchez"
+    },
+    {
+     "authorId": "2564662271",
+     "name": "I. Del Barrio"
+    },
+    {
+     "authorId": "1401346169",
+     "name": "G. Bernardo-Seisdedos"
+    },
+    {
+     "authorId": "3823997",
+     "name": "A. Zorrilla"
+    },
+    {
+     "authorId": "1401698332",
+     "name": "B. García-Zapirain"
+    }
+   ],
+   "abstract": "Food allergy is a sensitivity to a food or one of its components that triggers the immune system to react. It affects around 8% of children and 10% of adults. This study investigates the use of near-infrared spectroscopy (NIRS) combined with artificial intelligence (AI) approaches for rapid and non-destructive detection of lipid transfer proteins (LTP), a cause of severe food allergy. Unlike traditional chemical detection methods, which are time-consuming, costly, and often require complex sample preparation, NIRS offers a fast, non-invasive alternative suitable for routine food safety screening. NIRS spectra were acquired from a wide variety of foods, both with and without LTP, using a miniature spectrometer. Three deep learning architectures, convolutional neural networks (CNN), vision transformers (ViT), and TabTransformer, were employed to classify foods according to the presence of LTP, with hyperparameters optimized via Bayesian optimization. The findings indicated that ViT and CNN-based models had significant potential, achieving accuracies and F1 scores above 90%. Key wavelengths in the 1325–1455 nm range were identified as useful for identifying foods with LTP, reflecting changes in water, fat, and protein content. Additionally, AI explainability methods (SHAP, LIME, and Grad-CAM) were applied to better understand model decisions. The study demonstrates the potential of NIRS combined with AI as a rapid, reliable, and non-destructive tool for improving food allergy detection and safety."
+  }
+ ]
+}

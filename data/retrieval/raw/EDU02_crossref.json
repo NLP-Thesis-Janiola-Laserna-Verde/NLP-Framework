@@ -1,0 +1,809 @@
+{
+ "query": "Impact of formative assessment on student achievement",
+ "retrieved_at": "2026-11-18T17:47:54.881510+00:00",
+ "data": [
+  {
+   "DOI": "10.4324/9781351257848-20",
+   "title": [
+    "The role of formative assessment in student achievement"
+   ],
+   "container-title": [
+    "Visible Learning Guide to Student Achievement"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      28
+     ]
+    ]
+   },
+   "type": "book-section",
+   "URL": "https://doi.org/10.4324/9781351257848-20",
+   "author": [
+    {
+     "given": "Jerome V. D’",
+     "family": "Agostino",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Emily M.",
+     "family": "Rodgers",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aryn C.",
+     "family": "Karpinski",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.3990/1.9789036550147",
+   "title": [
+    "E&amp;#64256;ects of digital formative assessment tools on teaching quality and student achievement"
+   ],
+   "publisher": "University Library/University of Twente",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.3990/1.9789036550147",
+   "author": [
+    {
+     "given": "Janke Marjan",
+     "family": "Faber",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Common Ground Research Networks",
+   "abstract": "<jats:p xml:lang=\"en\">It is generally accepted that formative assessment improves teaching and learning. However, empirical studies on the integrated conceptualization of formative assessment are lacking. Therefore, this study utilized the revised Wiliam and Thompson’s five aspects of formative assessment framework to assess the impact of its implementation in the teaching of English in Jamaican secondary schools on students’ academic achievement. Using pre- and posttest quasi-experimental and instrumental case study designs, data were collected from eighteen teachers and 1,739 students from four types of secondary schools in Jamaica. Analysis of covariance (ANCOVA) and the general inductive approach to analyzing qualitative data showed that formative assessment improved students’ achievement in English on both internal and external examinations when the teacher had at least an intermediate level of competence in its implementation. The results also showed that the implementation of formative assessment may be hindered by inadequate infrastructure, negative student attitudes, and ineffective school policies. Gender differences are also suggested. The findings have implications for all the stakeholders in education, including the Ministry of Education, teacher training institutions, and school administrators, as teachers need ongoing support, training, and materials to develop their competence in and practice of formative assessment.</jats:p>",
+   "DOI": "10.18848/2327-7920/cgp/a185",
+   "type": "journal-article",
+   "title": [
+    "Testing the Water, Transforming the Grade"
+   ],
+   "author": [
+    {
+     "given": "Clavia T.",
+     "family": "Williams-McBean",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "The University of the West Indies (Mona campus)"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The International Journal of Assessment and Evaluation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      9,
+      2
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.18848/2327-7920/cgp/a185"
+  },
+  {
+   "DOI": "10.5040/9798400628115.ch-008",
+   "title": [
+    "Formative and Summative Assessment"
+   ],
+   "container-title": [
+    "Collaborating for Inquiry-Based Learning"
+   ],
+   "publisher": "Libraries Unlimited",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798400628115.ch-008"
+  },
+  {
+   "publisher": "Det Kgl. Bibliotek/Royal Danish Library",
+   "abstract": "<jats:p>Research reviews show that formative assessment has great potential for raising student achievement in general, but there is a need for reviews of formative assessment in individual subjects. This review examines its impact on student achievement in mathematics through an assessment of scientific journal articles published between 2005 and 2014 and indexed in Web of science. Through the use of search terms such as ”formative assessment”, ”assessment for learning” and ”self-regulated learning”, different approaches to formative assessment were included in the review. While varying in approach, they all share the defining characteristic of formative assessment: agents in the classroom collect evidence of student learning and, based on this information, adjust their teaching and/or learning. The results show positive relations between student achievement in mathematics and the ways of doing formative assessment included in the review.</jats:p>",
+   "DOI": "10.7146/nomad.v22i3.148889",
+   "type": "journal-article",
+   "title": [
+    "A review of the impact of formative assessment on student achievement in mathematics"
+   ],
+   "author": [
+    {
+     "given": "Torulf",
+     "family": "Palm",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Catarina",
+     "family": "Andersson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Erika",
+     "family": "Boström",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Charlotta",
+     "family": "Vingsle",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "NOMAD Nordic Studies in Mathematics Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      9,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.7146/nomad.v22i3.148889"
+  },
+  {
+   "DOI": "10.54014/nmhq-kgb7",
+   "title": [
+    "The impact of criteria-referenced formative assessment on fifth grade students' theater arts and English language arts achievement"
+   ],
+   "publisher": "University Libraries, University at Albany, State University of New York",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.54014/nmhq-kgb7",
+   "author": [
+    {
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Fei",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5040/9798216525547.ch-2",
+   "title": [
+    "Formative Assessment: Purpose"
+   ],
+   "container-title": [
+    "Student Assessment"
+   ],
+   "publisher": "Rowman & Littlefield",
+   "issued": {
+    "date-parts": [
+     [
+      2013
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798216525547.ch-2"
+  },
+  {
+   "DOI": "10.55057/ajress.2023.5.4.17",
+   "title": [
+    "Study on Online Formative Learning Assessment for Effective Measurement of Student Achievement"
+   ],
+   "container-title": [
+    "Asian Journal of Research in Education and Social Sciences"
+   ],
+   "publisher": "Asian Scholars Network",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.55057/ajress.2023.5.4.17",
+   "abstract": "<jats:p>The influence of COVID-19 has caused an explosion of digital transformation not only in the business sector but also in education. As a result, the digital revolution of education has advanced and we are currently in the era of everyday use of various learning assistance systems and educational support systems that utilize digital technologies, especially in the Master's Degree program in Business Administration at the National University of Laos. This study examines the effectiveness of formative learning assessment in learning support systems that use digital technologies. Digitization of educational support systems has realized not only restrictions related to place and time but also the provision of learning content with high-quality visuals and sound quality compared to conventional web-based training. Formative learning assessment is becoming increasingly important in digitalized learning support systems, as it is essential to measure the learning achievement of students more accurately and in a timely manner. In this research paper, we focus on scoring methods for 4-cmultiple-choice questions and propose a formative learning assessment using an online questionnaire platform. Include a description of the nature of the newly proposed 4-choice multiple-choice scoring method, the implementation of this new scoring approach is expected to considerably improve online learning in the Master's Degree programs in Business Administration at the National University of Laos and other comparable programs. Furthermore, this study contributes to the future evolving digital revolution in education by proposing a new method of scoring the assessment with 4-choice questions for the formative learning assessment process.</jats:p>"
+  },
+  {
+   "publisher": "Frontiers Media SA",
+   "abstract": "<jats:p>Research has shown that formative assessment can enhance student learning. However, it is conceptualised and implemented in different ways, and its effects on student achievement vary. A need has been identified for experimental studies to carefully describe both the characteristics of implemented formative assessment practices and their impact on student achievement. We examined the effects on student achievement of changes in formative assessment of a random sample of 14 secondary school mathematics teachers after a professional development programme. This study describes practices implemented and students’ achievement as measured by pre-tests and post-tests. We found no significant differences in achievement on the post-test, after controlling for pre-test scores, between the intervention group and control group, and no significant correlation between the number of formative assessment activities implemented and the post-test scores (controlled for the pre-test scores). We discuss characteristics of formative assessment implementations that may be critical for enhancing student achievement.</jats:p>",
+   "DOI": "10.3389/feduc.2023.1101192",
+   "type": "journal-article",
+   "title": [
+    "The effect of a formative assessment practice on student achievement in mathematics"
+   ],
+   "author": [
+    {
+     "given": "Erika",
+     "family": "Boström",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Torulf",
+     "family": "Palm",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Frontiers in Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      16
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3389/feduc.2023.1101192"
+  },
+  {
+   "DOI": "10.5040/9798216525547.ch-3",
+   "title": [
+    "Formative Assessment: Reliability and Validity"
+   ],
+   "container-title": [
+    "Student Assessment"
+   ],
+   "publisher": "Rowman & Littlefield",
+   "issued": {
+    "date-parts": [
+     [
+      2013
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798216525547.ch-3"
+  },
+  {
+   "DOI": "10.4135/9781452275437.n2",
+   "title": [
+    "Examining Formative Assessment"
+   ],
+   "container-title": [
+    "Improving Formative Assessment Practice to Empower Student Learning"
+   ],
+   "publisher": "Corwin Press",
+   "issued": {
+    "date-parts": [
+     [
+      2012
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4135/9781452275437.n2"
+  },
+  {
+   "publisher": "University of Missouri Libraries",
+   "abstract": "<jats:p>Although researchers have provided evidence to support the effectiveness of collaborative and cooperative learning (Magana and Marzano, 2014; Marzano, 2006) and embedding formative assessment within instruction (Black and Wiliam, 2009; Wiliam, 2011), researchers (Chu, 2013; Hwang and Chang, 2011; Sung, Chang and Liu, 2016) further identified the need for research related to the impact of mobile devices on student learning. Purposefully selected for this study was the school district, as it is a highly innovative school district with regard to technology initiatives. Utilized during the process of collecting data for this case study, several sources were utilized. These included interviews with building and district administrators, focus groups with mathematics teachers and district instructional support staff, analysis of district and building documents, and observation of daily activities. Qualitative analysis of interviews of district and site leaders, focus groups with instructional specialist and teacher focus groups, observation of meetings, and analysis of documents from the district resulted in three emerging reoccurring themes: The impact of mobile learning on mastery learning; The Impact of Mobile Learning on the Quality and Timeliness of Data; Lack of fidelity, training and accountability. Research from this study shows infusion of technology-based formative assessment applications has a positive effect on student learning. Further considerations when embedding technology-based formative assessment strategies within the teaching and learning cycle are to provide common training, resources, and accountability for implementation.</jats:p>",
+   "DOI": "10.32469/10355/69951",
+   "type": "dissertation",
+   "title": [
+    "An examination of technology-based formative assessment feedback and the impact on student learning"
+   ],
+   "author": [
+    {
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Brett",
+     "family": "Jacobs",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.32469/10355/69951"
+  },
+  {
+   "publisher": "American Association for Agricultural Education",
+   "abstract": "<jats:p>The National Research Council has recognized the challenge of assessing laboratory investigation and called for the investigation of assessments that are proven through sound research-based studies. The Vee map provides a framework that allows the learners to conceptualize their previous knowledge as they develop success in meaningful learning when they utilize the Vee map to guide their thinking and the process of experimentation. Previous research has shown that using the Vee map as a formative assessment tool positively affects student content knowledge. The purpose of this study was to compare the impact of student demographic variables on student content knowledge achievement when using the Vee map as a formative assessment tool. The population of this quasi-experimental, counter-balance design study was composed of students at nine high schools that offered agriscience education. The results of this study indicated the Vee map is unbiased based on gender, grade, and ethnicity. It was also concluded that the Vee map does not provide either remedial or non–remedial readers with a significant advantage, thus allowing the assessment to focus on the content rather than a student’s reading ability.</jats:p>",
+   "DOI": "10.5032/jae.2011.01085",
+   "type": "journal-article",
+   "title": [
+    "Impact of Gender, Ethnicity, Year in School, Social Economic Status, and State Standardized Assessment Scores on Student Content Knowledge Achievement When Using Vee Maps as a Formative Assessment Tool"
+   ],
+   "author": [
+    {
+     "given": "Andrew C.",
+     "family": "Thoron",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Brian E.",
+     "family": "Myers",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Agricultural Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      3,
+      28
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.5032/jae.2011.01085"
+  },
+  {
+   "DOI": "10.1016/j.learninstruc.2016.12.006",
+   "title": [
+    "The impact of formative assessment on student achievement: A study of the effects of changes to classroom practice after a comprehensive professional development programme"
+   ],
+   "container-title": [
+    "Learning and Instruction"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.learninstruc.2016.12.006",
+   "author": [
+    {
+     "given": "Catarina",
+     "family": "Andersson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Torulf",
+     "family": "Palm",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>Formative Assessment (FA) is like a compass for learning. It is an instructional process that helps educators understand where their students are and assist them move forward. It is a way to continuously gauge processes, identify areas for improvement, and adapt teaching strategies accordingly. Due to their complex linguistic situation, this chapter studies the impact of Five Formative Assessment Strategies (FAS): sharing learning goals, questioning, self-assessment, peer assessment, and feedback on motivation and achievement on Arab high school students, in Israel. This study demonstrates that FAS has gained popularity among Arab high schoolers as an evaluation method in their EFL classroom. Moreover, the results indicate that FAS has assisted in raising all students' motivation to learn English, which led to enhancing their academic achievement, especially for low achievers.</jats:p>",
+   "DOI": "10.4018/979-8-3373-0705-3.ch021",
+   "type": "book-chapter",
+   "title": [
+    "Boosting Learning Drive and Success"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0001-6987-2240",
+     "authenticated-orcid": true,
+     "given": "Reem Qadura",
+     "family": "Massri",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Cordoba, Spain"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Challenges of Educational Innovation in Contemporary Society"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-0705-3.ch021"
+  },
+  {
+   "DOI": "10.2991/incomed-17.2018.44",
+   "title": [
+    "Classroom Assessment: Student Achievement in Mathematics through Formative Assessment"
+   ],
+   "container-title": [
+    "Proceedings of the University of Muhammadiyah Malang's 1st International Conference of Mathematics Education (INCOMED 2017)"
+   ],
+   "publisher": "Atlantis Press",
+   "issued": {
+    "date-parts": [
+     [
+      2018
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.2991/incomed-17.2018.44",
+   "author": [
+    {
+     "given": "Nur",
+     "family": "Afni Fitriana",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Isnandar",
+     "family": "Slamet",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Imam",
+     "family": "Sujadi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781315623856-1",
+   "title": [
+    "Introduction to Formative Assessment"
+   ],
+   "container-title": [
+    "Using Formative Assessment to Enhance Learning, Achievement, and Academic Self-Regulation"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      7,
+      20
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781315623856-1",
+   "author": [
+    {
+     "given": "Heidi L.",
+     "family": "Andrade",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Margaret",
+     "family": "Heritage",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4135/9781452275437.n1",
+   "title": [
+    "Introduction to Improving Formative Assessment Practice"
+   ],
+   "container-title": [
+    "Improving Formative Assessment Practice to Empower Student Learning"
+   ],
+   "publisher": "Corwin Press",
+   "issued": {
+    "date-parts": [
+     [
+      2012
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4135/9781452275437.n1"
+  },
+  {
+   "DOI": "10.54014/4ygt-qpkd",
+   "title": [
+    "Effects of criteria-referenced formative assessment on achievement in music"
+   ],
+   "publisher": "University Libraries, University at Albany, State University of New York",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.54014/4ygt-qpkd",
+   "author": [
+    {
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Christopher",
+     "family": "Valle",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Research shows that how formative assessments are operationalized plays a crucial role in shaping their engagement with formative assessments, thereby impacting their effectiveness in predicting academic achievement. Mandatory assessments can ensure consistent student participation, leading to better tracking of learning progress. Optional assessments may encourage voluntary engagement, potentially leading to a more genuine reflection of student understanding. Also, frequent assessments provide continuous opportunities for feedback and adjustment, which can keep students actively engaged in the learning process.</jats:p></jats:sec><jats:sec><jats:title>Objectives</jats:title><jats:p>This study aims to investigate two crucial facets of formative assessments: frequency and the level of stakes involved (mandatory vs. optional). We examine how modifying the frequency of formative assessments affects students' course performance. Additionally, we evaluate the impact of mandatory versus optional formative assessments on students' course performance in higher education.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>The sample of this study consisted of undergraduate students (<jats:italic>n</jats:italic> = 336) enrolled in three sections of a large asynchronous course at a Canadian university. We extracted features associated with online formative assessments (e.g., the number of attempts and average scores) from the learning management system. Next, we used these features to predict students' performance in summative assessments (two midterms and a final exam).</jats:p></jats:sec><jats:sec><jats:title>Results and Conclusions</jats:title><jats:p>Our findings indicated that increasing the frequency of online formative assessments did not consistently improve student performance. Also, participation frequency in online formative assessments seemed to vary depending on assessment stakes (i.e., optional vs. mandatory). We recommend that instructors examine what conditions can maximize the contribution of formative assessments to students' academic achievement before building predictive models.</jats:p></jats:sec>",
+   "DOI": "10.1111/jcal.13087",
+   "type": "journal-article",
+   "title": [
+    "The impact of frequency and stakes of formative assessment on student achievement in higher education: A learning analytics study"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5853-1267",
+     "authenticated-orcid": false,
+     "given": "Okan",
+     "family": "Bulut",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Centre for Research in Applied Measurement and Evaluation, Faculty of Education University of Alberta  Edmonton Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guher",
+     "family": "Gorgun",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Measurement, Evaluation, and Data Science, Faculty of Education University of Alberta  Edmonton Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8010-9414",
+     "authenticated-orcid": false,
+     "given": "Seyma Nur",
+     "family": "Yildirim‐Erbasli",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Psychology Concordia University of Edmonton  Edmonton Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Computer Assisted Learning"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      13
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/jcal.13087"
+  }
+ ]
+}

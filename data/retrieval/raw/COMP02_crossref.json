@@ -1,0 +1,1065 @@
+{
+ "query": "Federated learning for privacy-preserving machine learning on mobile devices",
+ "retrieved_at": "2026-11-18T17:43:59.426756+00:00",
+ "data": [
+  {
+   "DOI": "10.5220/0012730600003690",
+   "title": [
+    "An Approach for Privacy-Preserving Mobile Malware Detection Through Federated Machine Learning"
+   ],
+   "container-title": [
+    "Proceedings of the 26th International Conference on Enterprise Information Systems"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0012730600003690",
+   "author": [
+    {
+     "given": "Giovanni",
+     "family": "Ciaramella",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "IMT School for Advanced Studies Lucca, Lucca, Italy, --- Select a Country ---"
+      },
+      {
+       "name": "Institute for Informatics and Telematics, National Research Council of Italy (CNR), Pisa, Italy, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fabio",
+     "family": "Martinelli",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute for Informatics and Telematics, National Research Council of Italy (CNR), Pisa, Italy, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Francesco",
+     "family": "Mercaldo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute for Informatics and Telematics, National Research Council of Italy (CNR), Pisa, Italy, --- Select a Country ---"
+      },
+      {
+       "name": "University of Molise, Campobasso, Italy, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Christian",
+     "family": "Peluso",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute for Informatics and Telematics, National Research Council of Italy (CNR), Pisa, Italy, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Antonella",
+     "family": "Santone",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Molise, Campobasso, Italy, --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21275/ms241022095645",
+   "title": [
+    "Federated Learning: Privacy-Preserving Machine Learning in Cloud Environments"
+   ],
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "publisher": "International Journal of Science and Research",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21275/ms241022095645",
+   "author": [
+    {
+     "given": "Bangar",
+     "family": "Raju Cherukuri",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+   "abstract": "<jats:title>Intelligence artificielle digne de confiance grâce à l'apprentissage fédéré équitable et respectueux de la vie privée</jats:title>\n                <jats:p xml:lang=\"fr\">L'augmentation massive du volume de données disponibles a transformé l'informatique moderne, contribuant à l'essor de l'apprentissage automatique dans plusieurs domaines tels que la santé, la finance et les systèmes autonomes. Cette dépendance croissante aux modèles d'apprentissage pour la prise de décision dans ces domaines soulève des préoccupations majeures en matière d'équité et de confidentialité, étant donné que les décisions qu'ils produisent peuvent influencer de manière significative les individus et les organisations dans des contextes d'application réels. Motivés par la nécessité de mieux comprendre et d'atténuer ces enjeux, la présente recherche étudie les défis associés à ces problématiques et propose des contributions notables en faveur de systèmes d'apprentissage plus responsables et plus fiables. La première partie de cette thèse porte sur l'équité, devenue une préoccupation centrale en apprentissage automatique en raison de son potentiel à amplifier les disparités et à renforcer les biais existants. Ce constat, associé à l'émergence de régulations telles que l'AI Act de l'Union européenne et l'Executive Order américain, souligne la nécessité d'intégrer l'équité comme principe fondamental dans la conception des systèmes d'apprentissage automatique. Compte tenu de cela, nous avons examiné comment les méthodes de sélection automatique de données, souvent utilisées pour améliorer l'efficacité en termes de temps en utilisant des sous-ensembles plus petits d'entraînement plutôt que le jeu de données complet, influencent l'équité et la qualité des modèles. Nous avons mené la première analyse à grande échelle révélant l'impact souvent ignoré de la sélection sur ces deux aspects, nous avons identifié les facteurs clés qui en sont à l'origine et nous avons avancé des pistes pertinentes pour favoriser un apprentissage plus équitable et efficace. Parallèlement aux régulations promouvant un apprentissage plus équitable, d'autres insistent sur la protection des données utilisées, tel que le règlement général sur la protection des données (RGPD), qui a favorisé l'adoption de l'apprentissage fédéré, permettant à plusieurs parties d'entraîner un modèle global sans partager leurs données. Cependant, la nature distribuée et collaborative de ce paradigme d'apprentissage amplifie les biais hérités de l'apprentissage centralisé et introduit également de nouveaux types de biais. Pour éclairer ces enjeux, nous nous avons proposé une revue approfondie de l'équité en apprentissage fédéré, identifiant les principales sources de biais, couvrant l'ensemble des stratégies de mitigation existantes, et mettant en évidence des pistes de recherche encore ouvertes pour faire progresser l'équité dans ce cadre. Bien que l'apprentissage fédéré permette à plusieurs parties d'entraîner un modèle sans partager leurs données locales, de nombreuses études montrent qu'il reste vulnérable à diverses menaces portant atteinte à la vie privée des utilisateurs. Parmi ces menaces figurent les attaques d'inférence d'appartenance, qui permettent à un adversaire de déterminer si un point de données faisait partie de l'ensemble d'entraînement, exposant potentiellement des informations confidentielles. Dans ce contexte, la deuxième partie de cette thèse se concentre sur les atteintes à la vie privée en apprentissage fédéré, en accordant une attention particulière aux attaques d'inférence d'appartenance. Pour contrer ces attaques, nous avons introduit GAPER, une méthode granulaire et adaptative fondée sur la confidentialité différentielle, offrant une protection efficace contre ce type d'attaque tout en préservant la qualité du modèle, et soutenue à la fois par des garanties théoriques et des évaluations empiriques. De manière plus générale, ces travaux font progresser le développement de systèmes d'apprentissage non seulement performants, mais également fondamentalement alignés avec les principes d'équité et de confidentialité.</jats:p>",
+   "DOI": "10.70675/17b0463eza470z4230za6edze526eaf22206",
+   "type": "dissertation",
+   "title": [
+    "Trustful AI through fair and privacy-preserving federated machine learning"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0007-6382-3839",
+     "authenticated-orcid": false,
+     "given": "Saida",
+     "family": "Benarba",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/050jn9y42",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Lyon, INSA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70675/17b0463eza470z4230za6edze526eaf22206"
+  },
+  {
+   "DOI": "10.11606/t.45.2025.tde-22102026-155250",
+   "title": [
+    "Privacy-preserving Federated Learning-based Intrusion Detection System for Internet of Healthcare Things devices"
+   ],
+   "publisher": "Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.11606/t.45.2025.tde-22102026-155250",
+   "author": [
+    {
+     "given": "Fatemeh",
+     "family": "Mosaiyebzadeh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5220/0014392700004084",
+   "title": [
+    "Decentralized Privacy-Preserving Federated Learning of Computer Vision Models on Edge Devices"
+   ],
+   "container-title": [
+    "Proceedings of the 21st International Conference on Computer Vision Theory and Applications"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0014392700004084",
+   "author": [
+    {
+     "given": "Damian",
+     "family": "Harenčák",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovakia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Lukáš",
+     "family": "Gajdošech",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovakia"
+      },
+      {
+       "name": "Skeletex Research, Bratislava, Slovakia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Martin",
+     "family": "Madaras",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Mathematics, Physics and Informatics, Comenius University, Bratislava, Slovakia"
+      },
+      {
+       "name": "Skeletex Research, Bratislava, Slovakia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-95-7134-5_10",
+   "title": [
+    "Federated Learning for Privacy-Preserving Next-Word Prediction on Mobile Devices"
+   ],
+   "container-title": [
+    "Mathematics for Sustainable Developments",
+    "Real-World Applications of Machine Learning"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-95-7134-5_10",
+   "author": [
+    {
+     "given": "Sandesh",
+     "family": "Buchkul",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ashish",
+     "family": "Sonawane",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Anuj",
+     "family": "Khandelwal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jayesh",
+     "family": "Borase",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gitanjali",
+     "family": "Yadav",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ratna",
+     "family": "Patil",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Advances in digital medicine necessitate widespread use of patient data by hospitals and medical institutions for analytics, clinical research, and training of intelligent healthcare systems. Against the backdrop of stringent privacy concerns, data-minimization principles, and the regulated nature of personal health data-especially healthcare providers cannot share data but can share model parameters or predictions-federated machine learning provides a promising solution to these pressing demands. The federated paradigm not only protects patient privacy but also mitigates concerns of data leakage and breach; yet it raises new concerns about data governance and security, requiring that the centralized server merely holds model parameters and does not learns from the data. A system architecture, illustrated via a use-case example, integrates data-privacy guarantees and systemlevel security with technical tools from federated analytics. Key techniques not only cover the major dataanalytic tasks identified for healthcare but also embody principles of opening up non-independent and identically distributed health data while still being safe against leakage. Introduction and conclusion delineate the wider significance of these privacy-preserving works and the remaining research gaps, pointing toward evaluation of federated algorithms with explainable-area-under-risk metrics and defense mechanisms against arbitrary-label attacks. Keywords: Federated machine learning in healthcare analytics revolves around securing individuals' sensitive records. Distributed learning, in exchange, minimizes privacy risks associated with centralized storage. Yet practical scenarios remain scant; protocols still lack support for various data distributions, politeness, healthcare needs, and standard compatibility. Privacy evaluation also requires research. Addressing these aspects would lay a better foundation for experiments with real medical data.</jats:p>",
+   "DOI": "10.2139/ssrn.6326658",
+   "type": "posted-content",
+   "title": [
+    "Federated Machine Learning On Big Healthcare Data For Privacy-Preserving Analytics"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-9397-9533",
+     "authenticated-orcid": true,
+     "given": "Sasi Kumar",
+     "family": "Kolla",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.6326658"
+  },
+  {
+   "publisher": "Emerging Innovations Society: Science, Technology, and Social Studies",
+   "abstract": "<jats:p>The increasing complexity and intensity of cases of financial fraud, such as synthetic identity fraud and international money laundering, have become significant concerns for classic fraud detection solutions, especially under strict data privacy regulations such as GDPR or EU Artificial Intelligence Act guidelines. This study focuses on the very pressing need to pursue high fraud detection performance while simultaneously ensuring user data confidentiality for highly fragmented financial systems. The study uses federated learning (FL) designs to analyse interesting opportunities for possibly entirely decentralized machine learning functions among diverse financial agencies without any need to transfer raw user information among them at all.\n\nUsing a multimodal research methodology consisting of systematic literature studies, design studies, simulation studies, stress studies, and regulatory investigations, this study comprehensively assesses FL’s effectiveness and privacy pertaining to 2025 regulatory norms. The empirical results prove that FL not only improves overall fraud detection capacities but also ensures decent secrecy on raw personal information, meeting modern regulatory norms while formulating tolerant computing and secrecy constraints. The result implies the utmost importance of continued monitoring and attention to security loopholes, governance structure definitions, and dedicated investments into privacy boosting technologies to tap into FL’s revolutionary positive change potency within finance domains. Therefore, this work provides recent information on FL's dissemination implementation into disjointed finance domains, meeting both theoretical knowledge and practicality pursuits.</jats:p>",
+   "DOI": "10.64917/feaiml/volume02issue12-07",
+   "type": "journal-article",
+   "title": [
+    "Federated Learning Architectures for Privacy Preserving Financial Fraud Detection Systems"
+   ],
+   "author": [
+    {
+     "name": "https://orcid.org/0009-0008-6331-4089",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Favour .",
+     "family": "C. Ezeugboaja",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Frontiers in Emerging Artificial Intelligence and Machine Learning"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      22
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.64917/feaiml/volume02issue12-07"
+  },
+  {
+   "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+   "abstract": "<jats:title>Vers un Apprentissage fédéré robuste et préservant la confidentialité</jats:title>\n                <jats:p xml:lang=\"fr\">Dans le monde numérique en perpétuelle mutation d’aujourd’hui, l’apprentissage automatique est désormais une puissance essentielle et révolutionnaire, comme le démontrent de multiples recherches. Son impact profond s’étend à travers diverses industries, offrant des solutions et des innovations révolutionnaires qui ont remodelé la manière dont nous interagissons avec la technologie et prenons des décisions. Des systèmes de recommandation améliorant la diffusion de contenu sur les plateformes à la présence d’assistants personnels virtuels comme Siri et Alexa, capables de comprendre et de répondre à des commandes en langage naturel. Dans des domaines tels que la santé, il contribue au diagnostic des maladies, tandis que dans la finance, il renforce la détection de la fraude et l’évaluation des risques. Cette ubiquité de l’apprentissage automatique signifie non seulement une tendance technologique, mais aussi un changement fondamental dans les approches de résolution de problèmes et de prise de décisions. Cependant, cette vague d’innovation axée sur les données a soulevé une préoccupation primordiale : la protection de la vie privée des individus et de leurs données personnelles. Le Règlement général sur la protection des données (RGPD) illustre l’importance accrue de la protection des données à l’ère moderne. L’apprentissage fédéré représente un paradigme prometteur en apprentissage automatique, permettant la formation collaborative de modèles entre des appareils décentralisés. Cependant, il présente une vulnérabilité à diverses attaques. Cette recherche est divisée en deux axes principaux, chacun abordant des défis cruciaux en matière de sécurité et de confidentialité dans le contexte de l’apprentissage fédéré. Le premier axe se concentre sur la lutte contre les attaques d’empoisonnement pour un apprentissage fédéré robuste, où les adversaires cherchent à introduire des tâches nuisibles dans les modèles fédérés en plus de leurs tâches principales. Pour détecter ces attaques, on introduit ARMOR, un nouveau système de détection d’attaque basé sur GAN qui analyse les informations intégrées dans les mises à jour du modèle. Le deuxième axe concerne la lutte contre les attaques d’inférence pour l’apprentissage fédéré préservant la vie privée, en particulier les attaques d’inférence d’appartenance. Pour renforcer la confidentialité en apprentissage fédéré, deux approches novatrices sont introduites : PASTEL, qui améliore la résilience des systèmes d’apprentissage fédéré contre les MIAs en minimisant la différence de généralisation interne, et DINAR, une méthode d’apprentissage fédéré préservant la confidentialité à grain fin qui obscurcit les couches sensibles à la confidentialité et utilise une descente de gradient adaptative pour améliorer l’utilité du modèle. Ces objectifs de recherche visent collectivement à relever les défis en matière de sécurité et de confidentialité et à faire progresser le domaine de l'apprentissage fédéré.</jats:p>",
+   "DOI": "10.70675/062161c5z9cdez4465z92bezb97b4a23cb36",
+   "type": "dissertation",
+   "title": [
+    "Robust and Privacy-Preserving Federated Learning"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8422-4209",
+     "authenticated-orcid": false,
+     "given": "Fatima",
+     "family": "Elhattab",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/050jn9y42",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Lyon, INSA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70675/062161c5z9cdez4465z92bezb97b4a23cb36"
+  },
+  {
+   "DOI": "10.1109/flics70075.2026.11621941",
+   "title": [
+    "Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning"
+   ],
+   "container-title": [
+    "2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/flics70075.2026.11621941",
+   "author": [
+    {
+     "given": "Judith Sáainz-Pardo",
+     "family": "Díiaz",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Instituto de Física de Cantabria (IFCA) CSIC-UC",
+       "place": [
+        "Santander, Spain"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Álvaro López",
+     "family": "Garcíia",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Instituto de Física de Cantabria (IFCA) CSIC-UC",
+       "place": [
+        "Santander, Spain"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>In recent years, the advent of increasingly connected medical devices, from wearable biosensors to even implantable diagnostic devices, has created an unprecedented amount of clinically valuable data, but regulatory, ethical and technical hurdles remain to enable such data to be combined for the training of robust artificial intelligence models. To mitigate this, federated learning (FL) is proposed, which trains models in a federated way with no centralization of raw patient records, but existing federated learning architectures suffer from relying entirely on a central orchestrating server, leading to the existence of a single point of failure, poor auditability, and vulnerable to poisoning and free-riding attacks. This review presents a systematic literature survey and analysis of blockchainbased federated learning for healthcare, and explores how these two fundamentally different approaches can be brought together to create a secure, auditable and trustworthy orchestration layer that enables medical intelligence to be built across multiple devices and to incorporate privacy-preserving approaches such as data aggregation, differential private tools and secure multiparty calculations. The review is based on over 40 peer-review, published papers mainly focused on the period from 2019 to 2025, and is summarised in four core tiers of reference architecture, with consensus mechanisms identified as appropriate for resource-constrained clinical devices, and energy usage and model utility trends highlighted. It continues to discuss the scalability and regulatory challenges in participation with regulations like General Data Protection Regulation and Health Insurance Portability and Accountability Act, the heterogeneity of the model for non-independent and identically distributed clinical datasets and the computational complexity of blockchain consensus mechanisms on hardware with limited capability. The review suggests blockchain-enabled federated learning is a technically feasible and increasingly proven route to intelligent health applications in networked environments that do not compromise patient privacy, but points to a need for simplified consensus mechanisms, interoperable learning protocols, and greater partnerships with healthcare governance institutions.</jats:p>",
+   "DOI": "10.2139/ssrn.7403078",
+   "type": "posted-content",
+   "title": [
+    "A Blockchain-Orchestrated Federated Learning Framework for Privacy-Preserving Intelligence Across Networked Medical Devices"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0005-6580-1268",
+     "authenticated-orcid": true,
+     "given": "Sai Doondi",
+     "family": "Kothapalli",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.7403078"
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Federated learning is rapidly becoming a key paradigm for deploying machine learning models across distributed edge devices without aggregating raw data to a central server to satisfy emerging regulatory and ethical demands for data privacy. The extension to multimodal settings adds challenges though: modality imbalance, partial trust of the client/limited ability to trust the data/client, limited and variable devices, high privacy risk due to richer data representations. In this article, a structured overview of privacy-preserving multimodal federated learning is shown which focuses on reliable client selection for the settings of heterogeneous edge devices. The review is based on over 50 peer-reviewed or archival sources that are published mainly between 2019 and 2025 and cover four concurrent lines of research: federated optimisation foundational research, privacy-preserving aggregation methods such as differential privacy, secure multiparty computation, and homomorphic encryption, client selection and reliability estimation, and emerging multimodal federated architectures. A proposal for a unified conceptual framework based on reliability scoring, derived from device capabilities, link measurements, historical update fidelity, and hence modality completeness, is introduced that enables flexible learning in the presence of system and statistical heterogeneity, while remaining privacy-preserving. The review also compiles quantitative results from various papers to summarise the compromises required to balance privacy assurance, communication efficiency and model accuracy. Open questions are highlighted, such as the lack of standardized multimodal benchmarks, the computational load on low power devices of cryptographic privacy mechanism, and the challenge of optimising jointly fairness, robustness and efficiency. Finally, the research directions for integrated and reliable multimodal FL systems with privacy protection in real-world FL edge deployments are summarized.</jats:p>",
+   "DOI": "10.2139/ssrn.7363818",
+   "type": "posted-content",
+   "title": [
+    "Privacy-Preserving Multimodal Federated Learning with Reliability-aware Client Selection for Heterogeneous Edge Devices"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0005-6580-1268",
+     "authenticated-orcid": true,
+     "given": "Sai Doondi",
+     "family": "Kothapalli",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.7363818"
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Crowdsensing as an emerging data collection paradigm has received lots of attention. Recently, the introduction of federal learning in MCS can provide  more practical data collection scenarios. However, some potential issues such as privacy and efficiency may reduce the willingness of people to participate in mobile crowdsensing systems. In this paper, we present a privacy-preserving federated learning with collusion-resistant for mobile crowdsensing. At first, consider a scenario where a server may share information with less than k-1 participants to obtain private models of others, we design a privacy-preserving model aggregation protocol with collusion-resistant by combining homomorphic cryptosystem and hashed Diffie-Hellman key exchange protocol to protect the private models uploaded by participants. Secondly, we employ a secure top-k participant selection approach based on weighted Euclidean distance to mitigate the impact of resource-constrained participants to preserve the privacy of participants. Finally, we give the security analysis, comparison with previous work and provide the experimental results that are based on the real-world dataset with smart devices. The experimantal results demonstrate that our proposed scheme provides the feasibility and is efficient in the practical mobile crowdsensing systems.</jats:p>",
+   "DOI": "10.2139/ssrn.4104451",
+   "type": "posted-content",
+   "title": [
+    "Privacy-Preserving Federated Learning with Collusion-Resistance in Mobile Crowdsensing"
+   ],
+   "author": [
+    {
+     "given": "Wu  Ming",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shijin",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bo",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.4104451"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n        <p>The exponential growth of data in smart city infrastructures—from traffic systems to health monitoring and surveillance—has created unprecedented opportunities for machine learning applications. However, centralizing such diverse and sensitive data introduces serious challenges related to data privacy, regulatory compliance, and system scalability. In this paper, we propose a secure and scalable federated learning (FL) framework tailored for smart city environments, enabling decentralized model training while preserving data locality and privacy. The framework integrates key technologies including differential privacy, secure aggregation, and edge device optimization to ensure robust model performance and security under real-world conditions. The framework is implemented and simulated using TensorFlow with synthetic smart city data streams, evaluating the system across key metrics such as training accuracy, communication cost, latency, and model convergence. Our experimental results show that the proposed FL framework achieves high prediction accuracy (94.3%) with significantly reduced bandwidth consumption and strong privacy guarantees. This work contributes a deployable architecture for future smart cities, offering an effective balance between intelligent data use and citizen data rights.</p>",
+   "DOI": "10.21203/rs.3.rs-6729707/v1",
+   "type": "posted-content",
+   "title": [
+    "Federated Learning for Privacy-Preserving Smart Cities: A Secure and Scalable Machine Learning Framework"
+   ],
+   "author": [
+    {
+     "given": "Deepak",
+     "family": "Juneja",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Chandigarh University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Arvinder",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Chandigarh University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jagvinder",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Chandigarh University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      24
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-6729707/v1"
+  },
+  {
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "abstract": "<jats:p>Healthcare data privacy and collaborative machine learning represent two critical challenges that have historically been at odds with each other. The advent of federated learning (FL) combined with edge computing technologies provides a revolutionary approach to address these challenges simultaneously. This research presents a comprehensive framework for privacy-preserving medical diagnosis using federated learning deployed on edge devices. The proposed system enables multiple healthcare institutions to collaboratively train diagnostic models without sharing sensitive patient data, while maintaining real-time inference capabilities through edge computing platforms. Our approach integrates advanced privacy-preserving techniques including homomorphic encryption, differential privacy, and secure multi-party computation with optimized edge deployment on NVIDIA Jetson platforms. The framework demonstrates significant potential for transforming medical AI through secure, efficient, and collaborative learning paradigms that comply with healthcare regulations while achieving superior diagnostic accuracy. Experimental results show that federated learning models achieve 91-98% accuracy across medical imaging datasets while maintaining strict privacy guarantees and reducing communication overhead by 25-60% compared to traditional approaches.</jats:p>",
+   "DOI": "10.36227/techrxiv.175459854.42540575/v1",
+   "type": "posted-content",
+   "title": [
+    "Federated Learning for Privacy-Preserving Medical Diagnosis on Edge Devices: A Comprehensive Research Framework"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-5146-1840",
+     "authenticated-orcid": false,
+     "given": "Vignan",
+     "family": "Chintala",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tirunagari Puneeth",
+     "family": "Datta",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Hamsa Homeopathy Medical College, Hospital & Research Centre"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.36227/techrxiv.175459854.42540575/v1"
+  },
+  {
+   "DOI": "10.1109/mdm58254.2023.00038",
+   "title": [
+    "Efficient and Secure: Privacy-Preserving Federated Learning for Resource-Constrained Devices"
+   ],
+   "container-title": [
+    "2023 24th IEEE International Conference on Mobile Data Management (MDM)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/mdm58254.2023.00038",
+   "author": [
+    {
+     "given": "Muhammad Ayat",
+     "family": "Hidayat",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Kyushu University,Information Science and Technology ISEE,Fukuoka,Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yugo",
+     "family": "Nakamura",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Kyushu University,Information Science and Technology ISEE,Fukuoka,Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yutaka",
+     "family": "Arakawa",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Kyushu University,Information Science and Technology ISEE,Fukuoka,Japan"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "DYA Research Center",
+   "abstract": "<jats:p>The rapid adoption of Artificial Intelligence (AI) across industries, particularly in \nhealthcare, finance, and smart devices, has introduced significant concerns \nregarding data privacy, security, and compliance with regulations such as GDPR, \nHIPAA, and CCPA. Traditional centralized machine learning (ML) models require \nlarge-scale data aggregation, increasing risks of data breaches, misuse, and \nunauthorized access. Federated Learning (FL) has emerged as a transformative \nsolution, allowing multiple edge devices or organizations to collaboratively train \nmachine learning models without sharing raw data. \nThis paper explores the principles, advantages, and challenges of FL and \nconducts an empirical analysis comparing FL’s efficacy, security, and scalability to \ncentralized models. A case study on federated learning in healthcare diagnostics \nhighlights the real-world impact of this approach. Additionally, insights from a \nstructured survey of AI researchers, data scientists, and industry professionals are \nanalyzed to assess FL adoption, technical challenges, and future potential. \nFindings suggest that FL enhances privacy and compliance, making it \nparticularly suitable for industries handling sensitive information. However, \nchallenges such as high computational costs, model convergence issues, and  communication overhead must be addressed for FL to achieve widespread \nadoption. Future advancements in efficient federated learning frameworks, \nregulatory standardization, and privacy-preserving AI techniques will further \ndefine FL’s role in the evolution of decentralized artificial intelligence.</jats:p>",
+   "DOI": "10.63665/ijmlaidse.v1i1.02",
+   "type": "journal-article",
+   "title": [
+    "Federated Learning for Privacy-Preserving AI: A Comparative Analysis of Decentralized Data Training"
+   ],
+   "author": [
+    {
+     "given": "Dr. Subash Ranjan",
+     "family": "Kabat",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Machine Learning, AI &amp; Data Science Evolution"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.63665/ijmlaidse.v1i1.02"
+  },
+  {
+   "DOI": "10.1109/aidml70736.2026.11749169",
+   "title": [
+    "A Verified Explainable Federated Learning Framework for Privacy-Preserving Multi-Class Dermatological Diagnosis Under Anatomical Data Heterogeneity"
+   ],
+   "container-title": [
+    "2026 IEEE International Conference on Applied Intelligence Devices, Machine Learning, and Data Science (AIDML)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/aidml70736.2026.11749169",
+   "author": [
+    {
+     "given": "Jayadev",
+     "family": "Dadi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Illinois at Springfield",
+       "place": [
+        "Springfield, Illinois, USA"
+       ],
+       "department": [
+        "Department of Computer Science"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Privacy protection has been an important concern with the great success of machine learning. In this paper, it proposes a multi-party privacy preserving machine learning framework, named PFMLP, based on partially homomorphic encryption and federated learning. The core idea is all learning parties just transmitting the encrypted gradients by homomorphic encryption. From experiments, the model trained by PFMLP has almost the same accuracy, and the deviation is less than 1%. Considering the computational overhead of homomorphic encryption, we use an improved Paillier algorithm which can speed up the training by 25–28%. Moreover, comparisons on encryption key length, the learning network structure, number of learning clients, etc. are also discussed in detail in the paper.</jats:p>",
+   "DOI": "10.3390/fi13040094",
+   "type": "journal-article",
+   "title": [
+    "Privacy Preserving Machine Learning with Homomorphic Encryption and Federated Learning"
+   ],
+   "author": [
+    {
+     "given": "Haokun",
+     "family": "Fang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Computer Engineering &amp; Science, Shanghai University, Shanghai 200444, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Quan",
+     "family": "Qian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computer Engineering &amp; Science, Shanghai University, Shanghai 200444, China"
+      },
+      {
+       "name": "Materials Genome Institute, Shanghai University, Shanghai 200444, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Future Internet"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      4,
+      8
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/fi13040094"
+  },
+  {
+   "publisher": "Eduschool Academic Research and Publishers",
+   "abstract": "<jats:p>Federated learning trains a shared model across many decentralized clients while keeping raw data on the device, which addresses data silos and tightening privacy regulation such as GDPR and HIPAA. This paper reviews the methods and the practical trade-offs of federated and privacy-preserving machine learning. The discussion begins with the FedAvg protocol and the distinction between cross-device settings, with millions of intermittent participants, and cross-silo settings, with a small set of reliable institutions. Statistical heterogeneity, where client data is non-IID, slows convergence and biases the global model; proximal correction in FedProx and control variates in SCAFFOLD reduce this client drift. Because the uplink is often the bottleneck, the survey covers gradient compression, quantization, and sparsification that cut communication cost by an order of magnitude. Sharing model updates is not by itself private: membership inference and gradient leakage attacks can recover sensitive information, so the paper examines differential privacy, secure aggregation, and homomorphic encryption as defenses, together with the accuracy cost each one carries. Personalization methods that adapt the global model to local distributions are summarized, followed by applications in healthcare, mobile keyboards, and finance. Illustrative experiments on a non-IID benchmark show SCAFFOLD reaching a target accuracy in fewer rounds than FedAvg, and a differential-privacy sweep quantifies the privacy-utility curve. The results are illustrative and do not describe a deployed production system.</jats:p>",
+   "DOI": "10.63090/eijdsml/3139.7344.0014",
+   "type": "journal-article",
+   "title": [
+    "Federated and Privacy-Preserving Machine Learning: Methods and Trade-offs"
+   ],
+   "author": [
+    {
+     "given": "Saritha",
+     "family": "E",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Eduschool Academic Research Publishers, Angamaly, Kerala, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Eduschool International Journal of Data Science and Machine learning (EIJDSML)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.63090/eijdsml/3139.7344.0014"
+  }
+ ]
+}

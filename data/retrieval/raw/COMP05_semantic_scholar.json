@@ -1,0 +1,751 @@
+{
+ "query": "Zero trust architecture for network security",
+ "retrieved_at": "2026-11-18T17:44:47.556154+00:00",
+ "data": [
+  {
+   "paperId": "e80cdf0b81708d61f94578a611f362d534e25312",
+   "externalIds": {
+    "DOI": "10.51594/csitrj.v6i3.1871",
+    "CorpusId": 277629405
+   },
+   "url": "https://www.semanticscholar.org/paper/e80cdf0b81708d61f94578a611f362d534e25312",
+   "title": "Zero trust architecture: A paradigm shift in network security",
+   "venue": "Computer Science &amp; IT Research Journal",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://fepbl.com/index.php/csitrj/article/download/1871/2140",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v6i3.1871?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v6i3.1871, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-07",
+   "authors": [
+    {
+     "authorId": "2242691222",
+     "name": "O. Ejiofor"
+    },
+    {
+     "authorId": "2509494891",
+     "name": "Oluwafemi Olusoga"
+    },
+    {
+     "authorId": "2312206439",
+     "name": "Ahmed Akinsola"
+    }
+   ],
+   "abstract": "Zero Trust Architecture (ZTA) represents a significant shift in network security by moving away from the traditional perimeter-based approach. Instead, ZTA operates on the principle of \"never trust, always verify,\" assuming that threats could exist both inside and outside the network. This paradigm shift necessitates rigorous verification of every user, device, and application attempting to access resources, regardless of their location. The core components of ZTA include robust identity verification, continuous monitoring and analytics, and granular access control policies. By implementing these components, organizations can significantly reduce the attack surface and minimize the risk of unauthorized access. ZTA leverages advanced technologies such as multi-factor authentication (MFA), micro-segmentation, and encryption to ensure that only authenticated and authorized entities can access sensitive data and systems. Continuous monitoring and real-time analytics are essential to detect and respond to potential threats promptly. Additionally, adopting a least-privilege approach ensures that users and devices have access only to the resources necessary for their tasks, further minimizing the potential for security breaches. The implementation of ZTA presents several challenges, including the complexity of integrating it with existing legacy systems, potential performance impacts due to increased verification processes, and the need for comprehensive employee training. However, the benefits of adopting a Zero Trust approach are substantial. Organizations can achieve enhanced security resilience, improved compliance with regulatory standards, and increased visibility into network activities. Moreover, ZTA's adaptability to modern hybrid and remote work environments makes it particularly relevant in the current digital landscape. Numerous case studies demonstrate the effectiveness of ZTA in mitigating sophisticated cyber threats. For instance, leading tech companies and government agencies have successfully implemented Zero Trust frameworks to protect their critical assets and maintain operational continuity amidst rising cyberattacks. These real-world applications highlight the practical advantages of ZTA in various industries, reinforcing its status as a critical component of modern cybersecurity strategies. In conclusion, Zero Trust Architecture represents a transformative approach to network security, addressing the limitations of traditional models. By focusing on rigorous verification, continuous monitoring, and least-privilege access, ZTA provides a robust framework for protecting sensitive information in an increasingly complex threat landscape. As cyber threats evolve, adopting Zero Trust principles will be crucial for organizations seeking to safeguard their digital assets and maintain trust in their security posture. \n Keywords: Paradigm Shift, Network; Security, Zero Trust, Architecture."
+  },
+  {
+   "paperId": "1c1a38c33932f6a50b54b3c77e6a9db7ab528467",
+   "externalIds": {
+    "DOI": "10.1109/ICBMESH66209.2025.11182246",
+    "CorpusId": 281708925
+   },
+   "url": "https://www.semanticscholar.org/paper/1c1a38c33932f6a50b54b3c77e6a9db7ab528467",
+   "title": "Zero Trust Architecture for Cloud and Network Security: A Next-Generation Approach to Access Control",
+   "venue": "2025 International Conference on Biomedical Engineering and Sustainable Healthcare (ICBMESH)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICBMESH66209.2025.11182246?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICBMESH66209.2025.11182246, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-08-08",
+   "authors": [
+    {
+     "authorId": "2236241261",
+     "name": "R. B"
+    },
+    {
+     "authorId": "2367335567",
+     "name": "C. Meenakshi"
+    }
+   ],
+   "abstract": "The adoption of cloud computing and network infrastructure demands security frameworks that surpass simplistic perimeter-based approaches. Zero Trust Architecture (ZTA) prevents unauthorized access through its procedures for real-time user verification and its strict limitations on system entry. The research assesses four machine learning models for zero trust anomaly detection, which include Random Forest with 96.48% accuracy, XGBoost at 95.23% alongside KNN at 77.39%, and AdaBoost at 67.84%. Random Forest, together with \"XGBoost, demonstrates superior performance than KNN and AdaBoost when assessing AUC scores that reach 1.00 and 0.99. The study findings demonstrate weak security through passwords that emphasize why multiple authentication factors and biometric solutions are needed for systems protection. The research establishes tree-based methods as optimal choices for establishing zero-trust security deployments. Keywords: Zero Trust Architecture, Cloud Security, Network Security, Machine Learning, Anomaly Detection, Access Control, Random Forest, XGBoost, Authentication Methods, Multi-Factor Authentication, Biometric Security, AUC-ROC, Cyber Threats, Data Protection, Zero Trust Framework"
+  },
+  {
+   "paperId": "343d4054fde528cfbc9caee8c18cb5ef58dcb7bd",
+   "externalIds": {
+    "DOI": "10.1109/HONET56683.2022.10019186",
+    "CorpusId": 256215302
+   },
+   "url": "https://www.semanticscholar.org/paper/343d4054fde528cfbc9caee8c18cb5ef58dcb7bd",
+   "title": "Study of Zero Trust Architecture for Applications and Network Security",
+   "venue": "International Symposium on High-capacity Optical Networks and Enabling Technologies",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/HONET56683.2022.10019186?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/HONET56683.2022.10019186, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2022-12-19",
+   "authors": [
+    {
+     "authorId": "2559912229",
+     "name": "Farhan A. Qazi"
+    }
+   ],
+   "abstract": "As a result of globalization, the COVID-19 pandemic and the migration of data to the cloud, the traditional security measures where an organization relies on a security perimeter and firewalls do not work. There is a shift to a concept whereby resources are not being trusted, and a zero-trust architecture (ZTA) based on a zero-trust principle is needed. Adapting zero trust principles to networks ensures that a single insecure Application Protocol Interface (API) does not become the weakest link comprising of Critical Data, Assets, Application and Services (DAAS). The purpose of this paper is to review the use of zero trust in the security of a network architecture instead of a traditional perimeter. Different software solutions for implementing secure access to applications and services for remote users using zero trust network access (ZTNA) is also summarized. A summary of the author's research on the qualitative study of “Insecure Application Programming Interface in Zero Trust Networks” is also discussed. The study showed that there is an increased usage of zero trust in securing networks and protecting organizations from malicious cyber-attacks. The research also indicates that APIs are insecure in zero trust environments and most organization are not aware of their presence."
+  },
+  {
+   "paperId": "138118a352abc5a37f0c7c70bb9eb9a4deae5819",
+   "externalIds": {
+    "DBLP": "journals/access/Aleisa25",
+    "DOI": "10.1109/ACCESS.2025.3529309",
+    "CorpusId": 275532983
+   },
+   "url": "https://www.semanticscholar.org/paper/138118a352abc5a37f0c7c70bb9eb9a4deae5819",
+   "title": "Blockchain-Enabled Zero Trust Architecture for Privacy-Preserving Cybersecurity in IoT Environments",
+   "venue": "IEEE Access",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/access.2025.3529309",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3529309?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3529309, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "83845982",
+     "name": "Mohammed A. Aleisa"
+    }
+   ],
+   "abstract": "This research introduced a new novel “Unified Quantum-Resilient Blockchain-Zero-Knowledge Proofs Privacy Authentication Framework (QBC-ZKPAF)” to upgrade the IoT environments with greater security. To enable privacy-preserving authentication, access control, and secure communication, the framework integrates blockchain technology with Zero Trust Architecture (ZTA) and post-quantum cryptography. A hybrid Reinforcement-Lattice Blockchain KeyGen for quantum-resilient key generation, Deep Q-Network Multi-Factor Secure Key (DQN-MFSK) for dynamic selection of keys, and Zero-Knowledge Proof for privacy-preserving signatures are employed to achieve secure IoT settings. This architecture entails data privacy and confidentiality, auditability and traceability, and withstanding evolving threats, including potential threats in terms of quantum attacks. It then uses blockchain technology for recording unalterable data of identity and access management while Zero-Knowledge Proofs (ZKP) ensures authentication and verification without revealing sensitive information. By decentralizing identity management and enabling multi-factor authentication, QBC-ZKPAF provides robust security and privacy solutions for IoT networks. The experimental results demonstrate the model’s effectiveness with 98% privacy preservation, 700 TPS throughput, 0.7 J energy consumption, 0.98 quantum resilience, and 96% access control effectiveness, making it highly suitable for modern IoT and blockchain applications."
+  },
+  {
+   "paperId": "3347cdc741e4648e8390a9da6dbbc32e4485dab3",
+   "externalIds": {
+    "DOI": "10.28925/2663-4023.2025.31.1013",
+    "CorpusId": 284561632
+   },
+   "url": "https://www.semanticscholar.org/paper/3347cdc741e4648e8390a9da6dbbc32e4485dab3",
+   "title": "A CONTEXT-AWARE APPROACH TO ORGANIZING NETWORK SECURITY POLICIES IN A ZERO TRUST ARCHITECTURE",
+   "venue": "Cybersecurity: Education, Science, Technique",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://csecurity.kubg.edu.ua/index.php/journal/article/download/1013/854",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.28925/2663-4023.2025.31.1013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.28925/2663-4023.2025.31.1013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2329573114",
+     "name": "R. Syrotynskyi"
+    }
+   ],
+   "abstract": "The relevance of introducing new approaches and practices for organizing and controlling access in network infrastructures is justified by the widening gap between the requirements of modern security standards and the capabilities of network security tools that operate at Layers 3–4 of the OSI model. The paper analyzes security models recommended by contemporary standards and industry best practices for information infrastructures, and explores ways to implement them using available market tools and network access control measures. The methodological basis of the proposed approach combines the Zero Trust principles outlined in NIST SP 800-207, capabilities found in the portfolios of next-generation firewall vendors, and the author’s methodologies and practices for integrating heterogeneous security systems to enrich firewall security policies with network-access context. The approach enables adherence to Zero Trust principles while maintaining operational quality and high performance of the network infrastructure, without exceeding acceptable total cost of operation and ownership of infrastructure resources. Key components and design patterns of the security infrastructure necessary to achieve these goals are identified. The scientific novelty of the approach lies in a paradigm shift in network access control—from a model centered on a corporate node’s address to a model centered on user access control coupled with verification of the security posture of the requesting device. The paper proposes contextual attributes for security policies and optimal methods for structuring host access levels within firewall configurations. The practice of collecting and enriching policy enforcement points with network context provides the flexibility and technical means required to uphold Zero Trust principles when building a corporate security model. The drawbacks of the method include operational complexity, increased cost, and dependencies on other systems that may affect network performance and expand the compromise surface of the security stack itself."
+  },
+  {
+   "paperId": "b99b83602fc0c7946059eecb7a360268ef1f4a0f",
+   "externalIds": {
+    "DOI": "10.1145/3762329.3762335",
+    "CorpusId": 281499032
+   },
+   "url": "https://www.semanticscholar.org/paper/b99b83602fc0c7946059eecb7a360268ef1f4a0f",
+   "title": "Research on the Application of Network Security Office Under Zero-Trust Architecture",
+   "venue": "Proceedings of the 2nd International Conference on Artificial Intelligence of Things and Computing",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3762329.3762335",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3762329.3762335?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3762329.3762335, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Book",
+    "Conference"
+   ],
+   "publicationDate": "2025-07-25",
+   "authors": [
+    {
+     "authorId": "2144576358",
+     "name": "Jian Xiao"
+    },
+    {
+     "authorId": "2325782529",
+     "name": "Hongyan Chen"
+    },
+    {
+     "authorId": "2156845508",
+     "name": "Zhifang Yao"
+    },
+    {
+     "authorId": "2325847559",
+     "name": "Zhengqi Xiao"
+    }
+   ],
+   "abstract": "This paper explores the usage of the zero trust security concept and its key technologies in network security for office use, aiming to address the various risks present in existing network security architectures. Focusing on risks related to office terminals, secure office environments, remote working, digital identity security, and internal network security, zero trust employs a range of technical means such as user-device binding, device fingerprinting, periodic and event-based measurements, terminal sandboxing, and digital identity management to provide a more precise and dynamic security defense mechanism. The zero trust security model emphasizes the core principle of \"continuous verification, never trust,\" breaking away from the traditional network security architecture based on boundaries and achieving a shift from a \"network-centric\" to a \"data-centric\" approach. Through key technologies such as Software-Defined Perimeter (SDP), Identity and Access Management (IAM), and micro-segmentation (MSG), the zero trust architecture demonstrates significant advantages in enhancing network resilience and dynamic security management, offering a safer and more reliable solution for mobile office scenarios."
+  },
+  {
+   "paperId": "be488489777c7725e615ace5a425665c183f9f01",
+   "externalIds": {
+    "DOI": "10.30574/wjarr.2023.19.3.1785",
+    "CorpusId": 261589084
+   },
+   "url": "https://www.semanticscholar.org/paper/be488489777c7725e615ace5a425665c183f9f01",
+   "title": "Zero trust architecture: Redefining network security paradigms in the digital age",
+   "venue": "World Journal of Advanced Research and Reviews",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://wjarr.com/sites/default/files/WJARR-2023-1785.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjarr.2023.19.3.1785?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjarr.2023.19.3.1785, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-30",
+   "authors": [
+    {
+     "authorId": "2118146971",
+     "name": "Muhammad Khan"
+    }
+   ],
+   "abstract": "The prevailing paradigms of network security have demonstrated their inadequacy in safeguarding critical data against the intricate web of advanced cyber threats prevailing in today's ever-shifting digital terrain. The domain of network security has been subjected to a seismic reorientation catalyzed by the advent of the zero-trust paradigm. This novel approach underscores a multifaceted, adaptable, and proactive methodology, thereby punctuating the obsolescence of conventional perimeter-centric strategies. Central to the ethos of the zero-trust doctrine resides a fundamental skepticism concerning the bedrock of trust assumptions that underpin network dynamics. Diverging from entrenched models, the zero-trust architectural edifice operates on the premise that perils are omnidirectional, originating both externally and internally. This nullification of any inherent trust attributed to constituents within stipulated boundaries compels enterprises, regardless of user spatial disposition or network adjacency, to painstakingly ascertain the legitimacy of every user, device, and application endeavoring to access invaluable resources. At the core of the zero-trust architecture lies its distinctive feature of significantly reducing the vulnerable area for potential attacks. This contraction is manifest through the meticulous imposition of stringent access controls and the meticulous segmentation of microcosmic components, thereby effectively constricting the lateral trajectory of threats across the network expanse. Consequently, even in the contingency of a breach, the reverberations upon pivotal assets are attenuated, their potential detriment confined and segregated. Concurrently, the zero-trust ethos assimilates a perpetual vigilance and instantaneous threat discernment as intrinsic tenets. This capacitates organizations to expeditiously counteract aberrations and potential security breaches. To fortify the bulwark of data integrity, the paradigm amalgamates multifarious facets encompassing multifactor authentication, encryption, and the tenet of least privilege. This confluence tangibly augments the intricacy of thwarting unauthorized actors seeking ingress or egress to prized sensitive data. Of paramount import is the alignment of this strategy with the capricious contours of contemporary business workflows, encompassing the ubiquity of mobile devices, the ubiquity of remote work modalities, and the prevalence of cloud-based services, all within an impregnable security aegis. However, the implementation of the zero-trust framework is not devoid of associated difficulties. Organizations must adroitly maneuver through labyrinthine installation protocols, the specter of potential compatibility conflicts, and the imperative of engendering a seismic cultural shift within security practices. Furthermore, the perpetual guardianship and custodianship of such an architecture mandate the marshaling of bespoke resources and expertise."
+  },
+  {
+   "paperId": "4ec695a0cdf05db70a2410e1525436088c936983",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2503-11659",
+    "ArXiv": "2503.11659",
+    "DOI": "10.1007/s10922-025-09998-x",
+    "CorpusId": 277066000
+   },
+   "url": "https://www.semanticscholar.org/paper/4ec695a0cdf05db70a2410e1525436088c936983",
+   "title": "Zero Trust Architecture: A Systematic Literature Review",
+   "venue": "Journal of Network and Systems Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.173933211.18231232",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2503.11659, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-02-07",
+   "authors": [
+    {
+     "authorId": "2182912550",
+     "name": "Muhammad Liman Gambo"
+    },
+    {
+     "authorId": "1901473",
+     "name": "Ahmad Almulhem"
+    }
+   ],
+   "abstract": "The increasing complexity of digital ecosystems and evolving cybersecurity threats have highlighted the limitations of traditional perimeter-based security models, leading to the growing adoption of Zero Trust Architecture (ZTA). ZTA operates on the principle of “never trust, always verify,” enforcing continuous authentication, conditional access, dynamic trust evaluation, and the principle of least privilege to enhance security across diverse domains. This study applies the PRISMA framework to analyze 10 years of research (2016–2025) on ZTA, presenting a systematic literature review that synthesizes its applications, enabling technologies, and associated challenges. It provides a detailed taxonomy that organizes application domains of ZTA, together with the emerging technologies that facilitate its implementation, and critically examines the barriers to ZTA adoption. Additionally, the study traces the historical evolution of ZTA alongside notable events and publications trends, while highlighting some potential factors for the surge over the past few years. It also shows how ZTA principles can be strategically utilized to enforce granular access controls, continuously monitor system behavior, and streamline security management across complex, distributed networks. This comprehensive analysis serves as a practical guide for researchers and practitioners seeking to leverage ZTA for stronger, more adaptive security frameworks in a rapidly shifting threat landscape."
+  },
+  {
+   "paperId": "75a7459c15508977985cdf5d59891075b08fe546",
+   "externalIds": {
+    "DBLP": "journals/jcloudc/LilhoreSABAAK25",
+    "DOI": "10.1186/s13677-025-00764-7",
+    "CorpusId": 279817821
+   },
+   "url": "https://www.semanticscholar.org/paper/75a7459c15508977985cdf5d59891075b08fe546",
+   "title": "SmartTrust: a hybrid deep learning framework for real-time threat detection in cloud environments using Zero-Trust Architecture",
+   "venue": "Journal of Cloud Computing",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journalofcloudcomputing.springeropen.com/counter/pdf/10.1186/s13677-025-00764-7",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s13677-025-00764-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s13677-025-00764-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-01",
+   "authors": [
+    {
+     "authorId": "2181643",
+     "name": "U. Lilhore"
+    },
+    {
+     "authorId": "2017598099",
+     "name": "Sarita Simaiya"
+    },
+    {
+     "authorId": "49004436",
+     "name": "R. Alroobaea"
+    },
+    {
+     "authorId": "2810314",
+     "name": "Abdullah M. Baqasah"
+    },
+    {
+     "authorId": "72121102",
+     "name": "Majed Alsafyani"
+    },
+    {
+     "authorId": "2349690205",
+     "name": "Afnan Alhazmi"
+    },
+    {
+     "authorId": "2369856019",
+     "name": "Md Monish Khan"
+    }
+   ],
+   "abstract": "The rapid growth of cloud computing has brought scalability and flexibility to modern organizations, but it has also introduced a new wave of complex and evolving security threats. Traditional security mechanisms, such as static rule-based systems and Multi-Factor Authentication (MFA), often fall short of identifying advanced attacks like insider threats, privilege escalation, and data breaches. Addressing this gap, we propose SmartTrust, a hybrid deep learning framework designed for real-time threat detection in cloud environments built on Zero-Trust Architecture (ZTA) principles. SmartTrust integrates CNN, LSTM, and Transformer models to analyze spatial and temporal patterns in network traffic and user behaviours. Unlike conventional models, it leverages Reinforcement Learning to enable adaptive decision-making, allowing it to adjust responses based on real-time contextual signals dynamically. To ensure transparency and tamper-proof event tracking, the framework also incorporates blockchain-based logging that is aligned with ZTA compliance. We evaluated SmartTrust on two benchmark datasets, CIC-IoT 2023 and UNSW-NB15, which simulate realistic cloud-based attack scenarios. The model achieved detection rates of 99.19% for insider threats, 98.23% for privilege escalation, and 99.27% for data breaches while reducing false positives by over 40% compared to existing approaches. Though the model’s complexity introduces higher computational demands, its performance demonstrates that SmartTrust offers a robust, intelligent, and adaptive alternative to traditional cloud security solutions capable of evolving with today’s rapidly changing threat landscape."
+  },
+  {
+   "paperId": "ace6c137c57edd2d9fefa3b935e81862346c2de3",
+   "externalIds": {
+    "DOI": "10.71097/ijsat.v15.i1.1650",
+    "CorpusId": 276013801
+   },
+   "url": "https://www.semanticscholar.org/paper/ace6c137c57edd2d9fefa3b935e81862346c2de3",
+   "title": "Implementation and Challenges of Zero Trust Architecture in Network Security",
+   "venue": "International Journal for Sciences and Technology",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.ijsat.org/papers/2024/1/1650.pdf",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.71097/ijsat.v15.i1.1650?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.71097/ijsat.v15.i1.1650, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-14",
+   "authors": [
+    {
+     "authorId": "2342954934",
+     "name": "Sabeeruddin Shaik"
+    }
+   ],
+   "abstract": "The changing cybersecurity landscape requires creative frameworks to combat advanced threats. Zero Trust Architecture (ZTA) represents a fundamental transformation from conventional perimeter-based security frameworks by implementing the principles of \"never trust, always verify.\" This study examines the deployment of ZTA, its challenges, applications, and its effect on network security. This paper emphasizes ZTA's efficiency in addressing insider threats and lateral movement and improving data protection through an extensive examination of the literature before 2021. The report finishes with observations regarding ZTA's potential and suggestions for future integration."
+  },
+  {
+   "paperId": "773925bf650d66112887b2c9bbf9d985ffb0630b",
+   "externalIds": {
+    "DOI": "10.1117/12.3038292",
+    "CorpusId": 272112827
+   },
+   "url": "https://www.semanticscholar.org/paper/773925bf650d66112887b2c9bbf9d985ffb0630b",
+   "title": "Research on the design of network security system for natural resources big data platform based on zero-trust architecture",
+   "venue": "International Conference on Computer Communication and Network Security",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1117/12.3038292?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1117/12.3038292, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-08-22",
+   "authors": [
+    {
+     "authorId": "8666231",
+     "name": "Ru-Dong Li"
+    },
+    {
+     "authorId": "2312733957",
+     "name": "Xin-Yuan Cao"
+    }
+   ],
+   "abstract": "The natural resources big data platform was constructed using cloud technology, IoT, 5G, and other technologies to integrate and utilize various operational resources of natural resources-related departments. The platform has real-time connectivity to field hand-held devices, observation stations, monitoring facilities, and other terminals, enabling the convergence, management, and sharing of a large amount of sensitive data within the organization. The protection of network security for the natural resource big data platform is complex and challenging, with a significant risk of data leakage. Therefore, it is crucial to propose more effective security solutions. This paper analyzes the architecture and implementation of a zero-trust network security system for the natural resource big data platform. It explores the design path of the network security system based on the zero-trust architecture and proposes a design scheme to meet remote access."
+  },
+  {
+   "paperId": "4de852d8377a9a01ec6b8db3af0ba74e3ea13f74",
+   "externalIds": {
+    "DOI": "10.47974/jdmsc-2649",
+    "CorpusId": 285899596
+   },
+   "url": "https://www.semanticscholar.org/paper/4de852d8377a9a01ec6b8db3af0ba74e3ea13f74",
+   "title": "Transforming network security through zero trust architecture : Principles, challenges, and future directions",
+   "venue": "Journal of Discrete Mathematical Sciences &amp; Cryptography",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://tarupublications.com/journals/jdmsc/volume/29/issue/2-B/transforming-network-security-through-zero-trust-architecture-principles-challenges-and-future-directions/pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47974/jdmsc-2649?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47974/jdmsc-2649, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2238648369",
+     "name": "Rekha Jain"
+    },
+    {
+     "authorId": "1581895563",
+     "name": "Bhoomika Batra"
+    },
+    {
+     "authorId": "2176919135",
+     "name": "Budesh Kanwer"
+    },
+    {
+     "authorId": "72126751",
+     "name": "L. Raja"
+    },
+    {
+     "authorId": "39399037",
+     "name": "Vaibhav Bhatnagar"
+    }
+   ],
+   "abstract": "Given the continued expansion of cyber threats; such perimeter-based resistance traditional security strategies have proven to be inadequate. No one is trusted by default, either inside or outside the network, in a Zero Trust architecture. Zero Trust Architecture (ZTA) is a modern security model that demands consistent authentication of users and devices and denies any presupposition of implicit trust. It should also be of strong authorization, network division, and authentication. This article covers the principles, components, pros, and cons along with zero trust implementation strategies and the impact on network security."
+  },
+  {
+   "paperId": "54355077ccd72f53b44401e0b1322fe4e2c87107",
+   "externalIds": {
+    "DOI": "10.1109/ICoICI65217.2025.11253860",
+    "CorpusId": 283470466
+   },
+   "url": "https://www.semanticscholar.org/paper/54355077ccd72f53b44401e0b1322fe4e2c87107",
+   "title": "Zero Trust Network and Cloud Security Architecture: A New Wave of Access Control Techniques",
+   "venue": "2025 3rd International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICoICI65217.2025.11253860?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICoICI65217.2025.11253860, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-09-17",
+   "authors": [
+    {
+     "authorId": "2236241261",
+     "name": "R. B"
+    },
+    {
+     "authorId": "2367335567",
+     "name": "C. Meenakshi"
+    }
+   ],
+   "abstract": "The usage of cloud computing and network infrastructure demands security frameworks that go beyond simple perimeter-based tactics. Zero Trust Architecture (ZTA) prevents undesired access with its severe system entrance limitations and real-time user verification procedures. The study evaluates four machine learning models for zero trust anomaly detection: AdaBoost, with an accuracy of 67.84%, Random Forest, with an accuracy of 96.48%, XGBoost, with an accuracy of 95.23% in conjunction with KNN, with an accuracy of 77.39%. Random Forest and \"XGBoost\" outperform KNN and AdaBoost when analysing AUC scores that approach 1.00 and 0.99. The results of the study show that passwords have inadequate security, underscoring the necessity of biometric solutions and various authentication factors for system security."
+  },
+  {
+   "paperId": "6444c4d32587864c3ca0509c627454dfbdd1a81a",
+   "externalIds": {
+    "DOI": "10.1051/epjconf/202534101021",
+    "CorpusId": 283208666
+   },
+   "url": "https://www.semanticscholar.org/paper/6444c4d32587864c3ca0509c627454dfbdd1a81a",
+   "title": "Zero trust security architecture enhanced with federated learning for modern network environments",
+   "venue": "EPJ Web of Conferences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.epj-conferences.org/articles/epjconf/pdf/2025/26/epjconf_icatcict2025_01021.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/epjconf/202534101021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/epjconf/202534101021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2333910733",
+     "name": "S. R. Shinde"
+    },
+    {
+     "authorId": "2058250687",
+     "name": "Siddhant Gade"
+    },
+    {
+     "authorId": "2393894587",
+     "name": "Tusharkumar Singh"
+    },
+    {
+     "authorId": "2281871667",
+     "name": "Dattatray G. Takale"
+    },
+    {
+     "authorId": "2393741110",
+     "name": "Pranav Shingare"
+    },
+    {
+     "authorId": "2393741070",
+     "name": "Soham Kanathia"
+    }
+   ],
+   "abstract": "The fast-paced digitization and the adoption of cloud-based services have greatly widened the enterprise attack surface and put the networks at risk from internal vulnerabilities as well as external attacks. The traditional model of perimeter-based security cannot adequately protect the modern distributed infrastructure where hybrid work, Bring-Your-Own-Device (BYOD) policies, and Internet-of-Things (IoT) ecosystems are prevalent. This paper presents an approach to a Zero Trust Security Architecture (ZTA) by integrating Federated Learning (FL) in order to provide adaptive, privacy-preserving, and intelligent network protection. The proposed solution allows the ZTA's \"never trust, always verify\" principle to be enforced while implementing federated learning in order to train AI models collaboratively amongst multiple distributed nodes and without exchanging raw data, thus ensuring confidentiality. Centralized federated learning is used for secure authentication, and Distributed federated learning systems are used for independent constant diagnostics and policy updates. The proposed mathematical formulation and performance comparisons have shown that the combined frameworks can enhance data privacy, scalability, and resiliency while aligning with contemporary Cyber Security Regulatory compliance. We also provide the groundwork for integrating with blockchain and edge optimized AI systems in future work."
+  },
+  {
+   "paperId": "6a0671f039f9385270bbddc579ce550f21e2d322",
+   "externalIds": {
+    "DOI": "10.2139/ssrn.5260029",
+    "CorpusId": 279530939
+   },
+   "url": "https://www.semanticscholar.org/paper/6a0671f039f9385270bbddc579ce550f21e2d322",
+   "title": "The Role of AI in Zero Trust Architecture: Strengthening Network Security on the Manufacturing Shop Floor",
+   "venue": "Social Science Research Network",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2139/ssrn.5260029",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.5260029?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.5260029, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2368115128",
+     "name": "Venkatesh Kodela"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "eacb8d40289d48bbb697297ff7533e97f4a65bee",
+   "externalIds": {
+    "DBLP": "journals/wc/LiuSPXWL24",
+    "DOI": "10.1109/MWC.001.2300375",
+    "CorpusId": 269036013
+   },
+   "url": "https://www.semanticscholar.org/paper/eacb8d40289d48bbb697297ff7533e97f4a65bee",
+   "title": "Zero Trust-Based Mobile Network Security Architecture",
+   "venue": "IEEE wireless communications",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MWC.001.2300375?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MWC.001.2300375, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-04-01",
+   "authors": [
+    {
+     "authorId": "2108112321",
+     "name": "Yi-Liang Liu"
+    },
+    {
+     "authorId": "2153421121",
+     "name": "Zhou Su"
+    },
+    {
+     "authorId": "2254026924",
+     "name": "Haixia Peng"
+    },
+    {
+     "authorId": "2386950941",
+     "name": "Yushan Xiang"
+    },
+    {
+     "authorId": "2261647757",
+     "name": "Wei Wang"
+    },
+    {
+     "authorId": "2319268184",
+     "name": "Ruidong Li"
+    }
+   ],
+   "abstract": "With the rapid advancement of air interface technology and the exponential growth of mobile services, mobile networks have become significantly complex. Traditional network security models, relying on regional defense strategies, are no longer sufficient to meet the current security demands. This article proposes the zero-trust architecture as a potential security mode for 6G. However, the distributed network architecture, the proliferation of connected devices, and the diverse service requirements of 6G pose sub-stantial challenges to this security model implementation. To address these issues, the article explores the opportunities presented by artificial intelligence (Al) and novel air interface technologies, which promote robust and efficient identity authentication, access control, and confidential data transmission for 6G. Finally, the article outlines a visionary outlook for the zero trust-based 6G security architecture, highlighting its potential impact on the future of mobile networks."
+  },
+  {
+   "paperId": "fecc39fd78c25d4d1d78c820ab6549d9a348e957",
+   "externalIds": {
+    "DBLP": "journals/ijisec/MaC25",
+    "DOI": "10.1007/s10207-025-01030-2",
+    "CorpusId": 278344325
+   },
+   "url": "https://www.semanticscholar.org/paper/fecc39fd78c25d4d1d78c820ab6549d9a348e957",
+   "title": "A novel risk-based access control engine in zero trust architecture for IoT network",
+   "venue": "International Journal of Information Security",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10207-025-01030-2.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10207-025-01030-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10207-025-01030-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-05",
+   "authors": [
+    {
+     "authorId": "2257127580",
+     "name": "Yi Ma"
+    },
+    {
+     "authorId": "2058024226",
+     "name": "Po-Hung Chiu"
+    }
+   ],
+   "abstract": "The Internet of Things (IoT) and Wireless Sensor Network (WSN) market has grown recently. Therefore, security issues on IoT Networks are considerably important. This study proposes the zero trust-enabled trust evaluation mechanism that continuously evaluates the trust of neighbor nodes to prevent attackers from endangering the availability and reliability of the overall IoT networks. In zero trust, each node's behavior should be considered to avoid damage to the overall network. This study uses various indicators to evaluate the trust of each interaction behavior, including capability, feature, activity, and data contents. This study evaluates the behaviors through the ability of the interaction node and the expected behavior. The experiment result shows that the proposed method can detect and mitigate the four types of attacks in Routing Protocol for Low-Power and Lossy Network (RPL), and the proposed method has less misjudgment."
+  },
+  {
+   "paperId": "12257e9d421e2897490af1299cf70833ff3a8e32",
+   "externalIds": {
+    "DOI": "10.1109/ICEI63732.2024.10917171",
+    "CorpusId": 277099939
+   },
+   "url": "https://www.semanticscholar.org/paper/12257e9d421e2897490af1299cf70833ff3a8e32",
+   "title": "Research on Information Security Protection System of Distribution Network Based on Zero Trust Architecture",
+   "venue": "2024 IEEE International Conference on Energy Internet (ICEI)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICEI63732.2024.10917171?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICEI63732.2024.10917171, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-11-01",
+   "authors": [
+    {
+     "authorId": "2150364274",
+     "name": "Shuai-Tao Bai"
+    },
+    {
+     "authorId": "6650374",
+     "name": "W. Sheng"
+    },
+    {
+     "authorId": "2306845099",
+     "name": "Yuwei Shang"
+    },
+    {
+     "authorId": "2152582245",
+     "name": "Guan-Ying Wang"
+    },
+    {
+     "authorId": "2314066349",
+     "name": "Li-Mei Zhou"
+    },
+    {
+     "authorId": "2316244584",
+     "name": "Liang Sun"
+    },
+    {
+     "authorId": "2298515180",
+     "name": "Yi-Biao Huang"
+    },
+    {
+     "authorId": "2350660811",
+     "name": "Wei-Yong Gong"
+    }
+   ],
+   "abstract": "With the large-scale deployment of customer-side equipment such as distributed photovoltaics and charging piles, along with the integration of modern information and communication technologies like the Internet of Things(IoT) and artificial intelligence(AI), the distribution network is gradually evolving into an open power network characterized by cyber-physical fusion and multi-agent interactive participation, facing new challenges in information security protection. Adapting to the needs of the new situation, this paper analyzes the limitations of current protective measures and constructs a distribution network information security protection system that integrates zero trust architecture with boundary defense. It proposes a trust evaluation technology for intelligent terminal driven by cyber-physical fusion and designs a cloud-edge collaboration implementation method, offering new perspectives for the security protection of the energy internet."
+  },
+  {
+   "paperId": "26a4d5dda137b1bb198a9451ecd6b209dfd2ed18",
+   "externalIds": {
+    "DOI": "10.1109/ICDSCA63855.2024.10859962",
+    "CorpusId": 276185853
+   },
+   "url": "https://www.semanticscholar.org/paper/26a4d5dda137b1bb198a9451ecd6b209dfd2ed18",
+   "title": "Dynamic Security Permission Management for Power IoT Edge Devices Based on Kolmogorov-Arnold Network and Zero Trust Architecture",
+   "venue": "2024 IEEE 4th International Conference on Data Science and Computer Application (ICDSCA)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDSCA63855.2024.10859962?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDSCA63855.2024.10859962, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-11-22",
+   "authors": [
+    {
+     "authorId": "2212197999",
+     "name": "Wen Wang"
+    },
+    {
+     "authorId": "122200109",
+     "name": "Jia-Jia Han"
+    },
+    {
+     "authorId": "2293657236",
+     "name": "Xin Sun"
+    },
+    {
+     "authorId": "2291700247",
+     "name": "Yi-Lei Wang"
+    },
+    {
+     "authorId": "2344253292",
+     "name": "Pang Lyu"
+    }
+   ],
+   "abstract": "The escalating role of the Power Internet of Things (PIoT) in energy management highlights the urgent need for advanced security solutions to protect against evolving cyber threats. Integrating the Kolmogorov-Arnold Network (KAN) with the Zero Trust security architecture, this research presents a dynamic multi-attribute security permission management approach for P IoT edge devices. Critical to the integrity and stability of power systems, our method leverages KAN to predict trust levels based on device attributes such as ontological information, environmental context, and dynamic interaction behaviors, enabling the dynamic adjustment of access control rules. Our prototype system, demonstrating a prediction accuracy exceeding 96%, underscores the practicality of our approach in real-time security permission management as device attributes evolve. This study contributes significantly to the field by enhancing PIoT security, ensuring resilience against potential attacks."
+  },
+  {
+   "paperId": "fb8e26de6d6eb7bd700f441a8f9839e48480e8cf",
+   "externalIds": {
+    "MAG": "3005594826",
+    "DOI": "10.6028/nist.sp.800-207-draft",
+    "CorpusId": 212765583
+   },
+   "url": "https://www.semanticscholar.org/paper/fb8e26de6d6eb7bd700f441a8f9839e48480e8cf",
+   "title": "Zero Trust Architecture",
+   "venue": "",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.6028/nist.sp.800-207-draft2",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.6028/nist.sp.800-207-draft?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.6028/nist.sp.800-207-draft, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-09-23",
+   "authors": [
+    {
+     "authorId": "145087918",
+     "name": "S. Rose"
+    },
+    {
+     "authorId": "3062271",
+     "name": "Oliver Borchert"
+    },
+    {
+     "authorId": "2309503695",
+     "name": "Stuart Mitchell"
+    },
+    {
+     "authorId": "2554746177",
+     "name": "Sean Connelly"
+    }
+   ],
+   "abstract": "103 Zero Trust is the term for an evolving set of network security paradigms that move network 104 defenses from wide network perimeters to narrowly focusing on individual or small groups of 105 resources. A Zero Trust Architecture (ZTA) strategy is one where there is no implicit trust 106 granted to systems based on their physical or network location (i.e., local area networks vs. the 107 Internet). Access to data resources is granted when the resource is required, and authentication 108 (both user and device) is performed before the connection is established. ZTA is a response to 109 enterprise network trends that include remote users and cloud-based assets that are not located 110 within an enterprise-owned network boundary. ZTA focuses on protecting resources, not 111 network segments, as the network location is no longer seen as the prime component to the 112 security posture of the resource. This document contains an abstract definition of ZTA and gives 113 general deployment models and use cases where ZTA could improve an enterprise’s overall IT 114 security posture. 115"
+  }
+ ]
+}

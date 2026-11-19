@@ -1,0 +1,1270 @@
+{
+ "query": "Energy-efficient edge computing for Internet of Things",
+ "retrieved_at": "2026-11-18T17:45:31.501644+00:00",
+ "data": [
+  {
+   "DOI": "10.1002/9781394314751.ch7",
+   "title": [
+    "Edge Computing for Energy Efficient IoT"
+   ],
+   "container-title": [
+    "Energy Efficient Internet of Things‐Based Wireless Sensor Network"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      24
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781394314751.ch7",
+   "author": [
+    {
+     "given": "Sheetal",
+     "family": "Agarwal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rupal",
+     "family": "Gupta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2025.3626431",
+   "title": [
+    "Energy-Efficient Task Scheduling in Collaborative Edge Computing for Internet of Things"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2025.3626431",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-9840-4712",
+     "authenticated-orcid": false,
+     "given": "Sumit",
+     "family": "Dhattarwal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, National Institute of Technology Goa, Goa, Cuncolim, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Varun",
+     "family": "Pandiya",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, National Institute of Technology Goa, Goa, Cuncolim, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7461-2814",
+     "authenticated-orcid": false,
+     "given": "S.",
+     "family": "Mini",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, National Institute of Technology Goa, Goa, Cuncolim, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Science Research Society",
+   "abstract": "<jats:p>The increased growth of Internet of Things (IoT) devices in the healthcare field, in urban development, in industrial automation, and in supply chain management, has presented urgent security issues, including unauthorized access, information tampering, privacy loss, and single points of failure, that are usually not considered by traditional security tools because of distributed and resource-constrained IoT networks. The paper explores the blockchain technology as a powerful security architecture to the IoT and follows the descriptive-analytical research method and uses a Python-based simulation, which was run on Google Colab. The simulation combined real-time streams of IoT sensors with a proof-of-work consensus mechanism and HMAC-based device verification of authenticating the devices to assess the main metrics including transaction latency, throughput, data immutability, tamper detection, and system reliability under the conditions of diverse operational conditions. According to the results of the experiment, blockchain can boost the security of IoT by providing data immutability, decentralized trust, and automatic verification and is able to identify malicious manipulations of data. When comparing the performance to a baseline system (no-chain) it is apparent that, despite the blockchain causing quantifiable latency overheads through consensus and cryptographic functionality, the end-to-end delay is relatively small in most IoT applications. The results also point to practical implementation aspects, such as the limitations of scalability and energy usage, which indicate that hybrid solutions that combine lightweight consensus mechanism and off-chain storage can be the best option.</jats:p>",
+   "DOI": "10.52783/anuval.1456",
+   "type": "journal-article",
+   "title": [
+    "Energy-Efficient Edge Computing Framework for Internet of Things (IoT) Networks"
+   ],
+   "author": [
+    {
+     "family": "Ashwini Vikas Ghogare",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Anusandhanvallari"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      17
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.52783/anuval.1456"
+  },
+  {
+   "DOI": "10.1109/jiot.2021.3068141",
+   "title": [
+    "Energy-Efficient Multiaccess Edge Computing for Terrestrial-Satellite Internet of Things"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2021.3068141",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5959-0891",
+     "authenticated-orcid": false,
+     "given": "Zhengyu",
+     "family": "Song",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9841-0814",
+     "authenticated-orcid": false,
+     "given": "Yuanyuan",
+     "family": "Hao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6389-8941",
+     "authenticated-orcid": false,
+     "given": "Yuanwei",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xin",
+     "family": "Sun",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>The Internet of Things (IoT) represents a rapidly growing field, where billions of intelligent devices are interconnected through the Internet, enabling the seamless sharing of data and resources. These smart devices are typically employed to sense various environmental characteristics, including temperature, motion of objects, and occupancy, and transfer their values to the nearest access points for further analysis. The exponential growth in sensor availability and deployment, powered by recent advances in sensor fabrication, has greatly increased the complexity of IoT network architecture. As the market for these sensors grows, so does the problem of ensuring that IoT networks meet high requirements for network availability, dependability, flexibility, and scalability. Unlike traditional networks, IoT systems must be able to handle massive amounts of data generated by various and frequently-used resource-constrained devices, while ensuring efficient and dependable communication. This puts high constraints on the design of IoT, mainly in terms of the required network availability, reliability, flexibility, and scalability. To this end, this work considers deploying a recent technology of distributed edge computing to enable IoT applications over dense networks with the announced requirements. The proposed network depends on distributed edge computing at two levels: multiple access edge computing and fog computing. The proposed structure increases network scalability, availability, reliability, and scalability. The network model and the energy model of the distributed nodes are introduced. An energy-offloading method is considered to manage IoT data over the network energy, efficiently. The developed network was evaluated using a developed IoT testbed. Heterogeneous evaluation scenarios and metrics were considered. The proposed model achieved a higher energy efficiency by 19%, resource utilization by 54%, latency efficiency by 86%, and reduced network congestion by 92% compared to traditional IoT networks.</jats:p>",
+   "DOI": "10.3390/fi17010037",
+   "type": "journal-article",
+   "title": [
+    "Energy-Efficient Distributed Edge Computing to Assist Dense Internet of Things"
+   ],
+   "author": [
+    {
+     "given": "Sumaiah",
+     "family": "Algarni",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Information Technology, College of Computer and Information Sciences, Princess Nourah Bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia"
+      },
+      {
+       "name": "Department of Electrical Engineering and Electronics, University of Liverpool, Liverpool L69 7ZX, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8749-9518",
+     "authenticated-orcid": false,
+     "given": "Fathi E. Abd",
+     "family": "El-Samie",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Information Technology, College of Computer and Information Sciences, Princess Nourah Bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia"
+      },
+      {
+       "name": "Department of Electronics and Electrical Communications, Faculty of Electronic Engineering, Menoufia University, Menouf 32952, Egypt"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Future Internet"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/fi17010037"
+  },
+  {
+   "DOI": "10.1109/jiot.2023.3293164",
+   "title": [
+    "Energy-Efficient Resource Allocation for Heterogeneous Edge–Cloud Computing"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2023.3293164",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8731-244X",
+     "authenticated-orcid": false,
+     "given": "Wei",
+     "family": "Hua",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Electronics and Information Engineering, Sichuan University, Chengdu, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9320-3055",
+     "authenticated-orcid": false,
+     "given": "Peng",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Electronics and Information Engineering, Sichuan University, Chengdu, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1285-6098",
+     "authenticated-orcid": false,
+     "given": "Linyu",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Electronics and Information Engineering, Sichuan University, Chengdu, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2018.2880812",
+   "title": [
+    "Energy-Efficient Cooperative Resource Allocation in Wireless Powered Mobile Edge Computing"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2018.2880812",
+   "author": [
+    {
+     "given": "Luyue",
+     "family": "Ji",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6741-4871",
+     "authenticated-orcid": false,
+     "given": "Songtao",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2022.3162581",
+   "title": [
+    "Energy-Efficient Service Placement for Latency-Sensitive Applications in Edge Computing"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2022.3162581",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3463-6077",
+     "authenticated-orcid": false,
+     "given": "Gopika",
+     "family": "Premsankar",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bissan",
+     "family": "Ghaddar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ivey Business School, Western University, London, ON, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2022.3220677",
+   "title": [
+    "Energy-Efficient Space–Air–Ground Integrated Edge Computing for Internet of Remote Things: A Federated DRL Approach"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2022.3220677",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5520-5044",
+     "authenticated-orcid": false,
+     "given": "Yi",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Automation and the Guangdong Province Key Laboratory of IoT Information Technology, Guangdong University of Technology, Guangzhou, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3985-499X",
+     "authenticated-orcid": false,
+     "given": "Li",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Guangdong-HongKong-Macao Joint Laboratory for Smart Discrete Manufacturing and the Key Laboratory of Intelligent Detection and Internet of Manufacturing Things, Ministry of Education, Guangzhou, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0829-4624",
+     "authenticated-orcid": false,
+     "given": "Qi",
+     "family": "Qi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2041-5214",
+     "authenticated-orcid": false,
+     "given": "Shengli",
+     "family": "Xie",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "111 Center for Intelligent Batch Manufacturing Based on IoT Technology and the Key Laboratory of Intelligent Information Processing and System Integration of IoT, Ministry of Education of the China, Guangzhou, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2024.3366055",
+   "title": [
+    "Erratum to: “Energy-Efficient Resource Allocation for Heterogeneous Edge–Cloud Computing”"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2024.3366055",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8731-244X",
+     "authenticated-orcid": false,
+     "given": "Wei",
+     "family": "Hua",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Electronics and Information Engineering, Sichuan University, Chengdu, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9320-3055",
+     "authenticated-orcid": false,
+     "given": "Peng",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Electronics and Information Engineering, Sichuan University, Chengdu, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1285-6098",
+     "authenticated-orcid": false,
+     "given": "Linyu",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Electronics and Information Engineering, Sichuan University, Chengdu, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2023.3238329",
+   "title": [
+    "Energy-Efficient Task Offloading for Three-Tier Wireless-Powered Mobile-Edge Computing"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2023.3238329",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8237-2734",
+     "authenticated-orcid": false,
+     "given": "Mehdi",
+     "family": "Bolourian",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Electrical Engineering, Sharif University of Technology, Tehran, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3598-0294",
+     "authenticated-orcid": false,
+     "given": "Hamed",
+     "family": "Shah-Mansouri",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Electrical Engineering, Sharif University of Technology, Tehran, Iran"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003356639-8",
+   "title": [
+    "Energy-Efficient Task Offloading in Edge Computing with Energy Harvesting"
+   ],
+   "container-title": [
+    "Sustainable Energy Solutions with Artificial Intelligence, Blockchain Technology, and Internet of Things"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003356639-8",
+   "author": [
+    {
+     "given": "Sonali",
+     "family": "Deshpande",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nilima",
+     "family": "Kulkarni",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2023.3317830",
+   "title": [
+    "Efficient Energy Consumption Optimization for Wireless Sensor Health Monitoring System in Mobile-Edge Computing"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2023.3317830",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6881-5789",
+     "authenticated-orcid": false,
+     "given": "Meiqin",
+     "family": "Tang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Mathematics and Statistics, Ludong University, Yantai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yalin",
+     "family": "Xin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Mathematics and Statistics, Ludong University, Yantai, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2021.3091216",
+   "title": [
+    "Energy-Efficient UAV-Aided Target Tracking Systems Based on Edge Computing"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      2,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2021.3091216",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2740-8025",
+     "authenticated-orcid": false,
+     "given": "Xiaoheng",
+     "family": "Deng",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5634-641X",
+     "authenticated-orcid": false,
+     "given": "Jun",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peiyuan",
+     "family": "Guan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7144-9089",
+     "authenticated-orcid": false,
+     "given": "Lan",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2020.3000193",
+   "title": [
+    "Hierarchical Energy-Efficient Mobile-Edge Computing in IoT Networks"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2020.3000193",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6313-2727",
+     "authenticated-orcid": false,
+     "given": "Qun",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0807-4357",
+     "authenticated-orcid": false,
+     "given": "Le Thanh",
+     "family": "Tan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-1571-3631",
+     "authenticated-orcid": false,
+     "given": "Rose Qingyang",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5671-916X",
+     "authenticated-orcid": false,
+     "given": "Yi",
+     "family": "Qian",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2020.2980035",
+   "title": [
+    "Energy-Efficient Multi-UAV-Enabled Multiaccess Edge Computing Incorporating NOMA"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2020.2980035",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7154-5337",
+     "authenticated-orcid": false,
+     "given": "Xiaochen",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0277-9145",
+     "authenticated-orcid": false,
+     "given": "Jiao",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2642-5512",
+     "authenticated-orcid": false,
+     "given": "Jun",
+     "family": "Xiong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4099-6917",
+     "authenticated-orcid": false,
+     "given": "Li",
+     "family": "Zhou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jibo",
+     "family": "Wei",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.3403/30419291u",
+   "title": [
+    "Internet of things (IoT) � Edge computing"
+   ],
+   "publisher": "BSI British Standards",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "standard",
+   "URL": "https://doi.org/10.3403/30419291u"
+  },
+  {
+   "DOI": "10.3403/30419291",
+   "title": [
+    "Internet of things (IoT) � Edge computing"
+   ],
+   "publisher": "BSI British Standards",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "standard",
+   "URL": "https://doi.org/10.3403/30419291"
+  },
+  {
+   "DOI": "10.1007/s43926-025-00267-6",
+   "title": [
+    "An energy efficient authentication method for IoT-enabled edge computing using hybrid metaheuristic optimization"
+   ],
+   "container-title": [
+    "Discover Internet of Things"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s43926-025-00267-6",
+   "author": [
+    {
+     "given": "Biswa Mohan",
+     "family": "Sahoo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vaibhav",
+     "family": "Sharma",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vikas Kumar",
+     "family": "Tiwari",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Raj Kumar",
+     "family": "Parida",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohit",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/jiot.2026.3703258",
+   "title": [
+    "Deep Reinforcement Learning based on Energy-Efficient Task Offloading in UAV-Assisted Mobile Edge Computing"
+   ],
+   "container-title": [
+    "IEEE Internet of Things Journal"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/jiot.2026.3703258",
+   "author": [
+    {
+     "given": "Ruijiang",
+     "family": "Zeng",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Electric Power Research Institute of Guangdong Power Grid Co. LTD, Guangzhou, Guangdong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0009-1656-7013",
+     "authenticated-orcid": false,
+     "given": "Zhiyong",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Electric Power Research Institute of Guangdong Power Grid Co. LTD, Guangzhou, Guangdong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8973-7580",
+     "authenticated-orcid": false,
+     "given": "Xiaofeng",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Electric Power Research Institute of Guangdong Power Grid Co. LTD, Guangzhou, Guangdong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jieyi",
+     "family": "Luo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dongguan Power Supply Bureau of Guangdong Power Grid Co. Ltd, Dongguan, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

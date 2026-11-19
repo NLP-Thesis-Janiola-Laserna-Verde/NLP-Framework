@@ -1,0 +1,903 @@
+{
+ "query": "Municipal solid waste management strategies",
+ "retrieved_at": "2026-11-18T18:03:10.298465+00:00",
+ "data": [
+  {
+   "paperId": "5fa67bec5d34ba19afb80e74b342d50a094aab49",
+   "externalIds": {
+    "DOI": "10.1038/s41893-025-01613-w",
+    "CorpusId": 280935195
+   },
+   "url": "https://www.semanticscholar.org/paper/5fa67bec5d34ba19afb80e74b342d50a094aab49",
+   "title": "Expediting co-benefits of tailored municipal solid waste management strategies globally",
+   "venue": "Nature Sustainability",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41893-025-01613-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41893-025-01613-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-26",
+   "authors": [
+    {
+     "authorId": "2238282485",
+     "name": "Qi-Lin Cao"
+    },
+    {
+     "authorId": "48675519",
+     "name": "Jun-Nian Song"
+    },
+    {
+     "authorId": "117659883",
+     "name": "Chao-Shuo Liu"
+    },
+    {
+     "authorId": "2238445333",
+     "name": "Wei Yang"
+    },
+    {
+     "authorId": "12385997",
+     "name": "H. Yabar"
+    },
+    {
+     "authorId": "2312673334",
+     "name": "He-Ran Zheng"
+    },
+    {
+     "authorId": "2238413393",
+     "name": "Zhi-Fu Mi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "683fefea643e9ba3b096009f5d3287b1a5dac6e2",
+   "externalIds": {
+    "DOI": "10.1007/s10163-025-02287-4",
+    "CorpusId": 279488784
+   },
+   "url": "https://www.semanticscholar.org/paper/683fefea643e9ba3b096009f5d3287b1a5dac6e2",
+   "title": "A review of municipal solid waste management and landfills in India: environmental impacts, sustainable strategies and policy insights",
+   "venue": "Journal of Material Cycles and Waste Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10163-025-02287-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10163-025-02287-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-06-18",
+   "authors": [
+    {
+     "authorId": "2367940441",
+     "name": "M. Madhavaraj"
+    },
+    {
+     "authorId": "2269617119",
+     "name": "K. Karthikeyan"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "dc2ee8a34470e635c38bb1a56f2fdd4dc911881c",
+   "externalIds": {
+    "DOI": "10.1038/s41893-025-01624-7",
+    "CorpusId": 281132199
+   },
+   "url": "https://www.semanticscholar.org/paper/dc2ee8a34470e635c38bb1a56f2fdd4dc911881c",
+   "title": "Nationally localized strategies for zero-carbon municipal solid waste management",
+   "venue": "Nature Sustainability",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41893-025-01624-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41893-025-01624-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-03",
+   "authors": [
+    {
+     "authorId": "2278675380",
+     "name": "Binxian Gu"
+    },
+    {
+     "authorId": "2264490059",
+     "name": "Mange Zhang"
+    },
+    {
+     "authorId": "2342745445",
+     "name": "Minmin Zhou"
+    },
+    {
+     "authorId": "2344206064",
+     "name": "Haixia Fu"
+    },
+    {
+     "authorId": "2266357413",
+     "name": "Qingsong Hu"
+    },
+    {
+     "authorId": "2276689996",
+     "name": "Chuan-Hui Gu"
+    },
+    {
+     "authorId": "2143645714",
+     "name": "Yi-Fei Wang"
+    },
+    {
+     "authorId": "34598529",
+     "name": "T. Fujiwara"
+    },
+    {
+     "authorId": "2379057416",
+     "name": "Lingxuan Liu"
+    },
+    {
+     "authorId": "93750347",
+     "name": "Wen-Gang Zuo"
+    },
+    {
+     "authorId": "2155851666",
+     "name": "Yunlong Li"
+    },
+    {
+     "authorId": "2264694103",
+     "name": "Zhigang Wang"
+    },
+    {
+     "authorId": "2282386766",
+     "name": "Wei Jiang"
+    },
+    {
+     "authorId": "2263997168",
+     "name": "Yanchao Bai"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "fc3a808fb0d1b8478f3660a7e31b34352f8e5014",
+   "externalIds": {
+    "DOI": "10.1007/s11356-024-32669-4",
+    "CorpusId": 268252284,
+    "PubMed": "38443532"
+   },
+   "url": "https://www.semanticscholar.org/paper/fc3a808fb0d1b8478f3660a7e31b34352f8e5014",
+   "title": "Global perspective of municipal solid waste and landfill leachate: generation, composition, eco-toxicity, and sustainable management strategies",
+   "venue": "Environmental science and pollution research international",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11356-024-32669-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11356-024-32669-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-03-05",
+   "authors": [
+    {
+     "authorId": "151367629",
+     "name": "A. Yatoo"
+    },
+    {
+     "authorId": "88718897",
+     "name": "Basharat Hamid"
+    },
+    {
+     "authorId": "89669013",
+     "name": "T. Sheikh"
+    },
+    {
+     "authorId": "2267268055",
+     "name": "Shafat Ali"
+    },
+    {
+     "authorId": "108472753",
+     "name": "S. Bhat"
+    },
+    {
+     "authorId": "47378838",
+     "name": "S. Ramola"
+    },
+    {
+     "authorId": "34237579",
+     "name": "Md Niamat Ali"
+    },
+    {
+     "authorId": "2312812363",
+     "name": "Z. Baba"
+    },
+    {
+     "authorId": "2274193109",
+     "name": "Sunil Kumar"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "4ddc5a6310194d3bb7f66f3dbe705b0e6130d66a",
+   "externalIds": {
+    "DOI": "10.3390/pr13020321",
+    "CorpusId": 275885489
+   },
+   "url": "https://www.semanticscholar.org/paper/4ddc5a6310194d3bb7f66f3dbe705b0e6130d66a",
+   "title": "Leveraging Municipal Solid Waste Management with Plasma Pyrolysis and IoT: Strategies for Energy Byproducts and Resource Recovery",
+   "venue": "Processes",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/pr13020321",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/pr13020321?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/pr13020321, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-01-24",
+   "authors": [
+    {
+     "authorId": "2111151706",
+     "name": "Yishuang Li"
+    },
+    {
+     "authorId": "2151245226",
+     "name": "Yanbei Duan"
+    },
+    {
+     "authorId": "2318581439",
+     "name": "Ze-Long Wang"
+    },
+    {
+     "authorId": "2189671925",
+     "name": "Ndungutse Jean Maurice"
+    },
+    {
+     "authorId": "2269675230",
+     "name": "Mugabekazi Joie Claire"
+    },
+    {
+     "authorId": "2258703532",
+     "name": "Nasir Ali"
+    },
+    {
+     "authorId": "82861079",
+     "name": "A. S. Giwa"
+    }
+   ],
+   "abstract": "The escalating challenges of municipal solid waste (MSW) management, exacerbated by the classification of MSW as hazardous waste due to the presence of heavy metals (HMs) and toxic compounds, necessitate innovative treatment strategies. Plasma pyrolysis has emerged as a promising technology for converting MSW into valuable energy byproducts, such as syngas, bio-oil, and slag, while significantly reducing waste volume. However, maintaining optimal operational parameters during the plasma pyrolysis process remains a complex challenge that can adversely affect both the efficiency and the quality and quantity of outputs. To address this issue, the integration of the Internet of Things (IoT) presents a transformative approach. By leveraging IoT technologies, real-time monitoring and advanced data analytics can be employed to optimize the operational conditions of plasma pyrolysis systems, ensuring consistent performance and maximizing resource recovery. This review explores the synergistic integration of plasma pyrolysis and IoT as a novel strategy for MSW management. The slag from plasma treatment can be efficiently channeled into anaerobic digestion (AD) systems, promoting resource recovery through biogas production and the generation of nutrient-rich digestate. This synergy not only mitigates the environmental impacts associated with traditional MSW disposal methods but also paves the way for sustainable energy recovery and resource management. Ultimately, this review presents a comprehensive framework for exploiting plasma pyrolysis and IoT in addressing the pressing issues of hazardous MSW, thereby fostering a circular economy through innovative waste-to-energy solutions."
+  },
+  {
+   "paperId": "fdc717a21ba8ce1cf7ce5671c13f15dff749b83a",
+   "externalIds": {
+    "DOI": "10.1016/j.jiec.2025.06.009",
+    "CorpusId": 279202701
+   },
+   "url": "https://www.semanticscholar.org/paper/fdc717a21ba8ce1cf7ce5671c13f15dff749b83a",
+   "title": "Transforming municipal solid waste management: Current status of segregation challenges, waste-to-energy technologies, and circular economy strategies",
+   "venue": "Journal of Industrial & Engineering Chemistry",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jiec.2025.06.009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jiec.2025.06.009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-01",
+   "authors": [
+    {
+     "authorId": "2221942255",
+     "name": "Moeen Ali Rashad"
+    },
+    {
+     "authorId": "118056956",
+     "name": "M. Hussain"
+    },
+    {
+     "authorId": "1807458851",
+     "name": "Parveen Akhter"
+    },
+    {
+     "authorId": "2134004320",
+     "name": "Muhammad Haris Hamayun"
+    },
+    {
+     "authorId": "2345843406",
+     "name": "Ali Ahsan"
+    },
+    {
+     "authorId": "47810116",
+     "name": "F. Jamil"
+    },
+    {
+     "authorId": "90414621",
+     "name": "Doyeon Lee"
+    },
+    {
+     "authorId": "2266766691",
+     "name": "Young-Kwon Park"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ef813babb685e7458b0fffac0771b0ef4989844d",
+   "externalIds": {
+    "DOI": "10.47941/ajss.2013",
+    "CorpusId": 270595757
+   },
+   "url": "https://www.semanticscholar.org/paper/ef813babb685e7458b0fffac0771b0ef4989844d",
+   "title": "Sustainable Municipal Solid Waste Management Strategies and Practices: A review",
+   "venue": "American Journal Of Strategic Studies",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.47941/ajss.2013",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47941/ajss.2013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47941/ajss.2013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-06-18",
+   "authors": [
+    {
+     "authorId": "2408131454",
+     "name": "Y. Abdulhamid"
+    },
+    {
+     "authorId": "2406935092",
+     "name": "K. Ali"
+    },
+    {
+     "authorId": "2307298765",
+     "name": "M. Semhar"
+    }
+   ],
+   "abstract": "Purpose: This paper introduces a multi-period, multi-objective model for creating an integrated, sustainable municipal solid waste management supply chain. The model includes source separation and a reward-penalty mechanism, aiming to minimize total system costs, greenhouse gas emissions, and environmental impacts on residential areas. Many countries strive to develop efficient solid waste management systems (SWMS) that handle and dispose of daily waste cost-effectively while maintaining sustainability. These systems include waste sources, collection stations, landfills, incinerators, recycling plants, and a transportation network. \nMethodology: A systematic literature review was conducted on existing literature from various studies. Recent studies were used for this systematic review of sustainable municipal solid waste management strategies and practices. \nFindings: Decision-makers must design or reconfigure a sustainable MSWM to determine the optimal supply chain network for treating and disposing of daily waste effectively. This paper suggests sustainable waste management strategies and practices from various countries, aiming to determine the best number and locations for facilities and optimal waste flow within the system to minimize daily costs. The primary contribution of this review is the theoretical development of sustainable MSWM practices applicable worldwide. \nUnique contribution to theory, policy and practice: Cooperation between the private and public sectors involved in solid waste management and the circular economy is imperative to ensure the technical, financial, and social sustainability of waste management systems. Large-scale awareness programs on solid waste management and the circular economy should be implemented, focusing on fostering environmentally responsible behaviors and attitudes, promoting sorting, selective collection, and the recovery of materials and energy from waste."
+  },
+  {
+   "paperId": "624686302b83f21a172e9746cb1baeb34f99e06d",
+   "externalIds": {
+    "DOI": "10.1007/s10163-024-02094-3",
+    "CorpusId": 273554288
+   },
+   "url": "https://www.semanticscholar.org/paper/624686302b83f21a172e9746cb1baeb34f99e06d",
+   "title": "Life cycle assessment of municipal solid waste management strategies for midsized metropolitan areas in developing countries",
+   "venue": "Journal of Material Cycles and Waste Management",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10163-024-02094-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10163-024-02094-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-23",
+   "authors": [
+    {
+     "authorId": "1491880531",
+     "name": "J. Ramalho"
+    },
+    {
+     "authorId": "40624574",
+     "name": "J. Calmon"
+    },
+    {
+     "authorId": "41051059",
+     "name": "D. Colvero"
+    },
+    {
+     "authorId": "2282213974",
+     "name": "Darli Vieira"
+    },
+    {
+     "authorId": "47323930",
+     "name": "A. Bravo"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2e5917929cfbb0837d410a6df10c7f0d1100a67f",
+   "externalIds": {
+    "PubMedCentral": "10025032",
+    "DOI": "10.1016/j.heliyon.2023.e14372",
+    "CorpusId": 257455977,
+    "PubMed": "36950596"
+   },
+   "url": "https://www.semanticscholar.org/paper/2e5917929cfbb0837d410a6df10c7f0d1100a67f",
+   "title": "Environmental and economic performances of municipal solid waste management strategies based on LCA method: A case study of kinshasa",
+   "venue": "Heliyon",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.heliyon.2023.e14372",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10025032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-03-01",
+   "authors": [
+    {
+     "authorId": "2211347806",
+     "name": "Yllah Okin Kang"
+    },
+    {
+     "authorId": "12385997",
+     "name": "H. Yabar"
+    },
+    {
+     "authorId": "50131790",
+     "name": "Takeshi Mizunoya"
+    },
+    {
+     "authorId": "9225866",
+     "name": "Y. Higano"
+    }
+   ],
+   "abstract": "Like many populated urban agglomerations in Africa, Kinshasa, the capital of Democratic Republic of Congo, faces several challenges to manage its exponentially growing Municipal Solid Waste. With its 12, 000, 000 people daily generating 7800 tons of Municipal Solid waste, the city still struggles with basic services such as waste collection and sanitary landfill. This causes major social, environmental and health related issues. With the aim of contributing to the implementation of a better management system in Kinshasa, this study evaluates the environmental impact and the cost of the existing waste management framework and proposes 6 alternative scenarios. Each scenario attempts to optimize Greenhouse gas emissions and cost, using the Life Cycle Assessment approach. Results show that the current municipal solid waste management in Kinshasa city emits 640,673 tons of CO2 equivalent per year and costs a total of 17, 776, 169.78USD yearly. Focusing on increasing waste collection coverage and recycling activities in the proposed 6 scenarios, scenario 4 where all municipal solid waste is collected, produces 4,042,402 tons of CO2 equivalent per year and costs 143, 296, 983.4 yearly. In scenario 7, considered the most optimized management model for Kinshasa in this study, municipal solid waste is valorized through different treatment processes and atmospheric pollution reaches 2,835,491 tons of CO2 equivalent yearly, with a management cost of 152, 790, 779.4 USD/year. This study finds that the optimization of the Municipal Solid Waste management system in Kinshasa city causes the atmospheric pollution in terms of CO2 equivalent to decrease by half, when all waste is collected. Landfill diversion rate reaches up to 70%, but the overall MSW management cost increases by almost eight times as much as the current operational cost. The optimization of the management system is done by increasing waste collection coverage and implementing diverse streams of waste valorization. Despite the wide use of the Life Cycle Assessment method in waste management and decision making, this method has not yet been, to the best knowledge of the authors, applied in estimating Greenhouse gas emissions and cost of the Municipal Solid Waste in the specific context of Kinshasa city."
+  },
+  {
+   "paperId": "fced0563b193ca34a1a8439ec5edc57c06d8234a",
+   "externalIds": {
+    "DOI": "10.1007/s10669-024-09963-0",
+    "CorpusId": 268134009
+   },
+   "url": "https://www.semanticscholar.org/paper/fced0563b193ca34a1a8439ec5edc57c06d8234a",
+   "title": "Enviro-economic optimization for the design of municipal solid waste management strategies",
+   "venue": "Environment Systems and Decisions",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.researchsquare.com/article/rs-3298744/latest.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10669-024-09963-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10669-024-09963-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-27",
+   "authors": [
+    {
+     "authorId": "13928563",
+     "name": "C. Puchongkawarin"
+    }
+   ],
+   "abstract": "A significant amount of municipal solid waste (MSW) generation and ineffective management can cause adverse impacts on the environment (air and water pollution) and human health. Therefore, a sustainable approach for handling MSW is required. This study aims to develop a tool to select the most promising MSW management system using the superstructure optimization technique to ensure that the selected system can achieve minimization of the total annual cost and environmental impacts. This can lead to a multi-objective superstructure optimization problem solved by using the augmented ϵ\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\epsilon$$\\end{document}-constraint method. The developed model is based on the concept of material balance and all potential technologies include anaerobic digestion, pyrolysis, gasification, incineration, sanitary landfill, material recovery facility and composting. The proposed methodology is applied to synthesize the MSW management system in Warin Chamrap district to determine its applicability. In this research, the composition of MSW includes organics, paper, plastic, glass, and others. The results show that the Pareto-optimal solutions optimizing both total annual cost and environmental impacts can be developed. The MSW management system with the lower total annual cost tends to have the higher environmental impacts and the trade-offs between each objective can be identified so the decision-makers are able to consider before making their decision. Further investigation on sensitivity analysis reveals that the selling prices of products, annual capital cost, and operating cost factors have different degree of impacts on the waste management strategies and total annual cost."
+  },
+  {
+   "paperId": "0f17f902099ce1f9624debda6afa26f946806b89",
+   "externalIds": {
+    "DOI": "10.1016/j.wasman.2024.07.012",
+    "CorpusId": 271322306,
+    "PubMed": "39032437"
+   },
+   "url": "https://www.semanticscholar.org/paper/0f17f902099ce1f9624debda6afa26f946806b89",
+   "title": "The reduction of the carbon footprint of municipal solid waste management via source classification and supporting strategies: An analysis for the megacity of Shenzhen.",
+   "venue": "Waste Management",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.wasman.2024.07.012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.wasman.2024.07.012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-07-19",
+   "authors": [
+    {
+     "authorId": "2312344116",
+     "name": "Lei Zhang"
+    },
+    {
+     "authorId": "2261427459",
+     "name": "Huan Li"
+    },
+    {
+     "authorId": "2301107415",
+     "name": "T. Hu"
+    },
+    {
+     "authorId": "2312760530",
+     "name": "Xinrui Du"
+    },
+    {
+     "authorId": "2312336032",
+     "name": "Ying-Jun Zhou"
+    },
+    {
+     "authorId": "2312358698",
+     "name": "Guofen Sun"
+    },
+    {
+     "authorId": "2312340367",
+     "name": "Jianguo Liu"
+    }
+   ],
+   "abstract": "Municipal solid waste (MSW) management is a critical concern in megacities that depend heavily on external material and energy inputs but lack space for waste disposal. MSW treatment is a significant contributor to carbon emissions. The implementation of source classification improved the overall MSW management system and enhanced resource recovery from MSW. However, the precise contribution of source classification to carbon emissions reduction remains unclear. This study aimed to analyze the carbon emissions evolution in the MSW management of Shenzhen, a prototypical megacity in China, using data from 2006 to 2020 and employing carbon footprint assessment methodologies. The results demonstrated that source classification reduced the carbon emissions from 0.19-0.25 to 0.14-0.18 t CO2-eq/t MSW when considering the contribution of the urban environmental sanitation management department. The entire MSW management system becomes a carbon sink when considering recyclables collected by commercial enterprises. Although the source classification complicated the collection and transportation of MSW, the carbon offset effect of recycling food waste and recyclables was more significant than that of carbon emissions from collection and transport. Moreover, the landfill gas recovery rate critically influenced the carbon emissions of landfill-based MSW management systems. In contrast, the recovery of plastics was crucial for determining carbon emissions from incineration-based MSW management systems."
+  },
+  {
+   "paperId": "7d04f906c6b0a28c19e704f6f508142526fb0fba",
+   "externalIds": {
+    "MAG": "3020592572",
+    "DOI": "10.1016/j.scs.2020.102161",
+    "CorpusId": 219016532
+   },
+   "url": "https://www.semanticscholar.org/paper/7d04f906c6b0a28c19e704f6f508142526fb0fba",
+   "title": "Environmental and economic assessment of sustainable municipal solid waste management strategies in Iran",
+   "venue": "Sustainable cities and society",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.scs.2020.102161?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.scs.2020.102161, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-08-01",
+   "authors": [
+    {
+     "authorId": "1728401910",
+     "name": "Abtin Maghmoumi"
+    },
+    {
+     "authorId": "102108090",
+     "name": "Fatima Marashi"
+    },
+    {
+     "authorId": "92105021",
+     "name": "E. Houshfar"
+    }
+   ],
+   "abstract": "Abstract Waste management in urban areas has always been a major concern for municipalities. The gigantic population growth results in massive waste production, leading to a worrying rise in the level of greenhouse gas emissions, a major global issue. The most common techniques for energy recovery from waste are WTE and landfill gas plants. In this research, four different waste management scenarios have been investigated, and the emitted GHGs are analysed using the IPCC guideline for municipal solid waste (MSW) in Tehran. Furthermore, the total cost of each scenario is calculated. Also, effect of various parameters, such as plant usage, methane recovery factor, and MSW heating value, on the emissions is evaluated. The results depict that among all the investigated alternatives, scenario 3 (in which 50 % of the waste was burned in WTE plant, 30 % landfilled, and 20 % recycled) has the least GHG emissions in the target region. For a more thorough analysis, a cost comparison between the scenarios was performed, indicating that landfilling with recovery is the most economical option. Focusing on various technical, economic, and environmental aspects of waste management, this paper provides a comprehensive framework for a combined plan of action in the waste management sector of Iran."
+  },
+  {
+   "paperId": "65a948f2d0bc0f5f020f9d8ed3e636ccc1c89c66",
+   "externalIds": {
+    "MAG": "3009229851",
+    "DOI": "10.3390/app10051673",
+    "CorpusId": 216446693
+   },
+   "url": "https://www.semanticscholar.org/paper/65a948f2d0bc0f5f020f9d8ed3e636ccc1c89c66",
+   "title": "An Empirical Study on Greenhouse Gas Emission Calculations Under Different Municipal Solid Waste Management Strategies",
+   "venue": "Applied Sciences",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-3417/10/5/1673/pdf?version=1583134899",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app10051673?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app10051673, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-03-02",
+   "authors": [
+    {
+     "authorId": "2214738",
+     "name": "Chunlin Xin"
+    },
+    {
+     "authorId": "2146321573",
+     "name": "Tingting Zhang"
+    },
+    {
+     "authorId": "2133075",
+     "name": "Sang-Bing Tsai"
+    },
+    {
+     "authorId": "38160911",
+     "name": "Yuming Zhai"
+    },
+    {
+     "authorId": "48093736",
+     "name": "Jiang-Tao Wang"
+    }
+   ],
+   "abstract": "The Chinese government is committed to ensuring separation of municipal solid waste (MSW), promoting the integrated development of the MSW management system with the renewable resource recovery system, and achieving construction of ecological civilization. Guided by the methods in Intergovernmental Panel on Climate Change (IPCC) guidelines, the greenhouse gas (GHG) emissions under five waste disposal scenarios in Beijing under the life cycle framework were assessed in this research. The study included collection and transportation, as well as three end disposal methods (sanitary landfill, incineration, and composting), and the emission reduction benefits of electricity generation from incineration and recycling of renewable resources were taken into account. The results show that an emission reduction benefit of 70.82% could be achieved under Scenario 5 in which kitchen waste and recyclables are sorted and recycled and the residue is incinerated, and the selection of the optimal strategy was not affected by changes in the separation rate. In addition, landfill would emit more GHG than incineration and composting. The results of this study are helpful for the government to make a decision on MSW management considering the goal of GHG emission reduction."
+  },
+  {
+   "paperId": "842fdc88850f15e3d76e4ed42a3717f60766a40c",
+   "externalIds": {
+    "MAG": "2550224915",
+    "DOI": "10.1177/0734242X16675683",
+    "CorpusId": 8993562,
+    "PubMed": "27872406"
+   },
+   "url": "https://www.semanticscholar.org/paper/842fdc88850f15e3d76e4ed42a3717f60766a40c",
+   "title": "Life cycle assessment of potential municipal solid waste management strategies for Mumbai, India",
+   "venue": "Waste Management Research",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0734242X16675683?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0734242X16675683, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2017-01-01",
+   "authors": [
+    {
+     "authorId": "32619667",
+     "name": "B. Sharma"
+    },
+    {
+     "authorId": "37682847",
+     "name": "M. K. Chandel"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "6f3ee46ed7802410a3992355cbafbc0b84d81806",
+   "externalIds": {
+    "MAG": "2907288573",
+    "DOI": "10.1007/s10163-018-00822-0",
+    "CorpusId": 104431063
+   },
+   "url": "https://www.semanticscholar.org/paper/6f3ee46ed7802410a3992355cbafbc0b84d81806",
+   "title": "Life-cycle assessment of municipal solid-waste management strategies in Tricity region of India",
+   "venue": "Journal of Material Cycles and Waste Management",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10163-018-00822-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10163-018-00822-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-01-02",
+   "authors": [
+    {
+     "authorId": "31734553",
+     "name": "Rishi Rana"
+    },
+    {
+     "authorId": "50612005",
+     "name": "R. Ganguly"
+    },
+    {
+     "authorId": "2450163260",
+     "name": "A. Gupta"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "8a49b1bf0e59e096fe5f8de379d1214c03345c93",
+   "externalIds": {
+    "DOI": "10.1016/j.jenvman.2023.118331",
+    "CorpusId": 259161888,
+    "PubMed": "37315466"
+   },
+   "url": "https://www.semanticscholar.org/paper/8a49b1bf0e59e096fe5f8de379d1214c03345c93",
+   "title": "Characterization of municipal solid waste: Measures towards management strategies using statistical analysis.",
+   "venue": "Journal of Environmental Management",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2023.118331?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2023.118331, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-12",
+   "authors": [
+    {
+     "authorId": "2220080630",
+     "name": "Tasneem Imtiyaz Zargar"
+    },
+    {
+     "authorId": "49012518",
+     "name": "Pervez Alam"
+    },
+    {
+     "authorId": "47701373",
+     "name": "A. Khan"
+    },
+    {
+     "authorId": "2068849345",
+     "name": "Shahjabin Alam"
+    },
+    {
+     "authorId": "1971877",
+     "name": "A. Abutaleb"
+    },
+    {
+     "authorId": "2309624427",
+     "name": "Mohd Abul Hasan"
+    },
+    {
+     "authorId": "47444271",
+     "name": "N. Khan"
+    }
+   ],
+   "abstract": "Implementing unified municipal solid waste management (MSWM) is often difficult due to socio-economic variables. However, spatial GIS models and statistical analysis of solid waste characterized by the weekdays, weekends, and festivals can somewhat mitigate the variance and assist with selecting suitable waste management methods. This paper presents the example of Rajouri, India, to propose a suitable MSWM based on Inverse Distance Weighted (IDW) intensity maps and statistical findings. The considered region was divided into different sample sites based on the local population density, and Municipal Solid Waste (MSW) was collected from four locations in each site on weekdays, weekends, and festivals. Compositional analysis of the MSW was then used to generate spatial IDW models in QGIS 3.22.7 to interpolate MSW generation over the entire area. Finally, statistical analysis was conducted to gain insight into the waste generation and accumulation trends. The results show that Rajouri produces 245 tonnes of waste daily (per capita: 0.382 kg/day) with a large organic fraction compared to other waste categories. Besides, waste generation is observed to increase over weekends and festivals due to increased consumption of material goods. Composting could serve as a vector for municipal solid waste because of its increased organic component and cost constraints. However, further research on the potential segregation techniques for the organic fraction of solid waste is needed."
+  },
+  {
+   "paperId": "6d90818470cd0e390980ee4acbd47bf8abbda8e6",
+   "externalIds": {
+    "DOI": "10.1007/s43621-025-01544-8",
+    "CorpusId": 281622902
+   },
+   "url": "https://www.semanticscholar.org/paper/6d90818470cd0e390980ee4acbd47bf8abbda8e6",
+   "title": "Systematic review of environmental and human health risk assessments in municipal solid waste management",
+   "venue": "Discover Sustainability",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s43621-025-01544-8.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s43621-025-01544-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s43621-025-01544-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-09-26",
+   "authors": [
+    {
+     "authorId": "2384426073",
+     "name": "Qiuyan Yuan"
+    },
+    {
+     "authorId": "93228170",
+     "name": "Ali Zoungrana"
+    }
+   ],
+   "abstract": "Effective risk assessment is critical for ensuring safe and sustainable municipal solid waste (MSW) management, supporting data-driven decision-making and regulatory compliance by identifying hazards, evaluating their impacts, and guiding targeted mitigation strategies. This study uses the PRISMA method to systematically review 72 studies published in the past decade on risk assessments for various MSW facilities, providing a comprehensive overview of current practices while identifying key trends, gaps, and opportunities for improvement. Results indicate that approximately 60% of environmental assessments identified risks, with over half focusing on human health. While diverse MSW facilities, including dumpsites, composting, incineration, energy-from-waste (EfW), and recycling, were investigated, landfills accounted for 49% of the reviewed studies, underscoring their global prevalence. The findings emphasize the need for continuous pollution monitoring, even in facilities initially deemed low-risk, and highlight the importance of a standardized methodology that integrates analytical tools with statistical software to address inconsistencies in risk assessment indices. Such standardization would enhance mitigation effectiveness, support evidence-based policymaking, and optimize resource allocation, ultimately fostering safer and more sustainable MSW management systems. This study systematically reviewed risk assessments of Municipal Solid Waste (MSW) management facilities. Key findings include: Landfills, energy-from-waste (EfW), and incineration plants were the most assessed facilities, with landfills being the primary focus due to their environmental and human health risks. All MSW management systems pose environmental, ecological, and human health risks, with leachate contamination and air pollution identified as major concerns. Human health risk assessments frequently highlighted carcinogenic and non-carcinogenic risks. Landfills, energy-from-waste (EfW), and incineration plants were the most assessed facilities, with landfills being the primary focus due to their environmental and human health risks. All MSW management systems pose environmental, ecological, and human health risks, with leachate contamination and air pollution identified as major concerns. Human health risk assessments frequently highlighted carcinogenic and non-carcinogenic risks."
+  },
+  {
+   "paperId": "30ec02615389bc13d53387bee6984bfc41b05fd9",
+   "externalIds": {
+    "MAG": "2914767985",
+    "DOI": "10.1177/0734242X18816793",
+    "CorpusId": 73436286,
+    "PubMed": "30761956"
+   },
+   "url": "https://www.semanticscholar.org/paper/30ec02615389bc13d53387bee6984bfc41b05fd9",
+   "title": "Management strategies for anaerobic digestate of organic fraction of municipal solid waste: Current status and future prospects",
+   "venue": "Waste Management Research",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/0734242X18816793",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0734242X18816793?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0734242X18816793, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-01-01",
+   "authors": [
+    {
+     "authorId": "40401816",
+     "name": "Mohanakrishnan Logan"
+    },
+    {
+     "authorId": "11484109",
+     "name": "C. Visvanathan"
+    }
+   ],
+   "abstract": "Anaerobic digestion has emerged as the preferred treatment for organic fraction of municipal solid waste. Digestate management strategies are devised not only for safe disposal but also to increase the value and marketability. Regulations and standards for digestate management are framed to address the pollution concerns, conserve vulnerable zones, prevent communicable diseases, and to educate on digestate storage and applications. Regulations and the desired end uses are the main drivers for the enhancement of digestate through pretreatment, in vessel cleaning, and post-digestion treatment technologies for solid and liquid fractions of digestate. The current management practice involves utilization of digestate for land application either as fertilizer or soil improver. Prospects are bright for alternative usage such as microalgal cultivation, biofuel and bioethanol production. Presently, the focus of optimization of the anaerobic digestion process is directed only towards enhancing biogas yield, ignoring the quality of digestate produced. A paradigm shift is needed in the approach from ‘biogas optimization’ to ‘integrated biogas–digestate optimization’."
+  },
+  {
+   "paperId": "3cb2c6c9a6723a031ddcf6bbcceed5e8728daae6",
+   "externalIds": {
+    "DOI": "10.1016/j.aej.2023.02.029",
+    "CorpusId": 257247343
+   },
+   "url": "https://www.semanticscholar.org/paper/3cb2c6c9a6723a031ddcf6bbcceed5e8728daae6",
+   "title": "Strategies to reduce greenhouse gas emissions from municipal solid waste management in Indonesia: The case of Semarang City",
+   "venue": "Alexandria Engineering Journal",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.aej.2023.02.029",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.aej.2023.02.029?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.aej.2023.02.029, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2023-04-01",
+   "authors": [
+    {
+     "authorId": "90555876",
+     "name": "M. Budihardjo"
+    },
+    {
+     "authorId": "2044932093",
+     "name": "N. Humaira"
+    },
+    {
+     "authorId": "40987301",
+     "name": "B. Ramadan"
+    },
+    {
+     "authorId": "70995887",
+     "name": "I. Wahyuningrum"
+    },
+    {
+     "authorId": "72630020",
+     "name": "H. Huboyo"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "3e848adc2612b1d7499c96f213a04d473aab82e2",
+   "externalIds": {
+    "DOI": "10.1007/s10640-021-00640-3",
+    "CorpusId": 245617417
+   },
+   "url": "https://www.semanticscholar.org/paper/3e848adc2612b1d7499c96f213a04d473aab82e2",
+   "title": "Low-Cost Strategies to Improve Municipal Solid Waste Management in Developing Countries: Experimental Evidence from Nepal",
+   "venue": "Environmental and Resource Economics",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10640-021-00640-3.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10640-021-00640-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10640-021-00640-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2022-01-01",
+   "authors": [
+    {
+     "authorId": "46572738",
+     "name": "Mani Nepal"
+    },
+    {
+     "authorId": "103946611",
+     "name": "Apsara Nepal"
+    },
+    {
+     "authorId": "120863473",
+     "name": "Madan S. Khadayat"
+    },
+    {
+     "authorId": "1860826",
+     "name": "R. Rai"
+    },
+    {
+     "authorId": "7835901",
+     "name": "P. Shyamsundar"
+    },
+    {
+     "authorId": "2050846",
+     "name": "E. Somanathan"
+    }
+   ],
+   "abstract": "Many cities in developing countries lack adequate drainage and waste management infrastructure. Consequently, city residents face economic and health impacts from flooding and waterlogging, which are aggravated by solid waste infiltrating and blocking drains. City governments have recourse to two strategies to address these problems: a) ‘hard’ infrastructure-related interventions through investment in the expansion of drainage and waste transportation networks; and/or, b) ‘soft’, low-cost behavioural interventions that encourage city residents to change waste disposal practices. This research examines whether behavioural interventions, such as information and awareness raising alongside provision of inexpensive street waste bins, can improve waste management in the city. We undertook a cluster randomized controlled trial study in Bharatpur, Nepal, where one group of households was treated with a soft, low-cost intervention (information and street waste bins) while the control group of households did not receive the intervention. We econometrically compared baseline indicators – perceived neighbourhood cleanliness, household waste disposal methods, and at-source waste segregation – from a pre-intervention survey with data from two rounds of post-intervention surveys. Results from analysing household panel data indicate that the intervention increased neighbourhood cleanliness and motivated the treated households to dispose their waste properly through waste collectors. The intervention, however, did not increase household waste segregation at source, which is possibly because of municipal waste collectors mixing segregated and non-segregated waste during collection. At-source segregation, a pre-requisite for efficiently managing municipal solid waste, may improve if municipalities arrange to collect and manage degradable and non-degradable waste separately."
+  }
+ ]
+}

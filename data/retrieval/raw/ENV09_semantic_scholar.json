@@ -1,0 +1,967 @@
+{
+ "query": "Agricultural runoff and freshwater quality",
+ "retrieved_at": "2026-11-18T19:11:43.609403+00:00",
+ "data": [
+  {
+   "paperId": "d0b37be6c87d1036912860dcf0413d028917fdce",
+   "externalIds": {
+    "DOI": "10.70102/aeef/v3i3/14",
+    "CorpusId": 293580682
+   },
+   "url": "https://www.semanticscholar.org/paper/d0b37be6c87d1036912860dcf0413d028917fdce",
+   "title": "Impacts of Agricultural Runoff on Freshwater Ecosystem Health and Water Quality",
+   "venue": "Aquatic Ecosystems and Environmental Frontiers",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://aquaticfrontiers.com/index.php/aqu/article/download/AF250314/110/253",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70102/aeef/v3i3/14?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70102/aeef/v3i3/14, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-30",
+   "authors": [
+    {
+     "authorId": "2115654878",
+     "name": "Alejandro García"
+    },
+    {
+     "authorId": "148293875",
+     "name": "V. Hernández"
+    }
+   ],
+   "abstract": "Agricultural runoff has been recognized as one of the most prevalent non-point sources of pollution affecting the water quality in rivers worldwide. In this study,examine the effects of agricultural runoff on the levels of various water quality indicators in the mixed-useriver basin that comprises both crop lands and peri-urban areas. Water samples were taken from twelve monitoring stations spread out in the study river and its tributaries during three periods, namely pre-monsoon, monsoon, and post-monsoon seasons. The parameters investigated include pH, DO, nitrate, phosphate, TSS, BOD, turbidity, and E. Coli Conclusively, the results showed that the quality of water significantly declined during the monsoon season, characterized by nitrate content of 8.7 ± 1.4 mg/L, phosphate content of 0.31 ± 0.07 mg/L, and a higher than WHO guidelines value of E. coli bacteria at over 310 CFU/100 ml. High Pearson correlation coefficients (r > 0.74, p < 0.01) were established between fertilizer application rate and enrichment with nutrients, as well as rainfall intensity and soil erosion. Eutrophication was evident through high phosphate-algal biomass correlations. In addition to this, the effectiveness of the mitigation measures is assessed in a comparative sense, and some of these include riparian buffer strips, constructed wetlands, precision agriculture practices, as well as AI-based systems to monitor such practices. These findings highlight the absolute necessity of watershed management policies that incorporate both agricultural intensification and hydrology."
+  },
+  {
+   "paperId": "08977a8bd8a02475f051847b49409f7001c85174",
+   "externalIds": {
+    "DOI": "10.9734/ajahr/2025/v12i4427",
+    "CorpusId": 283865221
+   },
+   "url": "https://www.semanticscholar.org/paper/08977a8bd8a02475f051847b49409f7001c85174",
+   "title": "Hydrogeochemical Characterisation and Water Quality Assessment of Streams Impacted by Agricultural Runoff in Uyo, Akwa Ibom State, Nigeria",
+   "venue": "Asian Journal of Agricultural and Horticultural Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.9734/ajahr/2025/v12i4427",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9734/ajahr/2025/v12i4427?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9734/ajahr/2025/v12i4427, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-11",
+   "authors": [
+    {
+     "authorId": "2505655446",
+     "name": "Osuafor Ogonna O."
+    },
+    {
+     "authorId": "2505655479",
+     "name": "Okeke Chioma F."
+    },
+    {
+     "authorId": "2505655425",
+     "name": "Agu Mathew O."
+    },
+    {
+     "authorId": "2505655390",
+     "name": "Isueken Christian O"
+    },
+    {
+     "authorId": "2581303475",
+     "name": "Aligwo Michael C."
+    },
+    {
+     "authorId": "2398527324",
+     "name": "O. Sampson O."
+    },
+    {
+     "authorId": "2394828903",
+     "name": "O. Awajiiroijana U."
+    },
+    {
+     "authorId": "2505655454",
+     "name": "Etesin Monday U."
+    },
+    {
+     "authorId": "2505655355",
+     "name": "E. Ifiok O."
+    }
+   ],
+   "abstract": "Agricultural runoff is a major global non-point source of water contamination, contributing substantially to nutrient enrichment, heavy metal loading, and hydrogeochemical alteration in freshwater systems, particularly in humid tropical regions. This study assessed the influence of agricultural activities on the water quality of three streams (S1–S3) within the Uyo Agricultural Zone of Akwa Ibom State, Nigeria. A total of 36 water samples were collected across wet and dry seasons from March 2024 to February 2025. Hydrochemical parameters (pH, Dissolved Oxygen, Turbidity, and Total Dissolved Solids), nutrients (NO₃⁻, PO₄³⁻, NH₄⁺), and heavy metals (Pb, Cd, Hg, As, Cr) were analysed using standard field measurements and FLAME AAS (Flame Atomic Absorption Spectrophotometry). Concentrations of NO₃⁻ (12–18 mg/L), PO₄³⁻ (2.5–3.8 mg/L), and NH₄⁺ (1.8–2.5 mg/L) showed clear spatial variation, with consistently higher values at S2, which is closest to major farmlands. Lead levels exceeded WHO limits at S1 and S2, while Cd, Hg, As, and Cr remained within permissible thresholds. Slightly acidic pH (6.5–6.9), moderate Dissolved Oxygen (4.8–5.2 mg/L), elevated Turbidity (10–15 NTU), and increased TDS (430–500 mg/L) indicated the influence of sediment wash-off and agrochemical inputs. Seasonal comparisons revealed increases in NO₃⁻ and Pb during the wet season, reflecting rainfall-driven mobilisation of contaminants. The results show that agricultural runoff significantly affects the hydrogeochemical characteristics and water quality of streams in Uyo, stressing the need for improved land-use practices, erosion control, and watershed-protection strategies."
+  },
+  {
+   "paperId": "5e18a7086202e9744800a35318677508e7716d5f",
+   "externalIds": {
+    "DOI": "10.1016/j.envpol.2025.126787",
+    "CorpusId": 279964146,
+    "PubMed": "40623588"
+   },
+   "url": "https://www.semanticscholar.org/paper/5e18a7086202e9744800a35318677508e7716d5f",
+   "title": "Effects of pesticides and road salt on freshwater quality and nutrient dynamics: A review.",
+   "venue": "Environmental Pollution",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envpol.2025.126787?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envpol.2025.126787, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-01",
+   "authors": [
+    {
+     "authorId": "2370553267",
+     "name": "Arif Ahmed"
+    },
+    {
+     "authorId": "2208023404",
+     "name": "Charles Knoble"
+    },
+    {
+     "authorId": "6550380",
+     "name": "Matthew S. Schuler"
+    }
+   ],
+   "abstract": "Pesticides and road salts increasingly threaten freshwater ecosystems. These stressors are not independent, and the interactions among them are complex, making it difficult to predict their ecological responses. Current management approaches tend to focus on a single stressor abatement, and this may not address the cumulative impacts of these co-occurring contaminants. The widespread application of road de-icing salts, including sodium chloride, calcium chloride, and magnesium chloride, has led to elevated salt concentrations in historically freshwater bodies that induce a range of physicochemical changes such as altered dissolved oxygen concentrations, reduced benthic respiration, occurrence of hypoxic zones in stratified lakes, increased turbidity, and shifts in pH. Such changes influence the degradation, bioavailability, and toxicity of pesticides entering aquatic systems via agricultural runoff and urban effluents, which in turn disrupt aquatic nutrient cycles and degrade habitat quality. The interactions between pesticides and road salts in freshwater systems are complex, exhibiting synergistic, additive, or antagonistic effects. This review systematically evaluates the mechanistic bases of independent and combined interactions of these stressors, assessing their influence on ecosystem processes while integrating considerations of environmental justice related to freshwater resource protection. Additionally, the review identifies significant knowledge gaps, such as limited data on long-term combined effects and insufficient integration of multiple stressor dynamics in risk assessment frameworks. By synthesizing current knowledge on these interactions and highlighting critical research gaps, this review aims to inform and enhance management policies targeted at mitigating the cumulative impacts of pesticides and road salts on freshwater ecosystems."
+  },
+  {
+   "paperId": "48f5f57bc542e9897033993f49e0f52624e15d3c",
+   "externalIds": {
+    "MAG": "2975619785",
+    "DOI": "10.1016/j.envsci.2019.09.008",
+    "CorpusId": 204438782
+   },
+   "url": "https://www.semanticscholar.org/paper/48f5f57bc542e9897033993f49e0f52624e15d3c",
+   "title": "What determines the public’s support for water quality regulations to mitigate agricultural runoff?",
+   "venue": "Environmental Science and Policy",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/am/pii/S1462901119304745",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envsci.2019.09.008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envsci.2019.09.008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2019-11-01",
+   "authors": [
+    {
+     "authorId": "2057579137",
+     "name": "Tian Guo"
+    },
+    {
+     "authorId": "2067436065",
+     "name": "Devin Gill"
+    },
+    {
+     "authorId": "4195019",
+     "name": "T. Johengen"
+    },
+    {
+     "authorId": "4203488",
+     "name": "B. Cardinale"
+    }
+   ],
+   "abstract": "Abstract For many freshwater systems, mitigating agricultural runoff of nutrients is a key requirement for curbing eutrophication and reducing subsequent ecological threats. However, defining the best way to achieve reductions in agricultural runoff can be a contentious issue. A policy debate is currently unfolding in Ohio focused on whether the state government should introduce regulatory policies on agriculture to reduce nutrient loadings from watersheds in an attempt to also reduce harmful algal blooms in Lake Erie. To inform policy development, we used a survey instrument to gauge public acceptance of regulatory policies and examined the psychological determinants of Ohio residents’ support for a regulatory policy proposal that would introduce fines on excessive agricultural runoff. We designed a survey instrument with nine predictors of people’s willingness to support regulations: 1) effectiveness of voluntary programs, 2) risk perception, 3) water quality perception, 4) trust in farmers, 5) trust in state government, 6) belief about fertilizer runoff as a major cause of HABs, 7) belief that farmers alone should not bear the burden to restore water quality in Lake Erie, 8) belief that regulation is necessary to keep farmers accountable, and 9) belief that regulation harms economy and employment. We also measured variables that represented different levels of self-interests, awareness of reduction goals, political party affiliation, and demographic characteristics. We collected a sample of 1000 respondents, who were representative of Ohio residents by age, gender, race, and education level. Most predictors were significant and in the directions hypothesized, with exception of water quality perception and belief about regulation and jobs. One’s a priori belief that regulations are necessary to keep farmers accountable for their land management practices had the largest enhancing effect for accepting a regulatory policy of fines, while trust for farmers had the largest inhibiting effect. In comparison, water quality perception was not significant in predicting individual policy attitudes. This study informs the public engagement and communication efforts and suggest directions for future research on public policy support."
+  },
+  {
+   "paperId": "00edc4bb279b62228818d33cfaf6706bd7438c7b",
+   "externalIds": {
+    "DOI": "10.1007/s10661-025-14827-4",
+    "CorpusId": 283282774,
+    "PubMed": "41299005"
+   },
+   "url": "https://www.semanticscholar.org/paper/00edc4bb279b62228818d33cfaf6706bd7438c7b",
+   "title": "Assessment of agriculture and potential runoff impacts on nutrient load and water quality in the Zarafshan River Basin",
+   "venue": "Environmental Monitoring & Assessment",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10661-025-14827-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10661-025-14827-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-11-27",
+   "authors": [
+    {
+     "authorId": "2291751214",
+     "name": "S. Shoergashova"
+    },
+    {
+     "authorId": "2256295115",
+     "name": "Tie Liu"
+    },
+    {
+     "authorId": "14679945",
+     "name": "Wei-Shi Wang"
+    },
+    {
+     "authorId": "2314023949",
+     "name": "Nigora Ibrokhimova"
+    },
+    {
+     "authorId": "2378918182",
+     "name": "A. Halimov"
+    },
+    {
+     "authorId": "2560254735",
+     "name": "Bakhtiyor Karimov"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2057f52c80a61655a74768276bb787ad5e81258d",
+   "externalIds": {
+    "DOI": "10.1186/s12302-026-01554-x",
+    "CorpusId": 295754165
+   },
+   "url": "https://www.semanticscholar.org/paper/2057f52c80a61655a74768276bb787ad5e81258d",
+   "title": "Bioindicator-based monitoring of heavy metals in agricultural runoff using Spirogyra sp. and visible-near infrared (VNIR) spectral analysis",
+   "venue": "Environmental Sciences Europe",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1186/s12302-026-01554-x",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s12302-026-01554-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s12302-026-01554-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-11-09",
+   "authors": [
+    {
+     "authorId": "2351875798",
+     "name": "Pasin Norkum Ai"
+    },
+    {
+     "authorId": "5846027",
+     "name": "M. S. Demyan"
+    },
+    {
+     "authorId": "2530135841",
+     "name": "Chun-I Chiu"
+    },
+    {
+     "authorId": "2584652422",
+     "name": "Pong Loungmoon"
+    },
+    {
+     "authorId": "4923985",
+     "name": "S. Sommano"
+    }
+   ],
+   "abstract": "\n \n \n \n Heavy metal water pollution in agricultural ecosystems is a major threat to ecosystem functioning and human health; however, rapid and cost-effective monitoring tools are limited. In this study, freshwater algae,\n Spirogyra\n sp., were evaluated as bioindicators of heavy metal contamination using Visible-Near Infrared (VNIR) spectral indices and algal bioaccumulation data from canal and rice paddy systems at Mae Hia Agricultural Research Centre, Chiang Mai, Thailand.\n \n \n \n \n \n Water quality varied among habitats, with pH ranging from 6.8 to 8.8. Rice paddy systems supported higher algal biomass, reaching up to 17.62 g dry weight, compared with canal environments, likely reflecting greater nutrient availability and hydrological stability.\n Spirogyra\n sp. bioaccumulated all seven metals tested lead (Pb), copper (Cu), zinc (Zn), aluminium (Al), nickel (Ni), cadmium (Cd), and mercury (Hg) with bioaccumulation factors (BAFs) exceeding 1 at every site; Al reached the highest BAF of 2.35×10\n 6\n L/kg in canal samples, followed by Zn, Pb and Cu (2.2–2.5×10\n 4\n L/kg), confirming strong and active metal uptake from the surrounding water. Strong positive correlations among Pb, Cu, Zn, Al, and Ni in algal tissues (Pearson r = 0.95–1.00) indicated shared non-specific biosorption pathways, while mercury exhibited a distinct accumulation pattern. VNIR spectral indices reliably differentiated\n Spirogyra\n sp. from surrounding water. Vegetation- and water-related indices were both negatively correlated with Pb and several co-accumulating metals in algal tissue (Kernel Normalised Difference Vegetation Index, KNDVI r = − 0.88 to − 0.95; Modified Normalized Difference Water Index, MNDWI r = − 0.76 to − 0.85). For log-transformed BAFs, the KNDVI gave the clearest spectral response, decreasing as the bioaccumulation of Al (r = − 0.97), Zn (r = − 0.95), Pb (r = − 0.94), Cu (r = − 0.92) and Ni (r = − 0.92) increased, whereas the Normalised Difference Water Index (NDWI)  increased with Hg bioaccumulation (r = 0.87).\n \n \n \n \n \n VNIR spectroscopy cannot directly measure heavy metal concentrations in water, but\n Spirogyra\n sp. showed excellent correlations with several heavy metals, mainly Pb, Cu, Zn, Al, Ni, Cd and Hg, suggesting its potential as bioindicator and bioaccumulative organism in freshwater ecosystems. The biomass of algae was highly related to the increasing concentrations of heavy metals in water. Additionally, the use of VNIR spectroscopy for algae has shown potential for estimating heavy metal concentrations from spectral analysis. As far as we are aware, this is the first report combining VNIR spectroscopy with\n Spirogyra\n sp. for heavy metal assessment in agricultural freshwater.\n \n"
+  },
+  {
+   "paperId": "5df30c49ccf4f8133f827f4d182043d7133aff00",
+   "externalIds": {
+    "DOI": "10.1515/pac-2024-0345",
+    "CorpusId": 277075877
+   },
+   "url": "https://www.semanticscholar.org/paper/5df30c49ccf4f8133f827f4d182043d7133aff00",
+   "title": "Water Quality Index and the quality of freshwater resource uMhlathuze river, Kwazulu-Natal, South Africa: A Review",
+   "venue": "Pure and Applied Chemistry",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1515/pac-2024-0345?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/pac-2024-0345, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-17",
+   "authors": [
+    {
+     "authorId": "2350626455",
+     "name": "Cimanga Lukusa"
+    },
+    {
+     "authorId": "92149744",
+     "name": "V. R. Pullabhotla"
+    }
+   ],
+   "abstract": "Abstract uMhlathuze River in KwaZulu-Natal, South Africa, is a critical freshwater resource supporting industrial, agricultural, and domestic activities. However, its water quality is under threat from various anthropogenic pressures. This review synthesises existing literature to assess the river’s water quality, focusing on key contaminants, spatial and temporal trends, ecological impacts, and socio-economic implications. Key pollutants identified include elevated levels of nitrates (>10 mg/L), phosphates (>2 mg/L), heavy metals such as lead (Pb > 0.01 mg/L) and chromium (Cr > 0.05 mg/L) (Nsibande et al. Afr. J. Aquat. Sci. 2024, 262–274, 3.), and microbial contaminants with faecal coliforms exceeding 1,000 CFU/100 mL (Mthembu et al., Afr. J. Microbiol. Res. 2012, 2020–2026, 9.). Seasonal variations exacerbate these issues, with higher pollutant loads observed during rainy periods due to increased runoff from industrial, agricultural, and urban areas. Figures illustrating contaminant trends by season or location could complement these findings. The degraded water quality has led to declines in biodiversity, including fish and aquatic macroinvertebrates, and poses significant public health risks for communities reliant on the river for drinking water and sanitation. Maps of pollution hotspots and biodiversity loss would aid in visualizing these impacts. Key knowledge gaps include inconsistent sampling methodologies, insufficient long-term data, and the absence of a region-specific Water Quality Index (WQI). This review highlights the need for standardised WQI frameworks, advanced monitoring technologies, and pollution tracking mechanisms to address these challenges. Additionally, socio-economic studies and community-based conservation initiatives are recommended to mitigate pollution impacts and improve water resource sustainability. These findings serve as a foundation for targeted research and policy actions to protect and sustainably manage the uMhlathuze River system."
+  },
+  {
+   "paperId": "961cf7d7c9e90b8557655c9e5302a8b4ec138c88",
+   "externalIds": {
+    "DOI": "10.1007/s00477-026-03287-y",
+    "CorpusId": 288944749
+   },
+   "url": "https://www.semanticscholar.org/paper/961cf7d7c9e90b8557655c9e5302a8b4ec138c88",
+   "title": "Hotspots and uncertainties in agricultural phosphorus runoff from synthetic fertilizers: a global assessment",
+   "venue": "Stochastic environmental research and risk assessment (Print)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://wrap.warwick.ac.uk/id/eprint/201338/2/WRAP-Hotspots-uncertainties-agricultural-phosphorus-runoff-synthetic-fertilizers-26.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00477-026-03287-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00477-026-03287-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-01",
+   "authors": [
+    {
+     "authorId": "2275668698",
+     "name": "M. Golkar"
+    },
+    {
+     "authorId": "2845856",
+     "name": "R. Sheikholeslami"
+    },
+    {
+     "authorId": "96992793",
+     "name": "S. Abolfathi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "5f27f948f74171eee114cfd7e2289c38b08a26fc",
+   "externalIds": {
+    "DOI": "10.1016/j.jenvman.2026.128927",
+    "CorpusId": 285605412,
+    "PubMed": "41690076"
+   },
+   "url": "https://www.semanticscholar.org/paper/5f27f948f74171eee114cfd7e2289c38b08a26fc",
+   "title": "Impact of climate change on freshwater macronutrients and agricultural yields across Britain.",
+   "venue": "Journal of Environmental Management",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jenvman.2026.128927",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2026.128927?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2026.128927, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-02-13",
+   "authors": [
+    {
+     "authorId": "2401814882",
+     "name": "Nathan Missault"
+    },
+    {
+     "authorId": "35147327",
+     "name": "V. Bell"
+    },
+    {
+     "authorId": "2401818111",
+     "name": "David M Cooper"
+    },
+    {
+     "authorId": "2066185313",
+     "name": "R. Sharp"
+    },
+    {
+     "authorId": "48792690",
+     "name": "A. Whitmore"
+    },
+    {
+     "authorId": "2896756",
+     "name": "A. Milne"
+    },
+    {
+     "authorId": "36554954",
+     "name": "H. Davies"
+    }
+   ],
+   "abstract": "Climate models project higher temperatures and altered rainfall patterns in the future. This will significantly affect terrestrial and hydrological systems, with implications for agricultural yields, freshwater quality, and ecosystem health. To understand and quantify these changes, we used the Long-Term Large-Scale Integrated Model (LTLS-IM), a national-scale terrestrial and freshwater model, to simulate the effect of projected climate change on both agricultural yield and freshwater macronutrient (carbon, nitrogen, and phosphorus) fluxes and concentrations in Great Britain. To generate macronutrient inputs to rivers, the LTLS-IM combines predictions of nutrient losses to water from the semi-natural landscape model N14CP and the agricultural Rothamsted Landscape Model (RLM), with inputs from groundwater, urban runoff, sewage, and septic tanks. These inputs are routed through a freshwater model that simulates water flow and in-stream processes responsive to changes in temperature. Using 12 realisations of the UK Climate Projections 2018 (UKCP18) under the high-emission Representative Concentration Pathway (RCP) 8.5 scenario, we compared recent past (1980-2010) with near-future (2020-2050) conditions. Our projections indicate that for most crops, yields drop by 5-20% due to climate change alone and that despite relatively stable annual nutrient loads, freshwater macronutrient concentrations could increase by 20-30% because of reduced river flows."
+  },
+  {
+   "paperId": "63772d3f4f1dce6887541839211860ab54877470",
+   "externalIds": {
+    "DOI": "10.1016/j.jenvman.2025.127282",
+    "CorpusId": 281328182,
+    "PubMed": "40957336"
+   },
+   "url": "https://www.semanticscholar.org/paper/63772d3f4f1dce6887541839211860ab54877470",
+   "title": "Water quality and pesticide contamination in agricultural streams: assessing white-rot fungi and biochar treatments as remediation strategies.",
+   "venue": "Journal of Environmental Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jenvman.2025.127282",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2025.127282?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2025.127282, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-15",
+   "authors": [
+    {
+     "authorId": "6476365",
+     "name": "F. Pilotto"
+    },
+    {
+     "authorId": "145268128",
+     "name": "O. Golovko"
+    },
+    {
+     "authorId": "4891687",
+     "name": "M. Hultberg"
+    }
+   ],
+   "abstract": "Pesticides used in agriculture, such as herbicides and fungicides, can reach water bodies through runoff and are a threat to freshwater ecosystems. Traditional methods to remove organic pesticides often lack efficiency or are too costly at scale. White-rot fungi (WRF) offer a green alternative by producing enzymes that break down persistent pollutants like pesticides. Biochar, made from organic waste, is another sustainable option due to its high adsorption capacity and carbon sequestration potential. This study evaluates water quality and pesticide contamination in five agricultural streams in Norway, and tests treatments with WRF and biochar as cost-effective, eco-friendly solutions for removing pesticides from surface waters. Eutrophication status based on total phosphorous ranged from high to bad conditions, while total nitrogen was relatively high at all locations. 35 pesticides were detected in at least one location, with concentrations ranging from 0.001 μg/l to 9.1 μg/l (for fluroxypyr). The most frequently detected compound was trifloxystrobin acid (present in all studied locations). Three water treatments were tested in the laboratory, two using WRF, in the form of spent mushroom substrate (SMS) and pellets, and one using biochar. The approaches showed promise in reducing pesticide concentrations, with biochar (average removal efficiency of 94 %) significantly outperforming WRF-based treatments (27 % average removal efficiency for WRF: SMS and 20 % for WRF: pellets). However, all treatments led to increases in total phosphorus, though the increase was lower for WRF: pellets. WRF treatments also significantly increased total organic carbon and total nitrogen, which raises concerns about the risk of eutrophication."
+  },
+  {
+   "paperId": "edbe9099af788d5d660617dc08f5b8393f83add5",
+   "externalIds": {
+    "DOI": "10.70102/aeef/v4i2/af260217",
+    "CorpusId": 295576239
+   },
+   "url": "https://www.semanticscholar.org/paper/edbe9099af788d5d660617dc08f5b8393f83add5",
+   "title": "Integrated Water Quality Assessment and Ecological Risk Evaluation of Freshwater Ecosystems Under Multiple Anthropogenic Stressors",
+   "venue": "Aquatic Ecosystems and Environmental Frontiers",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://aquaticfrontiers.com/index.php/aqu/article/download/AF260217/249/536",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70102/aeef/v4i2/af260217?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70102/aeef/v4i2/af260217, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-30",
+   "authors": [
+    {
+     "authorId": "2464617871",
+     "name": "Arjun Menon"
+    },
+    {
+     "authorId": "2509994443",
+     "name": "Kavya Nair"
+    }
+   ],
+   "abstract": "The threats to the condition of freshwater systems from the impacts of agriculture, sewage, and industry have been increasing, but water quality and ecological risk have usually been evaluated independently of each other. In this study, an assessment was conducted for both water quality and ecological risk at 24 sites, which were reference sites, agricultural sites, and urban and industrial sites in a freshwater system where multiple land uses are observed. The samples were taken in three seasons and were assessed using physical, chemical, nutrient, metal, and biological parameters. Water quality score and four-tiered ecological risk categorization were combined, and the data were analyzed to find their correlations with pollution sources. Reference sites were still healthy, while industrial and urban sites had poor and very poor water quality conditions with the highest levels of ecological risk. Agricultural sites had the highest level of nutrient enrichment, and runoff in the wet season caused poor water quality at all human-impacted sites. Only 5 out of 24 sites were in the good category, and 11 sites were at considerable or high ecological risk levels. There was an extremely high correlation (correlation coefficient = 0.94) between stressor intensity and ecological risk. It is evident from the findings that using both the status of water quality and ecological risk will create a better platformto prioritize pollution abatement and restoration efforts."
+  },
+  {
+   "paperId": "1bf2edd8cf95b5ef78559a004c329be85792ec15",
+   "externalIds": {
+    "MAG": "2945527697",
+    "DOI": "10.2134/JEQ2018.12.0437",
+    "CorpusId": 182494992,
+    "PubMed": "31589694"
+   },
+   "url": "https://www.semanticscholar.org/paper/1bf2edd8cf95b5ef78559a004c329be85792ec15",
+   "title": "Impacts of Soil Phosphorus Drawdown on Snowmelt and Rainfall Runoff Water Quality.",
+   "venue": "Journal of Environmental Quality",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2134/jeq2018.12.0437",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2134/JEQ2018.12.0437?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2134/JEQ2018.12.0437, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-01-01",
+   "authors": [
+    {
+     "authorId": "2150167607",
+     "name": "Jian Liu"
+    },
+    {
+     "authorId": "2069514687",
+     "name": "J. Elliott"
+    },
+    {
+     "authorId": "35677273",
+     "name": "H. Wilson"
+    },
+    {
+     "authorId": "8432324",
+     "name": "H. Baulch"
+    }
+   ],
+   "abstract": "Managing P export from agricultural land is critical to address freshwater eutrophication. However, soil P management, and options to draw down soil P have received little attention in snowmelt-dominated regions because of limited interaction between soil and snowmelt. Here, we assessed the impacts of soil P drawdown (reducing fertilizer P inputs combined with harvest removal) on soil Olsen P dynamics, runoff P concentrations, and crop yields from 1997 to 2014 in paired fields in Manitoba, Canada. We observed that Olsen P concentrations in the 0- to 5-cm soil layer were negatively correlated with the cumulative P depletion and declined rapidly at the onset of the drawdown practice (3.1 to 5.4 mg kg yr during 2007-2010). In both snowmelt runoff and rainfall runoff, concentrations of total dissolved P (TDP) were positively correlated with the concentrations of soil Olsen P. Soil P drawdown to low to moderate fertility levels significantly decreased mean annual flow-weighted TDP concentrations in snowmelt runoff from 0.60 to 0.30 mg L in the field with high initial soil P and from 1.17 to 0.42 mg L in the field with very high initial soil P. Declines in TDP concentration in rainfall runoff were greater. Critically, yields of wheat ( spp.) and canola ( L.) were not affected by soil P depletion. In conclusion, we demonstrate that relatively rapid reductions in P loads are achievable at the field scale via managing P inputs and soil P pools, highlighting a management opportunity that can maintain food security while improving water security in cold regions."
+  },
+  {
+   "paperId": "0148832a9b2a1288b7fed5707e24b6eb6f114acf",
+   "externalIds": {
+    "DOI": "10.3390/w17020238",
+    "CorpusId": 275727377
+   },
+   "url": "https://www.semanticscholar.org/paper/0148832a9b2a1288b7fed5707e24b6eb6f114acf",
+   "title": "An Assessment of Seasonal Water Quality in Phewa Lake, Nepal, by Integrating Geochemical Indices and Statistical Techniques: A Sustainable Approach",
+   "venue": "Water",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2073-4441/17/2/238/pdf?version=1737027944",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/w17020238?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/w17020238, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-16",
+   "authors": [
+    {
+     "authorId": "2341204923",
+     "name": "Rojesh Timalsina"
+    },
+    {
+     "authorId": "2341024206",
+     "name": "Surendra Acharya"
+    },
+    {
+     "authorId": "2410413921",
+     "name": "B. Đurin"
+    },
+    {
+     "authorId": "2170460841",
+     "name": "M. Awasthi"
+    },
+    {
+     "authorId": "2322589310",
+     "name": "R. Pant"
+    },
+    {
+     "authorId": "90758172",
+     "name": "G. Joshi"
+    },
+    {
+     "authorId": "51473226",
+     "name": "R. Maskey Byanju"
+    },
+    {
+     "authorId": "2554078431",
+     "name": "Khim Prasad Panthi"
+    },
+    {
+     "authorId": "2147423612",
+     "name": "Susan Joshi"
+    },
+    {
+     "authorId": "2512265602",
+     "name": "Amit Kumar"
+    },
+    {
+     "authorId": "34886663",
+     "name": "T. Thakur"
+    },
+    {
+     "authorId": "2126528665",
+     "name": "A. Saqr"
+    }
+   ],
+   "abstract": "Lakes are vital freshwater ecosystems that sustain biodiversity, support livelihoods, and drive socio-economic growth globally. However, they face escalating threats from anthropogenic activities, including urbanization, agricultural runoff, and pollution, which are exacerbated by climate change. Phewa Lake in Nepal was selected for this study due to its increasing rates of nutrient enrichment, sedimentation, and pollution. This study evaluated seasonal and spatial water quality variations within the lake by analyzing water samples from 30 sites during the pre-monsoon and post-monsoon seasons. Twenty physicochemical parameters, including the potential of hydrogen (pH), dissolved oxygen (DO), electrical conductivity (EC), and major ions, e.g., calcium (Ca2+), magnesium (Mg2+), sodium (Na+), potassium (K+), bicarbonate (HCO3−), chloride (Cl−), sulfate (SO42−), nitrate (NO3−), phosphate (PO43−), and ammonium (NH4+), were measured. The average pH ranged from 8.06 (pre-monsoon) to 8.24 (post-monsoon), reflecting dilution from monsoon rains and increased carbonate runoff. Furthermore, the DO levels in Phewa Lake averaged 7.46 mg/L (pre-monsoon) and 8.62 mg/L (post-monsoon), with higher values observed post-monsoon due to rainfall-driven oxygenation. Nutrient concentrations were shown to be elevated, with the nitrate concentration reaching 2.31 mg/L during the pre-monsoon period, and the phosphate concentration peaking at 0.15 mg/L in the post-monsoon period, particularly near agricultural runoff zones. The dominant cations in the lake’s hydrochemistry were Ca2+ and Mg2+, while HCO3− was the primary anion, reflecting the influence of carbonate weathering. Cluster analysis identified the lake outlet as a high-pollution zone, with the total dissolved solids (TDS) reaching 108–135 mg/L. Additionally, Principal component analysis revealed agricultural runoff and sewage effluents as the main pollution sources. Seasonal dynamics highlighted monsoon-induced dilution and pre-monsoon pollution peaks. These findings underscore the need for targeted pollution control and eutrophication management. By aligning with the sustainable development goals (SDGs) relevant to clean water and climate action, this research provides a replicable framework for sustainable lake management that is applicable to freshwater ecosystems worldwide."
+  },
+  {
+   "paperId": "34f272c72b1e6a1a5d24e10a40c0cfe63ab02844",
+   "externalIds": {
+    "MAG": "2938445733",
+    "DOI": "10.1016/j.scitotenv.2019.04.160",
+    "CorpusId": 143433450,
+    "PubMed": "31048157"
+   },
+   "url": "https://www.semanticscholar.org/paper/34f272c72b1e6a1a5d24e10a40c0cfe63ab02844",
+   "title": "Emerging contaminants in wastewater, stormwater runoff, and surface water: Application as chemical markers for diffuse sources.",
+   "venue": "Science of the Total Environment",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.scitotenv.2019.04.160?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.scitotenv.2019.04.160, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-08-01",
+   "authors": [
+    {
+     "authorId": "4135652",
+     "name": "Ngoc Han Tran"
+    },
+    {
+     "authorId": "144498525",
+     "name": "M. Reinhard"
+    },
+    {
+     "authorId": "39901838",
+     "name": "E. Khan"
+    },
+    {
+     "authorId": "2467976456",
+     "name": "Hui-Ting Chen"
+    },
+    {
+     "authorId": "40527583",
+     "name": "Viet Tung Nguyen"
+    },
+    {
+     "authorId": "2154569310",
+     "name": "Yi-Wen Li"
+    },
+    {
+     "authorId": "32961529",
+     "name": "S. Goh"
+    },
+    {
+     "authorId": "25072535",
+     "name": "Q. Nguyen"
+    },
+    {
+     "authorId": "49832657",
+     "name": "N. Saeidi"
+    },
+    {
+     "authorId": "143819722",
+     "name": "K. Gin"
+    }
+   ],
+   "abstract": "Diffuse sources of pollution such as sewer leakages, sewer overflows, illicit discharges and stormwater runoff affect the urban surface water quality but often remain unknown. Therefore, the development of chemical markers for identifying and characterizing the origin of diffuse sources of pollution in urban surface waters is a requisite for protecting and managing urban water resources. In this study, the occurrence of 31 emerging contaminants (ECs) in untreated wastewater, treated wastewater, urban stormwater runoff, agricultural stormwater runoff, and freshwater bodies was investigated. Artificial sweeteners (ASs), pharmaceuticals and personal care products (PPCPs) were more frequently detected in the collected water samples. In raw wastewater, 21 target ECs were detected 100% in the collected samples with median concentrations ranging from 49.6 to 77,721 ng/L, while in freshwater bodies, only 13 compounds were found with detection frequency >50%. The median concentration of the majority of detected ECs in freshwater samples was below 100 ng/L. The suitability of ECs as chemical markers of diffuse sources in an urban watershed was assessed using a suite of criteria, including the detection frequency (DF), detection ratio (DR) (i.e. the ratio between median concentration and method quantification limit of a compound) and attenuation rates (i.e., biodegradation, sorption and abiotic degradation) in wastewater treatment processes. In addition, we propose a new key criterion, the concentration ratio (CR) of labile to conservative compounds, to evaluate the applicability of suitable chemical markers for source tracking. Using this new set of criteria (i.e. CR, DF, DR and attenuation rates), our analysis showed that among the investigated ECs, only acesulfame (ACE), acetaminophen (ACT), cyclamate (CYC), saccharin (SAC) were suitable as chemical markers of diffuse sources in surface waters. For caffeine (CF), N,N-diethyl-meta-toluamide (DEET), crotamiton (CTMT), triclocarban (TCC) and triclosan (TCS), their median concentration ratio to sucralose (SUC) in water bodies was consistently higher than that in raw wastewater, suggesting that these compounds might be unsuitable as chemical markers of sewage leakage in surface waters for this study area."
+  },
+  {
+   "paperId": "45fdbf8cf38d2731cd41a12fa23e80fb6f58fbaf",
+   "externalIds": {
+    "DOI": "10.1002/etc.5711",
+    "CorpusId": 259352886,
+    "PubMed": "37417785"
+   },
+   "url": "https://www.semanticscholar.org/paper/45fdbf8cf38d2731cd41a12fa23e80fb6f58fbaf",
+   "title": "The Comet Assay, a Sensitive Biomarker of Water Quality Improvement Following Adoption of Beneficial Agricultural Practices?",
+   "venue": "Environmental Toxicology and Chemistry",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/etc.5711",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/etc.5711?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/etc.5711, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-07-07",
+   "authors": [
+    {
+     "authorId": "40602372",
+     "name": "A. Gendron"
+    },
+    {
+     "authorId": "78356826",
+     "name": "É. Lacaze"
+    },
+    {
+     "authorId": "6081808",
+     "name": "Z. E. Taranu"
+    },
+    {
+     "authorId": "2571499792",
+     "name": "Rebecca Gouge"
+    },
+    {
+     "authorId": "2539542233",
+     "name": "Yasmina Larbi-Yousef"
+    },
+    {
+     "authorId": "9029288",
+     "name": "M. Houde"
+    },
+    {
+     "authorId": "47855057",
+     "name": "C. André"
+    },
+    {
+     "authorId": "2401133",
+     "name": "F. Gagné"
+    },
+    {
+     "authorId": "1412507466",
+     "name": "G. Triffault-Bouchet"
+    },
+    {
+     "authorId": "2085677289",
+     "name": "Isabelle Giroux"
+    }
+   ],
+   "abstract": "Numerous actions have been undertaken by farmers to attenuate the impact of agricultural activities on aquatic ecosystems. The identification of biomarkers that respond quickly to water quality improvement could facilitate the assessment of adopted alternative practices and help maintain mobilization among stakeholders. We evaluated the potential of the comet assay, a biomarker of genotoxic effects, using a freshwater mussel, Elliptio complanata, as a model animal. The frequency of DNA damage was assessed in hemocytes of mussels collected from a pristine habitat and caged for 8 weeks in the Pot au Beurre River, a tributary of the fluvial Lake St.‐Pierre (Quebec, Canada) impacted by agricultural activities. We found that the level of DNA damage naturally induced in mussel hemocytes was low and showed very limited variations over time. Compared with these baseline levels and to laboratory controls, we observed a doubling in DNA alterations in mussels exposed to agricultural runoff in the third branch of the Pot au Beurre River. The genotoxic response was significantly lower in mussels caged in the first branch of the Pot au Beurre River, where longer stretches of shoreline have been restored as buffer strips. Glyphosate, mesotrione, imazethapyr, and metolachlor were the main discriminant pesticides between these two branches. Metolachlor was found in sufficient concentrations to induce DNA damage, but it is more likely that the observed genotoxicity was the result of a “cocktail effect,” that is, the cumulative contribution of coexisting genotoxicants including the above‐mentioned herbicides and ingredients in their formulation. Our findings suggest that the comet assay is a sensitive tool for the early detection of changes in water toxicity following the adoption of agricultural beneficial practices. Environ Toxicol Chem 2023;42:2201–2214. © 2023 Crown copyright and The Authors. Environmental Toxicology and Chemistry published by Wiley Periodicals LLC on behalf of SETAC. This article is published with the permission of the Controller of HMSO and the King's Printer for Scotland."
+  },
+  {
+   "paperId": "97a4849b2d6cd1d945bd22b87980741032eba7cb",
+   "externalIds": {
+    "DOI": "10.22161/ijhaf.9.2.2",
+    "CorpusId": 278327779
+   },
+   "url": "https://www.semanticscholar.org/paper/97a4849b2d6cd1d945bd22b87980741032eba7cb",
+   "title": "Comprehensive Assessment of Physico-Chemical and Biological Parameters in Water Quality Monitoring: A Review of Contaminants, Indicators, and Health Impacts",
+   "venue": "International journal of Horticulture Agriculture and Food science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://aipublications.com/uploads/issue_files/2IJHAF-MAR20259-Comprehensive.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22161/ijhaf.9.2.2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22161/ijhaf.9.2.2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-04-01",
+   "authors": [
+    {
+     "authorId": "153877968",
+     "name": "Sneha Verma"
+    },
+    {
+     "authorId": "2359268139",
+     "name": "Vaibhav Pandey"
+    },
+    {
+     "authorId": "2361652094",
+     "name": "Shubham Verma"
+    },
+    {
+     "authorId": "2295594797",
+     "name": "A. Verma"
+    },
+    {
+     "authorId": "2317449079",
+     "name": "Ramakant Ramakant"
+    }
+   ],
+   "abstract": "The degradation of water quality due to anthropogenic activities and natural processes poses a significant threat to public health and ecological integrity. This review highlights the biological, chemical, and physical parameters used in water quality monitoring and emphasizes their relevance in identifying pollution sources and associated health risks. We synthesized recent literature examining the roles of key parameters such as pH, BOD, COD, DO, TDS, heavy metals, and microbial indicators (e.g., E. coli, total coliforms). Findings underscore the elevated presence of heavy metals, nutrients, and pathogenic microorganisms in many freshwater systems, especially in densely populated or industrial regions. Agricultural runoff, industrial effluents, and poor waste management practices are primary contributors to contamination. Systematic monitoring of physico-chemical and biological parameters is critical for ensuring safe water use. Implementing comprehensive water testing protocols and enforcing environmental regulations are imperative for sustainable water resource management."
+  },
+  {
+   "paperId": "282c7c7b99ca7e2d3a70324410daf317e8caea8d",
+   "externalIds": {
+    "DOI": "10.55905/oelv23n1-104",
+    "CorpusId": 276358910
+   },
+   "url": "https://www.semanticscholar.org/paper/282c7c7b99ca7e2d3a70324410daf317e8caea8d",
+   "title": "Sanitary aspects, evidence of microplastics and seasonality interference in freshwater from shallow wells in Presidente Médici city - Rondônia state, Brazil",
+   "venue": "Observatorio de la Economía Latinoamericana",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel/article/download/8640/5466",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55905/oelv23n1-104?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55905/oelv23n1-104, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-14",
+   "authors": [
+    {
+     "authorId": "2495614711",
+     "name": "Aline Matias dos Santos"
+    },
+    {
+     "authorId": "2459803154",
+     "name": "J. V. Dantas"
+    },
+    {
+     "authorId": "13167169",
+     "name": "F. B. Hurtado"
+    },
+    {
+     "authorId": "2498424841",
+     "name": "Francisco Carlos Souza da Silva"
+    },
+    {
+     "authorId": "2405770224",
+     "name": "Nilza Rosa Teixeira"
+    },
+    {
+     "authorId": "2494388904",
+     "name": "Selma Maria de Arruda Silva"
+    },
+    {
+     "authorId": "2555679113",
+     "name": "Ricardo Ferreira de Oliveira"
+    },
+    {
+     "authorId": "2090764824",
+     "name": "Rute Bianchini Pontuschka"
+    }
+   ],
+   "abstract": "This study assessed the water quality of 10 shallow wells in Presidente Médici city, quantifying total and thermotolerant coliforms, as well as microplastic abundance. All wells exhibited total coliform levels exceeding the limits established by Ordinance No. 888/2021, indicating a significant public health risk. Microplastics were detected in 60% of the samples, with higher concentrations during the rainy season. Transparent and blue fibers were more abundant during this period, suggesting influence from urban effluents. In the dry season, black fibers and fragments predominated, possibly related to agricultural activities. The results highlight the urgent need for water treatment in these wells, such as filtration and chlorination, to ensure safe consumption. The research suggests that surface runoff contaminated by urban and agricultural effluents may have contributed to the pollution of the shallow wells. The waters of the wells analyzed did not meet the standards of current legislation for total and thermotolerant coliform parameters. Seasonality affected the values of both groups of microorganisms, so that they were higher during the rainy season. These waters need to be treated beforehand, such as filtration, boiling or chlorination, before consumption. Microplastics were present in 60% of the wells studied, demonstrating the variation according to seasonality."
+  },
+  {
+   "paperId": "d0bcd3ebb280f4d8a67e4d6b026647343fc9a9ca",
+   "externalIds": {
+    "DOI": "10.1002/lno.12571",
+    "CorpusId": 269201026
+   },
+   "url": "https://www.semanticscholar.org/paper/d0bcd3ebb280f4d8a67e4d6b026647343fc9a9ca",
+   "title": "Using oxygen isotopes in phosphate to assess biological phosphorus cycling in a small and shallow freshwater lake system",
+   "venue": "Limnology and Oceanography",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/lno.12571?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/lno.12571, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-04-16",
+   "authors": [
+    {
+     "authorId": "2073168996",
+     "name": "Rong Yi"
+    },
+    {
+     "authorId": "2386607",
+     "name": "T. Ishida"
+    },
+    {
+     "authorId": "32282219",
+     "name": "Peixue Song"
+    },
+    {
+     "authorId": "50537646",
+     "name": "T. Ikeya"
+    },
+    {
+     "authorId": "46271897",
+     "name": "N. Okuda"
+    },
+    {
+     "authorId": "3953776",
+     "name": "A. Paytan"
+    },
+    {
+     "authorId": "50675343",
+     "name": "S. Ban"
+    }
+   ],
+   "abstract": "Reducing excess phosphorus (P) loads that cause eutrophication in aquatic systems is essential for meeting water quality standards. The oxygen isotopic composition of phosphate (δ18Op) is a powerful tool for tracking P sources and cycling in diverse natural ecosystems. Here, we use δ18Op distribution in a small freshwater body (a lagoon–lake system) with high biological activity. We report δ18Op values seasonally along the water flow path in lagoon–lake system adjacent to Lake Biwa, Japan. The δ18Op values of inflowing water originating as agricultural runoff were constant throughout the study period at +16.3‰ ± 0.2‰. The δ18Op values in the system were generally offset from temperature‐dependent isotopic equilibrium with the surrounding water, ranging from +11.1‰ to +17.8‰. The δ18Op values of the lake water approached equilibrium values in July and October, when dissolved inorganic P (DIP) retention rates were high, consistent with extensive biologically mediated phosphate cycling. A δ18Op two end‐member mixing model, involving inflowing P and biologically recycled P, suggests that P turnover rates in the lagoon–lake system were high during the productive seasons. In contrast, the longer lake water residence time in the non‐irrigation season (winter) allowed δ18Op values to deviate toward lower values relative to both equilibrium and agricultural source δ18Op values, suggesting that P metabolism was dominated by extracellular/ecto‐enzymatic hydrolysis of dissolved organic P under low DIP concentrations. This work highlighted the utility of δ18Op for understanding P dynamics in shallow lake ecosystems."
+  },
+  {
+   "paperId": "bfd0f5ae0afbc53bd85e11a26b578068197c783a",
+   "externalIds": {
+    "DOI": "10.1111/sum.70223",
+    "CorpusId": 288017707
+   },
+   "url": "https://www.semanticscholar.org/paper/bfd0f5ae0afbc53bd85e11a26b578068197c783a",
+   "title": "Influence of Runoff Generation Mechanisms on Dissolved and Particulate Phosphorus Loss From Grassland Soil",
+   "venue": "Soil use and management",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1111/sum.70223",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/sum.70223?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/sum.70223, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-04-01",
+   "authors": [
+    {
+     "authorId": "2553075643",
+     "name": "Patricia Roche"
+    },
+    {
+     "authorId": "35107562",
+     "name": "M. Harty"
+    },
+    {
+     "authorId": "144835450",
+     "name": "John Cleary"
+    },
+    {
+     "authorId": "122714944",
+     "name": "Samuel S. Browett"
+    },
+    {
+     "authorId": "2269133639",
+     "name": "S. Scannell"
+    },
+    {
+     "authorId": "2433271096",
+     "name": "Mani Rezaee"
+    },
+    {
+     "authorId": "1404677389",
+     "name": "J. O'Sullivan"
+    },
+    {
+     "authorId": "90160489",
+     "name": "S. Vero"
+    }
+   ],
+   "abstract": "Runoff of phosphorus (P) from agricultural fields is a leading contributor to impairment of freshwater quality. The influence of soil structure, and of mechanisms of runoff generation on forms of P losses is not fully understood. This study investigated P mobilisation from grassland soils in a controlled laboratory rainfall simulation. A 60‐min rainfall event was applied to soils subject to saturation excess and infiltration excess runoff generation mechanisms, at high and low soil bulk density scenarios. Runoff samples were collected at 10‐min intervals to quantify patterns of total, total dissolved, particulate, and dissolved reactive P loss. Results indicate that the influence of runoff generation mechanism on P losses was contingent upon soil bulk density. Particulate P was consistently the dominant form of P loss across all runoff and bulk density scenarios. Flow‐weighted mean concentrations were greatest under saturation excess runoff at high bulk density. For dissolved P, the highest flow‐weighted mean concentrations were observed under infiltration excess runoff at high bulk density. These results highlight that soil bulk density typically exerts a greater influence on the magnitude of P losses than does the runoff generation mechanism. Management of soil structure in hydrologically sensitive areas may therefore help to mitigate P loss. Furthermore, catchment‐scale models of nutrient loss may benefit from including soil bulk density as a parameter."
+  },
+  {
+   "paperId": "6f03985915513acd4f6f58eb881ac19994e54451",
+   "externalIds": {
+    "DOI": "10.3390/environments12030096",
+    "CorpusId": 277132674
+   },
+   "url": "https://www.semanticscholar.org/paper/6f03985915513acd4f6f58eb881ac19994e54451",
+   "title": "Linking Antibiotic Residues and Antibiotic Resistance Genes to Water Quality Parameters in Urban Reservoirs: A Seasonal Perspective",
+   "venue": "Environments",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/environments12030096",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/environments12030096?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/environments12030096, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-03-18",
+   "authors": [
+    {
+     "authorId": "2387217064",
+     "name": "Sihan Li"
+    },
+    {
+     "authorId": "98575981",
+     "name": "Raphinos Tackmore Murava"
+    },
+    {
+     "authorId": "2260594447",
+     "name": "Qiyue Zhang"
+    },
+    {
+     "authorId": "2469542306",
+     "name": "Tong Zhou"
+    },
+    {
+     "authorId": "52194794",
+     "name": "A. Omoregie"
+    },
+    {
+     "authorId": "40898656",
+     "name": "A. Rajasekar"
+    },
+    {
+     "authorId": "11520263",
+     "name": "Tariq Ouahbi"
+    }
+   ],
+   "abstract": "The interaction between antibiotics and antibiotic resistance genes (ARGs) in freshwater ecosystems has become a critical environmental concern. This study investigates seasonal variations of sulfonamide and tetracycline antibiotics and their relationship with ARGs in three urban reservoirs in Nanjing, China: Pingshan Forest Park, Shanhu Lake Wetland Park, and Zhaoqiao Reservoir. Sampling was conducted in May and September 2023 to assess water quality, antibiotic concentrations, and ARG abundance. A total of 30 water samples were analyzed in regard to their physicochemical parameters, heavy metals, and antibiotics. A quantitative PCR assay was used to measure the ARG abundance relative to the 16S rRNA gene. Sulfonamide concentrations ranged from 30 to 120 ng/L, while the concentrations of tetracyclines were 50–160 ng/L. Notably, sulfamethazine decreased significantly in two reservoirs (Shanhu and Zhaoqiao, p < 0.05), while other antibiotics showed minimal variation, indicating persistent contamination from agricultural runoff and wastewater discharge. ARG abundance was lower in May than in September, with sulfonamide resistance genes being lower cumulatively than tetracycline resistance genes. Strong correlations (r > 0.7) were observed between ARGs and parameters like dissolved oxygen and pH. High antibiotic levels were observed in areas without nearby hospitals or pharmaceutical companies, implicating agriculture as a major pollution source. By analyzing sulfonamide and tetracycline antibiotics and their resistance genes across three eutrophic reservoirs in Nanjing, China, we highlight critical environmental drivers of ARG proliferation and propose targeted mitigation strategies."
+  }
+ ]
+}

@@ -1,0 +1,754 @@
+{
+ "query": "Renewable energy transition in Southeast Asia",
+ "retrieved_at": "2026-11-18T18:01:22.941106+00:00",
+ "data": [
+  {
+   "paperId": "c593fd0910a9c3fafc0a7f47a9d07c9c53df47ad",
+   "externalIds": {
+    "DOI": "10.33116/ije.v8i1.248",
+    "CorpusId": 276708012
+   },
+   "url": "https://www.semanticscholar.org/paper/c593fd0910a9c3fafc0a7f47a9d07c9c53df47ad",
+   "title": "Harnessing Carbon Trading and Life Cycle Assessments for Renewable Energy Transition in Southeast Asia",
+   "venue": "Indonesian Journal of Energy",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.33116/ije.v8i1.248",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33116/ije.v8i1.248?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33116/ije.v8i1.248, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-02-26",
+   "authors": [
+    {
+     "authorId": "2347991788",
+     "name": "Stevanus Hendriarto"
+    },
+    {
+     "authorId": "2347997132",
+     "name": "Yusril Sudiro Abdul Manap"
+    },
+    {
+     "authorId": "2347991520",
+     "name": "Yussuf Eddo Runtukahu"
+    },
+    {
+     "authorId": "2347990279",
+     "name": "Romualdus Nugraha Catur Utomo"
+    }
+   ],
+   "abstract": "The climate crisis, caused by fossil fuel dependence and deforestation, poses significant socio-economic and environmental challenges for Southeast Asia, including reduced agricultural productivity and increased health risks. Our study aims to fill this gap by assessing how renewable energy can mitigate these impacts, focusing on the region's potential and the mechanisms needed to support this energy transition. Through a structured review of peer-reviewed articles, government reports, and data from intergovernmental organizations, we analyzed Southeast Asia's renewable energy potential and the roles of carbon trading and life cycle assessments (LCA) as enabling mechanisms. Our findings reveal that, despite projected increases in CO₂ emissions from 1.4 gigatons (Gt) in 2018 to nearly 2.4 Gt by 2040, Southeast Asia has set ambitious targets to reduce energy consumption by 23% and increase renewable energy to 22.1% within the same timeframe. Achieving these goals will require robust, adaptive policies that incentivize renewable investment and promote regional cooperation. Carbon trading and LCA are identified as pivotal tools, providing financial motivation for emission reductions and offering frameworks to assess the environmental impacts of energy projects. In conclusion, this study suggests that Southeast Asia’s renewable energy adoption, supported by sustainable practices like carbon trading and LCA, could significantly advance both global climate mitigation and socio-economic resilience within the region."
+  },
+  {
+   "paperId": "bf77b6fe9101d4667990d4b388e914f884bbef21",
+   "externalIds": {
+    "DOI": "10.1016/j.rser.2022.112226",
+    "CorpusId": 246899682
+   },
+   "url": "https://www.semanticscholar.org/paper/bf77b6fe9101d4667990d4b388e914f884bbef21",
+   "title": "Accelerating a clean energy transition in Southeast Asia: Role of governments and public policy",
+   "venue": "Renewable & Sustainable Energy Reviews",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.rser.2022.112226?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.rser.2022.112226, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-05-01",
+   "authors": [
+    {
+     "authorId": "12926697",
+     "name": "J. Aleluia"
+    },
+    {
+     "authorId": "144656306",
+     "name": "P. Tharakan"
+    },
+    {
+     "authorId": "2492022617",
+     "name": "A. Chikkatur"
+    },
+    {
+     "authorId": "47334881",
+     "name": "G. Shrimali"
+    },
+    {
+     "authorId": "49794275",
+     "name": "X. Chen"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "3886708accbf027577ef81756de20077eea190b7",
+   "externalIds": {
+    "DOI": "10.33116/ije.v9i1.287",
+    "CorpusId": 293907943
+   },
+   "url": "https://www.semanticscholar.org/paper/3886708accbf027577ef81756de20077eea190b7",
+   "title": "Policy Instruments Reform for Growth and Renewable Energy Transition in the Southeast Asia Region",
+   "venue": "Indonesian Journal of Energy",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://ije-pyc.org/IJE/article/download/287/101",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33116/ije.v9i1.287?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33116/ije.v9i1.287, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-02-27",
+   "authors": [
+    {
+     "authorId": "2216442396",
+     "name": "Mahfita Ardyarum"
+    }
+   ],
+   "abstract": "One of the strategies used to decrease the production of greenhouse gases is to promote the use of clean, renewable energy. Mitigation initiatives are also part of the action plan to meet the Paris Agreement, which aims to keep global temperature rise below 1.5°C. The growth of the new and renewable energy mix is influenced by a variety of factors, including the economy, technology, energy consumption behavior, financial support, and policy instruments implemented by a country. The novelty of this study lies in examining the effects of five policy tools (i.e., net metering, feed-in tariffs, renewable portfolio standards/quotas, tax incentives, and auctions) on renewable energy growth across Southeast Asian countries grouped by gross domestic product per capita level, which are high (i.e., Singapore, Brunei), upper-middle (i.e., Indonesia, Malaysia, Thailand), and lower-middle (i.e., Cambodia, Myanmar). A fixed-effect model under the Feasible Generalized Least Squares approach was used for panel data estimation with data spanning from 2010 to 2022. It was found that of the 5 policy instruments utilized, net metering, feed-in tariffs, and renewable energy portfolios had a substantial impact on the accelerating renewable energy growth. In comparison, auctions and tax incentives did not. According to the findings, the three types of policy instruments can be strengthened and utilized as recommendations to accelerate the transition to new and renewable energy."
+  },
+  {
+   "paperId": "30b2d1375dddcd9e195c9b0d950f97ad19677044",
+   "externalIds": {
+    "DOI": "10.24112/jaes.090015",
+    "CorpusId": 284115823
+   },
+   "url": "https://www.semanticscholar.org/paper/30b2d1375dddcd9e195c9b0d950f97ad19677044",
+   "title": "Energy justice and inclusive transitions: Lessons from community renewable energy in Southeast Asia",
+   "venue": "Journal of Asian Energy Studies",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ejournals.lib.hkbu.edu.hk/index.php/jaes/article/download/3366/2681",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24112/jaes.090015?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24112/jaes.090015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-20",
+   "authors": [
+    {
+     "authorId": "148435403",
+     "name": "Zainur Ridho"
+    },
+    {
+     "authorId": "108518521",
+     "name": "A. Paksi"
+    },
+    {
+     "authorId": "2190064614",
+     "name": "Fiya Ainur Rohmatika"
+    }
+   ],
+   "abstract": "Southeast Asia occupies a critical position in the global renewable energy transition, yet the region faces persistent contradictions. Despite vast solar, hydro, and biomass resources, energy systems remain dominated by coal and natural gas, with subsidies reinforcing fossil dependence. At the same time, more than 45 million people still lack reliable electricity access, highlighting the urgency of inclusive approaches. Community renewable energy (CRE) projects, such as micro-hydro, solar mini-grids, and biomass cooperatives, offer decentralised pathways that expand access, empower communities, and build resilience. However, outcomes across ASEAN have been uneven. This article applies the energy justice framework to explain these divergent outcomes, conceptualising CRE barriers as justice deficits: distributional (high costs, financing gaps, and subsidy bias toward fossil fuels), procedural (governance and participation limitations), and recognition (overlooked cultural values and community knowledge). These injustices are compounded by cross-cutting risks such as climate variability and fragile infrastructure. By synthesising comparative evidence, the study highlights that financial innovation alone cannot ensure sustainability, regulatory reforms fail without community trust, and technological solutions remain vulnerable without resilience planning. The findings underscore that CRE is not only a technical or economic issue but fundamentally a matter of fairness, legitimacy, and empowerment in Southeast Asia’s energy transitions."
+  },
+  {
+   "paperId": "2c1d2388a1ffb6aaa00d15c9bc5d1fcd91ae1a7b",
+   "externalIds": {
+    "DOI": "10.36418/jcs.v1i2.42",
+    "CorpusId": 252852226
+   },
+   "url": "https://www.semanticscholar.org/paper/2c1d2388a1ffb6aaa00d15c9bc5d1fcd91ae1a7b",
+   "title": "Quo Vadis Renewable Electricity In Southeast Asia: Policy Overview Of The Energy Transition Towards Zero Emissions",
+   "venue": "JCS",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "http://dx.doi.org/10.59188/jcs.v1i2.42",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36418/jcs.v1i2.42?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36418/jcs.v1i2.42, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-10-01",
+   "authors": [
+    {
+     "authorId": "2270592065",
+     "name": "Achmad Puariesthaufani N"
+    },
+    {
+     "authorId": "2515735778",
+     "name": "Rahmat P. Hadi Wibowo"
+    },
+    {
+     "authorId": "2136739855",
+     "name": "C. Anam"
+    }
+   ],
+   "abstract": "Asia Tenggara tercatat sebagai salah satu kawasan yang memiliki target pencapaian nol emisi antara tahun 2050 dan 2065. Southeast Asia Energy Outlook 2022 mencatat bahwa rekor energi Asia Tenggara telah meningkat rata-rata 3% per tahun selama dua dekade terakhir, dan ini tren berlanjut. hingga tahun 2030 di bawah pengaturan kebijakan pemerintah masing-masing negara. Dalam studi ini, literature review dari kebijakan pembangunan dan energi terbarukan di Malaysia, Thailand, Indonesia, Filipina, Vietnam dan Singapura dipilih menjadi fokus utama karena negara-negara tersebut memiliki PDB dan populasi yang relatif lebih tinggi dibandingkan dengan negara-negara ASEAN lainnya. Regulasi merupakan kebijakan dan tata kelola terkait menuju transisi ke energi baru dan terbarukan yang dipandang lebih efisien, memerlukan rangkaian tindakan yang dirancang secara strategis yang melibatkan semua level kebijakan, dari lokal hingga global. Oleh karena itu, diperlukan pandangan yang argumentatif untuk menentukan unsur-unsur dalam kebijakan dan regulasi ke depan. Penelitian ini bertujuan untuk mengetahui faktor-faktor kunci yang membentuk prospek kebijakan transisi energi dalam pengembangan energi terbarukan di kawasan ASEAN ke depan dan mendorong percepatan aktualisasi kebijakan yang dibuat"
+  },
+  {
+   "paperId": "c4d16b0b090ebb9943ec04e3d618d1edc5dcab73",
+   "externalIds": {
+    "DOI": "10.47611/jsrhs.v13i2.6811",
+    "CorpusId": 272195264
+   },
+   "url": "https://www.semanticscholar.org/paper/c4d16b0b090ebb9943ec04e3d618d1edc5dcab73",
+   "title": "Renewable Energy in Southeast Asia",
+   "venue": "Journal of student-scientists' research",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "http://dx.doi.org/10.47611/jsrhs.v13i2.6811",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47611/jsrhs.v13i2.6811?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47611/jsrhs.v13i2.6811, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-31",
+   "authors": [
+    {
+     "authorId": "2287160551",
+     "name": "Jeong Woo"
+    }
+   ],
+   "abstract": "Abstract:  \n  \nRenewable energy sources, such as solar, wind, and hydropower, offer great promise in the fight against climate change. The use of these clean energy sources can significantly reduce greenhouse gas emissions and help mitigate the impacts of global warming. One of the biggest advantages of renewable energy is that it is sustainable and does not deplete natural resources. Unlike fossil fuels, which are finite and create harmful emissions when burned, renewable energy sources can be replenished naturally and emit little to no greenhouse gasses. This makes them a crucial component in the transition to a low-carbon economy and a sustainable future. \nSolar energy has great potential in Southeast Asia due to the region's high levels of solar irradiation. Several countries in the region, including Thailand, Malaysia, Vietnam, and the Philippines, have implemented policies and incentives to encourage the deployment of solar energy systems. \nHydropower is another significant source of renewable energy in Southeast Asia, particularly in countries with large rivers and mountainous regions such as Laos, Cambodia, and Myanmar. However, the development of large hydropower projects has faced criticism due to their potential environmental and social impacts. \nWind energy is less prevalent in Southeast Asia, but there are increasing efforts to develop wind power in some countries, such as Vietnam and the Philippines. However, the region's low wind speeds and limited land availability for wind turbines have limited the potential for large-scale deployment. \nBut what is the status of the uptake of solar, wind, and hydropower energies? This paper focuses on South East Asia and the uptake of renewable energies in the past two decades. We focus on the different laws and policies in place in multiple countries and how those laws have been implemented in the countries, and what remains to be done."
+  },
+  {
+   "paperId": "b87ca5b093f558a7411ba411d13c1fb891da2f0f",
+   "externalIds": {
+    "DOI": "10.1007/s11869-026-02146-7",
+    "CorpusId": 295386662
+   },
+   "url": "https://www.semanticscholar.org/paper/b87ca5b093f558a7411ba411d13c1fb891da2f0f",
+   "title": "When growth is not enough: Income thresholds, clean energy transition, and the asymmetric health burden of air pollution in Southeast Asia",
+   "venue": "Air quality, atmosphere and health",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1007/s11869-026-02146-7",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11869-026-02146-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11869-026-02146-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-10-31",
+   "authors": [
+    {
+     "authorId": "2407153513",
+     "name": "Quoc Lap Nguyen"
+    }
+   ],
+   "abstract": "Southeast Asia is exposed to two distinct air-pollution pathways: ambient particulate matter, partly shaped by transboundary haze, and household solid-fuel cooking, which is closely tied to energy poverty. This study proposes a Dual-Pathway Energy-Pollution-Health framework that combines Grossman’s health capital model with an extended Environmental Kuznets Curve logic, and examines it with an eleven-country ASEAN panel for 2000 to 2023 and a 2019 cross-section of mortality attributed to ambient and household air pollution. Because the number of countries is small, inference relies on wild cluster bootstrap procedures, simulated critical values for unit root tests, and a bootstrap cointegration test. Income is positively associated with life expectancy, although statistical significance weakens under small-cluster inference and the evidence for a stable long-run relationship is moderate and sensitive to the lag structure. A Hansen threshold model identifies an income level at which the association between renewable electricity share and life expectancy changes from statistically null to negative, a pattern that is stable across robustness checks and is read as reflecting national grid composition. Cross-sectional estimates indicate a larger income elasticity for household than for ambient mortality under most estimators, although a rank-based estimator does not reproduce this ordering. Mediation results depend on the control set, and panel Granger tests indicate predictive content in both directions between income and life expectancy. The evidence is therefore suggestive and conditional on the data limitations discussed."
+  },
+  {
+   "paperId": "8d01cd1c88835d2aeadfcbdd827d53ca12d0eb1a",
+   "externalIds": {
+    "DOI": "10.1051/e3sconf/202565001011",
+    "CorpusId": 282026338
+   },
+   "url": "https://www.semanticscholar.org/paper/8d01cd1c88835d2aeadfcbdd827d53ca12d0eb1a",
+   "title": "Strategic Energy Transition in Higher Education: A Multi-Level Perspective on Renewable Energy Innovation at Universitas Diponegoro",
+   "venue": "E3S Web of Conferences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2025/50/e3sconf_icenis2025_01011.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/e3sconf/202565001011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/e3sconf/202565001011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "97776113",
+     "name": "C. N. Bramiana"
+    },
+    {
+     "authorId": "2070424579",
+     "name": "Khaerul Anwar"
+    },
+    {
+     "authorId": "2385237664",
+     "name": "Reyzan Aditya Hafidz"
+    },
+    {
+     "authorId": "2385431901",
+     "name": "A. Setiawan"
+    },
+    {
+     "authorId": "2385237642",
+     "name": "Tri Laksmi Indrasweri"
+    }
+   ],
+   "abstract": "Energy transition has become a global imperative in response to climate change, energy security, and sustainable development goals. As centers of knowledge and innovation, universities have a crucial role to play in leading and modeling this transition. This article explores the strategic potential and challenges of implementing renewable energy sources (RES) at Universitas Diponegoro (UNDIP), Indonesia. Drawing insights from student-led analyses, the article presents a comprehensive overview of UNDIP’s opportunities, stakeholder involvement, technical feasibility, environmental and financial implications, as well as the role of campus communities in enabling this transformation. The findings contribute to a growing body of knowledge on how higher education institutions in Southeast Asia can spearhead sustainable energy futures."
+  },
+  {
+   "paperId": "2aa26e4d8114d6869fcb9da5e084d21f0e57f10a",
+   "externalIds": {
+    "DOI": "10.1080/13600826.2025.2455087",
+    "CorpusId": 276110495
+   },
+   "url": "https://www.semanticscholar.org/paper/2aa26e4d8114d6869fcb9da5e084d21f0e57f10a",
+   "title": "Climate Change and Just Energy-Agrifood Transition: A View from Southeast Asia",
+   "venue": "Global Society",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/13600826.2025.2455087?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/13600826.2025.2455087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-02",
+   "authors": [
+    {
+     "authorId": "108432802",
+     "name": "Prapimphan Chiengkul"
+    }
+   ],
+   "abstract": "ABSTRACT Discussions about just renewable energy transition tend to focus on helping workers in the energy sector and on creating decent and green jobs. However, given the close interconnections between climate change, inequality, energy transition and the agrifood sector, this article argues that the conceptualisation of just energy transition should be extended to “just energy-agrifood transition”, such that not only principles pertaining to energy justice but also to agrarian justice are considered in a comprehensive manner. From a political ecology and critical political economy perspective, and by drawing on examples from Southeast Asia, the article additionally proposes broad policy guidelines to help advance just energy-agrifood transition. This includes the promotion of universal access to energy and food, technical solutions embedded with progressive socio-economic goals, measures to address negative socio-environmental consequences of food-energy transitions, more egalitarian distribution of green jobs and productive resources, and ground-up approaches to socio-ecologically sustainable agrifood systems."
+  },
+  {
+   "paperId": "7086fda791e423184aa732f79bf96c87af9d9d0a",
+   "externalIds": {
+    "MAG": "2922561566",
+    "DOI": "10.1016/J.SCITOTENV.2019.03.273",
+    "CorpusId": 109529680,
+    "PubMed": "31018425"
+   },
+   "url": "https://www.semanticscholar.org/paper/7086fda791e423184aa732f79bf96c87af9d9d0a",
+   "title": "Renewable energy in Southeast Asia: Policies and recommendations.",
+   "venue": "Science of the Total Environment",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.SCITOTENV.2019.03.273?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.SCITOTENV.2019.03.273, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-06-01",
+   "authors": [
+    {
+     "authorId": "101560269",
+     "name": "Erdiwansyah"
+    },
+    {
+     "authorId": "30929410",
+     "name": "R. Mamat"
+    },
+    {
+     "authorId": "144160289",
+     "name": "M. Sani"
+    },
+    {
+     "authorId": "46680248",
+     "name": "K. Sudhakar"
+    }
+   ],
+   "abstract": "Southeast Asian countries stand at a crossroads concerning their shared energy future and heavily rely on fossil fuels for transport and electricity. Within Asia, especially India and China lead the world renewable energy generation undergoing a period of energy transition and economic transformation. Southeast Asian countries have huge potentials for sustainable energy sources. However they are yet to perform globally in renewable energy deployment due to various challenges. The primary objective of the study is to examine the renewable energy growth and analyse the government policies to scale up the deployment of renewables for power generation substantially. The study also offers policy recommendations to accelerate renewable energy exploitation sustainably across the region. To achieve the ambitious target of 23% renewables in the primary energy mix by 2025, ASEAN Governments should take proactive measures like removal of subsidies of fossil fuels, regional market integration and rapid implementation of the existing project. Eventually, each of this strategy will necessitate sustained leadership, political determination, and concrete actions from stakeholders, in particular, increased cooperation across the region."
+  },
+  {
+   "paperId": "27d79dd5b45f1b7433778111e541a9fe89562655",
+   "externalIds": {
+    "DOI": "10.1109/NIGERCON62786.2024.10927210",
+    "CorpusId": 277305020
+   },
+   "url": "https://www.semanticscholar.org/paper/27d79dd5b45f1b7433778111e541a9fe89562655",
+   "title": "Managing Renewable Energy In The Context Of Southeast Asia: A Case Study Of Vietnam",
+   "venue": "2024 IEEE 5th International Conference on Electro-Computing Technologies for Humanity (NIGERCON)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/NIGERCON62786.2024.10927210?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/NIGERCON62786.2024.10927210, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-11-26",
+   "authors": [
+    {
+     "authorId": "2487172021",
+     "name": "Van Hong Thi Ha"
+    },
+    {
+     "authorId": "2428763509",
+     "name": "Nong Bang Nguyen"
+    },
+    {
+     "authorId": "2480724151",
+     "name": "Hai Van Nguyen"
+    }
+   ],
+   "abstract": "Since the 2021 United Nations Climate Change Conference, the Asia-Pacific region has vigorously developed the renewable energy (RE) sector in Agriculture, Construction, Industry, Transport, and Power to solve climate problems. According to a report by the ADB, Vietnam has the most significant RE growth rate in Southeast Asia, with 16.5 GW in solar PV capacity compared to Thailand (3.2), Malaysia (2.6), and the Philippines (1.4). As of 2021, RE accounted for 11.8% of the country's electricity capacity. Vietnam has become a symbol of Southeast Asia in the transition of RE, serving socioeconomic development and adapting to climate change towards Net Zero. RE development in Vietnam is associated with promulgating many RE policies to turn the potential into reality. However, this overdevelopment creates unaccounted consequences, such as environmental and social impacts and the connection of the national power system. This article presents the issues of RE management in Vietnam over the past ten years. The article includes parts of policies, implementation processes, and environmental and social issues. The article consists of recommendations for further research."
+  },
+  {
+   "paperId": "b8c95a60875bd50cf7d2e108755a1bf32e32e308",
+   "externalIds": {
+    "MAG": "3025552685",
+    "DOI": "10.1007/s40974-020-00166-2",
+    "CorpusId": 219476682
+   },
+   "url": "https://www.semanticscholar.org/paper/b8c95a60875bd50cf7d2e108755a1bf32e32e308",
+   "title": "Review of the impact of renewable energy development on the environment and nature conservation in Southeast Asia",
+   "venue": "",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s40974-020-00166-2.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40974-020-00166-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40974-020-00166-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2020-08-01",
+   "authors": [
+    {
+     "authorId": "2106001378",
+     "name": "Santi Pratiwi"
+    },
+    {
+     "authorId": "32056671",
+     "name": "Nataly Juerges"
+    }
+   ],
+   "abstract": "Renewable energy development is growing rapidly due to vast population growth and the limited availability of fossil fuels in Southeast Asia. Located in a tropical climate and within the Ring of Fire, this region has great potential for a transition toward renewable energy utilization. However, numerous studies have found that renewable energy development has a negative impact on the environment and nature conservation. This article presents a systematic literature review of the impact of renewable energy development on the environmental and nature conservation in Southeast Asia. Based on a review of 132 papers and reports, this article finds that the most reported negative impact of renewable energy development comes from hydropower, biofuel production, and geothermal power plants. Solar and wind power might also have a negative impact, albeit one less reported on than that of the other types of renewable energy. The impact was manifested in environmental pollution, biodiversity loss, habitat fragmentation, and wildlife extinction. Thus, renewable energy as a sustainable development priority faces some challenges. Government action in integrated policymaking will help minimize the impact of renewable energy development."
+  },
+  {
+   "paperId": "a31e0335f738d277afa77a1a79aeee99812ec343",
+   "externalIds": {
+    "DOI": "10.14710/jwl.12.1.73-95",
+    "CorpusId": 273603480
+   },
+   "url": "https://www.semanticscholar.org/paper/a31e0335f738d277afa77a1a79aeee99812ec343",
+   "title": "Does The Consumption of Energy, Renewable Energy, Natural Resources and Emissions Affect Gross Domestic Product?: The Study of Southeast Asia",
+   "venue": "Jurnal Wilayah dan Lingkungan",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://ejournal2.undip.ac.id/index.php/jwl/article/download/15131/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.14710/jwl.12.1.73-95?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14710/jwl.12.1.73-95, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-08-15",
+   "authors": [
+    {
+     "authorId": "2114374823",
+     "name": "M. Firmansyah"
+    },
+    {
+     "authorId": "2099201313",
+     "name": "Nanang Rusliana"
+    },
+    {
+     "authorId": "2294075819",
+     "name": "Ade Komaludin"
+    }
+   ],
+   "abstract": "We face the challenges of economic growth productivity which still uses dirty energy and minimal efforts to cleaner energy transition. The debate on efforts to increase productivity by diverting dirty energy into clean energy while still preserving nature has long been discused. Southeast Asia is a region that has massive development potential with valuable natural resources facing regional threats in addition to decreasing environmental quality but also prosperity. This study aims to identify initial steps are needed to control energy consumption, which is still considered dirty, the extent of the scope of Southeast Asia's current clean energy transition and how emissions can be a determinant of the decline in regional economic produtivity. This is the first study to combine the Cobb-Douglass production function model with three models that focus on (1) energy consumption, (2) renewable energy and natural resources, and (3) emissions. The data used is secondary data for the period 2004-2018 sourced from the World Bank Development Indicator and ourworlddata.org. Panel data regression was used as an analytical technique. This study was conducted in the Southeast Asia region (with selected countries with developing economies and insutries, namely Indonesia, Malaysia, Thailand, the Philippines and Vietnam). The results of this study show that in the energy consumption model, only labor has a significant effect on GDP, in model B there is renewable energy consumption and the labor force which significantly affects GDP and in model C there are CO2 emissions and GHC emissions that affect GDP in the Southeast Asia region. This research will provide input to policy makers and growth analysts to form policies for sustainable economic development in Southeast Asia."
+  },
+  {
+   "paperId": "b6a5057c8d123d2b3bf9488e2f082d697a323c50",
+   "externalIds": {
+    "DOI": "10.1007/s11356-024-32043-4",
+    "CorpusId": 267632722,
+    "PubMed": "38347353"
+   },
+   "url": "https://www.semanticscholar.org/paper/b6a5057c8d123d2b3bf9488e2f082d697a323c50",
+   "title": "Renewable energy consumption — financial globalization-tourism nexus with nonlinearity and cross-sectional dependence during Asia’s carbon-free transition",
+   "venue": "Environmental science and pollution research international",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11356-024-32043-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11356-024-32043-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-12",
+   "authors": [
+    {
+     "authorId": "2153680801",
+     "name": "Lin Fang"
+    },
+    {
+     "authorId": "2118094201",
+     "name": "Bin Hu"
+    },
+    {
+     "authorId": "2556680567",
+     "name": "F. Sher"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "99903d8526cca122d0c62997eb76df107e6d0d89",
+   "externalIds": {
+    "DOI": "10.1038/s44168-025-00312-8",
+    "CorpusId": 283428587
+   },
+   "url": "https://www.semanticscholar.org/paper/99903d8526cca122d0c62997eb76df107e6d0d89",
+   "title": "Energy trade, emissions and import dependence in Southeast Asia",
+   "venue": "npj Climate Action",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s44168-025-00312-8.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s44168-025-00312-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s44168-025-00312-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-11-29",
+   "authors": [
+    {
+     "authorId": "2087686",
+     "name": "M. Jakob"
+    },
+    {
+     "authorId": "2303890346",
+     "name": "Indra Overland"
+    }
+   ],
+   "abstract": "In recent years, Southeast Asia has experienced rapid growth in energy use and greenhouse gas emissions. At the same time, the countries in the region have increasingly become net importers of fossil energy carriers. Against this backdrop, we use a novel decomposition approach to illustrate the historical linkages between energy trade and emissions in ten countries in Southeast Asia. Projecting future developments with and without additional efforts to reduce emissions, we show that an energy transition in line with climate targets laid down in the nationally determined contributions of these countries would greatly reduce their dependence on energy imports. We estimate that decarbonization could potentially reduce aggregate spending on fossil fuel imports by a total of more than USD 140 bn by 2030. Such savings could cover more than 70% of the investments in renewable energy sources required to meet these countries’ climate targets under the Paris Agreement."
+  },
+  {
+   "paperId": "a9ca84efc69e8e6f708e6965b23b607357550717",
+   "externalIds": {
+    "DOI": "10.1007/s40974-020-00166-2",
+    "CorpusId": 256478440
+   },
+   "url": "https://www.semanticscholar.org/paper/a9ca84efc69e8e6f708e6965b23b607357550717",
+   "title": "Review of the impact of renewable energy development on the environment and nature conservation in Southeast Asia",
+   "venue": "Energy Ecology and Environment",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s40974-020-00166-2.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40974-020-00166-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40974-020-00166-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2020-05-16",
+   "authors": [
+    {
+     "authorId": "2106001378",
+     "name": "Santi Pratiwi"
+    },
+    {
+     "authorId": "32056671",
+     "name": "Nataly Juerges"
+    }
+   ],
+   "abstract": "Renewable energy development is growing rapidly due to vast population growth and the limited availability of fossil fuels in Southeast Asia. Located in a tropical climate and within the Ring of Fire, this region has great potential for a transition toward renewable energy utilization. However, numerous studies have found that renewable energy development has a negative impact on the environment and nature conservation. This article presents a systematic literature review of the impact of renewable energy development on the environmental and nature conservation in Southeast Asia. Based on a review of 132 papers and reports, this article finds that the most reported negative impact of renewable energy development comes from hydropower, biofuel production, and geothermal power plants. Solar and wind power might also have a negative impact, albeit one less reported on than that of the other types of renewable energy. The impact was manifested in environmental pollution, biodiversity loss, habitat fragmentation, and wildlife extinction. Thus, renewable energy as a sustainable development priority faces some challenges. Government action in integrated policymaking will help minimize the impact of renewable energy development."
+  },
+  {
+   "paperId": "7bae8f1d1f328c28d07b7e68fea1f9b614a53723",
+   "externalIds": {
+    "DOI": "10.1007/s11625-024-01588-1",
+    "CorpusId": 274906393
+   },
+   "url": "https://www.semanticscholar.org/paper/7bae8f1d1f328c28d07b7e68fea1f9b614a53723",
+   "title": "Are all renewable energy sources the same? A comparative analysis of public perceptions and preferences for renewable energy types in Southeast Asian cities",
+   "venue": "Sustainability Science",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11625-024-01588-1.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11625-024-01588-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11625-024-01588-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-12-19",
+   "authors": [
+    {
+     "authorId": "2505604494",
+     "name": "Daniel del Barrio Alvarez"
+    },
+    {
+     "authorId": "2282431849",
+     "name": "Nan Wang"
+    },
+    {
+     "authorId": "2267089499",
+     "name": "Masahiro Sugiyama"
+    },
+    {
+     "authorId": "114376228",
+     "name": "M. Numata"
+    },
+    {
+     "authorId": "2376748149",
+     "name": "T. Truong"
+    },
+    {
+     "authorId": "153220722",
+     "name": "A. Aziz"
+    },
+    {
+     "authorId": "1402048597",
+     "name": "Rosalina Palanca-Tan"
+    },
+    {
+     "authorId": "2507026774",
+     "name": "Aung Ze Ya"
+    },
+    {
+     "authorId": "2421855534",
+     "name": "Ariel Anshory Yusuf"
+    },
+    {
+     "authorId": "72669974",
+     "name": "A. N. A. Ghani"
+    },
+    {
+     "authorId": "107735727",
+     "name": "G. Castillo"
+    },
+    {
+     "authorId": "108023584",
+     "name": "Martin D. Siyaranamual"
+    },
+    {
+     "authorId": "30568143",
+     "name": "Sengprasong Phrakonkham"
+    },
+    {
+     "authorId": "13985117",
+     "name": "V. Nitivattananon"
+    },
+    {
+     "authorId": "9241790",
+     "name": "Wunna Swe"
+    }
+   ],
+   "abstract": "The realization of a sustainable energy transition in Southeast Asia will require the overcoming of the current high reliance on fossil fuels in the energy mix and the steady and rapid growth in energy demand in the region. To achieve an economically, socially, and environmentally sustainable energy transition in the region, it is vital to utilize all available renewable energy sources to the greatest extent possible. It is therefore essential to gain an understanding of how citizens in each country perceive the available renewables. However, the majority of existing literature in this region has been constrained by a narrow focus on a comparison between fossil and renewable energy. Furthermore, while previous research has predominantly concentrated on single-country analyses, there are significant implications that could be disseminated across ASEAN countries. In light of the aforementioned limitations of existing literature, this paper aims to make a contribution by undertaking a comparative analysis of public preferences for renewable energy sources in eight major urban areas in seven Southeast Asian countries. The findings of this study indicate that, while climate change (or global warming) is perceived as a significant issue, it is often regarded as a secondary concern compared to other environmental issues. This is despite the fact that many of these issues are closely interlinked with and would be exacerbated by climate change. Furthermore, the findings suggest that solar energy is the most preferred renewable source across all urban areas surveyed. In contrast, bioenergy (or biomass) is generally the least preferred source of energy in all cities. There is considerable variation in perceptions of wind, hydro, and geothermal energy, with a high degree of variability between and within countries. These similarities and differences in preferences for renewable energy sources appear to be associated with varying levels of knowledge or familiarity with each source, which is consistent with differing willingness to pay for each source. These findings highlight the necessity for policies that address this apparent lack of understanding of how the transition to a sustainable energy system and each renewable energy technology can help mitigate the impact of environmental problems highlighted in each society."
+  },
+  {
+   "paperId": "14fb77faf078255d7f89e127da3e29b8a3b9c08e",
+   "externalIds": {
+    "DBLP": "journals/algorithms/WangNY25",
+    "DOI": "10.3390/a18050297",
+    "CorpusId": 278809415
+   },
+   "url": "https://www.semanticscholar.org/paper/14fb77faf078255d7f89e127da3e29b8a3b9c08e",
+   "title": "A Regret-Enhanced DEA Approach to Mapping Renewable Energy Efficiency in Asia's Growth Economies",
+   "venue": "Algorithms",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/1999-4893/18/5/297/pdf?version=1747754480",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/a18050297?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/a18050297, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-20",
+   "authors": [
+    {
+     "authorId": "2144564244",
+     "name": "Chia-Nan Wang"
+    },
+    {
+     "authorId": "2088991848",
+     "name": "Nhat-Luong Nhieu"
+    },
+    {
+     "authorId": "2114055860",
+     "name": "Yu Ye"
+    }
+   ],
+   "abstract": "Renewable energy (RE) is pivotal to achieving both environmental sustainability and long-term energy security, yet systematic evidence on the efficiency of RE investment across South and Southeast Asia remains sparse. This study introduces a rejoice–regret utility cross-efficiency DEA (RRUCE-DEA) framework that fuses conventional quantitative efficiency measurement with the behavioral insights of regret theory. Applying the model to 16 countries shows India as the benchmark for efficient RE investment allocation, followed closely by Pakistan and Indonesia. The Philippines, Malaysia, and Vietnam also post strong results, whereas Sri Lanka and Thailand reveal moderate performance with clear room for improvement. At the lower end of the spectrum, Cambodia, Myanmar, and Afghanistan encounter significant hurdles that must be overcome to achieve a successful clean energy transition. A sensitivity analysis further explores how variations in the regret aversion and rejoice–regret coefficients affect the RRUCE-DEA outcomes. The findings provide actionable guidance for policymakers and investors seeking to channel resources toward a cleaner, more sustainable regional energy portfolio."
+  },
+  {
+   "paperId": "06b59dc8a6f503004491322e69378e50e513b2d0",
+   "externalIds": {
+    "DOI": "10.14738/aivp.1303.18951",
+    "CorpusId": 281135671
+   },
+   "url": "https://www.semanticscholar.org/paper/06b59dc8a6f503004491322e69378e50e513b2d0",
+   "title": "Navigating Energy Scarcity Risks: The Dual Impact of Geopolitical Uncertainty on Indonesia's Transition to Renewable Energy",
+   "venue": "Advances In Image and Video Processing",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journals.scholarpublishing.org/index.php/AIVP/article/download/18951/11249",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.14738/aivp.1303.18951?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14738/aivp.1303.18951, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-25",
+   "authors": [
+    {
+     "authorId": "2306528042",
+     "name": "Eka Sudarmaji"
+    }
+   ],
+   "abstract": "As the world's fourth most populous country and Southeast Asia's largest economy, Indonesia faces unique challenges in balancing economic growth, energy security, and environmental sustainability. The research aims to provide insights into how geopolitical risks and energy consumption patterns influence the adoption of renewable energy sources, particularly in the context of Indonesia's evolving energy policies. The study employed the Autoregressive Distributed Lag (ARDL) model to analyse time-series data from 1990 to 2017. The ARDL model is particularly suited for examining short-term and long-term relationships between variables. The research found that geopolitical risks and immediate energy security concerns increased fossil fuel consumption in the short term. However, in the long term, these risks accelerated investments in renewable energy sources, driven by the pursuit of energy independence and environmental sustainability. The error correction term for renewal energy consumption (REC) is -97.179, indicating a rapid adjustment to equilibrium deviations. Energy consumption (EC) showed a positive long-term relationship with REC (4.893), suggesting that higher energy demand correlates with increased renewable energy adoption over time. Fossil fuel consumption (FFC) also exhibited a positive long-term relationship with REC (101.588), which may reflect initial reliance on fossil fuels to stabilise the economy before transitioning to renewables. The result highlighted the importance of balancing short-term energy security needs with long-term sustainability goals. The findings contributed to the broader understanding of energy economics in developing countries, offering valuable insights for navigating the global energy transition amidst geopolitical uncertainties."
+  },
+  {
+   "paperId": "da6ce9fbef69cd4aab35bd8d1a8d67a09837efb7",
+   "externalIds": {
+    "DOI": "10.3390/su16051969",
+    "CorpusId": 268163989
+   },
+   "url": "https://www.semanticscholar.org/paper/da6ce9fbef69cd4aab35bd8d1a8d67a09837efb7",
+   "title": "Energy Transition in Vietnam: A Strategic Analysis and Forecast",
+   "venue": "Sustainability",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2071-1050/16/5/1969/pdf?version=1709045358",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su16051969?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su16051969, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-27",
+   "authors": [
+    {
+     "authorId": "2289345722",
+     "name": "M. P. Nguyen"
+    },
+    {
+     "authorId": "81495485",
+     "name": "T. Ponomarenko"
+    },
+    {
+     "authorId": "2289950289",
+     "name": "N. Nguyen"
+    }
+   ],
+   "abstract": "Energy landscapes in Asia and other regions are currently undergoing a transformation aimed at increasing the share of clean energy sources. This article analyzes and forecasts the electricity demand in Vietnam, examining existing constraints that necessitate the shift from coal to renewable energy sources. The rapid economic growth in Vietnam is driving a substantial surge in electricity demand, projected to reach 124 thousand MW by 2030 according to the National Electricity Plan, positioning Vietnam second in Southeast Asia. This surge poses a significant challenge to national energy security, given the impracticality of effective coal mining in the country and the imperative to develop renewable energy sources. Anticipating the changes in Vietnam’s energy mix by 2050, this study foresees a substantial reduction in dependence on coal production. Government investment and green energy investment funds such as JETP are strategically directed towards renewable energy sources, including solar, wind, biomass, hydrogen energy, and efficient energy storage technologies. Consequently, this research substantiates the viability of an energy transition from coal to green energy in Vietnam. The article presents an assessment of the rate of replacing coal with renewable energy sources, taking into consideration various scenarios for economic development, energy consumption growth, and the utilization of renewable energy sources."
+  }
+ ]
+}

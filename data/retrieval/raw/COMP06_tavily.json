@@ -1,0 +1,166 @@
+{
+ "query": "Phishing detection using natural language processing",
+ "retrieved_at": "2026-11-18T17:45:06.031045+00:00",
+ "data": [
+  {
+   "url": "https://www.thesesjournal.com/index.php/1/article/view/1688",
+   "title": "PREDICTING PHISHING ATTACKS USING NATURAL LANGUAGE PROCESSING AND USER BEHAVIORAL INDICATORS | Spectrum of Engineering Sciences",
+   "content": "examines semantic, syntactic, and pragmatic features of emails and messaging content to capture subtle cues of phishing attempts. In parallel, it analyzes user interaction patterns, including click behaviors, response times, and historical susceptibility to phishing, thereby recognizing the socio-technical dimensions of cyber security threats. A supervised machine learning methodology is employed, utilizing benchmark phishing datasets augmented with simulated behavioral data to enhance model [...] to enhance model generalizability. The findings indicate that hybrid models integrating content analysis with behavioral features significantly outperform content-only approaches. These models achieve higher precision, recall, and overall robustness, demonstrating the ability to detect previously unseen phishing strategies with greater reliability. The study underscores the importance of accounting for human factors alongside technical indicators in cybersecurity research, highlighting the need [...] social engineering tactics, and polymorphic strategies employed by attackers in modern phishing campaigns. Addressing this challenge requires an integrated approach that considers both the content of phishing messages and the behavioral characteristics of users interacting with them. This research proposes a comprehensive framework for predicting phishing attacks by combining advanced Natural Language Processing (NLP) techniques with user behavioral indicators. The study examines semantic,",
+   "score": 0.7851439,
+   "raw_content": null,
+   "id": "42ffe0-00"
+  },
+  {
+   "url": "https://insights2techinfo.com/role-of-natural-language-processing-nlp-in-email-phishing-detection",
+   "title": "Role of Natural Language Processing (NLP) in Email Phishing Detection",
+   "content": "|  |  |  |\n --- \n| Step | Description | Example / Representation |\n| Input Email | Raw email text to analyze | “Your account has been suspended. Please verify your password immedi- ately.” |\n| Tokenization | Split text into to- kens using BERT tokenizer | [CLS], Your, account, has, been, sus- pended, ., Please, verify, your, pass- word, immediately, ., [SEP] | [...] embeddings such as TF-IDF and BoW to convert email text into numerical features based on calculated word frequencies. [...] marks the end of the input. In the self-attention stage, the word verify pays attention to the words account, password, and suspend, which makes the model understand that this sentence contains a threat.",
+   "score": 0.7735587,
+   "raw_content": null,
+   "id": "d1c52d-01"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=d_o8C-T9ji0",
+   "title": "Leveraging NLP for Phishing Detection and Email Security | Exclusive Lesson",
+   "content": "the linguistic patterns and structures within emails, NLP can effectively identify potentially harmful messages, providing a more nuanced and robust defense against cyber threats.Implementing NLP in phishing detection involves several actionable steps, beginning with data preprocessing. Emails must be translated into a format suitable for machine learning models, which includes tokenization, stop-word removal, and stemming or lemmatization. Tokenization breaks down the text into individual [...] [1:16] While stemming and lemitization reduce words to their base or root forms, ensuring that variations of a word are recognized as a single entity.\n[1:27] Once the data is pre-processed, feature extraction is essential. NLP tools like term frequency, inverse document\n[1:34] frequency, and word embeddings such as word tovec or globe are commonly used.\n[1:39] TF assesses the importance of a word within an email relative to a collection of emails, helping to highlight terms [...] [2:15] These models learn from historical data, adjusting to identify patterns indicative of fishing attempts. For\n[2:22] instance, an SVM might be trained to recognize fishing emails based on the presence of certain phrases commonly used in scam emails, such as urgent action required or verify your account.\n[2:35] Deep learning models, particularly recurrent neural networks and transformers, provide advanced methodologies for fishing detection.",
+   "score": 0.7711549,
+   "raw_content": null,
+   "id": "180e20-02"
+  },
+  {
+   "url": "https://github.com/Justmephoenix/PHISHING-DETECTION-WITH-NLP",
+   "title": "GitHub - Justmephoenix/PHISHING-DETECTION-WITH-NLP · GitHub",
+   "content": "<!--THE END-->\n\n- Utilizes NLP to analyze text content for phishing indicators.\n- Trains a machine learning model to classify messages as either phishing or legitimate.\n- Implements a user-friendly interface for easy interaction.\n\nThe model was trained on a diverse dataset comprising of both phishing and legitimate messages. The dataset was carefully curated to ensure a representative sample. [...] This project aims to develop a phishing detection system utilizing Natural Language Processing (NLP) techniques. The goal is to identify potentially malicious content within emails and messages, providing an additional layer of security for users.\n\n- Python\n- Natural Language Processing (NLP) libraries (e.g., NLTK, spaCy)\n- Machine Learning algorithms (e.g., SVM, Random Forest)\n- PowerBI for visualization and presentation\n\n<!--THE END--> [...] The model achieved an accuracy of \\[insert accuracy here] on the test dataset, demonstrating its effectiveness in identifying phishing attempts.\n\n- Incorporate more advanced NLP techniques for improved feature extraction.\n- Expand the dataset to enhance model robustness.\n- Implement real-time monitoring for immediate threat detection.\n- Zero Day Phishing in which whenever a phishing mail will created the ai will automatically block those spams.",
+   "score": 0.7588682,
+   "raw_content": null,
+   "id": "4d63b7-03"
+  },
+  {
+   "url": "https://www.cs.rochester.edu/~nhossain/icisc-2013-phishing.pdf",
+   "title": "Semantic Feature Selection for Text with Application to Phishing ...",
+   "content": "This is the ﬁrst detailed comparison of human-intuition based and statistical NLP based methods for phishing detection. We can also develop a comprehensive and eﬀective NLP based phishing detection method by combining the link and header analysis as suggested in  and in .\nSpeciﬁcally, our statistical email classiﬁer, achieves detection rates above 95% for phishing emails with an accuracy higher than 97% on the non-phishing emails. [...] Incorporating NLP and machine learning,  uses a 3-layered approach to phishing email detection. A topic model is built using Probabilistic Latent Semantic Analysis in the ﬁrst layer, then Adaboost and Co-training are used to develop a robust classiﬁer, which achieves an F-score of 1 on the test set, raising the possibility of overﬁtting the data. Machine learning phishing detection methods have to be updated regularly to adapt to new directions taken by phishers, making the maintenance process [...] 2 Natural Language Preliminaries Some of our classiﬁers apply the following NLP techniques on the email text: 1  4 Rakesh Verma and Nabil Hossain i) lexical analysis: to break the email text into sentences and to further split these sentences into words ii) part-of-speech tagging: to tag each word with its part-of-speech using the Stanford POS tagger iii) named entity recognition: to identify the named entities, which include proper nouns such as names of organizations, people, or locations iv)",
+   "score": 0.7507356,
+   "raw_content": null,
+   "id": "2d6239-04"
+  },
+  {
+   "url": "https://www.proofpoint.com/us/threat-reference/natural-language-processing",
+   "title": "What Is Natural Language Processing (NLP)? Meaning | Proofpoint US",
+   "content": "Phishing attacks often rely on deceptive emails or websites that mimic legitimate sources. NLP can analyze the language, tone, and context of these communications to identify potential phishing attempts. Techniques like named entity recognition and URL analysis are particularly useful. Financial institutions and security firms use NLP to scan emails and websites for signs of phishing, protecting customers from fraud and data breaches.\n\n#### Machine Translation [...] #### Social Engineering Detection\n\nPhishing and social engineering attacks often rely on deceptive language to manipulate victims. NLP can analyze the language used in emails, websites, and other communications to identify suspicious patterns, unusual requests, or imitated writing styles. By leveraging techniques like text classification, sentiment analysis, and anomaly detection, NLP can fortify an organization’s defenses against these types of attacks.\n\n#### Malware and Threat Analysis [...] This involves identifying and filtering out unsolicited and potentially malicious emails, messages, or comments. NLP techniques like text classification, sentiment analysis, and anomaly detection are used to analyze the content and context of messages to determine if they are spam. For instance, email service providers and security solutions use NLP-based spam filters to protect users from phishing attempts, malware distribution, and other spam-related threats.\n\n#### Phishing Detection",
+   "score": 0.744842,
+   "raw_content": null,
+   "id": "1d558f-05"
+  },
+  {
+   "url": "https://linuxsecurity.com/news/server-security/nlp-phishing-detection",
+   "title": "Email Security Best Practices for Linux Using Open Source Tools",
+   "content": "NLP helps phishing detection by analyzing language, context, and relationships within a message. A trained classifier can use those features to estimate whether the message resembles phishing.\n\nConsider an email asking an employee to change a supplier's bank details immediately. The request, urgency, and claimed authority may warrant review even when the message contains no attachment or suspicious link. [...] Different NLP techniques answer different questions. Understanding those roles helps administrators avoid treating a language-model prediction as proof that an email is safe or malicious.\n\n### Text Classification\n\nText classification assigns a label or score to a message based on patterns learned from examples. A phishing classifier may consider the subject, body, requested action, and combinations of words. [...] Future improvements should be measured against changing attacks, legitimate business workflows, and deployment costs. Larger models alone do not guarantee better protection.\n\n## Frequently Asked Questions\n\n### Can NLP Detect Every Phishing Email?\n\nNo. Short messages, unfamiliar languages, image-based content, and deliberately altered wording can cause mistakes. Combine language analysis with other controls and a reporting process.\n\n### Does NER Verify an Email Sender?",
+   "score": 0.7367796,
+   "raw_content": null,
+   "id": "946b02-06"
+  },
+  {
+   "url": "https://www.cerias.purdue.edu/research/projects/home/detail/396/phishing_email_detection_through_machine_learning_and_word_error_correction",
+   "title": "CERIAS : Phishing Email Detection Through Machine Learning and Word Error Correction",
+   "content": "misspelled word correction and combined-word splitting during the data preprocessing stage. The system leverages state-of-the-art natural language processing (NLP) techniques to enhance detection accuracy. Additionally, to improve model robustness, we utilize datasets from diverse sources and time periods for training and deployment. [...] ## Representative Publications\n\n Deeksha Kulal, Leul Shiferaw and Quamar Niyaz, \"Phishing Email Detection Through Machine Learning and Word Error Correction,\" 2025 17th International Conference on COMmunication Systems and NETworks (COMSNETS), Bengaluru, India, 2025, pp. 1299-1304, doi: 10.1109/COMSNETS63942.2025.10885558.\n\nKeywords: Cybersecurity, Natural Language processing, Phishing detection [...] Phishing is one of the most prevalent and effective fraudulent activities on the Internet. Numerous machine learning (ML)-based models have been developed to detect phishing emails using publicly available datasets (e.g., Nazario, Millersmile). These email datasets have poor grammar structure or incorrect word usage, which ML models often learn as key distinguishing features. With the advent of large language models (LLMs), the grammatical quality and structure of phishing emails have",
+   "score": 0.7318259,
+   "raw_content": null,
+   "id": "e902f6-07"
+  },
+  {
+   "url": "https://eprints.glos.ac.uk/15215",
+   "title": "Email Phishing Detection Using Machine Learning Approaches - Research Repository",
+   "content": "Phishing attacks significantly threaten individuals and organizations, resulting in substantial liabilities. This study investigates multiple machine learning and deep learning approaches to enhance phishing detection, utilizing 208,704 emails comprising 108,693 legitimate and 99,225 phishing emails. Techniques explored include SVM, RF, LR, LSTM, and Bi-LSTM. NLP techniques, such as FastText embedding and lemmatization, were utilized for email text preprocessing. The models were evaluated using [...] |  |  |\n --- |\n| Item Type: | Conference or Workshop Item (Paper) |\n| Uncontrolled Keywords: | Bidirectional Long Short-Term Memory (Bi-LSTM); Cyber Security; Deep Learning (DL); FastText Embedding; Logistic Regression (LR); Long Short-Term Memory (LSTM); Machine Learning (ML); Natural Language Processing (NLP); Phishing; Random Forest (RF); Support Vector Machine (SVM) | [...] evaluated using performance metrics such as recall, F1-score, and Area Under the Receiver Operating Characteristic Curve (ROC-AUC). The experimental results showed that the SVM model achieved an F1-score of 95.43%, a recall of 95.43%, and an AUC of 95.36%. The LSTM model obtained an F1-score of 91.76%, a recall of 91.77%, and an AUC of 97.16%. These findings indicate that SVM excels in precision and recall, while LSTM performs better in distinguishing between phishing and non-phishing emails,",
+   "score": 0.71092945,
+   "raw_content": null,
+   "id": "e6d90d-08"
+  },
+  {
+   "url": "https://nchr.elsevierpure.com/en/publications/a-systematic-literature-review-on-phishing-email-detection-using-",
+   "title": "A Systematic Literature Review on Phishing Email Detection Using ...",
+   "content": "The most frequently used NLP techniques are found to be TF-IDF and word embeddings. Furthermore, the most commonly used datasets for benchmarking phishing email",
+   "score": 0.6910806,
+   "raw_content": null,
+   "id": "725d4c-09"
+  },
+  {
+   "url": "https://philarchive.org/rec/KABPAD",
+   "title": "Phishing Attack Detection Using Natural Language Processing and ...",
+   "content": "NLP techniques can analyze textual data from phishing emails, messages, and websites, identifying suspicious patterns that may be indicative of phishing.",
+   "score": 0.67608553,
+   "raw_content": null,
+   "id": "61c85b-10"
+  },
+  {
+   "url": "https://easychair.org/publications/preprint/wqxJ/open",
+   "title": "EasyChair Preprint Phishing Website URL's Detection Using NLP ...",
+   "content": "This research paper proposes a novel approach to detecting phishing websites using natural language processing (NLP) and machine learning.",
+   "score": 0.65599746,
+   "raw_content": null,
+   "id": "211c9c-11"
+  },
+  {
+   "url": "https://www.rsaconference.com/library/blog/teaching-machines-to-spot-liars-how-nlp-is-reshaping-phishing-detection",
+   "title": "Teaching Machines to Spot Liars: How NLP is Reshaping Phishing ...",
+   "content": "NLP gives machines the ability to understand text contextually, not just scan for keywords. Instead of asking “Is this word suspicious?”, an",
+   "score": 0.63827175,
+   "raw_content": null,
+   "id": "cc08ae-12"
+  },
+  {
+   "url": "https://scholar.smu.edu/cgi/viewcontent.cgi?article=1215&context=datasciencereview",
+   "title": "Phishing Detection Using Natural Language Processing and ...",
+   "content": "This research uses Natural Language Processing (NLP) techniques, clustering, and neural network-based machine learning models to identify phishing attempts",
+   "score": 0.63590103,
+   "raw_content": null,
+   "id": "baaf26-13"
+  },
+  {
+   "url": "https://jurnal.ubhinus.ac.id/IC-ITECHS/article/view/1590",
+   "title": "AI-Based Phishing Attack Detection And Prevention Using Natural ...",
+   "content": "By analyzing the contextual language of messages across multiple platforms, the system can detect and block phishing attempts with high accuracy",
+   "score": 0.6337503,
+   "raw_content": null,
+   "id": "965142-14"
+  },
+  {
+   "url": "https://www.scribd.com/document/705457544/Apurva-sontakke-2018-IEEE-Detecting-Phishing-Attacks-Using-Natural-Language-Processing-and-Machine-Learning",
+   "title": "Phishing Detection via NLP Techniques | PDF - Scribd",
+   "content": "The document summarizes a research paper that proposes a novel approach to detecting phishing attacks using natural language processing and machine learning",
+   "score": 0.6137576,
+   "raw_content": null,
+   "id": "84bd2a-15"
+  },
+  {
+   "url": "https://www.academia.edu/43737988/E_Mail_phishing_detection_using_natural_language_processing_and_machine_learning_techniques",
+   "title": "E-Mail phishing detection using natural language processing and ...",
+   "content": "The study reveals an innovative preprocessing approach that incorporates various Natural Language Processing techniques to enhance phishing detection, achieving",
+   "score": 0.61138195,
+   "raw_content": null,
+   "id": "ea4ba9-16"
+  },
+  {
+   "url": "https://salford-repository.worktribe.com/output/2363839/enhancing-cybersecurity-machine-learning-and-natural-language-processing-for-arabic-phishing-email-detection",
+   "title": "Machine Learning and Natural Language Processing for Arabic ...",
+   "content": "Overall, this study presents a promising approach for detecting phishing emails in both English and Arabic, with high accuracy and efficiency. Thesis Type",
+   "score": 0.55531466,
+   "raw_content": null,
+   "id": "354ad2-17"
+  },
+  {
+   "url": "https://www.springerprofessional.de/en/using-natural-language-processing-for-phishing-detection/19925996",
+   "title": "Using Natural Language Processing for Phishing Detection",
+   "content": "The chapter delves into the use of Natural Language Processing (NLP) to combat phishing attacks, a significant threat in the cybersecurity landscape.",
+   "score": 0.5278337,
+   "raw_content": null,
+   "id": "21ef09-18"
+  },
+  {
+   "url": "https://ask.orkg.org/item/567622206/Phishing-email-detection-using-Natural-Language-Processing-techniques-:-a-literature-survey",
+   "title": "Phishing email detection using Natural Language Processing ...",
+   "content": "Phishing email detection using Natural Language Processing techniques : a literature survey ; Publication date. July 2021 ; Publisher. Elsevier ; Language. English.",
+   "score": 0.51139635,
+   "raw_content": null,
+   "id": "306026-19"
+  }
+ ]
+}

@@ -1,0 +1,889 @@
+{
+ "query": "Prevalence and prevention of type 2 diabetes",
+ "retrieved_at": "2026-11-18T18:06:36.617854+00:00",
+ "data": [
+  {
+   "paperId": "66da94eb9cbc43af5b73d2b80f86befcc579c8b0",
+   "externalIds": {
+    "MAG": "2332951586",
+    "DOI": "10.1056/NEJM200105033441801",
+    "CorpusId": 20548364,
+    "PubMed": "11333990"
+   },
+   "url": "https://www.semanticscholar.org/paper/66da94eb9cbc43af5b73d2b80f86befcc579c8b0",
+   "title": "Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance.",
+   "venue": "New England Journal of Medicine",
+   "year": 2001,
+   "openAccessPdf": {
+    "url": "https://www.nejm.org/doi/pdf/10.1056/NEJM200105033441801?articleTools=true",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1056/NEJM200105033441801?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1056/NEJM200105033441801, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Study",
+    "JournalArticle",
+    "ClinicalTrial"
+   ],
+   "publicationDate": "2001-05-03",
+   "authors": [
+    {
+     "authorId": "145477556",
+     "name": "J. Tuomilehto"
+    },
+    {
+     "authorId": "2109595",
+     "name": "J. Lindström"
+    },
+    {
+     "authorId": "2466253259",
+     "name": "J. Eriksson"
+    },
+    {
+     "authorId": "6282064",
+     "name": "T. Valle"
+    },
+    {
+     "authorId": "1919411",
+     "name": "H. Hämäläinen"
+    },
+    {
+     "authorId": "1397925198",
+     "name": "P. Ilanne-Parikka"
+    },
+    {
+     "authorId": "1397925224",
+     "name": "S. Keinänen-Kiukaanniemi"
+    },
+    {
+     "authorId": "37812131",
+     "name": "M. Laakso"
+    },
+    {
+     "authorId": "6028162",
+     "name": "A. Louheranta"
+    },
+    {
+     "authorId": "4041290",
+     "name": "M. Rastas"
+    },
+    {
+     "authorId": "8941764",
+     "name": "V. Salminen"
+    },
+    {
+     "authorId": "7008227",
+     "name": "M. Uusitupa"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "9388c0e8dda0cb47f177c8fba6c3028186d8c3db",
+   "externalIds": {
+    "DOI": "10.59067/afjhms.v10i2.111",
+    "CorpusId": 281014769
+   },
+   "url": "https://www.semanticscholar.org/paper/9388c0e8dda0cb47f177c8fba6c3028186d8c3db",
+   "title": "Physical Disability Among Adults with Type 2 Diabetes at Bombo Hospital, Tanga Region: Prevalence, Knowledge and Prevention Practices",
+   "venue": "African Journal of Health and Medical Sciences (AFJHMS)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.afjhms.com/index.php/AFJHMS/article/download/111/50",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59067/afjhms.v10i2.111?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59067/afjhms.v10i2.111, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-15",
+   "authors": [
+    {
+     "authorId": "2378357668",
+     "name": "O. Joseph"
+    },
+    {
+     "authorId": "2319952202",
+     "name": "Vivian P. Mushi"
+    },
+    {
+     "authorId": "2378357357",
+     "name": "Laurent Elisaut Marishamu"
+    },
+    {
+     "authorId": "2573391164",
+     "name": "Lwidiko E. Mhamilawa"
+    },
+    {
+     "authorId": "6016238",
+     "name": "I. Mosha"
+    }
+   ],
+   "abstract": "Background \nPhysical disability in adults with Type 2 Diabetes Mellitus (T2DM) often arises from various medical complications, notably Diabetic Peripheral Neuropathy (DPN). However, inadequate statistical data impedes a comprehensive understanding of the pattern of physical disability associated with diabetes in this area. Therefore, this study investigated the current prevalence of physical disability and its association with the level of knowledge and prevention practices among adult T2DM patients attending the diabetic clinic at Bombo Hospital in the Tanga region. \nMethods \nA hospital-based quantitative cross-sectional study design was carried out among adult 337 adult T2DM patients aged 40 years and above attending a diabetic clinic at Bombo Hospital. Data were collected using a structured questionnaire and the Katz Index of Independence in Activities of Daily Living (ADLs). Data was analyzed using descriptive statistics, chi-square, and logistic regression tests. \nResults \nThe study revealed that 59.9% of participants experienced physical disability associated with diabetes. Approximately 46.9% of participants had moderate levels of knowledge regarding physical disability, while 58.5% demonstrated appropriate prevention practices. Notably, being female (AOR 1.94, 95%CI: 1.14-3.32) and having a T2DM diagnosis for 5 to 10 years (AOR 2.73, 95%CI: 1.40-5.34) were significantly linked to a higher prevalence of physical disability. \nConclusion \nThe observed prevalence of physical disability linked to diabetes is alarmingly high. Therefore, there is a crucial need for healthcare providers to persist in educating diabetic patients on methods to prevent physical disability associated with diabetes."
+  },
+  {
+   "paperId": "813762585ebb27aa64d1e5bf948dc27a3b3ed74d",
+   "externalIds": {
+    "PubMedCentral": "5516328",
+    "MAG": "2724768241",
+    "DOI": "10.1186/s12916-017-0901-x",
+    "CorpusId": 24679027,
+    "PubMed": "28720102"
+   },
+   "url": "https://www.semanticscholar.org/paper/813762585ebb27aa64d1e5bf948dc27a3b3ed74d",
+   "title": "Environmental/lifestyle factors in the pathogenesis and prevention of type 2 diabetes",
+   "venue": "BMC Medicine",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-017-0901-x",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5516328, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2017-07-19",
+   "authors": [
+    {
+     "authorId": "2060201709",
+     "name": "H. Kolb"
+    },
+    {
+     "authorId": "2090172",
+     "name": "Stephan Martin"
+    }
+   ],
+   "abstract": "BackgroundEnvironmental and lifestyle changes, in addition to the ageing of populations, are generally believed to account for the rapid global increase in type 2 diabetes prevalence and incidence in recent decades.DiscussionIn this review, we present a comprehensive overview of factors contributing to diabetes risk, including aspects of diet quality and quantity, little physical activity, increased monitor viewing time or sitting in general, exposure to noise or fine dust, short or disturbed sleep, smoking, stress and depression, and a low socioeconomic status. In general, these factors promote an increase in body mass index. Since loss of β-cell function is the ultimate cause of developing overt type 2 diabetes, environmental and lifestyle changes must have resulted in a higher risk of β-cell damage in those at genetic risk. Multiple mechanistic pathways may come into play.ConclusionsStrategies of diabetes prevention should aim at promoting a ‘diabetes-protective lifestyle’ whilst simultaneously enhancing the resistance of the human organism to pro-diabetic environmental and lifestyle factors. More research on diabetes-protective mechanisms seems warranted."
+  },
+  {
+   "paperId": "ae1907f47e2e6daba724f5948f4b46be99cc9927",
+   "externalIds": {
+    "DOI": "10.4103/jmhit.jmhit_34_25",
+    "CorpusId": 288800778
+   },
+   "url": "https://www.semanticscholar.org/paper/ae1907f47e2e6daba724f5948f4b46be99cc9927",
+   "title": "The Impact of Vitamin D in Primary Prevention of Type 2 Diabetes – A Systematic Review",
+   "venue": "Journal of Multidisciplinary Health and Innovative Technology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.4103/jmhit.jmhit_34_25",
+    "status": "HYBRID",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4103/jmhit.jmhit_34_25?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4103/jmhit.jmhit_34_25, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-01-01",
+   "authors": [
+    {
+     "authorId": "2331238796",
+     "name": "A. Arvinth"
+    },
+    {
+     "authorId": "145778514",
+     "name": "M. Balan"
+    },
+    {
+     "authorId": "2292335459",
+     "name": "G. Gomathi"
+    }
+   ],
+   "abstract": "Type 2 diabetes mellitus (T2DM) accounts for more than 90% of instances of diabetes mellitus worldwide, and its rising prevalence which is expected to impact over 700 million people by 2045 highlights the urgent need for efficient management and prevention measures. This systematic review evaluates vitamin D supplementation’s potential to prevent T2DM, despite inconclusive evidence on its efficacy in lowering new cases. This study examines the effect of vitamin D supplementation on the onset of type 2 diabetes in adults with impaired glucose regulation were found through a thorough literature search conducted up until December 2024 in MEDLINE, EMBASE, and the Cochrane Library using a strategy centred on diabetes and vitamin D. Vitamin D supplementation was linked to a 10% decrease in the progression to type 2 diabetes and a significant increase in regression to normoglycemia in a systematic review of 10 trials involving 947 prediabetic patients. No significant heterogeneity or publication bias was found. With no discernible variations in subgroup analyses or interactions with baseline vitamin D levels, ethnicity, or body mass index (BMI), this systematic review of 10 trials demonstrates that vitamin D treatment in prediabetic individuals reduces the incidence of type 2 diabetes and encourages regression to normoglycemia. The current comprehensive review found benefits of vitamin D across diverse populations, including non-obese individuals, despite indications from some trials that baseline vitamin D status may influence outcomes. However, there was no conclusive evidence linking supplementation to changes in BMI or age-specific advantages."
+  },
+  {
+   "paperId": "52a7b37dac9ddce86ed610a422aedeedb5e11a17",
+   "externalIds": {
+    "DOI": "10.12775/jehs.2025.86.67335",
+    "CorpusId": 284098441
+   },
+   "url": "https://www.semanticscholar.org/paper/52a7b37dac9ddce86ed610a422aedeedb5e11a17",
+   "title": "The impact of demographics on the prevalence and treatment of type 2 diabetes - a literature review",
+   "venue": "Journal of Education, Health and Sport",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://apcz.umk.pl/JEHS/article/download/67335/44641",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12775/jehs.2025.86.67335?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12775/jehs.2025.86.67335, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-19",
+   "authors": [
+    {
+     "authorId": "2395706528",
+     "name": "Patryk Gadziński"
+    },
+    {
+     "authorId": "2395704247",
+     "name": "Marta Czechowicz"
+    },
+    {
+     "authorId": "2395708263",
+     "name": "Joanna Madoń"
+    }
+   ],
+   "abstract": "Background Type 2 Diabetes is, without a doubt, a global health crisis. Detailed guidelines have been made to create a universal standard for prevention, screening, and therapy, but far too often, a single model proves inefficient in treating patients from all walks of life, displaying a wide variance in both clinical and lifestyle factors.  \nAim This review of the existing literature attempts to showcase the main differences in the prevalence, risk factors, and therapy effectiveness of Type 2 Diabetes between a number of demographics. \nMaterials and Methods The article thoroughly reviews the existing literature on Type 2 Diabetes and the demographic factors thereof. Original studies, reviews, meta-analyses, as well as epidemiological surveys available in the PubMed and Google Scholar databases were included. The literature review and article selection process concluded in November 2025.  \nResults The available data backs up the hypothesis that demographic factors heavily influence the prevalence and outcomes of Type 2 Diabetes. The illness is both more prevalent and on average, more poorly controlled in women, as compared to men, resulting in a higher all-cause mortality. In terms of age, each additional year at the time of diagnosis correlates with a 4% decrease in all-cause mortality, as well as a 3% decrease in macrovascular and 5% decrease in microvascular complications. Additionally, socioeconomic factors have been found to play a significant role in therapy adherence, even in countries with a well-developed social safety net.  \nConclusions The findings showcase a desperate need for a more personalized approach to Type 2 Diabetes, focusing on the elimination of negative lifestyle habits, a thorough patient education, and a choice of medication that is within an acceptable financial range, rather than simply prescribing that, which displays the highest effectiveness on paper. "
+  },
+  {
+   "paperId": "cfbefe27ebf79562d413599aea0dd872509ab502",
+   "externalIds": {
+    "DOI": "10.67170/jtmr.2025.v1i6.001",
+    "CorpusId": 289123607
+   },
+   "url": "https://www.semanticscholar.org/paper/cfbefe27ebf79562d413599aea0dd872509ab502",
+   "title": "Prevalence and predictors of peripheral neuropathy among adults with type 2 diabetes mellitus: A prospective study from Rajasthan",
+   "venue": "Journal of Toxicology and Medical Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.67170/jtmr.2025.v1i6.001",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.67170/jtmr.2025.v1i6.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.67170/jtmr.2025.v1i6.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2219796819",
+     "name": "A. K."
+    },
+    {
+     "authorId": "2534978459",
+     "name": "Kumar Chetan N"
+    }
+   ],
+   "abstract": "Background: Diabetic peripheral neuropathy (DPN) is one of the most common and disabling complications of type 2 diabetes mellitus (T2DM), leading to significant morbidity and reduced quality of life. Its early detection and risk factor assessment are essential for prevention and management. Aim: To determine the prevalence of peripheral neuropathy among adults with T2DM and to identify associated clinical and metabolic predictors.\nMethods: A prospective observational study was conducted at S.N. Medical College, Jodhpur, from January to May 2025, involving 180 adults with T2DM diagnosed per ADA 2024 criteria. Demographic data, diabetes duration, and glycaemic status were recorded. Peripheral neuropathy was assessed using the Michigan Neuropathy Screening Instrument (MNSI) and biothesiometer. Statistical analysis was performed using SPSS version 21.0, with P < 0.05 considered significant.\nResults: Peripheral neuropathy was identified in 47.8% of participants. Prevalence was significantly higher among patients aged > 60 years, with diabetes duration > 10 years, and HbA1c ≥ 7%. Logistic regression confirmed duration of diabetes (OR = 3.9), HbA1c ≥ 7% (OR = 2.8), and age > 60 years (OR = 2.2) as independent predictors.\nConclusion: Peripheral neuropathy is highly prevalent among T2DM adults, emphasizing the need for early screening and optimal glycaemic control to reduce long-term complications"
+  },
+  {
+   "paperId": "50cb684e116d9c043cc48b4f4da99fdd5db190bd",
+   "externalIds": {
+    "MAG": "3093161817",
+    "DOI": "10.1016/j.pcd.2020.10.001",
+    "CorpusId": 224808997,
+    "PubMed": "33077379"
+   },
+   "url": "https://www.semanticscholar.org/paper/50cb684e116d9c043cc48b4f4da99fdd5db190bd",
+   "title": "Review: Type 2 diabetes in Latin America and the Caribbean: Regional and country comparison on prevalence, trends, costs and expanded prevention.",
+   "venue": "Primary Care Diabetes",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.pcd.2020.10.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.pcd.2020.10.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-10-16",
+   "authors": [
+    {
+     "authorId": "1403161901",
+     "name": "H. Gallardo-Rincón"
+    },
+    {
+     "authorId": "5235792",
+     "name": "A. Cantoral"
+    },
+    {
+     "authorId": "145675876",
+     "name": "A. Arrieta"
+    },
+    {
+     "authorId": "2277540130",
+     "name": "C. Espinal"
+    },
+    {
+     "authorId": "12278674",
+     "name": "M. Magnus"
+    },
+    {
+     "authorId": "49838957",
+     "name": "C. Palacios"
+    },
+    {
+     "authorId": "79823196",
+     "name": "R. Tapia-Conyer"
+    }
+   ],
+   "abstract": "PURPOSE\nTo present an overview of type 2 diabetes status in Latin America and the Caribbean region.\n\n\nMETHODS\nThe data were collected from the International Diabetes Federation Atlas and other available published sources where we identified the prevalence in Latin America and the Caribbean, the trends by regions, and sex. Also, we summarized the type 2 diabetes direct and indirect costs, and the current preventative programs and policies available for each region.\n\n\nRESULTS\nLatin America and the Caribbean has one of the fastest-growing prevalence of type 2 diabetes, in particular the Caribbean region. Costs are relatively high in Central American countries and the Caribbean Islands. Currently, type 2 diabetes prevention, diagnosis, and management are insufficient in Latin America and the Caribbean and they do not offer a multidisciplinary integrative approach.\n\n\nCONCLUSION\nEffective and preventive multidisciplinary policies should be implemented in Latin America and the Caribbean to decrease the high burden of type 2 diabetes."
+  },
+  {
+   "paperId": "7474ffa02e2c45cd13297a0222709263269fe4ef",
+   "externalIds": {
+    "PubMedCentral": "8040084",
+    "DOI": "10.4239/wjd.v12.i4.344",
+    "CorpusId": 233324788,
+    "PubMed": "33889284"
+   },
+   "url": "https://www.semanticscholar.org/paper/7474ffa02e2c45cd13297a0222709263269fe4ef",
+   "title": "Diagnosis, treatment and prevention of type 2 diabetes mellitus in children and adolescents",
+   "venue": "World Journal of Diabetes",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.4239/wjd.v12.i4.344",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8040084, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-04-15",
+   "authors": [
+    {
+     "authorId": "144248363",
+     "name": "A. Serbis"
+    },
+    {
+     "authorId": "3788006",
+     "name": "V. Giapros"
+    },
+    {
+     "authorId": "4911395",
+     "name": "Eleni P. Kotanidou"
+    },
+    {
+     "authorId": "1398745362",
+     "name": "A. Galli-Tsinopoulou"
+    },
+    {
+     "authorId": "4315852",
+     "name": "E. Siomou"
+    }
+   ],
+   "abstract": "During the last two decades, there have been several reports of an increasing incidence of type 2 diabetes mellitus (T2DM) in children and adolescents, especially among those belonging to minority ethnic groups. This trend, which parallels the increases in prevalence and degree of pediatric obesity, has caused great concern, even though T2DM remains a relatively rare disease in children. Youth T2DM differs not only from type 1 diabetes in children, from which it is sometimes difficult to differentiate, but also from T2DM in adults, since it appears to be an aggressive disease with rapidly progressive β-cell decline, high treatment failure rate, and accelerated development of complications. Despite the recent research, many aspects of youth T2DM still remain unknown, regarding both its pathophysiology and risk factor contribution, and its optimal management and prevention. Current management approaches include lifestyle changes, such as improved diet and increased physical activity, together with pharmacological interventions, including metformin, insulin, and the recently approved glucagon-like peptide-1 analog liraglutide. What is more important for everyone to realize though, from patients, families and physicians to schools, health services and policy-makers alike, is that T2DM is a largely preventable disease that will be addressed effectively only if its major contributor (i.e., pediatric obesity) is confronted and prevented at every possible stage of life, from conception until adulthood. Therefore, relevant comprehensive, coordinated, and innovative strategies are urgently needed."
+  },
+  {
+   "paperId": "391760a66dd114864a0ead77ba8aaa07a8855dfe",
+   "externalIds": {
+    "DOI": "10.1080/17446651.2021.1979391",
+    "CorpusId": 237535433,
+    "PubMed": "34525888"
+   },
+   "url": "https://www.semanticscholar.org/paper/391760a66dd114864a0ead77ba8aaa07a8855dfe",
+   "title": "Nocturnal hypoglycemia in type 1 and type 2 diabetes: an update on prevalence, prevention, pathophysiology and patient awareness",
+   "venue": "Expert Review of Endocrinology & Metabolism",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/17446651.2021.1979391?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/17446651.2021.1979391, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-09-15",
+   "authors": [
+    {
+     "authorId": "1992799808",
+     "name": "Maka Siamashvili"
+    },
+    {
+     "authorId": "83549454",
+     "name": "H. Davis"
+    },
+    {
+     "authorId": "1839563",
+     "name": "S. N. Davis"
+    }
+   ],
+   "abstract": "ABSTRACT Introduction Despite considerable progress in diabetes treatment, prevalence of nocturnal hypoglycemia in type 1 diabetes mellitus (T1DM) and advanced insulin treated type 2 diabetes mellitus (T2DM) remains high. Areas covered The present manuscript describes the prevalence of night-time hypoglycemia as reported in observational and randomized controlled trials. Factors that affect the risk of hypoglycemia are highlighted. The authors also describe impaired awareness of hypoglycemia and available preventive methods. Expert opinion Prevention of nocturnal hypoglycemia includes behavioral, dietary and pharmacologic interventions. The most recent development with the lowest rate of hypoglycemia is sensor-augmented pumps with predictive low glucose suspend technology. These pumps combine continuous subcutaneous insulin infusion with continuous glucose monitoring and use various algorithms to predict and stop hypoglycemia before it develops."
+  },
+  {
+   "paperId": "444c94b324ec3ced994d81e56d23979ebc2dc740",
+   "externalIds": {
+    "DOI": "10.1007/s40200-024-01504-5",
+    "CorpusId": 273039714,
+    "PubMed": "39610547"
+   },
+   "url": "https://www.semanticscholar.org/paper/444c94b324ec3ced994d81e56d23979ebc2dc740",
+   "title": "Evaluating the prevalence and risk factors of sarcopenia in elderly patients with type 2 diabetes mellitus in a Chinese hospital setting",
+   "venue": "Journal of Diabetes and Metabolic Disorders",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11599695/pdf/40200_2024_Article_1504.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40200-024-01504-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40200-024-01504-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-01",
+   "authors": [
+    {
+     "authorId": "2316381041",
+     "name": "Shi-Yue Zou"
+    },
+    {
+     "authorId": "2316377476",
+     "name": "Ting-Ying Xiao"
+    },
+    {
+     "authorId": "2152974052",
+     "name": "Meng Liu"
+    },
+    {
+     "authorId": "2269804741",
+     "name": "L. Zhong"
+    },
+    {
+     "authorId": "2323853538",
+     "name": "Ximin Mou"
+    },
+    {
+     "authorId": "2316442730",
+     "name": "Jing Lai"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "9d851ceba9e91e474ef81c77559a2644fe01cb18",
+   "externalIds": {
+    "MAG": "2569252602",
+    "DOI": "10.1136/bmj.i6538",
+    "CorpusId": 26652225,
+    "PubMed": "28052845"
+   },
+   "url": "https://www.semanticscholar.org/paper/9d851ceba9e91e474ef81c77559a2644fe01cb18",
+   "title": "Efficacy and effectiveness of screen and treat policies in prevention of type 2 diabetes: systematic review and meta-analysis of screening tests and interventions",
+   "venue": "British medical journal",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://www.bmj.com/content/bmj/356/bmj.i6538.full.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1136/bmj.i6538?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1136/bmj.i6538, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "MetaAnalysis",
+    "JournalArticle"
+   ],
+   "publicationDate": "2017-01-04",
+   "authors": [
+    {
+     "authorId": "144418380",
+     "name": "E. Barry"
+    },
+    {
+     "authorId": "2112234867",
+     "name": "Samantha Roberts"
+    },
+    {
+     "authorId": "36164781",
+     "name": "J. Oke"
+    },
+    {
+     "authorId": "145936362",
+     "name": "S. Vijayaraghavan"
+    },
+    {
+     "authorId": "3701141",
+     "name": "R. Normansell"
+    },
+    {
+     "authorId": "144937491",
+     "name": "T. Greenhalgh"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "4c275433144b770744e037e7d984265c9d2b9a16",
+   "externalIds": {
+    "MAG": "3112388629",
+    "DOI": "10.1080/10408398.2020.1857683",
+    "CorpusId": 228101533,
+    "PubMed": "33305588"
+   },
+   "url": "https://www.semanticscholar.org/paper/4c275433144b770744e037e7d984265c9d2b9a16",
+   "title": "Amaranth, quinoa and chia bioactive peptides: a comprehensive review on three ancient grains and their potential role in management and prevention of Type 2 diabetes",
+   "venue": "Critical reviews in food science and nutrition",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10408398.2020.1857683?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10408398.2020.1857683, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-12-11",
+   "authors": [
+    {
+     "authorId": "2579942952",
+     "name": "Francisco Valenzuela Zamudio"
+    },
+    {
+     "authorId": "1402728437",
+     "name": "M. Segura-Campos"
+    }
+   ],
+   "abstract": "Abstract Worldwide prevalence of Type 2 Diabetes (T2D) has become a major concern with several implications for public health, economy, and social well-being, especially in developing countries. Conventional pharmacological management of T2D have proved effective, but possess underlying side effects, leading the scientific community to research alternative compounds that exert beneficial effects on current therapeutic targets of T2D. Bioactive peptides (BAPs) from food sources, have shown relative advantages in this matter, moreover, BAPs have proved to impart anti-diabetic activity through one or more mechanisms such as enzymatic inhibition of α-glucosidase, α-amylase and DPP–IV. Several plants and animal have been used as protein sources of anti-diabetic BAPs, in the sense of this matter, the pseudo-cereals amaranth and quinoa, along with the ancestral grain chia, have gained attention. Due, to their high protein content and balanced amino-acid composition, along with proved anti-diabetic features, the three seeds are top choices for the obtention of anti-diabetic BAPs. With a comprehensive overview of the most recent reported in silico and in vitro anti-diabetic studies in relation to biomarkers α-glucosidase, α-amylase and DPP-IV, the present review aims to examine the current knowledge of amaranth, quinoa and chia derived anti-diabetic BAPs and their effects on T2D therapeutic markers."
+  },
+  {
+   "paperId": "6b676515e0dbc26cef5b65174a568e1d58b3985a",
+   "externalIds": {
+    "PubMedCentral": "13229248",
+    "DOI": "10.4103/ijem.ijem_111_25",
+    "CorpusId": 288941379,
+    "PubMed": "42238557"
+   },
+   "url": "https://www.semanticscholar.org/paper/6b676515e0dbc26cef5b65174a568e1d58b3985a",
+   "title": "Sarcopenic Obesity in Indian Adults with Type 2 Diabetes Mellitus: Prevalence and Associated Risk Factors",
+   "venue": "Indian journal of endocrinology and metabolism",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.4103/ijem.ijem_111_25",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13229248, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-04-30",
+   "authors": [
+    {
+     "authorId": "2383542598",
+     "name": "Mohd Salman"
+    },
+    {
+     "authorId": "2400208925",
+     "name": "Ahmad Alam"
+    },
+    {
+     "authorId": "2409095218",
+     "name": "Sana Khan"
+    },
+    {
+     "authorId": "2255552447",
+     "name": "Hamid Ashraf"
+    },
+    {
+     "authorId": "2298683493",
+     "name": "L. Zafar"
+    },
+    {
+     "authorId": "2556355696",
+     "name": "A. Parvez"
+    },
+    {
+     "authorId": "48673156",
+     "name": "A. Faraz"
+    }
+   ],
+   "abstract": "Introduction: Sarcopenic obesity, a condition combining muscle loss and obesity, is common in older adults and increasingly seen in younger individuals due to various risk factors. This study aims to assess the prevalence of SO in Indian adults with T2DM and identify key risk factors to help in early detection and prevention. Methods: This cross-sectional observational study, conducted from October 2022 to July 2024 at a tertiary care hospital of Northern India, assessed the prevalence of sarcopenic obesity in Indian adults with Type 2 Diabetes Mellitus. Participants included obese T2DM patients over 40 years, excluding those with conditions like malignancies or chronic diseases. The diagnosis of sarcopenia was made based on the recommendations of the Asian Working Group for Sarcopenia (AWGS). Key assessments involved demographic data, metabolic and physical evaluations, and the use of the International Physical Activity Questionnaire (IPAQ) to categorize physical activity levels. Results: Data from 151 patients revealed a mean age of 57.2 ± 8.4 years, with an overall prevalence of sarcopenic obesity (SO) at 44%. SO was more prevalent in males (48.38%) compared to females (40.45%). SO was significantly associated with older age, low physical activity, poor glycemic control, insulin use, and the presence of diabetes complications. Conclusion: This study identifies a high prevalence of sarcopenic obesity (SO) in older Indian adults with Type 2 Diabetes. Key risk factors include low physical activity, poor glycemic control, insulin use, and diabetes-related complications, while hypertension and dyslipidemia were not significantly linked to SO."
+  },
+  {
+   "paperId": "d484f7642d0094fe8f99720ff3b920c6fee303c1",
+   "externalIds": {
+    "DOI": "10.55227/ijhet.v4i5.538",
+    "CorpusId": 286027011
+   },
+   "url": "https://www.semanticscholar.org/paper/d484f7642d0094fe8f99720ff3b920c6fee303c1",
+   "title": "Overview of Teenagers' Knowledge of Type 2 Diabetes Prevention at Semarapura State High School 1",
+   "venue": "International Journal of Health Engineering and Technology",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://afdifaljournal.com/journal/index.php/ijhet/article/download/538/481",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55227/ijhet.v4i5.538?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55227/ijhet.v4i5.538, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-01-26",
+   "authors": [
+    {
+     "authorId": "2561638788",
+     "name": "Ni Made Ary Pradnya Sasmita"
+    },
+    {
+     "authorId": "1454265568",
+     "name": "Niken Ayu Merna Eka Sari"
+    },
+    {
+     "authorId": "1397060277",
+     "name": "Ni Kadek Muliawati"
+    }
+   ],
+   "abstract": "Type 2 diabetes mellitus shows a significant upward trend and is increasingly found in younger age groups, including adolescents. The 2023 Indonesian Health Survey (SKI) reported a prevalence of diabetes mellitus of 11.7% in people aged ≥15 years, reflecting the high national burden of this disease. Regionally, Bali is among the 10 provinces with the highest number of diabetes cases in Indonesia, with an increase in cases from 30,856 to 45,710 in 2024. The results of blood sugar screening by the Bali Provincial Health Office for the period January–May 2025 also showed cases of diabetes in adolescents aged 15–17 years, where 23 of 3,727 adolescents were confirmed to have diabetes and 259 had prediabetes, with the highest number of cases found in Klungkung Regency. Lack of knowledge about prevention is one of the factors that can potentially increase the risk of type 2 diabetes mellitus in adolescents. This study aims to describe the characteristics of respondents and the level of knowledge of adolescents about the prevention of type 2 diabetes mellitus at SMA Negeri 1 Semarapura. The study used a descriptive design with adolescent respondents. The results showed that most respondents were 17 years old (40.6%), female (56.7%), had no family history of diabetes (94.5%), and accessed health information through the internet (45.1%). The level of knowledge was dominated by the good category (90.1%). These findings emphasize the importance of strengthening school-based health education as an early prevention measure for type 2 diabetes mellitus in adolescents"
+  },
+  {
+   "paperId": "a42748e82089b877344dcef648b40ebc9eb75271",
+   "externalIds": {
+    "MAG": "1138788730",
+    "DOI": "10.4239/wjd.v6.i4.543",
+    "CorpusId": 20094327,
+    "PubMed": "25987951"
+   },
+   "url": "https://www.semanticscholar.org/paper/a42748e82089b877344dcef648b40ebc9eb75271",
+   "title": "Type 2 diabetes among Asian Americans: Prevalence and prevention.",
+   "venue": "World Journal of Diabetes",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "https://www.wjgnet.com/1948-9358/full/v6/i4/543.htm",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4239/wjd.v6.i4.543?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4239/wjd.v6.i4.543, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2015-05-15",
+   "authors": [
+    {
+     "authorId": "143766320",
+     "name": "Tam H. Nguyen"
+    },
+    {
+     "authorId": "117618801",
+     "name": "Thuc-Nhi Nguyen"
+    },
+    {
+     "authorId": "152996306",
+     "name": "T. Fischer"
+    },
+    {
+     "authorId": "2274557265",
+     "name": "Won-Chun Ha"
+    },
+    {
+     "authorId": "144064107",
+     "name": "T. Tran"
+    }
+   ],
+   "abstract": "Type 2 diabetes mellitus (T2DM) is a growing problem among Asian Americans. Based on the Centers for Disease Control, the age-adjusted prevalence of T2DM for Asian Americans is 9%, placing them at \"moderate risk\". However differential patterns of disease burden emerge when examining disaggregated data across Asian American ethnic groups; with Filipino, Pacific Islander, Japanese, and South Asian groups consistently described as having the highest prevalence of T2DM. Disentangling and strengthening prevalence data is vital for on-going prevention efforts. The strongest evidence currently available to guide the prevention of T2DM in the United States comes from a large multicenter randomized clinical control trial called the Diabetes Prevention Program, which targets individual lifestyle behavior changes. It has been translated and adopted for some Asian American groups, and shows promise. However stronger study designs and attention to several key methodological considerations will improve the science. Increased attention has also been directed toward population level downstream prevention efforts. Building an infrastructure that includes both individual and population approaches is needed to prevent T2DM among Asian American populations, and is essential for reducing health disparities."
+  },
+  {
+   "paperId": "4a9413ef6d4e20ebe3c549bf2b94d1c04aaa411d",
+   "externalIds": {
+    "DOI": "10.1007/s10935-022-00707-x",
+    "CorpusId": 252405183,
+    "PubMed": "36129587"
+   },
+   "url": "https://www.semanticscholar.org/paper/4a9413ef6d4e20ebe3c549bf2b94d1c04aaa411d",
+   "title": "Issues and Challenges in the Primary Prevention of Type 2 Diabetes Mellitus: A Systematic Review",
+   "venue": "The Journal of prevention",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10935-022-00707-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10935-022-00707-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-09-21",
+   "authors": [
+    {
+     "authorId": "1394817070",
+     "name": "Norhanizawati Bahari"
+    },
+    {
+     "authorId": "152421557",
+     "name": "Norfazilah Ahmad"
+    },
+    {
+     "authorId": "2151666227",
+     "name": "Muhammad Hilmi Mahmud"
+    },
+    {
+     "authorId": "2046362537",
+     "name": "Mazni Baharom"
+    },
+    {
+     "authorId": "2121575111",
+     "name": "S. M. Amir"
+    },
+    {
+     "authorId": "2468873930",
+     "name": "Chua-Su Peng"
+    },
+    {
+     "authorId": "2824854",
+     "name": "M. R. Hassan"
+    },
+    {
+     "authorId": "7188689",
+     "name": "A. Nawi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "66a3c5b12ed1b0492871710a9a31456f406a06ff",
+   "externalIds": {
+    "DOI": "10.29117/quarfe.2021.0098",
+    "CorpusId": 240011290
+   },
+   "url": "https://www.semanticscholar.org/paper/66a3c5b12ed1b0492871710a9a31456f406a06ff",
+   "title": "The prevalence of statin prescription for primary prevention of Arteriosclerotic Cardiovascular Diseases among patients with Type 2 Diabetes in Qatar",
+   "venue": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "http://qspace.qu.edu.qa/bitstream/10576/24383/1/355.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29117/quarfe.2021.0098?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29117/quarfe.2021.0098, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-10-20",
+   "authors": [
+    {
+     "authorId": "2379427106",
+     "name": "Alaa Daban"
+    }
+   ],
+   "abstract": "Background: Qatar has one of the highest prevalence rates for diabetes in the world. Arteriosclerotic cardiovascular diseases (ASCVDs) are responsible for nearly 50% of deaths among patients with diabetes in Qatar. Treating with statins is a simple and effective approach for preventing ASCVD among patients with diabetes. Local and international guidelines recommend the use of statins for primary prevention of ASCVD in patients with diabetes, especially for those 40-75 years of age. Yet statins are still under-prescribed to diabetic individuals for primary prevention of ASCVD worldwide, especially in primary care settings which is where most of the medical management of diabetes occurs. Little is known about the prevalence of statin prescription for primary prevention of ASCVD among diabetics in primary care settings in Qatar. Objectives: To measure the proportion of T2dm patients receiving statins for primary prevention of ASCVD in primary care settings and to investigate patients’ characteristics associated with statin prescription. Results: Of 23,934 patients with complete data, 57% were males and 31.9% were Qatari nationals. Average age for participants was 54.8 ± 8.25 years. 66 % of the patients received statins at least once during the year 2019. The statin prescription rate for Non-Qatari males was 70.1% and was significantly higher than non-Qatari females, Qatari females, or Qatari males (62.2%, 62.9% and 63.9% respectively P value <0.000) In a multivariable model analysis and after controlling for other covariates in the model, statin prescription was positively associated with being male (adjusted odds ratio (aOR): 1.2, [95% CI: 1.12-1.28]), history of smoking, i.e. former smoker (aOR 1.16 [95% CI: 1.03-1.29]), current smoker (aOR 1.11 [95% CI: 1.01-1.22 ]), associated diagnosis of hypertension (aOR 1.51 [95% CI: 1.41-1.61]), being prescribed other non-statin lipids lowering medications (aOR 1.44 [95% CI: 1.27-1.63]), increased age (aOR 1.03/year [95% CI: 1.026-1.034]), increasing daily pill burden (aOR 1.23/pill [95% CI: 1.21-1.25]), increasing number of daily medication injections (aOR 1.29/injection [95% CI: 1.23-1.35]), and frequent visits to GP clinic (aOR 1.22/visit [95% CI: 1.19-1.24]). Statin prescription was negatively associated with having a history of diabetic neuropathy (aOR 0.87 [95% CI: 0.75-1.0]), increasing BMI (aOR 0.996/unit [95% CI: 0.9892-1.00]), being Qatari (aOR 0.87 [95% CI: 0.81-0.93]) or being prescribed an anti-platelet (aOR 0.96/unit [95% CI: 0.89-1.03]). Significant negative effect modification between hypertension and either male gender or Qatari nationality was found, further lowering the odds for Qatari males. Conclusion: Prevalence of statin prescription for primary prevention of ASCVD among patients with T2dm was suboptimal in primary care settings in Qatar and need to be improved. Factors associated with a lower prevalence of statin prescription namely female gender and Qatari nationality needs to be addressed. Further studies are needed to explore causes of the low prescription rates of statins in Qatar."
+  },
+  {
+   "paperId": "95fb166e044643a5191c5625ea8a61cce78be3e2",
+   "externalIds": {
+    "MAG": "2790284462",
+    "DOI": "10.1016/j.cjca.2018.03.002",
+    "CorpusId": 19248401,
+    "PubMed": "29731019"
+   },
+   "url": "https://www.semanticscholar.org/paper/95fb166e044643a5191c5625ea8a61cce78be3e2",
+   "title": "Evolving Trends in the Epidemiology, Risk Factors, and Prevention of Type 2 Diabetes: A Review.",
+   "venue": "Canadian Journal of Cardiology",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cjca.2018.03.002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cjca.2018.03.002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2018-05-01",
+   "authors": [
+    {
+     "authorId": "46654477",
+     "name": "A. Weisman"
+    },
+    {
+     "authorId": "6076161",
+     "name": "G. Fazli"
+    },
+    {
+     "authorId": "39708524",
+     "name": "A. Johns"
+    },
+    {
+     "authorId": "2531965",
+     "name": "G. Booth"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "54d927f1fc2116d8e21d58e7ee5e15e6a850830e",
+   "externalIds": {
+    "DOI": "10.21474/jnhm01/151",
+    "CorpusId": 289586944
+   },
+   "url": "https://www.semanticscholar.org/paper/54d927f1fc2116d8e21d58e7ee5e15e6a850830e",
+   "title": "THE GROWING BURDEN OF TYPE 2 DIABETES MELLITUS: PREVENTION, MANAGEMENT, AND PUBLIC HEALTH PERSPECTIVES",
+   "venue": "Jana Nexus: Journal of Health and Medicine",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://jananexushm.com/uploads/2026/03/6a3a492828205_JNHM-131.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21474/jnhm01/151?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21474/jnhm01/151, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-03-31",
+   "authors": [
+    {
+     "authorId": "144347658",
+     "name": "John Reed"
+    },
+    {
+     "authorId": "2348761277",
+     "name": "Priya Sharma"
+    },
+    {
+     "authorId": "143932879",
+     "name": "Carlos Mendes"
+    },
+    {
+     "authorId": "2083770264",
+     "name": "F. Noor"
+    },
+    {
+     "authorId": "2238007076",
+     "name": "Rebecca Collins"
+    }
+   ],
+   "abstract": "Type 2 Diabetes Mellitus (T2DM) has emerged as one of the most significant public health challenges of the 21st century. Characterized by insulin resistance and impaired glucose metabolism, T2DM affects millions of individuals worldwide and is associated with severe complications including cardiovascular disease, kidney failure, neuropathy, and vision impairment. Rapid urbanization, sedentary lifestyles, unhealthy dietary habits, and increasing obesity rates have contributed to the growing prevalence of the disease. This review examines the epidemiology, risk factors, complications, prevention strategies, and management approaches associated with Type 2 Diabetes Mellitus. Understanding these factors is essential for reducing disease burden and improving health outcomes globally."
+  },
+  {
+   "paperId": "4cf83f0ad36d83c126f28cf7afc8a670bae94923",
+   "externalIds": {
+    "DOI": "10.11648/j.ijnfs.20251401.18",
+    "CorpusId": 276795628
+   },
+   "url": "https://www.semanticscholar.org/paper/4cf83f0ad36d83c126f28cf7afc8a670bae94923",
+   "title": "Dietary Practices of Type 2 Diabetes Mellitus Outpatients at Mama Lucy Kibaki Hospital, Nairobi City County, Kenya: A Cross-Sectional Survey",
+   "venue": "International Journal of Nutrition and Food Sciences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "http://article.sciencepg.com/pdf/j.ijnfs.20251401.18",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11648/j.ijnfs.20251401.18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11648/j.ijnfs.20251401.18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-02-28",
+   "authors": [
+    {
+     "authorId": "2398989244",
+     "name": "Patrick Martin"
+    },
+    {
+     "authorId": "83134155",
+     "name": "J. Kimiywe"
+    },
+    {
+     "authorId": "14865199",
+     "name": "A. Munyaka"
+    }
+   ],
+   "abstract": "The increasing prevalence of Type 2 Diabetes Mellitus (T2DM) is a major public health challenge globally, with Kenya experiencing a rising burden of the disease. Proper dietary management is essential for blood glucose regulation and the prevention of diabetes-related complications. This study assessed the dietary practices of T2DM outpatients at Mama Lucy Kibaki Hospital, Nairobi, Kenya, and evaluated their adherence to recommended dietary guidelines. An analytical cross-sectional survey was conducted among 165 respondents using structured questionnaires to collect socio-demographic and dietary intake data. A 24-hour dietary recall, a Food Frequency Questionnaire (FFQ), and a Focused Group Discussion (FGD) were used to assess food consumption patterns and gather qualitative insights into patients' dietary behaviors. The study sample comprised 98 (59.4%) female and 67 (40.6%) male participants. Among them, 88 (53.3%) had been living with T2DM for 0-5 years while 33 (20.0%) had lived with the condition for 6-10 years. Regarding the highest level of education attained, 76 (46.1%) had completed secondary education, 45 (27.3%) primary education, and 36 (21.8%) tertiary education. Employment data showed that 79 (47.9%) of the respondents were self-employed, 35 (21.2%) were formally employed, while 28 (17.0%) were unemployed. Healthcare providers played a crucial role in offering dietary guidance, with 144 (87.3%) of respondents reporting having received dietary recommendations. Among them, 102 (61.8%) had received dietary guidance during their first visit, while 41 (24.8%) received it at a later stage. Only 22 (13.3%) of the respondents reported not having received any dietary counseling. The mean energy intake per day was 1,277 ± 576 kcal, falling below the recommended dietary requirements. While staple foods such as maize, rice, and wheat-based products were widely consumed, there was poor intake of fiber-rich foods, fruits, and lean proteins. Financial constraints and limited nutritional awareness were significant hindrances to recommended dietary practices. This study found that the dietary practices of T2DM patients do not fully align with the recommended dietary guidelines for diabetes management. The findings also indicated a need for improved timely nutrition education and sustained dietary support throughout T2DM management. The inclusion of a Focused Group Discussion provided further insights into patient challenges, highlighting the need for continuous professional dietary counseling and education. Future research should examine the effectiveness of structured dietary interventions on glycemic control and long-term disease management.\n"
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "query": "Carbon sequestration in agricultural soils",
+ "retrieved_at": "2026-11-18T18:04:01.265020+00:00",
+ "data": [
+  {
+   "DOI": "10.1201/9781420032291-7",
+   "title": [
+    "Why Carbon Sequestration in Agricultural Soils"
+   ],
+   "container-title": [
+    "Agricultural Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291-7"
+  },
+  {
+   "DOI": "10.1596/11868",
+   "title": [
+    "Carbon Sequestration in Agricultural Soils"
+   ],
+   "publisher": "Washington, DC",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      5
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1596/11868",
+   "author": [
+    {
+     "name": "World Bank",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781420032291-20",
+   "title": [
+    "CQESTR — Predicting Carbon Sequestration in Agricultural Cropland and Grassland Soils"
+   ],
+   "container-title": [
+    "Agricultural Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291-20"
+  },
+  {
+   "DOI": "10.1007/978-3-319-92318-5_4",
+   "title": [
+    "Carbon Sequestration in Grassland Soils"
+   ],
+   "container-title": [
+    "Carbon Sequestration in Agricultural Ecosystems"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2018
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-319-92318-5_4",
+   "author": [
+    {
+     "given": "Klaus",
+     "family": "Lorenz",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rattan",
+     "family": "Lal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-319-92318-5_5",
+   "title": [
+    "Carbon Sequestration in Wetland Soils"
+   ],
+   "container-title": [
+    "Carbon Sequestration in Agricultural Ecosystems"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2018
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-319-92318-5_5",
+   "author": [
+    {
+     "given": "Klaus",
+     "family": "Lorenz",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rattan",
+     "family": "Lal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-319-92318-5_3",
+   "title": [
+    "Carbon Sequestration in Cropland Soils"
+   ],
+   "container-title": [
+    "Carbon Sequestration in Agricultural Ecosystems"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2018
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-319-92318-5_3",
+   "author": [
+    {
+     "given": "Klaus",
+     "family": "Lorenz",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rattan",
+     "family": "Lal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781420032291.ch3",
+   "title": [
+    "Why Carbon Sequestration in Agricultural Soils"
+   ],
+   "container-title": [
+    "Agriculture Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2002,
+      2,
+      14
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291.ch3",
+   "author": [
+    {
+     "given": "Rattan",
+     "family": "Lal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781420032291-22",
+   "title": [
+    "State-Level Analyses of C Sequestration in Agricultural Soils"
+   ],
+   "container-title": [
+    "Agricultural Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291-22"
+  },
+  {
+   "DOI": "10.1201/9781420032291-36",
+   "title": [
+    "Economic Feasibility of Soil C Sequestration in U.S. Agricultural Soils"
+   ],
+   "container-title": [
+    "Agricultural Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291-36"
+  },
+  {
+   "DOI": "10.67599/anr-22-soil-0004",
+   "publisher": "Agence Nationale de la Recherche",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      1
+     ]
+    ]
+   },
+   "type": "grant",
+   "URL": "https://doi.org/10.67599/anr-22-soil-0004"
+  },
+  {
+   "DOI": "10.1201/9781420032291-47",
+   "title": [
+    "Carbon Balances in Hungarian Soils"
+   ],
+   "container-title": [
+    "Agricultural Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291-47"
+  },
+  {
+   "DOI": "10.11606/t.11.2024.tde-12042024-152725",
+   "title": [
+    "Carbon geomicrobiology, saturation deficit and sequestration potential of Brazilian agricultural soils"
+   ],
+   "publisher": "Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.11606/t.11.2024.tde-12042024-152725",
+   "author": [
+    {
+     "given": "Heidy Soledad",
+     "family": "Rodríguez Albarracin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781420032291-51",
+   "title": [
+    "Organic Carbon Stores in Alaska Soils"
+   ],
+   "container-title": [
+    "Agricultural Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291-51"
+  },
+  {
+   "DOI": "10.18277/akrsg.2022.34.03",
+   "title": [
+    "Carbon sequestration by enhanced silicate weathering in agricultural soils"
+   ],
+   "container-title": [
+    "34th Keck Proceedings Volume"
+   ],
+   "publisher": "Keck Geology Consortium",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      20
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.18277/akrsg.2022.34.03",
+   "author": [
+    {
+     "given": "Dan",
+     "family": "Maxbauer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781420032291-49",
+   "title": [
+    "Organic Carbon Stocks in Soils of Bulgaria"
+   ],
+   "container-title": [
+    "Agricultural Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291-49"
+  },
+  {
+   "DOI": "10.1007/978-3-642-23385-2_11",
+   "title": [
+    "New Modeling Approach to Describe and Predict Carbon Sequestration Dynamics in Agricultural Soils"
+   ],
+   "container-title": [
+    "Carbon Sequestration in Agricultural Soils"
+   ],
+   "publisher": "Springer Berlin Heidelberg",
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      10,
+      17
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-642-23385-2_11",
+   "author": [
+    {
+     "given": "Stefano",
+     "family": "Mazzoleni",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Giuliano",
+     "family": "Bonanomi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Francesco",
+     "family": "Giannino",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guido",
+     "family": "Incerti",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniela",
+     "family": "Piermatteo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Riccardo",
+     "family": "Spaccini",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alessandro",
+     "family": "Piccolo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Copernicus GmbH",
+   "abstract": "<jats:p>Agricultural management practices aimed at sequestering carbon (C) in soils can have synergies with many agroecosystem services, but may come at the cost of increased greenhouse gas (GHG) emissions and nutrient losses. We performed a systematic literature synthesis to review whether C sequestration practices show synergies with soil structure and soil biota, but generate trade-offs in terms of CO2 and N2O emissions or N and P losses worldwide. We also assessed whether the magnitude of trade-offs and synergies vary across climatic regions and over time.We performed systematic literature searches in the Web of Science for articles that: 1. experimentally assess the effect of minimising soil disturbance, diversifying agroecosystems, and/or increasing organic matter inputs versus standard practices, and 2. include measurements of C sequestration and at least another response variable related to synergies or trade-offs. We retrieved 771 publications, 537 of which were excluded based on i) the type of article (review, opinion papers), ii) a focus on non-soil habitats, forests or organic soils, or iii) experimental designs not matching our criteria. We included 234 studies that report 572 effects of sustainable practices on 228 sites located in 38 countries. Experiments averaged 10 years of monitoring and the majority reported effects of increasing organic matter inputs and minimising soil disturbance (88%) in temperate and continental climates (75%). Soil organic C increased without compromising crop yields considering all management practices together, i.e. positive effects of sustainable versus standard practices on C sequestration were more frequent than expected by chance. As expected, C sequestration promoted soil biota, but effects were more evident on biomass than on diversity. We also detected synergistic effects on soil aggregation, porosity, water retention and compaction. Negative effects of C retention practices were significant when considering GHG emissions and nutrient losses, particularly for CO2 emissions and mineral N accumulation. However, the magnitude of these trade-offs varied significantly depending on the metrics used to measure them, e.g. field versus lab GHG fluxes. We discuss how these effects vary across management practices, time and space, and review main knowledge gaps detected in the literature.</jats:p>",
+   "DOI": "10.5194/egusphere-egu23-17251",
+   "type": "posted-content",
+   "title": [
+    "Trade-offs and synergies of carbon sequestration in global agricultural soils: a literature synthesis"
+   ],
+   "author": [
+    {
+     "given": "Marta",
+     "family": "Goberna Estellés",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "TRACE-Soils Team",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.5194/egusphere-egu23-17251"
+  },
+  {
+   "DOI": "10.1007/978-3-642-23385-2",
+   "title": [
+    "Carbon Sequestration in Agricultural Soils"
+   ],
+   "publisher": "Springer Berlin Heidelberg",
+   "issued": {
+    "date-parts": [
+     [
+      2012
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1007/978-3-642-23385-2"
+  },
+  {
+   "DOI": "10.1201/9781420032291-14",
+   "title": [
+    "Effect of Soil Management Practices on the Sequestration of Carbon in Duplex Soils of Southeastern Australia"
+   ],
+   "container-title": [
+    "Agricultural Practices and Policies for Carbon Sequestration in Soil"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420032291-14"
+  },
+  {
+   "DOI": "10.19080/artoaj.2020.24.556275",
+   "title": [
+    "Economics of Agricultural Carbon Sequestration in Soils"
+   ],
+   "container-title": [
+    "Agricultural Research &amp; Technology: Open Access Journal"
+   ],
+   "publisher": "Juniper Publishers",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      6,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.19080/artoaj.2020.24.556275",
+   "author": [
+    {
+     "given": "Dominique",
+     "family": "Desbois",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

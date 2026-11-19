@@ -1,0 +1,743 @@
+{
+ "query": "Antimicrobial resistance and antibiotic stewardship",
+ "retrieved_at": "2026-11-18T18:09:56.177409+00:00",
+ "data": [
+  {
+   "DOI": "10.1093/jacamr/dlz055",
+   "title": [
+    "Antimicrobial resistance: improving antibiotic stewardship by multi-disciplinary learning"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      9,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz055"
+  },
+  {
+   "DOI": "10.1016/b978-0-12-803642-6.00001-0",
+   "title": [
+    "Antimicrobial Stewardship"
+   ],
+   "container-title": [
+    "Antibiotic Resistance"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-12-803642-6.00001-0",
+   "author": [
+    {
+     "given": "L.",
+     "family": "Hsieh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "A.",
+     "family": "Amin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1093/jacamr/dlz032",
+   "title": [
+    "Best care antibiotic stewardship"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      7,
+      26
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz032"
+  },
+  {
+   "DOI": "10.1016/j.jgar.2024.10.087",
+   "title": [
+    "Analysis of antibiotic usage in Bulgarian hospitals and development of antibiotic stewardship software solution to improve the implementation of local antibiotic stewardship policies"
+   ],
+   "container-title": [
+    "Journal of Global Antimicrobial Resistance"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.jgar.2024.10.087",
+   "author": [
+    {
+     "given": "Natalia",
+     "family": "Konova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Andrey",
+     "family": "Petrov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Emil",
+     "family": "Gatchev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1093/jacamr/dlz065",
+   "title": [
+    "CDC’s antibiotic stewardship training series"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      11,
+      11
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz065"
+  },
+  {
+   "DOI": "10.1093/jacamr/dlz089",
+   "title": [
+    "Clinical antibiotic stewardship for South Africa"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      23
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz089"
+  },
+  {
+   "DOI": "10.1093/jacamr/dlz047",
+   "title": [
+    "Containing healthcare-associated infections through antibiotic stewardship"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8,
+      20
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz047"
+  },
+  {
+   "DOI": "10.1093/jacamr/dlz016",
+   "title": [
+    "Guidelines, tools and implementation methods for antibiotic stewardship"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz016"
+  },
+  {
+   "DOI": "10.1093/jacamr/dlaa064",
+   "title": [
+    "Role of diagnostics in supporting antibiotic stewardship goals"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      16
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlaa064"
+  },
+  {
+   "DOI": "10.1093/jacamr/dlz044",
+   "title": [
+    "CDC commentary: antibiotic stewardship in the outpatient setting"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz044"
+  },
+  {
+   "DOI": "10.1093/jacamr/dlz050",
+   "title": [
+    "Get smart about antibiotics: an antibiotic stewardship curriculum"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8,
+      20
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz050"
+  },
+  {
+   "publisher": "International Academic and Research Consortium",
+   "abstract": "<jats:p>The escalating threat of antimicrobial resistance (AMR) necessitates urgent and comprehensive strategies to preserve the efficacy of existing antibiotics. Antimicrobial stewardship programs (AMSPs) have emerged as a cornerstone in the fight against AMR, aiming to optimize antibiotic use and minimize the adverse impacts of their misuse. This review explores the multifaceted approach of AMSPs, highlighting their critical role in promoting the judicious use of antibiotics through a structured, multidisciplinary effort. Key components of AMSPs include administrative support, formation of a dedicated AMS team, integration of microbiology and pharmacology laboratory support, utilization of information technology, and adherence to tailored antimicrobial policies. The review delves into both front-end and back-end stewardship strategies, such as formulary restrictions, prospective audit and feedback, and educational interventions, underscoring their significance in altering prescribing behaviors and enhancing patient outcomes. By emphasizing the importance of a coordinated approach to antibiotic stewardship, this article underscores the potential of AMSPs to significantly reduce the incidence of AMR, safeguarding the utility of antimicrobials for future generations. The challenges and opportunities presented by AMSPs are discussed, with a focus on the necessity for ongoing education, compliance monitoring, and the adoption of innovative practices to address the dynamic landscape of antibiotic resistance</jats:p>",
+   "DOI": "10.47310/iajabms.2024.v0i502.010",
+   "type": "journal-article",
+   "title": [
+    "Antimicrobial Stewardship Programs (AMSPs): Navigating Towards Optimal Antibiotic Use and Combating Antimicrobial Resistance"
+   ],
+   "author": [
+    {
+     "given": "Riti",
+     "family": "Kapoor",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Diksha",
+     "family": "Sood",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kamal",
+     "family": "Kant Kalia",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hmingthansangi",
+     "family": "Vanngiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Academic Journal of Applied Bio-Medical Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      7,
+      29
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.47310/iajabms.2024.v0i502.010"
+  },
+  {
+   "DOI": "10.1093/jacamr/dlz092",
+   "title": [
+    "The short and long of measurement in antibiotic stewardship"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      23
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlz092"
+  },
+  {
+   "publisher": "Oxford University Press (OUP)",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>Antimicrobial resistance (AMR) is an emerging global threat, with notable impact evident in low- and middle-income countries. Indiscriminate antibiotic prescribing is recognized as the key factor responsible for the continued spread of AMR.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>To comprehensively map published data of evidence of AMR in healthcare settings in South Africa, encompassing the exploration of antibiotic prescribing practices and the implementation of antimicrobial stewardship initiatives.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>The scoping review methodology was based on the guidelines outlined by Arksey and O’Malley. The protocol for this scoping review has been registered in the Open Science Framework (https://doi.org/10.17605/OSF.IO/PWMFB). The search strategy was documented using the protocol outlined within the Preferred Reporting Items for Systematic Reviews and Meta-Analyses for Scoping Reviews (PRISMA-ScR). Databases used were Science Direct, Scopus, PubMed, Wiley, Directory of Open Access Journals; and health organizations such as the WHO. In addition, the Google search engine was used to search for grey matter. The search was restricted to peer-reviewed articles in English on human studies for the period 2019–24.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>The search yielded a total of 529 articles from electronic databases and search engines. Twenty-nine articles were accepted for inclusion following the application of the study protocol. The majority of the articles were primary research papers.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>The findings reveal that South Africa has measures in place to combat AMR; however, inconsistencies were found between the private and public health sectors, in addition to the lack of adherence to guidelines and limitations in AMR education among healthcare workers and students.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1093/jacamr/dlaf014",
+   "type": "journal-article",
+   "title": [
+    "Antimicrobial resistance, antibiotic prescribing practices and antimicrobial stewardship in South Africa: a scoping review"
+   ],
+   "author": [
+    {
+     "given": "Suwayda",
+     "family": "Ahmed",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Prosthodontics, Faculty of Dentistry, University of the Western Cape , Cape Town ,",
+       "place": [
+        "South Africa"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rukshana",
+     "family": "Ahmed",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Prosthodontics, Faculty of Dentistry, University of the Western Cape , Cape Town ,",
+       "place": [
+        "South Africa"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Razia Zulfikar",
+     "family": "Adam",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Dentistry, University of the Western Cape , Cape Town ,",
+       "place": [
+        "South Africa"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Renier",
+     "family": "Coetzee",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Public Health, University of the Western Cape , Cape Town ,",
+       "place": [
+        "South Africa"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12,
+      26
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/jacamr/dlaf014"
+  },
+  {
+   "DOI": "10.1093/jacamr/dlab154",
+   "title": [
+    "<i>Educational Resource Review:</i> Antimicrobial stewardship: improving clinical outcomes by optimization of antibiotic practices"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlab154"
+  },
+  {
+   "DOI": "10.1016/j.jgar.2014.08.002",
+   "title": [
+    "Antibiotic stewardship challenges in the management of community-acquired infections for prevention of escalating antibiotic resistance"
+   ],
+   "container-title": [
+    "Journal of Global Antimicrobial Resistance"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.jgar.2014.08.002",
+   "author": [
+    {
+     "given": "Javier",
+     "family": "Garau",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dave P.",
+     "family": "Nicolau",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Björn",
+     "family": "Wullt",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Matteo",
+     "family": "Bassetti",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Oxford University Press (OUP)",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Antimicrobial resistance (AMR) continues to spread at an alarming rate worldwide. Novel approaches are needed to mitigate its deleterious impact on antibiotic efficacy. Antibiotic stewardship aims to promote the appropriate use of antibiotics through evidence-based interventions. One paradigm is precision medicine, a medical model in which decisions, practices, interventions, and therapies are adapted to the individual patient based on their predicted response or risk of disease. Precision medicine approaches hold promise as a way to improve outcomes for patients with myriad illnesses, including infections such as bacteraemia and pneumonia. This review describes the latest advances in precision medicine as they pertain to antibiotic stewardship, with an emphasis on hospital-based antibiotic stewardship programmes. The impact of the COVID-19 pandemic on AMR and antibiotic stewardship, gaps in the scientific evidence, and areas for further research are also discussed.</jats:p>",
+   "DOI": "10.1093/jacamr/dlac066",
+   "type": "journal-article",
+   "title": [
+    "Antibiotic stewardship in the era of precision medicine"
+   ],
+   "author": [
+    {
+     "given": "Richard R",
+     "family": "Watkins",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Medicine, Northeast Ohio Medical University , Rootstown, OH , USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/jacamr/dlac066"
+  },
+  {
+   "DOI": "10.1079/9781780644394.0080",
+   "title": [
+    "Antibiotic resistance: associations and implications for antibiotic usage strategies to control multiresistant bacteria."
+   ],
+   "container-title": [
+    "Antimicrobial stewardship: principles and practice"
+   ],
+   "publisher": "CABI",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      12,
+      23
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1079/9781780644394.0080",
+   "author": [
+    {
+     "given": "L. B.",
+     "family": "Rice",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Joukowsky Family Professor and Chair\r            Department of Medicine\r            Division of Infectious Diseases\r            Rhode Island and The Miriam Hospitals\r            The Warren Alpert Medical School of Brown University\r            593 Eddy Street\r            Providence\r            RI 02903\r            USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1093/jacamr/dlaa121",
+   "title": [
+    "<i>Educational resource review:</i> Antibiotic stewardship in focus: a closer look at procalcitonin-guided antibiotic de-escalation"
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      1,
+      18
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/jacamr/dlaa121"
+  },
+  {
+   "publisher": "Oxford University Press (OUP)",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Antimicrobial resistance (AMR) is a worldwide health issue of concern, which is not merely triggered by the incorrect use of antibiotics, but also caused by environmental contamination due to improper disposal of unused, unwanted, and expired antibiotics. Pharmaceutical residues that find their way into water bodies, soil and landfills promote the process of selection and spread of antibiotic resistance genes (ARGs) among environmental bacteria, promoting the One Health crisis. Community pharmacists are the most suitable to lead the environmental antimicrobial stewardship campaign (eAMS) by ensuring responsible dispensing, thorough patient education, and the use of safe means to dispose of medications since they have the greatest access to the final chain of medication usage in healthcare delivery.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>This research evaluated the effects of the eAMS intervention led by a pharmacist on the decrease of the amount of antibiotic waste and the increase of appropriate disposal among patients in community pharmacy.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>A prospective interventional study was done within the chosen community pharmacies in a period of 12 months. Pharmacists were specially trained on eAMS concepts, dispensing of antibiotics in exact quantities, adherence counselling, handling of left-over medicine, and safe disposal measures, such as take-back programmes, deactivation kits. Specific patient education resources were offered to patients on antibiotic therapy, and disposal means were easily available. Structured surveys were used to gather pre- and post-intervention data on the quantity of dispensed and prescribed antibiotics, the volume of antibiotics returned, and the disposal habits of patients using structured surveys and direct measurement of waste. The reduction in active pharmaceutical ingredient (API) load released to the waste stream was measured as the environmental impact.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>A total of 1248 patients were enrolled. The eAMS intervention headed by the pharmacist was a significant intervention which resulted in a 52 % (27.6 % to 13.2 % of the dispensing quantity per prescription, P&amp;lt;0.001) decrease in the number of antibiotic leftovers, primarily due to customized exact-quantity dispensing and adherence counselling. Pharmacy returns of antibiotics went up by 124 % and the percentage of proper disposal practices went up to 68 %. Unsafe disposal including flushing into toilets or dumping in domestic garbage, dropped immensely by 44% to 12%. Overall, the quantity of the antimicrobial active pharmaceutical ingredient (API) that was safely removed out of the environment was 11.4 kg, it is deactivated, and diverted, which is reducing the risk of pharmaceutical contamination and spread of ARG.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Community pharmacists may be effective proxies of environmental antimicrobial stewardship through incorporation of waste-minimization measures into practice. These are pharmacist-led programmes that will be a viable, sustainable, and inexpensive approach to mitigate the environmental footprint of antibiotics and promote One Health initiatives in AMR. It is highly advised that supportive policies should be used to scale such programmes</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1093/jacamr/dlag102.057",
+   "type": "journal-article",
+   "title": [
+    "P51 Pharmacists as champions in environmental antimicrobial stewardship: reducing antibiotic waste and disposal impact"
+   ],
+   "author": [
+    {
+     "given": "Sara",
+     "family": "Munir",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Punjab University College of Pharmacy, University of the Punjab , Lahore ,",
+       "place": [
+        "Pakistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yasir",
+     "family": "Riaz",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Agriculture Faisalabad , Faisalabad ,",
+       "place": [
+        "Pakistan"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "JAC-Antimicrobial Resistance"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/jacamr/dlag102.057"
+  }
+ ]
+}

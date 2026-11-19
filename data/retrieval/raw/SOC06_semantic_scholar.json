@@ -1,0 +1,636 @@
+{
+ "query": "Gender gap in labor force participation",
+ "retrieved_at": "2026-11-18T17:57:41.022998+00:00",
+ "data": [
+  {
+   "paperId": "9d69376cd3055cd421bcf9203ae5bea41762405a",
+   "externalIds": {
+    "DOI": "10.5089/9798229021456.001",
+    "CorpusId": 280772800
+   },
+   "url": "https://www.semanticscholar.org/paper/9d69376cd3055cd421bcf9203ae5bea41762405a",
+   "title": "Impact of Cross-Border Migration on the Gender Gap in Labor Force Participation in Latin America and in the Caribbean Countries",
+   "venue": "IMF Working Papers",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.5089/9798229021456.001",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5089/9798229021456.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5089/9798229021456.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-01",
+   "authors": [
+    {
+     "authorId": "2376748312",
+     "name": "Cassie Chen Xiang"
+    },
+    {
+     "authorId": "119061967",
+     "name": "Manuk Ghazanchyan"
+    }
+   ],
+   "abstract": "Migration has been typically accompanied by persistently large gender gaps in labor force participation (LFP) rates within the Latin American and the Caribbean (LAC) countries from 1990 to 2020. However, the impact of both emigration (moving abroad) and immigration (coming in to the host country), and their joint effect on gender gap in labor force participation in LAC remains to be explored. This paper fills this gap by using both country-level data across LAC countries and individual-level data within Colombia as a supplementary case study. Our country-level analysis of LAC countries from 1991 to 2019 reveals that emigration is associated with decreased labor force participation rates, particularly among women. Supporting these findings, and based on data on Colombia from 2017 to 2019, we found that remittances, serving as a proxy for emigration, are associated with reduced labor force participation, especially among less-educated, older, and informal-sector women workers shaped by structural barriers and policy gaps. The reduced LFP rates for all genders are also shown with the influx of Venezuelan immigrants (serving as a proxy for an immigration shock) in the Colombian case."
+  },
+  {
+   "paperId": "2cfb1a939e993fcbf4d8e095e4c168e2f7bbe2e8",
+   "externalIds": {
+    "MAG": "2121294582",
+    "DOI": "10.1016/S0927-5371(00)00007-5",
+    "CorpusId": 28103782
+   },
+   "url": "https://www.semanticscholar.org/paper/2cfb1a939e993fcbf4d8e095e4c168e2f7bbe2e8",
+   "title": "An examination of cross-country differences in the gender gap in labor force participation rates",
+   "venue": "",
+   "year": 2000,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S0927-5371(00)00007-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S0927-5371(00)00007-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2000-07-01",
+   "authors": [
+    {
+     "authorId": "4084239",
+     "name": "Heather Antecol"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "b7d9dcf651c8857f67aab70b7ef7648c7c55e311",
+   "externalIds": {
+    "DOI": "10.1007/s44265-026-00083-y",
+    "CorpusId": 289169417
+   },
+   "url": "https://www.semanticscholar.org/paper/b7d9dcf651c8857f67aab70b7ef7648c7c55e311",
+   "title": "On digital economy development and gender gap in labor force participation: a cross-countries perspective",
+   "venue": "Digital Economy and Sustainable Development",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s44265-026-00083-y.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44265-026-00083-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44265-026-00083-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-11",
+   "authors": [
+    {
+     "authorId": "2167427642",
+     "name": "Qurat Ul Ain"
+    },
+    {
+     "authorId": "2185276481",
+     "name": "Chunxia Jiang"
+    }
+   ],
+   "abstract": "This study examines the effect of digital economy development (DEDI) on the gender gap in labor force participation (LFP) using a panel dataset of 59 countries over the period of 2004–2022. Employing a fixed effect estimator, we find that DEDI is associated with a reduction in the gender gap, and this effect is more pronounced in countries with higher levels of female LFP. Our results show that high-income and highly digitalized countries are better positioned to benefit from the labor market opportunities generated by digitalization. Overall, while the digital economy contributes to narrowing the gender gap, its impact is most substantial in economies with inclusive labor markets, advanced digital infrastructure, and broader institutional support for women’s employment. Policy makers should promote gender-inclusive labor market policies and invest in digital skills training for women to effectively narrow the gender digital gap and maximize the benefits of DEDI."
+  },
+  {
+   "paperId": "63bdfe30064ef57ecba2440b40d9bcee6d8e741a",
+   "externalIds": {
+    "DOI": "10.31995/rjpss.2025.v50i02.032",
+    "CorpusId": 282459918
+   },
+   "url": "https://www.semanticscholar.org/paper/63bdfe30064ef57ecba2440b40d9bcee6d8e741a",
+   "title": "A Study of State-Level Gender Gap in Education and Labor Force Participation",
+   "venue": "REVIEW JOURNAL PHILOSOPHY &amp; SOCIAL SCIENCE",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31995/rjpss.2025.v50i02.032?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31995/rjpss.2025.v50i02.032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-30",
+   "authors": [
+    {
+     "authorId": "123103551",
+     "name": "G. Rani"
+    },
+    {
+     "authorId": "2349365001",
+     "name": "Anjali Gupta"
+    }
+   ],
+   "abstract": "The skewed gender ratio of education and labor force adversely selects a less efficient pool of workers, which lowers the average quality of human capital and has a negative effect on output growth. These disparities are typically far more pronounced in developing nations than in developed ones through allocative inefficiencies that lower overall labor productivity reflected in them. Even in the absence of productivity growth the economy expands when labor and other resources shift from less productive to more productive activities. The gendered or gender-biased labor markets affect not just women workers but also long-term productivity horizons. It is a sign of inefficient resource distribution. Additionally, they keep economies stuck on the ‘low road’ of labour-intensive growth, which makes it challenging to guarantee the sustainability of growth or to fully reap its benefits. The favourable circumstances surrounding women’s employment can provide a more solid foundation for long-term increases in per capita income."
+  },
+  {
+   "paperId": "02f195439f603dc48020d779dc3c09fa99e64972",
+   "externalIds": {
+    "DOI": "10.1016/j.jdeveco.2026.103798",
+    "CorpusId": 287353608
+   },
+   "url": "https://www.semanticscholar.org/paper/02f195439f603dc48020d779dc3c09fa99e64972",
+   "title": "The Stalled Quiet Revolution: Population Control, Skewed Sex Ratios, and the Widening Gender Gap in Labor Force Participation",
+   "venue": "Journal of Development Economics",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2139/ssrn.5294938",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jdeveco.2026.103798?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jdeveco.2026.103798, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-04-01",
+   "authors": [
+    {
+     "authorId": "2041706409",
+     "name": "Zihao Chen"
+    },
+    {
+     "authorId": "2260830794",
+     "name": "Yawen Ding"
+    },
+    {
+     "authorId": "2325008311",
+     "name": "Xu Tian"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "6fc319687413b78f773df39ccc30493bfdb4ff9d",
+   "externalIds": {
+    "MAG": "3197553185",
+    "DOI": "10.1016/J.CHIECO.2021.101689",
+    "CorpusId": 239626644
+   },
+   "url": "https://www.semanticscholar.org/paper/6fc319687413b78f773df39ccc30493bfdb4ff9d",
+   "title": "Import competition and the gender gap in labor force participation: Evidence from China",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.CHIECO.2021.101689?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.CHIECO.2021.101689, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-10-01",
+   "authors": [
+    {
+     "authorId": "2158009586",
+     "name": "Zhen Yu"
+    },
+    {
+     "authorId": "2137362290",
+     "name": "Xiao-Ling Wu"
+    },
+    {
+     "authorId": "2153101971",
+     "name": "Meng Li"
+    },
+    {
+     "authorId": "123547374",
+     "name": "Ru-Fei Guo"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "efbfeb902da821b3501cebf533fe5cfeec9f7a95",
+   "externalIds": {
+    "DOI": "10.1016/j.labeco.2023.102359",
+    "CorpusId": 257674422
+   },
+   "url": "https://www.semanticscholar.org/paper/efbfeb902da821b3501cebf533fe5cfeec9f7a95",
+   "title": "Marriage patterns and the gender gap in labor force participation: evidence from Italy",
+   "venue": "Labour Economics",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0927537123000349",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.labeco.2023.102359?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.labeco.2023.102359, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2023-03-01",
+   "authors": [
+    {
+     "authorId": "2560773134",
+     "name": "Giovanni Righetto"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "965b2f78c64ab5d32a3c63477a3c2953a55c2ec0",
+   "externalIds": {
+    "DOI": "10.1080/13504851.2022.2094315",
+    "CorpusId": 250514007
+   },
+   "url": "https://www.semanticscholar.org/paper/965b2f78c64ab5d32a3c63477a3c2953a55c2ec0",
+   "title": "Social norms and the gender gap in labor force participation: Evidence from Turkey",
+   "venue": "Applied Economics Letters",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/13504851.2022.2094315?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/13504851.2022.2094315, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-07-11",
+   "authors": [
+    {
+     "authorId": "97019670",
+     "name": "Z. E. Gevrek"
+    },
+    {
+     "authorId": "104665665",
+     "name": "Deniz Gevrek"
+    }
+   ],
+   "abstract": "ABSTRACT We use a novel two-step empirical strategy to examine the relationship between social norms and the gender gap in labour force participation (LFP) across provinces of Turkey. In the first step, we identify the unexplained part of the gender gap in LFP that remains after accounting for differences in observed characteristics between women and men for each province by implementing a decomposition method. In the second step, we investigate the role of social norms in explaining cross-province variation in the unexplained part. The results reveal that more egalitarian gender role attitudes, smaller gender gap in tertiary education, lower fertility and consanguineous marriage rates, and lower level of religiosity significantly predict a smaller unexplained part of the gender gap in LFP favouring males."
+  },
+  {
+   "paperId": "a0f5cdac625e7bf3b8dccf04d6906de585b53de0",
+   "externalIds": {
+    "MAG": "2922084304",
+    "DOI": "10.1016/J.EUROECOREV.2019.02.009",
+    "CorpusId": 159123761
+   },
+   "url": "https://www.semanticscholar.org/paper/a0f5cdac625e7bf3b8dccf04d6906de585b53de0",
+   "title": "Credit market competition and the gender gap in labor force participation: Evidence from local markets",
+   "venue": "European Economic Review",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2139/ssrn.3001640",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.EUROECOREV.2019.02.009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.EUROECOREV.2019.02.009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-06-01",
+   "authors": [
+    {
+     "authorId": "2411583150",
+     "name": "A. Popov"
+    },
+    {
+     "authorId": "105493099",
+     "name": "Sonia Zaharia"
+    }
+   ],
+   "abstract": "Abstract We exploit the exogenous variation in regional credit market competition brought on by banking deregulation to study the evolution of the gender gap in labor force participation in local US markets. We find that intrastate deregulation increased substantially female labor force participation rates, owing to three separate mechanisms: an increase in the rates of net job creation by private firms, an expansion of services-producing sectors, and an increase in the share of jobs requiring female-specific skills. This effect is robust to controlling for a range of socio-economic developments, as well as for a US-wide gender-specific trend. Overall, intrastate deregulation reduced the gender gap in labor force participation by at least 7.5%."
+  },
+  {
+   "paperId": "8e0d5d3910b15b3633393d4dee502d4c69d48260",
+   "externalIds": {
+    "DOI": "10.1177/00207152221108139",
+    "CorpusId": 251080115
+   },
+   "url": "https://www.semanticscholar.org/paper/8e0d5d3910b15b3633393d4dee502d4c69d48260",
+   "title": "Union brokerage and the gender gap in the labor market: A cross-national comparative study of associational networks and gendered labor force participation in OECD countries",
+   "venue": "International Journal of Comparative Sociology",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/00207152221108139?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/00207152221108139, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-07-24",
+   "authors": [
+    {
+     "authorId": "16031700",
+     "name": "Cheol-Sung Lee"
+    },
+    {
+     "authorId": "2310532301",
+     "name": "Taekyeong Goh"
+    }
+   ],
+   "abstract": "This article explores the role of union-centered brokerage in promoting women’s labor force participation in Organisation for Economic Co-operation and Development countries for the last three decades. Using two measures of brokerage, a union’s core brokerage role, and its general brokerage role, we attempted to capture the processes by which union activists mobilize and extend women’s rights in associational fields. Then, we tested our key argument that union-centered brokerage plays the most effective role among the different brokerage types in channeling women’s interests by transforming them into wider class-linked or cross-class concerns. Cross-national and comparative case studies demonstrate that union-led brokerage promotes greater presence of women in the economy. Our findings revealed that, when controlling for economic, regional, and cultural factors, both types of brokerage roles impact women’s participation in the labor market and their participation compared to that of men. The overall findings underscore the importance of creating and utilizing solidarity structures through effective channeling mechanisms in civic associational fields between labor-based organizations and other reform-oriented civic groups in achieving egalitarian socioeconomic goals."
+  },
+  {
+   "paperId": "12033be0928cbae1236e41e9b05af08d316780f9",
+   "externalIds": {
+    "DOI": "10.19195/2658-1310.32.1.2",
+    "CorpusId": 295609197
+   },
+   "url": "https://www.semanticscholar.org/paper/12033be0928cbae1236e41e9b05af08d316780f9",
+   "title": "Children, labor force participation, and intergenerational transfers: Women’s attitudes and implications for the gender pension gap—survey-based evidence",
+   "venue": "Ekonomia",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://czasopisma.uwr.edu.pl/ekon/article/download/19523/17692",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.19195/2658-1310.32.1.2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.19195/2658-1310.32.1.2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-11-04",
+   "authors": [
+    {
+     "authorId": "87617811",
+     "name": "Anna Jędrzychowska"
+    },
+    {
+     "authorId": "95577211",
+     "name": "I. Kwiecień"
+    },
+    {
+     "authorId": "96729797",
+     "name": "Ewa Poprawska"
+    }
+   ],
+   "abstract": "Population aging, declining fertility, and changing family patterns increasingly shape labor market behavior, retirement decisions, and intergenerational relations. This article examines how women perceive the costs and benefits of parenthood in the context of labor market participation, retirement, and expectations of intergenerational support. The study draws on a nationwide CAWI survey conducted in Poland in late 2024 on a sample of 1,000 women, including 266 aged 60 years and older and 734 below age 60. The analysis focuses on two interrelated mechanisms: the economic channel, related to career interruptions, earnings, and pension entitlements, and the relational channel, linked to intergenerational solidarity and expectations of support from adult children. The results indicate that having children does not significantly differentiate labor market activity after retirement, while financial support from children is relatively rare and clearly less common than organizational and care-related support. Younger women display stronger expectations of future support than seniors currently report receiving. Investments in children’s higher education are not associated with a higher probability of receiving financial support in old age and, in some cases, are linked to lower receipt of such support. At the same time, a pattern of bidirectional intergenerational solidarity emerges: women who support their parents financially or organizationally are more likely to invest in their children and to expect support in the future. The findings also reveal a strong norm of self-sufficiency among older women, with reluctance to request assistance despite potential needs. The results suggest that subjective expectations of intergenerational “returns on investment” coexist with substantial uncertainty regarding actual future support, highlighting the importance of public long-term care arrangements as family support capacities decline."
+  },
+  {
+   "paperId": "ac09b01918e494a76549aab9a1fdbebc29703edb",
+   "externalIds": {
+    "MAG": "3153927633",
+    "DOI": "10.18723/DIW_DWR:2021-9-1",
+    "CorpusId": 244624660
+   },
+   "url": "https://www.semanticscholar.org/paper/ac09b01918e494a76549aab9a1fdbebc29703edb",
+   "title": "Gender pay gap in a European comparison: Positive correlation between the female labor force participation rate and the gender pay gap",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.18723/DIW_DWR:2021-9-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18723/DIW_DWR:2021-9-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "88429551",
+     "name": "J. Schmieder"
+    },
+    {
+     "authorId": "66029191",
+     "name": "Katharina Wrohlich"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "c221ba1c566e0384a65d6c91a7e2520d26bc8fa6",
+   "externalIds": {
+    "MAG": "3130047469",
+    "DOI": "10.1007/s11205-021-02631-9",
+    "CorpusId": 233895986
+   },
+   "url": "https://www.semanticscholar.org/paper/c221ba1c566e0384a65d6c91a7e2520d26bc8fa6",
+   "title": "Rising Female Labor Force Participation and Gender Wage Gap: Evidence From Turkey",
+   "venue": "Social Indicators Research",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11205-021-02631-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11205-021-02631-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2021-02-12",
+   "authors": [
+    {
+     "authorId": "104733953",
+     "name": "A. Aldan"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "4a12800a50845681b4a9111750e3c009d4f93b36",
+   "externalIds": {
+    "DOI": "10.1177/0958305X241277623",
+    "CorpusId": 272580725
+   },
+   "url": "https://www.semanticscholar.org/paper/4a12800a50845681b4a9111750e3c009d4f93b36",
+   "title": "The effect of gender gap in labor market participation on carbon emission efficiency: State-level empirical evidence from the US",
+   "venue": "Energy &amp; Environment",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0958305X241277623?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0958305X241277623, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-09-09",
+   "authors": [
+    {
+     "authorId": "2087720660",
+     "name": "Shang-Ze Dai"
+    },
+    {
+     "authorId": "2314334676",
+     "name": "Yi Dai"
+    },
+    {
+     "authorId": "2304579233",
+     "name": "Hai-Chao Yu"
+    }
+   ],
+   "abstract": "As structural transformation and economic development have progressed, the issue of climate change has become increasingly critical, concurrently with the growing significance of women in the labor market. Yet, the impact of the gender gap in labor participation rates on carbon emission efficiency remains ambiguous. This article employs a data envelopment analysis model to evaluate carbon emission efficiency, utilizing US state-level data from 2010 to 2021 for an empirical investigation into the influence of the gender gap in labor market participation and unemployment rates on carbon emission efficiency. Overall, the narrowing of the gender gap in the labor market contributes to the improvement of carbon emission efficiency. The detailed findings are as follows: (1) diminishing the gender gap in labor force participation and unemployment rates can enhance carbon emission efficiency, a trend particularly pronounced in states that have adopted the Equal Rights Amendment and during the pre-COVID-19 era; (2) gender gap in labor market participation and unemployment rates affects carbon emission efficiency through skilled labor biased technological progress and income inequality and (3) the increase of innovation efficiency, saving rate and endowment structure can mitigate gender gap in labor market participation and unemployment rates’ effects on carbon emission efficiency."
+  },
+  {
+   "paperId": "22bff43235950735690363c16ecf67b804f245a2",
+   "externalIds": {
+    "CorpusId": 260872082
+   },
+   "url": "https://www.semanticscholar.org/paper/22bff43235950735690363c16ecf67b804f245a2",
+   "title": "An Examination of Cross-Country Differences in the Gender Gap in Labor Force Participation Rates",
+   "venue": "",
+   "year": 1999,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://socialsciences.mcmaster.ca/econ/rsrch/papers/CILN/cilnwp37.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "4084239",
+     "name": "Heather Antecol"
+    },
+    {
+     "authorId": "144823037",
+     "name": "P. Kuhn"
+    },
+    {
+     "authorId": "47351728",
+     "name": "L. Magee"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "e38e2536defc3ab42bf11a94bc26297febff5a92",
+   "externalIds": {
+    "DOI": "10.36344/ccijhss.2026.v12i01.001",
+    "CorpusId": 286355557
+   },
+   "url": "https://www.semanticscholar.org/paper/e38e2536defc3ab42bf11a94bc26297febff5a92",
+   "title": "Trends, Structural Break and Factors of Gender Gap in Labour Force Participation in India",
+   "venue": "Cross Currents",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://saspublishers.com/article/23588/download/",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36344/ccijhss.2026.v12i01.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36344/ccijhss.2026.v12i01.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-01-22",
+   "authors": [
+    {
+     "authorId": "2422517998",
+     "name": "Zoya Fatema"
+    },
+    {
+     "authorId": "2262287689",
+     "name": "Susobhan Maiti"
+    }
+   ],
+   "abstract": "Despite economic growth and human development advances, India's gender gap in labor force participation remains large, raising worries about its inclusive development trajectory. This research uses World Development Indicators secondary time-series data to evaluate gender differences in labor force participation in India from 1990 to 2024. The gender gap the disparity between male and female labor force participation rates is analyzed using multiple regression with GDP, birth rate, life expectancy, and inflation. Furthermore, the Bai–Perron structural break test detects substantial labor market developments over time. GDP growth does not considerably lower the gender gap, suggesting that economic development alone cannot increase women's employment participation. Life expectancy decreases the gender gap, showing that health improvements increase gender equality. Conversely, greater fertility rates increase the gender gap since women shoulder more caring and household duties. Inflation narrows the gender gap due to distress-induced female labor supply. Economic disruptions like the global financial crisis and demonetisation disproportionately hurt women's employment, according to structural break research. The results suggest that tailored policies that address institutional, social, and demographic restrictions alongside economic development are needed to reduce the gender gap in labor force participation."
+  },
+  {
+   "paperId": "72621fe3228e825e0a4b529824a783159d6fdd71",
+   "externalIds": {
+    "MAG": "2197121373",
+    "DOI": "10.2139/ssrn.2363903",
+    "CorpusId": 56439520
+   },
+   "url": "https://www.semanticscholar.org/paper/72621fe3228e825e0a4b529824a783159d6fdd71",
+   "title": "The Intergenerational Transfer of the Gender Gap in Labor Force Participation",
+   "venue": "Social Science Research Network",
+   "year": 2013,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2139/ssrn.2363903",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.2363903?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.2363903, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2013-11-29",
+   "authors": [
+    {
+     "authorId": "12807266",
+     "name": "V. F. Haaland"
+    },
+    {
+     "authorId": "2434763",
+     "name": "Mari Rege"
+    },
+    {
+     "authorId": "15413778",
+     "name": "K. Telle"
+    },
+    {
+     "authorId": "34719502",
+     "name": "M. Votruba"
+    }
+   ],
+   "abstract": "Despite well-documented convergence during the later years of the 20th century, labor force attachment remains markedly higher for men than for women. The current paper employs rich longitudinal registry data to investigate the intergenerational transfer of the gender gap in labor force participation. We explore the extent that family- and community-level characteristics, measured in childhood, differentially predict the likelihood of employment for adult Norwegian men and women. Drawing on theories pertaining to the importance of information, skills and gender norms transfer, our empirical analysis demonstrates that a parsimonious set of family- and community-level characteristics can explain a substantial part of the gender gap. These results suggest that female labor force participation is constrained by the intergenerational transfer of beliefs and expectations about family and work."
+  },
+  {
+   "paperId": "2351c09db754ab6e0743323ab9fdfc917717f7c3",
+   "externalIds": {
+    "MAG": "2980591821",
+    "DOI": "10.11611/YEAD.556291",
+    "CorpusId": 210712217
+   },
+   "url": "https://www.semanticscholar.org/paper/2351c09db754ab6e0743323ab9fdfc917717f7c3",
+   "title": "GENDER INEQUALITY IN LABOR FORCE PARTICIPATION IN TURKEY: CLOSING THE GENDER GAP?",
+   "venue": "",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://dergipark.org.tr/en/download/article-file/830336",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11611/YEAD.556291?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11611/YEAD.556291, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-09-30",
+   "authors": [
+    {
+     "authorId": "2337048872",
+     "name": "M. İnce Yenilmez"
+    }
+   ],
+   "abstract": "The roles and status of women have been discovered to be lagging behind in developing countries, especially when it comes to distribution of resources. Why? You may ask. The answer is not far-fetched. The cultural and demographic values developed overtime, as well as the practice of having a social system that is run by males rather than females, are a few reasons for this. Owing to the fact that the existing socio-cultural environment goes a long way to determine how things are accorded to both genders both in the home front, as well as in the labor market, it is not surprising to find women in Turkey lagging behind in many aspects. The purpose of this study is to observe and understand the inherent relationship between female unemployment and economic inequality with regards to the social and demographic norms surrounding the female gender in Turkey.  In addition,  reducing informal employment, promoting high quality and productive jobs are crucial for addressing the problems of female unemployment."
+  },
+  {
+   "paperId": "97ba71eb098ecd74176f8d66a1f9eea52ed1b883",
+   "externalIds": {
+    "MAG": "2269362722",
+    "CorpusId": 155136189
+   },
+   "url": "https://www.semanticscholar.org/paper/97ba71eb098ecd74176f8d66a1f9eea52ed1b883",
+   "title": "Convergence or Divergence of Gender Gap in Labor Force Participation: A Study of Indian States",
+   "venue": "",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at http://www.theinternationaljournal.org/ojs/index.php?journal=rjebs&op=download&page=article&path%5B%5D=4449&path%5B%5D=pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2015-10-29",
+   "authors": [
+    {
+     "authorId": "1665487616",
+     "name": "Jyoti Lilar"
+    },
+    {
+     "authorId": "2273389",
+     "name": "Pragati Jain"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "25cf4c30c256a3b62fe613dab4145aeaea12ade8",
+   "externalIds": {
+    "CorpusId": 250085892
+   },
+   "url": "https://www.semanticscholar.org/paper/25cf4c30c256a3b62fe613dab4145aeaea12ade8",
+   "title": "Employment and Social Protection Area Conferences 2014 The Intergenerational Transfer of the Gender Gap in Labor Force Participation",
+   "venue": "",
+   "year": null,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [],
+   "abstract": null
+  }
+ ]
+}

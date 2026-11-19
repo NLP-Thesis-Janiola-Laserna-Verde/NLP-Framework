@@ -1,0 +1,1184 @@
+{
+ "query": "Tuberculosis treatment adherence",
+ "retrieved_at": "2026-11-18T18:10:39.848246+00:00",
+ "data": [
+  {
+   "paperId": "da2529bea71bfb614c709aa595400004669c0be0",
+   "externalIds": {
+    "PubMedCentral": "10801941",
+    "DOI": "10.1186/s12889-023-17561-z",
+    "CorpusId": 267071068,
+    "PubMed": "38254065"
+   },
+   "url": "https://www.semanticscholar.org/paper/da2529bea71bfb614c709aa595400004669c0be0",
+   "title": "Enhancing tuberculosis treatment adherence and motivation through gamified real-time mobile app utilization: a single-arm intervention study",
+   "venue": "BMC Public Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-17561-z",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10801941, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-01-22",
+   "authors": [
+    {
+     "authorId": "2122586928",
+     "name": "Siti Aishah Abas"
+    },
+    {
+     "authorId": "10400625",
+     "name": "N. Ismail"
+    },
+    {
+     "authorId": "32260698",
+     "name": "Y. Zakaria"
+    },
+    {
+     "authorId": "10416542",
+     "name": "S. Yasin"
+    },
+    {
+     "authorId": "2202572085",
+     "name": "Khalid Ibrahim"
+    },
+    {
+     "authorId": "2280187944",
+     "name": "Ismassabah Ismail"
+    },
+    {
+     "authorId": "87267867",
+     "name": "A. Razali"
+    },
+    {
+     "authorId": "2280187825",
+     "name": "Mas Ahmad Sherzkawi"
+    },
+    {
+     "authorId": "2316124477",
+     "name": "Norliza Ahmad"
+    }
+   ],
+   "abstract": "Finding innovative methods to enhance Tuberculosis treatment adherence in Malaysia is imperative, given the rising trend of non-adhere TB patients. Direct Observed Therapy (DOTS) has been used to ensure Tuberculosis (TB) drug compliance worldwide. However, due to its inconvenience, digitalizing this system into a virtual monitoring system via a mobile app can help deliver a more efficient tuberculosis management system. A gamified video-observed therapy is developed that connects three users the patient, supervisor, and administrator, allowing drug monitoring and patient loss to follow up with the patient tracking system. Thus, the objective of this study is to determine the impact of Gamified Real-time Video Observed Therapy (GRVOTS) mobile apps on patient medication adherence rates and motivation. 71 patients from 18 facilities participated in the 8-week single-arm intervention study. GRVOTS mobile apps were installed in their mobile apps, and patients were expected to fulfill tasks such as providing Video Direct Observe Therapy (VDOTS) daily as well as side effect reporting. At 3-time intervals of baseline,1-month, and 2-month intervals, the number of VDOT taken, the Malaysian Medication Adherence Assessment Tool (MyMAAT), and the Intrinsic Motivation Inventory (IMI) questionnaire were collected. One-sample t-test was conducted comparing the VDOT video adherence to the standard rate of 80%. RM ANOVA was used to analyze any significant differences in MyMAAT and IMI scores across three-time intervals. This study involved 71 numbers of patients from 18 healthcare facilities who showed a significantly higher treatment adherence score of 90.87% than a standard score of 80% with a mean difference of 10.87(95% CI: 7.29,14.46; p < 0.001). The participants’ MyMAAT and IMI scores significantly increased over 3-time intervals with the IMI Interest domain showing the highest mean difference 19.76 (95% CI: 16.37, 21.152: p < 0.001). By utilizing GRVOTS, a mobile application based on gamification and real-time features, we can enhance motivation and medication adherence among TB patients, while also addressing the limitations of physical DOTS. IRCT20230308057657N1, Registered on (15/03/23)."
+  },
+  {
+   "paperId": "534fd168dcdfe09e48d49824843c1b9016db8f5a",
+   "externalIds": {
+    "PubMedCentral": "11529515",
+    "DOI": "10.1136/bmjgh-2024-015654",
+    "CorpusId": 270044371,
+    "PubMed": "39477335"
+   },
+   "url": "https://www.semanticscholar.org/paper/534fd168dcdfe09e48d49824843c1b9016db8f5a",
+   "title": "Cost and cost-effectiveness of digital technologies for support of tuberculosis treatment adherence: a systematic review",
+   "venue": "BMJ Global Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://gh.bmj.com/content/9/10/e015654.full.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11529515, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-05-25",
+   "authors": [
+    {
+     "authorId": "2282350774",
+     "name": "C. Kafie"
+    },
+    {
+     "authorId": "2282994241",
+     "name": "M. S. Mohamed"
+    },
+    {
+     "authorId": "2282354274",
+     "name": "M. Zary"
+    },
+    {
+     "authorId": "2180035653",
+     "name": "C. Chilala"
+    },
+    {
+     "authorId": "2282350285",
+     "name": "S. Bahukudumbi"
+    },
+    {
+     "authorId": "2291212700",
+     "name": "Genevieve C Gore"
+    },
+    {
+     "authorId": "50340882",
+     "name": "N. Foster"
+    },
+    {
+     "authorId": "3617004",
+     "name": "K. Fielding"
+    },
+    {
+     "authorId": "4845562",
+     "name": "R. Subbaraman"
+    },
+    {
+     "authorId": "2874145",
+     "name": "K. Schwartzman"
+    }
+   ],
+   "abstract": "Background Digital adherence technologies (DATs) may provide a patient-centred approach to supporting tuberculosis (TB) medication adherence and improving treatment outcomes. We synthesised evidence addressing costs and cost-effectiveness of DATs to support TB treatment. Methods A systematic review (PROSPERO-CRD42022313531) identified relevant literature from January 2000 to April 2023 in MEDLINE, Embase, CENTRAL, CINAHL, Web of Science along with preprints from medRxiv, Europe PMC and ClinicalTrials.gov. Studies with observational, experimental or quasi-experimental designs (minimum 20 participants) and modelling studies reporting quantitative data on the cost or cost-effectiveness of DATs for TB infection or disease treatment were included. Study characteristics, cost and cost-effectiveness outcomes were extracted. Results Of 3619 titles identified by our systematic search, 29 studies met inclusion criteria, of which 9 addressed cost-effectiveness. DATs included short message service (SMS) reminders, phone-based technologies, digital pillboxes, ingestible sensors and video-observed therapy (VOT). VOT was the most extensively studied (16 studies) and was generally cost saving when compared with healthcare provider directly observed therapy (DOT), particularly when costs to patients were included—though findings were largely from high-income countries. Cost-effectiveness findings were highly variable, ranging from no clinical effect in one study (SMS), to greater effectiveness with concurrent cost savings (VOT) in others. Only eight studies adequately reported at least 80% of the elements required by Consolidated Health Economic Evaluation Reporting Standards, a standard reporting checklist for health economic evaluations. Conclusion DATs may be cost saving or cost-effective compared with healthcare provider DOT, particularly in high-income settings. However, more data of higher quality are needed, notably in lower-income and middle-income countries which have the greatest TB burden."
+  },
+  {
+   "paperId": "e92566e5a8569423697a26e7d5025781ce046b48",
+   "externalIds": {
+    "PubMedCentral": "10332032",
+    "DOI": "10.1186/s12889-023-16259-6",
+    "CorpusId": 259377264,
+    "PubMed": "37430295"
+   },
+   "url": "https://www.semanticscholar.org/paper/e92566e5a8569423697a26e7d5025781ce046b48",
+   "title": "Barriers to tuberculosis treatment adherence in high-burden tuberculosis settings in Ashanti region, Ghana: a qualitative study from patient’s perspective",
+   "venue": "BMC Public Health",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-16259-6",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10332032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-07-10",
+   "authors": [
+    {
+     "authorId": "2071823111",
+     "name": "M. Appiah"
+    },
+    {
+     "authorId": "1909900057",
+     "name": "Joshua Arthur"
+    },
+    {
+     "authorId": "1394888823",
+     "name": "D. Gborgblorvor"
+    },
+    {
+     "authorId": "4577311",
+     "name": "E. Asampong"
+    },
+    {
+     "authorId": "1417202022",
+     "name": "Gideon Kye-Duodu"
+    },
+    {
+     "authorId": "4221950",
+     "name": "E. Kamau"
+    },
+    {
+     "authorId": "1402338770",
+     "name": "P. Dako-Gyeke"
+    }
+   ],
+   "abstract": "Background Despite having an effective community-based Directly Observed Therapy Short-course (DOTS) strategy for tuberculosis (TB) care, treatment adherence has been a major challenge in many developing countries including Ghana. Poor adherence results in discontinuity of treatment and leads to adverse treatment outcomes which pose an increased risk of drug resistance. This study explored barriers to TB treatment adherence and recommended potential patient-centered strategies to improve treatment adherence in two high-burden TB settings in the Ashanti region of Ghana. Methods The study was conducted among TB patients who defaulted on treatment in the Obuasi Municipal and Obuasi East districts in the Ashanti region. A qualitative phenomenology approach was used to explore the barriers to TB treatment adherence. Purposive sampling was adopted to select study participants with different sociodemographic backgrounds and experiences with TB care. Eligible participants were selected by reviewing the medical records of patients from health facility TB registers (2019–2021). Sixty-one (61) TB patients met the eligibility criteria and were contacted via phone call. Out of the 61 patients, 20 were successfully reached and consented to participate. In-depth interviews were conducted with participants using a semi-structured interview guide. All interviews were audio recorded and transcribed verbatim. The transcripts were imported into Atlas.ti version 8.4 software and analyzed using thematic content analysis. Results Food insecurity, cost of transportation to the treatment center, lack of family support, income insecurity, long distance to the treatment center, insufficient knowledge about TB, side effect of drugs, improvement in health after the intensive phase of the treatment regimen, and difficulty in accessing public transportation were the main co-occurring barriers to treatment adherence among the TB patients. Conclusion The main barriers to TB treatment adherence identified in this study reveal major implementation gaps in the TB programme including gaps related to social support, food security, income security, knowledge, and proximity to treatment centers. Hence, to improve treatment adherence there is a need for the government and the National Tuberculosis Programme (NTP) to collaborate with different sectors to provide comprehensive health education, social and financial support as well as food aid to TB patients."
+  },
+  {
+   "paperId": "e1674d9672ef292457e0f4bff26e4882279b40b1",
+   "externalIds": {
+    "PubMedCentral": "10718480",
+    "DOI": "10.2196/49741",
+    "CorpusId": 265754445,
+    "PubMed": "38054471"
+   },
+   "url": "https://www.semanticscholar.org/paper/e1674d9672ef292457e0f4bff26e4882279b40b1",
+   "title": "Digital Health Interventions to Enhance Tuberculosis Treatment Adherence: Scoping Review",
+   "venue": "JMIR mHealth and uHealth",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://mhealth.jmir.org/2023/1/e49741/PDF",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10718480, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-12-04",
+   "authors": [
+    {
+     "authorId": "2108266450",
+     "name": "Sol Lee"
+    },
+    {
+     "authorId": "2047117905",
+     "name": "Vasuki Rajaguru"
+    },
+    {
+     "authorId": "2127406",
+     "name": "J. Baek"
+    },
+    {
+     "authorId": "2111110080",
+     "name": "J. Shin"
+    },
+    {
+     "authorId": "3858949",
+     "name": "Youngmok Park"
+    }
+   ],
+   "abstract": "Abstract Background Digital health technologies are widely used for disease management, with their computing platforms, software, and sensors being used for health care. These technologies are developed to manage chronic diseases and infectious bacterial diseases, including tuberculosis (TB). Objective This study aims to comprehensively review the literature on the use of digital health interventions (DHIs) for enhancing TB treatment adherence and identify major strategies for their adoption. Methods We conducted a literature search in the PubMed, Cochrane Library, Ovid Embase, and Scopus databases for relevant studies published between January 2012 and March 2022. Studies that focused on web-based or mobile phone–based interventions, medication adherence, digital health, randomized controlled trials, digital interventions, or mobile health and ubiquitous health technology for TB treatment and related health outcomes were included. Results We identified 27 relevant studies and classified them according to the intervention method, a significant difference in treatment success, and health outcomes. The following interventions were emphasized: SMS text messaging interventions (8/27, 30%), medicine reminders (6/27, 22%), and web-based direct observation therapy (9/27, 33%). Digital health technology significantly promoted disease management among individuals and health care professionals. However, only a few studies addressed 2-way communication therapies, such as interactive SMS text messaging and feedback systems. Conclusions This scoping review classified studies on DHIs for patients with TB and demonstrated their potential for the self-management of TB. DHIs are still being developed, and evidence on the impact of digital technologies on enhancing TB treatment adherence remains limited. However, it is necessary to encourage patients’ participation in TB treatment and self-management through bidirectional communication. We emphasize the importance of developing a communication system."
+  },
+  {
+   "paperId": "6cc3a9aa056d6c39823d8f82b7571ea3849d2d0a",
+   "externalIds": {
+    "DOI": "10.13189/ujph.2024.120303",
+    "CorpusId": 270534895
+   },
+   "url": "https://www.semanticscholar.org/paper/6cc3a9aa056d6c39823d8f82b7571ea3849d2d0a",
+   "title": "EduTB as an Effort to Improve Tuberculosis Treatment Adherence",
+   "venue": "Universal Journal of Public Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.13189/ujph.2024.120303",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.13189/ujph.2024.120303?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.13189/ujph.2024.120303, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-06-01",
+   "authors": [
+    {
+     "authorId": "84527328",
+     "name": "D. S. Aryantiningsih"
+    },
+    {
+     "authorId": "74626570",
+     "name": "N. Jalinus"
+    },
+    {
+     "authorId": "52178026",
+     "name": "L. Rosalina"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "b5e952029f2437f311435784b2d594847c2ea6b8",
+   "externalIds": {
+    "PubMedCentral": "8777548",
+    "DOI": "10.1001/jamanetworkopen.2021.44210",
+    "CorpusId": 246099345,
+    "PubMed": "35050357"
+   },
+   "url": "https://www.semanticscholar.org/paper/b5e952029f2437f311435784b2d594847c2ea6b8",
+   "title": "In-Person vs Electronic Directly Observed Therapy for Tuberculosis Treatment Adherence",
+   "venue": "JAMA Network Open",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2788246/burzynski_2022_oi_211224_1642007455.21741.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8777548, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-01-04",
+   "authors": [
+    {
+     "authorId": "144972673",
+     "name": "J. Burzynski"
+    },
+    {
+     "authorId": "143904669",
+     "name": "J. Mangan"
+    },
+    {
+     "authorId": "32377288",
+     "name": "Chee-Kin Lam"
+    },
+    {
+     "authorId": "10065765",
+     "name": "M. Macaraig"
+    },
+    {
+     "authorId": "2130635049",
+     "name": "M. Salerno"
+    },
+    {
+     "authorId": "5539984",
+     "name": "B. deCastro"
+    },
+    {
+     "authorId": "3560474",
+     "name": "N. Goswami"
+    },
+    {
+     "authorId": "2557195",
+     "name": "Carol Y. Lin"
+    },
+    {
+     "authorId": "3919101",
+     "name": "N. Schluger"
+    },
+    {
+     "authorId": "2467297",
+     "name": "A. Vernon"
+    },
+    {
+     "authorId": "32621351",
+     "name": "S. Morris"
+    },
+    {
+     "authorId": "2530306848",
+     "name": "S. Bowers"
+    },
+    {
+     "authorId": "2563070853",
+     "name": "Shannon Carberry"
+    },
+    {
+     "authorId": "6874960",
+     "name": "C. Chuck"
+    },
+    {
+     "authorId": "2272933589",
+     "name": "M. Dias"
+    },
+    {
+     "authorId": "2282685415",
+     "name": "Grace E. Gao"
+    },
+    {
+     "authorId": "5907650",
+     "name": "R. Garfein"
+    },
+    {
+     "authorId": "151245177",
+     "name": "V. Green"
+    },
+    {
+     "authorId": "2551955804",
+     "name": "L. Gross"
+    },
+    {
+     "authorId": "2544233162",
+     "name": "Gary Henry"
+    },
+    {
+     "authorId": "143990287",
+     "name": "A. Hill"
+    },
+    {
+     "authorId": "1421941130",
+     "name": "S. Kiskadden-Bechtel"
+    },
+    {
+     "authorId": "39735104",
+     "name": "M. Lakshman"
+    },
+    {
+     "authorId": "2240161715",
+     "name": "Nikolaos Mitropoulos"
+    },
+    {
+     "authorId": "1399831113",
+     "name": "D. Nilsen"
+    },
+    {
+     "authorId": "7967223",
+     "name": "M. Oxtoby"
+    },
+    {
+     "authorId": "91510637",
+     "name": "Patrick P. J. Philips"
+    },
+    {
+     "authorId": "82830109",
+     "name": "M. Reaves"
+    },
+    {
+     "authorId": "1956950025",
+     "name": "E. Robinson"
+    },
+    {
+     "authorId": "2077570883",
+     "name": "C. Sathi"
+    },
+    {
+     "authorId": "49027712",
+     "name": "Brock Stewart"
+    },
+    {
+     "authorId": "2109407161",
+     "name": "Anila Thomas"
+    },
+    {
+     "authorId": "2568491194",
+     "name": "Zhanna Tolochko"
+    },
+    {
+     "authorId": "2600671",
+     "name": "L. Trieu"
+    },
+    {
+     "authorId": "2741030",
+     "name": "C. Winston"
+    }
+   ],
+   "abstract": "IMPORTANCE Electronic directly observed therapy (DOT) is used increasingly as an alternative to in-person DOT for monitoring tuberculosis treatment. Evidence supporting its efficacy is limited. OBJECTIVE To determine whether electronic DOT can attain a level of treatment observation as favorable as in-person DOT. DESIGN, SETTING, AND PARTICIPANTS This was a 2-period crossover, noninferiority trial with initial randomization to electronic or in-person DOT at the time outpatient tuberculosis treatment began. The trial enrolled 216 participants with physician-suspected or bacteriologically confirmed tuberculosis from July 2017 to October 2019 in 4 clinics operated by the New York City Health Department. Data analysis was conducted between March 2020 and April 2021. INTERVENTIONS Participants were asked to complete 20 medication doses using 1 DOT method, then switched methods for another 20 doses. With in-person therapy, participants chose clinic or community-based DOT; with electronic DOT, participants chose live video-conferencing or recorded videos. MAIN OUTCOMES AND MEASURES Difference between the percentage of medication doses participants were observed to completely ingest with in-person DOT and with electronic DOT. Noninferiority was demonstrated if the upper 95% confidence limit of the difference was 10% or less. We estimated the percentage of completed doses using a logistic mixed effects model, run in 4 modes: modified intention-to-treat, per-protocol, per-protocol with 85% or more of doses conforming to the randomization assignment, and empirical. Confidence intervals were estimated by bootstrapping (with 1000 replicates). RESULTS There were 173 participants in each crossover period (median age, 40 years [range, 16–86 years]; 140 [66%] men; 80 [37%] Asian and Pacific Islander, 43 [20%] Black, and 71 [33%] Hispanic individuals) evaluated with the model in the modified intention-to-treat analytic mode. The percentage of completed doses with in-person DOT was 87.2% (95% CI, 84.6%–89.9%) vs 89.8% (95% CI, 87.5%–92.1%) with electronic DOT. The percentage difference was −2.6% (95% CI, −4.8% to −0.3%), consistent with a conclusion of noninferiority. The 3 other analytic modes yielded equivalent conclusions, with percentage differences ranging from −4.9% to −1.9%. CONCLUSIONS AND RELEVANCE In this trial, the percentage of completed doses under electronic DOT was noninferior to that under in-person DOT. This trial provides evidence supporting the efficacy of this digital adherence technology, and for the inclusion of electronic DOT in the standard of care. TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT03266003"
+  },
+  {
+   "paperId": "96bf6bfcfca3a309bb5b68a79049b70ee3452178",
+   "externalIds": {
+    "PubMedCentral": "10201266",
+    "DOI": "10.1136/bmjopen-2022-069938",
+    "CorpusId": 258765364,
+    "PubMed": "37202135"
+   },
+   "url": "https://www.semanticscholar.org/paper/96bf6bfcfca3a309bb5b68a79049b70ee3452178",
+   "title": "Adolescent, caregiver and provider perspectives on tuberculosis treatment adherence: a qualitative study from Lima, Peru",
+   "venue": "BMJ Open",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://bmjopen.bmj.com/content/bmjopen/13/5/e069938.full.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10201266, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-05-01",
+   "authors": [
+    {
+     "authorId": "39918666",
+     "name": "Silvia S. Chiang"
+    },
+    {
+     "authorId": "2117078790",
+     "name": "Liz Senador"
+    },
+    {
+     "authorId": "2185632994",
+     "name": "E. Altamirano"
+    },
+    {
+     "authorId": "37399667",
+     "name": "M. Wong"
+    },
+    {
+     "authorId": "2290049907",
+     "name": "C. Beckhorn"
+    },
+    {
+     "authorId": "11667411",
+     "name": "S. Roche"
+    },
+    {
+     "authorId": "49478129",
+     "name": "J. Coit"
+    },
+    {
+     "authorId": "2514427767",
+     "name": "V. E. Oliva Rapoport"
+    },
+    {
+     "authorId": "143749933",
+     "name": "L. Lecca"
+    },
+    {
+     "authorId": "4224640",
+     "name": "J. Galea"
+    }
+   ],
+   "abstract": "Objectives To understand the perspectives of adolescents (10–19 years old), their caregivers and healthcare providers regarding factors that impact adherence to tuberculosis (TB) treatment among adolescents. Design We conducted in-depth interviews using semistructured interview guides based on the World Health Organization (WHO)’s Five Dimensions of Adherence framework, which conceptualises adherence as being related to the health system, socioeconomic factors, patient, treatment and condition. We applied framework thematic analysis. Setting Between August 2018 and May 2019, at 32 public health centres operated by the Ministry of Health in Lima, Peru. Participants We interviewed 34 adolescents who completed or were lost to follow-up from treatment for drug-susceptible pulmonary TB disease in the preceding 12 months; their primary caregiver during treatment; and 15 nurses or nurse technicians who had ≥6 months’ experience supervising TB treatment. Results Participants reported numerous treatment barriers, the most common of which were the inconvenience of health facility-based directly observed therapy (DOT), long treatment duration, adverse treatment events and symptom resolution. The support of adult caregivers was critical for helping adolescents overcome these barriers and carry out the behavioural skills (eg, coping with the large pill burden, managing adverse treatment events and incorporating treatment into daily routines) needed to adhere to treatment. Conclusion Our findings support a three-pronged approach to improve TB treatment adherence among adolescents: (1) reduce barriers to adherence (eg, home-based or community-based DOT in lieu of facility-based DOT, reducing pill burden and treatment duration when appropriate), (2) teach adolescents the behavioural skills required for treatment adherence and (3) strengthen caregivers’ ability to support adolescents."
+  },
+  {
+   "paperId": "2a6b1ae816b43f43d024938fd61068ab8c257026",
+   "externalIds": {
+    "DOI": "10.1002/sim.9858",
+    "CorpusId": 260462375,
+    "PubMed": "37720988"
+   },
+   "url": "https://www.semanticscholar.org/paper/2a6b1ae816b43f43d024938fd61068ab8c257026",
+   "title": "Clayton copula for survival data with dependent censoring: An application to a tuberculosis treatment adherence data",
+   "venue": "Statistics in Medicine",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/sim.9858?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/sim.9858, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-08-01",
+   "authors": [
+    {
+     "authorId": "34959297",
+     "name": "S. Schneider"
+    },
+    {
+     "authorId": "2486023449",
+     "name": "R. D. Dos Reis"
+    },
+    {
+     "authorId": "2227171336",
+     "name": "Maicon M F Gottselig"
+    },
+    {
+     "authorId": "46309097",
+     "name": "P. Fisch"
+    },
+    {
+     "authorId": "5369479",
+     "name": "D. Knauth"
+    },
+    {
+     "authorId": "3558250",
+     "name": "Á. Vigo"
+    }
+   ],
+   "abstract": "Ignoring the presence of dependent censoring in data analysis can lead to biased estimates, for example, not considering the effect of abandonment of the tuberculosis treatment may influence inferences about the cure probability. In order to assess the relationship between cure and abandonment outcomes, we propose a copula Bayesian approach. Therefore, the main objective of this work is to introduce a Bayesian survival regression model, capable of taking into account the dependent censoring in the adjustment. So, this proposed approach is based on Clayton's copula, to provide the relation between survival and dependent censoring times. In addition, the Weibull and the piecewise exponential marginal distributions are considered in order to fit the times. A simulation study is carried out to perform comparisons between different scenarios of dependence, different specifications of prior distributions, and comparisons with the maximum likelihood inference. Finally, we apply the proposed approach to a tuberculosis treatment adherence dataset of an HIV cohort from Alvorada‐RS, Brazil. Results show that cure and abandonment outcomes are negatively correlated, that is, as long as the chance of abandoning the treatment increases, the chance of tuberculosis cure decreases."
+  },
+  {
+   "paperId": "9e29fb9c6e1def78ea360d251250808016e62e1c",
+   "externalIds": {
+    "PubMedCentral": "9607764",
+    "DOI": "10.1186/s12879-022-07787-4",
+    "CorpusId": 250729994,
+    "PubMed": "36289485"
+   },
+   "url": "https://www.semanticscholar.org/paper/9e29fb9c6e1def78ea360d251250808016e62e1c",
+   "title": "Tuberculosis treatment adherence in the era of COVID-19",
+   "venue": "BMC Infectious Diseases",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://bmcinfectdis.biomedcentral.com/counter/pdf/10.1186/s12879-022-07787-4",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9607764, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-10-26",
+   "authors": [
+    {
+     "authorId": "13828483",
+     "name": "C. Lippincott"
+    },
+    {
+     "authorId": "2054071411",
+     "name": "A. Perry"
+    },
+    {
+     "authorId": "3753789",
+     "name": "E. Munk"
+    },
+    {
+     "authorId": "9884494",
+     "name": "G. Maltas"
+    },
+    {
+     "authorId": "2111862139",
+     "name": "Maunank R. Shah"
+    }
+   ],
+   "abstract": "Background In-person directly observed therapy (DOT) is commonly used for tuberculosis (TB) treatment monitoring in the US, with increasing usage of video-DOT (vDOT). We evaluated the impact of COVID-19 on TB treatment adherence, and utilization and effectiveness of vDOT. Methods We abstracted routinely collected data on individuals treated for TB disease in Baltimore, Maryland between April 2019 and April 2021. Our primary outcomes were to assess vDOT utilization and treatment adherence, defined as the proportion of prescribed doses (7 days/week) verified by observation (in-person versus video-DOT), comparing individuals in the pre-COVID and COVID (April 2020) periods. Results Among 52 individuals with TB disease, 24 (46%) received treatment during the COVID-19 pandemic. vDOT utilization significantly increased in the COVID period (18/24[75%]) compared to pre-COVID (12/28[43%], p = 0.02). Overall, median verified adherence was similar pre-COVID and COVID periods (65% versus 68%, respectively, p = 0.96). Adherence was significantly higher overall when using vDOT (median 86% [IQR 70–98%]) compared to DOT (median 59% [IQR 55-64%], p < 0.01); this improved adherence with vDOT was evident in both the pre-COVID (median 98% vs. 58%, p < 0.01) and COVID period (median 80% vs. 62%, p = 0.01). Conclusion vDOT utilization increased during the COVID period and was more effective than in-person DOT at verifying ingestion of prescribed treatment."
+  },
+  {
+   "paperId": "9f926ceaffaea2ea6898835df792971b95705908",
+   "externalIds": {
+    "DOI": "10.1016/j.bjid.2026.105691",
+    "CorpusId": 286538643
+   },
+   "url": "https://www.semanticscholar.org/paper/9f926ceaffaea2ea6898835df792971b95705908",
+   "title": "EXPERIENCE WITH TUBERCULOSIS TREATMENT ADHERENCE IN THE POPULATION OF PONTAL, SP",
+   "venue": "Brazilian Journal of Infectious Diseases",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.bjid.2026.105691",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bjid.2026.105691?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bjid.2026.105691, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-03-01",
+   "authors": [
+    {
+     "authorId": "119743020",
+     "name": "Gabriella Valera"
+    },
+    {
+     "authorId": "2319418488",
+     "name": "Gabriel Navarro"
+    },
+    {
+     "authorId": "2423862089",
+     "name": "Luana Louise Goulart Zanchin"
+    },
+    {
+     "authorId": "2423859871",
+     "name": "Suelen Limieri Machado Santilli"
+    },
+    {
+     "authorId": "47290784",
+     "name": "Í. Rossin"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "b159322c6fa829a782bafc5df339c92391d9a6fa",
+   "externalIds": {
+    "PubMedCentral": "8028094",
+    "DOI": "10.1186/s12889-021-10698-9",
+    "CorpusId": 233176983,
+    "PubMed": "33827506"
+   },
+   "url": "https://www.semanticscholar.org/paper/b159322c6fa829a782bafc5df339c92391d9a6fa",
+   "title": "Knowledge about tuberculosis, treatment adherence and outcome among ambulatory patients with drug-sensitive tuberculosis in two directly-observed treatment centres in Southwest Nigeria",
+   "venue": "BMC Public Health",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-021-10698-9",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8028094, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2021-04-07",
+   "authors": [
+    {
+     "authorId": "3678171",
+     "name": "R. Adisa"
+    },
+    {
+     "authorId": "2067358895",
+     "name": "Teju T. Ayandokun"
+    },
+    {
+     "authorId": "3716549",
+     "name": "O. Ige"
+    }
+   ],
+   "abstract": "Background Tuberculosis (TB) remains one of the most common infectious diseases worldwide. Although TB is curable provided the treatment commenced quickly, appropriately and uninterrupted throughout TB treatment duration. However, high default rate, treatment interruption and therapy non-adherence coupled with inadequate disease knowledge significantly contribute to poor TB treatment outcome, especially in developing countries. This study therefore assessed knowledge about TB and possible reasons for treatment non-adherence among drug-sensitive TB (DS-TB) patients, as well as evaluated treatment outcomes for the DS-TB managed within a 5-year period. Methods A mixed-method design comprising a cross-sectional questionnaire-guided survey among 140-ambulatory DS-TB patients from January–March 2019, and a retrospective review of medical-records of DS-TB managed from 2013 to 2017 in two WHO-certified TB directly-observed-treatment centres. Data were summarized using descriptive statistics, while categorical variables were evaluated with Chi-square at p  < 0.05. Results Among the prospective DS-TB patients, males were 77(55.0%) and females were 63(45.0%). Most (63;45.0%) belonged to ages 18-34 years. A substantial proportion knew that TB is curable (137;97.9%) and transmittable (128;91.4%), while 107(46.1%) accurately cited coughing without covering the mouth as a principal mode of transmission. Only 10(4.0%) mentioned adherence to TB medications as a measure to prevent transmission. Inaccessibility to healthcare facility (33;55.0%) and pill-burden (10,16.7%) were topmost reasons for TB treatment non-adherence. Of the 2262-DS-TB patients whose treatment outcomes were evaluated, 1211(53.5%) were cured, 580(25.6%) had treatment completed, 240(10.6%) defaulted, 54(2.3%) failed treatment and 177(7.8%) died. Overall, the treatment success rate within the 5-year period ranged from 77.4 to 81.9%. Conclusions Knowledge about TB among the prospective DS-TB patients is relatively high, especially with respect to modes of TB transmission and preventive measures, but a sizeable number lacks the understanding of ensuring optimal TB medication-adherence to prevent TB transmission. Inaccessibility to healthcare facility largely accounts for treatment non-adherence. Outcomes of treatment within the 5-year period show that nearly half were cured, while almost one-tenth died. Overall treatment success rate is about 12% below the WHO-defined target. There is generally a need for concerned stakeholders to step-up efforts in ensuring consistent TB enlightenment, while improving access to TB care is essential for better treatment outcome."
+  },
+  {
+   "paperId": "b2269a29e748702c768a51b41dbf2c15a3887ec7",
+   "externalIds": {
+    "DOI": "10.1002/14651858.cd015709",
+    "CorpusId": 259662348
+   },
+   "url": "https://www.semanticscholar.org/paper/b2269a29e748702c768a51b41dbf2c15a3887ec7",
+   "title": "Digital devices for tuberculosis treatment adherence",
+   "venue": "Cochrane Database of Systematic Reviews",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015709/pdf/full",
+    "status": "HYBRID",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/14651858.cd015709?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/14651858.cd015709, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-23",
+   "authors": [
+    {
+     "authorId": "151498035",
+     "name": "Gabriele Vilyte"
+    },
+    {
+     "authorId": "2165553848",
+     "name": "Tilly Fox"
+    },
+    {
+     "authorId": "3915201",
+     "name": "A. Rohwer"
+    },
+    {
+     "authorId": "3813591",
+     "name": "J. Volmink"
+    },
+    {
+     "authorId": "37125611",
+     "name": "M. Mccaul"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "5ec49ae5f4ee60c52d3384d3bc547527d23f1398",
+   "externalIds": {
+    "PubMedCentral": "8237748",
+    "DOI": "10.1136/bmjhci-2020-100268",
+    "CorpusId": 235648418,
+    "PubMed": "34172505"
+   },
+   "url": "https://www.semanticscholar.org/paper/5ec49ae5f4ee60c52d3384d3bc547527d23f1398",
+   "title": "Effect of a phone reminder system on patient-centered tuberculosis treatment adherence among adults in Northwest Ethiopia: a randomised controlled trial",
+   "venue": "BMJ Health & Care Informatics",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://informatics.bmj.com/content/bmjhci/28/1/e100268.full.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8237748, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-06-01",
+   "authors": [
+    {
+     "authorId": "41029639",
+     "name": "Kassahun D Gashu"
+    },
+    {
+     "authorId": "6864016",
+     "name": "K. Gelaye"
+    },
+    {
+     "authorId": "32166783",
+     "name": "R. Lester"
+    },
+    {
+     "authorId": "2471133",
+     "name": "B. Tilahun"
+    }
+   ],
+   "abstract": "Objectives This study aimed to evaluate the effect of the phone reminder system on patient-centred TB treatment adherence during continuation phase, where patients are responsible for taking medication at home. Methods We conducted a two-arm randomised controlled trial on adult patients with TB during the continuation phase. In the intervention arm, patients received routine care plus phone-based weekly pill refilling and daily medication reminders. In the control arm, participants received only routine care. A covariate adaptive randomisation technique was used to balance covariates during allocation. The primary outcome was adherence to patient-centred TB treatment, and secondary outcomes included provider–patient relationship and treatment outcomes. We applied per-protocol and intention-to-treat analysis techniques. Results We randomised 306 patients to intervention (n=152) and control (n=154) groups. Adherence to patient-centred TB treatment was 79% (110/139) in intervention and 66.4% (95/143) in control groups, with relative risk (RR) (95% lower CI) (RR=1.632 (1.162 to ∞); p=0.018, one tailed). Good provider–patient relationship was 73.3% (102/139) in intervention group and 52.4% (75/143) in control group, p=0.0001. TB treatment success was 89.5% (136/152) in intervention group and 85.1% (131/154) in control group, p=0.1238. Conclusions Mobile phone-based weekly refilling with daily medication reminder system improved adherence to patient-centred TB treatment and provider–patient relationship; however, there was no significant effect on treatment success. Trial registration number Pan African Clinical Trials Registry (PACTR201901552202539)."
+  },
+  {
+   "paperId": "dce21a939d170203a550f5a9dbe5213b2b4ecc3e",
+   "externalIds": {
+    "PubMedCentral": "8579414",
+    "DOI": "10.1186/s12879-021-06833-x",
+    "CorpusId": 243866149,
+    "PubMed": "34758737"
+   },
+   "url": "https://www.semanticscholar.org/paper/dce21a939d170203a550f5a9dbe5213b2b4ecc3e",
+   "title": "Evaluation of implementation and effectiveness of digital adherence technology with differentiated care to support tuberculosis treatment adherence and improve treatment outcomes in Ethiopia: a study protocol for a cluster randomised trial",
+   "venue": "BMC Infectious Diseases",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://bmcinfectdis.biomedcentral.com/counter/pdf/10.1186/s12879-021-06833-x",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8579414, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-11-10",
+   "authors": [
+    {
+     "authorId": "7491110",
+     "name": "A. Tadesse"
+    },
+    {
+     "authorId": "2385958788",
+     "name": "Z. Mohammed"
+    },
+    {
+     "authorId": "50340882",
+     "name": "N. Foster"
+    },
+    {
+     "authorId": "48489930",
+     "name": "M. Quaife"
+    },
+    {
+     "authorId": "5166259",
+     "name": "C. McQuaid"
+    },
+    {
+     "authorId": "49707544",
+     "name": "J. Levy"
+    },
+    {
+     "authorId": "2490618961",
+     "name": "K. van Kalmthout"
+    },
+    {
+     "authorId": "2479416244",
+     "name": "J. van Rest"
+    },
+    {
+     "authorId": "5086407",
+     "name": "D. Jerene"
+    },
+    {
+     "authorId": "2139761340",
+     "name": "T. Abdurhman"
+    },
+    {
+     "authorId": "2139758352",
+     "name": "H. Yazew"
+    },
+    {
+     "authorId": "123708344",
+     "name": "D. G. Umeta"
+    },
+    {
+     "authorId": "34791269",
+     "name": "D. Assefa"
+    },
+    {
+     "authorId": "2139753867",
+     "name": "G. T. Weldemichael"
+    },
+    {
+     "authorId": "4462311",
+     "name": "A. Bedru"
+    },
+    {
+     "authorId": "82264051",
+     "name": "T. Letta"
+    },
+    {
+     "authorId": "3617004",
+     "name": "K. Fielding"
+    }
+   ],
+   "abstract": "Digital adherence technologies (DATs) are recommended to support patient-centred, differentiated care to improve tuberculosis (TB) treatment outcomes, but evidence that such technologies improve adherence is limited. We aim to implement and evaluate the effectiveness of smart pillboxes and medication labels linked to an adherence data platform, to create a differentiated care response to patient adherence and improve TB care among adult pulmonary TB participants. Our study is part of the Adherence Support Coalition to End TB (ASCENT) project in Ethiopia. We will conduct a pragmatic three-arm cluster-randomised trial with 78 health facilities in two regions in Ethiopia. Facilities are randomised (1:1:1) to either of the two intervention arms or standard of care. Adults aged ≥ 18 years with drug-sensitive (DS) pulmonary TB are enrolled over 12 months and followed-up for 12 months after treatment initiation. Participants in facilities randomised to either of the two intervention arms are offered a DAT linked to the web-based ASCENT adherence platform for daily adherence monitoring and differentiated response to patient adherence for those who have missed doses. Participants at standard of care facilities receive routine care. For those that had bacteriologically confirmed TB at treatment initiation and can produce sputum without induction, sputum culture will be performed approximately 6 months after the end of treatment to measure disease recurrence. The primary endpoint is a composite unfavourable outcome measured over 12 months from TB treatment initiation defined as either poor end of treatment outcome (lost to follow-up, death, or treatment failure) or treatment recurrence measured 6 months after the scheduled end of treatment. This study will also evaluate the effectiveness, feasibility, and cost-effectiveness of DAT systems for DS-TB patients. This trial will evaluate the impact and contextual factors of medication label and smart pillbox with a differentiated response to patient care, among adult pulmonary DS-TB participants in Ethiopia. If successful, this evaluation will generate valuable evidence via a shared evaluation framework for optimal use and scale-up. Trial registration: Pan African Clinical Trials Registry PACTR202008776694999, https://pactr.samrc.ac.za/TrialDisplay.aspx?TrialID=12241, registered on August 11, 2020."
+  },
+  {
+   "paperId": "09b4d76eb2ae02018cd1c9652ce3ea3db039867c",
+   "externalIds": {
+    "DBLP": "journals/msom/BoutilierJY22",
+    "DOI": "10.1287/msom.2021.1046",
+    "CorpusId": 245371426
+   },
+   "url": "https://www.semanticscholar.org/paper/09b4d76eb2ae02018cd1c9652ce3ea3db039867c",
+   "title": "Improving Tuberculosis Treatment Adherence Support: The Case for Targeted Behavioral Interventions",
+   "venue": "Manufacturing & Service Operations Management",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://hdl.handle.net/1721.1/145407",
+    "status": "GREEN",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1287/msom.2021.1046?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1287/msom.2021.1046, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-12-20",
+   "authors": [
+    {
+     "authorId": "14942579",
+     "name": "J. Boutilier"
+    },
+    {
+     "authorId": "35619621",
+     "name": "J. Jónasson"
+    },
+    {
+     "authorId": "5288109",
+     "name": "E. Yoeli"
+    }
+   ],
+   "abstract": "Problem definition: Lack of patient adherence to treatment protocols is a main barrier to reducing the global disease burden of tuberculosis (TB). We study the operational design of a treatment adherence support (TAS) platform that requires patients to verify their treatment adherence on a daily basis. Academic/practical relevance: Experimental results on the effectiveness of TAS programs have been mixed; and rigorous research is needed on how to structure these motivational programs, particularly in resource-limited settings. Our analysis establishes that patient engagement can be increased by personal sponsor outreach and that patient behavior data can be used to identify at-risk patients for targeted outreach. Methodology: We partner with a TB TAS provider and use data from a completed randomized controlled trial. We use administrative variation in the timing of peer sponsor outreach to evaluate the impact of personal messages on subsequent patient verification behavior. We then develop a rolling-horizon machine learning (ML) framework to generate dynamic risk predictions for patients enrolled on the platform. Results: We find that, on average, sponsor outreach to patients increases the odds ratio of next-day treatment adherence verification by 35%. Furthermore, patients’ prior verification behavior can be used to accurately predict short-term (treatment adherence verification) and long-term (successful treatment completion) outcomes. These results allow the provider to target and implement behavioral interventions to at-risk patients. Managerial implications: Our results indicate that, compared with a benchmark policy, the TAS platform could reach the same number of at-risk patients with 6%–40% less capacity, or reach 2%–20% more at-risk patients with the same capacity, by using various ML-based prioritization policies that leverage patient engagement data. Personal sponsor outreach to all patients is likely to be very costly, so targeted TAS may substantially improve the cost-effectiveness of TAS programs."
+  },
+  {
+   "paperId": "2b6d6d5444e70afbfd3083ce1cc8f9b49390121f",
+   "externalIds": {
+    "PubMedCentral": "8256754",
+    "DOI": "10.1136/bmjopen-2020-048499",
+    "CorpusId": 235723898,
+    "PubMed": "34215610"
+   },
+   "url": "https://www.semanticscholar.org/paper/2b6d6d5444e70afbfd3083ce1cc8f9b49390121f",
+   "title": "Process evaluation of an implementation strategy to support uptake of a tuberculosis treatment adherence intervention to improve TB care and outcomes in Malawi",
+   "venue": "BMJ Open",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://bmjopen.bmj.com/content/bmjopen/11/7/e048499.full.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8256754, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-07-01",
+   "authors": [
+    {
+     "authorId": "68976171",
+     "name": "L. Puchalski Ritchie"
+    },
+    {
+     "authorId": "48570678",
+     "name": "E. Kip"
+    },
+    {
+     "authorId": "51041323",
+     "name": "H. Mundeva"
+    },
+    {
+     "authorId": "8042785",
+     "name": "M. van Lettow"
+    },
+    {
+     "authorId": "4727011",
+     "name": "A. Makwakwa"
+    },
+    {
+     "authorId": "32108070",
+     "name": "S. Straus"
+    },
+    {
+     "authorId": "2991181",
+     "name": "J. Hamid"
+    },
+    {
+     "authorId": "2391253",
+     "name": "M. Zwarenstein"
+    },
+    {
+     "authorId": "2780549",
+     "name": "M. Schull"
+    },
+    {
+     "authorId": "34533225",
+     "name": "A. Chan"
+    },
+    {
+     "authorId": "5127569",
+     "name": "A. Martiniuk"
+    },
+    {
+     "authorId": "114856329",
+     "name": "V. van Schoor"
+    }
+   ],
+   "abstract": "Objective To assess implementation and to identify barriers and facilitators to implementation, sustainability and scalability of an implementation strategy to provide lay health workers (LHWs) with the knowledge, skills and tools needed to implement an intervention to support patient tuberculosis (TB) treatment adherence. Design Mixed-methods design including a cluster randomised controlled trial and process evaluation informed by the RE-AIM framework. Setting Forty-five health centres (HCs) in four districts in the south east zone of Malawi, who had an opportunity to receive cascade training. Participants Forty-five peer-trainers (PTs), 23 patients and 20 LHWs. Intervention Implementation strategy employing peer-led educational outreach, a clinical support tool and peer support network to implement a TB treatment adherence intervention. Outcome measures Process data were collected from study initiation to the end-of-study PT meeting, and included: LHW and patient interviews, quarterly PT meeting notes, training logs and study team observations and meeting notes. Data sources were first analysed in isolation, followed by method, data source and analyst triangulation. Analyses were conducted independently by two study team members, and themes revised through discussion and involvement of additional study team members as needed. Results Forty-one HCs (91%) trained at least one LHW. Of 256 LHWs eligible to participate at study start 152 (59%) completed training, with the proportion trained per HC ranging from 0% to 100% at the end of initial cascade training. Lack of training incentives was the primary barrier to implementation, with intrinsic motivation to improve knowledge and skills, and to improve patient care and outcomes the primary facilitators of participation. Conclusion We identified important challenges to and potential facilitators of implementation, scalability and sustainability, of the TB treatment adherence intervention. Findings provide guidance to scale-up, and use of the implementation strategies employed, to address LHW training and supervision in other areas. Trial registration number NCT02533089."
+  },
+  {
+   "paperId": "c9f5b8326889f9b610c101cac1c8fd93ee20c35f",
+   "externalIds": {
+    "PubMedCentral": "6904830",
+    "MAG": "2926975112",
+    "DOI": "10.1016/j.jctube.2019.100098",
+    "CorpusId": 132951331,
+    "PubMed": "31867442"
+   },
+   "url": "https://www.semanticscholar.org/paper/c9f5b8326889f9b610c101cac1c8fd93ee20c35f",
+   "title": "Synchronous and asynchronous video observed therapy (VOT) for tuberculosis treatment adherence monitoring and support",
+   "venue": "Journal of Clinical Tuberculosis and Other Mycobacterial Diseases",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S240557941830038X/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6904830, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-04-01",
+   "authors": [
+    {
+     "authorId": "5907650",
+     "name": "R. Garfein"
+    },
+    {
+     "authorId": "39432612",
+     "name": "R. Doshi"
+    }
+   ],
+   "abstract": "Directly observed therapy (DOT) for monitoring tuberculosis (TB) treatment is intended to reduce disease transmission, mortality and acquired drug resistance by facilitating treatment adherence and support. Synchronous (S-VOT) and asynchronous (A-VOT) video observed therapy are mHealth solutions for remotely monitoring medication ingestion. This paper synthesizes literature through December 2018 to describe existing VOT approaches, summarize evidence, identify knowledge gaps, evaluate VOT strengths and weaknesses, and examine patient and provider factors influencing VOT feasibility and acceptability. High rates of adherence and patient acceptance were obtained using both VOT methods. VOT reduced travel time for TB program staff and/or patients, improving program efficiency compared to in-person DOT while maintaining high patient satisfaction. The impact of VOT on TB treatment outcomes, such as cure and relapse, require further study with longer follow-up. Individual patient, provider and program factors should be considered in selecting either or both VOT approaches for provision of patient-centered care."
+  },
+  {
+   "paperId": "c98291ccff3b467b9178170fdefba9a45bf25da9",
+   "externalIds": {
+    "MAG": "2978351943",
+    "PubMedCentral": "6777756",
+    "DOI": "10.1371/journal.pmed.1002891",
+    "CorpusId": 203717913,
+    "PubMed": "31584944"
+   },
+   "url": "https://www.semanticscholar.org/paper/c98291ccff3b467b9178170fdefba9a45bf25da9",
+   "title": "Wirelessly observed therapy compared to directly observed therapy to confirm and support tuberculosis treatment adherence: A randomized controlled trial",
+   "venue": "PLoS Medicine",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002891&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6777756, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-10-01",
+   "authors": [
+    {
+     "authorId": "3928877",
+     "name": "S. Browne"
+    },
+    {
+     "authorId": "2448640",
+     "name": "A. Umlauf"
+    },
+    {
+     "authorId": "2080153751",
+     "name": "A. Tucker"
+    },
+    {
+     "authorId": "33405016",
+     "name": "Julie Low"
+    },
+    {
+     "authorId": "117169201",
+     "name": "Kathleen Moser"
+    },
+    {
+     "authorId": "2488775879",
+     "name": "J. González García"
+    },
+    {
+     "authorId": "1396443452",
+     "name": "C. Peloquin"
+    },
+    {
+     "authorId": "143868929",
+     "name": "T. Blaschke"
+    },
+    {
+     "authorId": "144325888",
+     "name": "F. Vaida"
+    },
+    {
+     "authorId": "48677778",
+     "name": "C. Benson"
+    }
+   ],
+   "abstract": "Background Excellent adherence to tuberculosis (TB) treatment is critical to cure TB and avoid the emergence of resistance. Wirelessly observed therapy (WOT) is a novel patient self-management system consisting of an edible ingestion sensor (IS), external wearable patch, and paired mobile device that can detect and digitally record medication ingestions. Our study determined the accuracy of ingestion detection in clinical and home settings using WOT and subsequently compared, in a randomized control trial (RCT), confirmed daily adherence to medication in persons using WOT or directly observed therapy (DOT) during TB treatment. Methods and findings We evaluated WOT in persons with active Mycobacterium tuberculosis complex disease using IS-enabled combination isoniazid 150 mg/rifampin 300 mg (IS-Rifamate). Seventy-seven participants with drug-susceptible TB in the continuation phase of treatment, prescribed daily isoniazid 300 mg and rifampin 600 mg, used IS-Rifamate. The primary endpoints of the trial were determination of the positive detection accuracy (PDA) of WOT, defined as the percentage of ingestions detected by WOT administered under direct observation, and subsequently the proportion of prescribed doses confirmed by WOT compared to DOT. Initially participants received DOT and WOT simultaneously for 2–3 weeks to allow calculation of WOT PDA, and the 95% confidence interval (CI) was estimated using the bootstrap method with 10,000 samples. Sixty-one participants subsequently participated in an RCT to compare the proportion of prescribed doses confirmed by WOT and DOT. Participants were randomized 2:1 to receive WOT or maximal in-person DOT. In the WOT arm, if ingestions were not remotely confirmed, the participant was contacted within 24 hours by text or cell phone to provide support. The number of doses confirmed was collected, and nonparametric methods were used for group and individual comparisons to estimate the proportions of confirmed doses in each randomized arm with 95% CIs. Sensitivity analyses, not prespecified in the trial registration, were also performed, removing all nonworking (weekend and public holiday) and held-dose days. Participants, recruited from San Diego (SD) and Orange County (OC) Divisions of TB Control and Refugee Health, were 43.1 (range 18–80) years old, 57% male, 42% Asian, and 39% white with 49% Hispanic ethnicity. The PDA of WOT was 99.3% (CI 98.1; 100). Intent-to-treat (ITT) analysis within the RCT showed WOT confirmed 93% versus 63% DOT (p < 0.001) of daily doses prescribed. Secondary analysis removing all nonworking days (weekends and public holidays) and held doses from each arm showed WOT confirmed 95.6% versus 92.7% (p = 0.31); WOT was non-inferior to DOT (difference 2.8% CI [−1.8%, 9.1%]). One hundred percent of participants preferred using WOT. WOT associated adverse events were <10%, consisting of minor skin rash and pruritus associated with the patch. WOT provided longitudinal digital reporting in near real time, supporting patient self-management and allowing rapid remote identification of those who needed more support to maintain adherence. This study was conducted during the continuation phase of TB treatment, limiting its generalizability to the entire TB treatment course. Conclusions In terms of accuracy, WOT was equivalent to DOT. WOT was superior to DOT in supporting confirmed daily adherence to TB medications during the continuation phase of TB treatment and was overwhelmingly preferred by participants. WOT should be tested in high-burden TB settings, where it may substantially support low- and middle-income country (LMIC) TB programs. Trial registration ClinicalTrials.gov NCT01960257."
+  },
+  {
+   "paperId": "637159370b5d683560e247a2db92d4c771688dfb",
+   "externalIds": {
+    "MAG": "2383176687",
+    "PubMedCentral": "4864292",
+    "DOI": "10.1371/journal.pone.0155147",
+    "CorpusId": 13124580,
+    "PubMed": "27167378"
+   },
+   "url": "https://www.semanticscholar.org/paper/637159370b5d683560e247a2db92d4c771688dfb",
+   "title": "Psychological and Educational Intervention to Improve Tuberculosis Treatment Adherence in Ethiopia Based on Health Belief Model: A Cluster Randomized Control Trial",
+   "venue": "PLoS ONE",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0155147&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4864292, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2016-05-11",
+   "authors": [
+    {
+     "authorId": "5308322",
+     "name": "H. Tola"
+    },
+    {
+     "authorId": "4957763",
+     "name": "D. Shojaeizadeh"
+    },
+    {
+     "authorId": "2942062",
+     "name": "A. Tol"
+    },
+    {
+     "authorId": "4434225",
+     "name": "G. Garmaroudi"
+    },
+    {
+     "authorId": "6621731",
+     "name": "M. Yekaninejad"
+    },
+    {
+     "authorId": "2139661743",
+     "name": "A. Kebede"
+    },
+    {
+     "authorId": "5260231",
+     "name": "Luche Tadesse Ejeta"
+    },
+    {
+     "authorId": "4197289",
+     "name": "D. Kassa"
+    },
+    {
+     "authorId": "3433206",
+     "name": "E. Klinkenberg"
+    }
+   ],
+   "abstract": "Background Treatment non-adherence results in treatment failure, prolonged transmission of disease and emergence of drug resistance. Although the problem widely investigated, there remains an information gap on the effectiveness of different methods to improve treatment adherence and the predictors of non-adherence in resource limited countries based on theoretical models. This study aimed to evaluate the impact of psychological counseling and educational intervention on tuberculosis (TB) treatment adherence based on Health Belief Model (HBM). Methodology A cluster randomized control trial was conducted in Addis Ababa from May to December, 2014. Patients were enrolled into study consecutively from 30 randomly selected Health Centers (HCs) (14 HCs intervention and 16 HCs control groups). A total of 698 TB patients, who were on treatment for one month to two months were enrolled. A structured questionnaire was administered to both groups of patients at baseline and endpoint of study. Control participants received routine directly-observed anti-TB therapy and the intervention group additionally received combined psychological counseling and adherence education. Treatment non-adherence level was the main outcome of the study, and multilevel logistic regression was employed to assess the impact of intervention on treatment adherence. Results At enrollment, the level of non-adherence among intervention (19.4%) and control (19.6%) groups was almost the same. However, after intervention, non-adherence level decreased among intervention group from 19.4 (at baseline) to 9.5% (at endpoint), while it increased among control group from 19.4% (baseline) to 25.4% (endpoint). Psychological counseling and educational interventions resulted in significant difference with regard to non-adherence level between intervention and control groups (Adjusted OR = 0.31, 95% Confidence Interval (CI) (0.18–0.53), p < 0.001)). Conclusion Psychological counseling and educational interventions, which were guided by HBM, significantly decreased treatment non-adherence level among intervention group. Provision of psychological counseling and health education to TB patients who are on regular treatment is recommended. This could be best achieved if these interventions are guided by behavioral theories and incorporated into the routine TB treatment strategy. Trial Registration Pan African Clinical Trials Registry PACTR201506001175423"
+  },
+  {
+   "paperId": "839bb7bc7a5d947eebcdf4d10d5b9c81d8e4d53a",
+   "externalIds": {
+    "PubMedCentral": "9298136",
+    "DOI": "10.21203/rs.3.rs-1777276/v1",
+    "CorpusId": 288477580,
+    "PubMed": "35860215"
+   },
+   "url": "https://www.semanticscholar.org/paper/839bb7bc7a5d947eebcdf4d10d5b9c81d8e4d53a",
+   "title": "Tuberculosis treatment adherence in the era of COVID-19",
+   "venue": "Research Square",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://bmcinfectdis.biomedcentral.com/counter/pdf/10.1186/s12879-022-07787-4",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9298136, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-07-12",
+   "authors": [
+    {
+     "authorId": "13828483",
+     "name": "C. Lippincott"
+    },
+    {
+     "authorId": "2054071411",
+     "name": "A. Perry"
+    },
+    {
+     "authorId": "3753789",
+     "name": "E. Munk"
+    },
+    {
+     "authorId": "9884494",
+     "name": "G. Maltas"
+    },
+    {
+     "authorId": "2295590002",
+     "name": "Maunank Shah"
+    }
+   ],
+   "abstract": "BACKGROUND In-person directly observed therapy (DOT) is commonly used for tuberculosis (TB) treatment monitoring in the US, with increasing usage of video-DOT (vDOT). We evaluated the impact of COVID-19 on TB treatment adherence, and utilization and effectiveness of vDOT. METHODS We abstracted routinely collected data on individuals treated for TB disease in Baltimore, Maryland between April 2019 and April 2021. Our primary outcomes were to assess vDOT utilization and treatment adherence, defined as the proportion of prescribed doses (7 days/week) verified by observation (in-person versus video-DOT), comparing individuals in the pre- and post-COVID (April 2020) periods. RESULTS Among 52 individuals with TB disease, 24 (46%) received treatment during the COVID-19 pandemic. vDOT utilization significantly increased post-COVID (18/24[75%]) compared to pre-COVID (12/28[43%], p=0.02). Overall, median verified adherence was similar pre- and post-COVID (65% versus 68%, respectively, p=0.96). Adherence was significantly higher overall when using vDOT (median 86% [IQR 70-98%]) compared to DOT (median 59% [IQR 55%-64%], p<0.01); this improved adherence with vDOT was evident in both the pre-COVID (median 98% vs 58%, p<0.01) and post-COVID period (median 80% vs 62%, p=0.01). CONCLUSION vDOT utilization increased post-COVID and was more effective than in-person DOT at verifying ingestion of prescribed treatment."
+  }
+ ]
+}

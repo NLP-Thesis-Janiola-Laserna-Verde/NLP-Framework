@@ -1,0 +1,1096 @@
+{
+ "query": "Urban green spaces and air pollution",
+ "retrieved_at": "2026-11-10T10:51:03.168762+00:00",
+ "data": [
+  {
+   "DOI": "10.4324/9780429340581-2",
+   "title": [
+    "Urban green spaces"
+   ],
+   "container-title": [
+    "Urban Green Space, Health Economics and Air Pollution in Delhi"
+   ],
+   "publisher": "Routledge India",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      25
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780429340581-2",
+   "author": [
+    {
+     "given": "Swati",
+     "family": "Rajput",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kavita",
+     "family": "Arora",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rachna",
+     "family": "Mathur",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780429340581-3",
+   "title": [
+    "Green spaces of Delhi"
+   ],
+   "container-title": [
+    "Urban Green Space, Health Economics and Air Pollution in Delhi"
+   ],
+   "publisher": "Routledge India",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      25
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780429340581-3",
+   "author": [
+    {
+     "given": "Swati",
+     "family": "Rajput",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kavita",
+     "family": "Arora",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rachna",
+     "family": "Mathur",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.2471/b09366",
+   "title": [
+    "Green spaces – sectoral solutions for air pollution and health"
+   ],
+   "publisher": "World Health Organization",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      29
+     ]
+    ]
+   },
+   "type": "monograph",
+   "URL": "https://doi.org/10.2471/b09366",
+   "author": [
+    {
+     "name": "World Health Organization",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-032-15322-7_4",
+   "title": [
+    "Urban Green Spaces and Environmental Pollution Abatement"
+   ],
+   "container-title": [
+    "Urban Green Spaces and Environmental Sustainability"
+   ],
+   "publisher": "Springer Nature Switzerland",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-032-15322-7_4",
+   "author": [
+    {
+     "given": "Md Babor",
+     "family": "Ali",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Saleha",
+     "family": "Jamal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.ufug.2016.04.010",
+   "title": [
+    "Air pollution removal by trees in public green spaces in Strasbourg city, France"
+   ],
+   "container-title": [
+    "Urban Forestry &amp; Urban Greening"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.ufug.2016.04.010",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2749-5253",
+     "authenticated-orcid": false,
+     "given": "Wissal",
+     "family": "Selmi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Christiane",
+     "family": "Weber",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Emmanuel",
+     "family": "Rivière",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nadège",
+     "family": "Blond",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lotfi",
+     "family": "Mehdi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Nowak",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Urbanisation has become a challenge as the urban population grows while cities’ land areas, amenities, and green spaces have remained relatively unchanged or even declined. While urban areas are growing, the link between humans and nature is fading. Increasingly, cities are being affected by climate change impacts and so, the role of media in providing updated and correct knowledge to the public is becoming more valuable. Based on this theoretical ground, the research evaluated two printed Iranian newspapers’ functionality in informing the public on Tehran climate based on two main themes of air pollution and greenery spaces, spanning seven years (2007–2014). The paper evaluated the tone, style, and outline of messages publicised by the press media to explore the following questions: Which types of news are dominantly conceptualised as the significant debates and concerns on Tehran’s climatic issues? Who is mainly writing about Tehran’s climatic issues? Is the public being informed effectively on the surrounding arguments and issues by reading newspapers? As such, five self-descriptive indicators were developed: ‘Layout’ (Title, Subject, Content), ‘Message’ (Public Awareness, Educating, Alarming), ‘Contributor’ (Columnist, Researcher, Authority), ‘Spatiality’ (Local, Provincial, National, International), and ‘Allocated space’ (10% to 100%). A text analysis of Persian newspapers using a Structured Query Language (SQL) was employed to extract data. It was found that the news articles mostly covered public awareness, followed by alarming messages on climate. The findings highlighted the critical role of researchers in generating scientific news while encouraging media for disseminating more educating messages on climate change in urban areas.</jats:p>",
+   "DOI": "10.3390/conservation2020014",
+   "type": "journal-article",
+   "title": [
+    "Climate Change and Urban Citizens: The Role of Media in Publicising the Conservation of Green Spaces and Mitigation of Air Pollution"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4384-3601",
+     "authenticated-orcid": false,
+     "given": "Farshad",
+     "family": "Amiraslani",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Life & Health Sciences, School of Geography & Environmental Sciences, Ulster University, Coleraine BT52 1SA, UK"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Conservation"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      3,
+      22
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/conservation2020014"
+  },
+  {
+   "publisher": "Research Square Platform LLC",
+   "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>Installment of urban green spaces brings about numerous advantages including reduction in low air pollution and elimination of adverse effects, which ensure the sustainability of urban ecosystems and the high quality of urban life. Urban natural unit function depends on spatial composition and configuration of green space patches. The main objective of this study is to investigate the impacts of spatial composition and configuration of green patches on the air pollution in Mashhad, Iran. To this end, Landsat 8 images were used to produce land cover maps. Considering seven landscape metrics (including PLAND, PARA, GYRATE, ENN, PD, AREA, and CONTAG), this study determined the composition and configuration of green space patches using FRAGSTATS software. The data obtained from the air pollution monitoring stations were employed to find the correlation between the composition and configuration of green space patches and air pollutants (namely, SO_2, CO، NO, NO_2, NO_X, and PM_2.5). Results showed a significant correlation between the composition and configuration of urban green space patches and SO_2, CO, NO, NO_2, NO_X, and PM_2.5 values.</jats:p>",
+   "DOI": "10.21203/rs.3.rs-1586132/v1",
+   "type": "posted-content",
+   "title": [
+    "Evaluation of the Role of Spatial Composition and Configuration of Urban Green Spaces in Air Pollution Reduction: A Landscape Ecology Approach"
+   ],
+   "author": [
+    {
+     "given": "Maryam",
+     "family": "Hatami",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Yazd University. Yazd"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ahad",
+     "family": "Sotoudeh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Yazd University. Yazd"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mohammad Hossein",
+     "family": "Mokhtari",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Yazd University. Yazd"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bahman",
+     "family": "Kiani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Yazd University. Yazd"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      26
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-1586132/v1"
+  },
+  {
+   "DOI": "10.1016/j.ufug.2020.126827",
+   "title": [
+    "Temperature and air pollution reductions by urban green spaces are highly valued in a tropical city-state"
+   ],
+   "container-title": [
+    "Urban Forestry &amp; Urban Greening"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      11
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.ufug.2020.126827",
+   "author": [
+    {
+     "given": "Wanggi",
+     "family": "Jaung",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "L. Roman",
+     "family": "Carrasco",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shaikh Fairul Edros Ahmad",
+     "family": "Shaikh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Puay Yok",
+     "family": "Tan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniel R.",
+     "family": "Richards",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Being an essential issue in global climate warming, the response of urban green spaces to air pollution and climate variability because of rapid urbanization has become an increasing concern at both the local and global levels. This study explored the response of urban vegetation to air pollution and climate variability in the Bucharest metropolis in Romania from a spatiotemporal perspective during 2000–2024, with a focus on the 2020–2024 period. Through the synergy of time series in situ air pollution and climate data, and derived vegetation biophysical variables from MODIS Terra/Aqua satellite data, this study applied statistical regression, correlation, and linear trend analysis to assess linear relationships between variables and their pairwise associations. Green spaces were measured with the MODIS normalized difference vegetation index (NDVI), leaf area index (LAI), photosynthetically active radiation (FPAR), evapotranspiration (ET), and net primary production (NPP), which capture the complex characteristics of urban vegetation systems (gardens, street trees, parks, and forests), periurban forests, and agricultural areas. For both the Bucharest center (6.5 km × 6.5 km) and metropolitan (40.5 km × 40.5 km) test areas, during the five-year investigated period, this study found negative correlations of the NDVI with ground-level concentrations of particulate matter in two size fractions, PM2.5 (city center r = −0.29; p &lt; 0.01, and metropolitan r = −0.39; p &lt; 0.01) and PM10 (city center r = −0.58; p &lt; 0.01, and metropolitan r = −0.56; p &lt; 0.01), as well as between the NDVI and gaseous air pollutants (nitrogen dioxide—NO2, sulfur dioxide—SO2, and carbon monoxide—CO. Also, negative correlations between NDVI and climate parameters, air relative humidity (RH), and land surface albedo (LSA) were observed. These results show the potential of urban green to improve air quality through air pollutant deposition, retention, and alteration of vegetation health, particularly during dry seasons and hot summers. For the same period of analysis, positive correlations between the NDVI and solar surface irradiance (SI) and planetary boundary layer height (PBL) were recorded. Because of the summer season’s (June–August) increase in ground-level ozone, significant negative correlations with the NDVI (r = −0.51, p &lt; 0.01) were found for Bucharest city center and (r = −76; p &lt; 0.01) for the metropolitan area, which may explain the degraded or devitalized vegetation under high ozone levels. Also, during hot summer seasons in the 2020–2024 period, this research reported negative correlations between air temperature at 2 m height (TA) and the NDVI for both the Bucharest city center (r = −0.84; p &lt; 0.01) and metropolitan scale (r = −0.90; p &lt; 0.01), as well as negative correlations between the land surface temperature (LST) and the NDVI for Bucharest (city center r = −0.29; p&lt; 0.01) and the metropolitan area (r = −0.68, p &lt; 0.01). During summer seasons, positive correlations between ET and climate parameters TA (r = 0.91; p &lt; 0.01), SI (r = 0.91; p &lt; 0.01), relative humidity RH (r = 0.65; p &lt; 0.01), and NDVI (r = 0.83; p &lt; 0.01) are associated with the cooling effects of urban vegetation, showing that a higher vegetation density is associated with lower air and land surface temperatures. The negative correlation between ET and LST (r = −0.92; p &lt; 0.01) explains the imprint of evapotranspiration in the diurnal variations of LST in contrast with TA. The decreasing trend of NPP over 24 years highlighted the feedback response of vegetation to air pollution and climate warming. For future green cities, the results of this study contribute to the development of advanced strategies for urban vegetation protection and better mitigation of air quality under an increased frequency of extreme climate events.</jats:p>",
+   "DOI": "10.3390/atmos16050553",
+   "type": "journal-article",
+   "title": [
+    "Spatiotemporal Analysis of Air Pollution and Climate Change Effects on Urban Green Spaces in Bucharest Metropolis"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4017-274X",
+     "authenticated-orcid": false,
+     "given": "Maria",
+     "family": "Zoran",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "ITC Department, National Institute of R&D for Optoelectronics, 409 Atomistilor Street, MG5, 077125 Magurele, Romania"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dan",
+     "family": "Savastru",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ITC Department, National Institute of R&D for Optoelectronics, 409 Atomistilor Street, MG5, 077125 Magurele, Romania"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marina",
+     "family": "Tautan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ITC Department, National Institute of R&D for Optoelectronics, 409 Atomistilor Street, MG5, 077125 Magurele, Romania"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniel",
+     "family": "Tenciu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ITC Department, National Institute of R&D for Optoelectronics, 409 Atomistilor Street, MG5, 077125 Magurele, Romania"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alexandru",
+     "family": "Stanciu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ITC Department, National Institute of R&D for Optoelectronics, 409 Atomistilor Street, MG5, 077125 Magurele, Romania"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Atmosphere"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/atmos16050553"
+  },
+  {
+   "DOI": "10.1007/978-981-92-1455-6_6",
+   "title": [
+    "CRISPER-Edited Urban Green Spaces: Designing Super Plants for Maximum Air Filtration"
+   ],
+   "container-title": [
+    "Plants as Monitors and Mitigators of Air Pollution"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-92-1455-6_6",
+   "author": [
+    {
+     "given": "H.",
+     "family": "Nishanth",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "G. P.",
+     "family": "Pavan Rathod",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "F. S.",
+     "family": "Aparna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Subhasini",
+     "family": "Ghosh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Namisha",
+     "family": "Arora",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sayeed Wajeed R.",
+     "family": "Mulla",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mahantesha Banvat Netaji",
+     "family": "Naika",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780429340581-7",
+   "title": [
+    "Green health insurance for urban areas"
+   ],
+   "container-title": [
+    "Urban Green Space, Health Economics and Air Pollution in Delhi"
+   ],
+   "publisher": "Routledge India",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      25
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780429340581-7",
+   "author": [
+    {
+     "given": "Swati",
+     "family": "Rajput",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kavita",
+     "family": "Arora",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rachna",
+     "family": "Mathur",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/s43621-026-03349-9",
+   "title": [
+    "A theoretical model for balancing population density and urban green spaces in smart cities to combat air pollution and enhance sustainable development"
+   ],
+   "container-title": [
+    "Discover Sustainability"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      16
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s43621-026-03349-9",
+   "author": [
+    {
+     "given": "Mohammad Mahmoud Abu",
+     "family": "Omar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.22215/etd/2022-14896",
+   "title": [
+    "Combined Analysis of the Association Between Air Pollution, Urban Green Space, and Neurodevelopmental Disorders"
+   ],
+   "publisher": "Carleton University",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.22215/etd/2022-14896",
+   "author": [
+    {
+     "given": "Simon",
+     "family": "Boushel",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780429340581-4",
+   "title": [
+    "Level and extent of air pollution in Delhi"
+   ],
+   "container-title": [
+    "Urban Green Space, Health Economics and Air Pollution in Delhi"
+   ],
+   "publisher": "Routledge India",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      25
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780429340581-4",
+   "author": [
+    {
+     "given": "Swati",
+     "family": "Rajput",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kavita",
+     "family": "Arora",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rachna",
+     "family": "Mathur",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/bs.apmp.2025.04.002",
+   "title": [
+    "Urban green spaces: A key urban infrastructure for air and acoustic quality"
+   ],
+   "container-title": [
+    "Advances in Chemical Pollution, Environmental Management and Protection",
+    "Climate-Smart Water Resource Management: A Paradigm Shift from Ancient to Modern Practices with Integrated Technologies"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/bs.apmp.2025.04.002"
+  },
+  {
+   "DOI": "10.3030/847744",
+   "publisher": "Publications Office of the European Union",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      4,
+      1
+     ]
+    ]
+   },
+   "type": "grant",
+   "URL": "https://doi.org/10.3030/847744"
+  },
+  {
+   "DOI": "10.12691/jap-11-1-2",
+   "title": [
+    "Quantifying the Effect of Green Urban Spaces as Sinks for Air Pollutants in Lahore, Pakistan"
+   ],
+   "container-title": [
+    "Journal of Atmospheric Pollution"
+   ],
+   "publisher": "Science and Education Publishing Co., Ltd.",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.12691/jap-11-1-2",
+   "author": [
+    {
+     "given": "Derk",
+     "family": "Bakker",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ariba",
+     "family": "Ashgar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ehtisham",
+     "family": "Gill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sima",
+     "family": "Saleem",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7551/mitpress/7013.003.0004",
+   "title": [
+    "Air pollution calculations for urban areas"
+   ],
+   "container-title": [
+    "Urban Air Pollution Modeling"
+   ],
+   "publisher": "The MIT Press",
+   "issued": {
+    "date-parts": [
+     [
+      1980,
+      9,
+      29
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.7551/mitpress/7013.003.0004"
+  },
+  {
+   "DOI": "10.1080/00037931.1969.10590320",
+   "title": [
+    "GREEN SPACES AND AIR POLLUTION"
+   ],
+   "container-title": [
+    "Arboricultural Association Journal"
+   ],
+   "publisher": "Informa UK Limited",
+   "issued": {
+    "date-parts": [
+     [
+      1969,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1080/00037931.1969.10590320",
+   "author": [
+    {
+     "given": "A.",
+     "family": "Raad",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Leadership & Innovation Lab",
+   "abstract": "<jats:p>Urban green spaces have been recognized as a practical strategy to improve urban air quality and reduce health risks associated with air pollution and extreme heat. In cities, exposure to elevated air pollutant concentrations (e.g., ozone and particulate matter) contributes to respiratory and cardiovascular illness, while higher temperatures linked to the urban heat island effect can intensify heat-related medical events. This paper reviews literature on urban green spaces and their ability to improve air quality through three pathways: (1) lowering air temperature through shade and evapotranspiration, (2) filtering and removing air pollutants, and (3) supporting greenhouse gas mitigation through carbon storage and sequestration. The paper uses a targeted evidence scan to establish key outcome categories and then presents a structured comparison of two exemplar case studies. Two exemplary case studies illustrate these pathways by examining how vegetation relates to urban heat patterns and heat-related health outcomes, and by estimating how urban trees remove air pollutants and the associated economic value. Together, these studies demonstrate that urban vegetation can produce measurable environmental and public health benefits through both cooling effects and pollutant removal. However, green spaces alone are unlikely to fully offset major sources of air pollution and greenhouse gas emissions without broader changes in land use, energy systems, and environmental practices.</jats:p>",
+   "DOI": "10.70121/001c.158327",
+   "type": "journal-article",
+   "title": [
+    "The Greenest Air Filters: Impact of Urban Green Spaces on Air Quality"
+   ],
+   "author": [
+    {
+     "given": "Danny",
+     "family": "Xu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Scholarly Review Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      30
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70121/001c.158327"
+  }
+ ]
+}

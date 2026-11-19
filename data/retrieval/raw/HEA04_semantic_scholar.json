@@ -1,0 +1,1095 @@
+{
+ "query": "Physical activity and cardiovascular health",
+ "retrieved_at": "2026-11-18T19:11:54.720156+00:00",
+ "data": [
+  {
+   "paperId": "dbf4e7c31fc83e66831593e72f95d270ec9dc7a5",
+   "externalIds": {
+    "PubMedCentral": "13140392",
+    "DOI": "10.1155/jdr/3341765",
+    "CorpusId": 287038433,
+    "PubMed": "41914829"
+   },
+   "url": "https://www.semanticscholar.org/paper/dbf4e7c31fc83e66831593e72f95d270ec9dc7a5",
+   "title": "Physical Activity and Cardiovascular Health",
+   "venue": "Journal of Diabetes Research",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1155/jdr/3341765",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13140392, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-01-01",
+   "authors": [
+    {
+     "authorId": "2060875899",
+     "name": "A. Polyak"
+    },
+    {
+     "authorId": "2132498776",
+     "name": "Alexander Lee"
+    },
+    {
+     "authorId": "47223149",
+     "name": "M. Gulati"
+    }
+   ],
+   "abstract": "Cardiovascular disease (CVD) remains the leading global cause of mortality, with physical activity (PA) and inactivity playing a significant role in its prevalence and outcomes. PA has been shown to substantially reduce cardiovascular and cardiometabolic risk through mechanisms such as favorable cardiac remodeling, improved endothelial function, and enhanced metabolic regulation. This review explores the broad cardiovascular benefits of PA across both general and diabetic populations, highlighting its impact on reducing disease incidence, improving cardiac function, and lowering cardiovascular mortality. Various forms of PA—including aerobic, resistance, and flexibility and balance training—demonstrate differing but complementary roles in promoting cardiovascular health. Despite strong evidence and guideline endorsements, participation rates remain low, with fewer than a quarter of US adults meeting the minimum PA recommendations. Barriers to PA—personal, environmental, and health‐related—remain significant and underaddressed. Enhanced patient education, clinician engagement, and tailored intervention strategies are essential to improve adherence and outcomes. Overall, PA is a critical, evidence‐based strategy for reducing CVD risk."
+  },
+  {
+   "paperId": "b5ec3e13213502a5c5cb8fc971803317ed653a64",
+   "externalIds": {
+    "MAG": "2238644682",
+    "DOI": "10.1001/JAMA.276.3.241",
+    "CorpusId": 7644772
+   },
+   "url": "https://www.semanticscholar.org/paper/b5ec3e13213502a5c5cb8fc971803317ed653a64",
+   "title": "Physical activity and cardiovascular health",
+   "venue": "",
+   "year": 1996,
+   "openAccessPdf": {
+    "url": "https://jamanetwork.com/journals/jama/articlepdf/405583/jama_276_3_036.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1001/JAMA.276.3.241?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1001/JAMA.276.3.241, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "1996-07-28",
+   "authors": [
+    {
+     "authorId": "3859094",
+     "name": "R. Luepker"
+    },
+    {
+     "authorId": "32177376",
+     "name": "S. Johnson"
+    },
+    {
+     "authorId": "152314571",
+     "name": "L. Breslow"
+    },
+    {
+     "authorId": "5741068",
+     "name": "A. Chobanian"
+    },
+    {
+     "authorId": "1602361744",
+     "name": "C. E. Davis"
+    },
+    {
+     "authorId": "6384660",
+     "name": "B. Duling"
+    },
+    {
+     "authorId": "6039175",
+     "name": "S. Kumanyika"
+    },
+    {
+     "authorId": "2320131",
+     "name": "R. Lauer"
+    },
+    {
+     "authorId": "2471280330",
+     "name": "P. Lawson"
+    },
+    {
+     "authorId": "114399100",
+     "name": "P. McBride"
+    },
+    {
+     "authorId": "4106810",
+     "name": "S. Oparil"
+    },
+    {
+     "authorId": "35231431",
+     "name": "R. Prineas"
+    },
+    {
+     "authorId": "40423337",
+     "name": "R. Washington"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "bc4cbabccebef06296de1413ca8254e8f239c59e",
+   "externalIds": {
+    "DOI": "10.1001/jama.1996.03540030075036",
+    "CorpusId": 264212890
+   },
+   "url": "https://www.semanticscholar.org/paper/bc4cbabccebef06296de1413ca8254e8f239c59e",
+   "title": "Physical Activity and Cardiovascular Health",
+   "venue": "",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "https://jamanetwork.com/journals/jama/articlepdf/405583/jama_276_3_036.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1001/jama.1996.03540030075036?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1001/jama.1996.03540030075036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2241746676",
+     "name": "Raul Martins"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "642fc4aba9fff88c61bddc4c08eba70cd540651b",
+   "externalIds": {
+    "MAG": "2073247851",
+    "DOI": "10.1016/0002-9149(64)90002-5",
+    "CorpusId": 43342417,
+    "PubMed": "14232798"
+   },
+   "url": "https://www.semanticscholar.org/paper/642fc4aba9fff88c61bddc4c08eba70cd540651b",
+   "title": "PHYSICAL ACTIVITY AND CARDIOVASCULAR HEALTH.",
+   "venue": "American Journal of Cardiology",
+   "year": 1964,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/0002-9149(64)90002-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/0002-9149(64)90002-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "1964-12-01",
+   "authors": [
+    {
+     "authorId": "144649633",
+     "name": "S. M. Fox"
+    },
+    {
+     "authorId": "2020755",
+     "name": "J. Skinner"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "7bd56ddacb044b09106f1c80e48d5cc0b17e5363",
+   "externalIds": {
+    "MAG": "3028087228",
+    "DOI": "10.1007/978-3-319-90305-7_59-1",
+    "CorpusId": 219440922
+   },
+   "url": "https://www.semanticscholar.org/paper/7bd56ddacb044b09106f1c80e48d5cc0b17e5363",
+   "title": "Physical Activity and Cardiovascular Health",
+   "venue": "Brain and Heart Dynamics",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-90305-7_59-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-90305-7_59-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-05-19",
+   "authors": [
+    {
+     "authorId": "117522612",
+     "name": "C. Buzzachera"
+    },
+    {
+     "authorId": "2240680528",
+     "name": "L. Correale"
+    },
+    {
+     "authorId": "1581444444",
+     "name": "Giulia Liberali"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "7075174ccb7f595f6253c489669fa0f68cbca3e6",
+   "externalIds": {
+    "MAG": "2415551441",
+    "DOI": "10.1714/2190.23654",
+    "CorpusId": 44519977,
+    "PubMed": "27029874"
+   },
+   "url": "https://www.semanticscholar.org/paper/7075174ccb7f595f6253c489669fa0f68cbca3e6",
+   "title": "[Physical activity and cardiovascular health].",
+   "venue": "Giornale italiano di cardiologia",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1714/2190.23654?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1714/2190.23654, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2016-03-01",
+   "authors": [
+    {
+     "authorId": "7785335",
+     "name": "P. Temporelli"
+    }
+   ],
+   "abstract": "It is well known that regular moderate physical activity, in the context of a healthy lifestyle, significantly reduces the likelihood of cardiovascular events, both in primary and secondary prevention. In addition, it is scientifically proven that exercise can reduce the incidence of diabetes, osteoporosis, depression, breast cancer and colon cancer. Despite this strong evidence, sedentary lifestyle remains a widespread habit in the western world. Even in Italy the adult population has a poor attitude to regular physical activity. It is therefore necessary, as continuously recommended by the World Health Organization, to motivate people to \"move\" since the transition from inactivity to regular light to moderate physical activity has a huge impact on health, resulting in significant savings of resources. We do not need to be athletes to exercise - it should be part of all our daily routines."
+  },
+  {
+   "paperId": "a3f80711ca03d10e1c46445199b78c22d8cd3b2a",
+   "externalIds": {
+    "MAG": "2322979463",
+    "DOI": "10.1097/JCN.0000000000000151",
+    "CorpusId": 36720475,
+    "PubMed": "24718274"
+   },
+   "url": "https://www.semanticscholar.org/paper/a3f80711ca03d10e1c46445199b78c22d8cd3b2a",
+   "title": "Physical activity and cardiovascular health.",
+   "venue": "Journal of Cardiovascular Nursing",
+   "year": 2014,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1097/jcn.0000000000000151",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/JCN.0000000000000151?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/JCN.0000000000000151, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2014-05-01",
+   "authors": [
+    {
+     "authorId": "144066402",
+     "name": "L. Hayman"
+    },
+    {
+     "authorId": "2356211804",
+     "name": "C. Dennison Himmelfarb"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "8b3cf2cf559a19a25910c836fc46b5a9bce05303",
+   "externalIds": {
+    "CorpusId": 264212894,
+    "PubMed": "9160011"
+   },
+   "url": "https://www.semanticscholar.org/paper/8b3cf2cf559a19a25910c836fc46b5a9bce05303",
+   "title": "Physical activity and cardiovascular health.",
+   "venue": "NIH consensus statement",
+   "year": 1995,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [],
+   "abstract": null
+  },
+  {
+   "paperId": "80560643e3df478f61c2c3e2f1e1642c20d9f6b9",
+   "externalIds": {
+    "MAG": "1559274501",
+    "DOI": "10.5772/38250",
+    "CorpusId": 19273074
+   },
+   "url": "https://www.semanticscholar.org/paper/80560643e3df478f61c2c3e2f1e1642c20d9f6b9",
+   "title": "Physical Activity and Cardiovascular Health",
+   "venue": "",
+   "year": 2012,
+   "openAccessPdf": {
+    "url": "https://www.intechopen.com/chapters/35923",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5772/38250?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/38250, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2012-04-25",
+   "authors": [
+    {
+     "authorId": "2467538557",
+     "name": "R. A."
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "6763f9f1c34efd556612294b4ee5d267e9dd4cf4",
+   "externalIds": {
+    "CorpusId": 264212898,
+    "PubMed": "6021059"
+   },
+   "url": "https://www.semanticscholar.org/paper/6763f9f1c34efd556612294b4ee5d267e9dd4cf4",
+   "title": "Physical activity and cardiovascular health.",
+   "venue": "Canadian Medical Association journal",
+   "year": 1967,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [],
+   "abstract": null
+  },
+  {
+   "paperId": "952e5f8dbde582cbcf7c62788a97cf7f42807587",
+   "externalIds": {
+    "PubMedCentral": "6481298",
+    "MAG": "2916721746",
+    "DOI": "10.1161/CIRCULATIONAHA.118.035312",
+    "CorpusId": 86539715,
+    "PubMed": "31031411"
+   },
+   "url": "https://www.semanticscholar.org/paper/952e5f8dbde582cbcf7c62788a97cf7f42807587",
+   "title": "Sedentary behavior and cardiovascular disease in older women: The Objective Physical Activity and Cardiovascular Health (OPACH) Study",
+   "venue": "Circulation",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.118.035312",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6481298, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-02-19",
+   "authors": [
+    {
+     "authorId": "2595162",
+     "name": "J. Bellettiere"
+    },
+    {
+     "authorId": "2369066",
+     "name": "M. LaMonte"
+    },
+    {
+     "authorId": "3684222",
+     "name": "K. Evenson"
+    },
+    {
+     "authorId": "2237473656",
+     "name": "E. Rillamas-Sun"
+    },
+    {
+     "authorId": "144461750",
+     "name": "J. Kerr"
+    },
+    {
+     "authorId": "6597940",
+     "name": "I. Lee"
+    },
+    {
+     "authorId": "2767366",
+     "name": "Chongzhi Di"
+    },
+    {
+     "authorId": "3655856",
+     "name": "D. Rosenberg"
+    },
+    {
+     "authorId": "5782529",
+     "name": "M. Stefanick"
+    },
+    {
+     "authorId": "34847670",
+     "name": "D. Buchner"
+    },
+    {
+     "authorId": "8747163",
+     "name": "M. Hovell"
+    },
+    {
+     "authorId": "2984392",
+     "name": "A. LaCroix"
+    },
+    {
+     "authorId": "3816127",
+     "name": "J. Rossouw"
+    },
+    {
+     "authorId": "14221784",
+     "name": "S. Ludlam"
+    },
+    {
+     "authorId": "5045892",
+     "name": "D. Burwen"
+    },
+    {
+     "authorId": "152617888",
+     "name": "J. McGowan"
+    },
+    {
+     "authorId": "5449499",
+     "name": "L. Ford"
+    },
+    {
+     "authorId": "9825472",
+     "name": "N. Geller"
+    },
+    {
+     "authorId": "34958971",
+     "name": "G. Anderson"
+    },
+    {
+     "authorId": "46789170",
+     "name": "R. Prentice"
+    },
+    {
+     "authorId": "1835992",
+     "name": "C. Kooperberg"
+    },
+    {
+     "authorId": "3988124",
+     "name": "J. Manson"
+    },
+    {
+     "authorId": "48339237",
+     "name": "B. Howard"
+    },
+    {
+     "authorId": "2286862032",
+     "name": "R. Jackson"
+    },
+    {
+     "authorId": "2250839444",
+     "name": "Cynthia A. Thomson"
+    },
+    {
+     "authorId": "1387455896",
+     "name": "J. Wactawski-Wende"
+    },
+    {
+     "authorId": "3758778",
+     "name": "M. Limacher"
+    },
+    {
+     "authorId": "2036234",
+     "name": "R. Wallace"
+    },
+    {
+     "authorId": "2604336",
+     "name": "L. Kuller"
+    },
+    {
+     "authorId": "1814608",
+     "name": "S. Shumaker"
+    }
+   ],
+   "abstract": "Background: Evidence that higher sedentary time is associated with higher risk for cardiovascular disease (CVD) is based mainly on self-reported measures. Few studies have examined whether patterns of sedentary time are associated with higher risk for CVD. Methods: Women from the Objective Physical Activity and Cardiovascular Health (OPACH) Study (n=5638, aged 63–97, mean age=79±7) with no history of myocardial infarction (MI) or stroke wore accelerometers for 4-to-7 days and were followed for up to 4.9 years for CVD events. Average daily sedentary time and mean sedentary bout duration were the exposures of interest. Cox regression models estimated hazard ratios (HR) and 95% confidence intervals (CI) for CVD using models adjusted for covariates and subsequently adjusted for potential mediators (body mass index (BMI), diabetes, hypertension, and CVD-risk biomarkers [fasting glucose, high-density lipoprotein, triglycerides, and systolic blood pressure]). Restricted cubic spline regression characterized dose-response relationships. Results: There were 545 CVD events during 19,350 person-years. Adjusting for covariates, women in the highest (≥ ~11 hr/day) vs. the lowest (≤ ~9 hr/day) quartile of sedentary time had higher risk for CVD (HR=1.62; CI=1.21–2.17; p-trend <0.001). Further adjustment for potential mediators attenuated but did not eliminate significance of these associations (p-trend<.05, each). Longer vs. shorter mean bout duration was associated with higher risks for CVD (HR=1.54; CI=1.27–2.02; p-trend=0.003) after adjustment for covariates. Additional adjustment for CVD-risk biomarkers attenuated associations resulting in a quartile 4 vs. quartile 1 HR=1.36; CI=1.01–1.83; p-trend=0.10). Dose-response associations of sedentary time and bout duration with CVD were linear (P-nonlinear >0.05, each). Women jointly classified as having high sedentary time and long bout durations had significantly higher risk for CVD (HR=1.34; CI=1.08–1.65) than women with both low sedentary time and short bout duration. All analyses were repeated for incident coronary heart disease (MI or CVD death) and associations were similar with notably stronger hazard ratios. Conclusions: Both high sedentary time and long mean bout durations were associated in a dose-response manner with increased CVD risk in older women, suggesting that efforts to reduce CVD burden may benefit from addressing either or both component(s) of sedentary behavior."
+  },
+  {
+   "paperId": "ea34d8db1cbe4b66ca013a29b8dcb982842c8d60",
+   "externalIds": {
+    "PubMedCentral": "9045238",
+    "DOI": "10.5271/sjweh.3993",
+    "CorpusId": 239010369,
+    "PubMed": "34656067"
+   },
+   "url": "https://www.semanticscholar.org/paper/ea34d8db1cbe4b66ca013a29b8dcb982842c8d60",
+   "title": "Physical activity at work may not be health enhancing. A systematic review with meta-analysis on the association between occupational physical activity and cardiovascular disease mortality covering 23 studies with 655 892 participants",
+   "venue": "Scandinavian Journal of Work, Environment and Health",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.sjweh.fi/download.php?abstract_id=3993&file_nro=1",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9045238, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2021-10-17",
+   "authors": [
+    {
+     "authorId": "1751581641",
+     "name": "Bart Cillekens"
+    },
+    {
+     "authorId": "2573529",
+     "name": "M. Huysmans"
+    },
+    {
+     "authorId": "1752670",
+     "name": "A. Holtermann"
+    },
+    {
+     "authorId": "6780326",
+     "name": "W. van Mechelen"
+    },
+    {
+     "authorId": "47051824",
+     "name": "L. Straker"
+    },
+    {
+     "authorId": "3780239",
+     "name": "N. Krause"
+    },
+    {
+     "authorId": "2251419",
+     "name": "A. J. van der Beek"
+    },
+    {
+     "authorId": "4399506",
+     "name": "P. Coenen"
+    }
+   ],
+   "abstract": "Objectives Emerging evidence suggests contrasting health effects for leisure-time and occupational physical activity. In this systematic review, we synthesized and described the epidemiological evidence regarding the association between occupational physical activity and cardiovascular disease (CVD) mortality. Methods A literature search was performed in PubMed, Embase, CINAHL, PsycINFO and Evidence-Based Medicine Reviews, from database inception to 17 April 2020. Articles were included if they described original observational prospective research, assessing the association between occupational physical activity and CVD mortality among adult workers. Reviews were included if they controlled for age and gender and at least one other relevant variable. We performed meta-analyses on the associations between occupational physical activity and CVD mortality. Results We screened 3345 unique articles, and 31 articles (from 23 studies) were described in this review. In the meta-analysis, occupational physical activity showed no significant association with overall CVD mortality for both males [hazard ratio (HR) 1.00, 95% confidence interval (CI) 0.87–1.15] and females (HR 0.95, 95% CI 0.82–1.09). Additional analysis showed that higher levels of occupational physical activity were non-significantly associated with a 15% increase in studies reporting on the outcome ischemic heart disease mortality (HR 1.15, 95% CI 0.88–1.49). Conclusions While the beneficial association between leisure-time physical activity and CVD mortality has been widely documented, occupational physical activity was not found to have a beneficial association with CVD mortality. This observation may have implications for our appreciation of the association between physical activity and health for workers in physically demanding jobs, as occupational physical activity may not be health enhancing."
+  },
+  {
+   "paperId": "550dd6707d1b88c324ce3cc7854c30ef2b8e4e84",
+   "externalIds": {
+    "MAG": "3091853062",
+    "PubMedCentral": "7969364",
+    "DOI": "10.1249/MSS.0000000000002534",
+    "CorpusId": 222302915,
+    "PubMed": "33044436"
+   },
+   "url": "https://www.semanticscholar.org/paper/550dd6707d1b88c324ce3cc7854c30ef2b8e4e84",
+   "title": "Sleep, Sedentary Behavior, Physical Activity, and Cardiovascular Health: MESA",
+   "venue": "Medicine & Science in Sports & Exercise",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7969364/",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7969364, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-10-07",
+   "authors": [
+    {
+     "authorId": "31722021",
+     "name": "C. German"
+    },
+    {
+     "authorId": "5084663",
+     "name": "N. Makarem"
+    },
+    {
+     "authorId": "39903978",
+     "name": "J. Fanning"
+    },
+    {
+     "authorId": "144719750",
+     "name": "S. Redline"
+    },
+    {
+     "authorId": "3524808",
+     "name": "T. Elfassy"
+    },
+    {
+     "authorId": "4430663",
+     "name": "A. McClain"
+    },
+    {
+     "authorId": "145550329",
+     "name": "M. Abdalla"
+    },
+    {
+     "authorId": "37818600",
+     "name": "B. Aggarwal"
+    },
+    {
+     "authorId": "50281663",
+     "name": "N. Allen"
+    },
+    {
+     "authorId": "5008781",
+     "name": "M. Carnethon"
+    }
+   ],
+   "abstract": "Introduction: Sleep, sedentary behavior, and physical activity are each independently associated with cardiovascular health (CVH). It is unknown how substituting time in sedentary behavior with sleep or physical activity effects overall CVH. Methods: Data for this analysis were taken from the Multi-Ethnic Study on Atherosclerosis (MESA) Sleep Ancillary Study. Eligible participants (n= 1718) wore Actiwatch accelerometers for 24 hours and had at least 3 days of valid accelerometry. The American Heart Association’s life simple 7 was used to represent the CVH score after excluding the physical activity component, with higher scores indicating more favorable CVH. Isotemporal substitution modeling was conducted to examine the effect of substituting 30 minutes of sedentary time for an equivalent amount of sleep, light intensity physical activity (LIPA), or moderate to vigorous physical activity (MVPA). Results: Substituting 30 minutes of sedentary time to sleep, LIPA, and MVPA was associated with a significantly higher CVH score [β(95%CI): 0.077(0.056), 0.039(0.033), and 0.485(0.127) respectively]. Substituting 30 minutes of sedentary time to sleep was associated with lower BMI. Substituting 30 minutes of sedentary time to LIPA was associated with higher diastolic blood pressure and total cholesterol, and lower BMI. Substituting 30 minutes of sedentary time to MVPA was associated with lower systolic and diastolic blood pressure, and lower BMI. Conclusions: Sleep, LIPA, and MVPA are all associated with more favorable overall CVH and several key risk factors for cardiovascular disease. These findings underscore the importance of lifestyle modifications in improving CVH."
+  },
+  {
+   "paperId": "992a063a852765cf42b39453d40366982395b67e",
+   "externalIds": {
+    "PubMedCentral": "5721888",
+    "MAG": "2766630083",
+    "DOI": "10.1161/JAHA.117.007064",
+    "CorpusId": 24358882,
+    "PubMed": "29042429"
+   },
+   "url": "https://www.semanticscholar.org/paper/992a063a852765cf42b39453d40366982395b67e",
+   "title": "Both Light Intensity and Moderate‐to‐Vigorous Physical Activity Measured by Accelerometry Are Favorably Associated With Cardiometabolic Risk Factors in Older Women: The Objective Physical Activity and Cardiovascular Health (OPACH) Study",
+   "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1161/jaha.117.007064",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5721888, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Study",
+    "JournalArticle"
+   ],
+   "publicationDate": "2017-10-01",
+   "authors": [
+    {
+     "authorId": "2369066",
+     "name": "M. LaMonte"
+    },
+    {
+     "authorId": "1978602",
+     "name": "C. Lewis"
+    },
+    {
+     "authorId": "34847670",
+     "name": "D. Buchner"
+    },
+    {
+     "authorId": "3684222",
+     "name": "K. Evenson"
+    },
+    {
+     "authorId": "2237473656",
+     "name": "E. Rillamas-Sun"
+    },
+    {
+     "authorId": "2767366",
+     "name": "Chongzhi Di"
+    },
+    {
+     "authorId": "6597940",
+     "name": "I. Lee"
+    },
+    {
+     "authorId": "2595162",
+     "name": "J. Bellettiere"
+    },
+    {
+     "authorId": "5782529",
+     "name": "M. Stefanick"
+    },
+    {
+     "authorId": "1838561",
+     "name": "C. Eaton"
+    },
+    {
+     "authorId": "8002908",
+     "name": "B. Howard"
+    },
+    {
+     "authorId": "33572130",
+     "name": "C. Bird"
+    },
+    {
+     "authorId": "2984392",
+     "name": "A. LaCroix"
+    },
+    {
+     "authorId": "3816127",
+     "name": "J. Rossouw"
+    },
+    {
+     "authorId": "14221784",
+     "name": "S. Ludlam"
+    },
+    {
+     "authorId": "5045892",
+     "name": "D. Burwen"
+    },
+    {
+     "authorId": "152617888",
+     "name": "J. McGowan"
+    },
+    {
+     "authorId": "5449499",
+     "name": "L. Ford"
+    },
+    {
+     "authorId": "9825472",
+     "name": "N. Geller"
+    },
+    {
+     "authorId": "34958971",
+     "name": "G. Anderson"
+    },
+    {
+     "authorId": "46789170",
+     "name": "R. Prentice"
+    },
+    {
+     "authorId": "1835992",
+     "name": "C. Kooperberg"
+    },
+    {
+     "authorId": "3988124",
+     "name": "J. Manson"
+    },
+    {
+     "authorId": "2286862032",
+     "name": "R. Jackson"
+    },
+    {
+     "authorId": "3256268",
+     "name": "C. Thomson"
+    },
+    {
+     "authorId": "1387455896",
+     "name": "J. Wactawski-Wende"
+    },
+    {
+     "authorId": "3758778",
+     "name": "M. Limacher"
+    },
+    {
+     "authorId": "2036234",
+     "name": "R. Wallace"
+    },
+    {
+     "authorId": "2604336",
+     "name": "L. Kuller"
+    },
+    {
+     "authorId": "1814608",
+     "name": "S. Shumaker"
+    }
+   ],
+   "abstract": "Background The relationship between light intensity physical activity (PA), which is common in older adults, and cardiovascular disease (CVD) risk factors is unclear. This study examined associations of accelerometer‐measured PA intensity with CVD risk factors in older women of different race‐ethnicities. Methods and Results Cross‐sectional analyses were conducted in 4832 women (mean age 78.9 years; 52.5% white, 30.5% black, 17.1% Hispanic) who were without known CVD and wore triaxial accelerometers a minimum of 4 of 7 days with ≥10 hours/d awake wear‐time. Vector magnitude counts per 15‐s epoch were used to define time spent in low light (19–225 counts/15 s), high light (226–518), and moderate‐to‐vigorous; ≥519) intensity PA. Fasting CVD biomarkers, resting blood pressure, waist girth, body mass index, and 10‐year predicted CVD risk (Reynolds Risk Score) were measured. After adjusting for age, wear time, race‐ethnicity, and potential confounders, each PA measure was favorably associated with mean high‐density lipoprotein, triglyceride, glucose, C‐reactive protein, body mass index, waist girth, and Reynolds Risk Score (P<0.05, all). Associations with mean blood pressure, insulin, and total and low‐density lipoprotein cholesterol were variable. A 30‐minute/d increment in PA was associated, on average, with odds ratios for high predicted CVD risk (Reynolds Risk Score ≥20) of 0.96 (95% confidence interval, 0.92, 1.00), 0.88 (0.83, 0.94), and 0.85 (0.79, 0.91) for low light, high light, and moderate‐to‐vigorous, respectively, and remained significant with further mutual control for PA intensity. Conclusions PA measured by accelerometry, including light intensity PA, was associated with lower CVD risk factor levels in race‐ethnically diverse older women."
+  },
+  {
+   "paperId": "aa16e59ed4303d25c8f98e43e01faa6ce72ffcf4",
+   "externalIds": {
+    "PubMedCentral": "12233137",
+    "DOI": "10.1161/CIRCRESAHA.125.325526",
+    "CorpusId": 279898295,
+    "PubMed": "40608856"
+   },
+   "url": "https://www.semanticscholar.org/paper/aa16e59ed4303d25c8f98e43e01faa6ce72ffcf4",
+   "title": "Epidemiology and Cardiovascular Benefits of Physical Activity and Exercise",
+   "venue": "Circulation Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12233137/",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12233137, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-03",
+   "authors": [
+    {
+     "authorId": "2264156205",
+     "name": "Michael Y. Mi"
+    },
+    {
+     "authorId": "2268944239",
+     "name": "A. Perry"
+    },
+    {
+     "authorId": "2324272288",
+     "name": "Vaishnavi Krishnan"
+    },
+    {
+     "authorId": "3620099",
+     "name": "M. Nayor"
+    }
+   ],
+   "abstract": "While humans evolved to perform routine endurance activity, recent secular trends in the U.S. and globally have resulted in a dramatic rise in the amount of time spent inactive in both occupational and leisure-time settings. The high burden of physical inactivity is responsible for a high risk of preventable noncommunicable disease including cardiovascular disease, cancer, and premature death. In this Review, we focus on the beneficial effects of routine physical activity on the cardiovascular system, the different ways we can achieve and measure physical activity, and the evidence supporting key public health guidance on optimal physical activity goals for promoting health. While data indicate modest improvements in leisure-time physical activity in the U.S. over the last decade, these developments are not equitably distributed across the population with racial and ethnic minorities, women, and older adults continuing to display lower physical activity rates. The data reviewed here demonstrate the importance of promoting physical activity for cardiovascular health and highlight the need to address the enormous burden of physical inactivity, especially in those affected by intersecting disparities influencing both general health and leisure-time physical activity."
+  },
+  {
+   "paperId": "73384a584ae79c0ef69cc398e1ef41bc7ebfa70c",
+   "externalIds": {
+    "MAG": "2073263541",
+    "DOI": "10.1161/CIRCULATIONAHA.109.914721",
+    "CorpusId": 3038337,
+    "PubMed": "20713909"
+   },
+   "url": "https://www.semanticscholar.org/paper/73384a584ae79c0ef69cc398e1ef41bc7ebfa70c",
+   "title": "Physical Activity and Cardiovascular Health: Lessons Learned From Epidemiological Studies Across Age, Gender, and Race/Ethnicity",
+   "venue": "Circulation",
+   "year": 2010,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1161/CIRCULATIONAHA.109.914721?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1161/CIRCULATIONAHA.109.914721, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2010-08-17",
+   "authors": [
+    {
+     "authorId": "3671005",
+     "name": "E. Shiroma"
+    },
+    {
+     "authorId": "6597940",
+     "name": "I. Lee"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "706d7c54c5f6470cfcbebc0cbdeda62f66196925",
+   "externalIds": {
+    "PubMedCentral": "9586849",
+    "DOI": "10.1016/j.ajpc.2022.100425",
+    "CorpusId": 252930788,
+    "PubMed": "36281325"
+   },
+   "url": "https://www.semanticscholar.org/paper/706d7c54c5f6470cfcbebc0cbdeda62f66196925",
+   "title": "Physical activity, cardiorespiratory fitness, and cardiovascular health: A clinical practice statement of the American Society for Preventive Cardiology Part II: Physical activity, cardiorespiratory fitness, minimum and goal intensities for exercise training, prescriptive methods, and special patien",
+   "venue": "American Journal of Preventive Cardiology",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S266666772200109X/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9586849, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-10-01",
+   "authors": [
+    {
+     "authorId": "5936906",
+     "name": "B. Franklin"
+    },
+    {
+     "authorId": "144149464",
+     "name": "T. Eijsvogels"
+    },
+    {
+     "authorId": "46310309",
+     "name": "A. Pandey"
+    },
+    {
+     "authorId": "5317456",
+     "name": "J. Quindry"
+    },
+    {
+     "authorId": "2211787",
+     "name": "P. Toth"
+    }
+   ],
+   "abstract": "The prescription of exercise for individuals with and without cardiovascular disease (CVD) should be scientifically-based yet adapted to the patient. This scientific statement reviews the clinical and physiologic basis for the prescription of exercise, with specific reference to the volume of physical activity (PA) and level of cardiorespiratory fitness (CRF) that confer significant and optimal cardioprotective benefits. Recommendations are provided regarding the appropriate intensity, frequency, and duration of training; the concept of MET-minutes per week; critical components of the exercise session (warm-up, conditioning phase, cool-down); methodologies for establishing the training intensity, including oxygen uptake reserve (V̇O2R), target heart rate derivation and rating perceived exertion; minimum and goal intensities for exercise training; and, types of training activities, including resistance training, adjunctive lifestyle PA, marathon/triathlon training, and high-intensity interval training. In addition, we discuss the rationale for and value of exercise training programs for patients with peripheral artery disease, diabetes mellitus, and heart failure."
+  },
+  {
+   "paperId": "50ab46e8cb204b6027230aaa7c6d9aa3c9e81289",
+   "externalIds": {
+    "MAG": "2801905686",
+    "DOI": "10.1093/gerona/gly101",
+    "CorpusId": 19148794,
+    "PubMed": "29726906"
+   },
+   "url": "https://www.semanticscholar.org/paper/50ab46e8cb204b6027230aaa7c6d9aa3c9e81289",
+   "title": "Sedentary Behavior and Prevalent Diabetes in 6,166 Older Women: The Objective Physical Activity and Cardiovascular Health Study",
+   "venue": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://academic.oup.com/biomedgerontology/article-pdf/74/3/387/27784022/gly101.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/gerona/gly101?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/gerona/gly101, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-02-15",
+   "authors": [
+    {
+     "authorId": "2595162",
+     "name": "J. Bellettiere"
+    },
+    {
+     "authorId": "5741529",
+     "name": "G. Healy"
+    },
+    {
+     "authorId": "2369066",
+     "name": "M. LaMonte"
+    },
+    {
+     "authorId": "144461750",
+     "name": "J. Kerr"
+    },
+    {
+     "authorId": "3684222",
+     "name": "K. Evenson"
+    },
+    {
+     "authorId": "2237473656",
+     "name": "E. Rillamas-Sun"
+    },
+    {
+     "authorId": "2767366",
+     "name": "Chongzhi Di"
+    },
+    {
+     "authorId": "34847670",
+     "name": "D. Buchner"
+    },
+    {
+     "authorId": "8747163",
+     "name": "M. Hovell"
+    },
+    {
+     "authorId": "2984392",
+     "name": "A. LaCroix"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "5f2b8d24bc0217bdf80883e05fac4546af57fb74",
+   "externalIds": {
+    "MAG": "2015395383",
+    "PubMedCentral": "4446166",
+    "DOI": "10.1177/1090198114560015",
+    "CorpusId": 36862340,
+    "PubMed": "25819980"
+   },
+   "url": "https://www.semanticscholar.org/paper/5f2b8d24bc0217bdf80883e05fac4546af57fb74",
+   "title": "Effectiveness of a walking group intervention to promote physical activity and cardiovascular health in predominantly non-Hispanic Black and Hispanic urban neighborhoods: Findings from the Walk Your Heart to Health Intervention",
+   "venue": "Health Education & Behavior",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4446166/",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4446166, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2015-03-27",
+   "authors": [
+    {
+     "authorId": "2046755",
+     "name": "A. Schulz"
+    },
+    {
+     "authorId": "34861916",
+     "name": "B. Israel"
+    },
+    {
+     "authorId": "49689063",
+     "name": "G. Mentz"
+    },
+    {
+     "authorId": "48658054",
+     "name": "Cristina Bernal"
+    },
+    {
+     "authorId": "13665227",
+     "name": "Deanna Caver"
+    },
+    {
+     "authorId": "2498863790",
+     "name": "R. de Majo"
+    },
+    {
+     "authorId": "47040746",
+     "name": "Gregoria Diaz"
+    },
+    {
+     "authorId": "40539775",
+     "name": "C. Gamboa"
+    },
+    {
+     "authorId": "50582655",
+     "name": "Causandra Gaines"
+    },
+    {
+     "authorId": "11031105",
+     "name": "Bernadine Hoston"
+    },
+    {
+     "authorId": "39773571",
+     "name": "Alisha Opperman"
+    },
+    {
+     "authorId": "4234343",
+     "name": "A. Reyes"
+    },
+    {
+     "authorId": "6602685",
+     "name": "Z. Rowe"
+    },
+    {
+     "authorId": "34911520",
+     "name": "Sharon L. Sand"
+    },
+    {
+     "authorId": "2056837129",
+     "name": "Sachiko Woods"
+    }
+   ],
+   "abstract": "Objectives. The purpose of this study was to evaluate the effectiveness of the Walk Your Heart to Health (WYHH) intervention, one component of the multilevel Community Approaches to Cardiovascular Health: Pathways to Heart Health (CATCH:PATH) intervention designed to promote physical activity and reduce cardiovascular risk among non-Hispanic Black and Hispanic residents of Detroit, Michigan. The study was designed and implemented using a community-based participatory research approach that actively engaged community residents, health service providers and academic researchers. It was implemented between 2009 and 2012. Method. WYHH was a 32-week community health promoter–facilitated walking group intervention. Groups met three times per week at community-based or faith-based organizations, and walked for 45 to 90 minutes (increasing over time). The study used a cluster randomized control design to evaluate effectiveness of WYHH, with participants randomized into intervention or lagged intervention (control) groups. Psychosocial, clinical, and anthropometric data were collected at baseline, 8, and 32 weeks, and pedometer step data tracked using uploadable peisoelectric pedometers. Results. Participants in the intervention group increased steps significantly more during the initial 8-week intervention period, compared with the control group (β = 2004.5, p = .000). Increases in physical activity were associated with reductions in systolic blood pressure, fasting blood glucose, total cholesterol, waist circumference and body mass index at 8 weeks, and maintained at 32 weeks. Conclusion. The WYHH community health promoter–facilitated walking group intervention was associated with significant reductions in multiple indicators of cardiovascular risk among predominantly Hispanic and non-Hispanic Black participants in a low-to-moderate income urban community. Such interventions can contribute to reductions in racial, ethnic, and socioeconomic inequities in cardiovascular mortality."
+  },
+  {
+   "paperId": "7435367dffeb439deaef827e83d0146c499f53c7",
+   "externalIds": {
+    "PubMedCentral": "5249148",
+    "MAG": "2579623318",
+    "DOI": "10.1371/journal.pone.0170471",
+    "CorpusId": 11242049,
+    "PubMed": "28107459"
+   },
+   "url": "https://www.semanticscholar.org/paper/7435367dffeb439deaef827e83d0146c499f53c7",
+   "title": "Associations of Health Club Membership with Physical Activity and Cardiovascular Health",
+   "venue": "PLoS ONE",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0170471&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5249148, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2017-01-20",
+   "authors": [
+    {
+     "authorId": "39976756",
+     "name": "Elizabeth C. Schroeder"
+    },
+    {
+     "authorId": "4976328",
+     "name": "G. Welk"
+    },
+    {
+     "authorId": "3418824",
+     "name": "W. Franke"
+    },
+    {
+     "authorId": "4699129",
+     "name": "Duck-chul Lee"
+    }
+   ],
+   "abstract": "Introduction This study evaluates whether a health club membership is associated with meeting the US physical activity (PA) guidelines and/or favorable cardiovascular health. Methods Using cross-sectional data of health club members (n = 204) and non-members (n = 201) from April to August 2013, this is the first study to our knowledge to examine a health club membership in relation to objectively measured cardiovascular health indicators including resting blood pressure, resting heart rate, body mass index, waist circumference, and cardiorespiratory fitness based on a non-exercise test algorithm. To determine the total PA and sedentary time, this study used a comprehensive PA questionnaire about both aerobic and resistance activities at the health club, as well as lifestyle activities in other settings, which was developed based on the International Physical Activity Questionnaire (IPAQ). Results The odds ratios (95% confidence interval) of meeting either the aerobic, resistance, or both aerobic and resistance PA guidelines for members compared to non-members were 16.5 (9.8–27.6), 10.1 (6.2–16.3), and 13.8 (8.5–22.4), respectively. Significant associations of health club membership with more favorable cardiovascular health outcomes and sedentary behavior were observed for resting heart rate (B: -4.8 b/min, p<0.001), cardiorespiratory fitness (B: 2.1 ml/kg/min, p<0.001), and sedentary time (B: -1.4 hours, p<0.001). Participants with a health club membership of >1 year had more favorable health outcomes, with a smaller waist circumference (men, B: -4.0 cm, p = 0.04; women, B: -3.4 cm, p = 0.06), compared to non-members. Conclusions Health club membership is associated with significantly increased aerobic and resistance physical activity levels and more favorable cardiovascular health outcomes compared to non-members. However, longitudinal, randomized controlled trials would be clearly warranted as cross-sectional data prohibits causal inferences."
+  }
+ ]
+}

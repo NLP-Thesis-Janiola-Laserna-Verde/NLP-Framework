@@ -1,0 +1,1112 @@
+{
+ "query": "Obesity prevention in school-aged children",
+ "retrieved_at": "2026-11-10T10:51:18.502856+00:00",
+ "data": [
+  {
+   "paperId": "869b03e39abbafcdbf8728272175dd8fd4103d3e",
+   "externalIds": {
+    "PubMedCentral": "12708575",
+    "DOI": "10.3389/fpubh.2025.1724617",
+    "CorpusId": 283603696,
+    "PubMed": "41415238"
+   },
+   "url": "https://www.semanticscholar.org/paper/869b03e39abbafcdbf8728272175dd8fd4103d3e",
+   "title": "The role of teachers in the prevention and management of childhood obesity among school-aged children in Ghana: a cross-sectional study",
+   "venue": "Frontiers in Public Health",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://public-pages-files-2025.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1724617/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12708575, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-03",
+   "authors": [
+    {
+     "authorId": "2396827819",
+     "name": "Chantal Kayitesi"
+    },
+    {
+     "authorId": "3388949",
+     "name": "N. Tagoe"
+    },
+    {
+     "authorId": "2334257722",
+     "name": "P. Acheampong"
+    }
+   ],
+   "abstract": "Background School-based interventions have been widely used in the prevention and control of childhood obesity. Teachers, as pivotal figures in child development, are strategically situated to aid in this process. Nonetheless, there is limited evidence regarding their role, awareness, and contribution to childhood obesity in Ghana. This study evaluated the role of teachers in the prevention and management of childhood obesity in Ghana. Materials and methods This quantitative, cross-sectional study included 74 teachers selected through convenience sampling from public schools in the Oforikrom Municipality of Kumasi, the capital of Ghana’s Ashanti Region. Data were gathered using a structured pre-tested questionnaire and analyzed using the R programming software. Binary logistic regression was performed to identify the factors associated with teacher’s participation in childhood obesity prevention programs. Results The study revealed that 46% of teachers were familiar with childhood obesity with only 33.8% of teachers familiar with its causes. Significant institutional hurdles included resource restrictions (46%), insufficient training (24.3%), and time constraints (12.2%). Chi-square analysis revealed that teachers’ participation in childhood obesity prevention was significantly associated with socioeconomic conditions (p = 0.016), challenges faced (p = 0.022), perception of physical activity (p = 0.012), physical education practices (p = 0.006), outdoor play promotion (p = 0.026), health screenings (p = 0.002), healthy eating education (p = 0.002), and counseling practices (p < 0.001). However, the multivariable logistic regression analysis revealed no statistically significant determinants of teachers’ participation. Conclusion The results highlight the necessity for specific measures, including professional development initiatives, institutional policy modifications, and resource distribution, to improve teachers’ ability to combat childhood obesity. Policymakers ought to incorporate comprehensive school health initiatives into the curriculum, prioritizing physical exercise and nutritious food."
+  },
+  {
+   "paperId": "e15760868fd5b7b174eeece2781be9a4f9f5be77",
+   "externalIds": {
+    "PubMedCentral": "9698336",
+    "DOI": "10.3390/nu14224837",
+    "CorpusId": 253604268,
+    "PubMed": "36432522"
+   },
+   "url": "https://www.semanticscholar.org/paper/e15760868fd5b7b174eeece2781be9a4f9f5be77",
+   "title": "A Rapid Review of the Impact of Family-Based Digital Interventions for Obesity Prevention and Treatment on Obesity-Related Outcomes in Primary School-Aged Children",
+   "venue": "Nutrients",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-6643/14/22/4837/pdf?version=1668561432",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9698336, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-11-01",
+   "authors": [
+    {
+     "authorId": "47785475",
+     "name": "L. Chai"
+    },
+    {
+     "authorId": "2167536448",
+     "name": "Rebecca Farletti"
+    },
+    {
+     "authorId": "1750707",
+     "name": "L. Fathi"
+    },
+    {
+     "authorId": "40332348",
+     "name": "R. Littlewood"
+    }
+   ],
+   "abstract": "Virtual delivery of obesity prevention and treatment programs may be effective for supporting children and families to adopt healthy lifestyle changes while enhancing program accessibility. This rapid review aimed to summarize the impact of family-based digital interventions for childhood obesity prevention and treatment. Four databases were searched up to February 2021 for trials of interactive digital programs aimed to prevent and/or treat obesity in children aged 5–12 years and reported diet, physical activity, sedentary behavior, sleep, or weight-related outcomes in children. A total of 23 publications (from 18 interventions) were included. Behavior change theories were used in 13 interventions with “Social Cognitive Theory” applied most frequently (n = 9). Interventions included websites (n = 11), text messaging (n = 5), video gaming (n = 2), Facebook (n = 3), and/or mobile applications (n = 2). Studies reported changes in body mass index (BMI; n = 11 studies), diet (n = 11), physical activity (n = 10), screen time (n = 6), and/or sleep (n = 1). Significant improvements were reported for diet (n = 5) or physical activity (n = 4). Two of the six interventions were effective in reducing screen time. Digital interventions have shown modest improvements in child BMI and significant effectiveness in diet and physical activity, with emerging evidence supporting the use of social media and video gaming to enhance program delivery."
+  },
+  {
+   "paperId": "47a8cafcd883acafde0c183d9863f1ae43b97ef0",
+   "externalIds": {
+    "MAG": "3008405965",
+    "DOI": "10.1089/chi.2019.0253",
+    "CorpusId": 211476388,
+    "PubMed": "32091934"
+   },
+   "url": "https://www.semanticscholar.org/paper/47a8cafcd883acafde0c183d9863f1ae43b97ef0",
+   "title": "School Gardening Activities Aimed at Obesity Prevention Improve Body Mass Index and Waist Circumference Parameters in School-Aged Children: A Systematic Review and Meta-Analysis",
+   "venue": "Childhood Obesity",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1089/chi.2019.0253?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/chi.2019.0253, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-02-24",
+   "authors": [
+    {
+     "authorId": "82655210",
+     "name": "A. Rochira"
+    },
+    {
+     "authorId": "2053072699",
+     "name": "D. Tedesco"
+    },
+    {
+     "authorId": "82683978",
+     "name": "A. Ubiali"
+    },
+    {
+     "authorId": "4727935",
+     "name": "M. Fantini"
+    },
+    {
+     "authorId": "4406367",
+     "name": "D. Gori"
+    }
+   ],
+   "abstract": "Background: Childhood obesity, due to its increasing prevalence, is one of the most challenging problems in public health and prevention. Recent strategies have been implemented to tackle this trend, including school gardening projects. This systematic review analyzes the main elements of school gardening with a specific meta-analysis about its impact on anthropometric parameters. Materials and Methods: We searched studies in PubMed, EMBASE, and Cochrane Library on school gardening projects carried out until February 2019 and addressed to children aged 6 to 13 years. Results: Thirty-three studies passed the screening selection. Outcomes analyzed were fruits and vegetables consumption/knowledge, nutritional attitudes and behavior, anthropometric outcomes (i.e., BMI, waist circumference—WC) and other outcomes (i.e., blood pressure, science achievement, and physical activity). We performed descriptive analyses of these outcomes and found a general benefit from school gardening projects. We subsequently performed a meta-analysis on anthropometric outcomes, highlighting a significant reduction of both BMI percentile (%) (−1.37%) and WC (−1.30 cm). Conclusions: Although more high-quality studies are needed on this topic, along with a greater homogeneity of anthropometric measurements, the results of our article show a modest but positive impact of school gardening projects on anthropometric measures and more generally on children's health."
+  },
+  {
+   "paperId": "89ce3b6c69e728085499e956037f8b75cce4d608",
+   "externalIds": {
+    "MAG": "3084006129",
+    "DOI": "10.1093/tbm/ibaa082",
+    "CorpusId": 221523345,
+    "PubMed": "32893869"
+   },
+   "url": "https://www.semanticscholar.org/paper/89ce3b6c69e728085499e956037f8b75cce4d608",
+   "title": "Family-based nutrition interventions for obesity prevention among school-aged children: a systematic review.",
+   "venue": "Translational Behavioral Medicine",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1093/tbm/ibaa082?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/tbm/ibaa082, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-09-07",
+   "authors": [
+    {
+     "authorId": "1399720258",
+     "name": "Megan Perdew"
+    },
+    {
+     "authorId": "1988814420",
+     "name": "Sam Liu"
+    },
+    {
+     "authorId": "9984096",
+     "name": "P. Naylor"
+    }
+   ],
+   "abstract": "Effective evidence-informed family-based nutrition interventions for childhood obesity management are needed. (a) To assess the number and quality of published randomized controlled trials incorporating family-based nutrition interventions for childhood obesity (ages 5-18 years) management and (b) to identify intervention attributes (e.g., contact time, nutrition curricula, and behavior change strategies) used in successful interventions. Studies that met eligibility criteria were randomized controlled trials and family-based childhood obesity management interventions for children and adolescents ages 5-18 years old that included a healthy eating component and measured child dietary behaviors and/or parent dietary feeding practices. Six databases were searched: CINAHL complete, Cochrane Central Register of Controlled Trials, Health Source: Nursing/Academic Edition, MEDLINE with full text (PubMed), PsycINFO, SPORTDiscus, and ERIC (EBSCO Host). The validated Quality Assessment Tool for Quantitative Studies was used to assess study quality. Eight studies met eligibility criteria. Study quality analysis showed that blinding of the research teams (e.g., analysts, and those focused on data collection) and the use of age appropriate, valid, and reliable instruments were areas of concern. Successful nutrition interventions targeting children 5-18 years old, appear to include setting family-based goals, modifying home food environment, hands-on approaches to teaching nutrition (games, group-based activities), and fruit and vegetable vouchers. This review highlighted a limited amount of moderate to high quality evidence to suggest that family-based nutrition interventions can be successful in improving dietary behaviors and that interventions with positive outcomes had some components of nutrition curricula and strategies in common."
+  },
+  {
+   "paperId": "5ec836b64770973713f42df0698d4067b44695cc",
+   "externalIds": {
+    "PubMedCentral": "9581512",
+    "DOI": "10.1016/j.eclinm.2022.101635",
+    "CorpusId": 253039498,
+    "PubMed": "36281235"
+   },
+   "url": "https://www.semanticscholar.org/paper/5ec836b64770973713f42df0698d4067b44695cc",
+   "title": "Interventions to prevent obesity in school-aged children 6-18 years: An update of a Cochrane systematic review and meta-analysis including studies from 2015–2021",
+   "venue": "EClinicalMedicine",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "http://www.thelancet.com/article/S2589537022003650/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9581512, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-10-19",
+   "authors": [
+    {
+     "authorId": "6609616",
+     "name": "R. Hodder"
+    },
+    {
+     "authorId": "1409617861",
+     "name": "Kate M. O’Brien"
+    },
+    {
+     "authorId": "2141290004",
+     "name": "S. Lorien"
+    },
+    {
+     "authorId": "7022089",
+     "name": "L. Wolfenden"
+    },
+    {
+     "authorId": "49189705",
+     "name": "T. Moore"
+    },
+    {
+     "authorId": "50783579",
+     "name": "Alix E. Hall"
+    },
+    {
+     "authorId": "4139507",
+     "name": "S. Yoong"
+    },
+    {
+     "authorId": "5748345",
+     "name": "C. Summerbell"
+    }
+   ],
+   "abstract": "Summary Background Childhood obesity remains a global public health priority due to the enormous burden it generates. Recent surveillance data suggests there has been a sharp increase in the prevalence of childhood obesity during the COVID-19 pandemic. The Cochrane review of childhood obesity prevention interventions (0–18 years) updated to 2015 is the most rigorous and comprehensive review of randomised controlled trials (RCTs) on this topic. A burgeoning number of high quality studies have been published since that are yet to be synthesised. Methods An update of the Cochrane systematic review was conducted to include RCT studies in school-aged children (6-18 years) published to 30 June 2021 that assessed effectiveness on child weight (PROSPERO registration: CRD42020218928). Available cost-effectiveness and adverse effect data were extracted. Intervention effects on body mass index (BMI) were synthesised in random effects meta-analyses by setting (school, after-school program, community, home), and meta-regression examined the association of study characteristics with intervention effect. Findings Meta-analysis of 140 of 195 included studies (183,063 participants) found a very small positive effect on body mass index for school-based studies (SMD –0·03, 95%CI –0·06,–0·01; trials = 93; participants = 131,443; moderate certainty evidence) but not after-school programs, community or home-based studies. Subgroup analysis by age (6–12 years; 13–18 years) found no differential effects in any setting. Meta-regression found no associations between study characteristics (including setting, income level) and intervention effect. Ten of 53 studies assessing adverse effects reported presence of an adverse event. Insufficient data was available to draw conclusions on cost-effectiveness. Interpretation This updated synthesis of obesity prevention interventions for children aged 6–18 years, found a small beneficial impact on child BMI for school-based obesity prevention interventions. A more comprehensive assessment of interventions is required to identify mechanisms of effective interventions to inform future obesity prevention public health policy, which may be particularly salient in for COVID-19 recovery planning. Funding This research was funded by the National Health and Medical Research Council (NHMRC), Australia (Application No APP1153479)."
+  },
+  {
+   "paperId": "6395ed27a6605920aba423c98b5671a898d67376",
+   "externalIds": {
+    "MAG": "1531708527",
+    "PubMedCentral": "4494748",
+    "DOI": "10.4137/PPRI.S12291",
+    "CorpusId": 1408519,
+    "PubMed": "26161007"
+   },
+   "url": "https://www.semanticscholar.org/paper/6395ed27a6605920aba423c98b5671a898d67376",
+   "title": "Obesity Prevention and Treatment in School-aged Children, Adolescents, and Young Adults—Where Do We Go from Here?",
+   "venue": "Primary Prevention Insights",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4494748",
+    "status": "GREEN",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4494748, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2015-06-10",
+   "authors": [
+    {
+     "authorId": "5590700",
+     "name": "Sharon M. Karp"
+    },
+    {
+     "authorId": "5053245",
+     "name": "S. Gesell"
+    }
+   ],
+   "abstract": "The rise in the rate of obesity in school-aged children, adolescents, and young adults in the last 30 years is a clear healthcare crisis that needs to be addressed. Despite recent national reports in the United States highlighting positive downward trends in the rate of obesity in younger children, we are still faced with approximately 12.7 million children struggling with obesity. Given the immediate and long-term health consequences of obesity, much time and effort has been expended to address this epidemic. Yet, despite these efforts, we still only see limited, short-term success from most interventions. Without changes to how we address childhood obesity, we will continue to see inadequate improvements in the health of our children. Clinicians and researchers need to be lobbying for evidence-based policy changes, such as those identified by systems science, in order to improve the nation’s health."
+  },
+  {
+   "paperId": "66ab23bf759bb7490fff6f27b15d2c6911a4735b",
+   "externalIds": {
+    "MAG": "2775819626",
+    "PubMedCentral": "5719318",
+    "DOI": "10.1136/bmjopen-2017-018415",
+    "CorpusId": 32005169,
+    "PubMed": "29196485"
+   },
+   "url": "https://www.semanticscholar.org/paper/66ab23bf759bb7490fff6f27b15d2c6911a4735b",
+   "title": "Cluster-randomised controlled trial to assess the effectiveness and cost-effectiveness of an obesity prevention programme for Chinese primary school-aged children: the CHIRPY DRAGON study protocol",
+   "venue": "BMJ Open",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1136/bmjopen-2017-018415",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5719318, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Study",
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2017-11-01",
+   "authors": [
+    {
+     "authorId": "51118552",
+     "name": "Bai Li"
+    },
+    {
+     "authorId": "2109235017",
+     "name": "Wei-Jia Liu"
+    },
+    {
+     "authorId": "3729818",
+     "name": "P. Adab"
+    },
+    {
+     "authorId": "2624240",
+     "name": "M. Pallan"
+    },
+    {
+     "authorId": "145819460",
+     "name": "K. Hemming"
+    },
+    {
+     "authorId": "6132290",
+     "name": "E. Frew"
+    },
+    {
+     "authorId": "4328566",
+     "name": "Rong Lin"
+    },
+    {
+     "authorId": "2110110095",
+     "name": "James T. Martin"
+    },
+    {
+     "authorId": "2157220834",
+     "name": "Wei Liu"
+    },
+    {
+     "authorId": "144244798",
+     "name": "K. Cheng"
+    }
+   ],
+   "abstract": "Introduction Childhood obesity in China has increased more rapidly and over a shorter time period than in other countries. However, there is a paucity of rigorously developed and evaluated prevention interventions. We aim to evaluate the clinical and cost-effectiveness as well as the implementation process of a complex multicomponent intervention developed using the UK Medical Research Council (MRC) framework. This study provides one of the first examples of rigorous development and evaluation of a childhood obesity prevention programme in a non-western population using the MRC methods. Methods and analysis A cluster-randomised controlled trial in 40 primary schools in Guangzhou, China, including children aged 6–7 years at baseline. Schools will be randomly allocated to either the usual practice (n=20) or intervention arm (n=20). The 12-month intervention consists of four components targeting diet and physical activity behaviours in and outside school, with family involvement. The primary objective is to compare the difference in mean body mass index (BMI) z-score between the intervention and control arms at the end of the intervention (starting March/April 2017). A sample size of 1640 pupils recruited from 40 schools is sufficient to detect a difference of 0.17 units in the mean BMI z-score with a power of 80% (ICC=0.01. ICC, intraclass correlation coefficient) and a significance level of 5%. Treatment effects will be tested using a mixed linear model in STATA adjusting for the child baseline BMI z-score and clustering by school. All analyses will be by intention to treat. Secondary analyses will additionally adjust for prespecified school-level and child-level covariates. The incremental cost-effectiveness ratio for the intervention versus usual practice will be ‘cost per quality-adjusted life year (QALY)’. Cost per change in BMI z-score will also be assessed. A range of methods will be used to evaluate intervention implementation, mechanisms of impact and contextual factors. Ethics and dissemination Ethical approval was obtained from the Life and Health Sciences Ethical Review Committee at the University of Birmingham and the Ethical Committee of Guangzhou Centre for Disease Control and Prevention. The primary, secondary, process evaluation and economic evaluation results of the trial will be disseminated through relevant international peer-reviewed journals and conferences. Trial registration number ISRCTN11867516; Pre-results."
+  },
+  {
+   "paperId": "bf51dccbe8d737df94e934b5586d75d8a6e60f0b",
+   "externalIds": {
+    "MAG": "2789311329",
+    "DOI": "10.3310/hta22080",
+    "CorpusId": 3734116,
+    "PubMed": "29436364"
+   },
+   "url": "https://www.semanticscholar.org/paper/bf51dccbe8d737df94e934b5586d75d8a6e60f0b",
+   "title": "The West Midlands ActiVe lifestyle and healthy Eating in School children (WAVES) study: a cluster randomised controlled trial testing the clinical effectiveness and cost-effectiveness of a multifaceted obesity prevention intervention programme targeted at children aged 6-7 years.",
+   "venue": "Health Technology Assessment",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "https://njl-admin.nihr.ac.uk/document/download/2012222",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3310/hta22080?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3310/hta22080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2018-02-01",
+   "authors": [
+    {
+     "authorId": "3729818",
+     "name": "P. Adab"
+    },
+    {
+     "authorId": "113955593",
+     "name": "T. Barrett"
+    },
+    {
+     "authorId": "143670490",
+     "name": "R. Bhopal"
+    },
+    {
+     "authorId": "2335682685",
+     "name": "J. Cade"
+    },
+    {
+     "authorId": "8469367",
+     "name": "A. Canaway"
+    },
+    {
+     "authorId": "144244798",
+     "name": "K. Cheng"
+    },
+    {
+     "authorId": "38798090",
+     "name": "J. Clarke"
+    },
+    {
+     "authorId": "3403805",
+     "name": "A. Daley"
+    },
+    {
+     "authorId": "144843629",
+     "name": "J. Deeks"
+    },
+    {
+     "authorId": "6951593",
+     "name": "J. Duda"
+    },
+    {
+     "authorId": "144077400",
+     "name": "U. Ekelund"
+    },
+    {
+     "authorId": "6132290",
+     "name": "E. Frew"
+    },
+    {
+     "authorId": "38830043",
+     "name": "P. Gill"
+    },
+    {
+     "authorId": "79001389",
+     "name": "T. Griffin"
+    },
+    {
+     "authorId": "145819460",
+     "name": "K. Hemming"
+    },
+    {
+     "authorId": "36489811",
+     "name": "Kiya L. Hurley"
+    },
+    {
+     "authorId": "4450594",
+     "name": "E. Lancashire"
+    },
+    {
+     "authorId": "2110110095",
+     "name": "James T. Martin"
+    },
+    {
+     "authorId": "145232488",
+     "name": "E. McGee"
+    },
+    {
+     "authorId": "2624240",
+     "name": "M. Pallan"
+    },
+    {
+     "authorId": "48739404",
+     "name": "J. Parry"
+    },
+    {
+     "authorId": "35302926",
+     "name": "S. Passmore"
+    }
+   ],
+   "abstract": "BACKGROUND\nSystematic reviews suggest that school-based interventions can be effective in preventing childhood obesity, but better-designed trials are needed that consider costs, process, equity, potential harms and longer-term outcomes.\n\n\nOBJECTIVE\nTo assess the clinical effectiveness and cost-effectiveness of the WAVES (West Midlands ActiVe lifestyle and healthy Eating in School children) study intervention, compared with usual practice, in preventing obesity among primary school children.\n\n\nDESIGN\nA cluster randomised controlled trial, split across two groups, which were randomised using a blocked balancing algorithm. Schools/participants could not be blinded to trial arm. Measurement staff were blind to allocation arm as far as possible.\n\n\nSETTING\nPrimary schools, West Midlands, UK.\n\n\nPARTICIPANTS\nSchools within a 35-mile radius of the study centre and all year 1 pupils (aged 5-6 years) were eligible. Schools with a higher proportion of pupils from minority ethnic populations were oversampled to enable subgroup analyses.\n\n\nINTERVENTIONS\nThe 12-month intervention encouraged healthy eating/physical activity (PA) by (1) helping teachers to provide 30 minutes of additional daily PA, (2) promoting 'Villa Vitality' (interactive healthy lifestyles learning, in an inspirational setting), (3) running school-based healthy cooking skills/education workshops for parents and children and (4) highlighting information to families with regard to local PA opportunities.\n\n\nMAIN OUTCOME MEASURES\nThe primary outcomes were the difference in body mass index z-scores (BMI-zs) between arms (adjusted for baseline body mass index) at 3 and 18 months post intervention (clinical outcome), and cost per quality-adjusted life-year (QALY) (cost-effectiveness outcome). The secondary outcomes were further anthropometric, dietary, PA and psychological measurements, and the difference in BMI-z between arms at 27 months post intervention in a subset of schools.\n\n\nRESULTS\nTwo groups of schools were randomised: 27 in 2011 (n = 650 pupils) [group 1 (G1)] and another 27 in 2012 (n = 817 pupils) [group 2 (G2)]. Primary outcome data were available at first follow-up (n = 1249 pupils) and second follow-up (n = 1145 pupils) from 53 schools. The mean difference (MD) in BMI-z between the control and intervention arms was -0.075 [95% confidence interval (CI) -0.183 to 0.033] and -0.027 (95% CI -0.137 to 0.083) at 3 and 18 months post intervention, respectively. The main analyses showed no evidence of between-arm differences for any secondary outcomes. Third follow-up included data on 467 pupils from 27 G1 schools, and showed a statistically significant difference in BMI-z (MD -0.20, 95% CI -0.40 to -0.01). The mean cost of the intervention was £266.35 per consented child (£155.53 per child receiving the intervention). The incremental cost-effectiveness ratio associated with the base case was £46,083 per QALY (best case £26,804 per QALY), suggesting that the intervention was not cost-effective.\n\n\nLIMITATIONS\nThe presence of baseline primary outcome imbalance between the arms, and interschool variation in fidelity of intervention delivery.\n\n\nCONCLUSIONS\nThe primary analyses show no evidence of clinical effectiveness or cost-effectiveness of the WAVES study intervention. A post hoc analysis, driven by findings at third follow-up, suggests a possible intervention effect, which could have been attenuated by baseline imbalances. There was no evidence of an intervention effect on measures of diet or PA and no evidence of harm.\n\n\nFUTURE WORK\nA realist evidence synthesis could provide insights into contextual factors and strategies for future interventions. School-based interventions need to be integrated within a wider societal framework and supported by upstream interventions.\n\n\nTRIAL REGISTRATION\nCurrent Controlled Trials ISRCTN97000586.\n\n\nFUNDING\nThis project was funded by the National Institute for Health Research (NIHR) Health Technology Assessment programme and will be published in full in Health Technology Assessment; Vol. 22, No. 8. See the NIHR Journals Library website for further project information."
+  },
+  {
+   "paperId": "d7d1bcd164cb11c36cfacabed82865a67d2af0ee",
+   "externalIds": {
+    "DOI": "10.3760/cma.j.cn112338-20210617-00478",
+    "CorpusId": 247010723,
+    "PubMed": "35184494"
+   },
+   "url": "https://www.semanticscholar.org/paper/d7d1bcd164cb11c36cfacabed82865a67d2af0ee",
+   "title": "[Association between obesity with the diversity and genus of gut microbiota in school-aged children].",
+   "venue": "Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3760/cma.j.cn112338-20210617-00478?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3760/cma.j.cn112338-20210617-00478, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-02-10",
+   "authors": [
+    {
+     "authorId": "2377531763",
+     "name": "L.-F. Jiang"
+    },
+    {
+     "authorId": "2201311992",
+     "name": "Y.-Y. Wang"
+    },
+    {
+     "authorId": "2483878691",
+     "name": "H. Peng"
+    },
+    {
+     "authorId": "2107641485",
+     "name": "R. Li"
+    },
+    {
+     "authorId": "2115817796",
+     "name": "F. Zhang"
+    },
+    {
+     "authorId": "2167248705",
+     "name": "N. Wang"
+    },
+    {
+     "authorId": "2494793154",
+     "name": "Q.-W. Shao"
+    },
+    {
+     "authorId": "2113805267",
+     "name": "Qing-Wu Jiang"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "5ef704c10c327842a1a8b0f6e6317806e6c38a56",
+   "externalIds": {
+    "PubMedCentral": "10860312",
+    "DOI": "10.1186/s43058-024-00548-1",
+    "CorpusId": 267632483,
+    "PubMed": "38347649"
+   },
+   "url": "https://www.semanticscholar.org/paper/5ef704c10c327842a1a8b0f6e6317806e6c38a56",
+   "title": "Influencing factors for the implementation of school-based interventions promoting obesity prevention behaviors in children with low socioeconomic status: a systematic review",
+   "venue": "Implementation Science Communications",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://implementationsciencecomms.biomedcentral.com/counter/pdf/10.1186/s43058-024-00548-1",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10860312, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-12",
+   "authors": [
+    {
+     "authorId": "2249550272",
+     "name": "F. Butscher"
+    },
+    {
+     "authorId": "2272040519",
+     "name": "J. Ellinger"
+    },
+    {
+     "authorId": "2249551078",
+     "name": "M. Singer"
+    },
+    {
+     "authorId": "2270282203",
+     "name": "C. Mall"
+    }
+   ],
+   "abstract": "Health inequity (HI) remains a major challenge in public health. Improving the health of children with low socioeconomic status (SES) can help to reduce overall HI in children. Childhood obesity is a global problem, entailing several adverse health effects. It is crucial to assess the influencing factors for adoption, implementation, and sustainment of interventions. This review aims to identify articles reporting about influencing factors for the implementation of school-based interventions promoting obesity prevention behaviors in children with low SES. It aims to critically appraise the articles’ quality, assess influencing factors, categorize and evaluate them, and to discuss possible implications. A systematic search was conducted in 7 databases with the following main inclusion criteria: (1) school-based interventions and (2) target group aged 5–14 years. The Consolidated Framework for Implementation Research, its five domains (intervention characteristics, inner setting, outer setting, characteristics of individuals, process) along with 39 categories within these domains were used as deductive category system for data analysis. We grouped the articles with regard to the characteristics of the interventions in simple and complex interventions. For each domain, and for the groups of simple and complex interventions, the most commonly reported influencing factors are identified. In total, 8111 articles were screened, and 17 met all eligibility criteria. Included articles applied mixed methods (n=11), qualitative (n=5), and quantitative design (n=1). Of these, six were considered to report simple interventions and eleven were considered to report complex interventions. In total, 301 influencing factors were assessed. Aspects of the inner setting were reported in every study, aspects of the outer setting were the least reported domain. In the inner setting, most reported influencing factors were time (n=8), scheduling (n=6), and communication (n=6). This review found a wide range of influencing factors for implementation and contributes to existing literature regarding health equity as well as implementation science. Including all stakeholders involved in the implementation process and assessing the most important influencing factors in the specific setting, could enhance implementation and intervention effectiveness. More empirical research and practical guidance are needed to promote obesity prevention behaviors among children with low SES. CRD42021281209 (PROSPERO)"
+  },
+  {
+   "paperId": "0fd4058123ca86c6fadcda09efc5ce763557b802",
+   "externalIds": {
+    "PubMedCentral": "6879117",
+    "MAG": "2983711995",
+    "DOI": "10.1371/journal.pmed.1002971",
+    "CorpusId": 208318359,
+    "PubMed": "31770371"
+   },
+   "url": "https://www.semanticscholar.org/paper/0fd4058123ca86c6fadcda09efc5ce763557b802",
+   "title": "The CHIRPY DRAGON intervention in preventing obesity in Chinese primary-school--aged children: A cluster-randomised controlled trial",
+   "venue": "PLoS Medicine",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002971&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6879117, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2019-11-01",
+   "authors": [
+    {
+     "authorId": "51118552",
+     "name": "Bai Li"
+    },
+    {
+     "authorId": "2624240",
+     "name": "M. Pallan"
+    },
+    {
+     "authorId": "2109235017",
+     "name": "Wei-Jia Liu"
+    },
+    {
+     "authorId": "145819460",
+     "name": "K. Hemming"
+    },
+    {
+     "authorId": "6132290",
+     "name": "E. Frew"
+    },
+    {
+     "authorId": "4328566",
+     "name": "Rong Lin"
+    },
+    {
+     "authorId": "2157220834",
+     "name": "Wei Liu"
+    },
+    {
+     "authorId": "2110110095",
+     "name": "James T. Martin"
+    },
+    {
+     "authorId": "47186849",
+     "name": "M. Zanganeh"
+    },
+    {
+     "authorId": "36489811",
+     "name": "Kiya L. Hurley"
+    },
+    {
+     "authorId": "144244798",
+     "name": "K. Cheng"
+    },
+    {
+     "authorId": "3729818",
+     "name": "P. Adab"
+    }
+   ],
+   "abstract": "Background In countries undergoing rapid economic transition such as China, rates of increase in childhood obesity exceed that in the West. However, prevention trials in these countries are inadequate in both quantity and methodological quality. In high-income countries, recent reviews have demonstrated that school-based prevention interventions are moderately effective but have some methodological limitations. To address these issues, this study evaluated clinical- and cost- effectiveness of the Chinese Primary School Children Physical Activity and Dietary Behaviour Changes Intervention (CHIRPY DRAGON) developed using the United Kingdom Medical Research Council complex intervention framework to prevent obesity in Chinese primary-school–aged children. Methods and findings In this cluster-randomised controlled trial, we recruited 40 state-funded primary schools from urban districts of Guangzhou, China. A total of 1,641 year-one children with parent/guardian consent took part in baseline assessments prior to stratified randomisation of schools (intervention arm, 20 schools, n = 832, mean age = 6.15 years, 55.6% boys; control arm n = 809, mean age = 6.14 years, 53.3% boys). The 12-month intervention programme included 4 school- and family-based components delivered by 5 dedicated project staff. We promoted physical activity and healthy eating behaviours through educational and practical workshops, family activities, and supporting the school to improve physical activity and food provision. The primary outcome, assessed blind to allocation, was between-arm difference in body mass index (BMI) z score at completion of the intervention. A range of prespecified, secondary anthropometric, behavioural, and psychosocial outcomes were also measured. We estimated cost effectiveness based on quality-adjusted life years (QALYs), taking a public sector perspective. Attrition was low with 55 children lost to follow up (3.4%) and no school dropout. Implementation adherence was high. Using intention to treat analysis, the mean difference (MD) in BMI z scores (intervention − control) was −0.13 (−0.26 to 0.00, p = 0.048), with the effect being greater in girls (MD = −0.18, −0.32 to −0.05, p = 0.007, p for interaction = 0.015) and in children with overweight or obesity at baseline (MD = −0.49, −0.73 to −0.25, p < 0.001, p for interaction < 0.001). Significant beneficial intervention effects were also observed on consumption of fruit and vegetables, sugar-sweetened beverages and unhealthy snacks, screen-based sedentary behaviour, and physical activity in the intervention group. Cost effectiveness was estimated at £1,760 per QALY, with the probability of the intervention being cost effective compared with usual care being at least 95% at a willingness to pay threshold of £20,000 to 30,000 per QALY. There was no evidence of adverse effects or harms. The main limitations of this study were the use of dietary assessment tools not yet validated for Chinese children and the use of the UK value set to estimate QALYS. Conclusions This school- and family-based obesity prevention programme was effective and highly cost effective in reducing BMI z scores in primary-school–aged children in China. Future research should identify strategies to enhance beneficial effects among boys and investigate the transferability of the intervention to other provinces in China and countries that share the same language and cultures. Trial registration ISRCTN Identifier ISRCTN11867516."
+  },
+  {
+   "paperId": "0ac2c2ed75b2a56148110fee5d2f0b088c1bd6db",
+   "externalIds": {
+    "PubMedCentral": "10005652",
+    "DOI": "10.3390/nu15051190",
+    "CorpusId": 257252812,
+    "PubMed": "36904189"
+   },
+   "url": "https://www.semanticscholar.org/paper/0ac2c2ed75b2a56148110fee5d2f0b088c1bd6db",
+   "title": "School Gardening and Health and Well-Being of School-Aged Children: A Realist Synthesis",
+   "venue": "Nutrients",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2072-6643/15/5/1190/pdf?version=1677570665",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10005652, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-02-27",
+   "authors": [
+    {
+     "authorId": "37469419",
+     "name": "Timothy P. Holloway"
+    },
+    {
+     "authorId": "113754973",
+     "name": "Lisa Dalton"
+    },
+    {
+     "authorId": "50131314",
+     "name": "R. Hughes"
+    },
+    {
+     "authorId": "8657988",
+     "name": "S. Jayasinghe"
+    },
+    {
+     "authorId": "87189113",
+     "name": "K. Patterson"
+    },
+    {
+     "authorId": "144178409",
+     "name": "S. Murray"
+    },
+    {
+     "authorId": "2142776125",
+     "name": "Robert Soward"
+    },
+    {
+     "authorId": "3686888",
+     "name": "N. Byrne"
+    },
+    {
+     "authorId": "144795944",
+     "name": "A. Hills"
+    },
+    {
+     "authorId": "2207661974",
+     "name": "K. D. Ahuja"
+    }
+   ],
+   "abstract": "School environments can create healthy settings to foster children’s health and well-being. School gardening is gaining popularity as an intervention for healthier eating and increased physical activity. We used a systematic realist approach to investigate how school gardens improve health and well-being outcomes for school-aged children, why, and in what circumstances. The context and mechanisms of the specific school gardening interventions (n = 24) leading to positive health and well-being outcomes for school-aged children were assessed. The impetus of many interventions was to increase fruit and vegetable intake and address the prevention of childhood obesity. Most interventions were conducted at primary schools with participating children in Grades 2 through 6. Types of positive outcomes included increased fruit and vegetable consumption, dietary fiber and vitamins A and C, improved body mass index, and improved well-being of children. Key mechanisms included embedding nutrition-based and garden-based education in the curriculum; experiential learning opportunities; family engagement and participation; authority figure engagement; cultural context; use of multi-prong approaches; and reinforcement of activities during implementation. This review shows that a combination of mechanisms works mutually through school gardening programs leading to improved health and well-being outcomes for school-aged children."
+  },
+  {
+   "paperId": "2c0777bccb37c1944c152824f2f2e4720cf21766",
+   "externalIds": {
+    "DOI": "10.52403/ijshr.20220760",
+    "CorpusId": 252632951
+   },
+   "url": "https://www.semanticscholar.org/paper/2c0777bccb37c1944c152824f2f2e4720cf21766",
+   "title": "Prevalence of Overweight and Obesity in School Children Aged 5-12 Years of Kottayam, India",
+   "venue": "International journal of science and healthcare research",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.52403/ijshr.20220760",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52403/ijshr.20220760?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52403/ijshr.20220760, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-09-28",
+   "authors": [
+    {
+     "authorId": "2122385042",
+     "name": "Amrtha Paulose"
+    },
+    {
+     "authorId": "14104837",
+     "name": "E. Aluckal"
+    }
+   ],
+   "abstract": "Introduction: Childhood obesity represents a major health problem with potentially devastating consequences and has increased worldwide rapidly in the past two decades. An early detection of overweight and obesity, and lifestyle modifications for its prevention is important. \nAim: The aim of the study was to estimate the prevalence and risk factors of overweight and obesity in school children aged 5-12 years of Kottayam, India.\nMethods: 1200 children of both sexes were studied from three private schools and two government schools belonging to the age group of 5-12 years using Cluster sampling technique. A structured questionnaire to elicit the socio-demographic variables, family history, dietetic habits and physical activities were given. Children are also subjected to General physical examination, blood pressure recording and Anthropometric examination. The body mass index in units of kg/m2 was determined and children were categorized according to age and gender specific criteria as underweight (<5th percentile), normal (5th -85th percentile), overweight (85th – 95th percentile) and obese (>95th percentile). The data were subjected to statistical analysis using appropriate statistical tests.\nResults and Conclusions: The proportion of subjects in CDC weight categories were 18% underweight, 72% normal, 7% overweight and 3% obese. Overweight and obesity is significantly related to age, sex, birth weight, physical inactivity and economic status. This study also shows that obesity is unevenly distributed in the community.\n\nKeywords: Anthropometric, body mass index; inactivity; obesity; overweight"
+  },
+  {
+   "paperId": "a6a56be070b41b288843de0181ba3a12c7b2e2ea",
+   "externalIds": {
+    "MAG": "3087615815",
+    "PubMedCentral": "7558984",
+    "DOI": "10.3390/ijerph17186812",
+    "CorpusId": 221862891,
+    "PubMed": "32962004"
+   },
+   "url": "https://www.semanticscholar.org/paper/a6a56be070b41b288843de0181ba3a12c7b2e2ea",
+   "title": "Elements of Effective Population Surveillance Systems for Monitoring Obesity in School Aged Children",
+   "venue": "International Journal of Environmental Research and Public Health",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/1660-4601/17/18/6812/pdf?version=1600426573",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7558984, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-09-01",
+   "authors": [
+    {
+     "authorId": "47587613",
+     "name": "L. Hardy"
+    },
+    {
+     "authorId": "6126040",
+     "name": "S. Mihrshahi"
+    }
+   ],
+   "abstract": "The continuing high prevalence of child overweight and obesity globally means that it remains the most common chronic health condition in children. Population-based child obesity surveillance systems are critical for monitoring trends in obesity and related behaviours, and determining the overall effect of child obesity prevention strategies. Effective surveillance systems may vary in methods, scope, purpose, objectives, and attributes, and our aim was to provide an overview of child obesity surveillance systems globally, and to highlight main components and other types of survey data that can enhance our understanding of child obesity. Measures of adiposity, including body mass index and waist circumference are essential, but effective surveillance must also include measures of weight-related behaviours, including diet, physical activity, sedentary time, and sleep. While objective measures are desirable, the variability in psychometrics and rapid evolution of wearable devices is potentially problematic for examining long-term trends over time and how behaviours may change. Questionnaires on self-reported behaviours are often used but also have limitations. Because the determinants of obesity are not only functioning at the individual level, some measures of the broader environmental and commercial determinants, including the built and food environments, are useful to guide upstream policy decisions."
+  },
+  {
+   "paperId": "ed5f7d9646729bdc9bec203701ce094c7b94ad45",
+   "externalIds": {
+    "MAG": "2916275088",
+    "DOI": "10.1016/j.evalprogplan.2019.02.008",
+    "CorpusId": 73503030,
+    "PubMed": "30807872"
+   },
+   "url": "https://www.semanticscholar.org/paper/ed5f7d9646729bdc9bec203701ce094c7b94ad45",
+   "title": "Development of an intervention program to prevent childhood obesity targeted to Mexican mothers of school-aged children using intervention mapping and social cognitive theory.",
+   "venue": "Evaluation and Program Planning",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.evalprogplan.2019.02.008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.evalprogplan.2019.02.008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2019-06-01",
+   "authors": [
+    {
+     "authorId": "82946742",
+     "name": "Gilda Zacarías"
+    },
+    {
+     "authorId": "83358364",
+     "name": "T. Shamah-Levy"
+    },
+    {
+     "authorId": "1432819903",
+     "name": "Elizabeth Elton-Puente"
+    },
+    {
+     "authorId": "2097321264",
+     "name": "Pamela Garbus"
+    },
+    {
+     "authorId": "40562952",
+     "name": "O. García"
+    }
+   ],
+   "abstract": "In Mexico, data from the last National Health and Nutrition Survey (2016) described the increase in the prevalence of overweight and obesity in school-aged children (33.2%). Obesity prevention strategies have not been effective, and currently, Mexico has one of the highest prevalence of childhood obesity. Thus, there is an urgent need to develop strategies that can prevent childhood obesity and also to avoid these children to remain overweight/obese through adulthood. The objective of this study was to provide a step-by-step description of the design, implementation and evaluation of an intervention plan for Mexican mothers of school aged children to promote healthy eating and to prevent childhood obesity. The program Niño Sano Adulto Sano was developed using the Intervention Mapping Approach and the Social Cognitive Theory frameworks to provide Mexican mothers with knowledge and skills to positively modify their children's food behavior, thus preventing future weight gain. The program was developed, piloted and delivered to the target population with positive results on the mothers' nutrition knowledge and children's BMI. Intervention Mapping and Social Cognitive Theory are useful models to design and deliver an intervention that provides a holistic approach to promote healthy eating."
+  },
+  {
+   "paperId": "519fac11071a238683423101efadc6a6f891c8fb",
+   "externalIds": {
+    "PubMedCentral": "10856752",
+    "DOI": "10.3390/jcm13030860",
+    "CorpusId": 267402303,
+    "PubMed": "38337554"
+   },
+   "url": "https://www.semanticscholar.org/paper/519fac11071a238683423101efadc6a6f891c8fb",
+   "title": "Obesity and Dental Caries in School Children",
+   "venue": "Journal of Clinical Medicine",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2077-0383/13/3/860/pdf?version=1706792430",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10856752, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-02-01",
+   "authors": [
+    {
+     "authorId": "2090708987",
+     "name": "A. Mohajeri"
+    },
+    {
+     "authorId": "2333296479",
+     "name": "G. Berg"
+    },
+    {
+     "authorId": "119201003",
+     "name": "April D. Watts"
+    },
+    {
+     "authorId": "11778995",
+     "name": "V. J. Cheever"
+    },
+    {
+     "authorId": "30065977",
+     "name": "Man Hung"
+    }
+   ],
+   "abstract": "(1) Background: Childhood obesity and dental caries are common chronic conditions with multiple contributing factors, linked to negative health consequences and significant expenses in healthcare. The aim of this study was to assess the correlation between obesity and dental caries in school-aged children; (2) Methods: Data from 3323 6–12-year-old children from the National Health and Nutrition Examination Survey (NHANES) 2011–2016 were analyzed. The NHANES was conducted at the Centers for Disease Control and Prevention (CDC) in the United States. The CDC standard was used to define obesity. Dental caries was measured during clinical examinations and summarized using DMFT scores for caries experience and prevalence (dt > 0) for untreated caries. The study examined the correlation between obesity and dental caries using regression models that considered demographic variables, family socioeconomic status, and the child’s intake of added sugars as controlling factors; (3) Results: The association between obesity and dental caries was not significant in either unadjusted or adjusted models; and (4) Conclusion: The data indicate that untreated caries and caries experiences are not directly correlated with childhood obesity. There are, however, common causes of poor dental health and childhood obesity: culture, poverty level, lifestyle, and family traditions and habits. Dentists must be aware of factors influencing the development of childhood caries so that they can intervene as early as possible."
+  },
+  {
+   "paperId": "e8cfa737ad6bffd42099e535ca50de09e1f3ab0e",
+   "externalIds": {
+    "PubMedCentral": "11561434",
+    "DOI": "10.2196/57509",
+    "CorpusId": 272156754,
+    "PubMed": "39475855"
+   },
+   "url": "https://www.semanticscholar.org/paper/e8cfa737ad6bffd42099e535ca50de09e1f3ab0e",
+   "title": "Multidimensional School-Based and Family-Involved Interventions to Promote a Healthy and Sustainable Lifestyle (LIVELY) for Childhood Obesity Prevention: Study Protocol",
+   "venue": "JMIR Research Protocols",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://jmir.org/api/download?alt_name=resprot_v13i1e57509_app1.pdf&filename=78cfa14ee15d5e0af702dce80274abf6.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11561434, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-19",
+   "authors": [
+    {
+     "authorId": "2279081794",
+     "name": "S. Basilico"
+    },
+    {
+     "authorId": "151109153",
+     "name": "M. V. Conti"
+    },
+    {
+     "authorId": "1781665",
+     "name": "I. Ardoino"
+    },
+    {
+     "authorId": "2226143894",
+     "name": "C. Breda"
+    },
+    {
+     "authorId": "2146526126",
+     "name": "Federica Loperfido"
+    },
+    {
+     "authorId": "2318058979",
+     "name": "Elena Klaic"
+    },
+    {
+     "authorId": "2318063632",
+     "name": "Linda Spialtini"
+    },
+    {
+     "authorId": "1521948578",
+     "name": "A. Foresta"
+    },
+    {
+     "authorId": "2302847761",
+     "name": "F. Orsini"
+    },
+    {
+     "authorId": "2493728053",
+     "name": "M. L. Ojeda Fernandez"
+    },
+    {
+     "authorId": null,
+     "name": "Stefano Conca Bonizzoni"
+    },
+    {
+     "authorId": "2318058982",
+     "name": "Elisabetta Modena"
+    },
+    {
+     "authorId": null,
+     "name": "Yasamin Tootoonchi Hamedani"
+    },
+    {
+     "authorId": "2318059814",
+     "name": "Federica Villa"
+    },
+    {
+     "authorId": "6455660",
+     "name": "H. Cena"
+    },
+    {
+     "authorId": "5441371",
+     "name": "M. Baviera"
+    },
+    {
+     "authorId": "2292500289",
+     "name": "Carlotta Franchi"
+    }
+   ],
+   "abstract": "Background Childhood obesity has become a significant public health concern over the past 2 decades, posing multifactorial challenges, including modifiable factors like dietary habits, physical activity, screen time, and sleeping habits. Prevention efforts require a comprehensive approach comprising educational interventions, collaboration among multidisciplinary teams, and community engagement. Since schools play a central role in children's lives, they are the ideal setting for promoting healthy habits. Objective The LIVELY (Multidimensional School-Based and Family-Involved Interventions to Promote a Healthy and Sustainable Lifestyle) study will assess the prevalence of overweight and obesity in primary school children and identify contributing factors within families. Additionally, it aims to implement and evaluate a multidimensional, multidisciplinary intervention to foster a sustainable and healthy lifestyle, ultimately working toward preventing obesity in school-aged children. Methods During the school year, each class will be individually involved in a multidimensional educational intervention covering the topics of healthy, sustainable nutrition and lifestyle. Children will also participate in a multimedia lab where they will create an animated cartoon. The lectures will engage them through various methods, including direct instructions, games, and drawing activities, to stimulate and enhance their learning and involvement. Results Data collection began in October 2023 and will last until the end of October 2024. A sample of 227 children from 14 classes was included in the study. The mean age was 8.9 (SD 1.2) years, and 48% (n=110) were males. Among the overall sample, 18.1% (n=41; 95% CI 13.7%-23.7%) were overweight, while 5.3% (n=12; 95% CI 3%-9%) had obesity. Males had a higher prevalence of obesity than females (9.1%, n=10 vs 1.7%, n=3, P=.03, respectively). Otherwise, the prevalence of central obesity was similar between the two (P=.329). Data analysis and the presentation of the complete results will be available after the end of 2024. Conclusions The study could lead to the structuring of an educational intervention model in school settings aimed at preventing childhood obesity. Moreover, it could help raise awareness of childhood obesity and help prevent this public health issue. Trial Registration ClinicalTrials.gov NCT05966051; https://clinicaltrials.gov/study/NCT05966051 International Registered Report Identifier (IRRID) DERR1-10.2196/57509"
+  },
+  {
+   "paperId": "bf293ba0fd8956254f943884eae526c2f48b228a",
+   "externalIds": {
+    "MAG": "2529367703",
+    "DOI": "10.1111/josh.12433",
+    "CorpusId": 3391647,
+    "PubMed": "27714874"
+   },
+   "url": "https://www.semanticscholar.org/paper/bf293ba0fd8956254f943884eae526c2f48b228a",
+   "title": "The Role of Ethnicity in School-Based Obesity Intervention for School-Aged Children: A Pilot Evaluation.",
+   "venue": "Journal of School Health",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/josh.12433?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/josh.12433, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2016-11-01",
+   "authors": [
+    {
+     "authorId": "15610341",
+     "name": "Sabrina A. Karczewski"
+    },
+    {
+     "authorId": "5964871",
+     "name": "J. Carter"
+    },
+    {
+     "authorId": "8552366",
+     "name": "Draycen D DeCator"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "cb0b107bdad8285f21b09a076f677f4fa5761f68",
+   "externalIds": {
+    "MAG": "2422176797",
+    "CorpusId": 77651724
+   },
+   "url": "https://www.semanticscholar.org/paper/cb0b107bdad8285f21b09a076f677f4fa5761f68",
+   "title": "Overweight and obesity prevention and interventions in school aged children - USDA - NIFA supported programs",
+   "venue": "",
+   "year": 2013,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": "2013-11-04",
+   "authors": [
+    {
+     "authorId": "6840555",
+     "name": "D. Chester"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "164e16cb76236964db8d289c5799c136fd91e801",
+   "externalIds": {
+    "DOI": "10.1001/jamapediatrics.2021.4375",
+    "CorpusId": 243846252,
+    "PubMed": "34747972"
+   },
+   "url": "https://www.semanticscholar.org/paper/164e16cb76236964db8d289c5799c136fd91e801",
+   "title": "Effectiveness of a Multifaceted Intervention for Prevention of Obesity in Primary School Children in China: A Cluster Randomized Clinical Trial.",
+   "venue": "JAMA pediatrics",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8576631",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1001/jamapediatrics.2021.4375?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1001/jamapediatrics.2021.4375, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-11-08",
+   "authors": [
+    {
+     "authorId": "2145976071",
+     "name": "Zheng Liu"
+    },
+    {
+     "authorId": "145825699",
+     "name": "P. Gao"
+    },
+    {
+     "authorId": "14897706",
+     "name": "Ai-Yu Gao"
+    },
+    {
+     "authorId": "2108068760",
+     "name": "Yi Lin"
+    },
+    {
+     "authorId": "2171630",
+     "name": "Xiang-Xian Feng"
+    },
+    {
+     "authorId": "2153307954",
+     "name": "Fang Zhang"
+    },
+    {
+     "authorId": "2462499030",
+     "name": "Li-Qun Xu"
+    },
+    {
+     "authorId": "153577492",
+     "name": "Wen-Yi Niu"
+    },
+    {
+     "authorId": "1818280",
+     "name": "Hai Fang"
+    },
+    {
+     "authorId": "2149163204",
+     "name": "Shuang Zhou"
+    },
+    {
+     "authorId": "2108770382",
+     "name": "Wen-Hao Li"
+    },
+    {
+     "authorId": "49706637",
+     "name": "Jian-Hui Yuan"
+    },
+    {
+     "authorId": "2155590422",
+     "name": "Chun-Xia Xu"
+    },
+    {
+     "authorId": "1598511030",
+     "name": "Na Wu"
+    },
+    {
+     "authorId": "2108561275",
+     "name": "Hui-juan Li"
+    },
+    {
+     "authorId": "1784181",
+     "name": "Ming-Wen Li"
+    },
+    {
+     "authorId": "7456640",
+     "name": "G. Patton"
+    },
+    {
+     "authorId": "1481796137",
+     "name": "Hai-Jun Wang"
+    },
+    {
+     "authorId": "2503966601",
+     "name": "Yang-Feng Wu"
+    }
+   ],
+   "abstract": "Importance\nA rapid nutritional transition has caused greater childhood obesity prevalence in many countries, but the repertoire of effective preventive interventions remains limited.\n\n\nObjective\nTo determine the effectiveness of a novel multifaceted intervention for obesity prevention in primary school children.\n\n\nDesign, Setting, and Participants\nA cluster randomized clinical trial was conducted during a single school year (from September 11, 2018, to June 30, 2019) across 3 socioeconomically distinct regions in China according to a prespecified trial protocol. Twenty-four schools were randomly allocated (1:1) to the intervention or the control group, with 1392 eligible children aged 8 to 10 years participating. Data from the intent-to-treat population were analyzed from October 1 to December 31, 2019.\n\n\nInterventions\nA multifaceted intervention targeted both children (promoting healthy diet and physical activity) and their environment (engaging schools and families to support children's behavioral changes). The intervention was novel in its strengthening of family involvement with the assistance of a smartphone app. The control schools engaged in their usual practices.\n\n\nMain Outcomes and Measures\nThe primary outcome was the change in body mass index (BMI; calculated as weight in kilograms divided by height in square meters) from baseline to the end of the trial. Secondary outcomes included changes in adiposity outcomes (eg, BMI z score, prevalence of obesity), blood pressure, physical activity and dietary behaviors, obesity-related knowledge, and physical fitness. Generalized linear mixed models were used in the analyses.\n\n\nResults\nAmong the 1392 participants (mean [SD] age, 9.6 [0.4] years; 717 boys [51.5%]; mean [SD] BMI, 18.6 [3.7]), 1362 (97.8%) with follow-up data were included in the analyses. From baseline to the end of the trial, the mean BMI decreased in the intervention group, whereas it increased in the control group; the mean between-group difference in BMI change was -0.46 (95% CI, -0.67 to -0.25; P < .001), which showed no evidence of difference across different regions, sexes, maternal education levels, and primary caregivers (parents vs nonparents). The prevalence of obesity decreased by 27.0% of the baseline figure (a relative decrease) in the intervention group, compared with 5.6% in the control group. The intervention also improved other adiposity outcomes, dietary, sedentary, and physical activity behaviors, and obesity-related knowledge, but it did not change moderate- to vigorous-intensity physical activity, physical fitness, or blood pressure. No adverse events were observed during the intervention.\n\n\nConclusions and Relevance\nThe multifaceted intervention effectively reduced the mean BMI and obesity prevalence in primary school children across socioeconomically distinct regions in China, suggesting its potential for national scaling.\n\n\nTrial Registration\nClinicalTrials.gov Identifier: NCT03665857."
+  }
+ ]
+}

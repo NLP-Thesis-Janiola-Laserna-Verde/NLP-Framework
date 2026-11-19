@@ -1,0 +1,166 @@
+{
+ "query": "Software defect prediction using machine learning",
+ "retrieved_at": "2026-11-18T17:44:43.660684+00:00",
+ "data": [
+  {
+   "url": "https://www.scitepress.org/Papers/2025/139067/139067.pdf",
+   "title": "Improving Software Defect Prediction Accuracy Using Machine Learning",
+   "content": "One of the common approaches involved using historical defect data and applying statistical methods to analyze the patterns in the defects. The Naive Bayes classifier and logistic regression are among the trained models for predicting defects based on the features extracted from software modules, including code complexity metrics, number of changes, and developer experience. 2.4 Feature Engineering and Data Preprocessing Feature engineering plays a critical role in enhancing machine learning [...] Information such as developer experience, the number of defects previously introduced by a developer, or team-based features can be useful in predicting defects. 5.1.2 Model Selection and Training • Decision Trees (CART): A simple and interpretable model that partitions the feature space based on feature values to predict the defect status. • Support Vector Machines (SVM): A powerful classifier that maximizes the margin between defect and non-defect classes by using kernel functions to [...] been in high demand where algorithms are trained on tagged defect data to predict potential future defects. 2.1.1 Decision Trees Decision trees, such as the CART (Classification and Regression Trees) algorithm, were one of the most common algorithms used for predicting defects due to their simplicity and interpretability. Several studies have demonstrated how decision trees can effectively predict defects based on multiple software metrics, including complexity, size, and code changes. 2.1.2",
+   "score": 0.8307315,
+   "raw_content": null,
+   "id": "ace567-00"
+  },
+  {
+   "url": "https://acta.uni-obuda.hu/Nevendra_Singh_117.pdf",
+   "title": "Software Defect Prediction using Deep Learning",
+   "content": "this metric is mapped into the 3D metrics. The CNN model is then trained using the generated metrics; it can predict the defective instances once the model is trained. The proposed enhanced CNN model significantly improves compared to existing benchmark classification schemes such as KNN, SVM, AdaBoost and Li's CNN model. We performed 10-fold cross-validation and calculated the average of all runs, resulting in the final result. Scott Knott ESD's mean ranking comparison of the proposed approach [...] several aspects that determine software defects. Recently, Yang et al.  utilized a DL-based technique for SDP. They utilized a deep belief network to predict defects on six large open-source projects. The experimental results show that the proposed approach can achieve significant results than other approaches. Manjula and Florence  also developed a deep based hybrid approach for SDP using software metrics. They combine the genetic algorithm and deep neural network for classification. The [...] CNN to predict the defective instances from a historical dataset. The proposed approach comprises two stages: model construction and prediction. In the model-construction phase, we first select the appropriate features using the feature selection (FS) technique, then these features are used to build the model using an enhanced CNN approach. Once the model is built, we predict the software defectiveness in the prediction phase. To evaluate our approach, we used accuracy, precision, recall, and",
+   "score": 0.81257004,
+   "raw_content": null,
+   "id": "ce9960-01"
+  },
+  {
+   "url": "https://pure.ups.edu.ec/en/publications/software-defect-prediction-a-machine-learning-approach-with-votin",
+   "title": "Software Defect Prediction: A Machine Learning Approach with Voting Ensemble -",
+   "content": "the study delves into the challenge posed by imbalanced data sets, a common problem in SDP, and employs several techniques such as NearMiss, RandomOverSampler, SMOTETomek, and BalancedBaggingClassifier to address this imbalance. The results demonstrate a marked improvement in the detection of defective modules at the cost of a decrease in precision, a trade-off that is considered beneficial in scenarios where detecting all defects is critical. The balanced approach between precision and recall [...] addition, the study delves into the challenge posed by imbalanced data sets, a common problem in SDP, and employs several techniques such as NearMiss, RandomOverSampler, SMOTETomek, and BalancedBaggingClassifier to address this imbalance. The results demonstrate a marked improvement in the detection of defective modules at the cost of a decrease in precision, a trade-off that is considered beneficial in scenarios where detecting all defects is critical. The balanced approach between precision [...] addition, the study delves into the challenge posed by imbalanced data sets, a common problem in SDP, and employs several techniques such as NearMiss, RandomOverSampler, SMOTETomek, and BalancedBaggingClassifier to address this imbalance. The results demonstrate a marked improvement in the detection of defective modules at the cost of a decrease in precision, a trade-off that is considered beneficial in scenarios where detecting all defects is critical. The balanced approach between precision",
+   "score": 0.81227237,
+   "raw_content": null,
+   "id": "6cd0d0-02"
+  },
+  {
+   "url": "https://machinelearning.apple.com/research/software-defect-prediction",
+   "title": "Software Defect Prediction using Autoencoder Transformer Model - Apple Machine Learning Research",
+   "content": "and maintain sequential dependencies, resulting in enhanced defect prediction accuracy. ADE optimization enhances model convergence and predictive performance. ADE-QVAET integrates AI-ML techniques such as tuning hyperparameters for scalable and accurate software defect prediction, representing an AI-ML-driven technology for quality engineering. During training with a 90% training percentage, ADE-QVAET achieves high accuracy, precision, recall, and F1-score of 98.08%, 92.45%, 94.67%, and [...] An AI-ML-powered quality engineering approach uses AI-ML to enhance software quality assessments by predicting defects. Existing ML models struggle with noisy data types, imbalances, pattern recognition, feature extraction, and generalization. To address these challenges, we develop a new model, Adaptive Differential Evolution (ADE) based Quantum Variational Autoencoder-Transformer (QVAET) Model (ADE-QVAET). ADE combines with QVAET to obtain high-dimensional latent features and maintain [...] Defect segmentation is crucial for quality control in advanced manufacturing, yet data scarcity poses challenges for state-of-the-art supervised deep learning. Synthetic defect data generation is a popular approach for mitigating data challenges. However, many current methods simply generate defects following a fixed set of rules, which may not directly relate to downstream task performance. This can lead to suboptimal performance and may even…\n\nRead more",
+   "score": 0.7799929,
+   "raw_content": null,
+   "id": "40b4ce-03"
+  },
+  {
+   "url": "https://thesai.org/Publications/ViewPaper?Volume=10&Issue=5&Code=IJACSA&SerialNo=38",
+   "title": "Performance Analysis of Machine Learning Techniques on Software Defect Prediction using NASA Datasets",
+   "content": "and statistical techniques. Machine learning approach is an effective way to identify the defective modules, which works by extracting the hidden patterns among software attributes. In this study, several machine learning classification techniques are used to predict the software defects in twelve widely used NASA datasets. The classification techniques include: Naïve Bayes (NB), Multi-Layer Perceptron (MLP). Radial Basis Function (RBF), Support Vector Machine (SVM), K Nearest Neighbor (KNN), [...] Neighbor (KNN), kStar (K\\), One Rule (OneR), PART, Decision Tree (DT), and Random Forest (RF). Performance of used classification techniques is evaluated by using various measures such as: Precision, Recall, F-Measure, Accuracy, MCC, and ROC Area. The detailed results in this research can be used as a baseline for other researches so that any claim regarding the improvement in prediction through any new technique, model or framework can be compared and verified. [...] Defect prediction at early stages of software development life cycle is a crucial activity of quality assurance process and has been broadly studied in the last two decades. The early prediction of defective modules in developing software can help the development team to utilize the available resources efficiently and effectively to deliver high quality software product in limited time. Until now, many researchers have developed defect prediction models by using machine learning and statistical",
+   "score": 0.7783125,
+   "raw_content": null,
+   "id": "f73863-04"
+  },
+  {
+   "url": "https://github.com/razuswe/softwareFaultPrediction",
+   "title": "GitHub - razuswe/softwareFaultPrediction: we proposed a software defect predictive development models using machine learning techniques that can enable the software to continue its projected task. · GitHub",
+   "content": "performance of 98-100% using SVM on three defect datasets in terms of f1 measure. However, software practitioners and researchers can attain independent understanding from this study while selecting automated task for their intended application. [...] a predictive model. In our study, we have used 22 attributes for building our automated fault predict model. Table 1 shows 22 different attributes from software defect datasets including 21 independent metrics and one is outcome information. i.e. which is faulty and no-fault. [...] In this experiment, we have used 3 open source publicly available data from PROMISE Software Engineering Database. These datasets Tim Menzies et al. have been used in their research paper . In another study, Jureczko et al.  have been assembled a software fault prediction model to predict the software defects using machine learning algorithms. They have discussed in their paper about 8 projects (PROMISE Repository) data and by taking 19 CK metrics and McCabe metrics for constructed a predictive",
+   "score": 0.7776378,
+   "raw_content": null,
+   "id": "06b1c5-05"
+  },
+  {
+   "url": "https://www.techscience.com/iasc/v31n2/44546/html",
+   "title": "Machine Learning Empowered Software Defect Prediction System",
+   "content": "In this paper, a cloud-based framework is proposed to predict defect-prone software modules in real-time environments. The proposed framework contributes by",
+   "score": 0.70466846,
+   "raw_content": null,
+   "id": "9780c5-06"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=B-VEYjO0ZDk",
+   "title": "Automated Software Defect Prediction Using Machine Learning",
+   "content": "[1:02] predic is concerned exactly with that it's concerned with identifying which components of our software are likely to\n[1:10] be faulty and how to to do that well we can create predictive models to tell us\n[1:19] which uh components are likely to be faulty by using machine learning approach this machine learning approach\n[1:26] can learn from repositories of previous releases of our software plus the bug information that we have from these [...] [5:28] probability of observing feat two given uh that category multipli by the probability of feature three given that\n[5:35] category and so on so what the naive based classifier does is whenever we get a new component\n[5:43] from a new release of our software and we want to determine whether this new component is likely or not to be\n[5:51] defective then live Bas do calculate this term here of the equation for each one of our possible categories for fting [...] [1:35] previous releases and uh you can learn from that and build a predictive model once we have this predictive model\n[1:44] and we get our new release of the sofware we can inquire this predictive model so as to which components are likely to be\n[1:52] defective okay in order to use this machine learning approach we need to convert our repository which contains\n[2:00] data on previous releases of our software into a format um that is suitable for this learning machines to",
+   "score": 0.70344764,
+   "raw_content": null,
+   "id": "7a61c7-07"
+  },
+  {
+   "url": "https://www.sciopen.com/article/10.11835/j.issn.1000-582X.2025.02.002",
+   "title": "Research on software defect prediction based on machine learning",
+   "content": "by H YU · 2025 · Cited by 9 — This paper proposes a supervised learning-based software prediction method for solving these two core problems. The method adopts sample",
+   "score": 0.68257374,
+   "raw_content": null,
+   "id": "1fb0ca-08"
+  },
+  {
+   "url": "https://qspace.library.queensu.ca/items/764fbc05-ee1d-4c74-9f9e-60351732a320",
+   "title": "Software Defect Prediction Using Rich Contextualized Language Use ...",
+   "content": "Both code and non-code metrics are commonly used in this process to train machine learning algorithms to predict software defects. Studies have shown that",
+   "score": 0.662469,
+   "raw_content": null,
+   "id": "88baa6-09"
+  },
+  {
+   "url": "https://ideas.repec.org/h/spr/lnopch/978-981-19-8012-1_1.html",
+   "title": "Software Defect Prediction Through a Hybrid Approach Comprising ...",
+   "content": "by AK Chakraborty · 2023 · Cited by 5 — Several statistical and machine learning models have been employed to predict defects in software modules. But the imbalanced nature of this type of datasets is",
+   "score": 0.63011605,
+   "raw_content": null,
+   "id": "fe1d40-10"
+  },
+  {
+   "url": "https://www.igi-global.com/chapter/software-defect-prediction-using-machine-learning-techniques/330405",
+   "title": "Software Defect Prediction Using Machine Learning Techniques",
+   "content": "by G Cauvery · 2023 · Cited by 6 — Software defect prediction gives development teams observable results while influencing business outcomes and development flaws. Developers can uncover flaws",
+   "score": 0.6225741,
+   "raw_content": null,
+   "id": "ce88bd-11"
+  },
+  {
+   "url": "https://pubs.aip.org/aip/acp/article/3357/1/040004/3373475/Software-defect-prediction-using-machine-learning",
+   "title": "Software defect prediction using machine learning techniques",
+   "content": "by N Kumar · 2025 · Cited by 1 — Machine learning allows us to evaluate large volumes of historical data to find trends and patterns related to software flaws in defect",
+   "score": 0.61705124,
+   "raw_content": null,
+   "id": "1fcb87-12"
+  },
+  {
+   "url": "https://scholar.hit.edu.cn/en/publications/on-software-defect-prediction-using-machine-learning",
+   "title": "On software defect prediction using machine learning",
+   "content": "This paper mainly deals with how kernel method can be used for software defect prediction, since the class imbalance can greatly reduce the performance of",
+   "score": 0.6005398,
+   "raw_content": null,
+   "id": "c7dee2-13"
+  },
+  {
+   "url": "https://bura.brunel.ac.uk/bitstream/2438/33014/1/FullText.pdf",
+   "title": "An audit of machine learning experiments on software defect ...",
+   "content": "by G Destefanis · 2026 · Cited by 15 — Abstract. Background Machine learning algorithms are increasingly being proposed to solve the problem of predicting defect-prone software components. In",
+   "score": 0.5975492,
+   "raw_content": null,
+   "id": "5adb4f-14"
+  },
+  {
+   "url": "https://bth.diva-portal.org/smash/record.jsf?pid=diva2%3A831487",
+   "title": "Software defect prediction using machine learning on test ... - DiVA",
+   "content": "The results from the defect prediction can be used to opti- mize testing and ultimately improve software quality. Machine learning, that",
+   "score": 0.595669,
+   "raw_content": null,
+   "id": "099263-15"
+  },
+  {
+   "url": "https://www.techrxiv.org/doi/10.36227/techrxiv.23648907",
+   "title": "SOFTWARE DEFECT PREDICTION USING MACHINE LEARNING ...",
+   "content": "by AS Shittu · 2023 · Cited by 3 — This study focuses on reviewing some papers published in software defect prediction using Machine learning techniques from 2020 to the current time to determine",
+   "score": 0.56103444,
+   "raw_content": null,
+   "id": "b94040-16"
+  },
+  {
+   "url": "https://okayama.elsevierpure.com/en/publications/software-defect-prediction-using-automated-machine-learning",
+   "title": "Software defect prediction using automated machine learning",
+   "content": "by K Tanaka · 2019 · Cited by 1 — Software defect prediction using automated machine learning ; English · Proceedings of the International Conference on Software Engineering, Artificial",
+   "score": 0.52841175,
+   "raw_content": null,
+   "id": "2eb265-17"
+  },
+  {
+   "url": "https://www.linkedin.com/advice/3/how-can-ai-machine-learning-predict-software-defects-xb9sc",
+   "title": "How can AI and machine learning predict software defects?",
+   "content": "Learn how AI and machine learning can help you identify and prevent software defects, and what are the challenges, best practices, and future trends.",
+   "score": 0.49082285,
+   "raw_content": null,
+   "id": "bb1138-18"
+  },
+  {
+   "url": "https://www.scribd.com/document/465568299/SBD",
+   "title": "A Literature Review Study of Software Defect Prediction Using Machine ...",
+   "content": "III. SOFTWARE DEFECT PREDICTOR ... The software defect predictor is the way or a method that helps for software testing and software development life cycles.",
+   "score": 0.47107115,
+   "raw_content": null,
+   "id": "45e703-19"
+  }
+ ]
+}

@@ -1,0 +1,718 @@
+{
+ "query": "Impact of formative assessment on student achievement",
+ "retrieved_at": "2026-11-18T17:47:52.191487+00:00",
+ "data": [
+  {
+   "paperId": "2fd7c3c786ed284d18e67f295489a5f4d00c82ea",
+   "externalIds": {
+    "MAG": "363090881",
+    "DOI": "10.1016/J.LEARNINSTRUC.2016.12.006",
+    "CorpusId": 142150238
+   },
+   "url": "https://www.semanticscholar.org/paper/2fd7c3c786ed284d18e67f295489a5f4d00c82ea",
+   "title": "The impact of formative assessment on student achievement: A study of the effects of changes to classroom practice after a comprehensive professional development programme",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.LEARNINSTRUC.2016.12.006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.LEARNINSTRUC.2016.12.006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2017-06-01",
+   "authors": [
+    {
+     "authorId": "2054494876",
+     "name": "C. Andersson"
+    },
+    {
+     "authorId": "145500324",
+     "name": "Torulf Palm"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "c0c53fc6f998890f5d9ebae5b7562666901648c3",
+   "externalIds": {
+    "MAG": "2620752632",
+    "DOI": "10.7146/nomad.v22i3.148889",
+    "CorpusId": 67458202
+   },
+   "url": "https://www.semanticscholar.org/paper/c0c53fc6f998890f5d9ebae5b7562666901648c3",
+   "title": "A review of the impact of formative assessment on student achievement in mathematics",
+   "venue": "NOMAD Nordic Studies in Mathematics Education",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://tidsskrift.dk/NOMAD/article/download/148889/191806",
+    "status": "HYBRID",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.7146/nomad.v22i3.148889?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7146/nomad.v22i3.148889, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2017-09-01",
+   "authors": [
+    {
+     "authorId": "145500324",
+     "name": "Torulf Palm"
+    },
+    {
+     "authorId": "2054494876",
+     "name": "C. Andersson"
+    },
+    {
+     "authorId": "69974291",
+     "name": "E. Boström"
+    },
+    {
+     "authorId": "71462754",
+     "name": "Charlotta Vingsle"
+    }
+   ],
+   "abstract": "\n \n \nResearch reviews show that formative assessment has great potential for raising student achievement in general, but there is a need for reviews of formative assessment in individual subjects. This review examines its impact on student achievement in mathematics through an assessment of scientific journal articles published between 2005 and 2014 and indexed in Web of science. Through the use of search terms such as ”formative assessment”, ”assessment for learning” and ”self-regulated learning”, different approaches to formative assessment were included in the review. While varying in approach, they all share the defining characteristic of formative assessment: agents in the classroom collect evidence of student learning and, based on this information, adjust their teaching and/or learning. The results show positive relations between student achievement in mathematics and the ways of doing formative assessment included in the review. \n \n \n"
+  },
+  {
+   "paperId": "aa87cec7aaca369ce24666772a8609cd491576e8",
+   "externalIds": {
+    "DBLP": "journals/jcal/BulutGY25",
+    "DOI": "10.1111/jcal.13087",
+    "CorpusId": 274031120
+   },
+   "url": "https://www.semanticscholar.org/paper/aa87cec7aaca369ce24666772a8609cd491576e8",
+   "title": "The impact of frequency and stakes of formative assessment on student achievement in higher education: A learning analytics study",
+   "venue": "Journal of Computer Assisted Learning",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcal.13087",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/jcal.13087?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/jcal.13087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-13",
+   "authors": [
+    {
+     "authorId": "51128569",
+     "name": "Okan Bulut"
+    },
+    {
+     "authorId": "1659246270",
+     "name": "Guher Gorgun"
+    },
+    {
+     "authorId": "2128276955",
+     "name": "S. Yildirim-erbasli"
+    }
+   ],
+   "abstract": "Research shows that how formative assessments are operationalized plays a crucial role in shaping their engagement with formative assessments, thereby impacting their effectiveness in predicting academic achievement. Mandatory assessments can ensure consistent student participation, leading to better tracking of learning progress. Optional assessments may encourage voluntary engagement, potentially leading to a more genuine reflection of student understanding. Also, frequent assessments provide continuous opportunities for feedback and adjustment, which can keep students actively engaged in the learning process.This study aims to investigate two crucial facets of formative assessments: frequency and the level of stakes involved (mandatory vs. optional). We examine how modifying the frequency of formative assessments affects students' course performance. Additionally, we evaluate the impact of mandatory versus optional formative assessments on students' course performance in higher education.The sample of this study consisted of undergraduate students (n = 336) enrolled in three sections of a large asynchronous course at a Canadian university. We extracted features associated with online formative assessments (e.g., the number of attempts and average scores) from the learning management system. Next, we used these features to predict students' performance in summative assessments (two midterms and a final exam).Our findings indicated that increasing the frequency of online formative assessments did not consistently improve student performance. Also, participation frequency in online formative assessments seemed to vary depending on assessment stakes (i.e., optional vs. mandatory). We recommend that instructors examine what conditions can maximize the contribution of formative assessments to students' academic achievement before building predictive models."
+  },
+  {
+   "paperId": "ecd977f94851509a622076627e3795edcf7f62b1",
+   "externalIds": {
+    "DBLP": "journals/eait/CigdemOKAGA24",
+    "DOI": "10.1007/s10639-024-12845-2",
+    "CorpusId": 270508885
+   },
+   "url": "https://www.semanticscholar.org/paper/ecd977f94851509a622076627e3795edcf7f62b1",
+   "title": "Unlocking student engagement and achievement: The impact of leaderboard gamification in online formative assessment for engineering education",
+   "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1007/s10639-024-12845-2",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10639-024-12845-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10639-024-12845-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-06-13",
+   "authors": [
+    {
+     "authorId": "2233221",
+     "name": "H. Çiğdem"
+    },
+    {
+     "authorId": "33872607",
+     "name": "Mustafa Öztürk"
+    },
+    {
+     "authorId": "27786675",
+     "name": "Yusuf Karabacak"
+    },
+    {
+     "authorId": "2274836515",
+     "name": "Nuri Atik"
+    },
+    {
+     "authorId": "2485264596",
+     "name": "Serkan Gürkan"
+    },
+    {
+     "authorId": "2306509956",
+     "name": "Mevlana Halit Aldemir"
+    }
+   ],
+   "abstract": "Effectively engaging learners in an online learning environment is a crucial component of instructional design that contributes to improving performance. Gamification, a contemporary instructional strategy, seeks to integrate game elements such as leaderboards into non-game contexts with the aim of increasing learner engagement and performance. This quasi-experimental study explores the impact of integrating leaderboards as a gamification element into formative assessment on learner achievement and engagement in an engineering course. Conducted over eight weeks in the Mechatronics Technology Department of a public university in Türkiye, the study involved 159 s-year engineering students. Using a pretest-posttest control group design, the intervention included a pre-test in the first week, six weeks of instruction and formative online assessment, and a post-test in the final week. Analyzing the data using descriptive and inferential statistics, the results of the study show a positive correlation between the incorporation of a leaderboard as a gamification element into formative assessment procedures within an online platform and improved learner achievement and engagement. However, it is noted that gamification may not sustain learners’ long-term attention. Therefore, instructors are advised to carefully consider time and retention concerns when designing or adopting gamified learning opportunities."
+  },
+  {
+   "paperId": "cb833b483ac28be597a020cde4303e48ff6256b8",
+   "externalIds": {
+    "CorpusId": 23265172
+   },
+   "url": "https://www.semanticscholar.org/paper/cb833b483ac28be597a020cde4303e48ff6256b8",
+   "title": "Practical Assessment, Research, and Evaluation Practical Assessment, Research, and Evaluation Studies of the Effect of Formative Assessment on Student Studies of the Effect of Formative Assessment on Student Achievement: So Much More is Needed Achievement: So Much More is Needed",
+   "venue": "",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://files.eric.ed.gov/fulltext/EJ1005135.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "73380118",
+     "name": "J. H. McMillan"
+    },
+    {
+     "authorId": "46771136",
+     "name": "J. Venable"
+    },
+    {
+     "authorId": "5164967",
+     "name": "Divya Varier"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "609bfe8027583dd779c1b7d2d16a0acc7365a23f",
+   "externalIds": {
+    "MAG": "2136982529",
+    "DOI": "10.1080/08957340802347845",
+    "CorpusId": 55673008
+   },
+   "url": "https://www.semanticscholar.org/paper/609bfe8027583dd779c1b7d2d16a0acc7365a23f",
+   "title": "On the Impact of Formative Assessment on Student Motivation, Achievement, and Conceptual Change",
+   "venue": "",
+   "year": 2008,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/08957340802347845?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/08957340802347845, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2008-09-27",
+   "authors": [
+    {
+     "authorId": "144933696",
+     "name": "Y. Yin"
+    },
+    {
+     "authorId": "4903584",
+     "name": "R. Shavelson"
+    },
+    {
+     "authorId": "145547277",
+     "name": "C. C. Ayala"
+    },
+    {
+     "authorId": "1403041663",
+     "name": "Maria Araceli Ruiz-Primo"
+    },
+    {
+     "authorId": "21769819",
+     "name": "P. Brandon"
+    },
+    {
+     "authorId": "3201910",
+     "name": "E. Furtak"
+    },
+    {
+     "authorId": "66018903",
+     "name": "Miki K. Tomita"
+    },
+    {
+     "authorId": "49419003",
+     "name": "D. B. Young"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "d9891014dea5e79867b61b489c41fc9d0e7cdd8f",
+   "externalIds": {
+    "DOI": "10.1080/13803611.2024.2363831",
+    "CorpusId": 270457906
+   },
+   "url": "https://www.semanticscholar.org/paper/d9891014dea5e79867b61b489c41fc9d0e7cdd8f",
+   "title": "The impact of formative assessment on K-12 learning: a meta-analysis",
+   "venue": "Educational Research and Evaluation",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/13803611.2024.2363831?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/13803611.2024.2363831, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-06-12",
+   "authors": [
+    {
+     "authorId": "2306151176",
+     "name": "Yuankun Yao"
+    },
+    {
+     "authorId": "119037884",
+     "name": "Michelle Amos"
+    },
+    {
+     "authorId": "113415813",
+     "name": "Karrie A. Snider"
+    },
+    {
+     "authorId": "2114889131",
+     "name": "Terrell Brown"
+    }
+   ],
+   "abstract": "ABSTRACT To facilitate a more definitive understanding of the usefulness of formative assessment, this meta-analysis examined the impact of formative assessment on student academic achievement in the K-12 classroom. The study analyzed 258 effect sizes from 118 primary studies published around the world. By applying a broad lens for defining and understanding formative assessment, the study confirmed the usefulness of formative assessment. The overall effect size was 0.25 (Hedges’ g) for all studies included, and 0.22 for studies conducted within the US. The effect size was similar across different types of formative assessments (e.g., self-assessment vs peer assessment) and content domains (e.g., English language, mathematics, science, etc.). The mean effect size was significantly larger for studies conducted outside North America and Western Europe, for formative assessments for high school students, and for studies using the quasi-experimental design. No publication bias was detected for studies conducted in North America and Western Europe."
+  },
+  {
+   "paperId": "48eb359b7ca567d5a7c804c548e6bc5848887e9a",
+   "externalIds": {
+    "DOI": "10.26905/enjourme.v9i1.13150",
+    "CorpusId": 272086466
+   },
+   "url": "https://www.semanticscholar.org/paper/48eb359b7ca567d5a7c804c548e6bc5848887e9a",
+   "title": "The impact of kahoot-based formative assessment on student learning outcomes at a Junior High School in Samarinda",
+   "venue": "EnJourMe",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.26905/enjourme.v9i1.13150",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.26905/enjourme.v9i1.13150?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26905/enjourme.v9i1.13150, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-08-01",
+   "authors": [
+    {
+     "authorId": "2317717780",
+     "name": "Lia Rahmayana"
+    },
+    {
+     "authorId": "2317607300",
+     "name": "Abdul Halim"
+    }
+   ],
+   "abstract": "This study explores the impact of using Kahoot! as a formative assessment tool on student learning outcomes in English at SMPN 22 Samarinda. The research utilized a quasi-experimental design with pre- and post-test measures on Class VII-7 B. Findings revealed that Kahoot! significantly improved students' understanding of English grammar, particularly tenses. Data analysis was conducted using SPSS software, showing a notable increase in student achievement post-intervention. The study emphasizes the importance of integrating technology like Kahoot! in the classroom to enhance learning. Recommendations for future research and teacher strategies are also provided."
+  },
+  {
+   "paperId": "c96067224544b7a56df9ed820d35ecf7e909c43c",
+   "externalIds": {
+    "DOI": "10.3389/feduc.2023.1101192",
+    "CorpusId": 257592983
+   },
+   "url": "https://www.semanticscholar.org/paper/c96067224544b7a56df9ed820d35ecf7e909c43c",
+   "title": "The effect of a formative assessment practice on student achievement in mathematics",
+   "venue": "Frontiers in Education",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/feduc.2023.1101192/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/feduc.2023.1101192?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/feduc.2023.1101192, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2023-03-16",
+   "authors": [
+    {
+     "authorId": "69974291",
+     "name": "E. Boström"
+    },
+    {
+     "authorId": "145500324",
+     "name": "Torulf Palm"
+    }
+   ],
+   "abstract": "Research has shown that formative assessment can enhance student learning. However, it is conceptualised and implemented in different ways, and its effects on student achievement vary. A need has been identified for experimental studies to carefully describe both the characteristics of implemented formative assessment practices and their impact on student achievement. We examined the effects on student achievement of changes in formative assessment of a random sample of 14 secondary school mathematics teachers after a professional development programme. This study describes practices implemented and students’ achievement as measured by pre-tests and post-tests. We found no significant differences in achievement on the post-test, after controlling for pre-test scores, between the intervention group and control group, and no significant correlation between the number of formative assessment activities implemented and the post-test scores (controlled for the pre-test scores). We discuss characteristics of formative assessment implementations that may be critical for enhancing student achievement."
+  },
+  {
+   "paperId": "53bb99509e06e2b8076ff4474fd6bb86e9e76a2f",
+   "externalIds": {
+    "DOI": "10.29333/ejmste/18761",
+    "CorpusId": 289339720
+   },
+   "url": "https://www.semanticscholar.org/paper/53bb99509e06e2b8076ff4474fd6bb86e9e76a2f",
+   "title": "The impact of Plickers-supported formative assessment on achievement and learning experiences in grade 11 advanced mathematics trigonometry",
+   "venue": "Eurasia Journal of Mathematics, Science and Technology Education",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://www.ejmste.com/download/the-impact-of-plickers-supported-formative-assessment-on-achievement-and-learning-experiences-in-18761.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29333/ejmste/18761?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29333/ejmste/18761, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-15",
+   "authors": [
+    {
+     "authorId": "103002187",
+     "name": "Eric Machisi"
+    },
+    {
+     "authorId": "2367388515",
+     "name": "Anas Mahmoud Ahmad Alrababah"
+    },
+    {
+     "authorId": "2216693529",
+     "name": "Fabian Hennig"
+    }
+   ],
+   "abstract": "This study examined the impact of Plickers-supported formative assessment on grade 11 advanced mathematics students’ achievement and learning experiences in trigonometry. Addressing persistent challenges in conceptual understanding and procedural accuracy in trigonometry, the study used a quasi-experimental pre-/post-test design with two intact classes (n = 42) from a government secondary school in the United Arab Emirates. The experimental group received trigonometry instruction integrated with Plickers, whereas the control group was taught using traditional methods. Quantitative data were collected using a weighted multiple-choice trigonometry achievement test with established content validity and acceptable internal consistency. Qualitative data were gathered through an open-ended student questionnaire and analyzed thematically to capture learners’ experiences. Quantitative results showed that students in the Plickers group significantly outperformed peers in the control group on the post-test, with a large effect size, even after controlling pre-test performance. Qualitative results indicated that students perceived Plickers as enhancing engagement, participation, immediate feedback, confidence, and psychological safety, particularly through anonymous whole-class responses and rapid error identification. Some students noted pacing challenges, underscoring the importance of instructional calibration. The findings suggest that Plickers, when embedded within a coherent formative assessment cycle, can meaningfully enhance both cognitive and affective learning outcomes in advanced trigonometry. The study recommends the strategic integration of low-threshold response systems to support diagnostic feedback, equitable participation, and instructional responsiveness in upper-secondary mathematics classrooms."
+  },
+  {
+   "paperId": "8e120df79b1e98bce26476a16ec52c5fcdaf3195",
+   "externalIds": {
+    "MAG": "2969219167",
+    "CorpusId": 202278534
+   },
+   "url": "https://www.semanticscholar.org/paper/8e120df79b1e98bce26476a16ec52c5fcdaf3195",
+   "title": "The impact of using Socrative based formative assessment to enhance student achievement in a nutrition course: A digital forward assessment",
+   "venue": "",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "123770472",
+     "name": "H. Hussein"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "0a4c8c5e733858f6714e61e46735e24944424ff6",
+   "externalIds": {
+    "DOI": "10.63090/ijep/3108.1800.0022",
+    "CorpusId": 285022928
+   },
+   "url": "https://www.semanticscholar.org/paper/0a4c8c5e733858f6714e61e46735e24944424ff6",
+   "title": "Formative Assessment Strategies and Their Role in Enhancing Student Achievement: A Systematic Investigation of Classroom Practices and Learning Outcomes",
+   "venue": "International Journal of Education and Pedagogy (IJEP)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.5281/zenodo.18183489",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63090/ijep/3108.1800.0022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63090/ijep/3108.1800.0022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-01-08",
+   "authors": [
+    {
+     "authorId": "2402194834",
+     "name": "Assanu Augustine"
+    }
+   ],
+   "abstract": "This systematic research investigation examines the implementation and impact of formative assessment strategies on student achievement across elementary and secondary educational contexts. The study employed a cluster randomized controlled trial design involving 56 schools randomly assigned to treatment or control conditions, with 423 teachers and 8,764 students participating over two academic years. Treatment schools implemented a comprehensive formative assessment professional development program emphasizing learning intentions, success criteria, questioning techniques, feedback practices, and student self-assessment. Data collection included classroom observations, student achievement assessments, teacher surveys, and student perception measures. Results demonstrate that systematic implementation of formative assessment practices produced statistically significant improvements in student achievement with an overall effect size of 0.40 standard deviations. The largest effects were observed in classrooms where teachers consistently shared learning intentions, provided actionable feedback, and engaged students in self-assessment processes. The study identifies implementation challenges and professional development features associated with effective adoption of formative assessment practices. Findings have important implications for classroom practice, teacher professional development, and educational assessment policy."
+  },
+  {
+   "paperId": "884878fd1db3b89dd14ccdbb54bc7fe682d03d36",
+   "externalIds": {
+    "DOI": "10.29333/ejmste/14453",
+    "CorpusId": 269102324
+   },
+   "url": "https://www.semanticscholar.org/paper/884878fd1db3b89dd14ccdbb54bc7fe682d03d36",
+   "title": "Involvement of the student in their learning: Effects of formative assessment on competency development",
+   "venue": "Eurasia Journal of Mathematics, Science and Technology Education",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.ejmste.com/download/involvement-of-the-student-in-their-learning-effects-of-formative-assessment-on-competency-14453.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29333/ejmste/14453?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29333/ejmste/14453, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-01",
+   "authors": [
+    {
+     "authorId": "2005085618",
+     "name": "R. Bellido-García"
+    },
+    {
+     "authorId": "2488342318",
+     "name": "C. Venturo Orbegoso"
+    },
+    {
+     "authorId": "2078472448",
+     "name": "Alejandro Cruzata-Martínez"
+    },
+    {
+     "authorId": "2296343834",
+     "name": "E. Sarmiento-Villanueva"
+    },
+    {
+     "authorId": "2296345686",
+     "name": "José Corro-Quispe"
+    },
+    {
+     "authorId": "2480595621",
+     "name": "Luis Gerardo Rejas Borjas"
+    }
+   ],
+   "abstract": "The study aimed to establish the influence of formative assessment on the attainment of scientific and technological competencies in a school in Lima, Peru. We formulated and subsequently tested hypothesis of the positive impact of formative evaluation on science and technology competencies. The authors used the questionnaire associated with formative evaluative practices and to measure the development of competencies gradings of 116 second-grade high school students. It was found that formative assessment significatively influences the development of scientific and technological competencies, predicting a 0.708 increase in educational outcomes (pseudo R-squared Nagelkerke). This influence on competency attainment was examined through regression analysis. It was concluded that formative assessment, along with all its dimensions, influences the achievement of competencies related to science and technology. We recommend that its implementation in classrooms should receive greater dissemination."
+  },
+  {
+   "paperId": "d61e63b513c07284aa486a7d2e628cce0d4fa6bd",
+   "externalIds": {
+    "DOI": "10.6007/ijarbss/v15-i3/24967",
+    "CorpusId": 276950780
+   },
+   "url": "https://www.semanticscholar.org/paper/d61e63b513c07284aa486a7d2e628cce0d4fa6bd",
+   "title": "The Role of Effective Feedback in Enhancing Student Academic Achievement through Virtual Formative Assessment: A Comprehensive Study",
+   "venue": "International Journal of Academic Research in Business and Social Sciences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.6007/ijarbss/v15-i3/24967",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.6007/ijarbss/v15-i3/24967?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.6007/ijarbss/v15-i3/24967, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-10",
+   "authors": [
+    {
+     "authorId": "2284618968",
+     "name": "M. Zahid"
+    },
+    {
+     "authorId": "2342793610",
+     "name": "Mahendran AlManiam"
+    }
+   ],
+   "abstract": "This study investigates the role of effective feedback in enhancing students' academic achievement through virtual formative assessment in high schools in Bahrain. It aims to explore how different dimensions of feedback understanding, usefulness, timeliness, and motivational aspects affect students’ academic performance. A quantitative research design utilized a structured survey with 365 high school students as participants. The survey measured their perceptions of feedback using a Likert scale across various dimensions. Data analysis included descriptive statistics, and regression analysis to determine the impact of feedback on academic achievement. The study found that feedback understanding, usefulness, and motivation significantly influence students’ ac ademic performance. Clear and actionable feedback was shown to improve students' academic outcomes. Timely feedback also had a positive impact, although its effect was less pronounced compared to other factors. Motivational feedback played a crucial role i n enhancing students’ engagement and performance. Effective feedback is pivotal in improving academic achievement. Feedback that is comprehensible, useful, timely, and motivational positively influences students' performance. The findings highlight the need for educators to focus on delivering clear, relevant, and supportive feedback. This study contributes valuable insights into the educational context of Bahrain and offers practical recommendations for enhancing feedback practices in high schools."
+  },
+  {
+   "paperId": "911367682fb1598622020101cdadfc703183877b",
+   "externalIds": {
+    "MAG": "2808195761",
+    "CorpusId": 189160780
+   },
+   "url": "https://www.semanticscholar.org/paper/911367682fb1598622020101cdadfc703183877b",
+   "title": "The impact of a specific formative assessment practice on student achievement in mathematics",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "69974291",
+     "name": "E. Boström"
+    },
+    {
+     "authorId": "145500324",
+     "name": "Torulf Palm"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "518a6d14734911ddc30360fed0eb2e5a56154e42",
+   "externalIds": {
+    "DBLP": "conf/lats/BrezackYGLFL25",
+    "DOI": "10.1145/3698205.3733949",
+    "CorpusId": 282395711
+   },
+   "url": "https://www.semanticscholar.org/paper/518a6d14734911ddc30360fed0eb2e5a56154e42",
+   "title": "Teacher Perspectives on Student Self-Regulated Learning in a Math Formative Assessment Platform",
+   "venue": "ACM Conference on Learning @ Scale",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3698205.3733949?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3698205.3733949, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Book",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-17",
+   "authors": [
+    {
+     "authorId": "31510053",
+     "name": "N. Brezack"
+    },
+    {
+     "authorId": "2304782879",
+     "name": "Shuangting Yang"
+    },
+    {
+     "authorId": "2388420413",
+     "name": "Jenna Grady"
+    },
+    {
+     "authorId": "146112371",
+     "name": "Abby Lavine"
+    },
+    {
+     "authorId": "2290327889",
+     "name": "Ming-Yu Feng"
+    },
+    {
+     "authorId": "2194632272",
+     "name": "Linlin Li"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "0b24471e23afb853e45f36e2d8b8118de7a9721c",
+   "externalIds": {
+    "MAG": "2542979285",
+    "CorpusId": 151475512
+   },
+   "url": "https://www.semanticscholar.org/paper/0b24471e23afb853e45f36e2d8b8118de7a9721c",
+   "title": "A Study of the Impact of Individual Student Goal-Setting Based on Formative Assessment on Student Achievement",
+   "venue": "",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2554301255",
+     "name": "Kristine L. Bruce"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "825f4c5bbeb02b8281c2d24084b5a4b81167eec7",
+   "externalIds": {
+    "MAG": "2775237972",
+    "CorpusId": 149356468
+   },
+   "url": "https://www.semanticscholar.org/paper/825f4c5bbeb02b8281c2d24084b5a4b81167eec7",
+   "title": "The Impact on Student Achievement Following Professional Development on the Principles of Formative Assessment.",
+   "venue": "",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": "2015-11-01",
+   "authors": [
+    {
+     "authorId": "117900838",
+     "name": "Evonne C. DeNome"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "065bdbc4cf0d5ddcd19cd2d86ccf2330e0cb141a",
+   "externalIds": {
+    "MAG": "1513105807",
+    "CorpusId": 60946432
+   },
+   "url": "https://www.semanticscholar.org/paper/065bdbc4cf0d5ddcd19cd2d86ccf2330e0cb141a",
+   "title": "A Historical Perspective of Testing and Assessment Including the Impact of Summative and Formative Assessment on Student Achievement.",
+   "venue": "",
+   "year": 2011,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://aquila.usm.edu/cgi/viewcontent.cgi?article=1438&context=dissertations, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "69996664",
+     "name": "Carole Sanger Brink"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "30bc4cf48412ada859ba86db7125af1e849af03f",
+   "externalIds": {
+    "DOI": "10.1080/0969594X.2026.2640035",
+    "CorpusId": 286662033
+   },
+   "url": "https://www.semanticscholar.org/paper/30bc4cf48412ada859ba86db7125af1e849af03f",
+   "title": "Relationship between formative assessment practices and students’ academic achievement: the mediating role of student engagement",
+   "venue": "Assessment in Education: Principles, Policy &amp; Practice",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/0969594X.2026.2640035?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/0969594X.2026.2640035, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-03-04",
+   "authors": [
+    {
+     "authorId": "2146666846",
+     "name": "Jun-Sheng Wu"
+    },
+    {
+     "authorId": "2294675825",
+     "name": "Zi Yan"
+    }
+   ],
+   "abstract": "ABSTRACT Theoretical benefits attributable to formative assessment of students’ academic achievement are widely recognised. Empirical evidence has, however, shown that this positive relationship is not straightforward, prompting investigations into factors that may influence such a relationship. In the current study, we examine the mediating role of student engagement in the relationship between formative assessment practices and students’ academic achievement in mathematics. The survey sample consisted of 379 tenth-grade students from mainland China. Structural equation modelling revealed that formative assessment practices did not directly impact students’ academic achievement. Rather, the analysis indicated that student engagement mediated formative assessment practices’ indirect and positive impact on academic achievement. The findings suggest that student engagement plays an important mediating role in the relationship between formative assessment practices and students’ academic achievement."
+  }
+ ]
+}

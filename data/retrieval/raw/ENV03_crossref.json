@@ -1,0 +1,1101 @@
+{
+ "query": "Microplastic pollution in marine environments",
+ "retrieved_at": "2026-11-18T18:00:57.075149+00:00",
+ "data": [
+  {
+   "DOI": "10.1201/9781003487555-24",
+   "title": [
+    "Microplastic Pollution in the Marine Environment"
+   ],
+   "container-title": [
+    "Handbook of Microplastic Pollution in the Environment"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      9
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003487555-24",
+   "author": [
+    {
+     "given": "Sonali",
+     "family": "Yadav",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sabyasachi",
+     "family": "Rout",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vandana",
+     "family": "Pulhani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-323-90980-8.00019-4",
+   "title": [
+    "Microplastic pollution in marine sea fish"
+   ],
+   "container-title": [
+    "Meso and Microplastic Risk Assessment in Marine Environments"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-323-90980-8.00019-4",
+   "author": [
+    {
+     "given": "P.",
+     "family": "Muthukumar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.",
+     "family": "Selvam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+   "abstract": "<jats:title>La moule comme bioindicateur de la pollution aux microplastiques en milieu aquatique</jats:title>\n                <jats:p xml:lang=\"fr\">La pollution plastique représente une menace majeure pour les écosystèmes aquatiques, ces derniers constituant le réceptacle final de tous les déchets terrestres. Avec le temps, les déchets plastiques se fragmentent en microplastiques (&lt; 5 mm), présentant des risques pour de nombreuses espèces d'eau douce et marines. Il apparaît donc essentiel de surveiller cette pollution pour mieux évaluer son impact écologique. Toutefois, les méthodes actuelles de quantification s'avèrent limitantes, d'où la nécessité de développer des outils complémentaires, comme les bioindicateurs. L'objectif de cette thèse est ainsi d'évaluer le potentiel des moules marines Mytilus galloprovincialis et d'eau douce Dreissena spp. comme bioindicateurs de la pollution microplastique en milieu aquatique.La première partie (Chapitres 1 et 2) présente deux expériences de laboratoire visant à évaluer le potentiel des deux modèles de moules comme biomoniteurs (i.e., organismes permettant une évaluation quantitative de la pollution microplastique). Chez les moules marines, la concentration de microplastiques dans leurs tissus augmente linéairement avec celle de l'eau et la durée d'exposition, tandis que leur dépuration est très efficace, indépendamment de ces deux facteurs. Ces résultats suggèrent que les moules marines sont de bons biomoniteurs des microplastiques en mer. A l'inverse, chez les dreissènes, leur concentration en microplastiques ne reflète pas les variations de pollution dans l'eau. De plus, leur capacité de dépuration est plus limitée, favorisant l'accumulation des microplastiques dans leurs tissus et réduisant ainsi leur efficacité en tant que biomoniteurs. La deuxième partie (Chapitres 3 et 4) évalue les deux modèles de moules comme bioindicateurs stricts (i.e., organismes permettant une évaluation qualitative de la pollution microplastique à travers des modifications physiologiques ou comportementales). Les deux expériences d'exposition chronique montrent que les moules marines et d'eau douce ne sont pas affectées à faible concentration (200 MPs.L⁻¹), mais subissent des effets négatifs à des concentrations plus élevées (2000 MPs.L⁻¹). Les dreissènes montrent une sensibilité dès 15 jours (déplétion des réserves énergétiques), tandis que les moules marines présentent des effets après 50 jours (croissance réduite, fermeture des valves). Ces résultats confirment l'intérêt d'utiliser ces deux modèles comme bioindicateurs stricts de la pollution microplastique, en se basant sur des paramètres de santé. La troisième partie (Chapitre 5) présente une étude de terrain menée le long du continuum Terre-Mer du Rhône, montrant une corrélation entre la quantification des microplastiques dans les moules et celle effectuée par échantillonnage au filet Manta. Par ailleurs, les moules prélevées sur le site le plus pollué présentent la concentration en microplastiques la plus élevée ainsi qu'un état de santé dégradé. Ces résultats confirment que les moules marines et d'eau douce peuvent être utilisées pour évaluer et surveiller la pollution microplastique dans les milieux aquatiques.</jats:p>",
+   "DOI": "10.70675/36a18b64z004az42a3zb7dczc1aea6ae39de",
+   "type": "dissertation",
+   "title": [
+    "Mussels as bioindicators for microplastic pollution in marine and freshwater environments"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2478-5730",
+     "authenticated-orcid": false,
+     "given": "Adèle",
+     "family": "Wolinski",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/02en5vm52",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Sorbonne université"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70675/36a18b64z004az42a3zb7dczc1aea6ae39de"
+  },
+  {
+   "DOI": "10.1016/j.marpolbul.2020.111398",
+   "title": [
+    "The fate of microplastic in marine sedimentary environments: A review and synthesis"
+   ],
+   "container-title": [
+    "Marine Pollution Bulletin"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.marpolbul.2020.111398",
+   "author": [
+    {
+     "given": "Peter T.",
+     "family": "Harris",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003487555-25",
+   "title": [
+    "Marine Microplastic Pollution"
+   ],
+   "container-title": [
+    "Handbook of Microplastic Pollution in the Environment"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      9
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003487555-25",
+   "author": [
+    {
+     "given": "Minhaz",
+     "family": "Uddin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tapos",
+     "family": "Kormoker",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md. Iqram Uddin Al",
+     "family": "Amran",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md. Naimur",
+     "family": "Rahman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md. Saif",
+     "family": "Uddin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md. Kamrul",
+     "family": "Haque",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003487555-1",
+   "title": [
+    "Microplastic Pollution Distribution in Aquatic Environments"
+   ],
+   "container-title": [
+    "Handbook of Microplastic Pollution in the Environment"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      9
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003487555-1",
+   "author": [
+    {
+     "given": "Alaa El Din",
+     "family": "Mahmoud",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-323-90980-8.00013-3",
+   "title": [
+    "Microplastic pollution in marine sea salts"
+   ],
+   "container-title": [
+    "Meso and Microplastic Risk Assessment in Marine Environments"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-323-90980-8.00013-3",
+   "author": [
+    {
+     "given": "Partheeban Emmanuel",
+     "family": "Charles",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rajendran",
+     "family": "Rajaram",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.",
+     "family": "Selvam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sadayan",
+     "family": "Paramasivam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.3897/emt.coll.328",
+   "title": [
+    "Microplastic and Nanoplastic Pollution in Different Environments: Freshwater and Marine Perspectives"
+   ],
+   "publisher": "Pensoft Publishers",
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "type": "database",
+   "URL": "https://doi.org/10.3897/emt.coll.328"
+  },
+  {
+   "DOI": "10.1016/j.marpolbul.2023.115136",
+   "title": [
+    "A review of methods for modeling microplastic transport in the marine environments"
+   ],
+   "container-title": [
+    "Marine Pollution Bulletin"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.marpolbul.2023.115136",
+   "author": [
+    {
+     "given": "Caiyuan",
+     "family": "Cai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Liangsheng",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bo",
+     "family": "Hong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003487555",
+   "title": [
+    "Handbook of Microplastic Pollution in the Environment"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      9
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1201/9781003487555",
+   "author": [
+    {
+     "given": "Tonni Agustiono",
+     "family": "Kurniawan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abdelkader",
+     "family": "Anouzla",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003487555-7",
+   "title": [
+    "Microplastic Pollution in Surface Waters and Sediments of Urban Lake"
+   ],
+   "container-title": [
+    "Handbook of Microplastic Pollution in the Environment"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      9
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003487555-7",
+   "author": [
+    {
+     "given": "Ataman Altuğ",
+     "family": "Atici",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.marpolbul.2026.119379",
+   "title": [
+    "Artificial intelligence for modeling and reducing microplastic in marine environments: A review of current evidence"
+   ],
+   "container-title": [
+    "Marine Pollution Bulletin"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.marpolbul.2026.119379",
+   "author": [
+    {
+     "given": "David Bamidele",
+     "family": "Olawade",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "James O.",
+     "family": "Ijiwade",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abimbola O.",
+     "family": "Ige",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ojima Zechariah",
+     "family": "Wada",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.marpolbul.2026.120011",
+   "title": [
+    "Microplastic contamination in coastal environments: Assessing the role of rainfall and stormwater inputs"
+   ],
+   "container-title": [
+    "Marine Pollution Bulletin"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.marpolbul.2026.120011",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0003-9296-8229",
+     "authenticated-orcid": false,
+     "given": "Danielle",
+     "family": "Giuretis",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5624-8441",
+     "authenticated-orcid": false,
+     "given": "Nina",
+     "family": "Wootton",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7680-2240",
+     "authenticated-orcid": false,
+     "given": "Bronwyn M.",
+     "family": "Gillanders",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9843-9465",
+     "authenticated-orcid": false,
+     "given": "Patrick",
+     "family": "Reis-Santos",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003660064-6",
+   "title": [
+    "Microplastic Pollution in Mountain Environments"
+   ],
+   "container-title": [
+    "Microplastic Pollution"
+   ],
+   "publisher": "Jenny Stanford Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      8
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003660064-6",
+   "author": [
+    {
+     "given": "Paolo",
+     "family": "Pastorino",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marino",
+     "family": "Prearo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dami??????",
+     "family": "Barcel??????",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003487555-22",
+   "title": [
+    "Microplastic Pollution in the Environment"
+   ],
+   "container-title": [
+    "Handbook of Microplastic Pollution in the Environment"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      9
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003487555-22",
+   "author": [
+    {
+     "given": "Justinah Solayide",
+     "family": "Amoko",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lasisi",
+     "family": "Gbadamosi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abidemi Iyewumi",
+     "family": "Demehin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Isaiah Adesola",
+     "family": "Oke",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-323-90980-8.00006-6",
+   "title": [
+    "Assessment of microplastic pollution in the Vembar estuarine environment, Southeast coast of India"
+   ],
+   "container-title": [
+    "Meso and Microplastic Risk Assessment in Marine Environments"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-323-90980-8.00006-6",
+   "author": [
+    {
+     "given": "G.",
+     "family": "Jeyabal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "P.",
+     "family": "Udayaganesan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.",
+     "family": "Selvam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "D.",
+     "family": "Sathiya",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.marpolbul.2025.118516",
+   "title": [
+    "An experimental study on microplastic settling velocities in different water environments: Which factors shape the settling process?"
+   ],
+   "container-title": [
+    "Marine Pollution Bulletin"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.marpolbul.2025.118516",
+   "author": [
+    {
+     "given": "Cumana",
+     "family": "Alpergün",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Neval",
+     "family": "Baycan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nefise",
+     "family": "Alyürük",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Orhan",
+     "family": "Gündüz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1021/acsapm.6c00742.s001",
+   "title": [
+    "Structural Mechanisms Governing Polyolefin Microplastic Formation in Marine Environments"
+   ],
+   "publisher": "American Chemical Society (ACS)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1021/acsapm.6c00742.s001"
+  },
+  {
+   "DOI": "10.1016/j.marpolbul.2024.116516",
+   "title": [
+    "Assessment of microplastic presence in coastal environments and organisms of Da Nang, Vietnam"
+   ],
+   "container-title": [
+    "Marine Pollution Bulletin"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.marpolbul.2024.116516",
+   "author": [
+    {
+     "given": "Nhu-Thuc",
+     "family": "Phan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Le Xuan",
+     "family": "Thanh Thao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Van Manh",
+     "family": "Do",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "D. Duc",
+     "family": "Nguyen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.marpolbul.2021.112343",
+   "title": [
+    "The nexus of macroplastic and microplastic research and plastic regulation policies in the Philippines marine coastal environments"
+   ],
+   "container-title": [
+    "Marine Pollution Bulletin"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.marpolbul.2021.112343",
+   "author": [
+    {
+     "given": "Van Ryan Kristopher R.",
+     "family": "Galarpe",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Caroline Marie B.",
+     "family": "Jaraula",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maria Kristina O.",
+     "family": "Paler",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

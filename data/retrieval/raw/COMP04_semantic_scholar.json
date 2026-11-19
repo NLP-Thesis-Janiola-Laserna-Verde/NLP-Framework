@@ -1,0 +1,769 @@
+{
+ "query": "Software defect prediction using machine learning",
+ "retrieved_at": "2026-11-18T17:44:35.909938+00:00",
+ "data": [
+  {
+   "paperId": "3057cb21e75685dbc30764eb3064fed0f033744a",
+   "externalIds": {
+    "DOI": "10.23919/INDIACom61295.2024.10498707",
+    "CorpusId": 269240883
+   },
+   "url": "https://www.semanticscholar.org/paper/3057cb21e75685dbc30764eb3064fed0f033744a",
+   "title": "Software Defect Prediction using Machine Learning",
+   "venue": "International Conference on Computing for Sustainable Global Development",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23919/INDIACom61295.2024.10498707?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/INDIACom61295.2024.10498707, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-02-28",
+   "authors": [
+    {
+     "authorId": "9182043",
+     "name": "Sonia Setia"
+    },
+    {
+     "authorId": "3017041",
+     "name": "K. Ravulakollu"
+    },
+    {
+     "authorId": "2164150327",
+     "name": "Kimmi Verma"
+    },
+    {
+     "authorId": "2297406652",
+     "name": "Setu Garg"
+    },
+    {
+     "authorId": "2297673022",
+     "name": "Sunil Kumar Mishra"
+    },
+    {
+     "authorId": "2164143055",
+     "name": "Bhagwati Sharan"
+    }
+   ],
+   "abstract": "A software’s most crucial component is its quality. Software Defect Prediction has gained a lot of traction in recent years and has the potential to directly impact quality. Software quality is greatly impacted by defective software modules, which may result in budget overruns, missed deadlines, and significantly increased maintenance costs. There are diverse phases executed to predict the defect in software such as to employ the data for input, pre-process it, extract the attributes and classify the defect. This research work presents numerous algorithms, namely Gaussian naive bayes (GNB), Bernoulli NB, random forest (RF) and multi-layer perceptron (MLP), for predicting the software defect. This work also focuses on developing an ensemble algorithm to enhance the efficacy of predicting the defects. This ensemble consisted of a Principal Component Analysis (PCA) algorithm with class balancing. Diverse parameters such as accuracy, precision and recall are employed for analyzing the results."
+  },
+  {
+   "paperId": "e62989f26dc60fa89dfc69983803fa22f8f611f5",
+   "externalIds": {
+    "CorpusId": 241669703
+   },
+   "url": "https://www.semanticscholar.org/paper/e62989f26dc60fa89dfc69983803fa22f8f611f5",
+   "title": "Software Defect Prediction using Machine Learning",
+   "venue": "International Conference on Computing for Sustainable Global Development",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2023-03-15",
+   "authors": [
+    {
+     "authorId": "2176117668",
+     "name": "Sayyed Ashar Ali"
+    },
+    {
+     "authorId": "32510514",
+     "name": "N. Roy"
+    },
+    {
+     "authorId": "2059915206",
+     "name": "Dharm Raj"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "909e9fdb87de0b71edad15e07b5e069aed7f89f9",
+   "externalIds": {
+    "DOI": "10.35940/ijrte.b1178.0982s1119",
+    "CorpusId": 267043333
+   },
+   "url": "https://www.semanticscholar.org/paper/909e9fdb87de0b71edad15e07b5e069aed7f89f9",
+   "title": "Software Defect Prediction Using Machine Learning",
+   "venue": "International journal of recent technology and engineering",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.35940/ijrte.b1178.0982s1119",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35940/ijrte.b1178.0982s1119?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35940/ijrte.b1178.0982s1119, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-11-02",
+   "authors": [],
+   "abstract": "Software defect prediction analysis is an important problem in the software engineering community. Software defect prediction can directly affect the quality and has achieved significant popularity in the last few years. This software prediction analysis helps in delivering the best development and makes the maintenance of software more reliable. This is because predicting the software faults in the earlier phase improves the software quality,efficiency, reliability and the overall cost in SDLC. Developing and improving the software defect prediction model is a challenging task and many techniques are introducing for better performance. Supervised ML algorithms have been used to predict future software faults based on historical data[1]. These classifiers are Naïve Bayes (NB), Support Vector Machine(SVM) and Artificial neural network(ANN). The evaluation process showed that ML algorithms can be used effectively with a high accuracy rate. The comparison is made with other machine learning algorithms to finds the algorithms which gives more accuracy. And the results show that machine learning algorithms gives the best performance. The existence of software defects affects dramatically on software reliability, quality, and maintenance cost. Achieving reliable software also is hard work, even the software applied carefully because most time there is hidden errors. In addition, developing a software defect prediction model which could predict the faulty modules in the early phase is a real challenge in software engineering. Software defect prediction analysis is an essential activity in software development. This is because predicting the bugs prior to software deployment achieves user satisfaction, and helps in increasing the overall performance of the software. Moreover, predicting software defects early improves software adaptation to different environments and increases resource utilization."
+  },
+  {
+   "paperId": "b01ddae2e64aed09be23ffa71c134216eec43c00",
+   "externalIds": {
+    "DOI": "10.1109/ESIC64052.2025.10962634",
+    "CorpusId": 277823108
+   },
+   "url": "https://www.semanticscholar.org/paper/b01ddae2e64aed09be23ffa71c134216eec43c00",
+   "title": "Optimum Accuracy of Software Defect Prediction using Machine Learning Technique",
+   "venue": "Educational Sciences International Conference",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ESIC64052.2025.10962634?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ESIC64052.2025.10962634, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-02-08",
+   "authors": [
+    {
+     "authorId": "2355614323",
+     "name": "Mohini Parashar"
+    },
+    {
+     "authorId": "2141424675",
+     "name": "Arjun Rajput"
+    },
+    {
+     "authorId": "9417787",
+     "name": "R. Boghey"
+    }
+   ],
+   "abstract": "Focus of the paper is on predicting software defects (SD) based on Machine learning (ML) techniques which is a challenging research area because of unbalanced nature of data sets. In general, a set of design metrics is used for fault prediction and for identifying the fault-proneness in software and recent studies shows that ML techniques is being applied for defect prediction. However, some ML techniques cannot produce the needed results when dealing with unbalanced dataset and the results produced are not certainly inferred by the developers by observing these factors, we propose a unique approach for fault prediction which is based on feature selection technique which improves the overall performance by using attribute selection when predicting defects. The ML concentrates on the algorithms entirely centred on statistical methods and data mining techniques for classifying and predicting the defects and these statistical methods followed are quite similar to regression based methods which we used earlier to the ML. When more data is available, ML algorithms behave as dynamic algorithms to improve their performance significantly. The DT ML technique is providing good accuracy compared to other NB and SVM technique. In this model is simulated python language and calculated simulation parameter i.e. precision, recall and accuracy."
+  },
+  {
+   "paperId": "cc15666726367ba5ef1767e0608970365d6d2eab",
+   "externalIds": {
+    "DOI": "10.52783/jisem.v10i3.6277",
+    "CorpusId": 278190327
+   },
+   "url": "https://www.semanticscholar.org/paper/cc15666726367ba5ef1767e0608970365d6d2eab",
+   "title": "A Framework of Software Defect Prediction using Machine Learning with Updated Firefly Algorithm and Neural Networks",
+   "venue": "Journal of Information Systems Engineering & Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://jisem-journal.com/index.php/journal/article/download/6277/2891",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52783/jisem.v10i3.6277?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52783/jisem.v10i3.6277, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-03-20",
+   "authors": [
+    {
+     "authorId": "2562486216",
+     "name": "Naveen Monga"
+    }
+   ],
+   "abstract": "This research investigates the impact of using swarm intelligence algorithms for feature selection in software defect prediction models. Leveraging the JM1 software dataset, comprising 10,000 records, the study evaluates the performance of three swarm intelligence algorithms—Firefly Algorithm, Cuckoo Search, and Particle Swarm Optimization (PSO)—in combination with Deep Neural Networks (DNN). The study focuses on three critical metrics: Recall, Precision, and F-measure. Results indicate that the Firefly + DNN model achieved the highest improvements, with a 7.5% increase in precision over PSO + DNN and 2.9% over Cuckoo + DNN. In terms of recall, Firefly + DNN outperformed PSO + DNN by 10.7% and Cuckoo + DNN by 6.3%. Furthermore, the F-measure of Firefly + DNN improved by 9.5% compared to PSO + DNN and 5.9% over Cuckoo + DNN. These refinements underscore the effectiveness of the Firefly Algorithm in selecting relevant features for defect prediction, resulting in more accurate, efficient models, and reliable. The study emphasizes the significance of feature selection in reducing overfitting, enhancing interpretability, and lowering computational costs. Overall, this research provides robust methods for improving software quality and reducing maintenance efforts through advanced defect prediction models, contributing significantly to the field of software engineering."
+  },
+  {
+   "paperId": "60191275cbe0936e0797e4340bc7a3d3073bba29",
+   "externalIds": {
+    "DBLP": "journals/sncs/PandeyJ24a",
+    "DOI": "10.1007/s42979-024-03458-0",
+    "CorpusId": 274353490
+   },
+   "url": "https://www.semanticscholar.org/paper/60191275cbe0936e0797e4340bc7a3d3073bba29",
+   "title": "Towards Effective Software Defect Prediction Using Machine Learning Techniques",
+   "venue": "SN Computer Science",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s42979-024-03458-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s42979-024-03458-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-11-27",
+   "authors": [
+    {
+     "authorId": "2294246665",
+     "name": "Akshat Pandey"
+    },
+    {
+     "authorId": "2332799062",
+     "name": "Akshay Jadhav"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "873aca9147f6121913afb5a4b10b74fc7e0af2f7",
+   "externalIds": {
+    "DBLP": "journals/infsof/StradowskiM23b",
+    "DOI": "10.1016/j.infsof.2023.107192",
+    "CorpusId": 257461271
+   },
+   "url": "https://www.semanticscholar.org/paper/873aca9147f6121913afb5a4b10b74fc7e0af2f7",
+   "title": "Industrial applications of software defect prediction using machine learning: A business-driven systematic literature review",
+   "venue": "Information and Software Technology",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.infsof.2023.107192",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.infsof.2023.107192?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.infsof.2023.107192, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-03-01",
+   "authors": [
+    {
+     "authorId": "2185437149",
+     "name": "Szymon Stradowski"
+    },
+    {
+     "authorId": "1731361",
+     "name": "L. Madeyski"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "289aaa27302986d95b77a7debed4fabba194e9ff",
+   "externalIds": {
+    "DBLP": "journals/soco/ManchalaTB24",
+    "DOI": "10.1007/s00500-024-10379-w",
+    "CorpusId": 274250288
+   },
+   "url": "https://www.semanticscholar.org/paper/289aaa27302986d95b77a7debed4fabba194e9ff",
+   "title": "Multi objective binary Rao feature optimization for software defect prediction using machine learning models",
+   "venue": "Soft Computing - A Fusion of Foundations, Methodologies and Applications",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00500-024-10379-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00500-024-10379-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-19",
+   "authors": [
+    {
+     "authorId": "2167665375",
+     "name": "Pravali Manchala"
+    },
+    {
+     "authorId": "2075393123",
+     "name": "Ankur Tiwari"
+    },
+    {
+     "authorId": "3443739",
+     "name": "Manjubala Bisi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "d5edf717a29522f6b838be054a806346244113b9",
+   "externalIds": {
+    "MAG": "3042453027",
+    "DOI": "10.1109/ICOEI48184.2020.9142909",
+    "CorpusId": 220668081
+   },
+   "url": "https://www.semanticscholar.org/paper/d5edf717a29522f6b838be054a806346244113b9",
+   "title": "Software Defect Prediction Using Machine Learning Techniques",
+   "venue": "2020 4th International Conference on Trends in Electronics and Informatics (ICOEI)(48184)",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICOEI48184.2020.9142909?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICOEI48184.2020.9142909, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2020-06-01",
+   "authors": [
+    {
+     "authorId": "2081322675",
+     "name": "C. Prabha"
+    },
+    {
+     "authorId": "80926536",
+     "name": "N. Shivakumar"
+    }
+   ],
+   "abstract": "Software defect prediction provides development groups with observable outcomes while contributing to industrial results and development faults predicting defective code areas can help developers identify bugs and organize their test activities. The percentage of classification providing the proper prediction is essential for early identification. Moreover, software-defected data sets are supported and at least partially recognized due to their enormous dimension. This Problem is handled by hybridized approach that includes the PCA, randomforest, naïve bayes and the SVM Software Framework, which as five datasets as PC3, MW1, KC1, PC4, and CM1, are listed in software analysis using the weka simulation tool. A systematic research analysis is conducted in which parameters of confusion, precision, recall, recognition accuracy, etc Are measured as well as compared with the prevailing schemes. The analytical analysis indicates that the proposed approach will provide more useful solutions for device defects prediction."
+  },
+  {
+   "paperId": "e2ba367bae01b48f0693e0bccf9a91ed5ca0fb53",
+   "externalIds": {
+    "DOI": "10.5220/0013874500004919",
+    "CorpusId": 284419736
+   },
+   "url": "https://www.semanticscholar.org/paper/e2ba367bae01b48f0693e0bccf9a91ed5ca0fb53",
+   "title": "AI-Driven Software Defect Prediction Using Machine Learning",
+   "venue": "Proceedings of the 1st International Conference on Research and Development in Information, Communication, and Computing Technologies",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.5220/0013874500004919",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5220/0013874500004919?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5220/0013874500004919, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2402447457",
+     "name": "J. Kumar"
+    },
+    {
+     "authorId": "2402290099",
+     "name": "K. Ruthesha"
+    },
+    {
+     "authorId": "2402290080",
+     "name": "D. Akshitha"
+    },
+    {
+     "authorId": "2402295781",
+     "name": "G. Himavarshini"
+    },
+    {
+     "authorId": "2402290731",
+     "name": "U. Manasa"
+    }
+   ],
+   "abstract": ": Defect prediction in software is a well-documented problem in the software engineering. To be successful in software development, it must be related software engineering and data mining. Prediction of defects will assist in identification of faults in the source code, before testing. Different methodologies, like clustering, statistical technique, neural network, black-box testing, white-box testing and machine learning are utilized for predicting of defects. This research proposed feature selection for enhancing the accuracy of machine learning classifiers in defect prediction. The goal is to increase the forecasting accuracy with five publicly available NASA scenarios: CM1, JM1, KC2, KC1, and PC1. Feature Selection is combined to a variety of ML algorithms such as Random Forest, Logistic Regression, Multilayer Perceptron, Bayesian Networks, Rule ZeroR, J48, Lazy IBK, Support Vector Machines, Neural Networks, Decision Stump. Data pre-processing and model deployment is carried out using WEKA (Waikato Environment for Knowledge Analysis) data insisting while statistical analysis is done through Minitab. The outcome shows that it becomes impressive using facet alternative (WFS) in improving defect prediction accuracies when in contrast to the models which there isn't any facet alternative (WOFS)."
+  },
+  {
+   "paperId": "02f79ef9417bf7747ab20bb77bb7f3275b5809a7",
+   "externalIds": {
+    "DOI": "10.57041/nz5fte12",
+    "CorpusId": 284798857
+   },
+   "url": "https://www.semanticscholar.org/paper/02f79ef9417bf7747ab20bb77bb7f3275b5809a7",
+   "title": "SOFTWARE DEFECT PREDICTION USING MACHINE LEARNING TECHNIQUES",
+   "venue": "Pakistan Journal of Scientific Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://paas-pk.org/index.php/pjosr/article/download/1983/1041",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.57041/nz5fte12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.57041/nz5fte12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-31",
+   "authors": [
+    {
+     "authorId": "2468308228",
+     "name": "Humaira Khalid"
+    },
+    {
+     "authorId": "2556308599",
+     "name": "M. Hai"
+    },
+    {
+     "authorId": "2135619635",
+     "name": "M. Sharif"
+    },
+    {
+     "authorId": "2145847303",
+     "name": "A. Panhwar"
+    },
+    {
+     "authorId": "2404932838",
+     "name": "Zainulibad"
+    },
+    {
+     "authorId": "2306393375",
+     "name": "Mehtab Ahmed"
+    },
+    {
+     "authorId": "2203339967",
+     "name": "A. Solangi"
+    },
+    {
+     "authorId": "2334073354",
+     "name": "Zain Solangi"
+    },
+    {
+     "authorId": "2404773944",
+     "name": "Baitullah"
+    }
+   ],
+   "abstract": "Software flaws can result in large financial losses, decreased user’ happiness, and a general decrease in the dependability of software systems. Therefore, early in the software development lifecycle defect, detection and mitigation are critical. This paper provides an overview of machine learning-based software defect prediction. Exploring the use of machine learning algorithms to forecast and categorize software problems based on historical data and other software metrics is the goal. In addition to discussing the difficulties in defect prediction, this study provides a thorough analysis of the most recent machine learning methods used to this problem. Additionally, it sheds light on the feature selection, evaluation criteria, and data preprocessing methods frequently used in software defect prediction studies. The article concludes with a comparison of various machines learning methods and how well they perform in forecasting software flaws, highlighting the advantages and disadvantages of each method. The results of this study help to advance our understanding of software defect prediction using machine learning and give researchers and practitioner’s advice on how to select the best tools for their individual needs."
+  },
+  {
+   "paperId": "9eca8f97fb44b61a8d87556c4ca0a29cfd3ea165",
+   "externalIds": {
+    "DOI": "10.1109/ICDSCNC70670.2026.11746318",
+    "CorpusId": 295534312
+   },
+   "url": "https://www.semanticscholar.org/paper/9eca8f97fb44b61a8d87556c4ca0a29cfd3ea165",
+   "title": "Software Defect Prediction Using Machine Learning Models",
+   "venue": "2026 2nd International Conference on Distributed Systems, Computer Networks and Cybersecurity (ICDSCNC)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/icdscnc70670.2026.11746318",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDSCNC70670.2026.11746318?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDSCNC70670.2026.11746318, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2026-08-01",
+   "authors": [
+    {
+     "authorId": "2176963397",
+     "name": "M. Kumar"
+    },
+    {
+     "authorId": "2526157688",
+     "name": "Vadde Ravi"
+    },
+    {
+     "authorId": "2405072986",
+     "name": "Syed Ali Hussain"
+    },
+    {
+     "authorId": "122137930",
+     "name": "D. Sravanthi"
+    },
+    {
+     "authorId": "2526283814",
+     "name": "Sanjay Duduka"
+    },
+    {
+     "authorId": "2526282616",
+     "name": "Punnam Susmija"
+    }
+   ],
+   "abstract": "In the field of software engineering, defect prediction still is a crucial issue in terms of its usefulness in locating modules with high chances of defects at an early stage of the software life cycle. Early defect prediction can cut down on the time spent on maintenance and improve software quality. However, there are a few hurdles which may limit the results of machine learning methods in defect prediction; the most prominent among these being that of data imbalance. The current paper deals with the comparative assessment of some classical machine learning methods, which include Decision Tree, Random Forest, Gradient Boosting, K-Nearest Neighbors (KNN), Logistic Regression, Naive Bayes, Support Vector Machine (SVM), and XGBoost. All methods used in this research will be developed and evaluated in a common environment, which aims at systematic optimization through hyperparameter tuning (GridSearchCV employed with 5-fold cross-validation). Methods for preprocessing the data collection (cleaning, normalization, and balancing) are used for improving quality of the dataset. The study convincingly shows that ensemble methods like Gradient Boosting and Random Forest are good regarding their predictive power. while SVM provides a more balanced outcome of 98.6% accuracy and 0.994 ROC-AUC measure. Feature selection and evaluation let"
+  },
+  {
+   "paperId": "7546dbcd97c8115bbb1aa4753582efc6b0d3d22f",
+   "externalIds": {
+    "DOI": "10.1109/ICCWAMTIP60502.2023.10387043",
+    "CorpusId": 267043337
+   },
+   "url": "https://www.semanticscholar.org/paper/7546dbcd97c8115bbb1aa4753582efc6b0d3d22f",
+   "title": "Software Defect Prediction Using Machine Learning - A Systematic Literature Review",
+   "venue": "2023 20th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCWAMTIP60502.2023.10387043?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCWAMTIP60502.2023.10387043, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2023-12-15",
+   "authors": [
+    {
+     "authorId": "2273547723",
+     "name": "Chengxiao Yan"
+    },
+    {
+     "authorId": "2279911282",
+     "name": "Jaweria Owais"
+    },
+    {
+     "authorId": "2258555429",
+     "name": "Awais Ahmed"
+    },
+    {
+     "authorId": "2305434575",
+     "name": "M. O. Khan"
+    },
+    {
+     "authorId": "2272681507",
+     "name": "Xiao-Yang Zeng"
+    },
+    {
+     "authorId": "1666172048",
+     "name": "Muhammad Hanif Tunio"
+    }
+   ],
+   "abstract": "The most expressive attribute for defining successful software is its quality, which can only be attained when the chances of a defect occurrence are doubtful. Software defect Prediction is a cycle to develop a model that software practitioners can use to detect faulty areas before the testing phase. Prediction of such classes before its testing phase will enable the development team to allocate resources more efficiently. It reduces the testing effort and can yield higher quality software with reduced cost. Prediction of such defects can be further elevated when machine learning techniques are introduced to such a Software defect Prediction (SDP) model. In this paper, we conducted a systematic literature review of the studies that are available on such practices of predicting defects in software before the actual testing is started with a blend of machine learning techniques that provide an edge to software defect prediction model is carried out with the latest Research present in this area providing the most upgrade statistics on Software defect prediction using machine learning."
+  },
+  {
+   "paperId": "1738ef965c8a980b7916af4a35b3cb837d791e50",
+   "externalIds": {
+    "DOI": "10.1109/NCIM59001.2023.10212500",
+    "CorpusId": 261081710
+   },
+   "url": "https://www.semanticscholar.org/paper/1738ef965c8a980b7916af4a35b3cb837d791e50",
+   "title": "A Systematic Approach for Enhancing Software Defect Prediction Using Machine Learning",
+   "venue": "2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM)",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/NCIM59001.2023.10212500?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/NCIM59001.2023.10212500, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2023-06-16",
+   "authors": [
+    {
+     "authorId": "2306704947",
+     "name": "S. Rifat"
+    },
+    {
+     "authorId": "2233141165",
+     "name": "Akil Uddin Bhuyain"
+    },
+    {
+     "authorId": "145437540",
+     "name": "Md. Shamim Hossain"
+    },
+    {
+     "authorId": "3394974",
+     "name": "Md. Solaiman Mia"
+    },
+    {
+     "authorId": "40000177",
+     "name": "Mahmuda Rahman"
+    }
+   ],
+   "abstract": "In the modern world of software development, ensuring reliability and performance is of paramount importance. However, despite the best efforts from the developers, software defects can still emerge, causing frustration and wasted resources. Due to the numerous defects found during the software development process, researchers have developed numerous ways for defect prediction models. However, these models cut down the time and expense of development when problems in a concurrent software product are anticipated. Due to the increased amount of defects brought on by software complexity, manual defect detection can become an extremely time-consuming procedure. This encouraged researchers to create methods for the automatic detection of software defects. The study of this paper has shown that a combination of machine learning algorithms could be applied effectively for software defect prediction. Interestingly, the combination of Artificial Neural Network and Random Forest classifier has been performed with the mean accuracy of 91%, while the hyper-parameter optimization model classifier has been performed with the mean accuracy of 83%, 83%, 84%, 77% and 80% for Support Vector Machine, Random Forest, Logistic Regression, Naive Bayes Gaussian and Decision Tree, respectively. These findings have demonstrated the potential of Machine Learning in the area of software development."
+  },
+  {
+   "paperId": "322d8cb18663a74b89a403bb1d20c9633151922b",
+   "externalIds": {
+    "DOI": "10.1109/ASSIC55218.2022.10088364",
+    "CorpusId": 257958465
+   },
+   "url": "https://www.semanticscholar.org/paper/322d8cb18663a74b89a403bb1d20c9633151922b",
+   "title": "Performance Analysis of Feature Selection Techniques in Software Defect Prediction using Machine Learning",
+   "venue": "2022 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ASSIC55218.2022.10088364?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ASSIC55218.2022.10088364, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2022-11-19",
+   "authors": [
+    {
+     "authorId": "2213594915",
+     "name": "K. Anand"
+    },
+    {
+     "authorId": "48652239",
+     "name": "A. Jena"
+    },
+    {
+     "authorId": "2213609852",
+     "name": "Tanisha Choudhary"
+    }
+   ],
+   "abstract": "Software Testing is an essential activity in the development process of a software product. A defect-free software is the need of the hour. Identifying the defects as early as possible is critical to avoid any disastrous consequences in the later stages of development. Software Defect Prediction (SDP) is a process of early identification of defect-prone modules. Lately, software defect prediction coupled with machine learning techniques has gained momentum as it significantly brings down maintenance costs. Feature selection (FS) plays a very significant role in a defect prediction model's efficiency; hence, choosing a suitable FS method is challenging when building a defect prediction model. This paper evaluates six filter-based FS techniques, four wrapper-based FS techniques, and two embedded FS techniques using four supervised learning classifiers over six NASA datasets from the PROMISE repository. The experimental results strengthened that FS techniques significantly improve the model's predictive performance. From our experimental data, we concluded that SVM based defect prediction model showed the best performance among all other studied models. We also observed that Fisher's score, a filter-based FS technique, outperformed all other FS techniques studied in this work."
+  },
+  {
+   "paperId": "4d50c630967367e351f17564e03425fa80dae6e4",
+   "externalIds": {
+    "DOI": "10.1063/5.0299059",
+    "CorpusId": 283424046
+   },
+   "url": "https://www.semanticscholar.org/paper/4d50c630967367e351f17564e03425fa80dae6e4",
+   "title": "Software defect prediction using machine learning techniques",
+   "venue": "AIP Conference Proceedings",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1063/5.0299059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1063/5.0299059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2294713429",
+     "name": "Nitin Kumar"
+    },
+    {
+     "authorId": "145934684",
+     "name": "O. Sangwan"
+    },
+    {
+     "authorId": "36326319",
+     "name": "Sunita Beniwal"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "4ef4a27921b562cb3d66593b77cd229b84e7b5b4",
+   "externalIds": {
+    "DOI": "10.46632/daai/3/2/7",
+    "CorpusId": 256673324
+   },
+   "url": "https://www.semanticscholar.org/paper/4ef4a27921b562cb3d66593b77cd229b84e7b5b4",
+   "title": "Software Defect Prediction Using Machine Learning Techniques",
+   "venue": "Data Analytics and Artificial Intelligence",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "http://dx.doi.org/10.46632/daai/3/2/7",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.46632/daai/3/2/7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.46632/daai/3/2/7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2023-01-01",
+   "authors": [
+    {
+     "authorId": "2583715624",
+     "name": "G. Cauvery"
+    },
+    {
+     "authorId": "2205078049",
+     "name": "D. DhinaSuresh"
+    }
+   ],
+   "abstract": "Software defect prediction provides development groups with observable outcomes while contributing to industrial results and development faults predicting defective code areas can help developers identify bugs and organize their test activities. The percentage of classification providing the proper prediction is essential for early identification. Moreover, software- defected data sets are supported and at least partially recognized due to their enormous dimension."
+  },
+  {
+   "paperId": "e6598e1f5e0a879e1bcf709e0db39ded12f1e080",
+   "externalIds": {
+    "DBLP": "conf/compsac/BommiN23",
+    "DOI": "10.1109/COMPSAC57700.2023.00278",
+    "CorpusId": 260387576
+   },
+   "url": "https://www.semanticscholar.org/paper/e6598e1f5e0a879e1bcf709e0db39ded12f1e080",
+   "title": "A Standard Baseline for Software Defect Prediction: Using Machine Learning and Explainable AI",
+   "venue": "Annual International Computer Software and Applications Conference",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMPSAC57700.2023.00278?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMPSAC57700.2023.00278, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2023-06-01",
+   "authors": [
+    {
+     "authorId": "2122595015",
+     "name": "Nitin Sai Bommi"
+    },
+    {
+     "authorId": "1728262",
+     "name": "A. Negi"
+    }
+   ],
+   "abstract": "The utility of ubiquitous computing systems drives large-scale software development with millions of lines of code (LOC). As there are vast code sets, it also increases the possibility of coding errors since it is difficult for even highly trained software engineers to write flawless code. Such flawed software can lead to severe issues once deployed. McCabe and Halstead proposed feature extractors for source code to define software quality. Based on the static features proposed by McCabe and Halstead, we run a series of feature engineering techniques and different machine learning models to detect code defects and use explainable algorithms to assess the prediction quality. We report different processing pipeline combinations to detect defects and compare the approaches. We conclude the paper with comments on the nature of the dataset and establish a baseline for further research."
+  },
+  {
+   "paperId": "e52ab8a9ef854488e686d2d27b1aa44a47790ec5",
+   "externalIds": {
+    "DBLP": "conf/icimmi/GautamKG22",
+    "DOI": "10.1145/3590837.3590918",
+    "CorpusId": 258970791
+   },
+   "url": "https://www.semanticscholar.org/paper/e52ab8a9ef854488e686d2d27b1aa44a47790ec5",
+   "title": "A Review on Software Defect Prediction Using Machine Learning",
+   "venue": "ICIMMI",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3590837.3590918",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3590837.3590918?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3590837.3590918, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Book",
+    "Review"
+   ],
+   "publicationDate": "2022-12-23",
+   "authors": [
+    {
+     "authorId": "30944926",
+     "name": "Shikha Gautam"
+    },
+    {
+     "authorId": "50843390",
+     "name": "Ajay Khunteta"
+    },
+    {
+     "authorId": "2055607246",
+     "name": "Debolina Ghosh"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "010150677ccae09686ef9dc5988d19c0a2e64f5d",
+   "externalIds": {
+    "DOI": "10.47852/bonviewswt52025645",
+    "CorpusId": 278951443
+   },
+   "url": "https://www.semanticscholar.org/paper/010150677ccae09686ef9dc5988d19c0a2e64f5d",
+   "title": "Software Defect Prediction Using Traditional Machine Learning and Ensemble Learning Algorithms",
+   "venue": "Smart Wearable Technology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ojs.bonviewpress.com/index.php/SWT/article/download/5645/1429",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47852/bonviewswt52025645?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47852/bonviewswt52025645, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2363821820",
+     "name": "S. Kabir"
+    },
+    {
+     "authorId": "2364156031",
+     "name": "Md. Tanim Rahman"
+    },
+    {
+     "authorId": "2188859989",
+     "name": "Aunik Hasan Mridul"
+    }
+   ],
+   "abstract": "Software defect prediction (SDP) leverages machine learning to identify potential defects in software systems, enhancing software quality and reducing maintenance costs. Traditional techniques like Naïve Bayes, Decision Trees, and support vector machines (SVM) have been widely used for defect prediction due to their simplicity and interpretability. However, ensemble techniques such as Random Forest (RF), AdaBoost, and Bagging have gained prominence for their ability to improve accuracy by combining multiple models. While these methods have demonstrated promising results, challenges like overfitting, imbalanced datasets, and inadequate model tuning remain critical for further improvement in SDP. There are various types of datasets available in online. We have selected four datasets. We employed RF, Logistic Regression (LR), Gradient Boosting (GB), K-Nearest Neighbor (KNN), Decision Tree (DT), and XGB Classifier. In order to thoroughly investigate and assess each model’s predictive potential for identifying software defects and the issues they cause, we also used ensemble approaches. The results were promising, with the KNN achieving a noteworthy test accuracy of 87.08% for Dataset PC1, KNN of 76.49% for dataset JM1, KNN of 81.45% for dataset KC1 and GB of 92.89% for dataset CM1. Furthermore, Boosting GB also demonstrated accuracy matching this high standard of 94.5% for dataset CM1. To further enhance performance, we implemented a range, including Bagging, Boosting, Stacking, and Voting algorithms, optimizing each classifier with the best parameters through hyperparameter tuning. Through our experimental investigation, we not only contributed to the body of knowledge on SDP but also identified the Gradient Boosting with Boosting model as the most accurate, achieving an outstanding accuracy rate of 94.5% for SDPs. This research endeavors to provide invaluable insights into software defect management, offering a potential solution for early intervention and ultimately improving software outcomes."
+  }
+ ]
+}

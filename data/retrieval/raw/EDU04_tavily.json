@@ -1,0 +1,166 @@
+{
+ "query": "Generative AI tools and academic integrity in higher education",
+ "retrieved_at": "2026-11-18T17:49:32.331100+00:00",
+ "data": [
+  {
+   "url": "https://scholar.dsu.edu/cgi/viewcontent.cgi?article=1441&context=bispapers",
+   "title": "Generative AI and Academic Integrity in Higher Education: A Systematic Review and Research Agenda",
+   "content": "restrictions in syllabi and requiring students to disclose GenAI use . This highlights the need for ongoing adaptation in educational practices to balance the benefits of GenAI tools with maintaining academic integrity. Wang and Cornely  provide a related argument that the use of advanced detection technologies, the development of clear guidelines on GenAI usage, and the pro- motion of ethical awareness among students and educators is key to maintaining the integrity of the educational process. [...] Several authors lament the current state of popular AI detection tools, such as iThenti- cate, MOSS, and Turnitin, stating they are inadequate for the needs of educators [4,9,10]. Park and Ahn , for instance, reveal that while ChatGPT can enhance information ac- cessibility and efficiency, it threatens academic integrity by potentially lowering learning engagement and standards. The authors instead advocate for a holistic socio-technical solution that considers human psychology, organizational [...] current detection tools may fail to recognize [5,10]. This scenario raises critical questions about the effectiveness of traditional plagiarism detection methods and the need for new, more advanced systems that can identify AI-generated content. Moreover, the dependency on GenAI to complete academic tasks could reduce students’ critical thinking and independent problem-solving skills [16,36]. This reliance on GenAI tools risks academic integrity and undermines the educational process by",
+   "score": 0.81669897,
+   "raw_content": null,
+   "id": "2b4492-00"
+  },
+  {
+   "url": "https://d-nb.info/1364545578/34",
+   "title": "Investigating the higher education institutions' guidelines and ...",
+   "content": "Unauthorized use of ChatGPT or other Generative AI tools is considered cheating and/or plagiarism in Academic Integrity: A Basic Guide. However, different profes-sors may allow limited use of Generative AI tools for brainstorming, and/or with proper citation, and/or accept its use on a case-by-case basis. (Northwestern Uni-versity) Unless your instructor specifically authorizes the use of generative AI as a learn-ing tool (for example, to summarize information on a topic), using these tools [...] top 50 higher education institutions have developed or modified their assess-ment guidelines in response to the emergence of GenAI tools. The results showed that the assessment guidelines covered three main areas, including academic integrity, assessment design, and communicating with students. However, it is worth noting that less than half of the institutions had developed publicly available assessment guide-lines. Overall, the study indicates that HEIs have come to embrace GenAI as a part of [...] Provide a basic overview of GenAI, including its capabilities, limitations, and GenAI tools Academic integrity The University of Chicago explicitly explained that the use of information obtained from an outside source is consid-ered plagiarism if the source of the informa-tion is not disclosed Disclosure and transparency When using GenAI, always disclose promptly, or reference the use of GenAI tools and application plug-ins, as applicable Students Academic integrity Follow university guidelines",
+   "score": 0.79975533,
+   "raw_content": null,
+   "id": "efb8b9-01"
+  },
+  {
+   "url": "https://www.apporto.com/how-does-ai-affect-academic-integrity",
+   "title": "How Does AI Affect Academic Integrity? - Apporto",
+   "content": "AI affects academic integrity by changing how students create, revise, and submit academic work. Generative AI can support learning through feedback and tutoring, but it also raises concerns around plagiarism, authorship, fabricated information, and ethical AI use. Institutions increasingly combine clear policies, human oversight, and tools like Apporto TrustEd to support responsible AI usage and maintain academic honesty. [...] Universities are not standing still. Most institutions are actively updating their academic integrity policies to address generative AI. What once focused primarily on plagiarism and exam cheating must now account for AI generated work, automated writing assistance, and new forms of academic misconduct.\n\nIn several jurisdictions, formal AI policies are expected to become mandatory by 2026, signaling that this is not a temporary adjustment but a structural one. [...] No. Generative AI is not inherently unethical. Using it for brainstorming ideas, clarifying concepts, or revising sentence structure can be appropriate when allowed. Submitting AI generated work as entirely your own without disclosure, however, is considered academic misconduct.\n\n### 5. Can AI detection tools be trusted?",
+   "score": 0.78596646,
+   "raw_content": null,
+   "id": "ea417a-02"
+  },
+  {
+   "url": "https://www.turnitin.com/blog/are-universities-ready-for-ai-native-academic-integrity",
+   "title": "AI-native academic integrity trends and impact | Turnitin",
+   "content": "Student perception: 76% of students believe their institution is capable of detecting AI-generated writing.\n Motivation for non-use: 53% of students who avoid AI cite the fear of detection as their primary reason.\n\nTo move beyond simple deterrence, institutions are increasingly adopting tools that reveal composition practices. This visibility allows educators to move from \"policing\" a final product to shaping the ethical integration of AI throughout the entire student journey. [...] Overall: 92% of undergraduates report using AI tools in some form.\n Concept explanation: 58% of students use AI to clarify complex topics.\n Summarization: 48% use tools to summarize long-form articles.\n Research support: 41% use AI to suggest and refine research ideas.\n Drafting and review: 34% use it to help draft or review assignment content.\n\n\\Data source: HEPI (2025)\n\n## What are the biggest risks to AI-native academic integrity in the classroom? [...] ## What you need to know\n\nAI-native academic integrity is the evolution of traditional standards to reflect a world where generative AI is a core part of the student workflow. It requires a shift from evaluating integrity solely through final submissions to understanding authorship, learning, and decision-making across the full creation process in AI-enabled workflows.",
+   "score": 0.7794897,
+   "raw_content": null,
+   "id": "cc738b-03"
+  },
+  {
+   "url": "https://www.preprints.org/manuscript/202602.0455",
+   "title": "The Influence of Artificial Intelligence (AI) on Academic Integrity in Higher Education",
+   "content": "Artificial intelligence (AI) rapidly changes how educators and institutions view academic integrity. Tools like ChatGPT are raising concerns about plagiarism and ethical misuse. While some view these tools as helpful, others are concerned about academic dishonesty or overreliance. The difficulty in detecting AI-generated work makes enforcing ethical rules more challenging. Moreover, university policies vary across institutions, leading to inconsistencies in enforcement. This study used a [...] This study used a narrative review following the SANRA scale to assess 24 scholarly articles for key themes regarding the use of AI in higher education. The results show that many students use tools like ChatGPT without understanding the ethical issues involved. Furthermore, faculty struggle to verify student-authored content as AI detection tools lack accuracy in differentiating between human and AI-generated content. University policies regarding AI usage are inconsistent, with some [...] | 7 | (Cotton et al., 2023)  | UK | Not empirical (authors + ChatGPT generated content). Focus on higher education context. | To explore opportunities and challenges of ChatGPT in higher education and assess risks to academic integrity | Conceptual/theoretical essay (partially generated by ChatGPT, validated and edited by authors) | ChatGPT presents both opportunities (e.g., engagement, personalized assessment) and threats (e.g., plagiarism); proactive strategies like AI detection tools,",
+   "score": 0.7779754,
+   "raw_content": null,
+   "id": "b1a6ec-04"
+  },
+  {
+   "url": "https://law.vanderbilt.edu/academic-integrity-in-the-age-of-ai-emerging-legal-challenges-for-colleges-and-universities",
+   "title": "Academic Integrity in the Age of AI: Emerging Legal Challenges for Colleges and Universities - Vanderbilt Law School | Vanderbilt Law School | Vanderbilt University",
+   "content": "nationwide with concerns for not only how AI tools impact student learning outcomes, but how the tools are potentially being used for cheating.(#_ftn3) In fact, in a survey of 1,057 US faculty, 78% stated that on-campus cheating had increased since generative AI tools became widely available, and 73% reported personally encountering AI-related academic integrity issues.(#_ftn4) [...] The problems raised by AI detectors do not end with concerns over their reliability; the tools are often cited in actions against educational institutions by students facing disciplinary consequences as a result of their outputs.(#_ftn8) In Newby v. Adelphi University, a student was accused of using AI to write an essay after Turnitin produced an “AI-generated score of 100%.”(#_ftn9) The university issued a determination finding him responsible for an academic integrity violation despite the [...] A simple solution would seem to lie in AI detection tools like Turnitin or GPTZero, which provide probability-based determinations of whether text was AI-generated by analyzing linguistic and statistical features.(#_ftn5) However, AI detectors present a myriad of obstacles for both students and faculty, including false positives and a reportedly higher likelihood of flagging the writing of non-native English speakers as AI-generated.(#_ftn6) Concerns over the use of AI detection software have",
+   "score": 0.76942694,
+   "raw_content": null,
+   "id": "a373ee-05"
+  },
+  {
+   "url": "https://www.phoenix.edu/press-release/generative-ai-tools-in-higher-ed.html",
+   "title": "Generative AI Tools in Higher Ed | University of Phoenix",
+   "content": "Generative AI tools are increasingly used in academic workflows, including literature review support, research brainstorming, and academic writing assistance.\n AI can improve research efficiency and idea generation, particularly for complex scholarly tasks such as synthesizing large bodies of literature.\n Ethical and academic integrity considerations remain critical, including transparency about AI use and maintaining original scholarly analysis. [...] The study analyzes current scholarly literature on the academic applications of generative AI tools such as ChatGPT, focusing on their role in doctoral research, academic writing, literature review processes, and knowledge development. Using a scoping review methodology, the researchers identify emerging patterns in how AI technologies are being adopted across higher education, while also highlighting the importance of ethical guidelines, academic integrity, and responsible AI use. [...] “Generative AI tools are rapidly changing how scholars approach research and academic writing,” said Patricia Akojie, Ph.D., lead author, and a faculty member in the University of Phoenix College of Doctoral Studies. “Our review synthesizes emerging evidence so educators, doctoral students, and institutions can better understand how to integrate AI responsibly while preserving the rigor and critical inquiry that define scholarly work.”\n\n### About AI research at University of Phoenix",
+   "score": 0.76153845,
+   "raw_content": null,
+   "id": "0dbf02-06"
+  },
+  {
+   "url": "https://www2.education.vic.gov.au/pal/generative-artificial-intelligence/guidance/promoting-academic-integrity",
+   "title": "Generative Artificial Intelligence: Promoting academic integrity | VIC.GOV.AU | Policy and Advisory Library",
+   "content": "Identifying when students are using these tools dishonestly can be challenging given the sophistication of generative AI outputs. Schools can reduce the risk of misconduct by designing assessment with consideration of AI tools and authenticating student work where misconduct is possible.\n\n#### Authenticating student work\n\nSchools can identify potential instances where submitted work may not have been wholly completed by the student, including submitted work that: [...] Assessments such as diagnostic or high-stakes summative assessments are likely suited to approaches that prohibit or limit the use of generative AI tools. These approaches are most appropriate where the use of generative AI tools may prevent the accurate measurement of student understanding, or inhibit fair comparisons between students. [...] Teachers can:\n\n identify potential inappropriate uses of generative AI tools in assessments\n authenticate student work using established and transparent strategies\n respond to inappropriate uses of generative AI tools in assessment tasks in a consistent and proportionate way.\n\nIncludes information about setting expectations around academic integrity, designing assessments with consideration of generative AI tools and identifying and responding to inappropriate use\n\nUpdated\n\nBack to top",
+   "score": 0.7472472,
+   "raw_content": null,
+   "id": "3e5a06-07"
+  },
+  {
+   "url": "https://online-journals.org/index.php/i-jac/article/view/58669",
+   "title": "Balancing Innovation and Integrity: Navigating the Challenges of Generative AI in Higher Education | International Journal of Advanced Corporate Learning (iJAC)",
+   "content": "of student work. The purpose of this paper is to explore the implications of GAI integration in higher education, focusing on the need to reimagine and reform assessment strategies, develop learning environments that promote the ethical use of AI, and implement institutional support systems to ensure that academic integrity remains intact. Our scope includes an examination of faculty perspectives on the pedagogical potential of GAI, the challenges of maintaining academic integrity, and [...] The rapid integration of Generative Artificial Intelligence (GAI) tools in higher education has sparked a myriad of discussions, presenting both remarkable opportunities and significant challenges. The problem lies in the dual nature of GAI: while it holds immense potential to enhance learning experiences, foster deeper engagement, and enable personalized education, its misuse for academic dishonesty raises profound concerns regarding the integrity of assessments and the authenticity of student [...] integrity, and innovative assessment strategies that can mitigate these risks. The central question addressed is how educators and institutions can balance the benefits of GAI with the need to uphold academic standards and integrity.",
+   "score": 0.74576885,
+   "raw_content": null,
+   "id": "3eac4a-08"
+  },
+  {
+   "url": "https://teachingsupport.umn.edu/academic-integrity/genai-and-academic-integrity",
+   "title": "GenAI and Academic Integrity | Teaching Support",
+   "content": "Generative Artificial Intelligence (GenAI) tools are reshaping how students learn and create, raising questions about ethical use, academic integrity, and the value of original thinking in higher education. As these tools become increasingly integrated into the technologies we use for research and writing, and their power and sophistication grows, the challenge of appropriate and ethical AI use becomes more complex. While submitting AI-generated output without attribution is inappropriate, the [...] The resources below offer guidance for instructors navigating this evolving context with clarity and purpose. It includes advice on strategies for engaging students in productive conversations about GenAI use, commentary on the state of AI detection tools, recommendations and resources for addressing citation practices, ideas for designing AI-resilient assignments, and, importantly, procedures for handling suspected misuse. [...] Discover practical strategies, classroom activities, and current citation guidelines that support teaching students to engage with GenAI tools responsibly.\n- ## Scholastic Dishonesty involving GenAI\n  \n    \n  \n  Navigate how to respond to students who you believe may have used GenAI in violation of your course policy.\n- ## GenAI-Resilient Assignments",
+   "score": 0.73335636,
+   "raw_content": null,
+   "id": "68c750-09"
+  },
+  {
+   "url": "https://flagler.libguides.com/c.php?g=1449135&p=10980123",
+   "title": "Academic Integrity & AI: Understanding the Line - Generative AI Ethics and Ethical Use in Academic Contexts - Proctor Library at Flagler College",
+   "content": "Institutional Policies: Most universities are rapidly developing or updating their academic integrity policies to address generative AI. These policies often consider submitting AI-generated content as your own (without explicit permission and citation) to be a form of plagiarism or cheating. [...] Traditionally, plagiarism is defined as using someone else's ideas or words without giving them proper credit. This includes copying text verbatim, paraphrasing too closely, or presenting another person's ideas as your own.\n\n## How does this apply to Generative AI?\n\nWhile an AI isn't a \"person\" in the traditional sense, using AI-generated content without proper acknowledgment is still considered academic dishonesty. Why? [...] | Grammar & Proofreading: Using AI tools (like Grammarly's advanced features) to check for grammatical errors, typos, or refine sentence structure in your own writing. | Paraphrasing to Avoid Detection: Inputting your draft into AI to \"reword\" it to bypass plagiarism checkers, instead of genuinely revising and citing your sources. |",
+   "score": 0.72594017,
+   "raw_content": null,
+   "id": "e25d02-10"
+  },
+  {
+   "url": "https://spencereducation.com/ai-academic-integrity",
+   "title": "Promoting Academic Integrity in the Age of Generative AI - Spencer Education",
+   "content": "# Technology Changes the Way Students Cheat\n\nTechnology does not lead to cheating. But it does change the way that students cheat on their work. In terms of generative AI, cheating has become faster and harder to detect. For over a decade, technologists have honed plagiarism detectors to a high level of accuracy and teachers often integrated these tools into their learning management systems. That’s no longer the case. [...] Generative AI has introduced new challenges to academic integrity. It’s easier than ever to create original content with minimal human effort. Simply type in a well-crafted prompt and you end up with a text that can pass for student work. It’s harder than ever to detect AI-generated content and educational institutions are scrambling with how to respond to this new threat to academic integrity. And yet . . . it’s not an entirely new threat. Sometimes it helps to look backward at the larger [...] If we want students to demonstrate academic integrity, they need to know what it looks like to use generative AI ethically. Over time, this grows into a mindset and a habit. But even then there will be times when students still use AI to cheat — which is why we need to get to the heart of why cheating occurs.\n\n# Getting to the Heart of Why Students Cheat",
+   "score": 0.72095805,
+   "raw_content": null,
+   "id": "15dd0e-11"
+  },
+  {
+   "url": "https://www.apa.org/ed/precollege/psychology-teacher-network/introductory-psychology/teaching-academic-integrity",
+   "title": "Teaching academic integrity in the era of AI",
+   "content": "The barrage of daily news about Gen AI and student cheating is overwhelming. Although taking measures to prevent cheating can make it harder for students to cheat, new tools are emerging at record speed. There is a call for faculty to reinvent their courses to either embrace students’ use of AI or create assessments that are “AI-proof.” No matter your approach to AI, academic integrity still plays an integral role in teaching and learning. Instructors should include ethics and academic [...] cheating at the beginning of a course is essential given the myriad tools now available to students. Think about common mistakes students make in your class and address those specifically with examples. Review the resources available to students (including people, AI tools, tutors, or none), and how they should use and disclose their use of those resources for each assignment. For example, can students work together on homework? If so, what does “work together” look like? Extend the discussion [...] them from cheating. Reviewing the academic integrity policy and the consequences for violating it, and enforcing the policy reduces student cheating (Boehm et al., 2009). A recent article on the hidden curriculum of student conduct policies in higher education suggests that these policies may differentially impact first generation college students (Mowreader, 2025). By reviewing the policy, you are ensuring that all students have the information they need to be successful. Be sure to discuss,",
+   "score": 0.7126323,
+   "raw_content": null,
+   "id": "4230be-12"
+  },
+  {
+   "url": "https://academicintegrity.org/aws/ICAI/pt/sd/news_article/603119/_PARENT/layout_interior/false",
+   "title": "Artificial Intelligence and Assessment: Are Universities Ready to Rethink Integrity?",
+   "content": "The Higher Education Policy Institute [HEPI] Student Generative AI Survey 2025 reveals a dramatic rise in AI use among UK undergraduates, with 92% now using AI tools in some form—up from 66% in 2024 (Freeman, 2025). While most students report that AI improves their learning, a growing number (88%) use generative AI tools for assessments. However, fewer than half feel supported by their institutions to use AI effectively, and many remain unclear about acceptable usage. The report notes a [...] making it harder to spot – and even harder to prevent – unauthorised use of tools like ChatGPT or AI-enabled paraphrasing software. [...] This 'Educate, Enable, Expect' model builds on existing pedagogic literature that promotes scaffolded learning (Vygotsky, 1978) and self-determined motivation (Ryan & Deci, 2000).  \nBy giving students structured opportunities to practice citation, paraphrasing, and critical use of sources—even experimenting with AI tools in ethical ways—we reduce the fear of “getting it wrong” and make space for authentic learning.",
+   "score": 0.70629174,
+   "raw_content": null,
+   "id": "fa98b3-13"
+  },
+  {
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6873680",
+   "title": "<div> Artificial Intelligence and Academic Integrity in Higher Education: </div> <div> Challenges and Future Directions </div> by Alice Florence :: SSRN",
+   "content": "writing tools, and AI-assisted research applications has intensified debates concerning originality, plagiarism, authorship authenticity, independent learning, and ethical academic behavior. This study examines the relationship between artificial intelligence and academic integrity in higher education through a narrative review of scholarly literature, with emphasis on emerging challenges and future directions for responsible educational governance. The article explores key concerns surrounding [...] Artificial intelligence (AI) has rapidly transformed higher education by influencing teaching, learning, assessment, and academic content creation. While AI-powered educational technologies improve instructional efficiency, personalized learning, and educational accessibility, they also raise substantial concerns regarding academic integrity within university environments. The increasing availability of generative AI systems, intelligent tutoring technologies, automated writing tools, and [...] Furthermore, institutional inconsistencies in AI governance, faculty preparedness, digital literacy, and academic policy implementation contribute to uncertainty surrounding responsible AI use in universities. The study also identifies emerging strategies for safeguarding academic integrity, including assessment redesign, ethical AI literacy, transparent institutional policies, and responsible educational technology governance. The findings conclude that universities must adopt balanced",
+   "score": 0.6948206,
+   "raw_content": null,
+   "id": "9acf49-14"
+  },
+  {
+   "url": "https://silverliningforlearning.org/what-is-academic-integrity-in-the-era-of-generative-artificial-intelligence",
+   "title": "What is Academic Integrity in the Era of Generative Artificial intelligence? - Silver Lining for Learning",
+   "content": "All of these Institutes, as well as initiatives by other skilled researchers in AI and Education, are developing theory-driven, evidence-based tools and applications to empower student learning in ways consistent with intelligence augmentation and academic integrity. Navigating A World of Generative AI: Suggestions for Educators describes strategies teachers can use to focus on students learning judgment in addition to reckoning. Using Technology to Support At-Risk Students’ Learning describes [...] Given all this, does generative AI have legitimate promise to improve teaching, learning, and assessment? If used in ways that foster rather than undercut academic integrity, I am excited about the potential of LLM to transform some aspects of learning and education.\n\nWays Learners (and Teachers) Can Use Generative AI without Undercutting Improvement and Integrity [...] Suppose someone says, “I used generative AI to write the manuscript I turned in, but I did edit what it gave me and made sure the facts and citations were accurate. Friends tell me that generative AI produces the initial drafts of every document in their workplaces and then its output is checked by people. Why is the academic community using outdated measures of what I can perform, insisting that my artifacts be produced only by me except for limited quotations from referenced sources?”",
+   "score": 0.6737286,
+   "raw_content": null,
+   "id": "c92306-15"
+  },
+  {
+   "url": "https://www.facebook.com/Pratikmngkr7/posts/new-publication-review-articlepleased-to-share-that-our-review-article-generati/27962348426767574",
+   "title": "Generative AI's impact on academic integrity in higher education",
+   "content": "The article critically examines how Generative AI is reshaping academic integrity, authorship, assessment, and responsible AI adoption in higher",
+   "score": 0.6137576,
+   "raw_content": null,
+   "id": "d60cbb-16"
+  },
+  {
+   "url": "https://www.susqu.edu/currents/2025/03/17/artificial-intelligence-academic-integrity",
+   "title": "Artificial Intelligence & Academic Integrity - Susquehanna Currents Magazine",
+   "content": "Imhoof has also brough AI into the classroom through his Europe, Money and the World course. In it, students use ChatGPT to help them consider certain parts of a paper, but not write it for them. They also learn how important it is to submit the most appropriate prompt to a generative AI platform to receive the information they seek. [...] According to a 2023 article published in the International Journal for Educational Integrity, an evaluation of 14 AI-detection tools found them neither accurate nor reliable (all scored below 80% of accuracy and only five over 70%). Studies have also shown AI detectors to be biased against nonnative English speakers. [...] Generative AI, which generates text, images or other data usually in response to prompts, has been viewed with both curiosity and trepidation, with concerns over academic integrity balanced by excitement over how AI can engance classroom pedagogy.\n\nOver the last decade, AI’s development has been consistently on the rise, leading to increased awareness and usage of AI systems.",
+   "score": 0.60077405,
+   "raw_content": null,
+   "id": "676a05-17"
+  },
+  {
+   "url": "https://academictechnology.umich.edu/instructional-resources/generative-ai/academic-integrity-resources",
+   "title": "Generative AI Academic Integrity Resources",
+   "content": "Below are resources to help faculty/instructors and students understand how to properly use Generative AI for teaching and learning.",
+   "score": 0.51860714,
+   "raw_content": null,
+   "id": "bb8ac0-18"
+  },
+  {
+   "url": "https://www.learntechlib.org/primary/p/225600",
+   "title": "Impact of generative artificial intelligence on academic integrity in ...",
+   "content": "The study analyzed seventeen articles and found five themes related to academic integrity, positive perception of student use, teachers and",
+   "score": 0.5146214,
+   "raw_content": null,
+   "id": "cb6e8a-19"
+  }
+ ]
+}

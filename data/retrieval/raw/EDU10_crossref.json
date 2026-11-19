@@ -1,0 +1,768 @@
+{
+ "query": "Learning loss after COVID-19 school closures",
+ "retrieved_at": "2026-11-18T17:54:57.890559+00:00",
+ "data": [
+  {
+   "publisher": "Center for Open Science",
+   "abstract": "<p>Suspension of face-to-face instruction in schools during the COVID-19 pandemic has led to concerns about consequences for student learning. So far, data to study this question have been limited. Here we evaluate the effect of school closures on primary school performance using exceptionally rich data from the Netherlands (n≈350,000). We use the fact that national exams took place before and after lockdown, and compare progress during this period to the same period in the three previous years. The Netherlands underwent only a relatively short lockdown (8 weeks), and features an equitable system of school funding and the world's highest rate of broadband access. Still, our results reveal a learning loss of about 3 percentile points or 0.08 standard deviations. The effect is equivalent to a fifth of a school year, the same period that schools remained closed. Losses are up to 60% larger among students from less-educated homes, confirming worries about the uneven toll of the pandemic on children and families. Investigating mechanisms, we find that most of the effect reflects the cumulative impact of knowledge learned rather than transitory influences on the day of testing. Results remain robust when balancing on the estimated propensity of treatment and using maximum entropy weights, or with fixed-effects specifications that compare students within the same school and family. The findings imply that students made little or no progress whilst learning from home, and suggest losses even larger in countries with weaker infrastructure or longer school closures.</p>",
+   "DOI": "10.31235/osf.io/ve4z7",
+   "type": "posted-content",
+   "title": [
+    "Learning Loss Due to School Closures During the COVID-19 Pandemic"
+   ],
+   "author": [
+    {
+     "given": "Per",
+     "family": "Engzell",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5044-1432",
+     "authenticated-orcid": true,
+     "given": "Arun",
+     "family": "Frey",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mark D.",
+     "family": "Verhagen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      29
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.31235/osf.io/ve4z7"
+  },
+  {
+   "DOI": "10.5040/9798881831677.0006",
+   "title": [
+    "Unfinished Learning Discussion Guide"
+   ],
+   "container-title": [
+    "Unfinished Learning"
+   ],
+   "publisher": "Rowman & Littlefield Publishers",
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798881831677.0006"
+  },
+  {
+   "DOI": "10.1080/00131911.2021.1966389",
+   "title": [
+    "Learning disruption or learning loss: using evidence from unplanned closures to inform returning to school after COVID-19"
+   ],
+   "container-title": [
+    "Educational Review"
+   ],
+   "publisher": "Informa UK Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      17
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1080/00131911.2021.1966389",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2846-5064",
+     "authenticated-orcid": false,
+     "given": "Sinéad",
+     "family": "Harmey",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "International Literacy Centre, Department of Learning and Leadership, UCL Institute of Education, London, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4441-2974",
+     "authenticated-orcid": false,
+     "given": "Gemma",
+     "family": "Moss",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Literacy Centre, Department of Learning and Leadership, UCL Institute of Education, London, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.18356/25206796-2020-13",
+   "title": [
+    "COVID-19: Effects of School Closures on Foundational Skills and Promising Practices for Monitoring and Mitigating Learning Loss"
+   ],
+   "container-title": [
+    "Innocenti Working Papers"
+   ],
+   "publisher": "United Nations Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      19
+     ]
+    ]
+   },
+   "type": "report-series",
+   "URL": "https://doi.org/10.18356/25206796-2020-13"
+  },
+  {
+   "DOI": "10.17760/d20476882",
+   "title": [
+    "Mitigating learning disruption: school leadership sensemaking and preparation for blended and remote learning during COVID-19 school closures"
+   ],
+   "publisher": "Northeastern University Library",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.17760/d20476882",
+   "author": [
+    {
+     "given": "Lenneen",
+     "family": "Gibson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1596/34659",
+   "title": [
+    "Learning Losses in Pakistan Due to COVID-19 School Closures"
+   ],
+   "publisher": "World Bank, Washington, DC",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1596/34659",
+   "author": [
+    {
+     "given": "Koen",
+     "family": "Geven",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Amer",
+     "family": "Hasan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.56506/rimk9519",
+   "title": [
+    "The Impact of COVID-19 School Closures on Learning Outcomes: Evidence from Viet Nam"
+   ],
+   "publisher": "Asian Development Bank Institute",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      26
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.56506/rimk9519"
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>We document large temporal and geographical discrepancies among prominent trackers that measure in-person, hybrid, and remote schooling in the U.S. during COVID-19. We then propose a new measure of effective in-person learning (EIPL) that combines information on schooling modes with cell phone data on school visits and estimate it for a large, representative sample of U.S. public and private schools. The EIPL measure, which we make publicly available, resolves the discrepancies across trackers and is more suitable for many quantitative questions. Consistent with other studies, we find that a school’s share of non-white students and pre-pandemic grades and size are associated with less in-person learning during the 2020-21 school year. Notably, we also find that EIPL was lower for schools in more affluent and educated localities with higher pre-pandemic spending and more emergency funding per student. These results are in large part accounted for by systematic regional differences, in particular political preferences.</jats:p>",
+   "DOI": "10.2139/ssrn.3963981",
+   "type": "posted-content",
+   "title": [
+    "School Closures and Effective In-Person Learning during COVID-19"
+   ],
+   "author": [
+    {
+     "given": "Andre",
+     "family": "Kurmann",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8611-7194",
+     "authenticated-orcid": true,
+     "given": "Etienne",
+     "family": "Lalé",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.3963981"
+  },
+  {
+   "DOI": "10.3102/ip.26.2279573",
+   "title": [
+    "Comparison of Adolescent SEL Attributes Before, During, and After COVID-19 School Closures"
+   ],
+   "container-title": [
+    "AERA 2026"
+   ],
+   "publisher": "AERA",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.3102/ip.26.2279573",
+   "author": [
+    {
+     "given": "Summer",
+     "family": "Blount",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Wingate University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.64628/aam.r7jnyq3tp",
+   "title": [
+    "After Ontario’s COVID-19 school closures, a responsive recovery plan is critical"
+   ],
+   "publisher": "The Conversation Media Group Ltd",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      31
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.64628/aam.r7jnyq3tp",
+   "author": [
+    {
+     "given": "Paul",
+     "family": "Bennett",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Saint Mary’s University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5040/9798881831677.ch3",
+   "title": [
+    "The Permanent “Temporary” School Closures"
+   ],
+   "container-title": [
+    "Unfinished Learning"
+   ],
+   "publisher": "Rowman & Littlefield Publishers",
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9798881831677.ch3"
+  },
+  {
+   "publisher": "Center for Open Science",
+   "abstract": "<p>Key Points-Student absences after the first wave of Covid-19 school closures were higher than in previous years-Higher rates of absenteeism after school lockdown were due to COVID-19 related reasons-Overall, non-Covid-19-related absence rates are similar to trends observed in earlier years -Socioeconomic inequalities in school absenteeism were higher post-lockdown than in previous years-This increase can be attributed to rising disparities in school absenteeism due to Covid-19-related and non-Covid-19 reasons-The rise in socioeconomic inequality in non-Covid-19related absenteeism was not only due to higher absence rates among students from the most deprived areas but also due to lower absence rates among students from the least deprived areas-Addressing the  disproportionate short- and long-term  impact of the pandemic on the most vulnerable children needs to be at the forefront of policy agenda-We need greater monitoring and evaluation ofoinequalities in home learning during the second round of school closuresoinequalities in academic achievement after school reopening opolicy interventions designed to mitigate the consequences of Covid-19 on achievement gaps.</p>",
+   "DOI": "10.31235/osf.io/f4jsy",
+   "type": "posted-content",
+   "title": [
+    "Socioeconomic disparities in school absenteeism after the first wave of COVID-19 school closures in Scotland"
+   ],
+   "author": [
+    {
+     "given": "Edward",
+     "family": "Sosu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1195-8938",
+     "authenticated-orcid": true,
+     "given": "Markus",
+     "family": "Klein",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      1,
+      14
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.31235/osf.io/f4jsy"
+  },
+  {
+   "DOI": "10.48152/ssrp-9vc2-gp37",
+   "title": [
+    "Reproduction of 'COVID-19, School Closures, and Outcomes'"
+   ],
+   "publisher": "Social Science Reproduction Platform",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      2,
+      13
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.48152/ssrp-9vc2-gp37"
+  },
+  {
+   "publisher": "Research on Improving Systems of Education (RISE)",
+   "abstract": "<jats:p>This paper presents the findings of research undertaken in Ethiopia to examine the effects of COVID-19 school closures on children’s holistic learning, including both socio-emotional and academic learning. It draws on data collected in 2019 (prior to the pandemic) and 2021 (after schools reopened) to compare primary pupils’ learning before and after the school closures. In particular, the study adapts self-reporting scales that have been used in related contexts to measure Grade 3 and 6 children’s social skills, self-efficacy, emotional regulation and mental health and wellbeing, along with literacy and numeracy. Lesson observations were also undertaken to explore teachers’ behaviours to foster socio-emotional learning (SEL) in the classroom.  The findings advance current knowledge in several respects. First, they quantify the decline in Ethiopian pupils’ social skills over the period of the school closures. Second, they identify a significant and strong relationship between learners’ social skills and their numeracy, even after taking other factors into account. Third, they reveal a significant association between children’s social skills and their mental health and wellbeing, highlighting the importance of interpersonal interactions to safeguard children’s holistic welfare. The paper concludes by proposing a model for understanding the relationship between learners’ SEL and academic outcomes, and with recommendations for education planning and practice, in Ethiopia and elsewhere.</jats:p>",
+   "DOI": "10.35489/bsg-rise-wp_2021/082",
+   "type": "report",
+   "title": [
+    "Socio-Emotional and Academic Learning Before and After COVID-19 School Closures: Evidence from Ethiopia"
+   ],
+   "author": [
+    {
+     "given": "Stephen",
+     "family": "Bayley",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Darge",
+     "family": "Wole Meshesha",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Paul",
+     "family": "Ramchandani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Pauline",
+     "family": "Rose",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tassew",
+     "family": "Woldehanna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Louise",
+     "family": "Yorke",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      11,
+      17
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.35489/bsg-rise-wp_2021/082"
+  },
+  {
+   "DOI": "10.48152/ssrp-5r6c-sg90",
+   "title": [
+    "Reproduction of 'COVID-19, School Closures, and Outcomes'"
+   ],
+   "publisher": "Social Science Reproduction Platform",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      2,
+      12
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.48152/ssrp-5r6c-sg90"
+  },
+  {
+   "DOI": "10.4324/9781003324096-5",
+   "title": [
+    "School Closures During the COVID-19 Pandemic"
+   ],
+   "container-title": [
+    "Pandemic Pedagogies"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1,
+      4
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003324096-5",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9281-245X",
+     "authenticated-orcid": false,
+     "given": "Serena",
+     "family": "Nanda",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7207-6918",
+     "authenticated-orcid": false,
+     "given": "J. Michael",
+     "family": "Ryan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.64628/aam.d6whq5wwd",
+   "title": [
+    "Strong relationships help kids catch up after 6 months of COVID-19 school closures"
+   ],
+   "publisher": "The Conversation Media Group Ltd",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      17
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.64628/aam.d6whq5wwd",
+   "author": [
+    {
+     "given": "Lisa",
+     "family": "Bayrami",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Lakehead University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.13056/acamh.18071",
+   "title": [
+    "The Mental Health Impact of COVID-19 School Closures"
+   ],
+   "publisher": "ACAMH",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      11,
+      4
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.13056/acamh.18071",
+   "abstract": "<jats:p xml:lang=\"en\">The focus of this podcast is on the JCPP Advances paper ‘Covid-19 partial school closures and mental health problems: a cross sectional survey of 11,000 adolescents to determine those most at risk’, written by Dr. Karen Mansfield, Associate Professor Mina Fazel, and colleagues.</jats:p>"
+  },
+  {
+   "publisher": "Chitkara University Publications",
+   "abstract": "<jats:p>Background: Learning losses does not mean forgetting only curricular learning but slipping back of fundamental learning abilities that learner would have acquired during schooling. School closures in India have severely disrupted learning processes of children resulting in learning losses and social gaps in academic outcomes. Though school closure is a global phenomenon, its adverse effects on learning outcomes are unevenly distributed in the society. Purpose: The paper aims to trace the phenomenon of learning losses resulting from a prolonged school closures during COVID 19 pandemic at the national level since march 2020.The study further is directed to trace accessibilities and uses of digital resources in India. Method: The study used secondary sources of data mainly of Bihar to ascertain the trend of learning losses. The data were regenerated to measure the emerging trend. Results: Learning loss was unevenly distributed in the society. Those who were digitally equipped had compensated their learning losses during school closures. The Bihar had mere 5 per cent computer and 15 internet facilities. The rural households had only 3 per cent computer and 13 per cent internet facilities. Primary grade children especially of disadvantaged groups in Bihar suffered more because they have very limited home learning resources. Learning crisis was more prominent at elementary school level where both the home resources and digital tools were inadequate. They spent hours in surfing social media for private purposes. The phenomenon of cyber loafing was widely seen among young students, showing a serious problem of internet abuse by secondary school students. Conclusion: Despite constraints Bihar managed to continue school learning programme during COVID 19. It had a largest force of digitally-equipped teachers (about 1.25 lakh) known as Potential Learning Community (PLC) who were ready to deliver e-contents to beneficiaries. Teachers established connectivity with parents and learners who had no android mobile. They started running Schools on Mobile (SOM) classes. The paper discusses learning recovery plan such as engaging community, reallocating resources for schools, etc.</jats:p>",
+   "DOI": "10.15415/iie.2022.101002",
+   "type": "journal-article",
+   "title": [
+    "School Closures: Facing Challenges of Learning Loss in India"
+   ],
+   "author": [
+    {
+     "name": "Department of Psychology, Tilka Manjhi Bhagalpur University, Bhagalpur, Bihar – 812007, India",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6851-5324",
+     "authenticated-orcid": false,
+     "given": "Chandra B P",
+     "family": "Singh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Issues and Ideas in Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.15415/iie.2022.101002"
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>We match cell phone data to administrative school records and combine it with information on school learning modes to study effective in-person learning (EIPL) in the U.S. during the pandemic. We find large differences in EIPL for the 2020-21 school year. Public schools averaged less EIPL than private schools. Schools in more affluent localities and schools with a larger share of non-white students provided lower EIPL. Higher school spending and federal emergency funding is associated with lower EIPL. These results are explained in large part by regional differences, reflecting political preferences, vaccination rates, teacher unionization rates, and local labor conditions.</jats:p>",
+   "DOI": "10.2139/ssrn.4114107",
+   "type": "posted-content",
+   "title": [
+    "School Closures and Effective In-Person Learning During Covid-19: When, Where, and for Whom"
+   ],
+   "author": [
+    {
+     "given": "Andre",
+     "family": "Kurmann",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8611-7194",
+     "authenticated-orcid": true,
+     "given": "Etienne",
+     "family": "Lalé",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.4114107"
+  }
+ ]
+}

@@ -1,0 +1,752 @@
+{
+ "query": "Early childhood education and later academic performance",
+ "retrieved_at": "2026-11-18T17:51:07.569386+00:00",
+ "data": [
+  {
+   "paperId": "830ca89fa434a1ae29053909bd4b43ace0b0ce66",
+   "externalIds": {
+    "DOI": "10.71097/ijsat.v16.i4.9127",
+    "CorpusId": 282896016
+   },
+   "url": "https://www.semanticscholar.org/paper/830ca89fa434a1ae29053909bd4b43ace0b0ce66",
+   "title": "Exploring Parental Perspectives On Early Childhood Education Schemes And Policy Relevance And Impact",
+   "venue": "International Journal for Sciences and Technology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.ijsat.org/papers/2025/4/9127.pdf",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.71097/ijsat.v16.i4.9127?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.71097/ijsat.v16.i4.9127, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-10-31",
+   "authors": [
+    {
+     "authorId": "2391588031",
+     "name": "Mounica Perimishetty"
+    },
+    {
+     "authorId": "2391585228",
+     "name": "Surendranadha Katari"
+    },
+    {
+     "authorId": "2391584579",
+     "name": "Lalu Jesoth"
+    }
+   ],
+   "abstract": "The period of early childhood education (ECE) is crucial in shaping a child's future, as it forms the basis for later academic performance and social skills. In recognition of this importance, various governments have launched numerous ECE programs and policies designed to enhance the learning experiences of young children. However, understanding the perspectives of parents on these programs and policies is vital to ensure their efficacy and relevance in practice. his study aims to explore parental perspectives on ECE schemes and policy relevance and impact in Tirupati municipality. A mixed-methods approach was employed, combining both quantitative and qualitative data collection and analysis methods. A survey questionnaire was administered to 50 parents of children aged 3-6 years, enrolled in ECE programs. The data was collected by using simple random sampling technique. The study revealed that parents have a poor knowledge of ECE schemes and policies, recognizing their importance in supporting children's early learning and development. However, parents also identified several challenges. The study also highlighted the need for greater parental involvement in ECE policy development and implementation. This study provides valuable insights into parental perspectives on ECE schemes and policy relevance and impact. The findings have implications for policymakers, educators, and practitioners, highlighting the need for more effective collaboration and communication with parents to ensure that ECE schemes and policies meet the needs of young children and their families."
+  },
+  {
+   "paperId": "f7175a002d51257571f5aad49467895f805fe04a",
+   "externalIds": {
+    "DOI": "10.1080/10409289.2025.2559429",
+    "CorpusId": 281289260
+   },
+   "url": "https://www.semanticscholar.org/paper/f7175a002d51257571f5aad49467895f805fe04a",
+   "title": "Self-Regulation Profiles and Social Competence in Early Childhood: A Person-Centered Approach",
+   "venue": "Early Education and Development",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10409289.2025.2559429?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10409289.2025.2559429, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-10",
+   "authors": [
+    {
+     "authorId": "2484256697",
+     "name": "Mahmut Sami Gürdal"
+    },
+    {
+     "authorId": "35530331",
+     "name": "I. Acar"
+    }
+   ],
+   "abstract": "ABSTRACT Research Findings: Social competence in early childhood serves as a foundation for later developmental and academic outcomes. Although self-regulation is widely recognized as a key contributor to social competence, previous studies have primarily employed variable-centered approaches to examine the relation between self-regulation and social competence. In the current study, we adopted a person-centered approach to construct self-regulation profiles and examined the relation between these profiles and social competence. A total of 607 children (Mage = 56.89 months, 54% male) participated in the study, in which self-regulation was measured using performance-based assessments and social competence was assessed through teacher-reported measures. Latent profile analysis identified three self-regulation profiles: “optimal self-regulators” (71%), “moderate self-regulators” (12%), and “challenged self-regulators” (17%). The results indicated that children in the optimal self-regulators profile exhibited higher levels of social competence compared to those in the moderate and challenged self-regulator profiles. Practice or Policy: Findings highlight the need for tailoring self-regulation interventions to children’s distinct self-regulation profiles, as a one-size-fits-all approach may be less effective in promoting social competence."
+  },
+  {
+   "paperId": "23911f58b77a15f17a072fd87ae2581b322ef918",
+   "externalIds": {
+    "MAG": "3034147097",
+    "PubMedCentral": "7289974",
+    "DOI": "10.3389/fpsyg.2020.01044",
+    "CorpusId": 219313162,
+    "PubMed": "32581931"
+   },
+   "url": "https://www.semanticscholar.org/paper/23911f58b77a15f17a072fd87ae2581b322ef918",
+   "title": "Association Between Preschoolers’ Specific Fine (But Not Gross) Motor Skills and Later Academic Competencies: Educational Implications",
+   "venue": "Frontiers in Psychology",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01044/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7289974, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-06-05",
+   "authors": [
+    {
+     "authorId": "1401771765",
+     "name": "E. Escolano-Pérez"
+    },
+    {
+     "authorId": "1422327561",
+     "name": "M. Herrero-Nivela"
+    },
+    {
+     "authorId": "31592623",
+     "name": "J. Losada"
+    }
+   ],
+   "abstract": "Motor development is an inseparable component of cognitive development. So, to develop the mind, it is necessary to work the body. Therefore, Early Childhood Education curricula and the scientific literature emphasize the need to promote the development of motor skills during the 1st years of life. These skills are necessary for learning and subsequent academic performance. However, studies frequently offer only a partial view of these relationships. Few works have analyzed the specific relationships between different components of preschool gross and fine motor skills and subsequent performance on different academic competencies. Further, they present discrepant results. The aim of this study was to determinate which specific components of gross and fine motor skills assessed in Spanish students during the final year of Early Childhood Education (5 to 6-year-olds) were associated with different academic competencies assessed in the following academic year, when the students were in their 1st year of Primary Education. The final sample consisted of 38 Spanish students, aged 5. A mixed methods approach was used. It consisted of systematic observation to assess specific components of gross and fine motor skills when children were in the Early Childhood Education period, and selective methodology to evaluate their academic competencies (specifically in literacy and mathematics and overall), 1 year later, once in Primary Education. Multiple linear regression models were constructed using the computing language R to examine the association between motor skills and academic competencies. The results indicated that only the components of fine motor skills showed associations with academic competencies. The pattern of association varied when literacy and mathematics competencies were specifically and individually assessed and when overall academic competency was considered. The two assessed fine motor skills (Coordination and Integration) were associated with literacy competency (β = 0.344, p = 0.025; β = 0.349, p = 0.024, respectively) and overall academic competency (β = 0.267, p = 0.065; β = 0.493, p = 0.001, respectively). However, only Integration was associated with mathematics competency (β = 0.476, p = 0.002). The “Discussion” section focuses on the educational implications of these results and future research. It highlights the importance of early assessment of fine motor skills to identify students likely to present inadequate subsequent academic performance and the need to apply instruction and interventions tailored to the specific needs of each child."
+  },
+  {
+   "paperId": "3514f0b8311aa12a53978d86923f686b9ee87615",
+   "externalIds": {
+    "DOI": "10.1177/01650254221116878",
+    "CorpusId": 251660783
+   },
+   "url": "https://www.semanticscholar.org/paper/3514f0b8311aa12a53978d86923f686b9ee87615",
+   "title": "Prediction from early childhood vocabulary to academic achievement at the end of compulsory schooling in Denmark",
+   "venue": "International Journal of Behavioral Development",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://pure.au.dk/portal/en/publications/75f78f71-99a8-465a-ac10-89b9c222827b",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/01650254221116878?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/01650254221116878, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-08-16",
+   "authors": [
+    {
+     "authorId": "35093426",
+     "name": "P. Dale"
+    },
+    {
+     "authorId": "144102097",
+     "name": "Alexander Paul"
+    },
+    {
+     "authorId": "10681748",
+     "name": "M. Rosholm"
+    },
+    {
+     "authorId": "3708725",
+     "name": "D. Bleses"
+    }
+   ],
+   "abstract": "Prediction from early development to later achievement has the potential to improve clinical and educational service delivery as well as to inform developmental theory. In this longitudinal study, we asked how well can educational achievement measured in the final year (Grade 9, age 15) of compulsory education—both overall and for outcomes in the lowest 20%—be predicted from information available in the first 3 years of life, particularly early expressive vocabulary? Measures for 2,767 children (1,345 males, 1,422 females) aged 16 to 30 months on early expressive vocabulary, along with family socioeconomic status (parental education, occupation, and household income), other demographic information (gender, birth order, parental age, social benefits, etc.), timing and nature of early child care, and early home literacy experience, were used to predict performance on Danish Upper Secondary School Leaving Exam (USSLE) in Danish, English, Math, and Science. A cross-validated combination of Lasso (Least absolute shrinkage and selection operator) and ordinary least squares regression was the primary analysis for continuous outcomes and cross-validated Lasso and logistic regression for categorical outcomes. With respect to continuous outcome measures, the patterns of prediction varied with specific domain; R2 ranged from 9.4% to 21.4%. With respect to low USSLE performance, area under the curve statistics ranged from 64.1% to 72.2%. In all domains, early childhood expressive vocabulary made a significant unique contribution to the outcome when measured over the full range. The prediction was also significant for vocabulary to low Danish and English scores although not for Math and Science. Although the predictions were not strong enough for clinical diagnosis on their own, they demonstrate that low early vocabulary is an important and measurable risk condition that can direct early intervention and thus contribute to later educational attainment."
+  },
+  {
+   "paperId": "450bbf1452685a427a3d8b06a4cd9f8b596e1afb",
+   "externalIds": {
+    "DOI": "10.58578/ajecee.v6i1.8855",
+    "CorpusId": 285564100
+   },
+   "url": "https://www.semanticscholar.org/paper/450bbf1452685a427a3d8b06a4cd9f8b596e1afb",
+   "title": "Early Intervention as the Foundation for Early Childhood Math Learning",
+   "venue": "Asian Journal of Early Childhood and Elementary Education",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://ejournal.yasin-alsys.org/AJECEE/article/download/8855/6662",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58578/ajecee.v6i1.8855?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58578/ajecee.v6i1.8855, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-02-11",
+   "authors": [
+    {
+     "authorId": "116740997",
+     "name": "Onoshakpokaiye E. Odiri"
+    },
+    {
+     "authorId": "2410603732",
+     "name": "Onyekeshin Ishioma Blessing"
+    }
+   ],
+   "abstract": "This study examines the effects of focused instructional strategies on young children’s conceptual growth in mathematical reasoning and explores how early numeracy abilities influence later mathematical achievement and broader cognitive development. Drawing on empirical research from diverse educational settings, it compares traditional instruction and play-based learning (PBL), both of which are shown to support the development of early arithmetic skills, with particular attention to student engagement, cognitive growth, and numeracy competence. The review analyzes how early mathematical skills, such as number sense, spatial reasoning, and problem-solving—shape academic performance into adolescence and discusses the roles of play-based learning, technology-enhanced approaches, and structured instruction in fostering these foundational concepts. Employing a qualitative approach, the study synthesizes relevant literature on cognitive readiness, early childhood mathematics development, instructional and play-based interventions, and conceptual growth in early mathematics, as well as the longitudinal impact of early childhood mathematics on later academic outcomes. Overall, the findings underscore early intervention as a critical foundation for early childhood mathematics learning and highlight the need for carefully designed pedagogical strategies that integrate play, explicit instruction, and rich learning environments to optimize young children’s mathematical and cognitive development."
+  },
+  {
+   "paperId": "b5a336ca36a095e425ae12d88b7072970cccc5cb",
+   "externalIds": {
+    "MAG": "2509757613",
+    "DOI": "10.18356/1E244E84-EN",
+    "CorpusId": 59323009
+   },
+   "url": "https://www.semanticscholar.org/paper/b5a336ca36a095e425ae12d88b7072970cccc5cb",
+   "title": "Does the contribution made by early education to later academic achievement differ in Latin America?: PISA 2009-2012",
+   "venue": "",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "http://hdl.handle.net/11336/53938",
+    "status": "GREEN",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18356/1E244E84-EN?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18356/1E244E84-EN, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2016-09-23",
+   "authors": [
+    {
+     "authorId": "1834063",
+     "name": "L. Gamboa"
+    },
+    {
+     "authorId": "2480761539",
+     "name": "Natalia Krüger"
+    }
+   ],
+   "abstract": "This article provides evidence regarding differences in the performance on academic tests in secondary school between students who had attended preschool and those who had not. A non-parametric method based on the generation of counterfactuals to decompose gaps between observable and unobservable factors is used to analyse data gathered by the Programme for International Student Assessment (PISA) between 2009 and 2012 for a number of Latin American countries. This analysis reveals the existence of socioeconomic segregation in terms of access; considerable score differentials (conditional on the controls used), which increase in line with the length of time spent in early childhood education; and significant differences across countries with regard to those differentials, which also tend to be greater in the case of reading test scores than in mathematics test scores."
+  },
+  {
+   "paperId": "9bea21075d762389673f64ccddd2a34f3b6523cc",
+   "externalIds": {
+    "MAG": "1515686355",
+    "DOI": "10.1057/eej.2015.6",
+    "CorpusId": 2707649
+   },
+   "url": "https://www.semanticscholar.org/paper/9bea21075d762389673f64ccddd2a34f3b6523cc",
+   "title": "Benefits of Education at the Intensive Margin: Childhood Academic Performance and Adult Outcomes among American Immigrants",
+   "venue": "Eastern Economic Journal",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1057/eej.2015.6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1057/eej.2015.6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2015-03-23",
+   "authors": [
+    {
+     "authorId": "104665665",
+     "name": "Deniz Gevrek"
+    },
+    {
+     "authorId": "97019670",
+     "name": "Z. E. Gevrek"
+    },
+    {
+     "authorId": "35178743",
+     "name": "Cahit Guven"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "27bff250cf1c07116ea0dcbc69c5e36ebda0b7c2",
+   "externalIds": {
+    "MAG": "2111005094",
+    "DOI": "10.1111/cdev.12221",
+    "CorpusId": 10797388,
+    "PubMed": "24476334"
+   },
+   "url": "https://www.semanticscholar.org/paper/27bff250cf1c07116ea0dcbc69c5e36ebda0b7c2",
+   "title": "Planning in middle childhood: early predictors and later outcomes.",
+   "venue": "Child Development",
+   "year": 2014,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cdev.12221",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/cdev.12221?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/cdev.12221, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Study",
+    "JournalArticle"
+   ],
+   "publicationDate": "2014-07-01",
+   "authors": [
+    {
+     "authorId": "31523175",
+     "name": "S. Friedman"
+    },
+    {
+     "authorId": "5155578",
+     "name": "E. Scholnick"
+    },
+    {
+     "authorId": "2542615403",
+     "name": "Randall H. Bender"
+    },
+    {
+     "authorId": "4906642",
+     "name": "N. Vandergrift"
+    },
+    {
+     "authorId": "3069927",
+     "name": "S. Spieker"
+    },
+    {
+     "authorId": "1404468069",
+     "name": "K. Hirsh-Pasek"
+    },
+    {
+     "authorId": "49802542",
+     "name": "D. Keating"
+    },
+    {
+     "authorId": "2110419956",
+     "name": "Yoonjung Park"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "241ac1614285e1c3383c441901829a1db65ed333",
+   "externalIds": {
+    "MAG": "2943138829",
+    "CorpusId": 155182518
+   },
+   "url": "https://www.semanticscholar.org/paper/241ac1614285e1c3383c441901829a1db65ed333",
+   "title": "INFLUENCE OF SELECTED FACTORS ON ACADEMIC PERFORMANCE OF PUBLIC PRESCHOOL LEARNERS IN NYERI CENTRAL SUB-COUNTY, NYERI COUNTY, KENYA",
+   "venue": "",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2019-03-02",
+   "authors": [
+    {
+     "authorId": "122246906",
+     "name": "Zipporah Nduta Mureithi"
+    },
+    {
+     "authorId": "113692907",
+     "name": "B. N. Mwangi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "0eee7e343758ad512ca031c61f6f01d8a6b653d3",
+   "externalIds": {
+    "MAG": "2340887014",
+    "PubMedCentral": "6687065",
+    "DOI": "10.1597/15-185",
+    "CorpusId": 30713244,
+    "PubMed": "27043652"
+   },
+   "url": "https://www.semanticscholar.org/paper/0eee7e343758ad512ca031c61f6f01d8a6b653d3",
+   "title": "Oral clefts and academic performance in adolescence: the impact of anesthesia-related neurotoxicity, timing of surgery and type of oral clefts",
+   "venue": "The Cleft Palate-Craniofacial Journal",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6687065/",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6687065, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2016-04-04",
+   "authors": [
+    {
+     "authorId": "3511869",
+     "name": "N. G. Clausen"
+    },
+    {
+     "authorId": "10248984",
+     "name": "D. Pedersen"
+    },
+    {
+     "authorId": "40155398",
+     "name": "J. Pedersen"
+    },
+    {
+     "authorId": "1394285955",
+     "name": "S. Møller"
+    },
+    {
+     "authorId": "12208186",
+     "name": "D. Grosen"
+    },
+    {
+     "authorId": "3552280",
+     "name": "G. Wehby"
+    },
+    {
+     "authorId": "144061761",
+     "name": "K. Christensen"
+    },
+    {
+     "authorId": "34234373",
+     "name": "T. Hansen"
+    }
+   ],
+   "abstract": "Objective Early life exposure to anesthesia and surgery is suspected to associate with cognitive impairment later in life. We compared academic achievement among adolescents with cleft lip only (CL), cleft palate only (CP), and cleft lip and cleft palate (CLP) with a noncleft control group to investigate whether outcome depends on timing and number of operations during childhood and/or type of oral cleft. Design Nationwide register-based follow-up study. Setting Danish birth cohort 1986 to 1990. Participants Five hundred fifty-eight children with isolated CL (n = 171), CLP (n =222), or CP (n = 195), of which 509 children had been exposed to anesthesia and one or more cleft operation(s), and a 5% sample of the birth cohort (n = 14,677). Main Outcome Measure(s) Test score in the Danish standardized ninth-grade exam and proportion of nonattainment, defined as “results for ninth-grade exam unavailable.” Data adjusted for sex, birth weight, parental age, and parental level of education. Results Compared to controls, children with CL achieved higher scores (mean difference 0.12, 95% CI –0.05; 0.29) and children with CLP presented with lower scores (mean difference –0.06, 95% CI –0.21; 0.09), albeit both statistically insignificant. Children with CP achieved significantly lower scores, mean difference –0.20 (95% CI –0.38; –0.03). Odds ratios for nonattainment at final exam were: CL 0.79 (95% CI 0.46; 1.35), CLP 1.07 (95% CI 0.71; 1.61), CP 2.59 (95% CI 1.78; 3.76). Conclusions Oral cleft type rather than number and timing of anesthesia and operations associate to poorer academic performance. Although a potential neurotoxic effect due to anesthetic agents is not reflected in the data, it cannot be completely excluded."
+  },
+  {
+   "paperId": "738755947d50513de3ecc09b6c0453d2bb71f8ab",
+   "externalIds": {
+    "MAG": "2504435188",
+    "DOI": "10.1108/S0270-402120140000018005",
+    "CorpusId": 151330033
+   },
+   "url": "https://www.semanticscholar.org/paper/738755947d50513de3ecc09b6c0453d2bb71f8ab",
+   "title": "Improvising with Challenging Behavior: Creating New Performances with Children in Early Childhood Special Education",
+   "venue": "",
+   "year": 2014,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1108/S0270-402120140000018005?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/S0270-402120140000018005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2014-07-23",
+   "authors": [
+    {
+     "authorId": "2057395123",
+     "name": "B. O'Neill"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "609f51c39374051e15700d45383716a10141fb37",
+   "externalIds": {
+    "MAG": "2149891938",
+    "CorpusId": 36743523
+   },
+   "url": "https://www.semanticscholar.org/paper/609f51c39374051e15700d45383716a10141fb37",
+   "title": "Childhood Economic Resources, Academic Performance, and the Choice to Leave School at Age Sixteen *",
+   "venue": "",
+   "year": 2003,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at http://pandora.nla.gov.au/pan/31506/20030714-0000/www.ecom.unimelb.edu.au/iaesrwww/wp/wp2003n01.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "46250560",
+     "name": "S. Maani"
+    },
+    {
+     "authorId": "144691375",
+     "name": "G. Kalb"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "553487da996d727e49cf759f5f5f9f5b8a9d66c6",
+   "externalIds": {
+    "MAG": "311690762",
+    "DOI": "10.1177/001440297103700908",
+    "CorpusId": 32720968,
+    "PubMed": "5556906"
+   },
+   "url": "https://www.semanticscholar.org/paper/553487da996d727e49cf759f5f5f9f5b8a9d66c6",
+   "title": "Prevention of Learning Problems: Capsule Summaries of Research Studies in Early Childhood Education",
+   "venue": "The Exceptional Child",
+   "year": 1971,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/001440297103700908?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/001440297103700908, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "1971-05-01",
+   "authors": [
+    {
+     "authorId": "143866364",
+     "name": "Phyllis L. Mcdonald"
+    },
+    {
+     "authorId": "13289074",
+     "name": "Marylane Y. Soeffing"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "da0ef703e80a5155ab735b2ac6b093c9dd6a7ee5",
+   "externalIds": {
+    "DOI": "10.1007/s11423-026-10626-x",
+    "CorpusId": 288787347
+   },
+   "url": "https://www.semanticscholar.org/paper/da0ef703e80a5155ab735b2ac6b093c9dd6a7ee5",
+   "title": "A systematic review of using tablet games to promote early math learning in preschool settings: effectiveness and influencing factors",
+   "venue": "Educational technology research and development",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11423-026-10626-x.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11423-026-10626-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11423-026-10626-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-05-28",
+   "authors": [
+    {
+     "authorId": "2332886003",
+     "name": "Jing Chen"
+    }
+   ],
+   "abstract": "Early mathematical competence is a key predictor of children’s academic performance in mathematics in later years. To promote early mathematics learning, especially to narrow the performance gap between children from low and high socio-economic status (SES) backgrounds, an increasing number of educational interventions have used digital game-based learning (DGBL) as a strategy in early childhood education settings. However, existing studies have not comprehensively reviewed the effectiveness of implemented tablet-based DGBL in preschool settings. These studies have also failed to provide a comprehensive analysis of the factors that may influence the effectiveness of tablet-based DGBL implementation. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, this study systematically reviewed 30 articles (encompassing 33 individual studies) sourced from six databases: Scopus, Web of Science, ProQuest, ERIC, Education Full Text, and PsycINFO, and citation searching. This review found that 29 out of 33 (88%) studies reported positive effects of tablet-based DGBL in early childhood mathematics education. In addition, most of these studies employed rigorous methodological frameworks, which enhanced the credibility of the effectiveness of tablet-based DGBL. Furthermore, this study identified four levels of influencing factors that may contribute to the effectiveness of tablet-based DGBL. Finally, practical recommendations for the successful implementation of tablet-based DGBL were proposed."
+  },
+  {
+   "paperId": "3f44420659f3fb414169b388c9058553828b4b41",
+   "externalIds": {
+    "MAG": "314079138",
+    "CorpusId": 142251866
+   },
+   "url": "https://www.semanticscholar.org/paper/3f44420659f3fb414169b388c9058553828b4b41",
+   "title": "A Sequential Approach to Early Childhood and Elementary Education.",
+   "venue": "",
+   "year": 1969,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": "1969-12-01",
+   "authors": [
+    {
+     "authorId": "2494059753",
+     "name": "V. van de Riet"
+    },
+    {
+     "authorId": "49235487",
+     "name": "M. Resnick"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "e989cf04bd9eecae4d4afd011870c33232a3fe0f",
+   "externalIds": {
+    "MAG": "2790969386",
+    "PubMedCentral": "6368268",
+    "DOI": "10.1080/10409289.2018.1446880",
+    "CorpusId": 73435437,
+    "PubMed": "30745790"
+   },
+   "url": "https://www.semanticscholar.org/paper/e989cf04bd9eecae4d4afd011870c33232a3fe0f",
+   "title": "Executive Function Mediates the Association between Toddler Negative Affectivity and Early Academic Achievement",
+   "venue": "Early Education and Development",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "http://europepmc.org/pmc/articles/PMC6368268",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6368268, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2018-03-20",
+   "authors": [
+    {
+     "authorId": "47246606",
+     "name": "Ran Liu"
+    },
+    {
+     "authorId": "3581371",
+     "name": "T. Blankenship"
+    },
+    {
+     "authorId": "10679761",
+     "name": "Alleyne P. R. Broomell"
+    },
+    {
+     "authorId": "151410142",
+     "name": "Tatiana Garcia Meza"
+    },
+    {
+     "authorId": "5260578",
+     "name": "S. Calkins"
+    },
+    {
+     "authorId": "6057482",
+     "name": "M. A. Bell"
+    }
+   ],
+   "abstract": "ABSTRACT Research Findings: We examined the nature of association between toddler negative affectivity (NA) and later academic achievement by testing early childhood executive function (EF) as a mediator that links children’s temperament and their performance on standardized math and reading assessments. One hundred eighty-four children (93 boys, 91 girls) participated in our longitudinal study. Children’s NA was measured at age 2 and EF at age 4. At age 6, academic achievement in reading and mathematics were assessed using the Woodcock-Johnson III Tests of Achievement. Results indicated that NA at age 2 negatively predicted EF at age 4, which positively predicted mathematics achievement and reading achievement at age 6. Age 4 EF mediated the relation between age 2 NA and age 6 academic achievement in both reading and math. These findings highlight the significance of considering both NA and EF in conversations about children’s academic achievement. Practice or Policy: For children with temperamentally high NA, focusing on efforts to enhance emotion regulation and EF during the preschool years may benefit their later mathematics and reading achievement."
+  },
+  {
+   "paperId": "70388a7ac86bdc3fe5a29b3d956b486ba42bc075",
+   "externalIds": {
+    "DOI": "10.56741/bei.v3i03.757",
+    "CorpusId": 275103938
+   },
+   "url": "https://www.semanticscholar.org/paper/70388a7ac86bdc3fe5a29b3d956b486ba42bc075",
+   "title": "Literature Review on Longitudinal Study of Improving Numerical Literacy at Elementary Education",
+   "venue": "Buletin Edukasi Indonesia",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://journal.iistr.org/index.php/BEI/article/download/757/576",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56741/bei.v3i03.757?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56741/bei.v3i03.757, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-12-05",
+   "authors": [
+    {
+     "authorId": "2337594072",
+     "name": "S. Moruk"
+    },
+    {
+     "authorId": "117890262",
+     "name": "D. Sulisworo"
+    }
+   ],
+   "abstract": "Numerical literacy is a fundamental skill in early childhood education, influencing later academic performance and cognitive development. A growing body of research has identified several factors that contribute to the development of numeracy skills, including home learning environments, executive function, socio-emotional skills, and socio-economic status. Understanding these factors is crucial for developing effective interventions that support children’s numeracy growth, especially in elementary education. This literature review synthesizes findings from longitudinal studies published between 2010 and 2024, focusing on the impact of home numeracy environments, executive function, socio-emotional skills, and socio-economic factors on early numeracy development. A total of five studies, with sample sizes ranging from small cohorts to large national samples, were analyzed. These studies employed longitudinal designs, assessing children over multiple years to capture the development of numeracy skills from preschool through elementary education. The review highlights the critical role of home learning environments, parental education, and socio-emotional skills in shaping children’s numeracy development. It also identifies bidirectional associations between cognitive and emotional skills, underscoring the need for integrated approaches to numeracy instruction. Socio-economic status was found to indirectly impact numeracy development, with home literacy and numeracy environments mediating this relationship. Long-term effects of early home-based learning on arithmetic fluency were also observed, emphasizing the importance of fostering supportive environments early in education. This review concludes that targeted interventions in home environments, as well as strategies that integrate cognitive and socio-emotional support, can significantly enhance numerical literacy outcomes in elementary education. Further research is needed to address gaps in understanding how these factors interact across diverse cultural and socio-economic contexts."
+  },
+  {
+   "paperId": "6490a74c9e6a4ece2f74e4dd79586a2c984d60eb",
+   "externalIds": {
+    "MAG": "2292921833",
+    "CorpusId": 74350290
+   },
+   "url": "https://www.semanticscholar.org/paper/6490a74c9e6a4ece2f74e4dd79586a2c984d60eb",
+   "title": "Correlation between lab. nursery sr. section children's academic performance and their selected back-ground variables",
+   "venue": "",
+   "year": 2001,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2573153357",
+     "name": "J. Rodge"
+    },
+    {
+     "authorId": "81555088",
+     "name": "Patanam Vishala"
+    },
+    {
+     "authorId": "66690818",
+     "name": "C. Bellurkar"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "d2d412dc92c1f715ea8fcec94e49ee3769e48be5",
+   "externalIds": {
+    "DOI": "10.1007/s11092-021-09374-8",
+    "CorpusId": 243875190
+   },
+   "url": "https://www.semanticscholar.org/paper/d2d412dc92c1f715ea8fcec94e49ee3769e48be5",
+   "title": "Longitudinal evidence on the predictive validity of the International Development and Early Learning Assessment (IDELA)",
+   "venue": "Educational Assessment, Evaluation and Accountability",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11092-021-09374-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11092-021-09374-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-11-08",
+   "authors": [
+    {
+     "authorId": "34599131",
+     "name": "L. Pisani"
+    },
+    {
+     "authorId": "1381793074",
+     "name": "J. Seiden"
+    },
+    {
+     "authorId": "48031472",
+     "name": "Sharon Wolf"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "c5d837e034d75d71e54d8607b88cbff83d4967e1",
+   "externalIds": {
+    "PubMedCentral": "9343771",
+    "DOI": "10.3389/fnut.2022.874118",
+    "CorpusId": 250705442,
+    "PubMed": "35928843"
+   },
+   "url": "https://www.semanticscholar.org/paper/c5d837e034d75d71e54d8607b88cbff83d4967e1",
+   "title": "Diet Quality and Cognitive Performance in Children Born Very Low Birth Weight",
+   "venue": "Frontiers in Nutrition",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fnut.2022.874118/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9343771, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-07-19",
+   "authors": [
+    {
+     "authorId": "145796914",
+     "name": "Julie Sato"
+    },
+    {
+     "authorId": "153128635",
+     "name": "Meghan McGee"
+    },
+    {
+     "authorId": "39171148",
+     "name": "N. Bando"
+    },
+    {
+     "authorId": "2620126",
+     "name": "N. Law"
+    },
+    {
+     "authorId": "47337209",
+     "name": "S. Unger"
+    },
+    {
+     "authorId": "1396399050",
+     "name": "D. O'Connor"
+    }
+   ],
+   "abstract": "Children born very low birth weight (VLBW, <1,500 g) are at high risk for cognitive and academic difficulties later in life. Although early nutrition (e.g., breastfeeding) is positively correlated with IQ in children born VLBW, the association between dietary intake in childhood and cognitive performance is unknown. Thus, our study is the first to investigate the relationship between diet quality, as measured by the Healthy Eating Index-2010 (HEI-2010) and cognitive performance in a Canadian cohort of 5-year-old children born VLBW (n = 158; 47% female). Diet quality was measured using two 24-h diet recalls obtained from parents and cognitive performance was assessed using the Wechsler Preschool and Primary Scale of Intelligence-IV (WPPSI-IV). To account for additional sociodemographic factors that could influence neurodevelopment, linear regression analyses were adjusted for sex, household income above/below the poverty line, maternal education, birth weight and breastfeeding duration. Mean ± SD HEI-2010 score was 58.2 ± 12.4, with most children (67%) having diets in “need of improvement” (scores 51–80). HEI-2010 scores were not significantly associated with IQ or any other WPPSI-IV composite score. Significant predictors of IQ in our model were birth weight, sex, and maternal education. Our findings emphasize the important role of maternal education and other sociodemographic factors on neurodevelopment in children born VLBW. Further, despite not finding any significant association between HEI-2010 scores and IQ, our results highlight the need to improve diet quality in young children born VLBW. Further research is needed to confirm the impact of diet quality on cognitive performance in this vulnerable population."
+  }
+ ]
+}

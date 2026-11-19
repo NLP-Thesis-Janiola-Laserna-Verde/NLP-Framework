@@ -1,0 +1,1262 @@
+{
+ "query": "Sleep duration and mental health in young adults",
+ "retrieved_at": "2026-11-18T18:10:53.180296+00:00",
+ "data": [
+  {
+   "DOI": "10.1016/j.sleep.2024.01.021",
+   "title": [
+    "Sleep duration and mental health in young adults"
+   ],
+   "container-title": [
+    "Sleep Medicine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.sleep.2024.01.021",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-4185-6599",
+     "authenticated-orcid": false,
+     "given": "Cecilie L.",
+     "family": "Vestergaard",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jens C.",
+     "family": "Skogen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mari",
+     "family": "Hysing",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Allison G.",
+     "family": "Harvey",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Øystein",
+     "family": "Vedaa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Børge",
+     "family": "Sivertsen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1097/01.aog.0000250093.39024.a1",
+   "title": [
+    "Sleep Duration and Health in Young Adults"
+   ],
+   "container-title": [
+    "Obstetrics &amp; Gynecology"
+   ],
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1097/01.aog.0000250093.39024.a1"
+  },
+  {
+   "DOI": "10.1016/j.sleep.2025.108326",
+   "title": [
+    "Differential effects of sleep quality and sleep duration on stress reactivity: implications for mental health and wellbeing of young adults"
+   ],
+   "container-title": [
+    "Sleep Medicine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.sleep.2025.108326",
+   "author": [
+    {
+     "given": "S.",
+     "family": "Gadam",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "K.R.",
+     "family": "Rossa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "C.L.",
+     "family": "Pattinson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S.",
+     "family": "Shekari Soleimanloo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "D.",
+     "family": "Mann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "K.A.",
+     "family": "Sullivan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "P.",
+     "family": "Salmon",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "S.S.",
+     "family": "Smith",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.sleh.2018.11.006",
+   "title": [
+    "The association between food deserts and short sleep duration among young adults in the United States: variation by race and ethnicity"
+   ],
+   "container-title": [
+    "Sleep Health"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.sleh.2018.11.006",
+   "author": [
+    {
+     "given": "Alexander",
+     "family": "Testa",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.sleep.2022.05.251",
+   "title": [
+    "Sleep and mental health in Chilean young adults"
+   ],
+   "container-title": [
+    "Sleep Medicine"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.sleep.2022.05.251",
+   "author": [
+    {
+     "given": "S.",
+     "family": "Reyes",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "C.",
+     "family": "Algarin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "B.",
+     "family": "Lozoff",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "P.",
+     "family": "Peirano",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Sleep and circadian rhythms are considered to be important determinants of mental and physical health. Epidemiological studies have established the contribution of self‐reported sleep duration, sleep quality and chronotype to health outcomes. Mental health and sleep problems are more common in women and men are more likely to be evening types. Few studies have compared the relative strength of these contributions and few studies have assessed these contributions separately in men and women. Furthermore, sleep and circadian characteristics are typically assessed with a limited number of instruments and a narrow range of variables is considered, leaving the understanding of the relative contribution of different predictors somewhat fractionary. We compared sleep quality, sleep duration and chronotype as predictors for self‐reported mental and physical health and psychological characteristics in 410 men and 261 women aged 18 to 30. To ascertain that results were not dependent on the use of specific instruments we used a multitude of validated instruments including the Morningness‐Eveningness‐Questionnaire, Munich‐ChronoType‐Questionnaire, Pittsburgh‐Sleep‐Quality‐Index, British‐Sleep‐Survey, Karolinska‐Sleep‐Diary, Insomnia‐Severity‐Index, SF‐36‐Health Survey, General‐Health‐Questionnaire, Dutch‐Eating‐Behaviour‐Questionnaire, Big‐Five‐Inventory, Behaviour‐Inhibition‐System‐Behaviour‐Activation‐System, and the Positive‐Affect‐Negative‐Affect‐Schedule. Relative contributions of predictors were quantified as local effect sizes derived from multiple regression models. Across all questionnaires, sleep quality was the strongest independent predictor of health and in particular mental health and more so in women than in men. The effect of sleep duration and social jetlag was inconspicuous. A greater insight into the independent contributions of sleep quality and chronotype may aid the understanding of sleep‐health interactions in women and men.</jats:p>",
+   "DOI": "10.1111/jsr.13152",
+   "type": "journal-article",
+   "title": [
+    "Self‐reported sleep quality is more closely associated with mental and physical health than chronotype and sleep duration in young adults: A multi‐instrument analysis"
+   ],
+   "author": [
+    {
+     "given": "Khyla",
+     "family": "Muzni",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Medicine and Health Sciences University of East Anglia Norwich UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "John A.",
+     "family": "Groeger",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Psychology Nottingham Trent University Nottingham UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5314-1008",
+     "authenticated-orcid": false,
+     "given": "Derk‐Jan",
+     "family": "Dijk",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Surrey Sleep Research Centre University of Surrey Guildford UK"
+      },
+      {
+       "name": "UK Dementia Research Institute University of Surrey Guildford UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3147-8229",
+     "authenticated-orcid": false,
+     "given": "Alpar S.",
+     "family": "Lazar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Medicine and Health Sciences University of East Anglia Norwich UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Sleep Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      11
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/jsr.13152"
+  },
+  {
+   "DOI": "10.1001/archinte.166.16.1689",
+   "title": [
+    "Sleep Duration and Health in Young Adults"
+   ],
+   "container-title": [
+    "Archives of Internal Medicine"
+   ],
+   "publisher": "American Medical Association (AMA)",
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      9,
+      18
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1001/archinte.166.16.1689",
+   "author": [
+    {
+     "given": "Andrew",
+     "family": "Steptoe",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1136/ebmh.3.3.81",
+   "title": [
+    "Review: benzodiazepines increase sleep duration but also lead to adverse effects in adults with insomnia"
+   ],
+   "container-title": [
+    "Evidence Based Mental Health"
+   ],
+   "publisher": "BMJ",
+   "issued": {
+    "date-parts": [
+     [
+      2000,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1136/ebmh.3.3.81"
+  },
+  {
+   "publisher": "openRxiv",
+   "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The COVID-19 lockdown brought disruptions to daily life and social schedules which influenced sleep and stress. Young adults, already vulnerable to irregular sleep patterns and heightened psychological stress, may have experienced notable shifts in sleep quality, duration, and circadian alignment during this period.</jats:p>\n                <jats:p>Seventy-nine urban young adults (18–25 years) provided matched pre-lockdown and during-lockdown data via an online survey. Measures included the Pittsburgh Sleep Quality Index (PSQI), Berlin Questionnaire for OSA risk, the National Stressful Events Survey Acute Stress Disorder Short Scale (NSESS-S), and self-reported height and weight for BMI. Social jet lag was derived from sleep timing. Within-participant changes were tested using Wilcoxon signed-rank tests; univariate and multivariate logistic regressions identified predictors of OSA risk.</jats:p>\n                <jats:p>No significant changes were observed in PSQI scores, subjective sleep quality, sleep latency, acute stress, or social jet lag during lockdown. Sleep duration increased slightly, and BMI and social jet lag showed small numerical rises without statistical significance. OSA risk was positively associated with acute stress (p &lt; 0.001), higher BMI (p &lt; 0.05), and poor sleep quality (p &lt; 0.001). In multivariate models, poor sleep quality was the strongest independent predictor of OSA risk, followed by acute stress and BMI. Lifestyle factors, including physical activity, screen time, and ambient noise, showed no significant associations.</jats:p>\n                <jats:p>Flexible schedules during lockdown may have offset expected negative impacts on sleep and stress in this demographic. The strong links between OSA risk, poor sleep quality, and acute stress highlight the need for integrated behavioural and physiological approaches to sleep health in young adults.</jats:p>",
+   "DOI": "10.1101/2025.08.15.25333638",
+   "type": "posted-content",
+   "title": [
+    "Effect of COVID-19 lockdown on sleep quality, sleep duration, and acute stress in Indian young adults"
+   ],
+   "author": [
+    {
+     "given": "Rishabh",
+     "family": "Soni",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ishan",
+     "family": "Gupta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shifa",
+     "family": "Qureshi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nasreen",
+     "family": "Akhtar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      19
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1101/2025.08.15.25333638"
+  },
+  {
+   "DOI": "10.1016/j.sleh.2019.12.007",
+   "title": [
+    "Generational changes in young adults’ sleep duration: a prospective analysis of mother–offspring dyads"
+   ],
+   "container-title": [
+    "Sleep Health"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.sleh.2019.12.007",
+   "author": [
+    {
+     "given": "Abdullah A.",
+     "family": "Mamun",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0744-0688",
+     "authenticated-orcid": false,
+     "given": "James",
+     "family": "Scott",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jake M.",
+     "family": "Najman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gail M.",
+     "family": "Williams",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rosa",
+     "family": "Alati",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yaqoot",
+     "family": "Fatima",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1093/eurpub/ckt123.047",
+   "title": [
+    "Sleep duration and BMI in young adults"
+   ],
+   "container-title": [
+    "European Journal of Public Health"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      10,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1093/eurpub/ckt123.047",
+   "author": [
+    {
+     "given": "CK",
+     "family": "Nikolaou",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "MEJ",
+     "family": "Lean",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "CR",
+     "family": "Hankey",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21275/sr21210114700",
+   "title": [
+    "The Link of Sleep Duration and Sleep Quality with Body Mass Index among Young Adults"
+   ],
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "publisher": "International Journal of Science and Research",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      27
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21275/sr21210114700",
+   "author": [
+    {
+     "given": "Preeti",
+     "family": "Gupta",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sunita",
+     "family": "Tiwari",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Neena",
+     "family": "Srivastava",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Vani",
+     "family": "Gupta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:p>This study analyzed data from the 2009 to 2018 National Health and Nutrition Examination Survey involving 6765 Young adults aged 18–44 (mean age: 32.11 ± 7.16 years; 51.44% male) to examine independent and joint associations of sleep duration and physical activity with hypertension risk. Short sleep (&lt;7 h/day) and no physical activity were significantly associated with increased hypertension risk (OR = 1.28 and 1.15). Short sleep remained a significant risk factor among those with sufficient physical activity (OR = 1.38), while no physical activity increased risk regardless of sleep duration (OR = 1.33). Long sleep and insufficient physical activity showed no significant associations. In conclusion, both short sleep and insufficient physical activity independently increase hypertension risk in young adults, without attenuating each other’s effects. These findings highlight the need for integrated strategies promoting adequate sleep and regular physical activity to mitigate hypertension risk in young adults. Due to the cross-sectional design, causal relationships cannot be established.</jats:p>",
+   "DOI": "10.1177/13591053261458537",
+   "type": "journal-article",
+   "title": [
+    "Hypertension in young adults: Joint Associations of sleep duration and physical activity"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0003-2933-2770",
+     "authenticated-orcid": false,
+     "given": "Minqi",
+     "family": "Huo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Shandong University of Traditional Chinese Medicine, Jinan City, Shandong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0009-6509-8516",
+     "authenticated-orcid": false,
+     "given": "Fang",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "The Second Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan City, Shandong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6426-473X",
+     "authenticated-orcid": false,
+     "given": "Hongmei",
+     "family": "Gao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "The Second Affiliated Hospital of Shandong University of Traditional Chinese Medicine, Jinan City, Shandong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Health Psychology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      17
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/13591053261458537"
+  },
+  {
+   "DOI": "10.14264/e631106",
+   "title": [
+    "Improving sleep health in young adults"
+   ],
+   "publisher": "University of Queensland Library",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.14264/e631106",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5102-0544",
+     "authenticated-orcid": true,
+     "given": "Sylistah",
+     "family": "Gadam",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/00rqy9422",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "department": [
+        "Institute for Social Science Research"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>There is increasing recognition of ‘higher preference for eveningness’ as a potential independent risk factor for poor mental health. To examine the chronotype-mental health relationship while also quantifying the potential roles of poor sleep quality, relevant personality traits, and childhood trauma, we assessed 282 young adults (18–40 years; 195 females) residing in North India, between January and March 2023 (to control for seasonal variation), using self-report measures of diurnal preference, sleep patterns, mental health (depression, anxiety, and stress), personality traits (extraversion, neuroticism, schizotypy, and impulsivity), and childhood trauma. The results showed a significant association between eveningness and poor mental health but this association was fully mediated by poor sleep quality. Neuroticism, emotional abuse and cognitive disorganisation were correlated with eveningness as well as with poor mental health and sleep quality. Neuroticism and emotional abuse, but not cognitive disorganisation, also had indirect effects on mental health via sleep quality. Our findings highlight the crucial role played by sleep quality in the chronotype-mental health relationship.</jats:p>",
+   "DOI": "10.1038/s44184-024-00076-9",
+   "type": "journal-article",
+   "title": [
+    "Sleep quality mediates the association between chronotype and mental health in young Indian adults"
+   ],
+   "author": [
+    {
+     "given": "Satyam",
+     "family": "Chauhan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rakesh",
+     "family": "Pandey",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Krupa",
+     "family": "Vakani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ray",
+     "family": "Norbury",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ulrich",
+     "family": "Ettinger",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Veena",
+     "family": "Kumari",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "npj Mental Health Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      6,
+      24
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1038/s44184-024-00076-9"
+  },
+  {
+   "publisher": "Walter de Gruyter GmbH",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec id=\"j_ijamh-2018-0007_s_999_w2aab3b7c11b1b6b1aab1c14b1Aa\">\n                    <jats:title>Background</jats:title>\n                    <jats:p>The main purpose of the present study was to explore significant associations between sleep duration and sleep quality with poor self-rated health.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"j_ijamh-2018-0007_s_998_w2aab3b7c11b1b6b1aab1c14b2Aa\">\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Subjects were 2100 university students (49.6% of women), aged 18–24 years. The associations between sleep duration and sleep quality with self-rated health were examined by using structured questionnaires.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"j_ijamh-2018-0007_s_997_w2aab3b7c11b1b6b1aab1c14b3Aa\">\n                    <jats:title>Results</jats:title>\n                    <jats:p>After adjusting for sex, body mass index (BMI), socio-economic status, smoking status, alcohol consumption, presence or absence of chronic diseases, psychological distress and physical activity, very short [&lt;6 h, odds ratio (OR) = 4.78; 95% confidence interval (CI) 1.95–11.76] and very long (&gt;10 h, OR = 4.09; 95% CI 2.26–7.39) sleep duration and poor sleep quality (OR = 1.44; 95% CI 1.01–2.05) were associated with poor self-rated health.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"j_ijamh-2018-0007_s_996_w2aab3b7c11b1b6b1aab1c14b4Aa\">\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Our results show both dependent and independent associations between sleep duration and sleep quality with self-rated health in a large sample of young adults. Thus, policies that promote adequate sleep duration and good sleep quality are warranted.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1515/ijamh-2018-0007",
+   "type": "journal-article",
+   "title": [
+    "The associations between sleep duration and sleep quality with self-rated health in young adults: a population-based study"
+   ],
+   "author": [
+    {
+     "given": "Lovro",
+     "family": "Štefan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Kinesiology, Department of General and Applied Kinesiology , University of Zagreb , Horvaćanski zavoj 15 , 10 000 Zagreb , Croatia , Phone: 0385-09891-77-060"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Goran",
+     "family": "Sporiš",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Kinesiology, Department of General and Applied Kinesiology , University of Zagreb , Zagreb , Croatia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tomislav",
+     "family": "Krističević",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Kinesiology, Department of Sports Kinesiology , University of Zagreb , Zagreb , Croatia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Adolescent Medicine and Health"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      10,
+      20
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1515/ijamh-2018-0007"
+  },
+  {
+   "DOI": "10.1016/j.sleh.2023.11.007",
+   "title": [
+    "Rural/nonrural sleep duration patterns among adults in middle and older adulthood"
+   ],
+   "container-title": [
+    "Sleep Health"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.sleh.2023.11.007",
+   "author": [
+    {
+     "given": "Connor M.",
+     "family": "Sheehan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.sleh.2017.03.006",
+   "title": [
+    "Sleep duration and the associated cardiometabolic risk scores in adults"
+   ],
+   "container-title": [
+    "Sleep Health"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.sleh.2017.03.006",
+   "author": [
+    {
+     "given": "Thirumagal",
+     "family": "Kanagasabai",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jean-Philippe",
+     "family": "Chaput",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5664/jcsm.6662",
+   "title": [
+    "Self-Reported Sleep Duration and Self-Rated Health in Young Adults"
+   ],
+   "container-title": [
+    "Journal of Clinical Sleep Medicine"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      7,
+      15
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.5664/jcsm.6662",
+   "author": [
+    {
+     "given": "Lovro",
+     "family": "Štefan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dora",
+     "family": "Juranko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rebeka",
+     "family": "Prosoli",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Renata",
+     "family": "Barić",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Goran",
+     "family": "Sporiš",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5040/9781805017066.ch-017",
+   "title": [
+    "Sleep Problems"
+   ],
+   "container-title": [
+    "The Psychosis and Mental Health Recovery Workbook"
+   ],
+   "publisher": "Jessica Kingsley Publishers",
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9781805017066.ch-017"
+  }
+ ]
+}

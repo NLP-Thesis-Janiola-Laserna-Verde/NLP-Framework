@@ -1,0 +1,774 @@
+{
+ "query": "Hypertension management in primary care",
+ "retrieved_at": "2026-11-18T18:11:04.200360+00:00",
+ "data": [
+  {
+   "DOI": "10.7748/phc2006.04.16.3.27.c600",
+   "title": [
+    "Drug management of hypertension in primary care"
+   ],
+   "container-title": [
+    "Primary Health Care"
+   ],
+   "publisher": "Royal College of Nursing",
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.7748/phc2006.04.16.3.27.c600",
+   "author": [
+    {
+     "given": "Gwen",
+     "family": "Hall",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "abstract": "<jats:p>\n                    <jats:bold>Background:</jats:bold>\n                    Uncontrolled hypertension remains a major driver of cardiovascular morbidity, with up to 40% of treated patients not at goal which was reflected in a local primary care clinic's patient population. Delays in treatment and limited access to follow-up contribute to persistent gaps in control. We evaluated whether a protocol-driven, team-based care model could accelerate blood pressure reduction and improve patient engagement in a rural primary care setting.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Methods:</jats:bold>\n                    We conducted a 16-week pre-post quality improvement study in a rural Vermont primary care clinic. Adults with uncontrolled hypertension were enrolled via provider referral and nursing outreach. The intervention included structured self-management education and antihypertensive medication titration during nurse visits every two weeks using a provider-approved algorithm with defined safety parameters. The primary outcome was change in systolic and diastolic blood pressure. Secondary outcomes included blood pressure control rates, time to goal, access to care (using the third next available appointment metric), patient-reported self-management, and staff acceptance/feasibility. Pre-post differences were analyzed using paired t-tests.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Results:</jats:bold>\n                    Forty patients were enrolled; 32 completed the intervention. Mean systolic blood pressure decreased from 150.1 to 128.4 mmHg (Δ –21.8 mmHg; t = 7.74, p &lt; .001).\n                  </jats:p>\n                  <jats:p>\n                    <jats:italic toggle=\"yes\">Figure 1</jats:italic>\n                  </jats:p>\n                  <jats:p>Mean diastolic blood pressure decreased from 89.2 to 77.6 mmHg (Δ –11.7 mmHg; t =7.01, p &lt; .001).</jats:p>\n                  <jats:p>\n                    <jats:italic toggle=\"yes\">Figure 2</jats:italic>\n                  </jats:p>\n                  <jats:p>At completion, 65% achieved target blood pressure, while an additional 15% improved to within 8/5 mmHg of goal. While there were eight who did not finish the intervention all 40 patients did improve from their baseline blood pressure.</jats:p>\n                  <jats:p>\n                    <jats:italic toggle=\"yes\">Figure 3</jats:italic>\n                  </jats:p>\n                  <jats:p>Mean time to control was 34.9 days or approximately 2.5 nurse visits. Access improved substantially, with same-day nurse visit availability every week compared to a 19-day average wait for provider visits. Patient's self-management scores increased significantly (2.6 to 3.4 on a 4-point Likert scale; p = 0.014), with patients reporting improved knowledge, confidence, and engagement in their care. Staff also reported improved communication and positive feasibility.</jats:p>\n                  <jats:p>\n                    <jats:bold>Conclusions:</jats:bold>\n                    Improving outcomes doesn't need to mean adding more resources, it's about using the ones we already have more effectively. A protocol-driven, team-based care delivery model produced rapid and substantial reductions in blood pressure while improving access and patient engagement. This model represents a practical, scalable strategy to accelerate hypertension control and address persistent gaps in cardiovascular risk reduction.\n                  </jats:p>",
+   "DOI": "10.1161/hyp.83.suppl_1.th142",
+   "type": "journal-article",
+   "title": [
+    "Abstract TH142: Improving Hypertension Management Through an Interdisciplinary Protocol-Driven Care Model in Rural Primary Care"
+   ],
+   "author": [
+    {
+     "given": "Shandi",
+     "family": "Barclay",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Univ of Vermont, Burlington, VT"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Hypertension"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1161/hyp.83.suppl_1.th142"
+  },
+  {
+   "DOI": "10.1016/j.pcd.2022.08.003",
+   "title": [
+    "Effect of primary care-level chronic disease management policy on self-management of patients with hypertension and diabetes in Korea"
+   ],
+   "container-title": [
+    "Primary Care Diabetes"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      10
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.pcd.2022.08.003",
+   "author": [
+    {
+     "given": "Seungju",
+     "family": "Kim",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7748/phc2007.04.17.3.18.c4397",
+   "title": [
+    "Innovation in hypertension management"
+   ],
+   "container-title": [
+    "Primary Health Care"
+   ],
+   "publisher": "Royal College of Nursing",
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.7748/phc2007.04.17.3.18.c4397",
+   "author": [
+    {
+     "given": "Jo",
+     "family": "Williams",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7490/f1000research.1119847.1",
+   "title": [
+    "Clinical audit: Prevalence of complications and management of hypertension in primary care"
+   ],
+   "publisher": "F1000 Research Ltd",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      6
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.7490/f1000research.1119847.1",
+   "author": [
+    {
+     "given": "Ossama",
+     "family": "Iqbal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1186/s12875-026-03276-8",
+   "title": [
+    "Systemic immune-inflammation index: a novel tool for hypertension management in primary care"
+   ],
+   "container-title": [
+    "BMC Primary Care"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      16
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1186/s12875-026-03276-8",
+   "author": [
+    {
+     "given": "Sena",
+     "family": "Akyar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hamdi Nezih",
+     "family": "Dağdeviren",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/s0095-4543(21)00354-7",
+   "title": [
+    "Controversies in Hypertension Management"
+   ],
+   "container-title": [
+    "Primary Care: Clinics in Office Practice"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      1991,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/s0095-4543(21)00354-7",
+   "author": [
+    {
+     "given": "Marvin",
+     "family": "Moser",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/s0095-4543(21)00706-5",
+   "title": [
+    "Management of Hypertension"
+   ],
+   "container-title": [
+    "Primary Care: Clinics in Office Practice"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      1977,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/s0095-4543(21)00706-5",
+   "author": [
+    {
+     "given": "Henry R.",
+     "family": "Black",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5837/bjc.2026.056",
+   "title": [
+    "SHIP-CARE: rethinking hypertension management in Swedish primary care"
+   ],
+   "container-title": [
+    "British Journal of Cardiology"
+   ],
+   "publisher": "Medinews (Cardiology), Ltd.",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.5837/bjc.2026.056"
+  },
+  {
+   "DOI": "10.1201/9781315378657-11",
+   "title": [
+    "Hypertension Gill Wakley"
+   ],
+   "container-title": [
+    "Chronic Disease Management in Primary Care"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      10,
+      8
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315378657-11"
+  },
+  {
+   "publisher": "Karolinska Institutet",
+   "abstract": "<jats:p>&lt;p dir=\"ltr\"&gt;Background and aim&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Alcohol increases the risk of developing hypertension and of blood pressure remaining poorly controlled. To prevent cardiovascular diseases and in the management of hypertension, a low alcohol intake is recommended. Patients with hypertension mainly receive their treatment in primary care. There are challenges in identifying hazardous alcohol use and for patients to reach a well-controlled blood pressure. The use of the alcohol biomarker PEth has increased in primary care, including in the management of hypertension. However, there is limited knowledge regarding the consequences of using PEth in primary care. The overall aim of this thesis was to investigate the implications of using PEth in hypertension management in primary care. The specific aims of the four studies were to: Explore patients' and general practitioners' experiences of PEth; describe alcohol consumption through PEth, Alcohol Use Disorders Identification Test (AUDIT), Alcohol Use Disorders Identification Test-Consumption (AUDIT-C), and alcohol history in relation to blood pressure control; and, finally, to examine the documentation of alcohol consumption and assess its association with blood pressure control, sex, age, and comorbidities.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Material and methods&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Study I comprised five focus groups with GPs (n = 12) from different parts in Sweden, using an interview guide and qualitative content analysis. Study II was an observational cross-sectional study including 270 patients aged 30-85 years with hypertension from three primary care centres in Region Stockholm. Participants were stratified into three categories of blood pressure control: controlled, uncontrolled, and apparent treatment-resistant hypertension (aTRH). Alcohol consumption was assessed using the biomarker PEth 16:0/18:1, AUDIT, and AUDIT-C in relation to blood pressure control. Correlations between PEth and AUDIT, and between PEth and AUDIT-C were calculated. Study III was an observational cross-sectional study based on data from electronic medical records from 1,826 patients with hypertension at a primary care centre in Region Dalarna routinely using PEth. Documentation of alcohol consumption, with alcohol history and PEth, and its association with blood pressure control, sex, age, and comorbidities was examined. Additionally, proportion of patients with hazardous alcohol use, with PEth and alcohol history, in relation to BP-control was described. Study IV involved semi-structured telephone interviews with patients (n = 13) with hypertension from three Swedish primary care centres located in three regions in Sweden: Stockholm, Dalarna, and Kalmar. A topic guide was used, and the data were analysed with Grounded Theory.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Results&lt;/p&gt;&lt;p dir=\"ltr\"&gt;The overarching theme in Study I, \"I don't hesitate anymore\", captured how GPS had overcome their initial concerns that patients might react negatively to the use of PEth and instead experienced that its benefits outweighed potential drawbacks. This overarching theme encompassed four subthemes: 1) Serving as an eye-opener, 2) Improving the dialogue, 3) Using with care, and 4) Learning by doing.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Results from study II showed that the proportion of individuals with high and regular alcohol consumption, based on PEth, was approximately three times higher in the group with aTRH compared with those with controlled (p = 0.027) or uncontrolled (p = 0.013) blood pressure, whereas AUDIT did not identify differences between the blood pressure groups (p = 0.865). The correlation between PEth and AUDIT-C was somewhat higher than that observed between PEth and AUDIT. Overall, AUDIT-C identified a slightly higher proportion of individuals with hazardous alcohol use (≥4 points for women, ≥5 for men) than PEth (&gt;0.122 umol/L): 28.6% versus 22.9%. Hazardous alcohol use identified with AUDIT was 12.4% in the overall study population. Hazardous alcohol use could be identified using PEth, AUDIT, and AUDIT-C alcohol across all levels of blood pressure control.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;The results from Study III showed that, across the overall study population, alcohol consumption was documented twice as often using PEth (31.2%) compared with alcohol history (15.1%). Documentation varied by blood pressure group, age, sex, and certain comorbidities. Patients in the groups with uncontrolled blood pressure or aTRH were more likely to lack documentation of alcohol consumption (31.4 % and 31.6% respectively) than those in the group with controlled blood pressure (24.1%) (p = 0.00). PEth was slightly more commonly documented in younger patients and in those without diabetes. In the overall study population, the prevalence of hazardous alcohol use was 18.4% when defined as PEth (&gt;0.122 umol/L), compared with 7.1% as identified with alcohol history (≥ 10 standard units of alcohol per week). No significant difference was observed in the prevalence of hazardous alcohol use among the three blood pressure control groups.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;The main result from study IV was the theory \"Double-layered insight\". Four categories underpinned the main result: 1) Personal concern and agency, 2) Trusting the healthcare system to deliver, 3) Losing trust, and 4) Empowered by insight. Actions by both patient and GP influenced whether the patient lost trust or felt empowered. PEth provided objective information which could be uncomfortable but was generally perceived as meaningful. Transparency regarding PEth and non-judgmental dialogues were crucial for promoting motivation. PEth could be the only factor initiating a dialogue about alcohol.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Conclusion&lt;/p&gt;&lt;p dir=\"ltr\"&gt;PEth emerged as a valuable complement to established methods for assessing alcohol consumption in patients with hypertension in primary care, especially in the group with aTRH. PEth provided objective information and improved the interaction between the patient and the GP. The highest prevalence of hazardous alcohol use was identified using AUDIT-C. However, PEth indicated a higher prevalence of hazardous alcohol use compared with AUDIT and alcohol history. Hazardous alcohol use could be identified, with the four methods, across all groups of blood pressure control. PEth has influenced documentation practices, yet alcohol consumption remained least documented in patients with uncontrolled blood pressure and aTRH, indicating missed opportunities for risk identification in clinically vulnerable groups. PEth could both challenge and empower patients. Respect for patient autonomy and a non-judgmental dialogue appeared to be crucial for patients' acceptance of PEth testing and for preserving trust in the GP.&lt;/p&gt;&lt;h3 dir=\"ltr\"&gt;List of scientific papers&lt;/h3&gt;&lt;p dir=\"ltr\"&gt;I. &lt;b&gt;Thurfjell Å,&lt;/b&gt; Sandlund C, Adami J, Hasselström J, Hagströmer M, Lundh L. GPs' experiences of Phosphatidylethanol in treatment of hypertension: a qualitative study. BJGP Open. 2023; 7 (4). &lt;a href=\"https://doi.org/10.3399/BJGPO.2023.0037\"&gt;https://doi.org/10.3399/BJGPO.2023.0037&lt;/a&gt;&lt;/p&gt;&lt;p dir=\"ltr\"&gt;II. &lt;b&gt;Thurfjell Å,&lt;/b&gt; Hagströmer M, Ivarsson C, Norrman A, Adami J, Lundh L, Hasselström J. Hypertension and alcohol: a cross-sectional study comparing PEth with AUDIT and AUDIT-C in primary care. Family Practice. 2026; 43(1). &lt;a href=\"https://doi.org/10.1093/fampra/cmaf097\"&gt;https://doi.org/10.1093/fampra/cmaf097&lt;/a&gt;&lt;/p&gt;&lt;p dir=\"ltr\"&gt;III. Norrman A, &lt;b&gt;Thurfjell Å,&lt;/b&gt; Hagströmer M, Adami J, Lundh L, Hasselstrom J. Comparing the documentation of Phosphatidylethanol and alcohol history in hypertension management in primary care: a cross-sectional study. [Manuscript]&lt;/p&gt;&lt;p dir=\"ltr\"&gt;IV. &lt;b&gt;Thurfjell Å,&lt;/b&gt; Hagströmer M, Adami J, Hasselström J, Lundh L. Patients' experiences of Phosphatidylethanol in hypertension treatment in primary care: qualitative study. BJGP Open. &lt;a href=\"https://doi.org/10.3399/BJGPO.2025.0201\"&gt;https://doi.org/10.3399/BJGPO.2025.0201&lt;/a&gt;&lt;/p&gt;</jats:p>",
+   "DOI": "10.69622/31922940",
+   "type": "posted-content",
+   "title": [
+    "The role of the alcohol biomarker PEth in hypertension management in primary care"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0001-6709-0886",
+     "authenticated-orcid": false,
+     "given": "Åsa",
+     "family": "Thurfjell",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      13
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.69622/31922940"
+  },
+  {
+   "publisher": "Karolinska Institutet",
+   "abstract": "<jats:p>&lt;p dir=\"ltr\"&gt;Background and aim&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Alcohol increases the risk of developing hypertension and of blood pressure remaining poorly controlled. To prevent cardiovascular diseases and in the management of hypertension, a low alcohol intake is recommended. Patients with hypertension mainly receive their treatment in primary care. There are challenges in identifying hazardous alcohol use and for patients to reach a well- controlled blood pressure. The use of the alcohol biomarker PEth has increased in primary care, including in the management of hypertension. However, there is limited knowledge regarding the consequences of using PEth in primary care. The overall aim of this thesis was to investigate the implications of using PEth in hypertension management in primary care. The specific aims of the four studies were to: Explore patients' and general practitioners' experiences of PEth; describe alcohol consumption through PEth, Alcohol Use Disorders Identification Test (AUDIT), Alcohol Use Disorders Identification Test-Consumption (AUDIT-C), and alcohol history in relation to blood pressure control; and, finally, to examine the documentation of alcohol consumption and assess its association with blood pressure control, sex, age, and comorbidities.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Material and methods&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Study I comprised five focus groups with GPs (n = 12) from different parts in Sweden, using an interview guide and qualitative content analysis. Study II was an observational cross-sectional study including 270 patients aged 30-85 years with hypertension from three primary care centres in Region Stockholm. Participants were stratified into three categories of blood pressure control: controlled, uncontrolled, and apparent treatment-resistant hypertension (aTRH). Alcohol consumption was assessed using the biomarker PEth 16:0/18:1, AUDIT, and AUDIT-C in relation to blood pressure control. Correlations between PEth and AUDIT, and between PEth and AUDIT-C were calculated. Study III was an observational cross-sectional study based on data from electronic medical records from 1,826 patients with hypertension at a primary care centre in Region Dalarna routinely using PEth. Documentation of alcohol consumption, with alcohol history and PEth, and its association with blood pressure control, sex, age, and comorbidities was examined. Additionally, proportion of patients with hazardous alcohol use, with PEth and alcohol history, in relation to BP-control was described. Study IV involved semi-structured telephone interviews with patients (n = 13) with hypertension from three Swedish primary care centres located in three regions in Sweden: Stockholm, Dalarna, and Kalmar. A topic guide was used, and the data were analysed with Grounded Theory.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Results&lt;/p&gt;&lt;p dir=\"ltr\"&gt;The overarching theme in Study I, \"I don't hesitate anymore\", captured how GPS had overcome their initial concerns that patients might react negatively to the use of PEth and instead experienced that its benefits outweighed potential drawbacks. This overarching theme encompassed four subthemes: 1) Serving as an eye-opener, 2) Improving the dialogue, 3) Using with care, and 4) Learning by doing.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Results from study II showed that the proportion of individuals with high and regular alcohol consumption, based on PEth, was approximately three times higher in the group with aTRH compared with those with controlled (p = 0.027) or uncontrolled (p = 0.013) blood pressure, whereas AUDIT did not identify differences between the blood pressure groups (p = 0.865). The correlation between PEth and AUDIT-C was somewhat higher than that observed between PEth and AUDIT. Overall, AUDIT-C identified a slightly higher proportion of individuals with hazardous alcohol use (&gt;4 points for women, &gt;5 for men) than PEth (&gt;0.122 umol/L): 28.6% versus 22.9%. Hazardous alcohol use identified with AUDIT was 12.4% in the overall study population. Hazardous alcohol use could be identified using PEth, AUDIT, and AUDIT-C alcohol across all levels of blood pressure control.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;The results from Study III showed that, across the overall study population, alcohol consumption was documented twice as often using PEth (31.2%) compared with alcohol history (15.1%). Documentation varied by blood pressure group, age, sex, and certain comorbidities. Patients in the groups with uncontrolled blood pressure or aTRH were more likely to lack documentation of alcohol consumption (31.4 % and 31.6% respectively) than those in the group with controlled blood pressure (24.1%) (p = 0.00). PEth was slightly more commonly documented in younger patients and in those without diabetes. In the overall study population, the prevalence of hazardous alcohol use was 18.4% when defined as PEth (&gt;0.122 umol/L), compared with 7.1% as identified with alcohol history (&gt; 10 standard units of alcohol per week). No significant difference was observed in the prevalence of hazardous alcohol use among the three blood pressure control groups.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;The main result from study IV was the theory \"Double-layered insight\". Four categories underpinned the main result: 1) Personal concern and agency, 2) Trusting the healthcare system to deliver, 3) Losing trust, and 4) Empowered by insight. Actions by both patient and GP influenced whether the patient lost trust or felt empowered. PEth provided objective information which could be uncomfortable but was generally perceived as meaningful. Transparency regarding PEth and non-judgmental dialogues were crucial for promoting motivation. PEth could be the only factor initiating a dialogue about alcohol.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;Conclusion&lt;/p&gt;&lt;p dir=\"ltr\"&gt;PEth emerged as a valuable complement to established methods for assessing alcohol consumption in patients with hypertension in primary care, especially in the group with aTRH. PEth provided objective information and improved the interaction between the patient and the GP. The highest prevalence of hazardous alcohol use was identified using AUDIT-C. However, PEth indicated a higher prevalence of hazardous alcohol use compared with AUDIT and alcohol history. Hazardous alcohol use could be identified, with the four methods, across all groups of blood pressure control. PEth has influenced documentation practices, yet alcohol consumption remained least documented in patients with uncontrolled blood pressure and aTRH, indicating missed opportunities for risk identification in clinically vulnerable groups. PEth could both challenge and empower patients. Respect for patient autonomy and a non-judgmental dialogue appeared to be crucial for patients' acceptance of PEth testing and for preserving trust in the GP.&lt;/p&gt;&lt;h3 dir=\"ltr\"&gt;List of scientific papers&lt;/h3&gt;&lt;p dir=\"ltr\"&gt;I. &lt;b&gt;Thurfjell Å,&lt;/b&gt; Sandlund C, Adami J, Hasselström J, Hagströmer M, Lundh L. GPs' experiences of Phosphatidylethanol in treatment of hypertension: a qualitative study. BJGP Open. 2023; 7 (4). &lt;a href=\"https://doi.org/10.3399/BJGPO.2023.0037\"&gt;https://doi.org/10.3399/BJGPO.2023.0037&lt;/a&gt;&lt;/p&gt;&lt;p dir=\"ltr\"&gt;II. &lt;b&gt;Thurfjell Å,&lt;/b&gt; Hagströmer M, Ivarsson C, Norrman A, Adami J, Lundh L, Hasselström J. Hypertension and alcohol: a cross-sectional study comparing PEth with AUDIT and AUDIT-C in primary care. Family Practice. 2026; 43(1). &lt;a href=\"https://doi.org/10.1093/fampra/cmaf097\"&gt;https://doi.org/10.1093/fampra/cmaf097&lt;/a&gt;&lt;/p&gt;&lt;p dir=\"ltr\"&gt;III. Norrman A, &lt;b&gt;Thurfjell Å,&lt;/b&gt; Hagströmer M, Adami J, Lundh L, Hasselstrom J. Comparing the documentation of Phosphatidylethanol and alcohol history in hypertension management in primary care: a cross-sectional study. [Manuscript]&lt;/p&gt;&lt;p dir=\"ltr\"&gt;IV. &lt;b&gt;Thurfjell Å,&lt;/b&gt; Hagströmer M, Adami J, Hasselström J, Lundh L. Patients' experiences of Phosphatidylethanol in hypertension treatment in primary care: qualitative study. BJGP Open. &lt;a href=\"https://doi.org/10.3399/BJGPO.2025.0201\"&gt;https://doi.org/10.3399/BJGPO.2025.0201&lt;/a&gt;&lt;/p&gt;</jats:p>",
+   "DOI": "10.69622/31922940.v1",
+   "type": "posted-content",
+   "title": [
+    "The role of the alcohol biomarker PEth in hypertension management in primary care"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0001-6709-0886",
+     "authenticated-orcid": false,
+     "given": "Åsa",
+     "family": "Thurfjell",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      13
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.69622/31922940.v1"
+  },
+  {
+   "DOI": "10.1016/j.pop.2022.05.003",
+   "title": [
+    "Telehealth and Hypertension Management"
+   ],
+   "container-title": [
+    "Primary Care: Clinics in Office Practice"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.pop.2022.05.003",
+   "author": [
+    {
+     "given": "Robert J.",
+     "family": "Heizelman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/0895-7061(96)82050-4",
+   "title": [
+    "Survey of current hypertension management practices among primary care physicians."
+   ],
+   "container-title": [
+    "American Journal of Hypertension"
+   ],
+   "publisher": "Oxford University Press (OUP)",
+   "issued": {
+    "date-parts": [
+     [
+      1996,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/0895-7061(96)82050-4",
+   "author": [
+    {
+     "given": "D",
+     "family": "HYMAN",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1097/00129300-200003020-00005",
+   "title": [
+    "Management of Diabetes and Hypertension in Pregnancy"
+   ],
+   "container-title": [
+    "Primary Care Case Reviews"
+   ],
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "issued": {
+    "date-parts": [
+     [
+      2000,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1097/00129300-200003020-00005",
+   "author": [
+    {
+     "given": "Jeffrey",
+     "family": "Pickard",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Linda A.",
+     "family": "Barbour",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4103/2249-4863.154630",
+   "title": [
+    "Resistant hypertension: an approach to management in primary care"
+   ],
+   "container-title": [
+    "Journal of Family Medicine and Primary Care"
+   ],
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.4103/2249-4863.154630",
+   "author": [
+    {
+     "given": "JulianP",
+     "family": "Yaxley",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "SamV",
+     "family": "Thambar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781315380032-5",
+   "title": [
+    "Hypertension"
+   ],
+   "container-title": [
+    "Management of Cardiac Problems in Primary Care"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      4,
+      19
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315380032-5",
+   "author": [
+    {
+     "given": "Clive",
+     "family": "Handler",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gerry",
+     "family": "Coghlan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nick",
+     "family": "Brown",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Cambridge University Press (CUP)",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec id=\"S1463423626101455_as1\">\n                    <jats:title>Aim:</jats:title>\n                    <jats:p>To review the current diagnosis and treatment of hypertension (HTN) and explore alternative care management options.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"S1463423626101455_as2\">\n                    <jats:title>Background:</jats:title>\n                    <jats:p>HTN is underdiagnosed and poorly managed in the UK. With an increasing emphasis on teamwork in primary care (PC), what is the evidence base supporting the partial or complete management of HTN by practice nurses (PNs)?</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"S1463423626101455_as3\">\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>Using the PRISMA-Scr checklist as a framework, six database searches (BNI, CINAHL, Embase, Emcare, Medline, and PubMed) were conducted using Boolean Operators between December 2023 and February 2024, employing four search structures to find literature on independent or collaborative HTN management by PNs. Qualitative and quantitative research studies, reports, and articles were all considered.</jats:p>\n                  </jats:sec>\n                  <jats:sec id=\"S1463423626101455_as4\">\n                    <jats:title>Findings:</jats:title>\n                    <jats:p>HTN is a significant risk factor for mortality and morbidity. Despite clear national guidelines on the diagnosis and management, many patients affected by this condition remain undiagnosed, with the majority of those diagnosed inadequately treated. PC is struggling to manage the workload due to an ageing population and reduced general practitioner (GP) numbers. The development of new roles to support GPs in their work is underway, but current roles remain vague and without nationally agreed remits or working practices. PNs currently manage most chronic non-communicable diseases, such as diabetes, asthma, and chronic obstructive pulmonary disease; however, HTN is not typically part of their remit. There is strong quantitative and qualitative evidence supporting PNs’ involvement in HTN management as care coordinators. Such a move could improve patient outcomes and release GP time, but institutional barriers need to be addressed.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1017/s1463423626101455",
+   "type": "journal-article",
+   "title": [
+    "Practice nurse management of hypertension in primary care: a scoping review"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0007-9081-855X",
+     "authenticated-orcid": false,
+     "given": "Luke",
+     "family": "Heath",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/02nwg5t34",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "University West of England"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4355-229X",
+     "authenticated-orcid": false,
+     "given": "Ann",
+     "family": "Smith",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/02nwg5t34",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "University West of England"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Primary Health Care Research &amp; Development"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1017/s1463423626101455"
+  },
+  {
+   "DOI": "10.1016/j.pop.2008.05.002",
+   "title": [
+    "Management of Hypertension in the Outpatient Setting"
+   ],
+   "container-title": [
+    "Primary Care: Clinics in Office Practice"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.pop.2008.05.002",
+   "author": [
+    {
+     "given": "Domenic A.",
+     "family": "Sica",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1097/00004872-200406002-00331",
+   "title": [
+    "MANAGEMENT OF HYPERTENSION IN PRIMARY CARE IN GRAMPIAN, SCOTLAND"
+   ],
+   "container-title": [
+    "Journal of Hypertension"
+   ],
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "issued": {
+    "date-parts": [
+     [
+      2004,
+      6
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1097/00004872-200406002-00331",
+   "author": [
+    {
+     "given": "S. A.",
+     "family": "Ross",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "M. J.",
+     "family": "Macleod",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

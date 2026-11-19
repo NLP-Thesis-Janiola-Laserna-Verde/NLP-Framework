@@ -1,0 +1,856 @@
+{
+ "query": "Retrieval-augmented generation for reducing hallucination in large language models",
+ "retrieved_at": "2026-11-18T17:42:25.419357+00:00",
+ "data": [
+  {
+   "paperId": "b038ad764467e977242509d499b84133f01286d6",
+   "externalIds": {
+    "DOI": "10.36347/sjet.2025.v13i05.003",
+    "CorpusId": 279197161
+   },
+   "url": "https://www.semanticscholar.org/paper/b038ad764467e977242509d499b84133f01286d6",
+   "title": "Retrieval-Augmented Generation and Hallucination in Large Language Models: A Scholarly Overview",
+   "venue": "Scholars Journal of Engineering and Technology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://saspublishers.com/article/22183/download/",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36347/sjet.2025.v13i05.003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36347/sjet.2025.v13i05.003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-05-19",
+   "authors": [
+    {
+     "authorId": "2316804387",
+     "name": "Sagar Gupta"
+    }
+   ],
+   "abstract": "Large Language Models (LLMs) have revolutionized natural language processing tasks, yet they often suffer from \"hallucination” the confident generation of factually incorrect information. Retrieval-Augmented Generation (RAG) has emerged as a promising technique to mitigate hallucinations by grounding model responses in external documents. This article explores the underlying causes of hallucinations in LLMs, the mechanisms and architectures of RAG systems, their effectiveness in reducing hallucinations, and ongoing challenges. We conclude with a discussion of future directions for integrating retrieval mechanisms more seamlessly into generative architecture."
+  },
+  {
+   "paperId": "ea31980dc5f44d92686a22be0db508d82ff58e76",
+   "externalIds": {
+    "DOI": "10.63328/ijcser-v3ri3p6",
+    "CorpusId": 291072043
+   },
+   "url": "https://www.semanticscholar.org/paper/ea31980dc5f44d92686a22be0db508d82ff58e76",
+   "title": "Quantum-Enhanced Retrieval-Augmented Generation for Hallucination Reduction in Large Language Models",
+   "venue": "International Journal of Computational Science and Engineering Research",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63328/ijcser-v3ri3p6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63328/ijcser-v3ri3p6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-08-03",
+   "authors": [
+    {
+     "authorId": "2576755960",
+     "name": "Praveenkumar Seepana"
+    }
+   ],
+   "abstract": "Although the performance of LLMs on a wide variety of natural language processing problems demonstrates remarkable ability, hallucinated responses are introduced as one of the key weaknesses of LLMs, especially in knowledge-intensive applications, where fidelity to facts is paramount. While effective in reducing hallucinations, the context retrieved during the RAG operations is still very often suboptimal with respect to the external documents used in the retrieval stage, and being based on cosine similarity and nearest-neighbour search, these models typically do not return optimal context to support factual generation. The authors propose a five-stage solution, called Quantum-Enhanced Retrieval-Augmented Generation (QERAG), which combines the use of a quantum-inspired probability amplitude document ranking, a Context Utility Score (CUS) optimisation engine, and a Hallucination Verification Agent (HVA) based on a formal Hallucination Reduction Index (HRI). The Quantum Relevance Score (QRS) uses interference based, Amplitude Encoding on candidate Document Sets to yield a normalised relevance distribution that emphasises the relatively higher value generated in the discriminative context as compared to other locally similar passages in a document set. QERAG outperforms Standard LLM and Traditional RAG models on all five Natural benchmark across response accuracy, with a score of 92.8% vs. 74.3%, and hallucination rate, 4.3% vs. 18.2%, respectively. They achieve a significant overall improvement by using quantum-inspired retrieval layer, which achieves a 3.5-percentage-point reduction in hallucination rate when compared to cosine-similarity RAG, with this single layer showing more reduction than the rest of the pipeline layers. The results of an ablation study show the individual contribution of every pipeline stage, and the quantum-inspired retrieval layer exhibits the greatest reduction of a 3.5 percentage points over cosine-similarity RAG."
+  },
+  {
+   "paperId": "2d4689e8cddff9a99673f4e63512cf9a06534e88",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2502-15040",
+    "ArXiv": "2502.15040",
+    "DOI": "10.48550/arXiv.2502.15040",
+    "CorpusId": 276557710
+   },
+   "url": "https://www.semanticscholar.org/paper/2d4689e8cddff9a99673f4e63512cf9a06534e88",
+   "title": "Reducing Hallucinations of Medical Multimodal Large Language Models with Visual Retrieval-Augmented Generation",
+   "venue": "arXiv.org",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2502.15040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-20",
+   "authors": [
+    {
+     "authorId": "2393020190",
+     "name": "Yunqiang Chu"
+    },
+    {
+     "authorId": "2347643051",
+     "name": "Kai Zhang"
+    },
+    {
+     "authorId": "3200180",
+     "name": "Christopher Malon"
+    },
+    {
+     "authorId": "2325727972",
+     "name": "Martin Renqiang Min"
+    }
+   ],
+   "abstract": "Multimodal Large Language Models (MLLMs) have shown impressive performance in vision and text tasks. However, hallucination remains a major challenge, especially in fields like healthcare where details are critical. In this work, we show how MLLMs may be enhanced to support Visual RAG (V-RAG), a retrieval-augmented generation framework that incorporates both text and visual data from retrieved images. On the MIMIC-CXR chest X-ray report generation and Multicare medical image caption generation datasets, we show that Visual RAG improves the accuracy of entity probing, which asks whether a medical entities is grounded by an image. We show that the improvements extend both to frequent and rare entities, the latter of which may have less positive training data. Downstream, we apply V-RAG with entity probing to correct hallucinations and generate more clinically accurate X-ray reports, obtaining a higher RadGraph-F1 score."
+  },
+  {
+   "paperId": "6f928f96a581f47e690201d2316454fbf6af6071",
+   "externalIds": {
+    "DOI": "10.36713/epra26155",
+    "CorpusId": 285866913
+   },
+   "url": "https://www.semanticscholar.org/paper/6f928f96a581f47e690201d2316454fbf6af6071",
+   "title": "A SYSTEMATIC REVIEW OF OPTIMIZED RETRIEVAL-AUGMENTED GENERATION FRAMEWORKS FOR REDUCING HALLUCINATIONS IN LARGE LANGUAGE MODELS",
+   "venue": "EPRA International Journal of Research &amp; Development (IJRD)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.36713/epra26155",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36713/epra26155?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36713/epra26155, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-02-19",
+   "authors": [
+    {
+     "authorId": "2497643799",
+     "name": "J. Kumar"
+    },
+    {
+     "authorId": "2543839812",
+     "name": "Shashank Swami"
+    }
+   ],
+   "abstract": "Large Language Models (LLMs) have proven to be making great progress on natural language processing, but they tend to produce hallucinated or even inaccurate information. The systematic review is focused on optimized Retrieval-Augmented Generation (RAG) frameworks and how they enhance the reliability and factual truth of the outputs of LLM. The paper examines the architecture of the RAG systems, retrieval methods, and optimization methods like embedding tuning, query expansion, and reranking. It also surveys methods of evaluation by such metrics as factual consistency and faithfulness. The results show that the incorporation of outside knowledge recall massively decreases hallucinations and improves the grounding in context. Although there are difficulties that are associated with scalability and knowledge management, optimized RAG frameworks present a good pathway towards creating trustworthy and evidence-based generative AI systems.\nKeywords: Large Language Models; Retrieval-Augmented Generation; Hallucination Reduction; AI Reliability."
+  },
+  {
+   "paperId": "2986b2b06173e065c94bae49c7a9a3718dad486c",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2404-08189",
+    "ArXiv": "2404.08189",
+    "DOI": "10.18653/v1/2024.naacl-industry.19",
+    "CorpusId": 269137180
+   },
+   "url": "https://www.semanticscholar.org/paper/2986b2b06173e065c94bae49c7a9a3718dad486c",
+   "title": "Reducing hallucination in structured outputs via Retrieval-Augmented Generation",
+   "venue": "North American Chapter of the Association for Computational Linguistics",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://aclanthology.org/2024.naacl-industry.19.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2404.08189, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2024-04-12",
+   "authors": [
+    {
+     "authorId": "2296597690",
+     "name": "Patrice Bechard"
+    },
+    {
+     "authorId": "2296597772",
+     "name": "O. Ayala"
+    }
+   ],
+   "abstract": "A common and fundamental limitation of Generative AI (GenAI) is its propensity to hallucinate. While large language models (LLM) have taken the world by storm, without eliminating or at least reducing hallucinations, real-world GenAI systems may face challenges in user adoption. In the process of deploying an enterprise application that produces workflows based on natural language requirements, we devised a system leveraging Retrieval Augmented Generation (RAG) to greatly improve the quality of the structured output that represents such workflows. Thanks to our implementation of RAG, our proposed system significantly reduces hallucinations in the output and improves the generalization of our LLM in out-of-domain settings. In addition, we show that using a small, well-trained retriever encoder can reduce the size of the accompanying LLM, thereby making deployments of LLM-based systems less resource-intensive."
+  },
+  {
+   "paperId": "ed2129b1ab2a894dbbe114d5a73111c1a4dda56f",
+   "externalIds": {
+    "DOI": "10.1109/ICIIBMS66230.2025.11316716",
+    "CorpusId": 284375805
+   },
+   "url": "https://www.semanticscholar.org/paper/ed2129b1ab2a894dbbe114d5a73111c1a4dda56f",
+   "title": "Integrating Retrieval-Augmented Generation and Large Language Models for Financial Question Answering",
+   "venue": "2025 10th International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIIBMS66230.2025.11316716?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIIBMS66230.2025.11316716, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-12-02",
+   "authors": [
+    {
+     "authorId": "2278977233",
+     "name": "Yu-Jen Chen"
+    },
+    {
+     "authorId": "2382636948",
+     "name": "Ping Chen"
+    },
+    {
+     "authorId": "17682119",
+     "name": "Tzu-Chia Tung"
+    },
+    {
+     "authorId": "2336633995",
+     "name": "Yung-Chien Chou"
+    },
+    {
+     "authorId": "2296130053",
+     "name": "Yu-Cheng Chu"
+    },
+    {
+     "authorId": "2403624707",
+     "name": "Sian-Wun Du"
+    },
+    {
+     "authorId": "2402147416",
+     "name": "Wei-Chien Wang"
+    },
+    {
+     "authorId": "1703041",
+     "name": "C. Fuh"
+    },
+    {
+     "authorId": "2363706886",
+     "name": "Chun Yang"
+    }
+   ],
+   "abstract": "Customer service systems in the financial industry require accurate and effi-cient question-answering solutions. Traditional methods, such as rule-based chatbots, struggle with complex queries, while Large Language Models (LLMs) face challenges like hallucination and outdated knowledge. This study explores the effectiveness of Retrieval-Augmented Generation (RAG) in answering financial questions using various retrieval methods, including BM25, embedding models, and reranker models. Experimental results show that BM25 is the fastest but less accurate, while the Reranker Model achieves the highest accuracy $(0.8933)$ at a high computational cost. The best balance is found by combining BM25, a Reranker Model, and Recursive Token Chunker, improving accuracy (0.92) while reducing execution time (2427 seconds). This approach enhances AI-driven financial services by providing reliable and up-to-date responses."
+  },
+  {
+   "paperId": "8a2acc213b370c342cff3fa0301935612b403b21",
+   "externalIds": {
+    "ArXiv": "2503.23895",
+    "CorpusId": 277452406
+   },
+   "url": "https://www.semanticscholar.org/paper/8a2acc213b370c342cff3fa0301935612b403b21",
+   "title": "Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement",
+   "venue": "",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2503.23895, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2025-03-31",
+   "authors": [
+    {
+     "authorId": "2352995949",
+     "name": "Yuqiao Tan"
+    },
+    {
+     "authorId": "1954845",
+     "name": "Shi-Zhu He"
+    },
+    {
+     "authorId": "2232817310",
+     "name": "Huanxuan Liao"
+    },
+    {
+     "authorId": "2257315249",
+     "name": "Jun Zhao"
+    },
+    {
+     "authorId": "2283274776",
+     "name": "Kang Liu"
+    }
+   ],
+   "abstract": "Retrieval-augmented generation (RAG) enhances large language models (LLMs) by retrieving relevant documents from external sources and incorporating them into the context. While it improves reliability by providing factual texts, it significantly increases inference costs as context length grows and introduces challenging issue of RAG hallucination, primarily caused by the lack of corresponding parametric knowledge in LLMs. An efficient solution is to enhance the knowledge of LLMs at test-time. Parametric RAG (PRAG) addresses this by embedding document into LLMs parameters to perform test-time knowledge enhancement, effectively reducing inference costs through offline training. However, its high training and storage costs, along with limited generalization ability, significantly restrict its practical adoption. To address these challenges, we propose Dynamic Parametric RAG (DyPRAG), a novel framework that leverages a lightweight parameter translator model to efficiently convert documents into parametric knowledge. DyPRAG not only reduces inference, training, and storage costs but also dynamically generates parametric knowledge, seamlessly enhancing the knowledge of LLMs and resolving knowledge conflicts in a plug-and-play manner at test-time. Extensive experiments on multiple datasets demonstrate the effectiveness and generalization capabilities of DyPRAG, offering a powerful and practical RAG paradigm which enables superior knowledge fusion and mitigates RAG hallucination in real-world applications. Our code is available at https://github.com/Trae1ounG/DyPRAG."
+  },
+  {
+   "paperId": "d0563dbf8ab1a52dc22f4481967b3e2267e12104",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2605-28828",
+    "ArXiv": "2605.28828",
+    "DOI": "10.48550/arXiv.2605.28828",
+    "CorpusId": 288741467
+   },
+   "url": "https://www.semanticscholar.org/paper/d0563dbf8ab1a52dc22f4481967b3e2267e12104",
+   "title": "Micro-Macro Retrieval: Reducing Long-Form Hallucination in Large Language Models",
+   "venue": "International Conference on Learning Representations",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2605.28828, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-04-10",
+   "authors": [
+    {
+     "authorId": "2261661979",
+     "name": "Yu-Jie Feng"
+    },
+    {
+     "authorId": "2382885565",
+     "name": "Jian Li"
+    },
+    {
+     "authorId": "50251909",
+     "name": "Zhi-Hang Zhou"
+    },
+    {
+     "authorId": "2267195938",
+     "name": "Peng-Fei Xu"
+    },
+    {
+     "authorId": "2355243753",
+     "name": "Yu-Jia Zhang"
+    },
+    {
+     "authorId": "2257035100",
+     "name": "Xiaoyu Li"
+    },
+    {
+     "authorId": "2381419544",
+     "name": "Xiaohui Zhou"
+    },
+    {
+     "authorId": "2355108896",
+     "name": "Alan Zhao"
+    },
+    {
+     "authorId": "2323070058",
+     "name": "Xi Chen"
+    },
+    {
+     "authorId": "2261456593",
+     "name": "Xiao-Ming Wu"
+    }
+   ],
+   "abstract": "Large Language Models (LLMs) achieve impressive performance across many tasks but remain prone to hallucination, especially in long-form generation where redundant retrieved contexts and lengthy reasoning chains amplify factual errors. Recent studies highlight a critical phenomenon: the closer key information appears to the model outputs, the higher the factual accuracy. However, existing retrieval-augmented language models (RALMs) lack effective mechanisms to ensure this proximity - external evidence is injected into reasoning via multi-turn retrieval, but this cannot ensure key information stays close to the outputs. We propose Micro-Macro Retrieval (M2R), a novel retrieve-while-generate framework to fill this gap. At the macro level, M2R retrieves coarse-grained evidence from external sources; at the micro level, it extracts essential results from a key information repository built during reasoning and reuses them while generating answers. This design directly addresses the key-information-to-output proximity bottleneck, effectively reducing hallucination in long-form tasks. M2R is trained with a curriculum learning-based reinforcement learning strategy using customized rule-based rewards, enabling stable acquisition of retrieval and grounding skills. Extensive experiments across different benchmarks demonstrate the effectiveness of M2R, especially in lengthy-context settings."
+  },
+  {
+   "paperId": "2e81e47428701847d2a24e8cdf86bfa820ee9717",
+   "externalIds": {
+    "DOI": "10.1109/ICOECA68095.2026.11485254",
+    "CorpusId": 287736045
+   },
+   "url": "https://www.semanticscholar.org/paper/2e81e47428701847d2a24e8cdf86bfa820ee9717",
+   "title": "A Multi-Stage Hallucination Reduction Framework for Large Language Models using Retrieval-Augmented Generation and NLI-based Verification",
+   "venue": "2026 6th International Conference on Expert Clouds and Applications (ICOECA)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICOECA68095.2026.11485254?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICOECA68095.2026.11485254, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2026-03-09",
+   "authors": [
+    {
+     "authorId": "2431392541",
+     "name": "Arpana Nag"
+    },
+    {
+     "authorId": "2378151815",
+     "name": "A. M"
+    },
+    {
+     "authorId": "2431393345",
+     "name": "Brindha.D"
+    }
+   ],
+   "abstract": "Strong generative abilities are displayed by Large Language Models (LLMs), but they often generate hallucinations—confident but factually incorrect statements. The safe use of LLMs in academic, legal, medical, and business applications that demand factual reliability is complicated by these hallucinations. This work describes a multi-phase framework for reducing hallucinations that combines a verification module based on Natural Language Inference (NLI) with Retrieval-Augmented Generation (RAG). The system uses a lightweight LLM (Flan-T5) to generate a baseline response, an FAISS-based semantic search mechanism to retrieve supporting evidence, RAG to construct an evidence-grounded response, and an NLI classifier to verify each sentence for factual alignment. Labels that are supported, unsupported, and contradicted are used to calculate a hallucination score. Comparing the suggested system to baseline LLM outputs, experimental results demonstrate a significant improvement in factual accuracy, a decrease in unsupported statements, and an increase in explainability. This work's primary innovation is the combination of retrieval-augmented generation and sentence-level NLI-based verification, which permits quantitative hallucination scoring and validates explainable answers without the need for model fine-tuning. This multi-phase pipeline shows how to construct transparent, reliable, and verifiable AI-driven question-answering systems in a practical manner."
+  },
+  {
+   "paperId": "c6577afa87034ae5b0bd0400d38418b3c53f1b96",
+   "externalIds": {
+    "DOI": "10.67698/pjpcr.2026.005",
+    "CorpusId": 292319945
+   },
+   "url": "https://www.semanticscholar.org/paper/c6577afa87034ae5b0bd0400d38418b3c53f1b96",
+   "title": "A Draft-Ground-Verify-Revise Framework for Reducing Hallucination in Large Language Models",
+   "venue": "Princeton Journal of Pre-Collegiate Research",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.67698/pjpcr.2026.005?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.67698/pjpcr.2026.005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2503413572",
+     "name": "Syed Mubashir"
+    }
+   ],
+   "abstract": "Large language models (LLMs) often generate fluent but factually unsupported or logically invalid text: failure modes broadly referred to as hallucination. A variety of approaches have been proposed to mitigate hallucination, ranging from careful benchmark design, preference modeling, and fine-tuning (e.g., RLHF) to post-hoc grounding via retrieval-augmented generation (RAG) or chain-of-verification. Prior work primarily considers these approaches as competing options, but we posit that they should be viewed as complementary stages in a coherent system for reliable LLM-based reasoning. We introduce the Draft-Ground-Verify-Revise (DGVR) framework that unifies these approaches under a single umbrella. Crucially, we find that the verification step within DGVR needs to distinguish between two types of hallucinations: claims that are unsupported by external facts and invalid inferences that follow logically from true premises. With these distinctions in place, we show precisely how DGVR explains both the limitations of hallucination in RLHF-aligned models and the shortcomings of retrieval-only approaches such as RAG. Lastly, we identify the open problems in developing practical systems based on the DGVR framework. In particular, we highlight the need for decomposition of claims into atomic statements, development of dual-subchecker verifiers, and calibrated abstention from answer generation."
+  },
+  {
+   "paperId": "7c887143f067108970f6882830c962f93e5e20a1",
+   "externalIds": {
+    "DBLP": "conf/www/YuanZZZW26",
+    "DOI": "10.1145/3774904.3792598",
+    "CorpusId": 287410386
+   },
+   "url": "https://www.semanticscholar.org/paper/7c887143f067108970f6882830c962f93e5e20a1",
+   "title": "SeaRAG: Reducing Hallucination in Retrieval-Augmented Generation via Statement-Entity Adaptive Ranking",
+   "venue": "The Web Conference",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1145/3774904.3792598",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3774904.3792598?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3774904.3792598, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Book",
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2026-04-12",
+   "authors": [
+    {
+     "authorId": "2307558902",
+     "name": "Xiao-Song Yuan"
+    },
+    {
+     "authorId": "2320709003",
+     "name": "Xiaofeng Zhang"
+    },
+    {
+     "authorId": "2222777641",
+     "name": "Di Zhao"
+    },
+    {
+     "authorId": "2280504838",
+     "name": "Yi-Jia Zhang"
+    },
+    {
+     "authorId": "2266776574",
+     "name": "Ying Wang"
+    }
+   ],
+   "abstract": "Retrieval-augmented generation (RAG) has facilitated large language models (LLMs) by grounding facts in external knowledge. While prior RAG strategies can achieve dynamic control by detecting sentence-wise hallucination, thereby reducing unnecessary computation, they ignore the entity, statement, and their combinations. In this work, we analyze adaptive RAG methods through probing uncertainty to explore real-time entity- and statement-level verification, finding that such information can serve as training-free signals for hallucination detection, and the entropy probes can also guide principled document ranking. Inspired by these insights, we propose SeaRAG, a training-free, adaptive RAG framework that dynamically detects and mitigates hallucinations by probing LLMs at both entity and statement aspects, ranking retrieved passages via entropy-based uncertainty reduction, and regenerating evidence-grounded responses in real-time. Experiments across various Question-Answering benchmarks and multiple LLMs demonstrate consistent accuracy improvements and reduced retrieval rates. SeaRAG with self-correction outperforms Always Retrieve by up to 11.1% on TriviaQA while cutting retrieval frequency from 45.2%, offering an efficient and real-time hallucination control."
+  },
+  {
+   "paperId": "e2f09ea5a19fe9c4044e0a4696d68ed8a6e1f675",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2410-17783",
+    "ArXiv": "2410.17783",
+    "DOI": "10.48550/arXiv.2410.17783",
+    "CorpusId": 273532207
+   },
+   "url": "https://www.semanticscholar.org/paper/e2f09ea5a19fe9c4044e0a4696d68ed8a6e1f675",
+   "title": "Leveraging the Domain Adaptation of Retrieval Augmented Generation Models for Question Answering and Reducing Hallucination",
+   "venue": "arXiv.org",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2410.17783, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-23",
+   "authors": [
+    {
+     "authorId": "2327211339",
+     "name": "Salman Rakin"
+    },
+    {
+     "authorId": "2564877754",
+     "name": "Md. A. R. Shibly"
+    },
+    {
+     "authorId": "2327211491",
+     "name": "Zahin M. Hossain"
+    },
+    {
+     "authorId": "2279541864",
+     "name": "Z. Khan"
+    },
+    {
+     "authorId": "2327212434",
+     "name": "Md. Mostofa Akbar"
+    }
+   ],
+   "abstract": "While ongoing advancements in Large Language Models have demonstrated remarkable success across various NLP tasks, Retrieval Augmented Generation Model stands out to be highly effective on downstream applications like Question Answering. Recently, RAG-end2end model further optimized the architecture and achieved notable performance improvements on domain adaptation. However, the effectiveness of these RAG-based architectures remains relatively unexplored when fine-tuned on specialized domains such as customer service for building a reliable conversational AI system. Furthermore, a critical challenge persists in reducing the occurrence of hallucinations while maintaining high domain-specific accuracy. In this paper, we investigated the performance of diverse RAG and RAG-like architectures through domain adaptation and evaluated their ability to generate accurate and relevant response grounded in the contextual knowledge base. To facilitate the evaluation of the models, we constructed a novel dataset HotelConvQA, sourced from wide range of hotel-related conversations and fine-tuned all the models on our domain specific dataset. We also addressed a critical research gap on determining the impact of domain adaptation on reducing hallucinations across different RAG architectures, an aspect that was not properly measured in prior work. Our evaluation shows positive results in all metrics by employing domain adaptation, demonstrating strong performance on QA tasks and providing insights into their efficacy in reducing hallucinations. Our findings clearly indicate that domain adaptation not only enhances the models' performance on QA tasks but also significantly reduces hallucination across all evaluated RAG architectures."
+  },
+  {
+   "paperId": "1c7ef42897ad2dced83ab1d58d8fbd4539f87ddc",
+   "externalIds": {
+    "DBLP": "conf/icml/Lv0C00024",
+    "ArXiv": "2410.15116",
+    "DOI": "10.48550/arXiv.2410.15116",
+    "CorpusId": 272330553
+   },
+   "url": "https://www.semanticscholar.org/paper/1c7ef42897ad2dced83ab1d58d8fbd4539f87ddc",
+   "title": "Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models",
+   "venue": "International Conference on Machine Learning",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2410.15116, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2024-10-19",
+   "authors": [
+    {
+     "authorId": "2243381644",
+     "name": "Qitan Lv"
+    },
+    {
+     "authorId": "2238243162",
+     "name": "Jie Wang"
+    },
+    {
+     "authorId": "2216099839",
+     "name": "Han-Zhu Chen"
+    },
+    {
+     "authorId": "2319268432",
+     "name": "Bin Li"
+    },
+    {
+     "authorId": "2238393082",
+     "name": "Yong-Dong Zhang"
+    },
+    {
+     "authorId": "2257430155",
+     "name": "Feng Wu"
+    }
+   ],
+   "abstract": "Generation of plausible but incorrect factual information, often termed hallucination, has attracted significant research interest. Retrieval-augmented language model (RALM) -- which enhances models with up-to-date knowledge -- emerges as a promising method to reduce hallucination. However, existing RALMs may instead exacerbate hallucination when retrieving lengthy contexts. To address this challenge, we propose COFT, a novel \\textbf{CO}arse-to-\\textbf{F}ine highligh\\textbf{T}ing method to focus on different granularity-level key texts, thereby avoiding getting lost in lengthy contexts. Specifically, COFT consists of three components: \\textit{recaller}, \\textit{scorer}, and \\textit{selector}. First, \\textit{recaller} applies a knowledge graph to extract potential key entities in a given context. Second, \\textit{scorer} measures the importance of each entity by calculating its contextual weight. Finally, \\textit{selector} selects high contextual weight entities with a dynamic threshold algorithm and highlights the corresponding paragraphs, sentences, or words in a coarse-to-fine manner. Extensive experiments on the knowledge hallucination benchmark demonstrate the effectiveness of COFT, leading to a superior performance over $30\\%$ in the F1 score metric. Moreover, COFT also exhibits remarkable versatility across various long-form tasks, such as reading comprehension and question answering."
+  },
+  {
+   "paperId": "863cacb9e129a3c114430bfa562e9c8a3736ddf4",
+   "externalIds": {
+    "DBLP": "journals/corr/abs-2501-03995",
+    "ArXiv": "2501.03995",
+    "DOI": "10.48550/arXiv.2501.03995",
+    "CorpusId": 275342317
+   },
+   "url": "https://www.semanticscholar.org/paper/863cacb9e129a3c114430bfa562e9c8a3736ddf4",
+   "title": "RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance",
+   "venue": "arXiv.org",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2501.03995, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-07",
+   "authors": [
+    {
+     "authorId": "2004418541",
+     "name": "Matin Mortaheb"
+    },
+    {
+     "authorId": "2199416523",
+     "name": "M. Khojastepour"
+    },
+    {
+     "authorId": "1752242",
+     "name": "S. Chakradhar"
+    },
+    {
+     "authorId": "1744394",
+     "name": "S. Ulukus"
+    }
+   ],
+   "abstract": "Retrieval-augmented generation (RAG) improves large language models (LLMs) by using external knowledge to guide response generation, reducing hallucinations. However, RAG, particularly multi-modal RAG, can introduce new hallucination sources: (i) the retrieval process may select irrelevant pieces (e.g., documents, images) as raw context from the database, and (ii) retrieved images are processed into text-based context via vision-language models (VLMs) or directly used by multi-modal language models (MLLMs) like GPT-4o, which may hallucinate. To address this, we propose a novel framework to evaluate the reliability of multi-modal RAG using two performance measures: (i) the relevancy score (RS), assessing the relevance of retrieved entries to the query, and (ii) the correctness score (CS), evaluating the accuracy of the generated response. We train RS and CS models using a ChatGPT-derived database and human evaluator samples. Results show that both models achieve ~88% accuracy on test data. Additionally, we construct a 5000-sample human-annotated database evaluating the relevancy of retrieved pieces and the correctness of response statements. Our RS model aligns with human preferences 20% more often than CLIP in retrieval, and our CS model matches human preferences ~91% of the time. Finally, we assess various RAG systems' selection and generation performances using RS and CS."
+  },
+  {
+   "paperId": "f3658afcd181e4078e1e96ff86eac224fd92faab",
+   "externalIds": {
+    "ArXiv": "2410.11414",
+    "DBLP": "journals/corr/abs-2410-11414",
+    "DOI": "10.48550/arXiv.2410.11414",
+    "CorpusId": 273351469
+   },
+   "url": "https://www.semanticscholar.org/paper/f3658afcd181e4078e1e96ff86eac224fd92faab",
+   "title": "ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability",
+   "venue": "International Conference on Learning Representations",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2410.11414, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-15",
+   "authors": [
+    {
+     "authorId": "2109820280",
+     "name": "ZhongXiang Sun"
+    },
+    {
+     "authorId": "2055666765",
+     "name": "Xiaoxue Zang"
+    },
+    {
+     "authorId": "2293395261",
+     "name": "Kai Zheng"
+    },
+    {
+     "authorId": "2293399145",
+     "name": "Jun Xu"
+    },
+    {
+     "authorId": "2293646334",
+     "name": "Xiao Zhang"
+    },
+    {
+     "authorId": "2118684861",
+     "name": "Wei-Jie Yu"
+    },
+    {
+     "authorId": "2293392741",
+     "name": "Yang Song"
+    },
+    {
+     "authorId": "2326496399",
+     "name": "Han Li"
+    }
+   ],
+   "abstract": "Retrieval-Augmented Generation (RAG) models are designed to incorporate external knowledge, reducing hallucinations caused by insufficient parametric (internal) knowledge. However, even with accurate and relevant retrieved content, RAG models can still produce hallucinations by generating outputs that conflict with the retrieved information. Detecting such hallucinations requires disentangling how Large Language Models (LLMs) utilize external and parametric knowledge. Current detection methods often focus on one of these mechanisms or without decoupling their intertwined effects, making accurate detection difficult. In this paper, we investigate the internal mechanisms behind hallucinations in RAG scenarios. We discover hallucinations occur when the Knowledge FFNs in LLMs overemphasize parametric knowledge in the residual stream, while Copying Heads fail to effectively retain or integrate external knowledge from retrieved content. Based on these findings, we propose ReDeEP, a novel method that detects hallucinations by decoupling LLM's utilization of external context and parametric knowledge. Our experiments show that ReDeEP significantly improves RAG hallucination detection accuracy. Additionally, we introduce AARF, which mitigates hallucinations by modulating the contributions of Knowledge FFNs and Copying Heads."
+  },
+  {
+   "paperId": "9f2c62ece80c2d281e2d0a45038e1fc1b3165e8f",
+   "externalIds": {
+    "DBLP": "conf/bigdataconf/PetrovaKS25",
+    "DOI": "10.1109/BigData66926.2025.11401077",
+    "CorpusId": 286328494
+   },
+   "url": "https://www.semanticscholar.org/paper/9f2c62ece80c2d281e2d0a45038e1fc1b3165e8f",
+   "title": "CAR-RAG: Category-Aware Hybrid Retrieval-Augmented Generation for Hallucination Mitigation",
+   "venue": "BigData Congress [Services Society]",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://orbilu.uni.lu/bitstream/10993/67701/1/_camera_ready__CAR_RAG-7.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/BigData66926.2025.11401077?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/BigData66926.2025.11401077, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2025-12-08",
+   "authors": [
+    {
+     "authorId": "2066575151",
+     "name": "T. Petrova"
+    },
+    {
+     "authorId": "2328677014",
+     "name": "Dmitrii Koriakov"
+    },
+    {
+     "authorId": "1757227",
+     "name": "R. State"
+    }
+   ],
+   "abstract": "We introduce CAR-RAG (Category-Aware hybRid Retrieval-Augmented Generation), an approach to mitigate hallucinations in large language models (LLMs) for realworld deployments. Unlike single-modality pipelines, CARRAG conditions retrieval on semantic query categories and adaptively combines vector retrieval with lightweight causal query augmentation. This category-aware routing improves risk profiles by reducing contradicted claims, which are particularly harmful in safety-critical settings. We evaluate CAR-RAG on an automotive Q&A dataset comprising over 700 community-provided questions and answers from Stack Exchange's Motor Vehicle Maintenance & Repair forum. The framework achieves approximately 90 % factual accuracy and reduces confidently incorrect statements to 6.4 %, outperforming dense retrievers and the base LLM in risk-sensitive settings. These results highlight trade-offs between peak accuracy and robustness and position CAR-RAG as a practical, interpretable, deployment-ready solution for hallucination mitigation. It suits industrial contexts (automotive troubleshooting, service-center support, and technical diagnostics) where highprecision answers are essential. An open-source implementation is available on GitHub,11https://github.com/CAR-RAG/CAR-RAG"
+  },
+  {
+   "paperId": "f41977c497c96c1da2e9e945315e9be6d6ad472e",
+   "externalIds": {
+    "DBLP": "conf/aiml2/SarmahMPZ23",
+    "ArXiv": "2310.10760",
+    "DOI": "10.1145/3639856.3639895",
+    "CorpusId": 264172910
+   },
+   "url": "https://www.semanticscholar.org/paper/f41977c497c96c1da2e9e945315e9be6d6ad472e",
+   "title": "Towards reducing hallucination in extracting information from financial reports using Large Language Models",
+   "venue": "International Conference on AI-ML-Systems",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3639856.3639895",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2310.10760, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Book"
+   ],
+   "publicationDate": "2023-10-16",
+   "authors": [
+    {
+     "authorId": "23570698",
+     "name": "Bhaskarjit Sarmah"
+    },
+    {
+     "authorId": "2258962314",
+     "name": "Dhagash Mehta"
+    },
+    {
+     "authorId": "2258960763",
+     "name": "Stefano Pasquali"
+    },
+    {
+     "authorId": "2284789969",
+     "name": "Tianjie Zhu"
+    }
+   ],
+   "abstract": "For a financial analyst, the question and answer (Q&A) segment of the company financial report is a crucial piece of information for various analysis and investment decisions. However, extracting valuable insights from the Q&A section has posed considerable challenges as the conventional methods such as detailed reading and note-taking lack scalability and are susceptible to human errors, and Optical Character Recognition (OCR) and similar techniques encounter difficulties in accurately processing unstructured transcript text, often missing subtle linguistic nuances that drive investor decisions. Here, we demonstrate the utilization of Large Language Models (LLMs) to efficiently and rapidly extract information from earnings report transcripts while ensuring high accuracy—transforming the extraction process as well as reducing hallucination by combining retrieval-augmented generation technique as well as metadata. We evaluate the outcomes of various LLMs with and without using our proposed approach based on various objective metrics for evaluating Q&A systems, and empirically demonstrate superiority of our method."
+  },
+  {
+   "paperId": "00fedd3da96a37948585e1a586133760142506cb",
+   "externalIds": {
+    "PubMedCentral": "12729288",
+    "DOI": "10.3390/bioengineering12121303",
+    "CorpusId": 283394117,
+    "PubMed": "41463600"
+   },
+   "url": "https://www.semanticscholar.org/paper/00fedd3da96a37948585e1a586133760142506cb",
+   "title": "Agentic AI and Large Language Models in Radiology: Opportunities and Hallucination Challenges",
+   "venue": "Bioengineering",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2306-5354/12/12/1303/pdf?version=1764156566",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12729288, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-11-26",
+   "authors": [
+    {
+     "authorId": "2302708241",
+     "name": "Sara Salehi"
+    },
+    {
+     "authorId": "2281072114",
+     "name": "Yashbir Singh"
+    },
+    {
+     "authorId": "6434390",
+     "name": "K. Horst"
+    },
+    {
+     "authorId": "10159591",
+     "name": "Q. Hathaway"
+    },
+    {
+     "authorId": "144917634",
+     "name": "B. Erickson"
+    }
+   ],
+   "abstract": "The field of radiology is experiencing rapid adoption of large language models (LLMs), yet their tendency to generate hallucinations (plausible but incorrect information) remains a significant barrier to trust. This comprehensive review evaluates emerging agentic artificial intelligence (AI) approaches, including multi-agent role-based systems, retrieval-augmented generation (RAG), and uncertainty quantification, to assess their potential for reducing hallucinations in radiology workflows. Evidence from 2024 to 2025 demonstrates that agentic AI can improve diagnostic accuracy and reduce error rates, though these methods remain computationally demanding and lack comprehensive clinical validation. Multi-agent frameworks enable cross-validation through role-based specialization and systematic workflow orchestration, while RAG strategies enhance accuracy by grounding responses in verified medical literature. Within multi-agent systems, uncertainty quantification enables agents to communicate confidence levels to one another, allowing them to appropriately weigh each other’s contributions during collaborative analysis. While multi-agent frameworks and RAG strategies show significant promise, practical deployment will require careful integration with human oversight, robust evaluation metrics tailored to medical imaging tasks, and regulatory adaptation to ensure safe clinical use in diverse patient populations and imaging modalities."
+  },
+  {
+   "paperId": "d2a2b21dd80abe915ace9818f3bd0fde0723fba0",
+   "externalIds": {
+    "DBLP": "journals/tkdd/HuangYYX26",
+    "DOI": "10.1145/3789506",
+    "CorpusId": 285971817
+   },
+   "url": "https://www.semanticscholar.org/paper/d2a2b21dd80abe915ace9818f3bd0fde0723fba0",
+   "title": "Retrieval-Augmented Generation for Multi-Hop Question Answering Based on Structured Planning",
+   "venue": "ACM Transactions on Knowledge Discovery from Data",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3789506?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3789506, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-02-23",
+   "authors": [
+    {
+     "authorId": "2346553302",
+     "name": "Yujiao Huang"
+    },
+    {
+     "authorId": "2336829232",
+     "name": "Ling Yang"
+    },
+    {
+     "authorId": "2383510257",
+     "name": "Xu-Hua Yang"
+    },
+    {
+     "authorId": "2152775349",
+     "name": "Xin-Li Xu"
+    }
+   ],
+   "abstract": "Retrieval-augmented generation (RAG) has been proposed to mitigate the hallucination problem of large language models (LLMs) in knowledge-intensive tasks by incorporating external knowledge. However, in multi-hop question answering, existing iterative retrieval methods often struggle to maintain focus on key information. As the number of retrieval iterations increases, the generated queries can gradually drift from the correct reasoning path, and irrelevant or noisy information may accumulate, ultimately reducing reasoning accuracy. To address these challenges, we propose a novel retrieval-augmented generation method for multi-hop question answering based on structured planning. First, our approach employs pre-retrieval question planning to provide semantic guidance for iterative retrieval, ensuring greater consistency between retrieval and reasoning. In addition, we introduce a structured evidence extraction mechanism to effectively filter out noise in the retrieved information, leading to improved reasoning accuracy. Experimental results on three open-domain multi-hop question answering datasets demonstrate that our method can effectively alleviate the impact of retrieval bias and retrieval noise and exhibit competitive performance."
+  },
+  {
+   "paperId": "09edfc3de3c5a3af213c4f0fee713bb79aae145e",
+   "externalIds": {
+    "DBLP": "conf/bigdataconf/LeeYL25",
+    "DOI": "10.1109/BigData66926.2025.11401424",
+    "CorpusId": 286327715
+   },
+   "url": "https://www.semanticscholar.org/paper/09edfc3de3c5a3af213c4f0fee713bb79aae145e",
+   "title": "MP-RAG: Multi-Paraphrasing Enhanced Retrieval-Augmented Generation",
+   "venue": "BigData Congress [Services Society]",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/BigData66926.2025.11401424?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/BigData66926.2025.11401424, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2025-12-08",
+   "authors": [
+    {
+     "authorId": "2311458332",
+     "name": "Jia-En Lee"
+    },
+    {
+     "authorId": "17332783",
+     "name": "Seunghyun Yoon"
+    },
+    {
+     "authorId": "2281327647",
+     "name": "Hyuk Lim"
+    }
+   ],
+   "abstract": "Retrieval-Augmented Generation (RAG) mitigates hallucination in large language models (LLMs) by grounding generation in retrieved evidence, but its effectiveness is highly sensitive to the phrasing of user queries. Small lexical or syntactic variations can cause dense retrievers to miss relevant passages, reducing answer quality. We propose MP-RAG, a multi-paraphrase retrieval framework that augments a standard RAG pipeline without modifying the underlying retriever architecture. MPRAG uses a lightweight LLM to generate multiple paraphrased variants of the input query, issues dense retrieval for each variant, and applies a cross-encoder reranker to refine the final ranked list. Experiments on a SQuAD 2.0 validation subset show that this multi-paraphrase retrieval strategy improves retrieval effectiveness and stabilizes top-ranked evidence, providing a simple, retriever-agnostic enhancement for more robust RAG pipelines."
+  }
+ ]
+}

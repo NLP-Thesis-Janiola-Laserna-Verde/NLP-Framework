@@ -1,0 +1,1064 @@
+{
+ "query": "Telemedicine effectiveness in rural health care",
+ "retrieved_at": "2026-11-18T18:11:18.300523+00:00",
+ "data": [
+  {
+   "paperId": "a5e7069cf3b65f33593ac97df199300f8a2ac610",
+   "externalIds": {
+    "DOI": "10.70177/health.v3i5.2581",
+    "CorpusId": 289916242
+   },
+   "url": "https://www.semanticscholar.org/paper/a5e7069cf3b65f33593ac97df199300f8a2ac610",
+   "title": "Telemedicine for Rural Healthcare Access: Evaluating Effectiveness in Reducing Health Disparities",
+   "venue": "Journal of World Future Medicine, Health and Nursing",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://research.adra.ac.id/index.php/health/article/download/2581/1900",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70177/health.v3i5.2581?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70177/health.v3i5.2581, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-08",
+   "authors": [
+    {
+     "authorId": "52269646",
+     "name": "Aria Pranatha"
+    },
+    {
+     "authorId": "2450870858",
+     "name": "Jamil Khan"
+    },
+    {
+     "authorId": "2447873719",
+     "name": "Razia Khan"
+    },
+    {
+     "authorId": "2447829656",
+     "name": "Agus Darmawan"
+    }
+   ],
+   "abstract": "Rural populations face persistent barriers to healthcare access due to geographical isolation, workforce shortages, and limited infrastructure. Telemedicine has emerged as a promising strategy to bridge these gaps by enabling remote consultations, diagnosis, and follow up care. Despite its increasing adoption, the effectiveness of telemedicine in reducing health disparities between rural and urban communities remains insufficiently evaluated. This study aims to assess the impact of telemedicine interventions on healthcare accessibility, patient outcomes, and equity in rural settings. A mixed-method approach was employed, combining quantitative analysis of service utilization data from 10 rural hospitals with qualitative interviews involving 85 healthcare professionals and patients. The findings demonstrate a 35% increase in patient access to primary and specialist care, alongside a significant reduction in appointment wait times and emergency referrals. Qualitative insights indicate enhanced patient satisfaction and continuity of care, though infrastructural and digital literacy barriers persist. The study concludes that telemedicine substantially improves healthcare equity in rural areas but requires sustained investment in technology, training, and policy integration to ensure long term scalability and inclusivity. The results contribute to evidence based policy frameworks for digital health expansion in underserved regions.\n "
+  },
+  {
+   "paperId": "1c57bbfcdffc9463722a2f8e341338437af3a10c",
+   "externalIds": {
+    "MAG": "2739083525",
+    "DOI": "10.1176/APPI.FOCUS.15306",
+    "CorpusId": 18130265,
+    "PubMed": "32015700"
+   },
+   "url": "https://www.semanticscholar.org/paper/1c57bbfcdffc9463722a2f8e341338437af3a10c",
+   "title": "Practice-Based Versus Telemedicine-Based Collaborative Care for Depression in Rural Federally Qualified Health Centers: A Pragmatic Randomized Comparative Effectiveness Trial.",
+   "venue": "Focus",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6519549",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1176/APPI.FOCUS.15306?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1176/APPI.FOCUS.15306, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2017-07-01",
+   "authors": [
+    {
+     "authorId": "6158544",
+     "name": "J. Fortney"
+    },
+    {
+     "authorId": "6899484",
+     "name": "J. Pyne"
+    },
+    {
+     "authorId": "50672713",
+     "name": "Sip Mouden"
+    },
+    {
+     "authorId": "38095376",
+     "name": "D. Mittal"
+    },
+    {
+     "authorId": "145799080",
+     "name": "Teresa J. Hudson"
+    },
+    {
+     "authorId": "2062720916",
+     "name": "Gary W. Schroeder"
+    },
+    {
+     "authorId": "46704555",
+     "name": "D. Williams"
+    },
+    {
+     "authorId": "5962184",
+     "name": "C. A. Bynum"
+    },
+    {
+     "authorId": "34188679",
+     "name": "Rhonda Mattox"
+    },
+    {
+     "authorId": "40247665",
+     "name": "K. Rost"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "3d4ac74c782a12bec72d9af1292f5144bae60710",
+   "externalIds": {
+    "PubMedCentral": "12261626",
+    "DOI": "10.1186/s12939-025-02584-2",
+    "CorpusId": 294945581,
+    "PubMed": "40660269"
+   },
+   "url": "https://www.semanticscholar.org/paper/3d4ac74c782a12bec72d9af1292f5144bae60710",
+   "title": "Bridging the gap: telemedicine as a solution for HIV care inequities in rural and vulnerable communities",
+   "venue": "International Journal for Equity in Health",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://equityhealthj.biomedcentral.com/counter/pdf/10.1186/s12939-025-02584-2",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12261626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "LettersAndComments",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-14",
+   "authors": [
+    {
+     "authorId": "2114270529",
+     "name": "C. Ezenwaji"
+    },
+    {
+     "authorId": "89077992",
+     "name": "E. Alum"
+    },
+    {
+     "authorId": "123580646",
+     "name": "Ugwu Okechukwu Paul-Chima"
+    }
+   ],
+   "abstract": "Despite advancements in HIV management, healthcare inequalities continue to exist, especially in rural and populations vulnerable to HIV, where factors such as distance, low income, prejudice, and a shortage of healthcare workers contribute to delayed diagnosis and inadequate care. This commentary explores how telemedicine can close the healthcare disparity gap for HIV patients in rural and vulnerable settings by bringing care closer and decreasing stigma. The study analyzed primary sources, such as articles from PubMed, Science Direct, the Web of Science, and WHO reports from 2020 to 2024, including case studies, to examine the role of telemedicine in global HIV care. It assessed challenges, effectiveness, and infrastructural barriers, as well as policy implications. Telemedicine in HIV care for rural and vulnerable groups includes virtual consultation, monitoring, telehealth, digital health education, diagnostic services, telecounselling, telemental health, telepreventive care, and emergency services. It improves treatment involvement, reduces travel, ensures confidentiality, and reduces social disapproval. However, internet inefficiency and infrastructure issues in isolated regions hinder its use. Telemedicine effectively addresses HIV care gaps in rural and high-risk populations by increasing service utilization, reducing stigma, and improving patient care quality; however, long-term sustainability requires infrastructure improvements and internet connectivity issues."
+  },
+  {
+   "paperId": "ce229d3d3b026acac67b241327ee94ef4610e0e6",
+   "externalIds": {
+    "DOI": "10.1089/tmj.2021.0481",
+    "CorpusId": 246124691,
+    "PubMed": "35049394"
+   },
+   "url": "https://www.semanticscholar.org/paper/ce229d3d3b026acac67b241327ee94ef4610e0e6",
+   "title": "A Systematic Review of the Effectiveness of Telemedicine in Reproductive and Neonatal Health in Rural and Low-Income Areas in India.",
+   "venue": "Telemedicine journal and e-health",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1089/tmj.2021.0481?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/tmj.2021.0481, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-01-18",
+   "authors": [
+    {
+     "authorId": "2142882041",
+     "name": "Siddhartha Peri"
+    },
+    {
+     "authorId": "4898386",
+     "name": "A. Bagchi"
+    },
+    {
+     "authorId": "2861033",
+     "name": "A. Baveja"
+    }
+   ],
+   "abstract": "A systematic review of four relevant databases for articles about the use of telemedicine to expand access to neonatal and reproductive health in rural India was conducted. The objective of this review was to identify initiatives with evidence for potential public health benefits through large-scale implementation. Of 3,098 records from the initial search, 1,415 records were selected for further review after removing duplicates. Eight reports that met the eligibility and inclusion criteria were included in the final review. Selected studies included two types of interventions, direct telemedicine interventions with patients and indirect telemedicine interventions through frontline health care workers. Among studies involving direct telemedicine interventions, 22.4% of the collective health and knowledge outcomes (n = 49) showed statistically significant improvement in the intervention group, whereas 38.0% of the collective health and knowledge outcomes (n = 50) in the studies involving indirect telemedicine intervention showed statistically significant improvement. This systematic review suggested that the use of telemedicine interventions may have a statistically significant effect through educational impacts. There were certain limitations around the use of technology and training that may have undermined the effects of some of the outcomes. This systematic review did not receive any funding."
+  },
+  {
+   "paperId": "e1144a966264c5fd6c8814ee7ae2b52fa5071174",
+   "externalIds": {
+    "DOI": "10.1155/hsc/9651831",
+    "CorpusId": 277088969
+   },
+   "url": "https://www.semanticscholar.org/paper/e1144a966264c5fd6c8814ee7ae2b52fa5071174",
+   "title": "Association of Telemedicine With Life Satisfaction and Satisfaction With Care in Rural China",
+   "venue": "Health &amp; Social Care in the Community",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/hsc/9651831",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/hsc/9651831?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/hsc/9651831, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-01",
+   "authors": [
+    {
+     "authorId": "2143766420",
+     "name": "Xintong Zhao"
+    },
+    {
+     "authorId": "2316671305",
+     "name": "Qi Wang"
+    },
+    {
+     "authorId": "2331141990",
+     "name": "Shao-Jie Zhou"
+    },
+    {
+     "authorId": "2152596325",
+     "name": "Miao Yu"
+    }
+   ],
+   "abstract": "Objectives: The effectiveness of telemedicine in rural areas with low‐quality primary care remains unclear. This study examined the relationship of telemedicine adoption with life satisfaction and satisfaction with care in rural China. It also investigated the association of telemedicine with health‐seeking behaviour, healthcare utilisation and heterogeneity in the type of telemedicine collaboration and the quality of healthcare workforce."
+  },
+  {
+   "paperId": "991cfd0c9c9b1e9a41a56c2932792edb2b4c5396",
+   "externalIds": {
+    "DOI": "10.71465/bhsr54",
+    "CorpusId": 287614826
+   },
+   "url": "https://www.semanticscholar.org/paper/991cfd0c9c9b1e9a41a56c2932792edb2b4c5396",
+   "title": "Cost-Effectiveness Analysis of Telemedicine in Rural Healthcare Systems",
+   "venue": "Bulletin of Health Services Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://bhsr.online/index.php/Journal/article/download/54/201",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.71465/bhsr54?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.71465/bhsr54, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-30",
+   "authors": [
+    {
+     "authorId": "2108237004",
+     "name": "Ayesha Khan"
+    },
+    {
+     "authorId": "2276932561",
+     "name": "Samuel Ortega"
+    },
+    {
+     "authorId": "2500707133",
+     "name": "Lina Chowdhury"
+    }
+   ],
+   "abstract": "Telemedicine has emerged as a promising strategy to address geographic, workforce, and infrastructure constraints that limit access to care in rural regions. This paper presents a pragmatic cost-effectiveness analysis (CEA) framework for rural health systems, focusing on primary-care consultations and chronic-disease follow-up. We develop a simple decision-analytic model that compares telemedicine to conventional in-person care from a health-system perspective over a one-year horizon. Cost categories include capital (hardware, connectivity, platform), operational (staff time, training, maintenance), and patient-incurred costs (travel and time). Effects are measured as additional consultations delivered, avoided referrals, and quality-adjusted life-years (QALYs) proxied through improved guideline-concordant care. Scenario analysis shows telemedicine is cost-saving at moderate-to-high utilization due to reduced travel, better provider time allocation, and avoidance of unnecessary facility visits and referrals. At low utilization, fixed costs dominate and telemedicine can be more expensive per consultation. Threshold analysis highlights breakeven volumes and connectivity prices at which telemedicine switches from cost-increasing to cost-saving. We discuss implementation levers—workforce workflows, hub-and-spoke routing, device sharing, demand generation, and data governance—that improve value for money while safeguarding equity and quality. The results support scaling telemedicine in rural systems when paired with adequate throughput, training, and reimbursement alignment."
+  },
+  {
+   "paperId": "ed4176de9466720448da50b8eaec8c37b2ee5527",
+   "externalIds": {
+    "PubMedCentral": "12421207",
+    "DOI": "10.2196/77630",
+    "CorpusId": 280871381,
+    "PubMed": "40858294"
+   },
+   "url": "https://www.semanticscholar.org/paper/ed4176de9466720448da50b8eaec8c37b2ee5527",
+   "title": "Improving Access to Specialty Care for Rural Children Using Enhanced Hearing Screening and Specialty Telehealth Follow-Up in Rural Kentucky Schools: Protocol for a Hybrid Effectiveness-Implementation Stepped Wedge, Cluster-Randomized Controlled Trial (Appalachian STAR Trial)",
+   "venue": "JMIR Research Protocols",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2196/77630",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12421207, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-21",
+   "authors": [
+    {
+     "authorId": "2054689459",
+     "name": "Tarika Srinivasan"
+    },
+    {
+     "authorId": "2519523105",
+     "name": "Samantha Kleindienst Robler"
+    },
+    {
+     "authorId": "2355578616",
+     "name": "Elizabeth Turner"
+    },
+    {
+     "authorId": "8117199",
+     "name": "A. Platt"
+    },
+    {
+     "authorId": "2241398710",
+     "name": "D. Arthur"
+    },
+    {
+     "authorId": "6883385",
+     "name": "Janet A. Prvu Bettger"
+    },
+    {
+     "authorId": "2355577689",
+     "name": "Hannah Lane"
+    },
+    {
+     "authorId": "2536439311",
+     "name": "Marissa Schuh Gebert"
+    },
+    {
+     "authorId": "35199348",
+     "name": "S. Deshpande"
+    },
+    {
+     "authorId": "4069144",
+     "name": "N. Schoenberg"
+    },
+    {
+     "authorId": "2800136",
+     "name": "M. Bush"
+    },
+    {
+     "authorId": "4182160",
+     "name": "S. Emmett"
+    }
+   ],
+   "abstract": "Background Rural populations are disproportionately affected by preventable childhood hearing loss, which is associated with speech and language delays, impaired social development, and decreased educational attainment. Rural schools are critical access points for preventive health screenings such as hearing screening, but variable screening implementation, loss to follow-up, and scarcity of specialists in rural areas diminish program effectiveness. We seek to implement a school-based telehealth intervention to increase access to specialty hearing care for children in rural Kentucky. Objective The Appalachian Specialty Telemedicine Access for Referrals (STAR) trial will assess effectiveness and implementation of the novel, evidence-based STAR model, consisting of 3 core components: (1) enhanced hearing screening; (2) specialty telehealth follow-up; and (3) streamlined communication between schools, health care providers, and parents and caregivers. Methods Adaptation of the STAR model for rural Kentucky will occur in the first 2 years, followed by a phased rollout of the intervention using a stepped wedge, cluster-randomized design among kindergartners enrolled in approximately 63 schools in 14 counties of rural Kentucky. School districts were identified based on scientific and community input, as well as geographic proximity to state-run clinics, which provide audiology evaluation free of charge. School districts were randomized into 2 sequences using constrained randomization to balance baseline covariates, such as kindergarten enrollment and number screened. This hybrid type 1 effectiveness-implementation trial will evaluate effectiveness of the STAR model compared with usual hearing screening and usual follow-up process using an intention-to-treat approach with generalized estimating equations. Barriers and facilitators to implementation of the intervention will be identified using a mixed methods approach. The primary effectiveness outcomes are the (1) proportion of kindergarteners screened and (2) proportion of referred kindergarteners who receive specialty follow-up within 60 days of screening. Implementation outcomes include assessment of factors affecting successful integration of the STAR model. Iterative adaptation of the intervention will be performed at prespecified time points to maximize implementation outcomes. Results The trial began in September 2022 and is expected to conclude in May 2026. Final data analysis is planned to begin in June 2026, and publication of results is expected in 2027. Conclusions The STAR model addresses issues related to identification of hearing loss, loss to follow-up from screening, and access to specialty care in rural Kentucky. Effectiveness outcomes may inform future policy for school hearing screening, including adoption of evidence-based protocols to address preventable childhood hearing loss and integration of school-based specialty telehealth follow-up to improve follow-up. Implementation aims may maximize the STAR model’s adaptability and overall fit. Community input and systematic adaptation will ensure consideration of unique needs and priorities of rural Kentucky counties. If successful, the STAR model could be scaled across rural America and applied to other preventable child health conditions. Trial Registration ClinicalTrials.gov NCT05513833; https://clinicaltrials.gov/study/NCT05513833 International Registered Report Identifier (IRRID) DERR1-10.2196/77630"
+  },
+  {
+   "paperId": "79c988188d81490f299017ebde10a0d1886e7170",
+   "externalIds": {
+    "DOI": "10.1016/j.pcl.2024.07.028",
+    "CorpusId": 272922617,
+    "PubMed": "39603721"
+   },
+   "url": "https://www.semanticscholar.org/paper/79c988188d81490f299017ebde10a0d1886e7170",
+   "title": "Pediatric Telemedicine Consults to Improve Access to Intensive Care in Rural Environments.",
+   "venue": "The Pediatric clinics of North America",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.pcl.2024.07.028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.pcl.2024.07.028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-09-01",
+   "authors": [
+    {
+     "authorId": "8705571",
+     "name": "R. Umoren"
+    },
+    {
+     "authorId": "2275342231",
+     "name": "Krista L. Birnie"
+    }
+   ],
+   "abstract": "Recent advances in telehealth adoption prompted by the COVID-19 pandemic have highlighted the potential for improved intensive care outcomes through implementing pediatric telehealth in rural and remote settings. Telemedicine consults can be used in a variety of intensive care scenarios including procedural support, resuscitation, specialty consults, and transport. Telemedicine consults for pediatric care in rural environments improve access, cost-effectiveness, and family-centeredness. Challenges to adopting telemedicine consults for intensive care unit level care include issues around training, technology, resource allocation, and attention to how implementation exacerbate or improve health disparities."
+  },
+  {
+   "paperId": "cd73682c3f137ea852c063367bd23609d816ce28",
+   "externalIds": {
+    "DOI": "10.5455/rmj.20250114035702",
+    "CorpusId": 280528926
+   },
+   "url": "https://www.semanticscholar.org/paper/cd73682c3f137ea852c063367bd23609d816ce28",
+   "title": "Exploring the role of telemedicine in enhancing rural nursing care",
+   "venue": "Rawal Medical Journal",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5455/rmj.20250114035702?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5455/rmj.20250114035702, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2354438017",
+     "name": "A. Elmdni"
+    }
+   ],
+   "abstract": "Objective: To evaluate the effectiveness of telemedicine-supported nursing care on patient health outcomes, nurse productivity, and satisfaction levels in rural healthcare Settings. \nMethodology: An intervention group is exposed to telemedicine, and a control group is exposed to care standards. Pre-test and Post-test questionnaires were used. \nResults: There were notable improvements in clinical outcomes among the intervention group, including reductions in systolic blood pressure and HbA1c levels. Nurse performance improved through more efficient documentation and enhanced job satisfaction, while patients expressed greater satisfaction with the convenience and accessibility of services. However, challenges such as poor technological infrastructure and limited digital literacy among patients were identified as barriers.\nConclusions: Telemedicine can significantly enhance rural healthcare delivery by improving accessibility, patient outcomes, and nurse efficiency. Successful implementation requires adequate funding, improved infrastructure, and proper training for healthcare providers."
+  },
+  {
+   "paperId": "215f9901310eb8875ad24feb2bbae7a837c62c89",
+   "externalIds": {
+    "DOI": "10.1109/iCon-BCIHT63907.2024.10882249",
+    "CorpusId": 276451479
+   },
+   "url": "https://www.semanticscholar.org/paper/215f9901310eb8875ad24feb2bbae7a837c62c89",
+   "title": "Machine Learning-Enhanced Solutions for Mitigating PCOS/PCOD-Related Women's Health Disparities in Rural Areas: A Holistic Telemedicine System Design and Implementation",
+   "venue": "2024 International Conference on Brain Computer Interface & Healthcare Technologies (iCon-BCIHT)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/iCon-BCIHT63907.2024.10882249?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/iCon-BCIHT63907.2024.10882249, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-12-19",
+   "authors": [
+    {
+     "authorId": "2100548156",
+     "name": "Dhananjay Patel"
+    },
+    {
+     "authorId": "2346126999",
+     "name": "Manali Mhaskar"
+    },
+    {
+     "authorId": "2577559588",
+     "name": "Rutuja Shendage"
+    },
+    {
+     "authorId": "2205959160",
+     "name": "Riya Modi"
+    },
+    {
+     "authorId": "2346127315",
+     "name": "Rutvik Sarvade"
+    },
+    {
+     "authorId": "2280585188",
+     "name": "Arunkumar Ram"
+    },
+    {
+     "authorId": "2216341240",
+     "name": "V. Bhandiwad"
+    }
+   ],
+   "abstract": "Telemedicine plays a crucial role in modern healthcare by providing remote medical services that enhance access and equity, particularly in underserved areas. Polycystic ovary syndrome (PCDS) and polycystic ovarian disorder (PCOD) are prevalent reproductive health issues that significantly impact women globally. Access to gynecological care in remote regions is often hindered by a shortage of specialists, transportation challenges, cultural barriers, and low health literacy, resulting in delayed diagnoses and untreated conditions that can increase maternal and neonatal mortality rates. This paper presents a telemedicine initiative aimed at empowering women by offering essential gynecological services for PCDS and PCOD, regardless of geographical constraints. The platform includes remote video consultations, menstrual cycle tracking, educational resources, and appointment reminders, facilitated by Accredited Social Health Activist (ASHA) workers. These findings illustrate the effectiveness of this approach in improving healthcare access for women, promoting a more equitable future. Additionally, we introduce a machine learning model utilizing a Random Forest algorithm for patient classification based on PCDS and PCOD symptoms. Trained on an 80/20 split dataset, the model's accuracy is evaluated using confusion matrices. This study represents a significant step toward bridging geographical disparities in rural India and providing quality gynecological care."
+  },
+  {
+   "paperId": "d370ac2dfdcffcebd36e96926ec868e6b032c94e",
+   "externalIds": {
+    "PubMedCentral": "3816374",
+    "MAG": "2137904243",
+    "DOI": "10.1176/appi.ajp.2012.12050696",
+    "CorpusId": 288399601,
+    "PubMed": "23429924"
+   },
+   "url": "https://www.semanticscholar.org/paper/d370ac2dfdcffcebd36e96926ec868e6b032c94e",
+   "title": "Practice Based Versus Telemedicine Based Collaborative Care for Depression in Rural Federally Qualified Health Centers: A Pragmatic Randomized Comparative Effectiveness Trial",
+   "venue": "American Journal of Psychiatry",
+   "year": 2013,
+   "openAccessPdf": {
+    "url": "http://europepmc.org/articles/PMC3816374",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3816374, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2013-04-01",
+   "authors": [
+    {
+     "authorId": "6158544",
+     "name": "J. Fortney"
+    },
+    {
+     "authorId": "6899484",
+     "name": "J. Pyne"
+    },
+    {
+     "authorId": "50672713",
+     "name": "Sip Mouden"
+    },
+    {
+     "authorId": "38095376",
+     "name": "D. Mittal"
+    },
+    {
+     "authorId": "2301492737",
+     "name": "Teresa J. Hudson"
+    },
+    {
+     "authorId": "2062720916",
+     "name": "Gary W. Schroeder"
+    },
+    {
+     "authorId": "2253900907",
+     "name": "David K. Williams"
+    },
+    {
+     "authorId": "5962184",
+     "name": "C. A. Bynum"
+    },
+    {
+     "authorId": "34188679",
+     "name": "Rhonda Mattox"
+    },
+    {
+     "authorId": "40247665",
+     "name": "K. Rost"
+    }
+   ],
+   "abstract": "Objective Practice Based Collaborative Care is a complex evidence-based practice that is difficult to implement in smaller primary care practices lacking on-site mental health staff. Telemedicine Based Collaborative Care virtually co-locates and integrates mental health providers into primary care settings. The objective of this multi-site randomized pragmatic comparative effectiveness trial was to compare the outcomes of patients randomized to Practice Based versus Telemedicine Based Collaborative Care. Method From 2007–2009, patients at Federally Qualified Health Centers serving medically underserved populations were screened for depression, and 364 patients screening positive were enrolled and followed for 18 months. Those randomized to Practice Based Collaborative Care received evidence-based care from an on-site primary care provider and nurse care manager. Those randomized to Telemedicine Based Collaborative Care received evidence-based care from an on-site primary care provider and off-site telephone nurse care manager, telephone pharmacist, tele-psychologist and tele-psychiatrist. The primary clinical outcomes were treatment response, remission and changes in depression severity Results There were significant group main effects for both response (OR=7.74, CI95=3.94–15.20, p<0.0001) and remission (OR=12.69, CI95=4.81–33.46, p<0.0001) and a significant overall group by time interaction effect for Hopkins Symptom Checklist depression severity (χ23=40.51, p<0.0001) with greater reductions in depression severity observed over time for those randomized to Telemedicine Based Collaborative Care. Improvements in outcomes appeared to be attributable to higher fidelity to the collaborative care evidence-base in the Telemedicine Based group. Conclusions Contracting with an off-site Telemedicine Based Collaborative Care team yields better outcomes than implementing Practice Based Collaborative Care with locally available staff."
+  },
+  {
+   "paperId": "cc8d8a80998b2be0959ea22d303bca2065a8ec1b",
+   "externalIds": {
+    "PubMedCentral": "9831086",
+    "DOI": "10.2147/JPR.S383212",
+    "CorpusId": 255592397,
+    "PubMed": "36636266"
+   },
+   "url": "https://www.semanticscholar.org/paper/cc8d8a80998b2be0959ea22d303bca2065a8ec1b",
+   "title": "Implementation and Preliminary Effectiveness of a Multidisciplinary Telemedicine Pilot Initiative for Patients with Chronic Non-Cancer Pain in Rural and Underserved Areas at a Major Academic Medical Center",
+   "venue": "Journal of Pain Research",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.dovepress.com/getfile.php?fileID=86615",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9831086, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-01-01",
+   "authors": [
+    {
+     "authorId": "7157535",
+     "name": "Corey J. Hayes"
+    },
+    {
+     "authorId": "2183589951",
+     "name": "Matthew A. Gannon"
+    },
+    {
+     "authorId": "8239663",
+     "name": "Eva N. Woodward"
+    },
+    {
+     "authorId": "7642786",
+     "name": "Christopher R. Long"
+    },
+    {
+     "authorId": "11960185",
+     "name": "Masil George"
+    },
+    {
+     "authorId": "1402682991",
+     "name": "Shona L. Ray-Griffith"
+    },
+    {
+     "authorId": "2039831981",
+     "name": "Leah Tobey"
+    },
+    {
+     "authorId": "25521582",
+     "name": "J. Goree"
+    }
+   ],
+   "abstract": "Background Arkansas lacks adequate access to high-quality pain care, as evidenced, in part, by it having the second highest opioid prescribing rate in the United States. To improve access to high-quality treatment of chronic pain, we developed the Arkansas Improving Multidisciplinary Pain Care and Treatment (AR-IMPACT) Telemedicine Clinic, a multidisciplinary and interprofessional team of specialists who provide evidence-based pain management for patients with chronic pain. Methods We conducted a single-arm pilot trial of the AR-IMPACT Telemedicine Clinic with rural, university-affiliated primary care clinics. We assessed the AR-IMPACT Telemedicine Clinic using an implementation framework and preliminary effectiveness measures. Specifically, we assessed 5 of the 8 implementation outcomes of the framework (ie, penetration, adoption, acceptability, appropriateness, and feasibility) using a mixed methods approach. To evaluate implementation outcomes, we used surveys, interviews, and administrative data. We used electronic health record data to measure preliminary effectiveness (ie, changes in average morphine milligram equivalents per day and pain and depression scores). Results The AR-IMPACT team saw 23 patients that were referred by 13 primary care physicians from three rural, university-affiliated primary care clinics over one year. Of the 19 patients willing to participate in the pilot study, 12 identified as women, 31.6% identified as Black, and over 50% had less than a bachelor’s level education. Patients rated the clinic positively with high overall satisfaction. Referring physicians indicated high levels of appropriateness, acceptability, and feasibility of the program. AR-IMPACT team members identified several barriers and facilitators to the feasibility of implementing the program. No changes in preliminary effectiveness measures were statistically significant. Conclusion Overall, the AR-IMPACT Telemedicine Clinic obtained moderate penetration and adoption, was highly acceptable to patients, was highly acceptable and appropriate to providers, and was moderately feasible to providers and AR-IMPACT team members."
+  },
+  {
+   "paperId": "eeeb51a5c7cc5c403b2c4155cc5a532e3b31c274",
+   "externalIds": {
+    "DOI": "10.66206/eduheart.ijnhha.33",
+    "CorpusId": 289463304
+   },
+   "url": "https://www.semanticscholar.org/paper/eeeb51a5c7cc5c403b2c4155cc5a532e3b31c274",
+   "title": "Exploring the Lived Experiences of Rural Health Unit Nurses on mWell Telemedicine Platform Utilization in Sitangkai, Tawi-Tawi: A Qualitative Study",
+   "venue": "International Journal of Nursing, Healthcare and Hospital Administration",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://epublications.myeduheart.com/index.php/ijnhha/article/download/111/126",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.66206/eduheart.ijnhha.33?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.66206/eduheart.ijnhha.33, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-19",
+   "authors": [
+    {
+     "authorId": "2443767953",
+     "name": "Haifa Saul Yusoph"
+    },
+    {
+     "authorId": "2572168409",
+     "name": "J. J. A. D. M. J. J. A. D. Merced"
+    }
+   ],
+   "abstract": "This qualitative phenomenological study explored the lived experiences of Rural Health Unit nurses in utilizing the mWell telemedicine platform in Sitangkai, Tawi-Tawi, a geographically isolated island municipality in the southern Philippines. The study examined how telemedicine supported community nursing practice, healthcare access, care continuity, and workforce response in a rural island setting. Using purposive sampling, nine community nurses from the Rural Health Unit of Sitangkai who had used or attempted to use mWell participated in semi-structured interviews. Data were analyzed through Braun and Clarke’s six-phase thematic analysis. Findings generated six major themes: mWell as a mechanism for sustaining healthcare delivery; telehealth as a response to geographic isolation; training and competence as determinants of telehealth effectiveness; technical and communication readiness as conditions for quality care; mWell as a bridge for workforce gaps and referral networks; and persistent barriers limiting equitable telehealth access. Results indicate that mWell contributed to continuity of care, reduced travel burden, remote consultation, and referral support. However, its implementation was constrained by unstable connectivity, limited digital infrastructure, inadequate training, digital literacy gaps, and the continued need for face-to-face care in complex cases. The study concludes that mWell is a promising complementary mechanism for rural healthcare delivery, but its effectiveness depends on institutional support, provider readiness, reliable infrastructure, and context-sensitive implementation."
+  },
+  {
+   "paperId": "2021c7e4f602ca138784da5c54f4da07546092b4",
+   "externalIds": {
+    "DOI": "10.59298/nijbas/2026/7.1.1923",
+    "CorpusId": 289560816
+   },
+   "url": "https://www.semanticscholar.org/paper/2021c7e4f602ca138784da5c54f4da07546092b4",
+   "title": "Telemedicine-Based Diabetes Management in Rural Populations: Clinical Outcomes and Cost-Effectiveness Analysis",
+   "venue": "NEWPORT INTERNATIONAL JOURNAL OF BIOLOGICAL AND APPLIED SCIENCES",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59298/nijbas/2026/7.1.1923?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59298/nijbas/2026/7.1.1923, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-06-20",
+   "authors": [
+    {
+     "authorId": "2335023417",
+     "name": "Agnes Kansiime"
+    }
+   ],
+   "abstract": "Diabetes mellitus remained a major global public health challenge, disproportionately affecting rural populations where access to specialized healthcare services was often limited. The growing integration of telemedicine into chronic disease management emerged as a promising strategy to bridge geographic, economic, and infrastructural gaps in diabetes care. The purpose of this review article was to critically examine the effectiveness of telemedicinebased diabetes management in rural populations, with particular emphasis on clinical outcomes and cost-effectiveness. A narrative literature review methodology was employed, synthesizing evidence from peer-reviewed clinical trials, observational studies, health economic analyses, and systematic reviews relevant to telemedicine applications in rural diabetes care. The findings consistently demonstrated that telemedicine interventions are associated with significant improvements in glycemic control, medication adherence, self-management behaviors, and patient satisfaction, while also reducing diabetes-related complications and healthcare utilization. Costeffectiveness analyses further revealed that telemedicine-based models often lower long-term healthcare expenditures by minimizing travel costs, hospital admissions, and productivity losses, particularly in resourceconstrained rural settings. Telemedicine represented an effective and economically viable approach to enhancing diabetes management in rural populations, although challenges related to digital infrastructure, health literacy, and regulatory frameworks persisted. Strategic investment and policy support were recommended to optimize\ntelemedicine integration into rural healthcare systems.\n\nKeywords: Telemedicine, Diabetes management, Rural health, Clinical outcomes, Cost effectiveness."
+  },
+  {
+   "paperId": "32ba6021d894f4854d8d0c96548598e8bb8dd9a2",
+   "externalIds": {
+    "DOI": "10.12775/qs.2026.63.73556",
+    "CorpusId": 290137694
+   },
+   "url": "https://www.semanticscholar.org/paper/32ba6021d894f4854d8d0c96548598e8bb8dd9a2",
+   "title": "Telemedicine in Cardiological Care in Rural Areas: A Review of Implementation Barriers and Efficacy Indicators",
+   "venue": "Quality in Sport",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://apcz.umk.pl/QS/article/download/73556/47036",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12775/qs.2026.63.73556?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12775/qs.2026.63.73556, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-07-12",
+   "authors": [
+    {
+     "authorId": "2290425476",
+     "name": "Dominika Ciesielska"
+    },
+    {
+     "authorId": "122308105",
+     "name": "Natalia Zięba"
+    },
+    {
+     "authorId": "119150626",
+     "name": "Mateusz Czech"
+    },
+    {
+     "authorId": "2449671496",
+     "name": "Miłosz Cisłak"
+    },
+    {
+     "authorId": "2449671470",
+     "name": "Michał Chojęta"
+    },
+    {
+     "authorId": "2449670703",
+     "name": "Jakub Czmok"
+    },
+    {
+     "authorId": "2279708322",
+     "name": "Dominik Tarczyński"
+    },
+    {
+     "authorId": "49912444",
+     "name": "A. Mazur"
+    },
+    {
+     "authorId": "2449671476",
+     "name": "Katarzyna Kociuba"
+    },
+    {
+     "authorId": "2348654310",
+     "name": "Mikołaj Brzusek"
+    }
+   ],
+   "abstract": "Background: Rural communities are characterized by increased incidence of cardiovascular diseases and higher mortality rates, which result from limited access to specialized medical care. The use of telecardiology technologies allows for the circumvention of geographical barriers through remote monitoring of patients' vital signs. \nAim: The aim of this study is to provide a comprehensive review of clinical effectiveness indicators for telemedicine and to identify systemic, organizational, and socio-demographic barriers hindering its implementation in rural areas. \nMaterials and Methods: This non-systematic review includes studies published in the PubMed database between 2021 and 2025 concerning telemedicine in cardiac care in rural areas. The keywords used included: telemedicine, telehealth, telecardiology, remote patient monitoring, cardiology, cardiovascular care, heart failure, rural health, rural areas, implementation barriers, digital literacy, broadband internet, quality of life, and patient outcomes. \nResults: Remote care for patients with heart failure reduces the number of readmissions and lowers mortality, resulting in cost savings for the healthcare system. The development of these technologies is hindered by the phenomenon of digital exclusion caused by a lack of broadband connectivity and low technological competence among patients. Additional difficulties stem from challenges with the integration of IT systems and the lack of consistent reimbursement policies. \nConclusions: The implementation of telecardiology in the form of integrated hybrid models yields tangible clinical benefits. However, the effective and stable use of remote systems in the long term requires the parallel expansion of local network infrastructure and the application of artificial intelligence algorithms for the automatic verification of incoming telemetry data."
+  },
+  {
+   "paperId": "54d76548532fe2ce219b723be526ca37aba6e414",
+   "externalIds": {
+    "DOI": "10.1089/tmj.2024.0353",
+    "CorpusId": 271570604,
+    "PubMed": "39082066"
+   },
+   "url": "https://www.semanticscholar.org/paper/54d76548532fe2ce219b723be526ca37aba6e414",
+   "title": "Cost-Effectiveness of a Telemedicine Optometric-Based Assessment for Screening Diabetic Retinopathy in a Country with a Universal Public Health System",
+   "venue": "Telemedicine journal and e-health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://uvadoc.uva.es/bitstream/10324/79394/1/ortiz-toquero-et-al-2024-cost-effectiveness-of-a-telemedicine-optometric-based-assessment-for-screening-diabetic.pdf",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1089/tmj.2024.0353?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/tmj.2024.0353, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-07-31",
+   "authors": [
+    {
+     "authorId": "1401016579",
+     "name": "S. Ortiz-Toquero"
+    },
+    {
+     "authorId": "98787873",
+     "name": "Guillermo Aleixandre"
+    },
+    {
+     "authorId": "2313906861",
+     "name": "Yolanda Valpuesta"
+    },
+    {
+     "authorId": "2561220878",
+     "name": "Cristina Perez Fernandez"
+    },
+    {
+     "authorId": "2564095366",
+     "name": "Purificación de la Iglesia"
+    },
+    {
+     "authorId": "144988697",
+     "name": "J. Pastor"
+    },
+    {
+     "authorId": "1422121332",
+     "name": "M. López-Gálvez"
+    }
+   ],
+   "abstract": "Objective: To determine the cost-effectiveness of a new telemedicine optometric-based screening program of diabetic retinopathy (DR) compared with traditional models’ assessments in a universal European public health system. Methods: A new teleophthalmology program for DR based on the assessment of retinographies (3-field Joslin Vision Network by a certified optometrist and a reading center [IOBA-RC]) was designed. This program was first conducted in a rural area 40 km from the referral hospital (Medina de Rioseco, Valladolid, Spain). The cost-effectiveness was compared with telemedicine based on evaluations by primary care physicians and general ophthalmologists, and to face-to-face examinations conducted by ophthalmologists. A decision tree model was developed to simulate the cost-effectiveness of both models, considering public and private costs. The effectiveness was measured in terms of quality of life. Results: A total of 261 patients with type 2 diabetes were included (42 had significant DR and required specific surveillance by the RC; 219 were undiagnosed). The sensitivity and specificity of the detection of DR were 100% and 74.1%, respectively. The telemedicine-based DR optometric screening model demonstrated similar utility to models based on physicians and general ophthalmologists and traditional face-to-face evaluations (0.845) at a lower cost/patient (€51.23, €71.65, and €86.46, respectively). Conclusions: The telemedicine-based optometric screening program for DR in a RC demonstrated cost savings even in a developed country with a universal health care system. These results support the expansion of this kind of teleophthalmology program not only for screening but also for the follow-up of diabetic patients."
+  },
+  {
+   "paperId": "c73324f07f08e42c4fd544c91b5522d423cc5f31",
+   "externalIds": {
+    "PubMedCentral": "11561497",
+    "DOI": "10.1016/j.jacasi.2024.07.006",
+    "CorpusId": 271578738,
+    "PubMed": "39553909"
+   },
+   "url": "https://www.semanticscholar.org/paper/c73324f07f08e42c4fd544c91b5522d423cc5f31",
+   "title": "A Novel Model of Integrated Care of Older Patients With Atrial Fibrillation in Rural China",
+   "venue": "JACC: Asia",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jacasi.2024.07.006",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11561497, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-07-01",
+   "authors": [
+    {
+     "authorId": "5095688",
+     "name": "M. Li"
+    },
+    {
+     "authorId": "2068094327",
+     "name": "M. Chu"
+    },
+    {
+     "authorId": "2218864756",
+     "name": "You-Mei Shen"
+    },
+    {
+     "authorId": "2268791039",
+     "name": "S. Zhang"
+    },
+    {
+     "authorId": "2238182601",
+     "name": "Xue-Jun Yin"
+    },
+    {
+     "authorId": "2261198030",
+     "name": "S. Yang"
+    },
+    {
+     "authorId": "2253279832",
+     "name": "G. Lip"
+    },
+    {
+     "authorId": "2313249396",
+     "name": "M. Chen"
+    }
+   ],
+   "abstract": "Background An integrated management approach is essential to improving outcomes for patients with atrial fibrillation (AF). China's rural health care system, primarily reliant on village doctors, falls short of providing optimal management of AF in rural populations with limited resources and access to health care. To support village doctors in providing integrated care for AF, we have developed a digital health support platform. Objectives This study aims to evaluate the effectiveness of this telemedicine-based, village doctor–led, multifaceted care model. Methods The MIRACLE-AF (a novel Model of IntegRAted Care of oLdEr patients with Atrial Fibrillation in rural China) trial is a prospective cluster-randomized clinical trial. Thirty village clinics in Jiangdu County, Jiangsu Province, were randomly assigned to village doctor-led telemedicine integrated care or enhanced usual care in a 1:1 ratio. All the patients diagnosed with AF who resided in this rural area and were aged ≥65 years were eligible for enrollment. The primary outcome in stage 1 was the proportion of patients who met all 3 criteria for the atrial fibrillation better care pathway at 12 months, and in stage 2, a composite of cardiovascular death, all strokes including ischemic stroke and hemorrhagic stroke, worsening of heart failure or acute coronary syndrome, and emergency visits due to AF over 36 months. Results In total, 1,039 participants were recruited from December 1, 2020, to May 9, 2022, with 524 in the telemedicine care arm and 515 in the enhanced usual care arm. All the enrolled patients are under scheduled follow-up. Conclusions The MIRACLE-AF trial will provide evidence for this novel integrated care model for treating rural older patients with AF. (New Model of Integrated Care of Older Patients with Atrial Fibrillation in Rural China; NCT04622514)"
+  },
+  {
+   "paperId": "ed66446dc2b517346143edd59c65a3390b801c11",
+   "externalIds": {
+    "DOI": "10.70146/nhcpv01i02.010",
+    "CorpusId": 288642327
+   },
+   "url": "https://www.semanticscholar.org/paper/ed66446dc2b517346143edd59c65a3390b801c11",
+   "title": "The Impact of mHealth Interventions on Antenatal Care Adherence in Rural Madhya Pradesh: A Randomized Controlled Trial",
+   "venue": "IFR Journal of Nursing and Health Care Prevention",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70146/nhcpv01i02.010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70146/nhcpv01i02.010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-28",
+   "authors": [
+    {
+     "authorId": "92435344",
+     "name": "P. Pandey"
+    },
+    {
+     "authorId": "2381112039",
+     "name": "Anu. V. Kumar"
+    }
+   ],
+   "abstract": "Background: Antenatal care (ANC) adherence in rural India remains a significant challenge, contributing to high maternal and neonatal morbidity and mortality rates. This study evaluates the effectiveness of mobile health (mHealth) interventions—SMS reminders, mobile health apps, and telemedicine consultations—in improving ANC adherence among pregnant women in rural Madhya Pradesh. Objective: To assess the impact of mHealth interventions on ANC adherence and maternal health knowledge in rural communities, as well as evaluate associated maternal and neonatal health outcomes. Methods: A randomized controlled trial (RCT) was conducted with 200 pregnant women from rural Madhya Pradesh, randomly assigned to the intervention group (n=100) or control group (n=100). The intervention group received mHealth tools, including weekly SMS reminders for ANC appointments, a mobile health app for pregnancy education and tracking, and remote telemedicine consultations with healthcare providers. The control group received standard antenatal care. ANC adherence and maternal health knowledge were measured at baseline and post-intervention. Neonatal health outcomes were also recorded at delivery. Results: The intervention group demonstrated a significant improvement in ANC adherence, from 61% to 86%, compared to the control group (60% to 68%, p<0.001). Maternal health knowledge increased by 24.3 points in the intervention group (p<0.001), while the control group showed a modest improvement. Neonatal health outcomes showed trends toward improved birth weight and lower preterm birth rates, though these differences were not statistically significant. Participants in the intervention group reported higher satisfaction with ANC services. Conclusions: mHealth interventions significantly improved ANC adherence and maternal health knowledge in rural India. These findings suggest that mHealth tools can play a crucial role in improving maternal health outcomes in underserved regions. Further research with a larger sample size and longer follow-up is needed to assess the long-term effects of mHealth interventions on maternal and neonatal health."
+  },
+  {
+   "paperId": "8f9689b37dbc5c0ef836ebc5fd9c17ad3958f3ae",
+   "externalIds": {
+    "PubMedCentral": "11177277",
+    "DOI": "10.7759/cureus.60310",
+    "CorpusId": 269881230,
+    "PubMed": "38883020"
+   },
+   "url": "https://www.semanticscholar.org/paper/8f9689b37dbc5c0ef836ebc5fd9c17ad3958f3ae",
+   "title": "Healthcare in the Modern Era: Launching a Telemedicine-Based OPD Consultation in Rural Pune (Process, Results, and Challenges)",
+   "venue": "Cureus",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.7759/cureus.60310",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11177277, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-01",
+   "authors": [
+    {
+     "authorId": "2386247737",
+     "name": "Varsha Vaidya"
+    },
+    {
+     "authorId": "2061082818",
+     "name": "Vaibhav Patil"
+    },
+    {
+     "authorId": "47465788",
+     "name": "J. Oswal"
+    },
+    {
+     "authorId": "22268337",
+     "name": "A. Narula"
+    },
+    {
+     "authorId": "2560621097",
+     "name": "Yogesh Khare"
+    },
+    {
+     "authorId": "1773211",
+     "name": "P. Patil"
+    },
+    {
+     "authorId": "41172630",
+     "name": "Ruma M. Deshpande"
+    },
+    {
+     "authorId": "4649365",
+     "name": "S. Lunge"
+    },
+    {
+     "authorId": "2301963924",
+     "name": "Sukanya Dasgupta"
+    },
+    {
+     "authorId": "1742379977",
+     "name": "Ramdas Dahiphale"
+    },
+    {
+     "authorId": "2072229738",
+     "name": "R. Kulkarni"
+    },
+    {
+     "authorId": "2269516846",
+     "name": "Amit Mahajan"
+    },
+    {
+     "authorId": "2021180470",
+     "name": "Srinivasa Chelluri"
+    },
+    {
+     "authorId": "2167708795",
+     "name": "Advait Teli"
+    }
+   ],
+   "abstract": "Introduction Telemedicine serves as a means of overcoming geographical barriers and increasing access to specialist care. This study focuses on the impact of telemedicine on the early diagnosis and treatment of patients, as well as its effect on patient satisfaction. In addition, the study examines the obstacles and facilitators that influence the implementation of telemedicine. Objectives The primary objectives of this study are to assess the effectiveness of telemedicine in facilitating early diagnosis and treatment for patients in need of specialist consultations, to evaluate patient satisfaction with specialist care delivered through telemedicine, and to identify the factors that influence the successful implementation of telemedicine in rural healthcare centers. Methodology An exploratory feasibility study was carried out at two rural health training centers (RHTCs) over a one-year period, enrolling 400 patients requiring specialist consultations. The study involved establishing a telemedicine center, implementing teleconsultations, and collecting data through patient interviews and self-administered questionnaires. Results A majority of teleconsultations, over 79%, were deemed valuable by medical officers, resulting in improved management, better counseling, and earlier diagnoses. More than 76% of patients found telemedicine to be acceptable due to the reduction in travel time and cost. The most common health concerns among patients were diabetes, hypertension, and skin disorders. The study also revealed several challenges, including limited specialist personnel, waiting times, prescription limitations, and connectivity issues. Discussion Telemedicine has proven to be a valuable tool for rural healthcare delivery, providing patients with access to specialist consultations and improving patient outcomes. Both patients and medical officers reported positive experiences with telemedicine. The findings of this study align with existing literature, which highlights the benefits of telemedicine in managing chronic diseases and increasing patient satisfaction. However, it is crucial to address challenges, such as personnel limitations and connectivity issues, to optimize telemedicine's effectiveness. Conclusion Telemedicine offers great potential for enhancing access to specialist care and achieving universal healthcare in rural areas. Despite its limitations, telemedicine demonstrates promising outcomes and warrants further development and optimization to ensure its successful implementation in rural healthcare centers."
+  },
+  {
+   "paperId": "23e54667eb394a07e23f14d288474c77513101cf",
+   "externalIds": {
+    "PubMedCentral": "10718290",
+    "DOI": "10.1111/jrh.12760",
+    "CorpusId": 258213705,
+    "PubMed": "37074350"
+   },
+   "url": "https://www.semanticscholar.org/paper/23e54667eb394a07e23f14d288474c77513101cf",
+   "title": "Care coordination between rural primary care and telemedicine to expand medication treatment for opioid use disorder: Results from a single-arm, multisite feasibility study",
+   "venue": "Journal of Rural Health",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jrh.12760",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10718290, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-04-19",
+   "authors": [
+    {
+     "authorId": "32441467",
+     "name": "Y. Hser"
+    },
+    {
+     "authorId": "5347157",
+     "name": "Larissa J. Mooney"
+    },
+    {
+     "authorId": "144831093",
+     "name": "L. Baldwin"
+    },
+    {
+     "authorId": "4594745",
+     "name": "Allison J. Ober"
+    },
+    {
+     "authorId": "2540249",
+     "name": "L. Marsch"
+    },
+    {
+     "authorId": "47377040",
+     "name": "S. Sherman"
+    },
+    {
+     "authorId": "36572800",
+     "name": "Abigail G. Matthews"
+    },
+    {
+     "authorId": "5408413",
+     "name": "Sarah E. Clingan"
+    },
+    {
+     "authorId": "47806921",
+     "name": "Z. Fei"
+    },
+    {
+     "authorId": "46758572",
+     "name": "Yuhui Zhu"
+    },
+    {
+     "authorId": "5635768",
+     "name": "Alex R. Dopp"
+    },
+    {
+     "authorId": "1404183650",
+     "name": "M. Curtis"
+    },
+    {
+     "authorId": "31822636",
+     "name": "K. Osterhage"
+    },
+    {
+     "authorId": "2003048776",
+     "name": "Emily G. Hichborn"
+    },
+    {
+     "authorId": "3723028",
+     "name": "Chunqing Lin"
+    },
+    {
+     "authorId": "2214739742",
+     "name": "Megan Black"
+    },
+    {
+     "authorId": "40277102",
+     "name": "Stacy Calhoun"
+    },
+    {
+     "authorId": "2568576336",
+     "name": "Caleb Holtzer"
+    },
+    {
+     "authorId": "14625103",
+     "name": "N. Nesin"
+    },
+    {
+     "authorId": "2544565102",
+     "name": "Denise Bouchard"
+    },
+    {
+     "authorId": "2214740338",
+     "name": "Maja Ledgerwood"
+    },
+    {
+     "authorId": "2214739415",
+     "name": "Margaret A. Gehring"
+    },
+    {
+     "authorId": "2108162945",
+     "name": "Yan-Ping Liu"
+    },
+    {
+     "authorId": "2310529673",
+     "name": "Neul Ah Ha"
+    },
+    {
+     "authorId": "143744680",
+     "name": "Sean M. Murphy"
+    },
+    {
+     "authorId": "2137596681",
+     "name": "Maria Hanano"
+    },
+    {
+     "authorId": "153837441",
+     "name": "A. Saxon"
+    }
+   ],
+   "abstract": "Purpose: The use of telemedicine (TM) has accelerated in recent years, yet research on the implementation and effectiveness of TM-delivered medication treatment for opioid use disorder (MOUD) has been limited. This study investigated the feasibility of implementing a care coordination model involving MOUD delivered via an external TM provider for the purpose of expanding access to MOUD for patients in rural settings. Methods: The study tested a care coordination model in 6 rural primary care sites by establishing referral and coordination between the clinic and a TM company for MOUD. The intervention spanned approximately 6 months from July/August 2020 to January 2021, coinciding with the peak of the COVID-19 pandemic. Each clinic tracked patients with OUD in a registry during the intervention period. A pre-/postintervention design (N = 6) was used to assess the clinic-level outcome as patient-days on MOUD based on patient electronic health records. Findings: All clinics implemented critical components of the intervention, with an overall TM referral rate of 11.7% among patients in the registry. Five of the 6 sites showed an increase in patient-days on MOUD during the intervention period compared to the 6-month period before the intervention (mean increase per 1,000 patients: 132 days, P = .08, Cohen’s d = 0.55). The largest increases occurred in clinics that lacked MOUD capacity or had a greater number of patients initiating MOUD during the intervention period. Conclusions: To expand access to MOUD in rural settings, the care coordination model is most effective when implemented in clinics that have negligible or limited MOUD capacity."
+  }
+ ]
+}

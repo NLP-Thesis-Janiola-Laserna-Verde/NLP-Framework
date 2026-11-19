@@ -1,0 +1,166 @@
+{
+ "query": "Blockchain applications for secure data sharing",
+ "retrieved_at": "2026-11-18T17:46:52.584989+00:00",
+ "data": [
+  {
+   "url": "https://ideas.repec.org/a/dbk/medicw/v3y2024ip508id508.html",
+   "title": "Blockchain-Based Health Informatics Systems for Secure Patient Data Sharing and Interoperability",
+   "content": "suggested system provides a strong solution for automated permission management and safe data exchange by using smart contracts, consensus mechanisms, and cryptographic approaches as well as To effectively manage vast amounts of data while preserving strict security criteria, the architecture combines off-chain storage with on-chain transaction recording. By means of transparent, unchangeable records, and thus build confidence among healthcare professionals, insurance companies, and research [...] Blockchain technology is transforming the safe sharing and patient data management in a healthcare setting becoming more and more digital. Blockchain's distributed ledger design is challenging conventional centralised systems, often typified by data silos and vulnerability to cyber-attacks. This study offers a complete architecture for blockchain-based health informatics systems guaranteeing data integrity, privacy, and interoperability across many healthcare systems. The suggested system [...] and research organisations, extensive academic analysis and empirical assessments emphasise the potential of blockchain to empower patients. All important for real-time clinical applications, performance benchmarks from pilot tests show gains in transaction throughput, reduced data retrieval latency, and excellent network uptime. Furthermore, the threat modelling and regulatory compliance studies solve important issues around data protection and scalability thus making sure the system fits",
+   "score": 0.7818308,
+   "raw_content": null,
+   "id": "109898-00"
+  },
+  {
+   "url": "https://wujns.edpsciences.org/articles/wujns/full_html/2024/03/wujns-1007-1202-2024-03-0228-11/wujns-1007-1202-2024-03-0228-11.html",
+   "title": "BDAE: A Blockchain-Based and Decentralized Attribute-Based Encryption Scheme for Secure Data Sharing | Wuhan University Journal of Natural Sciences",
+   "content": "smart contracts for fine-grained access control and outsourced computing. Blockchain's decentralization and access logs make data sharing tamper-resistant and auditable. Moreover, simulation comparisons demonstrate that the scheme effectively reduces decryption overhead on the user side, meeting practical application requirements. [...] (BDAE) for data sharing. BDAE enhances traditional scheme by integrating blockchain and distributed key generation technology. The scheme employs an (n, t) threshold secret sharing algorithm, coupled with the Pedersen verifiable secret sharing method, for attribute key generation. This combination ensures key credibility, facilitates joint attribute management, and addresses single bottleneck and key verification issues. Integrated into a blockchain system, the scheme utilizes smart contracts [...] Ciphertext-policy attribute-based encryption (CP-ABE) is widely employed for secure data sharing and access control. However, its dependence on a single authority introduces security and performance challenges. Despite the existence of multi-authority CP-ABE approaches, persistent issues such as single points of failure and high computation cost on the user side remain. This study proposes a novel solution named blockchain-based and decentralized attribute-based encryption (BDAE) for data",
+   "score": 0.77081,
+   "raw_content": null,
+   "id": "942adb-01"
+  },
+  {
+   "url": "https://www.techscience.com/iasc/v35n1/48112/html",
+   "title": "An Enhanced Security System Using Blockchain Technology for Strong FMC Relationship",
+   "content": "The Blockchain nodes validate the user’s authority and apply a time dimension to the shared file encrypted with ciphertext policy attributes. A model is implemented in  for data sharing across Blockchain cloud providers. The model uses the benefits of intelligent contracts and processes to manage data access actions efficiently and to revoke access authorization for violations of access laws, in an unconfidently environment, to resolve the question of medical data sharing. A decentralized power [...] Trade public records: The information on vendors is entirely public for the purpose of transparency. Our system offers intelligent search for contract details that allows you to return each merchant’s vendor’s list, buyer list and other retailer records. Using Blockchain technology, it is possible to create a data structure with intrinsic security. Using cryptography, decentralization, and consensus principles, it ensures that transactions are secure. Each block of data in most Blockchain or [...] hybrid model has made production arrangements and coordination more open, economic and trustworthy. Agreements can be maintained on the Blockchain network at low cost without any cloud technology needing to be installed. In this model, correspondence, sharing of data and transfer of fees between the parties is presented on a public Blockchain Network. A decentralized framework was also developed and clarified how the Ethereum network of shared Blockchain networks can be developed through smart",
+   "score": 0.76838577,
+   "raw_content": null,
+   "id": "e22404-02"
+  },
+  {
+   "url": "https://www.arrs.org/ARRSLIVE/ARRSLIVE/Education/Spring_2019/blockchain_radiology_patient_record_sharing_security.aspx",
+   "title": "Blockchain Shows Potential for Improving Patient Record Sharing and Security",
+   "content": "For example, using blockchain to create a decentralized medication management system would permit prescribers to query patients’ prescription histories and enter new prescriptions into the record, secured by the patient’s individual encryption key, which patients could use to decrypt and search their own prescription history across different provider and pharmacy records. A significant opportunity for using blockchain in radiology involves storing,managing, and securely accessing massive [...] Currently, health care institutions collect patient data and store it on their own systems. By using blockchain, they could store the same information but identify the patient with an anonymous code. Managing access to records could be done through smart contracts – computer code acting as a set of rules agreed to by all parties – and developing blockchain applications that allow a record to be stored so that it becomes accessible only under certain conditions. [...] Blockchain technology promises significant benefits for improving access to patient records and medical image histories while maintaining confidentiality and security. Blockchain could also be used to help prevent data breaches and help health care facilities recover more quickly from a breach. Eventually, blockchain technology could offer health care providers a secure and resilient system for the smooth and secure transfer of patient records, increasing opportunities for research and",
+   "score": 0.75617754,
+   "raw_content": null,
+   "id": "028132-03"
+  },
+  {
+   "url": "https://www.diva-portal.org/smash/get/diva2:1879894/FULLTEXT01.pdf",
+   "title": "The role of blockchain as a security mechanism for electronic health ...",
+   "content": "For example, the use of off-chain cloud-based storage model along with searchable encryption and proxy re-encryption (PRE)  techniques is proposed in  to provide a way to conceal patient identity during data sharing with data requestors in a consortium blockchain architecture. In particular, an encrypted searchable keyword related to the EHRs is stored on the blockchain, whereas, the actual data is stored on the cloud. When a data request is initiated, only the data that pertains to the [...] Encryption Sharing of encrypted metadata that serve as data reference pointers through blockchain to realize privacy and prevent unauthorized data access to interceptors  Ad.\nPRE with blinding PRE along with a blinding re-encryption scheme is used for partial decryption of shared data  Poc.\nPRE, smart contracts, data stan-dards PRE with smart contracts functionality and HL7 FHIR data standard are inte-grated to protect privacy during data shar-ing across compatible systems  Poc. [...] Figure 4.2: Flowchart of the simulation of hash mining Chapter 5 Conclusion and Future Work Based on the survey performed it is observed that blockchain technology can be a solution in healthcare information systems for the management of EHRs, as the blockchain-based models fulfill the need for secure data exchange, privacy protection of the data owners and accountability of the shared data - the three requirements which sum up the CIA triad of confidentiality, integrity, and availability .",
+   "score": 0.7358315,
+   "raw_content": null,
+   "id": "e469fd-04"
+  },
+  {
+   "url": "https://premierscience.com/wp-content/uploads/2025/02/pjs-25-723.pdf",
+   "title": "[PDF] Blockchain Applications in Cybersecurity: Exploring Use Cases in ...",
+   "content": "share a network under consen­ sus-based governance, foster collaboration and shared responsibility.8 These blockchains, which balance de­ centralization and governance, are utilized by indus­ tries like finance and healthcare to facilitate secure and transparent data sharing among trusted partners. [...] vulnerability in centralized systems and single points of failure. The ability to generate tamper-proof records, facilitate secure data sharing, and implement advanced authentication mechanisms in a single layer render blockchain essen­ tial to the next generation of cybersecurity solutions. [...] Emerging Trends and Innovations Integration of Blockchain with AI and Machine Learning for Predictive Cybersecurity A novel epoch of predictive cybersecurity is emerg­ ing through integrating blockchain technology with artificial intelligence and machine learning (ML). The decentralized architecture of Blockchain securely en­ ables multi-stakeholder data sharing without a single point of failure. Combined with AI and ML, it facilitates advanced threat detection using massive amounts of data",
+   "score": 0.73278314,
+   "raw_content": null,
+   "id": "f729b5-05"
+  },
+  {
+   "url": "https://www.ibm.com/think/topics/blockchain",
+   "title": "What Is Blockchain? | IBM",
+   "content": "### Corda\n\nCorda is a distributed ledger platform designed for businesses, enabling secure and private transactions on permissioned networks. It allows organizations to share data and execute agreements with only the relevant parties, making it ideal for industries like finance, healthcare and supply chain management. Corda prioritizes privacy, scalability and regulatory compliance.\n\n### Quorum [...] Greater trust  \n\nBlockchain creates a secure, members-only network, ensuring accurate and timely data access. Confidential records are shared only with authorized network members, fostering trust and creating end-to-end visibility across the system.\n\nEnhanced security [...] Blockchain offers instant traceability with a transparent audit trail of an asset’s journey. In industries prioritizing sustainability, it enables direct sharing of provenance data, verifying ethical practices. It can also reveal supply chain inefficiencies, such as delays, driving greater accountability.\n\nIncreased efficiency",
+   "score": 0.7318259,
+   "raw_content": null,
+   "id": "d78a82-06"
+  },
+  {
+   "url": "https://github.com/crypt0walker/Blockchain-Data-Sharing",
+   "title": "GitHub - crypt0walker/Blockchain-Data-Sharing: This repository aims to provide a curated list of research papers focusing on Blockchain-based data sharing · GitHub",
+   "content": "smart contracts to provide an onchain service to define data sharing agreements between government departments, which can identify ambiguous data retrieving requirements and formalize the process logic. We apply the SOC approach to a real world scenario and demonstrate that the SOC approach provides a feasible solution for secure and efficient sharing of data among government departments. [...] In the medical scenarios, the demand for secure sharing of medical data and trusted federated computing continues to increase, and blockchain technology can provide secure, credible, and tamper-resistant capabilities, which makes it necessary to combine the two. However, the full application of blockchain to medical scenarios faces two issues. Medical assets such as medical cohort data with strong data correlation and large scale are difficult to be accurately described and safely operated by [...] measures towards secure IoT communication and applications. Blockchain is a burgeoning technology supporting for efficient authentication and secure data sharing. A secure and accountable data transmission scheme based on blockchain has been proposed by Hong et al. recently. But this scheme has security weaknesses of impersonation attack, man-in-the-middle attack, replay attack, denial of service attack (DoS) and key compromise attack. Thus we put forward an improved scheme to overcome the",
+   "score": 0.7163179,
+   "raw_content": null,
+   "id": "caa871-07"
+  },
+  {
+   "url": "https://www.geneca.com/blockchain-technology-for-health-records",
+   "title": "Blockchain for Personal Health Records",
+   "content": "Blockchain technology can improve a healthcare organization’s data security through decentralization, ensuring individual users cannot make changes without the approval of others. Blockchain technology also provides a secure system to store and share private health records with permitted users. This ensures patient information is accurate and reduces the risk of incorrect data, which can impact a patient’s diagnosis and treatment plan. [...] Blockchain technology is essentially a database that allows organizations to share data while maintaining data security, storing data in blocks that are linked together in a chain. Since the data is stored in a chain of blocks, users can store data that cannot be altered by other users. Blockchain systems are designed to prevent unauthorized entries, creating consistency and security in the database.\n\n### The Role of Decentralization [...] ## Application of Blockchain in Health Records\n\n### Secure Patient Data Exchange\n\nUsing blockchain technology to store patient data gives healthcare providers more time to consult with patients and create personalized health plans. With seamless and secure data sharing, providers can easily consult with other providers who specialize in a patient’s condition, improving the patient’s care and outcome.",
+   "score": 0.7159208,
+   "raw_content": null,
+   "id": "a8a187-08"
+  },
+  {
+   "url": "https://digital-library.theiet.org/doi/full/10.1049/blc2.70046",
+   "title": "Blockchain‐Based Secure Data Sharing for IoT Devices Using ...",
+   "content": "Blockchain, combined with smart contracts enables decentralized, tamper‐evident and secure IoT data sharing through cryptographic security, automated access",
+   "score": 0.6928498,
+   "raw_content": null,
+   "id": "081ac5-09"
+  },
+  {
+   "url": "https://learn.robinhood.com/articles/what-are-the-real-world-applications-of-blockchain",
+   "title": "What are the real-world applications of blockchain? | Robinhood Learn",
+   "content": "For healthcare, the technology offers a secure way to manage sensitive information. It allows for the safe sharing of patient records among authorized providers, ensuring privacy while improving the quality of care. It is also used to track the distribution of pharmaceuticals to prevent counterfeit medications.\n\n## What role does blockchain play in entertainment? [...] # What are the real-world applications of blockchain?\n\nRobinhood Learn\n\nDemocratize finance for all.\n\n Blockchain technology is expanding beyond crypto to solve problems in industries like finance, healthcare, and supply chains.\n It offers benefits like faster settlements, increased transparency, and secure data tracking.\n Smart contracts on networks like Ethereum allow for automated, trustless agreements in various real-world scenarios. [...] |  |  |  |\n --- \n| Industry | Primary Use Case | Example |\n| Finance | Faster settlements, asset tokenization | Digital currencies, automated trading |\n| Supply Chain | Traceability, verifying authenticity | Food tracking, luxury goods verification |\n| Energy | Peer-to-peer energy trading | Local solar power networks |\n| Healthcare | Secure patient records | Tracking pharmaceutical supply chains |\n| Entertainment | Digital ownership, royalties | NFTs for art and music, intellectual property |",
+   "score": 0.6910806,
+   "raw_content": null,
+   "id": "67023e-10"
+  },
+  {
+   "url": "https://research.uaeu.ac.ae/en/publications/blockchain-for-secure-data-sharing-in-fog-based-smart-city-system",
+   "title": "Blockchain for Secure Data Sharing in Fog-Based Smart City Systems",
+   "content": "The Blockchain-based architecture we propose serves as a platform for secure data storage and data sharing in a smart city. Selected smart city fog nodes are",
+   "score": 0.6550051,
+   "raw_content": null,
+   "id": "7e92f3-11"
+  },
+  {
+   "url": "https://www.scilit.com/publications/3f46c047a6a391c02e26581a64fd1e0e",
+   "title": "Blockchain-Based Secure Data Sharing for IoT Applications | Scilit",
+   "content": "This paper investigates a blockchain-based strategy for securing data sharing within IoT networks. The decentralized and immutable characteristics of blockchain",
+   "score": 0.6509112,
+   "raw_content": null,
+   "id": "ff936a-12"
+  },
+  {
+   "url": "https://xlescience.org/index.php/IJASIS/article/view/880",
+   "title": "Blockchain-Based Secure Data Sharing In Healthcare - XLESCIENCE",
+   "content": "Blockchain has big potential to improve data integrity, patient empowerment, and interoperability according to our analysis.",
+   "score": 0.60917544,
+   "raw_content": null,
+   "id": "b89532-13"
+  },
+  {
+   "url": "https://cpl.thalesgroup.com/encryption/blockchain",
+   "title": "Blockchain Security Solutions",
+   "content": "## Benefits of Blockchain\n\n Eliminate the need for centralized control and the additional costs\n Trust is distributed between blockchain members\n Transactions are digitally signed using an asset owner public/private key pair\n Once recorded, data in a block cannot be altered retroactively\n Open, distributed ledgers record transactions between two parties efficiently and in a verifiable and permanent way\n Transactions don’t have to be just data – they can also be code or smart contracts [...] Blockchain is a distributed database that provides a secure, yet transparent way to make, record and verify any type of transaction.\n Transactions do not have to be financial; they are simply any type of transfer between two parties that typically would require a third party to authenticate each party and broker the exchange. [...] Blockchain eliminates the need for centralized control – instead all transactions are decentralized, and verified by the blockchain database itself in the distributed ledger.\n Contrary to the most popular use case, blockchain technologies don’t only secure financial transactions – in fact, they can be used to track and verify any kind of digital asset, as well as code or smart contracts.",
+   "score": 0.5885936,
+   "raw_content": null,
+   "id": "73a422-14"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=a5cptlj9QLM",
+   "title": "Wei Hu - Crypto Secure Data Management with In-Database Blockchain",
+   "content": "This talk will begin by introducing the threats posed by hackers and compromised insiders. Then we will describe an implementation of in-database blockchain and how it can protect your data against these threats. We will compare this against conventional blockchains as well as share use cases from customers who have adopted this technology. [...] a block into the relational system because Oracle is widely used in financial industries right um and so the goal of this is really to incorporate blockchain technologies into the Oracle database such that makes it easy for application developers to implement blockchain applications with minimal changes that's the key thing make it Right? And the goal again is prevent illicit changes data, right? And the data you want to protect are things like titles, right? Contracts, you know, transactions, [...] this kind of data you don't want to have modified listenerly because bad consequences can happen right and the last thing that's very interesting is that the way that Oracle has implemented blockchain is that is is that it's not limited to just ledgers right because conventional blockchain is what's called distributed share ledgers which just ledgers right and so this can the inside of database the blockchain can protect reference data also right so the last thing very abstract give you some",
+   "score": 0.58794314,
+   "raw_content": null,
+   "id": "fbd76b-15"
+  },
+  {
+   "url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1131&context=mca",
+   "title": "Using Blockchain Technology to Help Secure America's Defense ...",
+   "content": "Blockchain facilitates ease of information sharing among agencies and partners without compromising confidentiality or integrity",
+   "score": 0.5528113,
+   "raw_content": null,
+   "id": "c0e217-16"
+  },
+  {
+   "url": "https://ijhit.info/index.php/ijhit/article/view/407",
+   "title": "Blockchain Based Secure Data Sharing Framework for Smart ...",
+   "content": "This paper proposes a Blockchain Based Secure Data Sharing Framework (BSDSF) designed to ensure data integrity, confidentiality, and controlled access in smart",
+   "score": 0.5342784,
+   "raw_content": null,
+   "id": "3feb21-17"
+  },
+  {
+   "url": "https://www.amazon.com/Blockchain-Empowering-Secure-Data-Sharing-ebook/dp/B08D7837CH",
+   "title": "Blockchain: Empowering Secure Data Sharing eBook ... - Amazon.com",
+   "content": "The book explains thesecurity architecture model and the practice of building data sharing from the blockchain infrastructure, allowing readers to understand",
+   "score": 0.49246272,
+   "raw_content": null,
+   "id": "e401ac-18"
+  },
+  {
+   "url": "https://www.itu.int/epublications/publication/itu-t-y-4560-2023-03-blockchain-based-data-exchange-and-sharing-for-supporting-internet-of-things-and-smart-cities-and-communities",
+   "title": "Blockchain-based data exchange and sharing for supporting ... - ITU",
+   "content": "The text provides a comprehensive framework for blockchain-based data exchange and sharing in IoT and smart cities and communities (SC&C).",
+   "score": 0.46356565,
+   "raw_content": null,
+   "id": "78b029-19"
+  }
+ ]
+}

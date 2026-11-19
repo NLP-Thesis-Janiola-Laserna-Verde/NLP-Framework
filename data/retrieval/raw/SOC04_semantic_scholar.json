@@ -1,0 +1,661 @@
+{
+ "query": "Conditional cash transfer programs and poverty reduction",
+ "retrieved_at": "2026-11-18T17:57:06.377069+00:00",
+ "data": [
+  {
+   "paperId": "4a9e75bd4ab124fdbe2d709cf42d56e3dea13a00",
+   "externalIds": {
+    "MAG": "2739091665",
+    "DOI": "10.1007/978-3-319-53094-9_1",
+    "CorpusId": 157987919
+   },
+   "url": "https://www.semanticscholar.org/paper/4a9e75bd4ab124fdbe2d709cf42d56e3dea13a00",
+   "title": "Conditional Cash Transfer Programs and the Poverty-Reduction Agenda",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-319-53094-9_1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-319-53094-9_1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2487291898",
+     "name": "M. M. de Sá e Silva"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "7374a3eac0aef5d45edb584dc524445bd36b159e",
+   "externalIds": {
+    "DOI": "10.1080/23322039.2025.2598919",
+    "CorpusId": 283746706
+   },
+   "url": "https://www.semanticscholar.org/paper/7374a3eac0aef5d45edb584dc524445bd36b159e",
+   "title": "Economic empowerment through welfare? MAPPING the employment impacts of conditional cash transfer programs",
+   "venue": "Cogent Economics &amp; Finance",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2025.2598919?needAccess=true",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/23322039.2025.2598919?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/23322039.2025.2598919, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-08",
+   "authors": [
+    {
+     "authorId": "2487635403",
+     "name": "Mohd Suffian Mohamed Esa"
+    },
+    {
+     "authorId": "2279304266",
+     "name": "H. Wahid"
+    },
+    {
+     "authorId": "75073714",
+     "name": "S. E. Yaacob"
+    },
+    {
+     "authorId": "2209938100",
+     "name": "Siti Mazlita Yamaludin"
+    }
+   ],
+   "abstract": "Abstract This study systematically maps and reviews emerging evidence on employment-related conditionalities in CCT programs, using a Systematic Mapping Review (SMR) approach guided by the PRISMA protocol. Twenty-five empirical studies from Scopus, Web of Science, SAGE, and ScienceDirect were analysed through the Antecedents–Decisions–Outcomes (ADO) framework. Findings show that CCTs integrate behavioural employment incentives that support poverty alleviation, financial literacy, women’s empowerment, child labour reduction, and income generation. For instance, in Indonesia, programs shifted poor agricultural households toward nonfarm wage work (+1.54 percentage points) and microenterprises (+1.51), while in Honduras, CCT programs improved rural women’s earnings (+USD 163.9) and reduced child labour wages (−USD 26). However, broader employment effects were mixed, underscoring the need for stronger program designs to achieve sustained labour market outcomes. While CCTs contribute to income diversification and female labour force participation, their effects on long-term financial independence and the ultra-poor remain uneven. This study identifies religiosity, and entrepreneurship as underexplored but potentially transformative conditionalities. Findings urge policymakers to shift CCT goals toward context-specific employability and dignity through sustainable work, while researchers should examine under-studied regions with mixed methods, as the ADO model reveals vital links between labour supply and social support. Impact Statement This study offers the first systematic mapping of how Conditional Cash Transfer (CCT) programmes influence employment outcomes, addressing a critical evidence gap in a field historically dominated by education and health conditionalities. By analysing 25 empirical studies using the ADO framework, the review clarifies how poverty, behavioural incentives, labour constraints, and crisis conditions shape employment-related decisions within CCT interventions. The findings show that programmes with explicit employment components can enhance financial management, support women’s labour participation, reduce child labour, and promote income diversification, although effects remain uneven across regions and population groups. The study also highlights underexplored yet promising areas—particularly religiosity and entrepreneurship—as potential conditionalities that may strengthen behavioural change, resilience, and long-term economic independence. By synthesising fragmented literature into a coherent conceptual map, this research advances understanding of how CCT programmes can evolve from short-term poverty relief to catalysts of sustainable employment. The insights directly support policymakers seeking to redesign CCTs toward productive inclusion, employment readiness, and multi-dimensional poverty reduction."
+  },
+  {
+   "paperId": "26293e9f993a8eb99a37983d4e7b6dd18ecfb36b",
+   "externalIds": {
+    "CorpusId": 628825
+   },
+   "url": "https://www.semanticscholar.org/paper/26293e9f993a8eb99a37983d4e7b6dd18ecfb36b",
+   "title": "The effects of conditional cash transfer programs on poverty reduction , human capital accumulation and wellbeing",
+   "venue": "",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at http://www.un.org/esa/socdev/egms/docs/2016/Poverty-SDGs/JuanSaavedra-paper.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "30697458",
+     "name": "J. Saavedra"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "0cbdcbb17b46f4244a4931c941fc361376af79b8",
+   "externalIds": {
+    "DOI": "10.1080/10875549.2024.2426807",
+    "CorpusId": 274103625
+   },
+   "url": "https://www.semanticscholar.org/paper/0cbdcbb17b46f4244a4931c941fc361376af79b8",
+   "title": "Effects of Conditional and Unconditional Cash Transfers on Poverty Reduction, Education, and Health Outcomes in Sub-Saharan Africa—A PRISMA Approach",
+   "venue": "Journal of Poverty",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/10875549.2024.2426807?needAccess=true",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10875549.2024.2426807?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10875549.2024.2426807, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-11-14",
+   "authors": [
+    {
+     "authorId": "2330113000",
+     "name": "C. Light"
+    },
+    {
+     "authorId": "2330112900",
+     "name": "G. E. Nwaobia"
+    },
+    {
+     "authorId": "2094950655",
+     "name": "L. Nwobia"
+    }
+   ],
+   "abstract": "ABSTRACT This systematic review and meta-synthesis assesses the effectiveness of Conditional Cash Transfers (CCTs) and Unconditional Cash Transfers (UCTs) in Sub-Saharan Africa. Analyzing 27 studies (2014–2024) using PRISMA guidelines, the research examines impacts on financial stability, education, and health. CCTs generally outperform UCTs in achieving specific education and health targets by incentivizing behaviors, while UCTs offer greater flexibility, improving mental health and economic resilience in fragile settings. The findings stress the context-dependent nature of cash transfer programs and the need for tailored, integrated approaches. Policy recommendations emphasize designing programs based on local conditions and desired outcomes."
+  },
+  {
+   "paperId": "ee7e06a1a3c1ce18d6b0d3b7b7f40681ccd6d693",
+   "externalIds": {
+    "MAG": "2802080171",
+    "CorpusId": 56223064
+   },
+   "url": "https://www.semanticscholar.org/paper/ee7e06a1a3c1ce18d6b0d3b7b7f40681ccd6d693",
+   "title": "povThe Effect of Cash Transfer Programs on Poverty Reduction",
+   "venue": "",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://www.bpastudies.org/bpastudies/article/download/218/410, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "120739257",
+     "name": "Sergio Alfredo Martinez Cotto"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "6c84c7b906923755f1ec043af08e8e558e4fabac",
+   "externalIds": {
+    "PubMedCentral": "11835739",
+    "DOI": "10.1038/s41591-024-03381-0",
+    "CorpusId": 275303429,
+    "PubMed": "39753969"
+   },
+   "url": "https://www.semanticscholar.org/paper/6c84c7b906923755f1ec043af08e8e558e4fabac",
+   "title": "Effects of conditional cash transfers on tuberculosis incidence and mortality according to race, ethnicity and socioeconomic factors in the 100 Million Brazilian Cohort",
+   "venue": "Nature Medicine",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41591-024-03381-0.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11835739, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-03",
+   "authors": [
+    {
+     "authorId": "2084267274",
+     "name": "G. Jesus"
+    },
+    {
+     "authorId": "2338552619",
+     "name": "Priscila F. P. S. Gestal"
+    },
+    {
+     "authorId": "2151675558",
+     "name": "Andréa F. Silva"
+    },
+    {
+     "authorId": "2223522909",
+     "name": "D. Cavalcanti"
+    },
+    {
+     "authorId": "38856545",
+     "name": "I. Lua"
+    },
+    {
+     "authorId": "147493491",
+     "name": "M. Ichihara"
+    },
+    {
+     "authorId": "2370481",
+     "name": "M. Lima Barreto"
+    },
+    {
+     "authorId": "144550979",
+     "name": "D. Boccia"
+    },
+    {
+     "authorId": "2301568560",
+     "name": "Mauro N. Sanchez"
+    },
+    {
+     "authorId": "2525166",
+     "name": "D. Rasella"
+    }
+   ],
+   "abstract": "Conditional cash transfer (CCT) programs have been implemented globally to alleviate poverty. Although tuberculosis (TB) is closely linked to poverty, the effects of CCT on TB outcomes among populations facing social and economic vulnerabilities remain uncertain. Here we estimated the associations between participation in the world’s largest CCT program, the Brazilian Bolsa Família Program (BFP), and the reduction of TB incidence, mortality and case-fatality rates using the nationwide 100 Million Brazilian Cohort between 2004 and 2015. We also evaluated these relationships according to race, ethnicity, wealth levels, sex and age. Exposure to the BFP was associated with a large reduction in TB incidence (adjusted rate ratio (aRR): 0.59; 95% confidence interval (CI): 0.58–0.60) and mortality (aRR: 0.69; 95% CI: 0.65–0.73). The strongest BFP association was observed in individuals of Indigenous ethnicity both for TB incidence (aRR: 0.37; 95% CI: 0.32–0.42) and mortality (aRR: 0.35; 95% CI: 0.20–0.62), and in individuals of Black and Pardo ethnicity (incidence—aRR: 0.58; 95% CI: 0.57–0.59; mortality—aRR: 0.69; 95% CI: 0.64–0.73). BFP associations were considerably stronger among individuals living in extreme poverty both for TB incidence (aRR: 0.49; 95% CI: 0.49–0.50) and mortality (aRR: 0.60; 95% CI: 0.55–0.65). CCT can strongly reduce TB incidence and mortality in individuals living in extreme poverty, and of Indigenous, Black and Pardo ethnicity, and could significantly contribute to achieving the End TB Strategy targets and TB-related Sustainable Development Goals. Participation in Brazil’s Bolsa Familia Program, one of the largest conditional cash transfer programs in the world, was associated with large reductions in tuberculosis incidence and mortality among Indigenous people, individuals of Black and Pardo ethnicity and those living in extreme poverty."
+  },
+  {
+   "paperId": "7ee8b2758024dc9c28a7accdc01f5ae43b327a75",
+   "externalIds": {
+    "MAG": "2255408756",
+    "CorpusId": 55572570
+   },
+   "url": "https://www.semanticscholar.org/paper/7ee8b2758024dc9c28a7accdc01f5ae43b327a75",
+   "title": "Poverty reduction in your district? On one condition: A Comparative Study of Conditional Cash Transfer Programs in Mexico and Brazil",
+   "venue": "",
+   "year": 2011,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1001&context=honr_theses&httpsredir=1&referer=, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2554451338",
+     "name": "Caitlin Kauffman"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "f8e3aea75884809afceb7bac14805789133b0587",
+   "externalIds": {
+    "DOI": "10.68709/001c.161990",
+    "CorpusId": 293988137
+   },
+   "url": "https://www.semanticscholar.org/paper/f8e3aea75884809afceb7bac14805789133b0587",
+   "title": "Cash Transfers, Welfare Policy, and Poverty Reduction: A Meta-Analysis of Educational Attainment, Consumption, and Global Justice",
+   "venue": "Critical Debates in Humanities, Science and Global Justice",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://criticaldebateshsgj.scholasticahq.com/article/161990.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.68709/001c.161990?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.68709/001c.161990, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-05-14",
+   "authors": [
+    {
+     "authorId": "2517833482",
+     "name": "Rafael Assis de Sanson Portella"
+    }
+   ],
+   "abstract": "This paper argues that conditional, unconditional, and labeled cash transfer programs can reduce poverty and expand educational rights, but their effectiveness depends critically on context, baseline conditions, and administrative capacity. Globally, middle and low-income countries struggle to maintain youth enrollment in schools due to behavioral frictions, household constraints, and direct costs, raising urgent questions about how welfare policy can advance equitable access to education as a human right. This study analyzes which program design features are transferable across countries and which depend on fiscal capacity, administrative infrastructure, and school quality. Understanding these distinctions is critical because optimizing welfare programs could save governments significant resources while expanding educational opportunity for the world’s most underserved populations. Using a random-effects meta-analysis of 15 rigorous international studies, this paper synthesizes evidence on school attendance, school enrollment, and household consumption across diverse global contexts. The results show that both conditional and unconditional cash transfer programs produce overall positive impacts on poverty reduction and educational outcomes, but with high heterogeneity in effectiveness depending on baseline rates, income levels, and administrative capacity. These findings suggest that context matters as much as conditionality, and that achieving global justice in education requires matching program design to local capacity rather than assuming a single model fits all settings. Future work could benefit from including a larger and more diverse range of studies to refine program impact estimates and further inform equitable welfare policy design."
+  },
+  {
+   "paperId": "fc0355d753fcd51a648d4ba6d9964c534bd5d307",
+   "externalIds": {
+    "DOI": "10.47772/ijriss.2024.8120269",
+    "CorpusId": 275616982
+   },
+   "url": "https://www.semanticscholar.org/paper/fc0355d753fcd51a648d4ba6d9964c534bd5d307",
+   "title": "Evaluating Conditional Cash Transfers in the Philippines: A Review of the Pantawid Pamilyang Pilipino Program’s Impact on Poverty Alleviation",
+   "venue": "International journal of research and innovation in social science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47772/ijriss.2024.8120269?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47772/ijriss.2024.8120269, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2318857824",
+     "name": "Rowena May T. David"
+    },
+    {
+     "authorId": "2317865539",
+     "name": "Adrian P. Maroma"
+    }
+   ],
+   "abstract": "The Conditional Cash Transfer (CCT) program is the most important tool globally for poverty reduction efforts; they are conditional cash transfer programs offering targeted financial support to the lowest-income families contingent upon meeting certain requirements of health, education, and social welfare. This review examines the impact of the Philippines’ flagship poverty reduction program, the Pantawid Pamilyang Pilipino Program (4Ps), in terms of health, education, and empowerment. By synthesizing extant literature, the review identifies key themes regarding the beneficiaries’ perceptions of success, their degree of satisfaction with the program, and its general role in poverty alleviation. The results suggest that success among the beneficiaries does not only relate to economic benefits but also encompasses education, increased family well-being, and active participation in the community. The perceived quality of implementation of the program is a critical determinant in shaping the satisfaction of its beneficiaries and the overall effectiveness of the program. The review concludes with actionable recommendations for improving 4Ps, including strengthening the monitoring and evaluation mechanisms and finding gaps in service delivery. Finally, it suggests several avenues for future research to more clearly understand the nuanced impacts CCT programs have on the lives of beneficiaries and the broader socio-economic outcomes."
+  },
+  {
+   "paperId": "fe54827e2c1981a412f7fdcfe878ac65a2816c25",
+   "externalIds": {
+    "MAG": "2733745379",
+    "CorpusId": 157229027
+   },
+   "url": "https://www.semanticscholar.org/paper/fe54827e2c1981a412f7fdcfe878ac65a2816c25",
+   "title": "Conditional Cash Transfer Programs and Inequality of Opportunity. A case study: Juntos in Peru",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at http://lup.lub.lu.se/luur/download?fileOId=8915951&func=downloadFile&recordOId=8915919, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "120345309",
+     "name": "Patricia Festa Secanella"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "751d95e9c73f1b28f2b5e1e91330eec01eb908a2",
+   "externalIds": {
+    "DOI": "10.47772/ijriss.2025.9020175",
+    "CorpusId": 276902245
+   },
+   "url": "https://www.semanticscholar.org/paper/751d95e9c73f1b28f2b5e1e91330eec01eb908a2",
+   "title": "Development and Validation of Religious Conditionalities for Conditional Cash Transfers in Zakat Institutions in Malaysia",
+   "venue": "International journal of research and innovation in social science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47772/ijriss.2025.9020175?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47772/ijriss.2025.9020175, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2487635403",
+     "name": "Mohd Suffian Mohamed Esa"
+    },
+    {
+     "authorId": "2279304266",
+     "name": "H. Wahid"
+    },
+    {
+     "authorId": "75073714",
+     "name": "S. E. Yaacob"
+    }
+   ],
+   "abstract": "Ineffective zakat distribution arises from the attitudes of certain asnaf (zakat recipient) individuals, who, due to low religious knowledge and practice, become unproductive, unmotivated, and complacent in their status. The current zakat distribution model, which grants full ownership to the asnaf, prevents the implementation of responsibility-based interventions to address these behaviors. To address this, Conditional Cash Transfer (CCT) program is an important poverty eradication initiative at the global level, which requires positive behavioral changes from the poor as a condition to continue receiving aid. This program has integrated objectives, namely: i) poverty reduction, ii) human capital development, and the long-term goal of iii) breaking the intergenerational cycle of poverty. The behavioral conditions established by existing CCT programs cover dimensions such as education, health, and employment. While various socio-economic impacts have been achieved, some global CCT programs have yet to effectively and sustainably achieve their targeted outcomes. In Malaysia, the success of outcomes in lifting the asnaf out of poverty remains low, and the development of zakat distribution programs is somewhat ineffective. Addressing these issues, this concept paper aims to develop a behavioral intervention for the religious dimension of CCT programs from an Islamic perspective using zakat funds. The proposed methodology for constructing the religious behavioral conditionality instrument involves a systematic literature review (SLR) and the use of the Multi-Facet Rasch Model (MFRM) for content validity testing. This study is expected to make a significant contribution to both the academic field and practical, sustainable interventions for poverty eradication and social welfare. The research is also anticipated to develop a crucial mechanism that leverages the universal principles of Islam to address socio-economic challenges and promote the development of the ummah, not only in Malaysia but also in other countries globally."
+  },
+  {
+   "paperId": "b07b9d0d632fb17dfcf86d42b76b4a788de78fa8",
+   "externalIds": {
+    "DOI": "10.31113/jia.v23i1.1522",
+    "CorpusId": 289899498
+   },
+   "url": "https://www.semanticscholar.org/paper/b07b9d0d632fb17dfcf86d42b76b4a788de78fa8",
+   "title": "Comparative Studies Between Indonesia and Philippines Conditional Cash Transfer Policy: an Integrative Literature Review",
+   "venue": "Jurnal Ilmu Administrasi Media Pengembangan Ilmu dan Praktek Administrasi",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://jia.stialanbandung.ac.id/index.php/jia/article/download/1522/657",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31113/jia.v23i1.1522?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31113/jia.v23i1.1522, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-06-30",
+   "authors": [
+    {
+     "authorId": "2447657518",
+     "name": "Astrid Friska Fernanda"
+    },
+    {
+     "authorId": "114768079",
+     "name": "Wimmy Haliim"
+    }
+   ],
+   "abstract": "Conditional cash transfer (CCT) interventions are prominent poverty-reduction instruments in Southeast Asia, yet systematic knowledge of the mismatch between design and reality remains insufficient. This integrative literature review analyzes 90 peer-reviewed articles comparing the Program Keluarga Harapan (PKH) in Indonesia and the Pantawid Pamilyang Pilipino Program (4Ps) in the Philippines. Based on a design-meets-reality model, the review studies consistency between design assumptions, implementation capacity, and contextual conditions. Findings indicate a systematic design-reality gap due to three theoretical shortcomings: transfer adequacy assumptions, complementarity assumptions, and a lack of behavioral change assumptions, which poorly address the beneficiary agency's multi-sectoral integration demands. The two programs operate under different institutional structures, which creates heterogeneity in implementation. Results show that CCT's effectiveness is mostly mediated contingently rather than deterministically by indices of implementation fidelity, supply factors, and situational conditions such as geographic marginality, disaster shocks, and conflict zones. Policy solutions to PKH involve realigning transfer adequacy, integrating complementary services, and reforming coordination, whereas 4Ps priorities involve lessening fragmentation, integrating health and nutrition, and enhancing transparency for recipients."
+  },
+  {
+   "paperId": "7f0765ae45a220ff8c29b32ccbbeadf56545be7c",
+   "externalIds": {
+    "DOI": "10.1101/2021.12.16.21267921",
+    "CorpusId": 245323299
+   },
+   "url": "https://www.semanticscholar.org/paper/7f0765ae45a220ff8c29b32ccbbeadf56545be7c",
+   "title": "Cash Transfer Programs and HIV-Related Outcomes: an Analysis of 42 Countries from 1996 to 2019",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.medrxiv.org/content/medrxiv/early/2021/12/17/2021.12.16.21267921.full.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2021.12.16.21267921?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2021.12.16.21267921, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2021-12-17",
+   "authors": [
+    {
+     "authorId": "50883614",
+     "name": "A. Richterman"
+    },
+    {
+     "authorId": "4144195",
+     "name": "H. Thirumurthy"
+    }
+   ],
+   "abstract": "Background\nMany low- and middle-income countries have introduced cash transfer programs as part of their poverty reduction and social protection strategies. These programs have the potential to overcome various drivers of HIV risk behaviors and usage of HIV services, but their overall effects on a broad range of HIV-related outcomes remains unknown.\n\nMethods\nWe used publicly reported data to determine whether low- and middle-income countries with HIV prevalence >1% and baseline annual incidence >1/1000 had conditional or unconditional cash transfer programs that covered >5% of the impoverished population, and the year in which those programs began and ended. We obtained country- and individual-level data on HIV-related outcomes from UNAIDS and population-representative household surveys, focusing on the period between 1996 and 2019. We conducted difference-in-differences analyses with country and year fixed effects to evaluate the effects of cash transfer programs on country- and individual-level HIV-related outcomes.\n\nFindings\nForty-two countries across three continents were included. Among these, 21 were in the intervention group, having implemented cash program(s) with impoverished population coverage greater than 5% during the study period. Cash transfer programs were associated with lower probability of reporting sexually transmitted infection within the last 12 months among females (odds ratio [OR] 0.67, 95% confidence interval [CI] 0.50-0.91) and higher probability of an HIV test within the last 12 months among females (OR 2.61, 95% CI 1.15-5.88) and males (OR 3.19, 95% CI 2.45-4.15). For country-level outcomes, cash transfer programs were associated with a reduction in new HIV infections (incidence rate ratio [IRR] 0.94, 95% CI 0.89-0.99), but not with the proportion of people with HIV receiving antiretroviral therapy (5.0%, 95% CI -0.2-10.1) or AIDS-related deaths (IRR 0.99, 95% CI 0.95-1.03), though temporal analyses showed delayed improvements in both antiretroviral coverage and deaths.\n\nInterpretations\nCash transfer programs, which are being expanded in the context of the COVID-19 pandemic, have the potential to promote ongoing efforts to end HIV as a public health threat. Alongside the already existing focus on expanding biomedical services, these anti-poverty programs can play a greater role in achieving global targets for HIV prevention and treatment. \n \nFunding\nNone"
+  },
+  {
+   "paperId": "49cd88a9518b21af253bc59c0c84624ba861ec7c",
+   "externalIds": {
+    "DOI": "10.48028/iiprds/ijasepsm.v13.i2.02",
+    "CorpusId": 287044449
+   },
+   "url": "https://www.semanticscholar.org/paper/49cd88a9518b21af253bc59c0c84624ba861ec7c",
+   "title": "Impact of Human Resources Entrepreneurship on Poverty Reduction in Nigeria",
+   "venue": "International Journal of Advanced Studies in Economics and Public Sector Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.48028/iiprds/ijasepsm.v13.i2.02?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48028/iiprds/ijasepsm.v13.i2.02, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-11-01",
+   "authors": [
+    {
+     "authorId": "2346959189",
+     "name": "M. S. Ajidani"
+    },
+    {
+     "authorId": "2261788379",
+     "name": "Hauwa V. Ibrahim"
+    }
+   ],
+   "abstract": "This study investigated the impact of human resources entrepreneurship\non poverty reduction in Nigeria covering 1995-2024. The study adopted\nex-post-facto research design and utilized secondary data on included\nvariables and autoregressive distributed lag (ARDL) method to carry out the\nanalysis. The results of the study showed that while informal sector growth,\nSocial Inclusion Programs and Unemployment Rate have positive impact on\npoverty reduction, skills development has negative impact on poverty reduction\nin Nigeria. The study recommends that Nigerian government should develop\nstrategies to promote human resources entrepreneurship. To achieve this,\ngovernment should Expand Technical and Vocational Education and Training\n(TVET) centres across all geopolitical zones, create conditional cash transfer\nprograms linked to skills acquisition and microenterprise participation for\nvulnerable populations, provide subsidized microcredit and business\ndevelopment services through cooperatives and community banks, and offer\nstart-up grants, tax holidays, and mentorship for youth-led enterprises and\ninnovations. These will go a long way in reducing poverty in Nigeria."
+  },
+  {
+   "paperId": "277895bccaae3920ab34f85901af49772effbfd9",
+   "externalIds": {
+    "MAG": "2526646305",
+    "CorpusId": 157438200
+   },
+   "url": "https://www.semanticscholar.org/paper/277895bccaae3920ab34f85901af49772effbfd9",
+   "title": "Politics and Conditional Cash Transfer Programs: Lessons from the Philippines",
+   "venue": "",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": "2016-09-21",
+   "authors": [
+    {
+     "authorId": "2411896362",
+     "name": "Ronald U. Mendoza"
+    },
+    {
+     "authorId": "108241939",
+     "name": "Rosechin Olfindo"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "d86d1ad0dcb977e0e4dc247b3857a4372e886609",
+   "externalIds": {
+    "DOI": "10.33005/jdep.v5i1.316",
+    "CorpusId": 249911828
+   },
+   "url": "https://www.semanticscholar.org/paper/d86d1ad0dcb977e0e4dc247b3857a4372e886609",
+   "title": "ANALYSIS OF NON POOR HOUSEHOLDS HAVE RECEIVED CONDITIONAL CASH TRANSFER",
+   "venue": "JURNAL DINAMIKA EKONOMI PEMBANGUNAN",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.33005/jdep.v5i1.316",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33005/jdep.v5i1.316?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33005/jdep.v5i1.316, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2022-01-29",
+   "authors": [
+    {
+     "authorId": "2171754627",
+     "name": "Roy Karten Sembiring"
+    }
+   ],
+   "abstract": "Poverty is a major problem faced by developing countries like Indonesia. The Indonesian government has implemented several poverty reduction programs. Program Keluarga |Harapan (PKH) is one of the poverty reduction programs introduced by the government in 2007. This program provides conditional cash transfers (CCT) to beneficiaries of the PKH initiative. However, there are still many things that need to be improved from this PKH program. One of them is a large number of non-poor households that benefited from the PKH initiative, even though the conditions for recipients of the PKH program in Indonesia were designed for poor households. This study analyzed what factors caused non-poor households to receive benefits from the Conditional Cash Transfer program. The results obtained from the Probit Logit Regression model using National Socio-Economic Survey ( Susenas ) data in 2013, 2014 and 2017, demonstrated that living in a rural area, old age, and having many family members significantly influenced the disbursement of benefits from the PKH (CCT) program."
+  },
+  {
+   "paperId": "8af19c3d1b2368f3316217c3fdb336551b176a53",
+   "externalIds": {
+    "MAG": "2787355789",
+    "CorpusId": 158069080
+   },
+   "url": "https://www.semanticscholar.org/paper/8af19c3d1b2368f3316217c3fdb336551b176a53",
+   "title": "Conditional Cash-Transfer Programs and fertility: Evidence from Bolsa-Família",
+   "venue": "",
+   "year": 2009,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": "2009-10-02",
+   "authors": [
+    {
+     "authorId": "2504773548",
+     "name": "Romero Cavalcanti Barreto da Rocha"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "6fdeb02a6a904895e104a55b99632f765dc334de",
+   "externalIds": {
+    "MAG": "2050415914",
+    "DOI": "10.1007/s00148-010-0337-5",
+    "CorpusId": 154830563
+   },
+   "url": "https://www.semanticscholar.org/paper/6fdeb02a6a904895e104a55b99632f765dc334de",
+   "title": "Evaluating the impact of conditional cash transfer programs on fertility: the case of the Red de Protección Social in Nicaragua",
+   "venue": "Journal of Population Economics",
+   "year": 2010,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00148-010-0337-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00148-010-0337-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2010-09-23",
+   "authors": [
+    {
+     "authorId": "39304403",
+     "name": "Jessica E. Todd"
+    },
+    {
+     "authorId": "117801182",
+     "name": "P. Winters"
+    },
+    {
+     "authorId": "5315446",
+     "name": "G. Stecklov"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "54a480f666a028b84639206474eb33f40f0d29cf",
+   "externalIds": {
+    "MAG": "2161514712",
+    "DOI": "10.1016/j.econ.2014.09.001",
+    "CorpusId": 55225249
+   },
+   "url": "https://www.semanticscholar.org/paper/54a480f666a028b84639206474eb33f40f0d29cf",
+   "title": "Evidence of eligibility manipulation for conditional cash transfer programs",
+   "venue": "",
+   "year": 2014,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1517758014000320/pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.econ.2014.09.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.econ.2014.09.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2014-09-01",
+   "authors": [
+    {
+     "authorId": "144227178",
+     "name": "S. Firpo"
+    },
+    {
+     "authorId": "2521554363",
+     "name": "Renan Gomes De Pieri"
+    },
+    {
+     "authorId": "2063011669",
+     "name": "E. Pedroso"
+    },
+    {
+     "authorId": "2479136437",
+     "name": "A. Fernandes de Souza"
+    }
+   ],
+   "abstract": "This paper assesses whether eligibility for conditional cash transfer programs has been manipulated, as well as the impact of this phenomenon on time allocation within households. To perform this analysis, we use data from the 2006 PNAD (Brazilian national household survey) and investigate the eligibility manipulation for the Bolsa Familia (Family Stipend) program during this time period. The program assists families with a monthly per capita income of around R$120.00 (US$60.00). By applying the tests developed by McCrary (2008), we find suggestive evidence that individuals manipulate their income by voluntarily reducing their labor supply in order to become eligible to the program. Moreover, the reduction in labor supply is greater among women, especially single or divorced mothers. This evidence raises some concern about the unintended consequences related to the eligibility criteria utilized by Bolsa Familia, as well as the program's impact on individuals living in extreme poverty.."
+  },
+  {
+   "paperId": "a9a764a93ff3e677349d3df5dae300073818639a",
+   "externalIds": {
+    "DOI": "10.54254/2753-7064/31/20232099",
+    "CorpusId": 269849826
+   },
+   "url": "https://www.semanticscholar.org/paper/a9a764a93ff3e677349d3df5dae300073818639a",
+   "title": "What Are the Challenges and Opportunities in to Improve Human Capital and Value Added in Cambodia's Garment Industry for the Purpose of Poverty Reduction?",
+   "venue": "Communications in Humanities Research",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.54254/2753-7064/31/20232099",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.54254/2753-7064/31/20232099?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54254/2753-7064/31/20232099, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-17",
+   "authors": [
+    {
+     "authorId": "2111185125",
+     "name": "Jia-Yin Ding"
+    }
+   ],
+   "abstract": "In pursuit of a comprehensive poverty reduction strategy for Cambodia, this paper begins with an analysis of the value ladder of Cambodia's garment industry. This paper argues for a shift from the bottom of the ladder, a labor-intensive economy, to more advanced sectors involving technology, design, and skilled labor as a potential catalyst for poverty reduction progress. Furthermore, this paper emphasizes that Cambodia's opportunity to lift its position from the value ladder hinges on the augmentation of human capital, primarily through strategic investments in education. Subsequently, the paper delves into the challenges confronting the Cambodian government in its efforts to address poverty. Drawing inspiration from the successful Conditional Cash Transfer (CCT) programs implemented in Mexico (Oportunidades) and Brazil (Bolsa Famlia) to tackle similar poverty-related challenges, this paper examines their outcomes. It evaluates their practicality within the Cambodian context as a policy recommendation."
+  }
+ ]
+}

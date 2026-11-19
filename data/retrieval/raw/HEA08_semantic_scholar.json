@@ -1,0 +1,1017 @@
+{
+ "query": "Sleep duration and mental health in young adults",
+ "retrieved_at": "2026-11-18T18:10:50.319012+00:00",
+ "data": [
+  {
+   "paperId": "b5bbb4c651bb21ef286f7248d9031aea010ad781",
+   "externalIds": {
+    "DOI": "10.1016/j.sleep.2024.01.021",
+    "CorpusId": 267323505,
+    "PubMed": "38330693"
+   },
+   "url": "https://www.semanticscholar.org/paper/b5bbb4c651bb21ef286f7248d9031aea010ad781",
+   "title": "Sleep duration and mental health in young adults.",
+   "venue": "Sleep Medicine",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.sleep.2024.01.021",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.sleep.2024.01.021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.sleep.2024.01.021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-01-01",
+   "authors": [
+    {
+     "authorId": "151425276",
+     "name": "C. Vestergaard"
+    },
+    {
+     "authorId": "6856068",
+     "name": "J. Skogen"
+    },
+    {
+     "authorId": "4081393",
+     "name": "M. Hysing"
+    },
+    {
+     "authorId": "2271601886",
+     "name": "A. G. Harvey"
+    },
+    {
+     "authorId": "8989987",
+     "name": "Ø. Vedaa"
+    },
+    {
+     "authorId": "144512388",
+     "name": "Borge Sivertsen"
+    }
+   ],
+   "abstract": "BACKGROUND\nThe association between sleep duration and mental illness has been established in middle-aged and older populations, yet remains less explored in younger adults. Additionally, a common limitation to existing studies is the lack of statistical power to explore less common disorders. The purpose of this study was to examine sleep duration as a predictor for a range of mental disorders and well-being in a longitudinal sample of young adults.\n\n\nMETHODS\nData were derived from two waves (w1, w2) of the SHoT survey, which invited all full-time university and college students in Norway. The response rates were 34.4 % (n = 62,498) in 2021 (w1) and 35.1 % (n = 59,554) 2022 (w2). This study utilized a nested longitudinal sample from both w1 and w2, encompassing 21,289 students. Demographics, sleep duration (w1), and mental health (w2) were measured by self-report questionnaires. Sex-stratified linear regression models and log-link binomial regression analyses were employed to determine the proportion and calculate the risk ratios, respectively, for mental illness across different sleep duration categories.\n\n\nRESULTS\nThe mean age of the sample was 24.8 years ± 4.5 years (w1). Students with shorter sleep durations, and to some degree longer sleep durations (illustrating a ᒐ-shaped association), exhibited a higher risk for all assessed mental disorders and well-being outcomes one year later, compared to students sleeping 8-9 h. The ᒐ-shaped trend was consistent for both female and male students.\n\n\nCONCLUSION\nSleep duration appears to be a transdiagnostic marker for mental health in young adults."
+  },
+  {
+   "paperId": "5a37b1db4f3361eec6cd3494322ad81992f38775",
+   "externalIds": {
+    "PubMedCentral": "9759015",
+    "DOI": "10.2147/JMDH.S391752",
+    "CorpusId": 254663344,
+    "PubMed": "36536663"
+   },
+   "url": "https://www.semanticscholar.org/paper/5a37b1db4f3361eec6cd3494322ad81992f38775",
+   "title": "Association Between Emotional Eating, Sociodemographic Characteristics, Physical Activity, Sleep Duration, and Mental and Physical Health in Young Adults",
+   "venue": "Journal of Multidisciplinary Healthcare",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.dovepress.com/getfile.php?fileID=86086",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9759015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-12-01",
+   "authors": [
+    {
+     "authorId": "2196983901",
+     "name": "Ruth E Calderón-Asenjo"
+    },
+    {
+     "authorId": "2196995374",
+     "name": "Martha C Jalk-Muñoz"
+    },
+    {
+     "authorId": "2100781457",
+     "name": "Y. Calizaya-Milla"
+    },
+    {
+     "authorId": "2149799402",
+     "name": "Sergio E. Calizaya-Milla"
+    },
+    {
+     "authorId": "2054216673",
+     "name": "C. Ramos-Vera"
+    },
+    {
+     "authorId": "2091605159",
+     "name": "J. Saintila"
+    }
+   ],
+   "abstract": "Background Emotional eating (EmE) is one of the most common eating behaviors maladaptive among young adults, however, in the Peruvian context, it remains unexplored. Objective The aim of the study was to determine the association between negative EmE, sociodemographic characteristics, physical activity, sleep duration, and mental and physical health in young adults. Methods A cross-sectional study was conducted in 400 young Peruvian adults living in three regions of Peru (coast, jungle, and highlands). An online survey was used to collect information on sociodemographic characteristics, physical activity, sleep duration, depressive symptoms, anxiety, hypertension, and negative EmE. In addition, self-reported anthropometric data were collected to calculate body mass index (BMI). Results Approximately 55.8% of women presented negative EmE. Logistic regression analysis revealed that participants aged 30–39 years were less likely to have negative EmE in both female and male gender, OR; 0.24, 95% CI; 0.08–0.66, p<0.01 and OR; 0.40, 95% CI; 0.16–0.97, p<0.05, respectively. Perform physical activity 3 to 4 times 5.22 (95% CI: 1.31–20.78), 1 to 2 times a week 5.77 (95% CI: 1.91–17.44), and never 15.18 (95% CI: 3.90–59.00) were associated with negative EmE. Moreover, sleeping less than 7 hours per day (OR; 2.26, 95% CI; 1.04–4.90), depressive symptoms (OR = 6.29, 95% CI: 1.27–31.19), anxiety (OR = 14.13, 95% CI: 2.46–80. 97, p<0.01), hypertension (OR = 7.58, 95% CI: 1.24–46.17), and BMI ≥25 (overweight/obese) (OR = 1.51, 95% CI: 1.66–3.41) were associated with negative EmE. Conclusion The findings show that there is an association between negative EmE, sociodemographic characteristics, physical activity, sleep duration, and mental and physical health in young adults."
+  },
+  {
+   "paperId": "ad8017e246ef62f34c724051566a4e507f498088",
+   "externalIds": {
+    "PubMedCentral": "13046283",
+    "DOI": "10.1371/journal.pone.0345018",
+    "CorpusId": 287109848,
+    "PubMed": "41926479"
+   },
+   "url": "https://www.semanticscholar.org/paper/ad8017e246ef62f34c724051566a4e507f498088",
+   "title": "Estimating the causal effect of sleep duration on mental health in young adults: A meta-learner approach from physiological and nutritional perspectives",
+   "venue": "PLoS ONE",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0345018&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13046283, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-04-02",
+   "authors": [
+    {
+     "authorId": "2427709249",
+     "name": "H. Oh"
+    },
+    {
+     "authorId": "1390739795",
+     "name": "J. Park"
+    },
+    {
+     "authorId": "2404614984",
+     "name": "Ah-Kyung Kim"
+    },
+    {
+     "authorId": "2427695473",
+     "name": "Wah Wah Maw"
+    },
+    {
+     "authorId": "2328247883",
+     "name": "Y. Choi"
+    },
+    {
+     "authorId": "2148958759",
+     "name": "Wonsang Lee"
+    }
+   ],
+   "abstract": "This study analyzes the causal effect of sleep duration on mental health among young adults using a meta-learner-based causal inference framework. Specifically, we applied a T-Learner model with Random Forest and XGBoost as the base learner to data from 1,405 individuals aged 19–34, drawn from the 2022–2023 Korea National Health and Nutrition Examination Survey. The result indicates that adequate sleep increases the probability of maintaining normal mental health. Subgroup analysis comparing individuals with adequate sleep and normal mental health to those with insufficient sleep and poor mental health also reveals a statistically significant causal effect of sleep on mental health improvement. In addition, AST (SGOT) levels and blood creatinine concentration are identified as key confounding factors. Findings suggest that sufficient sleep could enhance mental health among young adults, and policy implications for youth mental health are derived from the perspective of sleep duration. By providing empirically identified causal evidence based on nationally representative data, this study contributes to the growing literature on sleep and mental health and highlights sleep duration as a modifiable target for evidence-based mental health interventions in young adults."
+  },
+  {
+   "paperId": "7e677bf3606a16a3309ea7ad55b291459e91d2bb",
+   "externalIds": {
+    "PubMedCentral": "12662671",
+    "DOI": "10.1155/da/3249012",
+    "CorpusId": 283336137,
+    "PubMed": "41321479"
+   },
+   "url": "https://www.semanticscholar.org/paper/7e677bf3606a16a3309ea7ad55b291459e91d2bb",
+   "title": "Effects of Smartphone Use on Sleep and Mental Health in Young Adults: Going Beyond Self-Report",
+   "venue": "Depression and Anxiety",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1155/da/3249012",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12662671, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-01",
+   "authors": [
+    {
+     "authorId": "2143315082",
+     "name": "E. Bild"
+    },
+    {
+     "authorId": "4813098",
+     "name": "K. Rossa"
+    },
+    {
+     "authorId": "6396932",
+     "name": "S. Edmed"
+    },
+    {
+     "authorId": "31472948",
+     "name": "C. Pattinson"
+    },
+    {
+     "authorId": "19185825",
+     "name": "D. Mann"
+    },
+    {
+     "authorId": "2256491784",
+     "name": "Karen A. Sullivan"
+    },
+    {
+     "authorId": "145780221",
+     "name": "P. Salmon"
+    },
+    {
+     "authorId": "2221195377",
+     "name": "S. Gadam"
+    },
+    {
+     "authorId": "2221193574",
+     "name": "A. Srinivasan"
+    },
+    {
+     "authorId": "2259707968",
+     "name": "Simon S. Smith"
+    }
+   ],
+   "abstract": "Background Poor sleep has been associated with mental health concerns such as anxiety and depression. Prior evidence suggests that smartphone use may be a factor in poor sleep and mental ill-health in young adults, though most studies have relied on self-reported measures of smartphone use and sleep, which can be unreliable. This study used objective and subjective measures to examine the relationship between time spent using smartphones, sleep duration, quality, regularity, and symptoms of depression and anxiety in a sample of self-selected poor sleepers. Methods Participants (N = 99; 70.7% female) wore an actigraph for 2 weeks to assess their habitual nightly sleep duration and regularity. Their average daily smartphone screen use was collected over 1 week with a smartphone application. Standardized questionnaires were used to assess sleep quality and mental health symptoms. Results No statistically significant associations were found between objective smartphone screen use and any sleep or mental health variables. Sleep disturbance, sleep-related daytime impairment, anxiety, and depression were positively correlated. However, regression models identified that only sleep-related daytime impairment explained unique variance in anxiety and depression when adjusted for sleep disturbance and duration, gender, age, and screen time. Limitations Specific timing of smartphone screen use (e.g., evening use) and/or application content were not collected as part of this study. Conclusions These results conflict with prior evidence demonstrating negative relationships between self-reported smartphone screen use, sleep, and mental health. Further research incorporating objective measurement of smartphone screen use, focusing on critical periods for sleep, may provide a more nuanced picture of this relationship. Results also demonstrate the differing roles of night-time sleep disturbance and daytime sleep-related impairment in mental health. Trial Registration: Australian New Zealand Clinical Trials Registry number: ACTRN12621000132842"
+  },
+  {
+   "paperId": "f843ac5736862cc0cddff9c84d554846cacd354f",
+   "externalIds": {
+    "PubMedCentral": "11475679",
+    "MAG": "3036331341",
+    "DOI": "10.1111/jsr.13152",
+    "CorpusId": 221108893,
+    "PubMed": "32783404"
+   },
+   "url": "https://www.semanticscholar.org/paper/f843ac5736862cc0cddff9c84d554846cacd354f",
+   "title": "Self‐reported sleep quality is more closely associated with mental and physical health than chronotype and sleep duration in young adults: A multi‐instrument analysis",
+   "venue": "Journal of Sleep Research",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jsr.13152",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11475679, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2020-06-11",
+   "authors": [
+    {
+     "authorId": "1875770625",
+     "name": "Khyla Muzni"
+    },
+    {
+     "authorId": "40020692",
+     "name": "J. Groeger"
+    },
+    {
+     "authorId": "144008328",
+     "name": "D. Dijk"
+    },
+    {
+     "authorId": "1989168",
+     "name": "A. Lazar"
+    }
+   ],
+   "abstract": "Sleep and circadian rhythms are considered to be important determinants of mental and physical health. Epidemiological studies have established the contribution of self‐reported sleep duration, sleep quality and chronotype to health outcomes. Mental health and sleep problems are more common in women and men are more likely to be evening types. Few studies have compared the relative strength of these contributions and few studies have assessed these contributions separately in men and women. Furthermore, sleep and circadian characteristics are typically assessed with a limited number of instruments and a narrow range of variables is considered, leaving the understanding of the relative contribution of different predictors somewhat fractionary. We compared sleep quality, sleep duration and chronotype as predictors for self‐reported mental and physical health and psychological characteristics in 410 men and 261 women aged 18 to 30. To ascertain that results were not dependent on the use of specific instruments we used a multitude of validated instruments including the Morningness‐Eveningness‐Questionnaire, Munich‐ChronoType‐Questionnaire, Pittsburgh‐Sleep‐Quality‐Index, British‐Sleep‐Survey, Karolinska‐Sleep‐Diary, Insomnia‐Severity‐Index, SF‐36‐Health Survey, General‐Health‐Questionnaire, Dutch‐Eating‐Behaviour‐Questionnaire, Big‐Five‐Inventory, Behaviour‐Inhibition‐System‐Behaviour‐Activation‐System, and the Positive‐Affect‐Negative‐Affect‐Schedule. Relative contributions of predictors were quantified as local effect sizes derived from multiple regression models. Across all questionnaires, sleep quality was the strongest independent predictor of health and in particular mental health and more so in women than in men. The effect of sleep duration and social jetlag was inconspicuous. A greater insight into the independent contributions of sleep quality and chronotype may aid the understanding of sleep‐health interactions in women and men."
+  },
+  {
+   "paperId": "8c08992f7b09a271510d3cf42610c10d56ba35a7",
+   "externalIds": {
+    "DOI": "10.31435/ijitss.4(52).2026.6659",
+    "CorpusId": 295537367
+   },
+   "url": "https://www.semanticscholar.org/paper/8c08992f7b09a271510d3cf42610c10d56ba35a7",
+   "title": "SCROLLING INTO SLEEPLESSNESS: SOCIAL MEDIA, SLEEP DISTURBANCE, AND MENTAL HEALTH IN YOUNG ADULTS",
+   "venue": "International Journal of Innovative Technologies in Social Science",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://rspublisher.org/index.php/ijitss/article/download/6659/5281",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31435/ijitss.4(52).2026.6659?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31435/ijitss.4(52).2026.6659, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-10-27",
+   "authors": [
+    {
+     "authorId": "2450123112",
+     "name": "Julia Płóciennik"
+    },
+    {
+     "authorId": "2526291332",
+     "name": "Klara Płóciennik"
+    },
+    {
+     "authorId": "2450123137",
+     "name": "Aleksandra Skrobisz"
+    },
+    {
+     "authorId": "2459392196",
+     "name": "Lesia Slobozheniuk"
+    },
+    {
+     "authorId": "2397105293",
+     "name": "Magdalena Bieniak"
+    },
+    {
+     "authorId": "2427206673",
+     "name": "I. Owczarek-Danowska"
+    },
+    {
+     "authorId": "2450124982",
+     "name": "Julia Ołdak"
+    },
+    {
+     "authorId": "2440178487",
+     "name": "A. E. Kierska"
+    },
+    {
+     "authorId": "2564127189",
+     "name": "O. Korshak"
+    }
+   ],
+   "abstract": "Social media is embedded in young adults’ daily routines and frequently extends into the biological night. This narrative review examines how the amount, timing, content, and degree of control over social media use relate to sleep duration, sleep quality, insomnia symptoms, circadian timing, depression, anxiety, loneliness, and suicidality. PubMed/MEDLINE, Scopus, and PsycINFO were searched for English-language literature available through August 2026, with priority given to systematic reviews, meta-analyses, longitudinal studies, experiments, randomized interventions, and authoritative clinical guidance. Problematic, bedtime, nocturnal, and emotionally dysregulated use showed more consistent associations with disturbed sleep and adverse mental-health outcomes than total duration alone. The principal mechanisms were sleep displacement, cognitive and emotional arousal, social comparison, fear of missing out, notification-related interruption, and evening light exposure. Sleep appears to operate as both a mediator and a bidirectional amplifier: distress can promote compensatory scrolling, while delayed or fragmented sleep can impair affect regulation. Nevertheless, causal inference remains limited by cross-sectional designs, self-report bias, heterogeneous exposure definitions, residual confounding, and rapidly changing platforms. Clinically, assessment should focus on timing, control, content, function, and perceived benefits. Individualized reduction strategies may be useful, but they should complement rather than replace evidence-based treatment of insomnia or psychiatric disorders."
+  },
+  {
+   "paperId": "fc34a3ad6a7da51ba3550fe055dd93acf51bcad1",
+   "externalIds": {
+    "DOI": "10.1016/j.sleep.2025.108326",
+    "CorpusId": 285230113
+   },
+   "url": "https://www.semanticscholar.org/paper/fc34a3ad6a7da51ba3550fe055dd93acf51bcad1",
+   "title": "Differential effects of sleep quality and sleep duration on stress reactivity: implications for mental health and wellbeing of young adults",
+   "venue": "Sleep Medicine",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.sleep.2025.108326?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.sleep.2025.108326, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-02-01",
+   "authors": [
+    {
+     "authorId": "2221195377",
+     "name": "S. Gadam"
+    },
+    {
+     "authorId": "4813098",
+     "name": "K. Rossa"
+    },
+    {
+     "authorId": "31472948",
+     "name": "C. Pattinson"
+    },
+    {
+     "authorId": "81718280",
+     "name": "S. Soleimanloo"
+    },
+    {
+     "authorId": "19185825",
+     "name": "D. Mann"
+    },
+    {
+     "authorId": "2261368401",
+     "name": "K. Sullivan"
+    },
+    {
+     "authorId": "145780221",
+     "name": "P. Salmon"
+    },
+    {
+     "authorId": "2157288991",
+     "name": "S. Smith"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "aa2d8f7a8d03e02d687c1365ae8b8759f869ea06",
+   "externalIds": {
+    "DOI": "10.1186/s41606-024-00109-4",
+    "CorpusId": 273202370
+   },
+   "url": "https://www.semanticscholar.org/paper/aa2d8f7a8d03e02d687c1365ae8b8759f869ea06",
+   "title": "Weekday-to-weekend sleep duration patterns among young adults and outcomes related to health and academic performance",
+   "venue": "Sleep Science and Practice",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://sleep.biomedcentral.com/counter/pdf/10.1186/s41606-024-00109-4",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s41606-024-00109-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s41606-024-00109-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-10-10",
+   "authors": [
+    {
+     "authorId": "151425276",
+     "name": "C. Vestergaard"
+    },
+    {
+     "authorId": "2324412916",
+     "name": "M. R. Simpson"
+    },
+    {
+     "authorId": "2284126111",
+     "name": "B. Sivertsen"
+    },
+    {
+     "authorId": "6501091",
+     "name": "H. Kallestad"
+    },
+    {
+     "authorId": "5673519",
+     "name": "K. Langsrud"
+    },
+    {
+     "authorId": "2256324504",
+     "name": "Jan Scott"
+    },
+    {
+     "authorId": "8989987",
+     "name": "Ø. Vedaa"
+    }
+   ],
+   "abstract": "To examine whether weekday-to-weekend sleep duration (WWD) difference and specific WWD patterns are associated with mental and somatic health and academic performance in a student population. This study utilized cross-sectional data from the SHoT-2018 survey which includes responses from 50,054 full-time university/college students in Norway. Participants completed online questionnaires and reported sleep duration separately for weekdays and weekends. Medium sleep duration was defined as 7 to 9 h, short sleep duration as < 7 h and long sleep duration as > 9 h. Regression analyses were used to examine whether the degree and patterns of WWD was associated with health-related outcomes and academic performance. The mean age of the sample was 23.2 years and comprised of 68.8% women. Most students (81.7%) slept longer on weekends compared to weekdays and 30.0% of the students reported a mean sleep duration shorter than 7 h. WWD difference was positively associated with higher odds of overweight/obesity, dissatisfaction with life, psychological distress, somatic burden and failed study exam. Concerning WWD patterns, the odds of students reporting unfavorably on the outcomes were particularly high for those who slept short on both weekdays and weekends, while those who slept short on weekdays seemed to benefit from sleeping longer (“catching up”) on weekends. Overall, WWD was associated with adverse health outcomes for students. Short sleep duration both on weekday and weekend was associated with the most detrimental outcomes in terms of health and academic performance, while sleeping in on weekends may alleviate some of the detriments."
+  },
+  {
+   "paperId": "d2f67a16747a943724faccda087ea2ced44c4c94",
+   "externalIds": {
+    "PubMedCentral": "12401739",
+    "DOI": "10.3346/jkms.2025.40.e211",
+    "CorpusId": 280274337,
+    "PubMed": "40891159"
+   },
+   "url": "https://www.semanticscholar.org/paper/d2f67a16747a943724faccda087ea2ced44c4c94",
+   "title": "Weekday-to-Weekend Sleep Differences and Poor Mental Health in Young Adulthood",
+   "venue": "Journal of Korean medical science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "http://jkms.org/Synapse/Data/PDFData/0063JKMS/jkms-40-e211.pdf",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12401739, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-07-08",
+   "authors": [
+    {
+     "authorId": "47191041",
+     "name": "Minjae Choi"
+    },
+    {
+     "authorId": "2149663026",
+     "name": "J. K. Sempungu"
+    },
+    {
+     "authorId": "2320125031",
+     "name": "Joonhee Han"
+    },
+    {
+     "authorId": "2320126101",
+     "name": "Mi-Hyui Kim"
+    },
+    {
+     "authorId": "2145405458",
+     "name": "Yo-Han Lee"
+    }
+   ],
+   "abstract": "Background We aimed to investigate associations between weekday-to-weekend sleep differences and mental health and examine whether the association varies by weekday sleep duration among young adults in South Korea. Methods We used the Survey of Korean Youths’ Lives, a nationally representative data for young adults aged 19–34 years in South Korea. Weekday-to-weekend sleep differences were calculated by the difference between sleep durations on weekends (or free days) and those on weekdays (or working days). Indicators of mental health included unhappiness, life dissatisfaction, burnout, depression, and suicide ideation. A logistic regression analysis was conducted to investigate associations between weekday-to-weekend sleep differences and mental health. We stratified respondents by weekday sleep duration (i.e., < 7 hours and ≥ 7 hours) and examined the difference in associations of weekday-to-weekend sleep differences with mental health. Results Among the 14,931 respondents, 49.4% and 17.1% reported having 1–2 hours and more than 2 hours more sleep during weekends compared to their weekday sleep, respectively. Moreover, 38.5% of respondents had less than the recommended hours (≥ 7 hours) of sleep on weekdays and they were more likely to have additional hours of sleep on weekends. Larger weekday-to-weekend sleep differences were associated with poor mental health. Specifically, young adults who slept more than two additional hours on weekends were more likely to experience poor mental health conditions, including unhappiness, life dissatisfaction, burnout, depression, and suicide ideation. Furthermore, the associations between weekday-to-weekend sleep differences and poor mental health were more pronounced among those who slept less than the recommended hours on weekdays. Conclusion This study suggests that large differences in sleep duration between weekdays and weekends could be a useful indicator for detecting poor mental health status. However, further research is needed to better understand the mechanisms underlying factors contributing to weekday-to-weekend sleep differences among young adults."
+  },
+  {
+   "paperId": "bbbfdd3c93a1c80efdb480a31e164772604b3525",
+   "externalIds": {
+    "DOI": "10.12775/qs.2026.87.67840",
+    "CorpusId": 284801113
+   },
+   "url": "https://www.semanticscholar.org/paper/bbbfdd3c93a1c80efdb480a31e164772604b3525",
+   "title": "The Impact of Sleep Hygiene on Cognitive Functioning, Mental Health, and Physical Performance in Young Adults: A Narrative Review of the Literature",
+   "venue": "Journal of Education, Health and Sport",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://apcz.umk.pl/JEHS/article/download/67840/45089",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12775/qs.2026.87.67840?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12775/qs.2026.87.67840, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-01-13",
+   "authors": [
+    {
+     "authorId": "2330004898",
+     "name": "P. Romaniuk"
+    },
+    {
+     "authorId": "2329230000",
+     "name": "Michał Karol"
+    },
+    {
+     "authorId": "2329234100",
+     "name": "Kamila Koseska"
+    },
+    {
+     "authorId": "119562131",
+     "name": "J. Borowicz"
+    },
+    {
+     "authorId": "2403389937",
+     "name": "Bartosz Górecki"
+    },
+    {
+     "authorId": "2403382043",
+     "name": "Kinga Kloch"
+    },
+    {
+     "authorId": "2403382051",
+     "name": "Mariia-Khrystyna Lohin"
+    },
+    {
+     "authorId": "2342731753",
+     "name": "Aleksandra Strawińska"
+    },
+    {
+     "authorId": "2319007013",
+     "name": "M. Bednarczyk"
+    }
+   ],
+   "abstract": "Sleep hygiene encompasses behavioral and environmental practices that shape sleep quality and circadian stability. Among young adults, lifestyle demands, academic pressures, and widespread digital media use contribute to irregular sleep–wake schedules, shortened sleep duration, and increasing sleep disturbances. This narrative review synthesizes research from sleep medicine, psychology, and public health to examine how sleep hygiene relates to cognitive performance, psychological well-being, and physical functioning in young adults. Evidence indicates that inconsistent sleep timing, evening light exposure, and stimulating pre-sleep activities are linked to impaired attention, reduced learning efficiency, and poorer executive functioning. Poor sleep hygiene is also associated with heightened emotional reactivity, greater risk of anxiety and depressive symptoms, and impaired stress regulation. Physiological consequences include altered neuroendocrine rhythms, reduced recovery capacity, and declines in physical performance. Intervention studies show that adopting regular sleep schedules, minimizing nocturnal screen exposure, and optimizing sleep environments can improve sleep quality, daytime functioning, and mental health. Taken together, sleep hygiene emerges as a modifiable and cost-effective determinant of health in young adults. Integrating sleep-supportive behaviors into preventive medicine, education, and public health initiatives may help protect cognitive, emotional, and physical functioning during this critical developmental period."
+  },
+  {
+   "paperId": "60dbb6140a895d56cdf3d0eaa366d8a7e08cccd1",
+   "externalIds": {
+    "DOI": "10.1161/cir.151.suppl_1.p2153",
+    "CorpusId": 277915906
+   },
+   "url": "https://www.semanticscholar.org/paper/60dbb6140a895d56cdf3d0eaa366d8a7e08cccd1",
+   "title": "Abstract P2153: Correlates of Sleep Health in Women of the Coronary Artery Risk Development in Young Adults (CARDIA) Study",
+   "venue": "Circulation",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1161/cir.151.suppl_1.p2153?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1161/cir.151.suppl_1.p2153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-03-11",
+   "authors": [
+    {
+     "authorId": "151454405",
+     "name": "Mandy L. Pershing"
+    },
+    {
+     "authorId": "2303230466",
+     "name": "Xuan Cai"
+    },
+    {
+     "authorId": "2108679132",
+     "name": "S. Thomas"
+    },
+    {
+     "authorId": "2249922824",
+     "name": "Cora Lewis"
+    },
+    {
+     "authorId": "144897497",
+     "name": "Catherine Kim"
+    },
+    {
+     "authorId": "2175318",
+     "name": "P. Schreiner"
+    },
+    {
+     "authorId": "35205561",
+     "name": "K. Knutson"
+    },
+    {
+     "authorId": "83163107",
+     "name": "Swaty Chapagai"
+    },
+    {
+     "authorId": "2302013154",
+     "name": "K. Reid"
+    },
+    {
+     "authorId": "2142227588",
+     "name": "S. Alexandria"
+    },
+    {
+     "authorId": "5008781",
+     "name": "M. Carnethon"
+    }
+   ],
+   "abstract": "\n Introduction:\n The American Heart Association recently added sleep to Life’s Essential 8 key measures for cardiovascular health. As middle age is a period when women’s risk for cardiovascular disease increases, we investigated the contributions of sociodemographic, biological, mental and lifestyle characteristics on sleep health among middle-aged women.\n \n \n Hypothesis:\n Adverse levels of these characteristics are associated with poorer sleep health and associations will vary by domain of sleep.\n \n \n Methods:\n We analyzed correlates of sleep health of 567 women using cross-sectional data from the Coronary Artery Risk Development in Young Adults sleep ancillary study at year 35, a prospective cohort study which enrolled Black and White individuals aged 18 to 30 years at baseline (1985-86). Outcomes were sleep regularity index, fragmentation, duration, and sleep percentage determined using the wrist-worn Actiwatch\n TM\n accelerometer. Values for each participant were averaged across the number of days they wore the device (min 4, max 7). The following categories of correlates were measured using questionnaires and examinations: sociodemographic (marital status, education, number of people in household, having a bed partner, retirement status); biological (BMI, waist circumference, menopausal symptoms); mental (social support, quality of life, depression, loneliness, social network); lifestyle (physical activity, alcohol use, smoking status). We used linear regression models to generate effect estimates for each of the characteristics and the 4 sleep health outcomes adjusted for age, cardiovascular disease and study center. Given known differences in sleep health by race, we chose a priori to carry out stratified analyses by race.\n \n \n Results:\n The mean age of participants was 61.3 years (SD= 3.6) and 44.8% were Black. The mean value for sleep percentage was 90.4% (SD=4.5), sleep regularity was 79.7% (SD=11.0), sleep fragmentation was 19.8% (SD =7.4), and sleep duration was 415.8 minutes (SD =59.9). Lifestyle was the only category that was associated with sleep health. Black women who were current or former smokers had less favorable sleep health (Table 1). More physical activity was associated with more favorable sleep health in White women. The characteristics we investigated were not associated with sleep duration.\n \n \n Conclusions:\n We observed a contribution of lifestyle behaviors with measures of sleep health that reflect sleep regularity and quality.\n \n \n \n"
+  },
+  {
+   "paperId": "8c9b9efb0810c39b623d97bd7aeb53773362416f",
+   "externalIds": {
+    "DOI": "10.1016/j.anzjph.2023.100070",
+    "CorpusId": 259994933,
+    "PubMed": "37474415"
+   },
+   "url": "https://www.semanticscholar.org/paper/8c9b9efb0810c39b623d97bd7aeb53773362416f",
+   "title": "Sleep health of young adults in Western Australia and associations with physical and mental health: A population-level cross-sectional study.",
+   "venue": "Australian and New Zealand Journal of Public Health",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.anzjph.2023.100070",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.anzjph.2023.100070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.anzjph.2023.100070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-27",
+   "authors": [
+    {
+     "authorId": "6929349",
+     "name": "A. Metse"
+    },
+    {
+     "authorId": "66774261",
+     "name": "P. Eastwood"
+    },
+    {
+     "authorId": "39787196",
+     "name": "M. Ree"
+    },
+    {
+     "authorId": "3829726",
+     "name": "A. Lopresti"
+    },
+    {
+     "authorId": "50573789",
+     "name": "J. Scott"
+    },
+    {
+     "authorId": "66562838",
+     "name": "J. Bowman"
+    }
+   ],
+   "abstract": "OBJECTIVES\nThis article aims to report on the sleep health characteristics of a population-level sample of young Australian adults and examine associations with measures of physical and mental health.\n\n\nMETHODS\nA cross-sectional study using data from the Raine Study. Data from participants (n = 1234) born into the study (Generation 2) at the 22-year follow-up were used, including data from a self-report questionnaire and polysomnography.\n\n\nRESULTS\nThe highest prevalence of suboptimal sleep health was seen on measures of sleep duration (30%), onset latency (18%), satisfaction (25%) and regularity (60%). Dissatisfaction with sleep (physical health: β =0.08; mental health: β =0.34) and impaired daytime alertness (physical health: β =0.09; mental health: β =0.08) were significantly associated with poorer physical and mental health and inadequate polysomnography-measured sleep duration was associated poorer mental health (β =0.07) (all ps<0.05).\n\n\nCONCLUSIONS\nSatisfaction with sleep and daytime alertness, both of which are assessed via self-report, are essential aspects of sleep health for young adults.\n\n\nIMPLICATIONS FOR PUBLIC HEALTH\nFindings could inform public health interventions, including screening guidelines, to improve the sleep health and, in turn, the physical and mental health of young adults in Australia."
+  },
+  {
+   "paperId": "336cb38ea316a38e2d3794efcdadf2ef0ab4c7af",
+   "externalIds": {
+    "PubMedCentral": "11646048",
+    "DOI": "10.1093/sleepadvances/zpae070.091",
+    "CorpusId": 274761749
+   },
+   "url": "https://www.semanticscholar.org/paper/336cb38ea316a38e2d3794efcdadf2ef0ab4c7af",
+   "title": "P009 Sharper Minds Better Sleep: Results from a pilot brief intervention for improving sleep health in young adults",
+   "venue": "SLEEP Advances",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://academic.oup.com/sleepadvances/article-pdf/5/Supplement_1/A32/60938912/zpae070.091.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11646048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-01",
+   "authors": [
+    {
+     "authorId": "4813098",
+     "name": "K. Rossa"
+    },
+    {
+     "authorId": "6396932",
+     "name": "S. Edmed"
+    },
+    {
+     "authorId": "2217339925",
+     "name": "N. Lorimer"
+    },
+    {
+     "authorId": "2157288991",
+     "name": "S. Smith"
+    }
+   ],
+   "abstract": "Abstract Introduction The transition to university can be associated with increased stress, poorer mental health and increased risk of sleep problems. This pilot study assessed the effectiveness of a brief, skills building sleep education program (Sharper Minds Better Sleep) designed to increase knowledge about healthy sleep and its relationship to mental health, and to promote healthy sleep behaviours. Method Using a single arm pre-post design, participants completed an electronic sleep diary, a range of standardised sleep related questionnaires and wore an actigraph for 7 days pre-and post- program. The intervention consisted of 4x45 minute online group (6-8 people) learning sessions delivered via Zoom by trained Provisional Psychologists to first year university students in 2022/3. Results 81 students participated in the program (71% female; Mage =21.1, SD = 4.6). Preliminary paired t-tests conducted on available actigraphy data indicate no significant change in sleep duration from pre- to post- program, however sleep regularity [Mpre=75.65, Mpost=82.66, Cohen’s d=-.75], and intradaily variability [Mpre=.81, Mpost=.71, Cohen’s Cohen’s d=.37) significantly improved. Preliminary assessment of questionnaire data revealed significant improvements in scores on the Insomnia Severity Index (Mpre=11.70, Mpost=9.74, Cohen’s d=0.40) and Bedtime Procrastination (Mpre=13, Mpost=11, Cohen’s d=0.38) from pre- to post- program. Discussion The Sharper Minds Better Sleep program has demonstrated benefits in improving sleep health behaviours in young adults. Since sleep is intrinsically linked to a range of wellbeing functions, further analyses of these data will seek to understand the utility of the program as part of a stepped care model."
+  },
+  {
+   "paperId": "8a12814aae74bc0d2a80e82b5ca4deb02ede2a38",
+   "externalIds": {
+    "DOI": "10.1093/sleep/zsae067.0106",
+    "CorpusId": 269289644
+   },
+   "url": "https://www.semanticscholar.org/paper/8a12814aae74bc0d2a80e82b5ca4deb02ede2a38",
+   "title": "0106 Cognitive-Emotional Features of Insomnia Phenotypes Based on Objective Sleep Duration in Young Adults",
+   "venue": "Sleep",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1093/sleep/zsae067.0106?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/sleep/zsae067.0106, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-04-20",
+   "authors": [
+    {
+     "authorId": "2219257273",
+     "name": "Raegan Atha"
+    },
+    {
+     "authorId": "2142242069",
+     "name": "K. Lenker"
+    },
+    {
+     "authorId": "2204870",
+     "name": "S. Calhoun"
+    },
+    {
+     "authorId": "2075440634",
+     "name": "J. Liao"
+    },
+    {
+     "authorId": "2236242",
+     "name": "A. Vgontzas"
+    },
+    {
+     "authorId": "143629479",
+     "name": "Duan-Ping Liao"
+    },
+    {
+     "authorId": "5518440",
+     "name": "E. Bixler"
+    },
+    {
+     "authorId": "1398731060",
+     "name": "J. Fernández-Mendoza"
+    }
+   ],
+   "abstract": "\n \n \n The association of insomnia with adverse mental health outcomes is well-established. Prior research has suggested that cognitive-emotional predisposition to mental health disorders is shared across insomnia phenotypes. However, no study to date has examined this association in insomnia phenotypes based on objective sleep duration in young adults.\n \n \n \n We studied 270 young adults (median 25 years, 53% female, 24% racial/ethnic minority) from the Penn State Child Cohort who underwent a 9-hour polysomnography (PSG) recording, clinical history, and self-report surveys. Insomnia symptoms were defined as difficulties initiating or maintaining sleep, an insomnia diagnosis or complaint, and/or sleep medication use. PSG-measured short sleep duration was defined by the median of the sample (i.e., < 7-h), identifying normal sleep duration (NSD), short sleep duration (SSD), insomnia with normal sleep duration (INSD) and insomnia with short sleep duration (ISSD). Participants completed the Ford Insomnia Response to Stress Test (FIRST), Arousal Predisposition Scale (APS), Personality Inventory for DSM-5 (PID-5-BF), Pre-Sleep Arousal Scale (PSAS), and Depression, Anxiety, and Stress Scale (DASS). A multivariate general linear model tested mean differences in cognitive-emotional outcomes across the four groups, while adjusting for sex, race/ethnicity, age, waist circumference, sleep apnea, cardiometabolic disorders, medication and substance use.\n \n \n \n Compared to NSD or SSD, both INSD and ISSD showed significantly higher FIRST (Ps< 0.001), APS (Ps< 0.05), PID-5-BF (Ps< 0.01), PSAS (Ps< 0.001), and DASS (Ps< 0.05) scores, except in the PID-5-BF antagonism and disinhibition trait domains. SSD showed significantly higher FIRST scores compared to NSD (P< 0.05), but no other significant differences were observed on any other scale between SSD and NSD.\n \n \n \n Sleep reactivity, cognitive-emotional arousability, internalization, and negative affectivity are trait features of insomnia, which help perpetuate its chronicity and put all phenotypes at risk of adverse mental health outcomes. These data also suggest that sleep reactivity may be a trait present in a subset of short sleepers at risk of developing insomnia.\n \n \n \n NIH (R01 HL136587, R01 MH118308, UL1 TR00127)\n"
+  },
+  {
+   "paperId": "81465af4c8ff4a5fba2cc00594f4655949721933",
+   "externalIds": {
+    "PubMedCentral": "11150854",
+    "DOI": "10.3389/fpubh.2024.1344718",
+    "CorpusId": 269980013,
+    "PubMed": "38841676"
+   },
+   "url": "https://www.semanticscholar.org/paper/81465af4c8ff4a5fba2cc00594f4655949721933",
+   "title": "Association of 24-hour movement guideline adherence, mental health and quality of life in young adults: the role of e-Health literacy",
+   "venue": "Frontiers in Public Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3389/fpubh.2024.1344718",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11150854, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-05-22",
+   "authors": [
+    {
+     "authorId": "2499241100",
+     "name": "Li-Xin Lin"
+    },
+    {
+     "authorId": "2253828603",
+     "name": "Wei Liang"
+    },
+    {
+     "authorId": "2283744720",
+     "name": "Run-Bin Wang"
+    },
+    {
+     "authorId": "2006502",
+     "name": "R. Rhodes"
+    },
+    {
+     "authorId": "2377945501",
+     "name": "Huaxuan Liu"
+    }
+   ],
+   "abstract": "Background The spread of Covid-19 and resultant infection prevention strategies have disturbed the life routine of Chinese young adults, led to reduced physical activity (PA), prolonged screen time (ST) and inadequate sleep duration (SP), and made immense influence on their mental health (MH) and quality of life (QoL). E-Health literacy (EHL) can enable citizens to use available online information to respond to the highly complex information environment and make appropriate health decisions. Objective This study aims to examine associations between adhering to 24-h movement (24HM) guidelines and MH and QoL among young adults, as well as to identify any mediating or moderating role of EHL in these associations. Methods 1742 young adults (20.03 ± 1.54 years old, 68.6% females) from north and south China completed self-report measures of 24HM (PA, ST and SP), health indicators (MH and QoL), EHL and demographic information through an online survey between 4 Apr and 16 Jun 2022. Generalized linear mixed models were applied for data analysis. Results Results showed that adhering to PA, ST and SP guidelines were all positively connected with QoL while MH was associated with adhering ST or SP guidelines. Adhering to more of 24HM guidelines was linked to better MH and QoL. EHL significantly mediated the association of guideline adherence and QoL and moderate that of guideline adherence and MH. Conclusion This is the first study to investigate the role of EHL on the associations between 24HM and MH as well as QoL during the Covid-19. The findings may contribute to further empirical research or intervention that aims to promote MH or QoL among young adults more effectively or provide valuable references for developing relevant strategies or policy of health promotion or public health events in China."
+  },
+  {
+   "paperId": "6788c8efa4199a98e4f3a922b5bda49156bf6024",
+   "externalIds": {
+    "MAG": "2804768485",
+    "DOI": "10.1002/da.22769",
+    "CorpusId": 46896485,
+    "PubMed": "29790238"
+   },
+   "url": "https://www.semanticscholar.org/paper/6788c8efa4199a98e4f3a922b5bda49156bf6024",
+   "title": "Personal sleep debt and daytime sleepiness mediate the relationship between sleep and mental health outcomes in young adults",
+   "venue": "Depression and Anxiety",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/da.22769",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/da.22769?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/da.22769, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2018-08-01",
+   "authors": [
+    {
+     "authorId": "2470882",
+     "name": "D. Dickinson"
+    },
+    {
+     "authorId": "6807687",
+     "name": "A. Wolkow"
+    },
+    {
+     "authorId": "145811935",
+     "name": "S. Rajaratnam"
+    },
+    {
+     "authorId": "143820317",
+     "name": "S. Drummond"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "4e3d002515099efc14697468671abbab97519a92",
+   "externalIds": {
+    "DOI": "10.51584/ijrias.2025.1010000058",
+    "CorpusId": 282853748
+   },
+   "url": "https://www.semanticscholar.org/paper/4e3d002515099efc14697468671abbab97519a92",
+   "title": "Social Media Use on Mental Health Outcomes among Adolescents and Young Adults in Port Harcourt City",
+   "venue": "International journal  of research and innovation in applied science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51584/ijrias.2025.1010000058?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51584/ijrias.2025.1010000058, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-11-05",
+   "authors": [
+    {
+     "authorId": "114211436",
+     "name": "Joseph Omoh Ikerodah"
+    },
+    {
+     "authorId": "2042541080",
+     "name": "W. Olley"
+    }
+   ],
+   "abstract": "Social media is embedded in the lives of adolescents and young adults globally, raising urgent questions about its impact on mental health. Recent evidence indicates a complex relationship between digital engagement and psychological outcomes, including depression, anxiety, and sleep quality. This study empirically examined these associations. A cross-sectional survey was conducted with 400 adolescents and young adults (aged 13–24, balanced by gender and socioeconomic status), measuring daily social media usage, depression (PHQ-9), anxiety (GAD-7), and sleep quality (PSQI). The analysis focused on both the duration and patterns of use, with regression models adjusted for demographic factors. The average social media use was 4.5 hours per day (SD=2.0). Heavy users (≥4 hours/day) showed higher rates of moderate-to-severe depression (38% vs. 19%) and anxiety (36% vs. 18%), as well as poorer sleep quality (63% vs. 35%) compared to lighter users (<4 hours/day). Problematic use, nighttime activity, and passive consumption emerged as the strongest predictors of adverse outcomes. Regression analysis indicated that daily social media use independently predicted increased depression, anxiety, and disturbed sleep, even after controlling for other variables. The study concludes that higher and problematic social media engagement is strongly associated with increased depression, anxiety, and poor sleep quality among youth. Findings highlight the urgent need for evidence-based digital literacy, psychosocial interventions, and platform-level policy reforms."
+  },
+  {
+   "paperId": "0184108c95522941f83096ede9e6e7e173eac778",
+   "externalIds": {
+    "PubMedCentral": "10591887",
+    "DOI": "10.1016/j.ypmed.2023.107712",
+    "CorpusId": 262998109,
+    "PubMed": "37758124"
+   },
+   "url": "https://www.semanticscholar.org/paper/0184108c95522941f83096ede9e6e7e173eac778",
+   "title": "Electronic Cigarette Use and Cigarette Smoking Associated with Inadequate Sleep Duration among U.S. Young Adults",
+   "venue": "Preventive Medicine",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/am/pii/S009174352300292X",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10591887, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-01",
+   "authors": [
+    {
+     "authorId": "3791128",
+     "name": "A. Merianos"
+    },
+    {
+     "authorId": "1398910290",
+     "name": "E. M. Mahabee-Gittens"
+    },
+    {
+     "authorId": "2247692408",
+     "name": "Madelyn J. Hill"
+    },
+    {
+     "authorId": "2150400359",
+     "name": "A. Olaniyan"
+    },
+    {
+     "authorId": "2249027624",
+     "name": "M. L. Smith"
+    },
+    {
+     "authorId": "2238180396",
+     "name": "Kelvin Choi"
+    }
+   ],
+   "abstract": "Objective: Nicotine use can influence inadequate sleep, but less is known about the associations of exclusive and dual use of electronic cigarettes (e-cigarettes) with combustible cigarettes in U.S. young adults. This study assessed the associations between current exclusive e-cigarette use, exclusive cigarette smoking, and dual e-cigarette and combustible cigarette use and inadequate sleep duration among U.S. young adults. Methods: We performed a secondary analysis of 2020 Behavioral Risk Factor Surveillance System (BRFSS) data including 13,978 U.S. young adults ages 18-24 years. Inadequate sleep duration was assessed categorically using the National Sleep Foundation’s age-specific recommendations that define <7 hours as inadequate sleep. Weighted logistic regression models were performed while adjusting for participants’ sex, race/ethnicity, education level, annual household income level, body mass index, current physical activity, mental health status, disability status, current alcohol use, and current smokeless tobacco use. Results: Concerning use patterns, 11.8% of young adults were exclusive e-cigarette users, 4.7% were exclusive cigarette smokers, and 3.8% were dual e-cigarette and combustible cigarette users. Exclusive e-cigarette users (adjusted odds ratio [AOR]=1.41, 95% confidence interval [CI]=1.16-1.72), exclusive cigarette smokers (AOR=1.63, 95%CI=1.22-2.18), and dual product users (AOR=2.03, 95%CI=1.44-2.86) were at increased odds of having inadequate sleep duration compared to non-users, while adjusting for the covariates. Additionally, dual product users were at increased odds (AOR=1.52, 95%CI=1.06-2.19) of reporting inadequate sleep duration compared to exclusive e-cigarette users, while adjusting for the covariates. Conclusions: Current e-cigarette and cigarette use may influence inadequate sleep among U.S. young adults. Tobacco cessation efforts may encourage increased sleep health."
+  },
+  {
+   "paperId": "3284927c91c3b7b983d1fe4fa5945ecda0cb1683",
+   "externalIds": {
+    "PubMedCentral": "10216395",
+    "DOI": "10.3390/brainsci13050818",
+    "CorpusId": 258802080,
+    "PubMed": "37239290"
+   },
+   "url": "https://www.semanticscholar.org/paper/3284927c91c3b7b983d1fe4fa5945ecda0cb1683",
+   "title": "Sleep Duration on Workdays Is Correlated with Subjective Workload and Subjective Impact of High Workload on Sleep in Young Healthy Adults",
+   "venue": "Brain Science",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2076-3425/13/5/818/pdf?version=1684405246",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10216395, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-05-01",
+   "authors": [
+    {
+     "authorId": "79602030",
+     "name": "C. von Gall"
+    },
+    {
+     "authorId": "38813728",
+     "name": "T. Muth"
+    },
+    {
+     "authorId": "2868958",
+     "name": "P. Angerer"
+    }
+   ],
+   "abstract": "Psychosocial stress is widespread worldwide and particularly affects young adults. There is a close and bidirectional relationship between sleep quality and mental health. Sleep duration, which is an important feature of sleep quality, shows both intra-individual variations and inter-individual differences. Internal clocks control individual sleep timing, which, in turn, defines the chronotype. On workdays, however, the end and duration of sleep are largely limited by external factors, such as alarm clocks, especially in later chronotypes. The aim of this study is to investigate whether there is a relationship between sleep timing and duration on workdays and measures for psychosocial stress, such as anxiety and depression; subjective workload; and the subjective impact of a high workload on sleep. We used a combination of Fitbit wearable actigraphy data and a questionnaire survey of young, healthy medical students and calculated correlations between the respective variables. We found that a shorter sleep duration on workdays is associated with a higher subjective workload and a higher subjective impact of a high workload on sleep, which, in turn, are associated with higher measures of anxiety and depression. Our study contributes to understanding the importance of sleep timing/duration and their regularity on weekdays for subjectively perceived psychosocial stress."
+  },
+  {
+   "paperId": "b0adb0a6a21921ea0f031b97f5dc1e96cc532ef4",
+   "externalIds": {
+    "DOI": "10.1016/j.sleh.2023.12.003",
+    "CorpusId": 268040322,
+    "PubMed": "38413332"
+   },
+   "url": "https://www.semanticscholar.org/paper/b0adb0a6a21921ea0f031b97f5dc1e96cc532ef4",
+   "title": "Associations between muscle dysmorphia symptomatology and sleep duration and difficulty in the Canadian Study of Adolescent Health Behaviors.",
+   "venue": "Sleep Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.sleh.2023.12.003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.sleh.2023.12.003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-01",
+   "authors": [
+    {
+     "authorId": "87099061",
+     "name": "K. Ganson"
+    },
+    {
+     "authorId": "2036869807",
+     "name": "N. Pang"
+    },
+    {
+     "authorId": "2265733619",
+     "name": "Alexander M. Testa"
+    },
+    {
+     "authorId": "2237979915",
+     "name": "Dylan B. Jackson"
+    },
+    {
+     "authorId": "2250300430",
+     "name": "Jason M. Nagata"
+    }
+   ],
+   "abstract": "OBJECTIVES\nPrior research has shown links between mental health symptomatology and poor sleep. However, associations between muscle dysmorphia symptomatology and poor sleep remain unknown, which was the aim of this study.\n\n\nMETHODS\nData from the Canadian Study of Adolescent Health Behaviors (2021-2022) were analyzed (N = 912). Multinomial logistic regression analyses and logistic regression analyses were used to determine the association between muscle dysmorphia symptomatology and average sleep duration (5 hours or less, 6 hours, 7 hours, and 8 or more hours) and difficulty falling or staying asleep over a 2-week period.\n\n\nRESULTS\nFindings indicated significant associations between muscle dysmorphia symptomatology and shorter sleep duration and greater sleep difficulty in both cross-sectional and prospective analyses.\n\n\nCONCLUSIONS\nThe findings from this study underscore poor sleep as a correlate of muscle dysmorphia symptomatology among adolescents and young adults, emphasizing the need for screening and interventions in healthcare settings."
+  }
+ ]
+}

@@ -1,0 +1,1422 @@
+{
+ "query": "Maternal and child nutrition interventions",
+ "retrieved_at": "2026-11-18T18:10:12.713829+00:00",
+ "data": [
+  {
+   "DOI": "10.4324/9781315762319-15",
+   "title": [
+    "Evaluative ethnography for maternal and child nutrition interventions"
+   ],
+   "container-title": [
+    "Ethnographic Research in Maternal and Child Health"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      9,
+      25
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781315762319-15"
+  },
+  {
+   "DOI": "10.1111/mcn.12127",
+   "title": [
+    "Developing and evaluating complex interventions"
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      3,
+      24
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/mcn.12127",
+   "author": [
+    {
+     "given": "Chris",
+     "family": "Sutton",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Lancashire Clinical Trials Unit School of Health University of Central Lancashire"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1111/j.1740-8709.2007.00132.x",
+   "title": [
+    "Mainstreaming interventions in the health sector to address maternal and child undernutrition"
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      2,
+      14
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/j.1740-8709.2007.00132.x",
+   "author": [
+    {
+     "given": "Zulfiqar A.",
+     "family": "Bhutta",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Meera",
+     "family": "Shekar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tahmeed",
+     "family": "Ahmed",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study aims to examine intra‐household gender dynamics in response to a nutrition intervention (maternal Behaviour Change Communication (BCC), paternal BCC, and food vouchers) aimed at improving IYCF practices using qualitative methods. Participants were drawn from a subset of households enrolled in a larger cluster – randomized controlled trial (RCT) conducted in rural Ethiopia. A total of 40 participants (20 mother–father pairs) from intervention and control households were interviewed separately to explore intra‐dyadic beliefs and household decision‐making. Furthermore, this study explores plausible mechanisms behind the main RCT finding that greater father involvement, while increasing knowledge, did not consistently improve infant and young child feeding (IYCF) outcomes. We find that BCC mothers had the tendency to adopt more gender‐equal beliefs, particularly regarding men's roles in childcare and household chores, whereas fathers were slower to shift their views. This may have led to increased discordance in gender norms within BCC households. By contrast, control couples often retained traditional views, but showed more intra‐couple alignment. Unexpectedly, control fathers were sometimes more progressive than control mothers, potentially due to higher education levels. We also find increased paternal engagement occasionally introduced conflicting priorities, as fathers asserted authority over household spending – sometimes at the expense of child‐focused nutrition. These findings underscore the complexity of engaging fathers in nutrition interventions and point to the need for strategies that address underlying gender norms and decision‐making dynamics within households.</jats:p>",
+   "DOI": "10.1111/mcn.70088",
+   "type": "journal-article",
+   "title": [
+    "Engaging Fathers in Child Nutrition: Exploring Intra‐household Gender Dynamics in Nutrition Interventions in Ethiopia"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1431-5164",
+     "authenticated-orcid": false,
+     "given": "Yaeeun",
+     "family": "Han",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of International Studies Kyung Hee University  South Korea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Pelletier",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Division of Nutritional Sciences Cornell University Ithaca New York"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jieun",
+     "family": "Kim",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Healthcare Management and Policy, Graduate School of Public Health Seoul National University  South Korea"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0590-3917",
+     "authenticated-orcid": false,
+     "given": "John",
+     "family": "Hoddinott",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Division of Nutritional Sciences, Charles H. Dyson School of Applied Economics and Management, Department of Global Development Cornell University Ithaca New York"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.70088"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The nutritional status of women before pregnancy, during pregnancy, and after delivery has far reaching consequences for maternal health and child survival, growth, and development. In South Asia, the high prevalence of short stature, thinness, and anaemia among women of reproductive age underlie the high prevalence of child undernutrition in the region, whereas overweight and obesity are rising concerns. A systematic review of evidence (2000–2017) was conducted to identify barriers and programme approaches to improving the coverage of maternal nutrition interventions in the region. The search strategy used 13 electronic bibliographic databases and 14 websites of development and technical agencies and identified 2,247 citations. Nine studies conducted in Bangladesh (<jats:italic>n</jats:italic> = 2), India (<jats:italic>n</jats:italic> = 5), Nepal (<jats:italic>n</jats:italic> = 1), and Pakistan (n = 1) were selected for the review, and outcomes included the receipt and consumption of iron and folic acid and calcium supplements and the receipt of information on dietary intake during pregnancy. The studies indicate that a range of barriers acting at the individual (maternal), household, and health service delivery levels affects intervention coverage during pregnancy. Programme approaches that were effective in improving intervention coverage addressed barriers at multiple levels and had several common features: use of formative research and client assessments to inform the design of programme approaches and actions; community‐based delivery platforms to increase access to services; engagement of family members, as well as pregnant women, in influencing behavioural change; actions to improve the capacity, supervision, monitoring, and motivation of front‐line service providers to provide information and counselling; and access to free supplements.</jats:p>",
+   "DOI": "10.1111/mcn.12699",
+   "type": "journal-article",
+   "title": [
+    "Effectiveness of programme approaches to improve the coverage of maternal nutrition interventions in South Asia"
+   ],
+   "author": [
+    {
+     "given": "Sophie",
+     "family": "Goudet",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Sport, Exercise and Health Sciences Loughborough University  Loughborough UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zivai",
+     "family": "Murira",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nutrition Section UNICEF Regional Office for South Asia  Kathmandu Nepal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Harriet",
+     "family": "Torlesse",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nutrition Section UNICEF Regional Office for South Asia  Kathmandu Nepal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jennifer",
+     "family": "Hatchard",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Global Technical Services Nutrition International  Ottawa Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jennifer",
+     "family": "Busch‐Hallen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Global Technical Services Nutrition International  Ottawa Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      11
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.12699"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:label/><jats:p>‘Implementation research in nutrition’ is an emerging area of study aimed at building evidence‐based knowledge and sound theory to design and implement programs that will effectively deliver nutrition interventions. This paper describes some of the basic features of ethnography and illustrates its applications in components of the implementation process. We review the central purpose of ethnography, which is to obtain the emic view – the insider's perspective – and how ethnography has historically interfaced with nutrition. We present examples of ethnographic studies in relation to an analytic framework of the implementation process, situating them with respect to landscape analysis, formative research, process evaluation and impact evaluation. These examples, conducted in various parts of the world by different investigators, demonstrate how ethnography provided important, often essential, insights that influenced programming decisions or explained programme outcomes.</jats:p></jats:sec><jats:sec><jats:label/><jats:p>\n<jats:boxed-text content-type=\"feature-fixed\" position=\"anchor\"><jats:p>\n<jats:list list-type=\"bullet\">\n<jats:list-item><jats:p>Designing, implementing and evaluating interventions requires knowledge about the populations and communities in which interventions are situated, including knowledge from the ‘emic’ (insider's) perspective.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Obtaining emic perspectives and analysing them in relation to cultural, economic and structural features of social organisation in societies is a central purpose of ethnography.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Ethnography is an essential aspect of implementation research in nutrition, as it provides important insights for making decisions about appropriate interventions and delivery platforms; determining how best to fit aspects of programme design and implementation into different environmental and cultural contexts; opening the ‘black box’ in interventions to understand how delivery and utilisation processes affect programme outcomes or impacts; and understanding how programme impacts were achieved, or not.</jats:p></jats:list-item>\n</jats:list></jats:p></jats:boxed-text></jats:p></jats:sec>",
+   "DOI": "10.1111/mcn.12246",
+   "type": "journal-article",
+   "title": [
+    "Using ethnography in implementation research to improve nutrition interventions in populations"
+   ],
+   "author": [
+    {
+     "given": "Alison",
+     "family": "Tumilowicz",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Global Alliance for Improved Nutrition (GAIN)  Geneva Switzerland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lynnette M.",
+     "family": "Neufeld",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Global Alliance for Improved Nutrition (GAIN)  Geneva Switzerland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gretel H.",
+     "family": "Pelto",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Division of Nutritional Sciences Cornell University  Ithaca New York USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      12
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.12246"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The health system is the primary vehicle for the delivery of nutrition‐specific interventions that aim to reduce maternal and child malnutrition. The integration of nutrition interventions into existing health interventions is promising, but to ensure that no one is left behind requires that access to essential health services is equitably distributed. This study aims to assess trends and socioeconomic inequalities in coverage of reproductive, maternal, newborn and child health (RMNCH) and assess its association with child nutritional outcomes in Ethiopia. Using the Ethiopian Demographic and Health Survey (2005, 2011, 2016, and 2019), we estimated the coverage of RMNCH interventions in Ethiopia using the co‐coverage index, which is a count of the number of interventions accessed. We assessed the trend and inequalities in co‐coverage and evaluated its association with child nutritional outcomes like stunting, wasting, and minimum dietary diversity (MDD). The national co‐coverage index has shown a significant increase over the 2005–2019 period. However, all of the RMNCH interventions constituting the co‐coverage index showed a pro‐rich and pro‐urban distribution (<jats:italic>p</jats:italic> &lt; 0.05). The highest inequality, based on the slope index of inequality (SII), was observed for skilled assistance during delivery (SII: 80.4%), followed by access to an improved source of drinking water (SII: 62.6%), and antenatal care visits (SII: 55.5%). The low coverage in RMNCH and the observed inequality were associated with stunting, wasting, and MDD. Reducing socioeconomic inequality in RMNCH is key to achieve the health, nutrition and equity‐related goals of the Sustainable Development Goals.</jats:p>",
+   "DOI": "10.1111/mcn.13452",
+   "type": "journal-article",
+   "title": [
+    "Co‐coverage of reproductive, maternal, newborn and child health interventions shows wide inequalities and is associated with child nutritional outcomes in Ethiopia (2005–2019)"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7298-1096",
+     "authenticated-orcid": false,
+     "given": "Kaleab",
+     "family": "Baye",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Center for Food Science and Nutrition Addis Ababa University Addis Ababa Ethiopia"
+      },
+      {
+       "name": "Research Center for Inclusive Development in Africa (RIDA) Addis Ababa Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2315-223X",
+     "authenticated-orcid": false,
+     "given": "Arnaud",
+     "family": "Laillou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nutrition Section UNICEF Ethiopia Addis Ababa Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0915-333X",
+     "authenticated-orcid": false,
+     "given": "Stanley",
+     "family": "Chitekwe",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nutrition Section UNICEF Ethiopia Addis Ababa Ethiopia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      11
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.13452"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Addressing malnutrition requires strategies that are comprehensive and multi‐sectoral. Within a multi‐sectoral approach, the health system is essential to deliver 10 nutrition‐specific interventions, which, if scaled up, could substantially reduce under‐5 deaths in high‐burden countries through improving maternal and child undernutrition. This study identifies the health system components required for the effective delivery of these interventions, highlighting opportunities and challenges for nutrition programmes and policies. We reviewed implementation guidance for each nutrition‐specific intervention, mapping the delivery process for each intervention and determining the health system components required for their delivery. We integrated the components into a single health systems framework for nutrition, illustrating the pathways by which health system components influence household‐level determinants of nutrition and individual‐level health outcomes. Nutrition‐specific interventions are typically delivered in one of four ways: (i) when nutrition interventions are intentionally sought out, (ii) when care is sought for other, unrelated interventions, (iii) at a health facility after active community case finding and referral, and (iv) in the community after active community case finding. A health system enables these processes by providing health services and facilitating care seeking for services, which together require a skilled and motivated health workforce, an effective supply chain, demand for services and access to services. The nutrition community should consider the processes by which nutrition‐specific interventions are delivered and the health system components required for their success. Programmes should encourage the delivery of nutrition interventions at every client–provider interaction and should actively generate demand for services—in general, and for nutrition services specifically.</jats:p>",
+   "DOI": "10.1111/mcn.13056",
+   "type": "journal-article",
+   "title": [
+    "Making the health system work for the delivery of nutrition interventions"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9709-3562",
+     "authenticated-orcid": false,
+     "given": "Shannon E.",
+     "family": "King",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of International Health Johns Hopkins Bloomberg School of Public Health  Baltimore Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0541-1859",
+     "authenticated-orcid": false,
+     "given": "Talata",
+     "family": "Sawadogo‐Lewis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of International Health Johns Hopkins Bloomberg School of Public Health  Baltimore Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9926-7984",
+     "authenticated-orcid": false,
+     "given": "Robert E.",
+     "family": "Black",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of International Health Johns Hopkins Bloomberg School of Public Health  Baltimore Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6413-2289",
+     "authenticated-orcid": false,
+     "given": "Timothy",
+     "family": "Roberton",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of International Health Johns Hopkins Bloomberg School of Public Health  Baltimore Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7,
+      20
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.13056"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Alive &amp; Thrive (A&amp;T) is an initiative designed to advance the implementation of maternal, infant and young child nutrition (MIYCN) social and behaviour change (SBC) at a large scale. The aims of this research were to: (1) describe A&amp;T's SBC implementation processes and their impact based on a review of programme documents and peer‐reviewed publications and (2) gather lessons learned from key informant interviews (<jats:italic>N</jats:italic> = 23) with A&amp;T staff and stakeholders in Bangladesh, Burkina Faso, Ethiopia, India, Nigeria and Vietnam. A&amp;T's SBC approach used interpersonal communication, community mobilization and mass media to address knowledge gaps, strengthen self‐efficacy and shift social norms. The initiative used data for design and evaluation and facilitated scale and sustainability through close collaboration with governments and other stakeholders. A&amp;T's approach increased exclusive breastfeeding, minimum meal frequency of children and use of iron and folic acid tablets by pregnant women, but had mixed impacts on early initiation of breastfeeding and maternal and child dietary diversity. Multiple SBC channels and frequent contacts strengthened the impact of SBC on MIYCN practices. Lessons learned included: using existing large‐scale platforms for interpersonal communication, improving counselling skills of health workers, delivering timely tailored messages, engaging key influencers to take specific actions, using research to address underlying behavioural concerns and maximize mass media reach and frequency, using simple memorable messages and employing additional channels to reach low media coverage areas. A&amp;T developed and implemented at‐scale MIYCN SBC in multiple countries, providing lessons learned about intervention strategies, engagement of influencers and mass media campaign development, which governments and other implementers can adapt and replicate.</jats:p>",
+   "DOI": "10.1111/mcn.13559",
+   "type": "journal-article",
+   "title": [
+    "Changing maternal, infant and young child nutrition practices through social and behaviour change interventions implemented at scale: Lessons learned from Alive &amp; Thrive"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0200-3355",
+     "authenticated-orcid": false,
+     "given": "Valerie L.",
+     "family": "Flax",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "RTI International Research Triangle Park North Carolina USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sujata",
+     "family": "Bose",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Alive &amp; Thrive, FHI Solutions Washington District of Columbia USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jessica",
+     "family": "Escobar‐DeMarco",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Public Health Sciences University of North Carolina Charlotte Charlotte North Carolina USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8265-9815",
+     "authenticated-orcid": false,
+     "given": "Edward A.",
+     "family": "Frongillo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Arnold School of Public Health University of South Carolina Columbia South Carolina USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      21
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.13559"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Social protection programs (SPPs) are commonly used in South Asia to address inequities in meeting basic needs. Provision of both SPP benefits and essential health/nutrition interventions to mothers and children is a goal toward optimal health and development outcomes, but co‐coverage of SPPs and health/nutrition interventions among beneficiary households is poorly described. Using six population‐based surveys in Bangladesh, India, and Nepal (\n                    <jats:italic>n</jats:italic>\n                     = 253,703 women with children under 5 years of age), we examined data availability for SPPs (food and cash transfers) and health/nutrition interventions, and estimated their coverage and co‐coverage during a woman's last pregnancy (interventions: take‐home food rations plus at least four antenatal care visits, receipt of iron‐folic acid tablets, deworming, and tetanus injections), after delivery (cash benefit plus the interventions above), and in children (take‐home ration for the child plus vitamin A supplementation, deworming, iron syrup, growth monitoring, and nutrition counseling). In India, 52% and 51% of women and children, respectively, received food transfers, but only 3% and 8% received food plus all health/nutrition interventions. In India and Nepal, respectively, cash after delivery was received by 41% and 86% of women, but only 4% and 22% received cash after delivery plus all health/nutrition interventions. There were insufficient data to estimate co‐coverage in Bangladesh, which only had data on cash/food transfers but not on health/nutrition interventions. Our findings highlight the need for data on both SPP and health/nutrition intervention coverage in household surveys to be able to estimate co‐coverage. Estimates of co‐coverage help identify missed opportunities to reach women and children with interventions across multiple sectors.\n                  </jats:p>",
+   "DOI": "10.1111/mcn.70233",
+   "type": "journal-article",
+   "title": [
+    "Co‐Coverage of Social Protection Programs and Maternal and Child Nutrition Interventions in Bangladesh, India and Nepal"
+   ],
+   "author": [
+    {
+     "given": "Samuel",
+     "family": "Scott",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "International Food Policy Research Institute Washington, DC USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sumanta",
+     "family": "Neupane",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Food Policy Research Institute Kathmandu Nepal"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hana",
+     "family": "Tasic",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Modern Scientists Global Ontario Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nadia",
+     "family": "Akseer",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Johns Hopkins University Baltimore USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sunny S.",
+     "family": "Kim",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Food Policy Research Institute Washington, DC USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Harold",
+     "family": "Alderman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Food Policy Research Institute Washington, DC USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bianca",
+     "family": "Carducci",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Johns Hopkins University Baltimore USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rebecca",
+     "family": "Heidkamp",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Johns Hopkins Bloomberg School of Public Health Baltimore, Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.70233"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The implications of direct nutrition interventions on women's nutrition, birth outcome and stunting rates in children in South Asia are indisputable and well documented. In the last decade, a number of studies present evidence of the role of non‐nutritional factors impacting on women's nutrition, birth outcome, caring practices and nutritional status of children. The implications of various dimensions of women's empowerment and gender inequality on child stunting is being increasingly recognised. Evidence reveals the crucial role of early age of marriage and conception, poor secondary education, domestic violence, inadequate decision‐making power, poor control over resources, strenuous agriculture activities, and increasing employment of women and of interventions such as cash transfer scheme and microfinance programme on undernutrition in children. Analysis of the nutrition situation of women and children in South Asia and programme findings emphasise the significance of reaching women during adolescence, pre‐conception and pregnancy stage. Ensuring women enter pregnancy with adequate height and weight and free from being anemic is crucial. Combining nutrition‐specific interventions with measures for empowerment of women is essential. Improvement in dietary intake and health services of women, prevention of early age marriage and conception, completion of secondary education, enhancement in purchasing power of women, reduction of work drudgery and elimination of domestic violence deserve special attention. A range of programme platforms dealing with health, education and empowerment of women could be strategically used for effectively reaching women prior to and during pregnancy to accelerate reduction in stunting rates in children in South Asia.</jats:p>",
+   "DOI": "10.1111/mcn.12255",
+   "type": "journal-article",
+   "title": [
+    "Improving women's nutrition imperative for rapid reduction of childhood stunting in South Asia: coupling of nutrition specific interventions with nutrition sensitive measures essential"
+   ],
+   "author": [
+    {
+     "given": "Sheila C.",
+     "family": "Vir",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Public Health Nutrition and Development Centre New Delhi India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      5
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.12255"
+  },
+  {
+   "DOI": "10.1111/mcn.12894",
+   "title": [
+    "Maternal and Child Nutrition Volume 15"
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/mcn.12894",
+   "abstract": "<jats:p>No abstract is available for this article.</jats:p>"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Considerable effort has been made in recent years to gain a better understanding of the effectiveness of different interventions for supporting breastfeeding. However, research has tended to focus primarily on measuring outcomes and has paid comparatively little attention to the relational, organizational, and wider contextual processes that may impact delivery of an intervention. Supporting a woman with breastfeeding is an interpersonal encounter that may play out differently in different contexts, despite the apparently consistent aims and structure of an intervention. We consider the limitations of randomized controlled trials for building understanding of the ways in which different components of an intervention may impact breastfeeding women and how the messages conveyed through interactions with breastfeeding supporters might be received. We argue that qualitative methods are ideally suited to understanding psychosocial processes within breastfeeding interventions and have been underused. After briefly reviewing qualitative research to date into experiences of receiving and delivering breastfeeding support, we discuss the potential of theoretically informed qualitative methodologies to provide fuller understanding of intervention processes by focusing on three examples: phenomenology, ethnography, and discourse analysis. The paper concludes by noting some of the epistemological differences between the broadly positivist approach of trials and qualitative methodologies, and we suggest there is a need for further dialog as to how researchers might bridge these differences in order to develop a fuller and more holistic understanding of how best to support breastfeeding women.</jats:p>",
+   "DOI": "10.1111/mcn.12407",
+   "type": "journal-article",
+   "title": [
+    "Understanding process and context in breastfeeding support interventions: The potential of qualitative research"
+   ],
+   "author": [
+    {
+     "given": "Dawn",
+     "family": "Leeming",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Division of Psychology and Counselling University of Huddersfield  Huddersfield UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Joyce",
+     "family": "Marshall",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Division of Maternal and Child Health University of Huddersfield  Huddersfield UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abigail",
+     "family": "Locke",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Division of Psychology, Faculty of Social Sciences University of Bradford  Bradford UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      2,
+      14
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.12407"
+  },
+  {
+   "DOI": "10.1111/mcn.12514",
+   "title": [
+    "Maternal and Child Nutrition Volume 13"
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      9,
+      26
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/mcn.12514",
+   "abstract": "<jats:p>No abstract is available for this article.</jats:p>"
+  },
+  {
+   "DOI": "10.1111/mcn.12689",
+   "title": [
+    "Maternal and Child Nutrition Volume 14"
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      9,
+      24
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1111/mcn.12689",
+   "abstract": "<jats:p>No abstract is available for this article.</jats:p>"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Key messages</jats:title><jats:p>\n<jats:list list-type=\"bullet\">\n<jats:list-item><jats:p>Formative research to understand the sociocultural and economic context into which interventions are introduced can help to maximize the uptake of interventions both in the context of effectiveness trials and ultimately for nutrition programs.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Findings from the formative research study were used to inform different facets of the design of the effectiveness trial including providing evidence of the acceptability of the product, informing the decision to deliver the product to women's homes, and developing strategies to support adherence.</jats:p></jats:list-item></jats:list></jats:p>",
+   "DOI": "10.1111/mcn.13639",
+   "type": "journal-article",
+   "title": [
+    "Using formative research to enhance our understanding of implementation contexts: Preparing for a trial of maternal nutrition interventions"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5917-4126",
+     "authenticated-orcid": false,
+     "given": "Andrew L.",
+     "family": "Thorne‐Lyman",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of International Health, Bloomberg School of Public Health Johns Hopkins University Baltimore Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6143-8634",
+     "authenticated-orcid": false,
+     "given": "Anna",
+     "family": "Kalbarczyk",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of International Health, Bloomberg School of Public Health Johns Hopkins University Baltimore Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8955-1479",
+     "authenticated-orcid": false,
+     "given": "Alison",
+     "family": "Tumilowicz",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Maternal, Newborn, and Child Health, Bill &amp; Melinda Gates Foundation Seattle Washington USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Parul",
+     "family": "Christian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of International Health, Bloomberg School of Public Health Johns Hopkins University Baltimore Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kaosar",
+     "family": "Afsana",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Humanitarian Hub, James P. Grant School of Public Health BRAC University Dhaka Bangladesh"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      29
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.13639"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Undernutrition and low women's status persist as major development obstacles in South Asia and specifically, Nepal. Multi‐sectoral approaches, including nutrition‐sensitive agriculture, are potential avenues for further reductions in undernutrition. Although evidence is growing, many questions remain regarding how gender mediates the translation of agricultural production activities into nutritional benefit. In this study, we examined how gender influences the pathway from agricultural production to improved income and control of income, with a focus on five domains of empowerment: decision‐making power, freedom of mobility, social support, workload and time, and self‐efficacy. For this, we conducted a qualitative retrospective assessment (<jats:italic>N</jats:italic> = 10 FGDs) among 73 beneficiary women of a nutrition‐sensitive agriculture programme implemented from 2008 to 2012 in two districts of Nepal—Baitadi and Kailali. We found that women reported increased decision‐making power, new knowledge and skills, increased recognition by their family members of their new knowledge and contributions, and self‐efficacy as farmers and sellers, whereas workload and time were the most consistent constraints noted. We also found that each empowerment domain operated differently at different stages of the pathway, sometimes representing barriers and at other times, opportunities and that the interconnectedness of the domains made them difficult to disentangle in practice. Finally, there were major contextual differences for some domains (e.g., freedom of mobility) between the two districts. Future policies and programmes need to include in‐depth formative research to ensure that interventions address context‐specific gender and social norms to maximise programmatic opportunities to achieve desired results.</jats:p>",
+   "DOI": "10.1111/mcn.12593",
+   "type": "journal-article",
+   "title": [
+    "Nutrition‐sensitive agricultural interventions and gender dynamics: A qualitative study in Nepal"
+   ],
+   "author": [
+    {
+     "given": "Cecilie",
+     "family": "Kjeldsberg",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Helen Keller International‐Nepal  Kathmandu Nepal"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Niva",
+     "family": "Shrestha",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Helen Keller International‐Nepal  Kathmandu Nepal"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Miti",
+     "family": "Patel",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Helen Keller International‐Nepal  Kathmandu Nepal"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dale",
+     "family": "Davis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Helen Keller International‐Nepal  Kathmandu Nepal"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Gary",
+     "family": "Mundy",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Helen Keller International‐Asia Pacific Regional Office  Phnom Penh Cambodia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4067-1349",
+     "authenticated-orcid": false,
+     "given": "Kenda",
+     "family": "Cunningham",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Helen Keller International‐Nepal  Kathmandu Nepal"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      3,
+      24
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.12593"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Existing dietary recommendations and nutrition counselling provided to mothers/caregivers at primary healthcare (PHC) facilities are reviewed and analysed to be consistent with food‐based dietary guidelines (FBDGs) that are being developed for preschool children. Recommendations provided by the Integrated Management of Childhood Illness and the provincial Paediatric Case Management Guidelines, which are currently implemented at PHC facilities were reviewed. For FBDGs to be consistent with nutrition counselling that is provided to mothers/caregivers at these facilities, various principles need to be promoted. These include among others, exclusive and on‐demand breastfeeding in the HIV‐negative mother; exclusive breastfeeding with abrupt cessation preferably at 6 months or exclusive, safe and adequate formula feeding in the HIV‐infected mother; the introduction of complementary feeds in all infants at 6 months; the provision of energy‐dense and micronutrient‐enriched (particularly, iron, zinc, calcium and vitamin A) complementary feeds; frequent visits to the healthcare facility; and physical activity aimed at encouraging a healthy lifestyle and preventing overweight and obesity in childhood. The FBDGs should be incorporated into nutrition and child health programmes and be reviewed and modified regularly.</jats:p>",
+   "DOI": "10.1111/j.1740-8709.2007.00110.x",
+   "type": "journal-article",
+   "title": [
+    "Food‐based dietary guidelines and nutrition interventions for children at primary healthcare facilities in South Africa"
+   ],
+   "author": [
+    {
+     "given": "Michael K.",
+     "family": "Hendricks",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hilary",
+     "family": "Goeiman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ali",
+     "family": "Dhansay",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      9,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/j.1740-8709.2007.00110.x"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>We assessed India's readiness to deliver infant and young child feeding (IYCF) interventions by examining elements related to policy, implementation, financing, and evidence. We based our analysis on review of (a) nutrition policy guidance and program platforms, (b) published literature on interventions to improve IYCF in India, and (c) IYCF program models implemented between 2007 and 2012. We find that Indian policies are well aligned with global technical guidance on counselling interventions. However, guidelines for complementary food supplements (CFS) need to be reexamined. Two national programs with the operational infrastructure to deliver IYCF interventions offer great potential for scale, but more operational guidance, capacity, and monitoring are needed to actively support delivery of IYCF counselling at scale by available frontline workers. Many IYCF implementation efforts to date have experimented with approaches to improve breastfeeding and initiation of complementary feeding but not with improving diet diversity or the quality of food supplements. Financing is currently inadequate to deliver CFS at scale, and governance issues affect the quality and reach of CFS. Available evidence from Indian studies supports the use of counselling strategies to improve breastfeeding practices and initiation of complementary feeding, but limited evidence exists on improving full spectrum of IYCF practices and the impact and operational aspects of CFS in India. We conclude that India is well positioned to support the full spectrum of IYCF using existing policies and delivery platforms, but capacity, financing, and evidence gaps on critical areas of programming can limit impact at scale.</jats:p>",
+   "DOI": "10.1111/mcn.12414",
+   "type": "journal-article",
+   "title": [
+    "Scaling‐up interventions to improve infant and young child feeding in India: What will it take?"
+   ],
+   "author": [
+    {
+     "given": "Rasmi",
+     "family": "Avula",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "International Food Policy Research Institute (IFPRI)  New Delhi India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vanessa M.",
+     "family": "Oddo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Johns Hopkins Bloomberg School of Public Health  Baltimore Maryland USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Suneetha",
+     "family": "Kadiyala",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "London School of Hygiene and Tropical Medicine  London UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Purnima",
+     "family": "Menon",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Food Policy Research Institute (IFPRI)  New Delhi India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      10
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.12414"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Lack of monitoring capacity is a key barrier for nutrition interventions and limits programme management, decision making and programme effectiveness in many low‐income and middle‐income countries. A 2011 global assessment reported lack of monitoring capacity was the top barrier for home fortification interventions, such as micronutrient powders or lipid‐based nutrient supplements. <jats:italic>A <jats:styled-content style=\"fixed-case\">M</jats:styled-content>anual for <jats:styled-content style=\"fixed-case\">D</jats:styled-content>eveloping and <jats:styled-content style=\"fixed-case\">I</jats:styled-content>mplementing <jats:styled-content style=\"fixed-case\">M</jats:styled-content>onitoring <jats:styled-content style=\"fixed-case\">S</jats:styled-content>ystems for <jats:styled-content style=\"fixed-case\">H</jats:styled-content>ome <jats:styled-content style=\"fixed-case\">F</jats:styled-content>ortification <jats:styled-content style=\"fixed-case\">I</jats:styled-content>nterventions</jats:italic> was recently disseminated. It is comprehensive and describes monitoring concepts and frameworks and includes monitoring tools and worksheets. The monitoring manual describes the steps of developing and implementing a monitoring system for home fortification interventions, including identifying and engaging stakeholders; developing a programme description including logic model and logical framework; refining the purpose of the monitoring system, identifying users and their monitoring needs; describing the design of the monitoring system; developing indicators; describing the core components of a comprehensive monitoring plan; and considering factors related to stage of programme development, sustainability and scale up. A fictional home fortification example is used throughout the monitoring manual to illustrate these steps. The monitoring manual is a useful tool to support the development and implementation of home fortification intervention monitoring systems. In the context of systematic capacity gaps to design, implement and monitor nutrition interventions in many low‐income and middle‐income countries, the dissemination of new tools, such as monitoring manuals may have limited impact without additional attention to strengthening other individual, organisational and systems levels capacities.</jats:p>",
+   "DOI": "10.1111/mcn.12118",
+   "type": "journal-article",
+   "title": [
+    "Introducing a new monitoring manual for home fortification and strengthening capacity to monitor nutrition interventions"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2652-4502",
+     "authenticated-orcid": false,
+     "given": "Maria Elena D.",
+     "family": "Jefferds",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "IMMPaCt, Division of Nutrition, Physical Activity and Obesity CDC  Atlanta Georgia USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rafael",
+     "family": "Flores‐Ayala",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IMMPaCt, Division of Nutrition, Physical Activity and Obesity CDC  Atlanta Georgia USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Maternal &amp; Child Nutrition"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      12
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/mcn.12118"
+  }
+ ]
+}

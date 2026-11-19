@@ -1,0 +1,775 @@
+{
+ "query": "Peer assessment in collaborative learning",
+ "retrieved_at": "2026-11-10T10:50:26.047691+00:00",
+ "data": [
+  {
+   "paperId": "8f44d38cf4505817c408abeb41cbdbf0ca5061fa",
+   "externalIds": {
+    "DOI": "10.1016/j.teln.2025.07.017",
+    "CorpusId": 280577790
+   },
+   "url": "https://www.semanticscholar.org/paper/8f44d38cf4505817c408abeb41cbdbf0ca5061fa",
+   "title": "Peer assessment in collaborative learning: A validated tool to enhance equity and engagement in nursing education",
+   "venue": "Teaching and Learning in Nursing",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.teln.2025.07.017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.teln.2025.07.017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-01",
+   "authors": [
+    {
+     "authorId": "2315881211",
+     "name": "Yujing Dong"
+    },
+    {
+     "authorId": "2262186448",
+     "name": "Fangfang Du"
+    },
+    {
+     "authorId": "2175553830",
+     "name": "Hai-Yan Yin"
+    },
+    {
+     "authorId": "2349750147",
+     "name": "Shizheng Du"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "06445cc20e7582a9387d9dff22bf9c35c6a827b9",
+   "externalIds": {
+    "DOI": "10.1007/s10212-024-00915-5",
+    "CorpusId": 274266289
+   },
+   "url": "https://www.semanticscholar.org/paper/06445cc20e7582a9387d9dff22bf9c35c6a827b9",
+   "title": "Peer- and self-assessment in collaborative online language-learning tasks: the role of modes and phases of regulation of learning",
+   "venue": "European Journal of Psychology of Education",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10212-024-00915-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10212-024-00915-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-19",
+   "authors": [
+    {
+     "authorId": null,
+     "name": "Rebecca Clayton Bernard"
+    },
+    {
+     "authorId": "2543639",
+     "name": "G. Kermarrec"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "8a8e77587426d8ae39860a5dc43402d60a38e022",
+   "externalIds": {
+    "DBLP": "journals/ile/ZhaoZSXM26",
+    "DOI": "10.1080/10494820.2025.2529455",
+    "CorpusId": 287963962
+   },
+   "url": "https://www.semanticscholar.org/paper/8a8e77587426d8ae39860a5dc43402d60a38e022",
+   "title": "The impact of group-oriented shared metacognitive scaffolding on peer assessment in online collaborative learning: a social epistemic network analysis",
+   "venue": "Interactive Learning Environments",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10494820.2025.2529455?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10494820.2025.2529455, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-03-16",
+   "authors": [
+    {
+     "authorId": "2154823458",
+     "name": "Yulin Zhao"
+    },
+    {
+     "authorId": "2158220948",
+     "name": "Yumin Zheng"
+    },
+    {
+     "authorId": "2318460889",
+     "name": "Chaowang Shang"
+    },
+    {
+     "authorId": "2280175616",
+     "name": "Wanqing Xu"
+    },
+    {
+     "authorId": "2459842165",
+     "name": "Ming Zhu"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "188e464f6ae4d11cd9011d28a9a8051ccf16a290",
+   "externalIds": {
+    "DOI": "10.60923/issn.1970-2221/21511",
+    "CorpusId": 289760621
+   },
+   "url": "https://www.semanticscholar.org/paper/188e464f6ae4d11cd9011d28a9a8051ccf16a290",
+   "title": "Enhancing peer-assessment in higher education within a Collaborative Online International Learning (COIL) project between Italy and Finland",
+   "venue": "Ricerche di Pedagogia e Didattica. Journal of Theories and Research in Education",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://rpd.unibo.it/article/download/21511/21655",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.60923/issn.1970-2221/21511?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.60923/issn.1970-2221/21511, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-30",
+   "authors": [
+    {
+     "authorId": "2187391917",
+     "name": "Myrna Pario"
+    },
+    {
+     "authorId": "2836594",
+     "name": "Olli Vesterinen"
+    },
+    {
+     "authorId": "2293017327",
+     "name": "Davide Parmigiani"
+    },
+    {
+     "authorId": "2150527577",
+     "name": "Elisabetta Nicchia"
+    },
+    {
+     "authorId": "2343939313",
+     "name": "E. Murgia"
+    },
+    {
+     "authorId": "51003166",
+     "name": "Slaviša Radović"
+    },
+    {
+     "authorId": "2091742982",
+     "name": "Chiara Silvaggio"
+    }
+   ],
+   "abstract": "This article reports the results of a Collaborative Online International Learning (COIL) project involving students from the University of Genoa and Haaga-Helia University of Applied Sciences in Helsinki. It aimed to explore whether and how COIL can enhance peer-assessment skills by examining the relationships between its three core elements: collaboration, online interaction, and internationality. A qualitative research design was chosen, involving 34 participants (24 Italians and 10 Finns) aged 26 to 40, who worked together through synchronous and asynchronous tasks. The findings show that international teamwork is perceived as an effective context for developing soft skills such as multilingualism, critical thinking, and peer collaboration. In particular, the international dimension was perceived as especially valuable in improving peer-assessment skills, as exposure to diverse perspectives enriched feedback processes. Moreover, results underscore the positive perception COIL’s role in fostering inclusive learning environments that prepare students to address future professional challenges effectively."
+  },
+  {
+   "paperId": "60103f0a1b55f6ff5f38b13cbae2b74c17d44aae",
+   "externalIds": {
+    "DOI": "10.1111/medu.15580",
+    "CorpusId": 274055595,
+    "PubMed": "39543454"
+   },
+   "url": "https://www.semanticscholar.org/paper/60103f0a1b55f6ff5f38b13cbae2b74c17d44aae",
+   "title": "Empowering dental students' collaborative learning using peer assessment",
+   "venue": "Medical Education",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/medu.15580?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/medu.15580, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Editorial",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-14",
+   "authors": [
+    {
+     "authorId": "39474948",
+     "name": "M. Madi"
+    },
+    {
+     "authorId": "2382707512",
+     "name": "S. Sadaf"
+    },
+    {
+     "authorId": "2302677847",
+     "name": "Amal Asiri"
+    },
+    {
+     "authorId": "12933251",
+     "name": "J. Alhumaid"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "d054f80603be8eb7cfdd41827173c6d2f42747c0",
+   "externalIds": {
+    "MAG": "2905111581",
+    "DOI": "10.1080/14703297.2018.1555049",
+    "CorpusId": 150182420
+   },
+   "url": "https://www.semanticscholar.org/paper/d054f80603be8eb7cfdd41827173c6d2f42747c0",
+   "title": "Assessing individual contribution in collaborative learning through self- and peer-assessment in the context of China",
+   "venue": "Innovations in Education & Teaching International",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/14703297.2018.1555049?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/14703297.2018.1555049, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2018-12-07",
+   "authors": [
+    {
+     "authorId": "2047144029",
+     "name": "Zhi-Qiang Ma"
+    },
+    {
+     "authorId": "2166025497",
+     "name": "Xuejing Yan"
+    },
+    {
+     "authorId": "2109157400",
+     "name": "Qi-Yun Wang"
+    }
+   ],
+   "abstract": "ABSTRACT In this study, self-assessment and peer-assessment (SAPA) were designed for evaluating individual contributions during the process and of the products in a collaborative learning environment in China. The purpose of the study was to describe the feasible and practical principles and strategies applied and identify students’ learning experiences and perceptions of the assessment. Both quantitative and qualitative data about the students’ perceptions of the assessment and practical use of SAPA assignments and tools were collected. Results showed the SAPA method helped students divide individual responsivities more specifically and facilitate group members to perform a fair share of group tasks. This study further identified the proportion of contribution scores in the final score, self-reflections of individual contributions and the multiple strategies for minimising reciprocity effects to be crucial for the SAPA method to be useful in practice."
+  },
+  {
+   "paperId": "4de832517c2ee5369f11df1c4a9a8e17027254da",
+   "externalIds": {
+    "DBLP": "journals/sncs/HadyaouiC25",
+    "DOI": "10.1007/s42979-025-04220-w",
+    "CorpusId": 280370226
+   },
+   "url": "https://www.semanticscholar.org/paper/4de832517c2ee5369f11df1c4a9a8e17027254da",
+   "title": "Open Assessment Framework for Intelligent Peer Feedback in the Project-Based Collaborative Learning Environment",
+   "venue": "SN Computer Science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s42979-025-04220-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s42979-025-04220-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-26",
+   "authors": [
+    {
+     "authorId": "2165482364",
+     "name": "Asma Hadyaoui"
+    },
+    {
+     "authorId": "1403827035",
+     "name": "L. Cheniti-Belcadhi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "e1bb3612443094f3d1d4b7bfe0a0309129d63b42",
+   "externalIds": {
+    "DOI": "10.1080/15391523.2025.2459126",
+    "CorpusId": 276128938
+   },
+   "url": "https://www.semanticscholar.org/paper/e1bb3612443094f3d1d4b7bfe0a0309129d63b42",
+   "title": "The effect of peer assessment-based collaborative concept mapping on pre-service teachers’ perceptions on smart learning environments",
+   "venue": "Journal of Research on Technology in Education",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15391523.2025.2459126?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15391523.2025.2459126, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-03",
+   "authors": [
+    {
+     "authorId": "50557352",
+     "name": "Chen-Chen Liu"
+    },
+    {
+     "authorId": "2265404444",
+     "name": "Dan Wang"
+    },
+    {
+     "authorId": "2265292177",
+     "name": "Hai-jie Wang"
+    },
+    {
+     "authorId": "2265359487",
+     "name": "Youmei Wang"
+    },
+    {
+     "authorId": "35656591",
+     "name": "Y. Tu"
+    }
+   ],
+   "abstract": "Abstract The acceptance of smart technology is crucial in determining the effectiveness of smart teaching. Consequently, it is essential that pre-service teachers grasp the concepts of smart learning environments to better adapt to these technological changes. Research has shown that concept mapping can assist learners in organizing complex concepts, which, in turn, may enable pre-service teachers to deepen their understanding of smart learning environments. To further this goal, this study introduces the peer assessment learning approach, constructs a peer assessment-based collaborative concept mapping approach (PA-CCM) and investigates its impact on pre-service teachers’ understanding of smart learning environments. A quasi-experiment was conducted at a university to investigate the approach’s effectiveness. The experimental group used PA-CCM, while the control group used the traditional collaborative concept mapping method (C-CCM), which was assessed by teachers rather than the peers. The results show that pre-service teachers using PA-CCM have a deeper understanding of smart learning environments and can describe the essential elements of smart learning environments and smart tools in learning scenarios. In addition, this study found that the method improves pre-service teachers’ learning attitudes, learning motivation, collaboration tendency and communicative tendency."
+  },
+  {
+   "paperId": "e8c861a1f79c21a8f145112900806c030fb6be00",
+   "externalIds": {
+    "DOI": "10.1186/s40594-024-00465-8",
+    "CorpusId": 267265570
+   },
+   "url": "https://www.semanticscholar.org/paper/e8c861a1f79c21a8f145112900806c030fb6be00",
+   "title": "The implementation of peer assessment as a scaffold during computer-supported collaborative inquiry learning in secondary STEM education",
+   "venue": "International Journal of STEM Education",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://stemeducationjournal.springeropen.com/counter/pdf/10.1186/s40594-024-00465-8",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s40594-024-00465-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s40594-024-00465-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-01-25",
+   "authors": [
+    {
+     "authorId": null,
+     "name": "Amber Van Hoe"
+    },
+    {
+     "authorId": "2281396944",
+     "name": "Joel P. Wiebe"
+    },
+    {
+     "authorId": "2501841",
+     "name": "Tijs Rotsaert"
+    },
+    {
+     "authorId": "2757601",
+     "name": "T. Schellens"
+    }
+   ],
+   "abstract": "Computer-supported collaborative inquiry learning (CSCiL) has been proposed as a successful learning method to foster scientific literacy. This research aims to bridge the knowledge gap surrounding the role of peers as scaffolding sources in CSCiL environments. The primary objective is to explicitly implement peer assessment as a scaffolding tool to enhance students' inquiry output in terms of research question, data, and conclusion. Additionally, students’ perceptions of peer assessment within CSCiL are explored. The study involved 9th and 10th-grade students from 12 schools (N = 382), exploring the effects of peer assessment with and without peer dialogue. The results highlight that while adjustments were more frequently made to the research question and data, adjustments to the conclusion showed significantly greater improvement. Furthermore, students’ perceptions of peer assessment during CSCiL were examined, revealing that students generally perceive peer assessment as fair and useful, and they accept it while being willing to make improvements based on the feedback. While students did not report experiencing negative feelings, they also did not report positive emotions from the process. Additionally, the study found that including a peer dialogue in the peer assessment process did not significantly impact the abovementioned findings. This study enriches our understanding of peer assessment as a scaffolding tool in CSCiL, highlighting its potential to improve inquiry outputs and providing valuable insights for instructional design and implementation."
+  },
+  {
+   "paperId": "18de7c47e137045ba5a018f050e90ab443b8bde2",
+   "externalIds": {
+    "DBLP": "journals/behaviourIT/Altinay17",
+    "MAG": "2519199345",
+    "DOI": "10.1080/0144929X.2016.1232752",
+    "CorpusId": 21088180
+   },
+   "url": "https://www.semanticscholar.org/paper/18de7c47e137045ba5a018f050e90ab443b8bde2",
+   "title": "Evaluating peer learning and assessment in online collaborative learning environments",
+   "venue": "Behavior and Information Technology",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/0144929X.2016.1232752?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/0144929X.2016.1232752, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2017-03-01",
+   "authors": [
+    {
+     "authorId": "52394685",
+     "name": "Z. Altınay"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "69fc7bb56d4aa57610de50cf4c7d61f1ebc3561b",
+   "externalIds": {
+    "PubMedCentral": "11566248",
+    "DOI": "10.1186/s12909-024-06124-4",
+    "CorpusId": 274056255,
+    "PubMed": "39543571"
+   },
+   "url": "https://www.semanticscholar.org/paper/69fc7bb56d4aa57610de50cf4c7d61f1ebc3561b",
+   "title": "Video-based peer assessment of collaborative teamwork in a large-scale interprofessional learning activity",
+   "venue": "BMC Medical Education",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-024-06124-4",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11566248, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-14",
+   "authors": [
+    {
+     "authorId": "2330789043",
+     "name": "Chris Roberts"
+    },
+    {
+     "authorId": "6250266",
+     "name": "C. Jorm"
+    },
+    {
+     "authorId": "2279729738",
+     "name": "Gillian Nisbet"
+    },
+    {
+     "authorId": "2374914574",
+     "name": "Christopher J Gordon"
+    },
+    {
+     "authorId": "2325788140",
+     "name": "Timothy F. Chen"
+    },
+    {
+     "authorId": "2266461840",
+     "name": "Fabian Held"
+    },
+    {
+     "authorId": "2057193682",
+     "name": "Inam Haq"
+    }
+   ],
+   "abstract": "The assessment of team performance within large-scale Interprofessional Learning (IPL) initiatives is an important but underexplored area. It is essential for demonstrating the effectiveness of collaborative learning outcomes in preparing students for professional practice. Using Kane’s validity framework, we investigated whether peer assessment of student-produced videos depicting collaborative teamwork in an IPL activity was sufficiently valid for decision-making about team performance, and where the sources of error might lie to optimise future iterations of the assessment. A large cohort of health professional students (n = 1218) of 8 differing professions was divided into teams containing 5–6 students. Each team collaborated on producing a short video to evidence their management of one of 12 complex patient cases. Students from two other teams, who had worked on the same case, individually rated each video using a previously developed assessment scale. A generalisability study quantified sources of error that impacted the reliability of peer assessment of collaborative teamwork. A decision study modeled the impact of differing numbers of raters. A modified Angoff determined the pass/fail mark. Within a large-scale learning activity, peer assessment of collaborative teamwork was reliable (G = 0.71) based on scoring by students from two teams (n = 10–12) for each video. The main sources of variation were the stringency and subjectivity of fellow student assessors. Whilst professions marked with differing stringency, and individual student assessors had different views of the quality of a particular video, none of that individual assessor variance was attributable to the assessors’ profession. Teams performed similarly across the 12 cases overall, and no particular professions marked differently on any particular case. A peer assessment of a student-produced video depicting interprofessional collaborative teamwork around the management of complex patient cases can be valid for decision-making about student team performance. Further refining marking rubrics and student assessor training could potentially modify assessor subjectivity. The impact of professions on assessing individual peers and the case-specificity of team performances in IPL settings need further exploration. This innovative approach to assessment offers a promising avenue for enhancing the measurement of collaborative learning outcomes in large-scale Interprofessional learning initiatives."
+  },
+  {
+   "paperId": "346e91ac70e595e9fd568b9fc2c289ed59ba08fd",
+   "externalIds": {
+    "DOI": "10.1186/s40468-022-00211-3",
+    "CorpusId": 255082773
+   },
+   "url": "https://www.semanticscholar.org/paper/346e91ac70e595e9fd568b9fc2c289ed59ba08fd",
+   "title": "Peer assessment in group-oriented classroom contexts: on the effectiveness of peer assessment coupled with scaffolding and group work on speaking skills and vocabulary learning",
+   "venue": "Language Testing in Asia",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://languagetestingasia.springeropen.com/counter/pdf/10.1186/s40468-022-00211-3",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s40468-022-00211-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s40468-022-00211-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-12-23",
+   "authors": [
+    {
+     "authorId": "2005461619",
+     "name": "Mina Homayouni"
+    }
+   ],
+   "abstract": "Peer learning, also known as collaborative learning, is based on social constructivism and contends that learning takes place more actively when students interact socially with their peers. This study sought to examine the effects of scaffolded peer assessment in group-oriented classrooms on developing speaking skills and enlarging the vocabulary size of language learners. To accomplish this objective, through cluster sampling, the researchers selected 37 lower-intermediate and 5 intermediate learners of English. Then, 20 lower-intermediate subjects were randomly assigned as the experimental group along with the 5 more proficient learners. In groups of 5, the intermediate learner was assigned the role of the mediator and was responsible for giving feedback to their peers. The rest of the subjects were assigned as the control group and there was no mediator in their group. Four instructional sessions were allocated to scaffolded peer assessment of speaking and four sessions were devoted to scaffolded peer assessment of vocabulary learning. In this randomized pre-test–post-test-delayed post-test trial, an independent sample t test, and a one-way repeated measures ANOVA were carried out. The results of the statistical analyses demonstrated the impact of scaffolded peer assessment on developing both speaking skills and enlarging learners’ vocabulary size with a large effect size. That is, by implementing scaffolded peer assessment in a group-oriented context both speaking skills and vocabulary knowledge can be developed. The pedagogical implication of this study is that language teacher can implement the notions of social constructivism and socio-cultural theory proposed by Vygotsky (Readings on the Development of Children 23:34-41, 1978) to expand and develop learners’ zone of proximal development."
+  },
+  {
+   "paperId": "8a3b040140817c0062421e678d4bba2ca1d80fde",
+   "externalIds": {
+    "DBLP": "journals/eait/BaboFS24",
+    "DOI": "10.1007/s10639-023-12220-7",
+    "CorpusId": 264060071
+   },
+   "url": "https://www.semanticscholar.org/paper/8a3b040140817c0062421e678d4bba2ca1d80fde",
+   "title": "WebAVALIA: analysis of students’ opinions and experiences using an e-assessment tool in collaborative learning",
+   "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10639-023-12220-7.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10639-023-12220-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10639-023-12220-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-10-10",
+   "authors": [
+    {
+     "authorId": "32055396",
+     "name": "Rosalina Babo"
+    },
+    {
+     "authorId": "2265275788",
+     "name": "Ricardo Fitas"
+    },
+    {
+     "authorId": "39116478",
+     "name": "J. Suhonen"
+    }
+   ],
+   "abstract": "The students’ assessment regarding collaborative learning and workgroups is being reported as one of the main concerns in higher education. The increased technological evolution leads to adapting novel self and peer assessment methods to e-assessment. This paper reports the results of a study to evaluate students’ opinion about their experience with an e-assessment tool, WebAVALIA, and its assessment criteria. The results indicate that students (N = 359) consider the tool fair, and it increases the productivity regarding work development. Kruskal-Wallis tests show that the students recently considered WebAVALIA fairer and more straightforward. Quickness and anonymity are also identified as tool advantages."
+  },
+  {
+   "paperId": "34226ca6ef362257bceb91acde3ea8dcac9419ee",
+   "externalIds": {
+    "DOI": "10.1016/j.actpsy.2025.105494",
+    "CorpusId": 281048794,
+    "PubMed": "40897143"
+   },
+   "url": "https://www.semanticscholar.org/paper/34226ca6ef362257bceb91acde3ea8dcac9419ee",
+   "title": "How to promote learners' knowledge contribution behaviours in peer assessment? The key mediating role of learning motivation.",
+   "venue": "Acta Psychologica",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0001691825008078/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.actpsy.2025.105494?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.actpsy.2025.105494, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-01",
+   "authors": [
+    {
+     "authorId": "2281452752",
+     "name": "Haijia Liu"
+    },
+    {
+     "authorId": "2054682370",
+     "name": "Zheng Zong"
+    },
+    {
+     "authorId": "2281413349",
+     "name": "Yuqiang Feng"
+    }
+   ],
+   "abstract": "This study investigates how learning motivation mediates the impact of teacher assessment literacy, learner ability, and peer interaction on knowledge contribution behaviors in peer assessment. Drawing on self-determination theory, we propose an integrated model where extrinsic and intrinsic motivation serve as distinct mediators. Data from 165 Chinese undergraduates with peer assessment experience were analyzed using structural equation modeling (Smart PLS). Results reveal that teacher assessment literacy significantly enhances extrinsic motivation, while learner ability fosters intrinsic motivation. Peer interaction amplifies both motivational pathways (extrinsic: β = 0.219; intrinsic: β = 0.469). Crucially, extrinsic and intrinsic motivation partially mediate the effects on knowledge contribution behavior, explaining 51.2 % of its variance. These findings underscore motivation's pivotal role in translating contextual factors into collaborative knowledge-sharing behaviors, advancing theoretical understanding of psychological mechanisms in peer learning environments."
+  },
+  {
+   "paperId": "15cbe3fb5fedae2c7518366033544b92396e5ce9",
+   "externalIds": {
+    "DOI": "10.22159/ijoe.2025v13i2.53640",
+    "CorpusId": 276733965
+   },
+   "url": "https://www.semanticscholar.org/paper/15cbe3fb5fedae2c7518366033544b92396e5ce9",
+   "title": "A Systematic Review of Online Peer Assessment Tools for Learning Evaluation",
+   "venue": "Innovare journal of education",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.22159/ijoe.2025v13i2.53640",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22159/ijoe.2025v13i2.53640?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22159/ijoe.2025v13i2.53640, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-01",
+   "authors": [
+    {
+     "authorId": "147883332",
+     "name": "Ranta Butarbutar"
+    },
+    {
+     "authorId": "2314858749",
+     "name": "Angla Florensi Sauhenda"
+    },
+    {
+     "authorId": "2348164381",
+     "name": "Marnina"
+    }
+   ],
+   "abstract": "Online peer assessment is a process that uses digital platforms or tools for students to evaluate and provide feedback on their peers’ work. This method aligns with Vygotsky’s sociocultural theory by promoting social interaction, collaborative learning, and the use of technological tools. The purpose of this study was to review the tools used and the lessons learned from online peer assessment (OPA). The literature review identified eight tools that facilitate OPA: (1) Peer Grade (2) Turnitin Peer Mark (3) Eli Review (4) Google Classroom (5) Moodle Workshop (6) Peerceptiv (7) Online Quizzes or Interactive Exercises (8) e-Portfolio. The results show that OPA enhances learning awareness, critical thinking, and metacognitive facilitation and promotes self-regulated learning, inter-professional teamwork, collaboration skills, evaluation skills, diversification feedback, enriches accountability, and actively engages learners. Therefore, it is essential to explore and select a tool that best meets specific needs and requirements, which may necessitate future research."
+  },
+  {
+   "paperId": "c420ab114f66f10d299d932043ef03da48a5b3fb",
+   "externalIds": {
+    "DBLP": "conf/lats/OuJ25",
+    "DOI": "10.1145/3698205.3733927",
+    "CorpusId": 282393892
+   },
+   "url": "https://www.semanticscholar.org/paper/c420ab114f66f10d299d932043ef03da48a5b3fb",
+   "title": "Assess or Discuss: Comparing Peer Assessment and Online Discussion for Enhancing Learning at Scale",
+   "venue": "ACM Conference on Learning @ Scale",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3698205.3733927?download=true",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3698205.3733927?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3698205.3733927, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Book",
+    "Review"
+   ],
+   "publicationDate": "2025-07-17",
+   "authors": [
+    {
+     "authorId": "2266494995",
+     "name": "Chao-Hua Ou"
+    },
+    {
+     "authorId": "2270329927",
+     "name": "David A. Joyner"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "76ede9c8adebbe44a8193a0962e0cea21b9bcfef",
+   "externalIds": {
+    "DOI": "10.32604/cmc.2020.09958",
+    "CorpusId": 243652971
+   },
+   "url": "https://www.semanticscholar.org/paper/76ede9c8adebbe44a8193a0962e0cea21b9bcfef",
+   "title": "A Sentinel-Based Peer Assessment Mechanism for Collaborative Learning",
+   "venue": "Computers Materials & Continua",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.32604/cmc.2020.09958",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32604/cmc.2020.09958?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32604/cmc.2020.09958, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2116639408",
+     "name": "Cong Wang"
+    },
+    {
+     "authorId": "2152528540",
+     "name": "Ming-Ming Zhao"
+    },
+    {
+     "authorId": "2410727993",
+     "name": "Qinyu Wang"
+    },
+    {
+     "authorId": "144685163",
+     "name": "Min Li"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ee5449b7653f637d894b53cf932fac5ff2459cf5",
+   "externalIds": {
+    "DBLP": "journals/ijmlo/ChanSTTG23",
+    "DOI": "10.1504/ijmlo.2023.128342",
+    "CorpusId": 248600207
+   },
+   "url": "https://www.semanticscholar.org/paper/ee5449b7653f637d894b53cf932fac5ff2459cf5",
+   "title": "Assessing the effects of a collaborative problem-based learning and peer assessment method on junior secondary students' learning approaches in mathematics using interactive online whiteboards during the COVID-19 pandemic",
+   "venue": "Int. J. Mob. Learn. Organisation",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1504/ijmlo.2023.128342?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1504/ijmlo.2023.128342, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "120806884",
+     "name": "Chi-lok Chan"
+    },
+    {
+     "authorId": "2565530",
+     "name": "Ronnie H. Shroff"
+    },
+    {
+     "authorId": "144944670",
+     "name": "Wing-Ki Tsang"
+    },
+    {
+     "authorId": "2072333645",
+     "name": "F. Ting"
+    },
+    {
+     "authorId": "2164756888",
+     "name": "Raycelle C. C. Garcia"
+    }
+   ],
+   "abstract": "Given the demands on instructors created by the COVID-19 pandemic, teachers have been compelled to integrate active learning pedagogies supported by mobile technologies to sustain students' interactive engagement. This study describes the implementation of a novel active pedagogy - the collaborative problem-based learning and peer assessment (Co-PBLa-PA) method, implemented through interactive online whiteboards (IOWBs) in junior secondary mathematics classes in Hong Kong. Data were collected from 87 Form 1 students and analysed to test three hypotheses postulating the main effects of the Co-PBLa-PA method on students' learning approaches using IOWBs. A pre-survey (SPQ) on students' learning approaches and a post-survey (SPQ) on students' learning approaches and their perceptions of technology-enabled active learning (TEAL) were administrated. Results showed the Co-PBLa-PA method, using IOWBs, increased students' learning performance and promoted significant deep learning. A significant positive correlation also emerged between deep learning approaches and students' perceptions of TEAL using IOWBs. Finally, limitations and directions for future research are discussed."
+  },
+  {
+   "paperId": "753b41e8264d0f408f3e14b3377038f1d7b8f4bc",
+   "externalIds": {
+    "MAG": "2530714561",
+    "DOI": "10.1007/978-981-10-1972-2_9",
+    "CorpusId": 151806710
+   },
+   "url": "https://www.semanticscholar.org/paper/753b41e8264d0f408f3e14b3377038f1d7b8f4bc",
+   "title": "Facilitating Collaborative Learning Through Peer Assessment APP: A Case Study",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-10-1972-2_9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-10-1972-2_9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "40357420",
+     "name": "Lan-Qin Zheng"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "2d35e0e142301cc6b79dd029a648e34f6be4ff1f",
+   "externalIds": {
+    "DBLP": "conf/lats/OuTJ24",
+    "DOI": "10.1145/3657604.3664705",
+    "CorpusId": 271226460
+   },
+   "url": "https://www.semanticscholar.org/paper/2d35e0e142301cc6b79dd029a648e34f6be4ff1f",
+   "title": "Open, Collaborative, and AI-Augmented Peer Assessment: Student Participation, Performance, and Perceptions",
+   "venue": "ACM Conference on Learning @ Scale",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1145/3657604.3664705",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3657604.3664705?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3657604.3664705, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Book"
+   ],
+   "publicationDate": "2024-07-09",
+   "authors": [
+    {
+     "authorId": "2266494995",
+     "name": "Chao-Hua Ou"
+    },
+    {
+     "authorId": "2311566521",
+     "name": "Ploy Thajchayapong"
+    },
+    {
+     "authorId": "2270329927",
+     "name": "David A. Joyner"
+    }
+   ],
+   "abstract": "Research consistently shows that peer assessment affects student achievement and attitudes across various subjects and contexts. However, most studies have focused on anonymous peer assessments in small, one-time, and non-iterative settings. This large-scale longitudinal study explores the effects of open, collaborative, and AI-augmented peer assessment in a large online graduate course with 1,636 students across 12 semesters from 2018 to 2022. The research investigated how different groups of students participated in the peer assessment in an online graduate computer science class. We also explored how their participation influenced their learning performance and their perceptions. Key findings reveal that students' age and gender significantly affect engagement levels and the perception of peer assessment effectiveness. They also provide new insights into the positive relationship between providing feedback and enhanced learning performance. This paper presents the implementation of peer assessment and detailed findings of the study. The implications of the study for future research and practices are also discussed."
+  }
+ ]
+}

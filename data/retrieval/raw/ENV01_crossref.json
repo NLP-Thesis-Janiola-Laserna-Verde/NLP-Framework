@@ -1,0 +1,727 @@
+{
+ "query": "Climate change impacts on coral reef ecosystems",
+ "retrieved_at": "2026-11-18T18:00:28.103899+00:00",
+ "data": [
+  {
+   "DOI": "10.1016/bs.amb.2025.09.002",
+   "title": [
+    "Coral reefs as ocean-connected ecosystems: Impacts on food webs and reef futures under climate change"
+   ],
+   "container-title": [
+    "Advances in Marine Biology"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/bs.amb.2025.09.002"
+  },
+  {
+   "DOI": "10.1017/cbo9780511804472.010",
+   "title": [
+    "Longer-term impacts of climate change on coral reefs"
+   ],
+   "container-title": [
+    "Coral Reef Conservation"
+   ],
+   "publisher": "Cambridge University Press",
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      8,
+      17
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1017/cbo9780511804472.010",
+   "author": [
+    {
+     "given": "Charles",
+     "family": "Sheppard",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-444-53301-2.00013-0",
+   "title": [
+    "Changes in Coral Reef Ecosystems as an Indicator of Climate and Global Change"
+   ],
+   "container-title": [
+    "Climate Change"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2009
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-444-53301-2.00013-0",
+   "author": [
+    {
+     "given": "Martin J.",
+     "family": "Attrill",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.14264/a32fab5",
+   "title": [
+    "Impacts of climate change-induced large-scale disturbances on coral reef connectivity and recovery"
+   ],
+   "publisher": "University of Queensland Library",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.14264/a32fab5",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7838-4188",
+     "authenticated-orcid": true,
+     "given": "Mandy",
+     "family": "Cheung",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/00rqy9422",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "department": [
+        "School of the Environment"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-444-63524-2.00012-9",
+   "title": [
+    "Changes in Coral Reef Ecosystems"
+   ],
+   "container-title": [
+    "Climate Change"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-444-63524-2.00012-9",
+   "author": [
+    {
+     "given": "Martin J.",
+     "family": "Attrill",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nicola L.",
+     "family": "Foster",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-1-4419-8692-4_13",
+   "title": [
+    "Sizing the impact: Coral reef ecosystems as early casualties of climate change"
+   ],
+   "container-title": [
+    "“Fingerprints” of Climate Change"
+   ],
+   "publisher": "Springer US",
+   "issued": {
+    "date-parts": [
+     [
+      2001
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-1-4419-8692-4_13",
+   "author": [
+    {
+     "given": "Ove",
+     "family": "Hoegh-Guldberg",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-94-007-0114-4_22",
+   "title": [
+    "The Impact of Climate Change on Coral Reef Ecosystems"
+   ],
+   "container-title": [
+    "Coral Reefs: An Ecosystem in Transition"
+   ],
+   "publisher": "Springer Netherlands",
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      11,
+      9
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-94-007-0114-4_22",
+   "author": [
+    {
+     "given": "Ove",
+     "family": "Hoegh-Guldberg",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-12-821575-3.00020-7",
+   "title": [
+    "Changes in coral reef ecosystems as an indication of climate and global change"
+   ],
+   "container-title": [
+    "Climate Change"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-12-821575-3.00020-7",
+   "author": [
+    {
+     "given": "Nicola L.",
+     "family": "Foster",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Martin J.",
+     "family": "Attrill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/s00338-020-01919-5",
+   "title": [
+    "Opposing climate-change impacts on poleward-shifting coral-reef fishes"
+   ],
+   "container-title": [
+    "Coral Reefs"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      3,
+      17
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s00338-020-01919-5",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8256-1412",
+     "authenticated-orcid": false,
+     "given": "David J.",
+     "family": "Booth",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-443-32838-1.00016-3",
+   "title": [
+    "Changes in coral reef ecosystems as an indication of climate and global change"
+   ],
+   "container-title": [
+    "Indicators of Climate Change"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-443-32838-1.00016-3",
+   "author": [
+    {
+     "given": "Nicola L.",
+     "family": "Foster",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Martin J.",
+     "family": "Attrill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/s10113-010-0189-2",
+   "title": [
+    "Coral reef ecosystems and anthropogenic climate change"
+   ],
+   "container-title": [
+    "Regional Environmental Change"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2010,
+      12,
+      8
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s10113-010-0189-2",
+   "author": [
+    {
+     "given": "Ove",
+     "family": "Hoegh-Guldberg",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/springerreference_205842",
+   "title": [
+    "Climate Change: Impact On Coral Reef Coasts"
+   ],
+   "container-title": [
+    "SpringerReference"
+   ],
+   "publisher": "Springer-Verlag",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "reference-entry",
+   "URL": "https://doi.org/10.1007/springerreference_205842"
+  },
+  {
+   "DOI": "10.1007/978-0-387-33537-7_12",
+   "title": [
+    "Constraints on Predicting Coral Reef Response to Climate Change"
+   ],
+   "container-title": [
+    "Geological Approaches to Coral Reef Ecology"
+   ],
+   "publisher": "Springer New York",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-0-387-33537-7_12",
+   "author": [
+    {
+     "given": "Joan A.",
+     "family": "Kleypas",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-981-19-5500-6_6",
+   "title": [
+    "Climate Change and Coral Reef Ecosystem: Impacts and Management Strategies"
+   ],
+   "container-title": [
+    "Outlook of Climate Change and Fish Nutrition"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-19-5500-6_6",
+   "author": [
+    {
+     "given": "N. K.",
+     "family": "Suyani",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mukesh Kumar",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rajive Kumar",
+     "family": "Brahmchari",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/springerreference_310807",
+   "title": [
+    "Coral Reef Ecosystems"
+   ],
+   "container-title": [
+    "SpringerReference"
+   ],
+   "publisher": "Springer-Verlag",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "reference-entry",
+   "URL": "https://doi.org/10.1007/springerreference_310807"
+  },
+  {
+   "DOI": "10.1163/9789004322714_cclc_2022-0167-0555",
+   "title": [
+    "Reef 'hope spots' may help rescue coral habitats damaged by climate change: Researchers"
+   ],
+   "container-title": [
+    "Climate Change and Law Collection"
+   ],
+   "publisher": "Walter de Gruyter GmbH",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1163/9789004322714_cclc_2022-0167-0555"
+  },
+  {
+   "DOI": "10.1201/9781420003796-9",
+   "title": [
+    "Natural Resilience of Coral Reef Ecosystems"
+   ],
+   "container-title": [
+    "Coral Reef Restoration Handbook"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      5,
+      25
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781420003796-9"
+  },
+  {
+   "DOI": "10.1071/ec14321",
+   "title": [
+    "Predicting coral reef futures under climate change"
+   ],
+   "container-title": [
+    "ECOS"
+   ],
+   "publisher": "CSIRO Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1071/ec14321"
+  },
+  {
+   "DOI": "10.3389/fmars.2017.00158",
+   "title": [
+    "Coral Reef Ecosystems under Climate Change and Ocean Acidification"
+   ],
+   "container-title": [
+    "Frontiers in Marine Science"
+   ],
+   "publisher": "Frontiers Media SA",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      5,
+      29
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.3389/fmars.2017.00158",
+   "author": [
+    {
+     "given": "Ove",
+     "family": "Hoegh-Guldberg",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Elvira S.",
+     "family": "Poloczanska",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "William",
+     "family": "Skirving",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sophie",
+     "family": "Dove",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.3755/jcrs.21.35",
+   "title": [
+    "Coral reef conservation at Republic of Palau under climate change"
+   ],
+   "container-title": [
+    "Journal of the Japanese Coral Reef Society"
+   ],
+   "publisher": "Japanese Coral Reef Society",
+   "issued": {
+    "date-parts": [
+     [
+      2019
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.3755/jcrs.21.35",
+   "author": [
+    {
+     "given": "Haruko",
+     "family": "KURIHARA",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Science, University of the Ryukyus"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Atsushi",
+     "family": "WATANABE",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Environment and Society, Tokyo Institute of Technology"
+      },
+      {
+       "name": "Now at the Ocean Policy Research Institute, the Sasakawa Peace Foundation"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

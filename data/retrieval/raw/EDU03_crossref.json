@@ -1,0 +1,694 @@
+{
+ "query": "Mother tongue-based multilingual education and learning outcomes",
+ "retrieved_at": "2026-11-18T17:48:41.991770+00:00",
+ "data": [
+  {
+   "abstract": "<jats:p>Mother tongue-based multilingual education (MTB-MLE) is generally considered as an important means of achieving equitable learning, linguistic rights and cognitive development in multilingual societies. Even in Bangladesh, although the constitutionally guaranteed linguistic justice is unevenly and under-studied in Bangladesh. The paper conducts a systematic review of published empirical studies, policy documents, and program reports (between the year 2000 and 2024) based on the PRISMA requirements. Results indicate beneficial impact of the program on early literacy, classroom activity and retention especially among ethno linguistic minority students. Nevertheless, the little training of teachers, insufficiency of resources, poor policy implementation, and institutional co-ordination are limiting factors to progress. Large discrepancies continue to exist between the objectives of the policies and the classroom implementation, and additional studies and reformation are necessary.\nMother Language, 2026; 10(1): 217-240</jats:p>",
+   "DOI": "10.3329/ml.v10i1.91881",
+   "type": "journal-article",
+   "title": [
+    "Mother Tongue–Based Multilingual Education in Bangladesh: A Systematic Review of Implementation, Challenges, and Learning Outcomes"
+   ],
+   "author": [
+    {
+     "given": "Sourav",
+     "family": "Adhikary",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bayzid",
+     "family": "Sumon",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aparna Rani",
+     "family": "Dey",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Mother Language"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7,
+      27
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3329/ml.v10i1.91881"
+  },
+  {
+   "DOI": "10.21832/9781800419735-003",
+   "title": [
+    "1 Mother Tongue-Based Multilingual Education: Rationale, Purpose and Process in Asia and the Pacific"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.21832/9781800419735-003",
+   "author": [
+    {
+     "given": "Susan",
+     "family": "Malone",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21832/9781800419735-011",
+   "title": [
+    "9 Mother Tongue-Based Multilingual Education That Supports Multilingualism and Multiliteracy: Examples from Asia and the Pacific"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.21832/9781800419735-011",
+   "author": [
+    {
+     "given": "Susan",
+     "family": "Malone",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21832/9781800419735-013",
+   "title": [
+    "11 The Impact of Partial Proficiency in the Language of Instruction on Learning Outcomes in Basic Education"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.21832/9781800419735-013",
+   "author": [
+    {
+     "given": "Stephen L.",
+     "family": "Walter",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.2307/jj.23925648.15",
+   "title": [
+    "The Impact of Partial Proficiency in the Language of Instruction on Learning Outcomes in Basic Education"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Channel View Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      6
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/jj.23925648.15",
+   "author": [
+    {
+     "given": "Stephen L.",
+     "family": "Walter",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21832/9781800419735-toc",
+   "title": [
+    "Contents"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.21832/9781800419735-toc"
+  },
+  {
+   "DOI": "10.21832/9781800419735-fm",
+   "title": [
+    "Frontmatter"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.21832/9781800419735-fm"
+  },
+  {
+   "DOI": "10.2307/jj.23925648.9",
+   "title": [
+    "Mother Tongue and Early Childhood Care and Education:"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Channel View Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      6
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/jj.23925648.9",
+   "author": [
+    {
+     "given": "Sheldon F.",
+     "family": "Shaeffer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21832/9781800419735-007",
+   "title": [
+    "5 Mother Tongue and Early Childhood Care and Education: Synergies and Challenges"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.21832/9781800419735-007",
+   "author": [
+    {
+     "given": "Sheldon F.",
+     "family": "Shaeffer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21832/9781800419735-001",
+   "title": [
+    "Contributors"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.21832/9781800419735-001"
+  },
+  {
+   "DOI": "10.56278/pnu_po.1336",
+   "title": [
+    "Ebalwasyon ng Implementasyon ng Kurikulum ng Mother Tongue Based-Multilingual Education (MTB-MLE)"
+   ],
+   "publisher": "Philippine Normal University",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.56278/pnu_po.1336",
+   "author": [
+    {
+     "given": "Edgar",
+     "family": "Aban",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/03d5rbb25",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Philippine Normal University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21832/9781800419735-017",
+   "title": [
+    "Index"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.21832/9781800419735-017"
+  },
+  {
+   "DOI": "10.33545/26649845.2025.v7.i2m.568",
+   "title": [
+    "Mother Tongue-Based Multilingual Education and Learning Outcomes in Tribal Schools"
+   ],
+   "container-title": [
+    "International Journal of Social Science and Education Research"
+   ],
+   "publisher": "Comprehensive Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.33545/26649845.2025.v7.i2m.568",
+   "author": [
+    {
+     "given": "Bhabatosh",
+     "family": "Mahato",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.18344/share.2016.1",
+   "title": [
+    "Mother Tongue-Based Multilingual Education in Bangladesh: Lessons Learned in SHARE Education Program"
+   ],
+   "publisher": "Hulla & Co Human Dynamics KG",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      12,
+      17
+     ]
+    ]
+   },
+   "type": "monograph",
+   "URL": "https://doi.org/10.18344/share.2016.1",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5205-5463",
+     "authenticated-orcid": false,
+     "given": "W. James",
+     "family": "Jacob",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-319-02324-3_18-1",
+   "title": [
+    "Bilingual and Mother Tongue-Based Multilingual Education in the Philippines"
+   ],
+   "container-title": [
+    "Bilingual and Multilingual Education"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-319-02324-3_18-1",
+   "author": [
+    {
+     "given": "Ruanni",
+     "family": "Tupas",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Isabel Pefianco",
+     "family": "Martin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Knowledge E DMCC",
+   "abstract": "<jats:p>This study analyzed the effectiveness on pupils’ learning of Mother Tongue-Based Multilingual Education (MTB-MLE) Storybooks. The use of Cebuano, Minasbate, and Filipino versions, entitled “JUAN TAMA”, for Grade 1 pupils of School A in Claveria South District and School B in Cawayan East District, Division of Masbate for SY 2012-2013 were evaluated. Each school covered 20 Grade 1 Pupils (Social Group A) and another 20 Grade 1 Pupils (Social Group B). The demographic profile of respondents in terms of language they used at home and school, showed that majority used Minasbate dialect in School A while Cebuano in School B. The average achievement rating of Grade 1 pupils in Social Group A was 62.18% while Social Group B obtained 81.76%. The use of mother tongue in the teaching story “Juan Tama” appears to have significantly affected the academic achievement level of Social Group B when compared to Social Group A. This demonstrates that pupils develop literary appreciation, literacy, cognitive skills and master content material more easily when they are taught in a familiar language. Teachers teaching in the mother tongue using Juan Tama storybooks perceived this medium of instruction as effective. Their suggestions included: increasing information dissemination on importance of mother tongue-based instruction; recognition of mother tongue acquisition as first priority in judging children’s achievement; training teachers in creating storybooks; and provision of instructional materials and references in MTB-MLE.\r\nKeywords: Mother Tongue Based-Multilingual Education, Storybooks, Pupils Learning</jats:p>",
+   "DOI": "10.18502/kss.v4i12.7577",
+   "type": "journal-article",
+   "title": [
+    "Juan Tama, Mother Tongue-Based Multilingual Education (MTB-MLE) Storybooks: Their Effectiveness on Pupils’ Learning"
+   ],
+   "author": [
+    {
+     "given": "Rudyard",
+     "family": "C. Balacano",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "KnE Social Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      2
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.18502/kss.v4i12.7577"
+  },
+  {
+   "DOI": "10.1007/978-3-319-02258-1_18",
+   "title": [
+    "Bilingual and Mother Tongue-Based Multilingual Education in the Philippines"
+   ],
+   "container-title": [
+    "Bilingual and Multilingual Education"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2017
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-319-02258-1_18",
+   "author": [
+    {
+     "given": "Ruanni",
+     "family": "Tupas",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Isabel Pefianco",
+     "family": "Martin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Parental involvement in home literacy activities has been found to significantly improve children’s language and literacy skills, contributing to their school readiness and academic achievement. The quality of the Home Literacy Environment (HLE) and parental involvement are influenced by factors such as Socio-Economic Status (SES) and parental educational levels. The HLE plays an important role in a multilingual ESL/EFL context such as India, where the home language(s) and the school language(s) differ. Understanding the linguistic repertoire and HLE backgrounds of children, as well as creating awareness among parents about home literacy and using the mother tongue as a resource, is necessary to develop effective ways to build a partnership between the home and the school. This article discusses the multilingual context in India and presents classroom activities that teachers can use to provide parents with a better understanding of multilingualism and Mother Tongue Based-Multilingual Education (MTB-MLE).</jats:p>",
+   "DOI": "10.2139/ssrn.4721694",
+   "type": "posted-content",
+   "title": [
+    "Supporting Parental Involvement in Mother Tongue Based-Multilingual Education: Activities for the Classroom"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9849-0647",
+     "authenticated-orcid": true,
+     "given": "Priya",
+     "family": "Prithiviraj",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.4721694"
+  },
+  {
+   "DOI": "10.21832/premsi9728",
+   "title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Multilingual Matters",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      11,
+      30
+     ]
+    ]
+   },
+   "type": "edited-book",
+   "URL": "https://doi.org/10.21832/premsi9728",
+   "abstract": "<jats:p>This book explores the benefits and challenges of mother tongue-based multilingual education in numerous settings in the Asia-Pacific region. Centered on the experiences of the language communities concerned, it offers insights into the complex nature of language policy and practice in both more and less accommodating sociopolitical environments.</jats:p>"
+  },
+  {
+   "DOI": "10.2307/jj.23925648.14",
+   "title": [
+    "Assessment of Multilingual Education Programs"
+   ],
+   "container-title": [
+    "Mother Tongue-Based Multilingual Education in the Asia-Pacific Region"
+   ],
+   "publisher": "Channel View Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      6
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/jj.23925648.14",
+   "author": [
+    {
+     "given": "Stephen L.",
+     "family": "Walter",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mirinda",
+     "family": "Burarungrot",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

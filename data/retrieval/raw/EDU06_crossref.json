@@ -1,0 +1,980 @@
+{
+ "query": "Effectiveness of online and blended learning in higher education",
+ "retrieved_at": "2026-11-18T17:50:24.445769+00:00",
+ "data": [
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>Online learning capabilities in K-12 education have changed tremendously in the past years and are continually evolving in the traditional classrooms. The overall growth in the total number of high school students currently taking online distance learning courses as well as the importance of distance learning as a solution to educational challenges has increased the need to study more closely the factors that contribute to distance learning outcomes and success rates in K-12. Therefore, the challenge that emerges for educators, researchers, scholars, and advocates for students is to carefully and effectively join the growth and power of K-12 online learning for the benefit of the students involved. This chapter provides an overview of factors that contribute to learning outcomes and success rates for K-12 distance education. Some of the challenges, issues, and considerations affecting implementation of K-12 online education are discussed.</jats:p>",
+   "DOI": "10.4018/978-1-5225-5557-5.ch020",
+   "type": "book-chapter",
+   "title": [
+    "Impact of Online Learning in K-12"
+   ],
+   "author": [
+    {
+     "given": "Jerri",
+     "family": "Ward-Jackson",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of West Alabama, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chien",
+     "family": "Yu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Mississippi State University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Higher Education and Professional Development",
+    "Handbook of Research on Blended Learning Pedagogies and Professional Development in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-5225-5557-5.ch020"
+  },
+  {
+   "DOI": "10.1080/03075079.2019.1602756",
+   "title": [
+    "Effectiveness of online presence in a blended higher learning environment in the Pacific"
+   ],
+   "container-title": [
+    "Studies in Higher Education"
+   ],
+   "publisher": "Informa UK Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      4,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1080/03075079.2019.1602756",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7519-7712",
+     "authenticated-orcid": false,
+     "given": "Bibhya",
+     "family": "Sharma",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Science, Technology and Environment, The University of the South Pacific",
+       "place": [
+        "Suva, Fiji"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1871-387X",
+     "authenticated-orcid": false,
+     "given": "Ravneil",
+     "family": "Nand",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Science, Technology and Environment, The University of the South Pacific",
+       "place": [
+        "Suva, Fiji"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9740-6450",
+     "authenticated-orcid": false,
+     "given": "Mohammed",
+     "family": "Naseem",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Science, Technology and Environment, The University of the South Pacific",
+       "place": [
+        "Suva, Fiji"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5521-5792",
+     "authenticated-orcid": false,
+     "given": "Emmenual V.",
+     "family": "Reddy",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Science, Technology and Environment, The University of the South Pacific",
+       "place": [
+        "Suva, Fiji"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>Students must be engaged in active learning opportunities that allow them to feel connected to the class and not just a passive spectator. However, that may require the instructor to learn and try different methods of teaching and learning that are more student-centered and less faculty-centered. The purpose of this chapter is to assist faculty in developing active learning strategies that will advance their personal skill sets to better embrace learner-centered instruction with the use of technology tools for online and blended environments.</jats:p>",
+   "DOI": "10.4018/978-1-4666-6280-3.ch004",
+   "type": "book-chapter",
+   "title": [
+    "Active Learning Strategies for Online and Blended Learning Environments"
+   ],
+   "author": [
+    {
+     "given": "Cynthia",
+     "family": "Cummings",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Lamar University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Diane",
+     "family": "Mason",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Lamar University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kaye",
+     "family": "Shelton",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Lamar University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Katie",
+     "family": "Baur",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Lamar University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Higher Education and Professional Development",
+    "Models for Improving and Optimizing Online and Blended Learning in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-4666-6280-3.ch004"
+  },
+  {
+   "DOI": "10.4324/9780203095959-11",
+   "title": [
+    "Online and Blended Learning in Higher Education"
+   ],
+   "container-title": [
+    "Learning Online"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      4,
+      3
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203095959-11"
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>The popularity of social media networking sites like Facebook and Twitter demonstrates how communities can develop and flourish in virtual spaces. How can higher education institutions and instructors leverage the power of community to enhance student learning without compromising the rigor that is foundational to the academy? Building on the scholarly literature and their own experiences teaching and providing faculty development in online and blended learning environments, the authors provide a rationale for cultivating community in online environments as well as provide descriptive cases of instructors who have effectively used a learning management system to cultivate vibrant learning communities in online and hybrid courses. They also offer multiple faculty development models for helping faculty develop a social, teaching, and cognitive presence in online environments.</jats:p>",
+   "DOI": "10.4018/978-1-4666-6280-3.ch005",
+   "type": "book-chapter",
+   "title": [
+    "Cultivating Community in Online and Blended Learning Environments"
+   ],
+   "author": [
+    {
+     "given": "Tracy W.",
+     "family": "Smith",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Appalachian State University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Emory",
+     "family": "Maiden III",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Appalachian State University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Higher Education and Professional Development",
+    "Models for Improving and Optimizing Online and Blended Learning in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-4666-6280-3.ch005"
+  },
+  {
+   "DOI": "10.36284/celelon.oa7.8",
+   "title": [
+    "Online Learning, Open Education, and Equity in the Age of COVID-19: Fulfilling the Promise of Higher Education through Blended Learning"
+   ],
+   "container-title": [
+    "Open, Online, and Equitable Education"
+   ],
+   "publisher": "Elon University Center for Engaged Learning",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      7,
+      15
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.36284/celelon.oa7.8"
+  },
+  {
+   "publisher": "American Institute of Mathematical Sciences (AIMS)",
+   "abstract": "<jats:p xml:lang=\"fr\">The widespread dissemination of the COVID-19 pandemic precipitated a transition from traditional, in-person pedagogy to online methods within higher vocational education. The inherent limitations of online learning have become progressively conspicuous. Given its pivotal role amidst the pandemic, numerous institutions have endeavored to integrate technology with traditional classroom pedagogies. Consequently, blended learning has emerged as a focal point within vocational education, garnering notable attention and interest. The question arises: which learning method proves most effective for vocational skills development? This study endeavored to ascertain the comparative effectiveness of various learning methods for vocational skills training. Specifically, employing a quantitative approach, the study conducted a comprehensive questionnaire survey of graduates of higher vocational institutions in China. Participants have undergone training via exclusively physical, thoroughly online, and blended learning formats, respectively. The objective was to evaluate the efficacy of these three methods as perceived by higher vocational graduates. In addition, the study aimed to analyze the personal and pedagogical factors that influence the effectiveness of these learning methods. The collected data underwent analysis utilizing SPSS software. One-way analysis of variance (ANOVA) tests, correlation analyses, and subsequent least significant difference (LSD) post-hoc analyses were employed to investigate the correlations between demographic variables and factors related to teachers and educational resources across the three learning methods. These findings indicate that blended learning is the most efficient approach, with a notable preference among vocational graduates. Physical learning demonstrated superior effectiveness, particularly in functional skills training. In divergence, online learning ranked the lowest among graduates' preference, efficiency, and efficacy in functional skills training. Among the demographic factors examined, gender and duration of graduation exhibited notable variances across the effectiveness of different learning methods. However, there are no significant differences in the area of origin, economic region, type of higher vocational institution, and majors. These insights provide valuable guidance for higher vocational institutions in selecting the most suitable learning methods for enhancing functional skills training.</jats:p>",
+   "DOI": "10.3934/steme.2024015",
+   "type": "journal-article",
+   "title": [
+    "A comparative study on the effectiveness of blended learning, physical learning, and online learning in functional skills training among higher vocational education"
+   ],
+   "author": [
+    {
+     "given": "Zhongyan",
+     "family": "Hu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Management and Marketing, Taylor's University, Malaysia"
+      },
+      {
+       "name": "President's Office, Yan 'an University, China"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yun Fah",
+     "family": "Chang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Accounting and Finance, Taylor's University, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ming Kang",
+     "family": "Ho",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Graduate School of Business, Asia Pacific University of Technology and Innovation, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "STEM Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3934/steme.2024015"
+  },
+  {
+   "DOI": "10.1109/compsac51774.2021.00023/video",
+   "title": [
+    "Video for Mathematics in higher education: a transition from blended to online learning in pandemic times"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1109/compsac51774.2021.00023/video"
+  },
+  {
+   "publisher": "Fondazione Università Ca’ Foscari",
+   "abstract": "<jats:p>Recommendations for greater adoption of blended and online learning pedagogies pre-date COVID-19 by many years. However, the uptake and implementation of blended and online learning was largely ignored by lecturers in many contact institutions, despite the introduction of policies and various resources to support such a shift. In this chapter, we critically explore the reluctance of lecturers to adopt blended and online learning pedagogies, drawing on the Epistemic Pedagogic Device (EPD) of Legitimation Code Theory (LCT) and the elements of Archer’s theory of Social Realism to explicate the roles and contestations among the various stakeholders involved in teaching and learning in higher education institutions. In particular, we examine the struggles for legitimacy faced by instructional designers and academic developers in the sites of teaching and learning, sites which have traditionally been controlled by lecturers. We posit that successful, sustainable implementation of online and blended learning requires institutional recognition of multiple stakeholders as legitimate role-players in teaching and student learning.</jats:p>",
+   "DOI": "10.30687/978-88-6969-529-2/003",
+   "type": "book-chapter",
+   "title": [
+    "Stakeholder Struggles  in the Uptake and Use  of Blended and Online Learning in Higher Education"
+   ],
+   "author": [
+    {
+     "given": "Laura",
+     "family": "Dison",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of the Witwatersrand"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kershree",
+     "family": "Padayachee",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of the Witwatersrand"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Studi e ricerche",
+    "Blended Learning and the Global South\n Virtual Exchanges in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.30687/978-88-6969-529-2/003"
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>This chapter presents a case of successful integration of digital curation in a repeating series of blended classroom activities. Digital curation, in education, can be understood as the collection, organization, interpretation, summary, and sharing of online resources by learners on a topic of inquiry. This research reports on a blended digital curation learning design integrated into a third-year university course. A digital curation activity sequence development process and the classroom activity structure form the basis of the educational implementation presented here. In theory, digital curation activities can support the sharing of collected resources between learners. In practice, digital curation learning activities in higher education can also support blended and flipped classroom engagement models while providing opportunities for the development of critical thinking skills. The chapter describes the activities, the learning design, and the outcomes of a digital curation activity sequence. This provides other educators with a learning design roadmap for engaging students in pre-lecture activities or blended learning that adds value to classroom lectures.</jats:p>",
+   "DOI": "10.4018/978-1-4666-6280-3.ch014",
+   "type": "book-chapter",
+   "title": [
+    "Blended Learning and Digital Curation"
+   ],
+   "author": [
+    {
+     "given": "Nathaniel",
+     "family": "Ostashewski",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Curtin University, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Romana",
+     "family": "Martin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Curtin University, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrew",
+     "family": "Brennan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Curtin University, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Higher Education and Professional Development",
+    "Models for Improving and Optimizing Online and Blended Learning in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-4666-6280-3.ch014"
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>As institutions harness the growing mobility in the lives of students and recognize the expanding terrain of possibilities by incorporating innovative active blended learning approaches, it is imperative to reimagine education itself. Connectivity and active blended learning can open doors for focused interactions, fostering deeper understanding through synchronous and asynchronous learning. The level of attention given by programs to active blended learning can sometimes portend success – programs with strong strategies and methods find ways to flip classrooms, deploy practical skill-based experiences, and design rigorous engagement initiatives. How can more programs take advantage of active blended learning methodologies and approaches to engage communities of inquiry for collaborative learning across borders?</jats:p>",
+   "DOI": "10.4018/978-1-7998-7856-8.ch003",
+   "type": "book-chapter",
+   "title": [
+    "Expanding the Terrain of Online Higher Education Through Active Blended Learning"
+   ],
+   "author": [
+    {
+     "given": "Terra",
+     "family": "Gargano",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "American University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Julia",
+     "family": "Zeigler",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "American University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Educational Technologies and Instructional Design",
+    "Cases on Active Blended Learning in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2,
+      12
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-7998-7856-8.ch003"
+  },
+  {
+   "DOI": "10.1007/978-981-33-4106-7_8",
+   "title": [
+    "Development, Implementation, and Effectiveness of Using an Online Lesson in Visual Arts Education: A Design-Based Study"
+   ],
+   "container-title": [
+    "Blended Learning for Inclusive and Quality Higher Education in Asia"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-33-4106-7_8",
+   "author": [
+    {
+     "given": "Cheung On",
+     "family": "Tam",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>Pedagogical values directly affect student performance and, therefore, are essential to successful teaching practice. It is absolutely critical that post-secondary educators examine and reflect on their pedagogical values because these principles pave the path for student success. This chapter describes four pedagogical values that are critical to student success within the context of online and blended learning environments in higher education: 1) value of care; 2) value of diversity; 3) value of community; and 4) value of justice.</jats:p>",
+   "DOI": "10.4018/978-1-5225-5557-5.ch005",
+   "type": "book-chapter",
+   "title": [
+    "Pedagogical Values in Online and Blended Learning Environments in Higher Education"
+   ],
+   "author": [
+    {
+     "given": "Sophia",
+     "family": "Palahicky",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Royal Roads University, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Donna",
+     "family": "DesBiens",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Royal Roads University, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ken",
+     "family": "Jeffery",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Royal Roads University, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Keith Stuart",
+     "family": "Webster",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Royal Roads University, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Higher Education and Professional Development",
+    "Handbook of Research on Blended Learning Pedagogies and Professional Development in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-5225-5557-5.ch005"
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>The increase of blended instructional offerings in brick-and-mortar institutions provides leverage for the appropriate utilization of technology for instruction to optimize learning and serve a generation of learners who prefer such environments. However, the question of appropriate use of technology to improve student performance rests on teacher belief. Where faculty believe that they are content experts who should be trusted to deliver instruction as they see fit, the integration of technology becomes a choice. Some faculty see a clear demarcation between curriculum development and instruction as two separate processes involving separate activities (Heinich, 2011). The missing link appears to be a lack of appreciation for the benefits of instructional design principles that increase learning outcomes as a result of interactivity. This chapter focuses on the need for the inclusion of instructional design principles for in-service and pre-service teacher professional development to assist faculty transition effectively to blended instructional delivery. Barriers that impede the appropriate use of technology for blended delivery need to be identified and alternative approaches need to be applied to assist instructors and increase the effective use of technology in blended learning environments that are more learner-centered.</jats:p>",
+   "DOI": "10.4018/978-1-4666-6280-3.ch001",
+   "type": "book-chapter",
+   "title": [
+    "Optimizing Blended Teaching and Learning in Brick-and-Mortar Institutions"
+   ],
+   "author": [
+    {
+     "given": "Joachim Jack",
+     "family": "Agamba",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Idaho State University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Higher Education and Professional Development",
+    "Models for Improving and Optimizing Online and Blended Learning in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-4666-6280-3.ch001"
+  },
+  {
+   "DOI": "10.2991/ictvet-18.2019.67",
+   "title": [
+    "Blended Learning Effectiveness in Improving Learning Access in Higher Education"
+   ],
+   "container-title": [
+    "Proceedings of the 5th UPI International Conference on Technical and Vocational Education and Training (ICTVET 2018)"
+   ],
+   "publisher": "Atlantis Press",
+   "issued": {
+    "date-parts": [
+     [
+      2019
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.2991/ictvet-18.2019.67",
+   "author": [
+    {
+     "given": "Hansi",
+     "family": "Effendi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>This chapter provides an argument endorsing blended learning and teaching for foreign language (FL)/second language (L2) courses, in lieu of total online learning and teaching or total face-to-face learning and teaching (FFLT). Two main arguments are posed, citing concrete examples. First, that in total online learning and teaching, one of the greatest challenges is to reduce the psychological and social distance between teacher and student that leads to a dysfunctional parser (a mental language processor) for FL/L2. And secondly, online learning and teaching encourage more input, hence clarify communication---by making not only currently incomprehensible input comprehensible but also hard-tobe-comprehended output easy-to-comprehend---- through “self-negotiation of form and meaning,” and the parser’s strategy of being “first (prosodic phrase) come, first interpreted/processed.” This chapter proceeds to strongly recommend that FL/L2 teachers make simple audio files to provide their students with spoken input to prevent students from employing the L1 strategy of “first come, last interpreted/ processed.” Furthermore, this chapter shows what kind of spoken input is to be recorded in audio files for students in Elementary Japanese II and Intermediate Japanese I.</jats:p>",
+   "DOI": "10.4018/978-1-60566-880-2.ch007",
+   "type": "book-chapter",
+   "title": [
+    "Teaching Online"
+   ],
+   "author": [
+    {
+     "given": "P. Toyoko",
+     "family": "Kang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Guam, Guam"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Mobile and Distance Learning",
+    "Cases on Online and Blended Learning Technologies in Higher Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2010
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/978-1-60566-880-2.ch007"
+  },
+  {
+   "DOI": "10.1016/j.iheduc.2019.100708",
+   "title": [
+    "The effects of online and blended experience on outcomes in a blended learning environment"
+   ],
+   "container-title": [
+    "The Internet and Higher Education"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.iheduc.2019.100708",
+   "author": [
+    {
+     "given": "Carlos J.",
+     "family": "Asarta",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "James R.",
+     "family": "Schmidt",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "&quot;Til va adabiyot ta`limi&quot; Davlat muassasasi",
+   "abstract": "<jats:p>This article examines the effectiveness of blended learning models within the context of higher education institutions in Uzbekistan. Blended learning – understood as the intentional integration of face-to-face instruction with digital learning tools – has been steadily gaining prominence worldwide. In Uzbekistan, this pedagogical trend has been accelerated by digitalization reforms, global educational shifts, and post-pandemic transformations. Drawing on international research, local policy documents, and actual practice observed in Uzbek universities, this paper explores the pedagogical, technological, and institutional factors shaping blended learning outcomes.</jats:p>",
+   "DOI": "10.68668/fvp/1562",
+   "type": "journal-article",
+   "title": [
+    "Effectiveness of Blended learning models in uzbek higher education"
+   ],
+   "author": [
+    {
+     "family": "Maftuna Ibraximova",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "English language Uzbekistan State World Languages University Angren faculty"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Filologiya va pedagogika"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.68668/fvp/1562"
+  },
+  {
+   "DOI": "10.4018/978-1-60566-880-2.chtpg",
+   "title": [
+    "Title Page"
+   ],
+   "container-title": [
+    "Cases on Online and Blended Learning Technologies in Higher Education"
+   ],
+   "publisher": "IGI Global",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4018/978-1-60566-880-2.chtpg"
+  },
+  {
+   "DOI": "10.4018/978-1-60566-880-2.chcrp",
+   "title": [
+    "Copyright Page"
+   ],
+   "container-title": [
+    "Cases on Online and Blended Learning Technologies in Higher Education"
+   ],
+   "publisher": "IGI Global",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4018/978-1-60566-880-2.chcrp"
+  }
+ ]
+}

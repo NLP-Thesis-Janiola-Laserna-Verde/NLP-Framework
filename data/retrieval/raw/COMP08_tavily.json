@@ -1,0 +1,166 @@
+{
+ "query": "Large language models for automated code generation in software engineering",
+ "retrieved_at": "2026-11-18T17:46:41.931581+00:00",
+ "data": [
+  {
+   "url": "https://www.alphaxiv.org/abs/2503.01245",
+   "title": "Large Language Models for Code Generation: A Comprehensive Survey of  Challenges, Techniques, Evaluation, and Applications",
+   "content": "Foundational Tasks include core code generation and completion capabilities. GitHub Copilot provides real-time, context-sensitive code suggestions that enhance developer productivity and code quality in integrated development environments. Code Llama (Meta AI) offers specialized models optimized for code generation and completion, including Python-specific and instruction-tuned versions that excel in fill-in-the-middle (FIM) tasks. ToolGen addresses repository-level code generation challenges [...] Auxiliary Tasks support broader software engineering workflows through debugging and translation capabilities. GPT-4 demonstrates top-tier performance in code generation while showing ability to learn from errors in debugging scenarios and accurately translate code between multiple programming languages. Codex exhibits competitive bug detection and fixing capabilities on benchmarks like QuixBugs, even without explicit training for Automatic Program Repair (APR). Flourine provides end-to-end [...] Benchmark Datasets provide standardized testing environments for model comparison. HumanEval serves as a foundational benchmark with 164 Python programming challenges focused on function-level code generation. ClassEval addresses more complex scenarios with 100 Python tasks targeting class-level code generation, revealing that current LLMs perform significantly worse at this higher level of abstraction. SWE-bench targets real-world software engineering with 2,294 tasks derived from GitHub",
+   "score": 0.7897206,
+   "raw_content": null,
+   "id": "2cf1ea-00"
+  },
+  {
+   "url": "https://medium.com/@sunnypatel124555/automated-code-generation-with-large-language-models-llms-0ad32f4b37c8",
+   "title": "Automated Code Generation with Large Language Models (LLMs) | by Sunny Patel | Medium",
+   "content": "The advent of large language models has undeniably transformed the landscape of software development. As our advanced study illustrates, tools like GPT-4, Code Llama, Codex, and AlphaCode have progressed automated code generation from a speculative idea to a practical reality. These models now assist developers in writing code faster, tackling unfamiliar domains, and even solving complex programming problems once reserved for experts. The introduction of LLMs into coding is not merely an [...] complex multi-step problem descriptions and tended to generate “average” quality code reflecting common GitHub patterns (often lacking optimality or proper error-handling) ([()). This indicated that while Codex learned to mimic code, it wasn’t explicitly trained to optimize for best practices or security. OpenAI’s release of Codex (via the Copilot tool) sparked discussions on the broader impacts of AI code generation on software engineering, safety, and economics ([[2107.03374] Evaluating Large [...] In conclusion, AI-driven code generation stands at the threshold of becoming a standard component of software engineering. Just as high-level programming languages and IDEs were innovations that abstracted and automated aspects of coding, LLMs are set to abstract the generation of code itself from intent. This will not replace the need for human developers — rather, it will elevate their work. Developers will spend more time designing, guiding, and refining, and less time writing boilerplate or",
+   "score": 0.7757747,
+   "raw_content": null,
+   "id": "fd188e-01"
+  },
+  {
+   "url": "https://yorkspace.library.yorku.ca/items/68255a60-14ab-4b02-a50b-74ab7dd3da6b",
+   "title": "Investigating Effectiveness of Large Language Models in Automated Software Engineering",
+   "content": "Secondly, we compare GPT-4 prompting with fine-tuned baselines for ASE tasks, i.e. code summarization, generation, and translation. GPT-4 excels with task-specific prompts in some tasks (e.g., comment generation), but fine-tuned models remain stronger for code generation and translation. A user study shows conversational, iterative prompting significantly boosts perceived usefulness and output quality. [...] First, we investigate Machine Learning (ML) code generation with fine-tuned models. We observe that models perform better on ML tasks than on general programs. However, generated code improves developer performance primarily by hinting at correct APIs, suggesting generation decomposition and incorporating human feedback. [...] ## Abstract\n\nArtificial intelligence has reshaped automated software engineering (ASE), shifting practice from task-specific fine-tuning of deep learning (DL) models towards promptbased interaction with large language models (LLMs). This work addresses the unresolved question of when or how to use traditional fine-tuned models versus LLM prompting for code and proposes guidance grounded in empirical evidence.",
+   "score": 0.7516481,
+   "raw_content": null,
+   "id": "aea708-02"
+  },
+  {
+   "url": "https://www.sonarsource.com/resources/library/llm-code-generation",
+   "title": "LLMs for Code Generation: A summary of the research on quality | Sonar",
+   "content": "In the realm of code generation, a few code LLMs have garnered significant attention due to their capabilities and the quality of code they produce. Among the most well-known are:\n\n Codex: Created by OpenAI, the maker of ChatGPT, and used originally to power GitHub Copilot\n StarCoder: Created by Hugging Face\n Code Llama: Created by Meta (formerly Facebook)\n PaLM 2: Create by Google AI\n\nIn this section, we’ll explore the intersection between code-generating LLMs and code quality. [...] Codex: Began with GPT-3 and then further trained on a large dataset of diverse code samples from GitHub (159 GB of Python code and 54 million GitHub repositories), ensuring a broad understanding of software engineering paradigms.\n StarCoder: Also trained on a vast dataset from GitHub that covered over 80 programming languages, and then further trained on Python.\n Code Llama: Began with Llama 2, applied fine-tuning with additional training on code-specific datasets. [...] Large language model (LLM) code generation involves using generative AI (GenAI) to write software code.\n\nBy leveraging natural language processing (NLP), machine learning (ML) algorithms, and deep learning, these models are trained on vast amounts of existing programming code.\n\nWhen given a brief description of functionality in natural human language, the LLM can generate the source code for complex computer programs with speed and accuracy.",
+   "score": 0.74372685,
+   "raw_content": null,
+   "id": "dbb419-03"
+  },
+  {
+   "url": "https://thesai.org/Downloads/Volume16No11/Paper_5-Leveraging_Large_Language_Models_in_the_Software_Development_Lifecycle.pdf",
+   "title": "[PDF] Leveraging Large Language Models in the Software Development ...",
+   "content": "D. Development and Implementation Large Language Models (LLMs) have shown promise in aiding various aspects of code implementation, encompassing code generation, auto-completion, refactoring, and style en-forcement. This section explores how LLMs can be leveraged in code implementation processes: 1) Code generation: LLMs can assist developers in gen-erating code snippets, functions, or even entire programs based on natural language descriptions of desired functionality. [...] Jiang et al. (2024) present a comprehensive survey on Large Language Models (LLMs) for code generation, a rapidly growing field with significant implications for software de-velopment. It addresses the gap in the literature regarding a systematic review of LLMs specifically for code generation. It introduces a taxonomy to categorize and analyze advancements in this domain, covering data curation, model performance, ethical concerns, environmental impact, and real-world appli-cations. The [...] 2024) Moderate Architecture & Design UML generation, architecture suggestions, pattern se-lection, tradeoff reasoning ICSA-C 2024 studies, industrial case reports Low–Moderate Implementation Code generation, auto-completion, refactoring, code translation HumanEval, SWE-Bench, MBPP, BigCodeBench High Testing Unit test generation, fuzzing, test oracles, defect local-ization ChatUniTest (FSE 2024), ICST 2024 results Moderate–High Deployment CI/CD generation, IaC templates, environment config",
+   "score": 0.717408,
+   "raw_content": null,
+   "id": "7eba09-04"
+  },
+  {
+   "url": "https://www.academia.edu/145502841/Intelligent_Software_Engineering_in_the_Era_of_Large_Language_Model",
+   "title": "Intelligent Software Engineering in the Era of Large Language Model",
+   "content": "and implicit design decisions accumulated over years of evolution. By early 2023, large language models trained on diverse source-code corpora enabled a new class of developer copilots that could infer semantic meaning across functions, classes, and modules, supporting automated code understanding, contextual explanation, and intent-aware suggestions directly within everyday development workflows. Rather than operating as isolated generators, these copilots integrate deeply with the .NET [...] The integration of large language models (LLMs) into software engineering workflows has substantially accelerated automation across code generation, debugging, refactoring, automated test creation, and documentation tasks. Controlled evaluations and industry reports document productivity gains ranging from 20–55% in repetitive coding activities. However, persistent challenges of hallucinations, output inconsistency, and high token-based inference costs continue to limit reliable [...] lifecycle, from high-level abstraction to detailed code generation, thereby systematically improving the automation level of software development. A key aspect of this architecture is the integrated iterative refinement process, which ensures system consistency and enables effective modifications in response to emerging changes. By utilizing the capabilities of LLMs in automated code generation , the Six-Tier Architecture offers a robust, flexible, and dynamic approach to AI-assisted software",
+   "score": 0.7129322,
+   "raw_content": null,
+   "id": "ea4329-05"
+  },
+  {
+   "url": "https://talent500.com/blog/llms-for-software-development",
+   "title": "LLMs in Software Development: Code Easier & Faster",
+   "content": "Example: A software programmer can write a command in simple, human-like language for the LLM model to create a function that calculates the factorial of a number. The LLM will generate the corresponding code in the desired programming language.\n\n### Real-time Code Suggestions and Autocompletion [...] LLM models, such as GPT-3 and BERT, offer optimal suggestions for design patterns and system structures based on specific needs.\n\n Example: A team designing a microservices architecture can use LLMs to generate design concepts, propose alternative architectures, and offer creative insights.\n\n### Automated Testing\n\nLLMs generate unit tests, integration tests, and test automation scripts, saving QA engineers time. [...] ### Natural Language Code Generation\n\nSoftware engineers can save significant time and effort through the remarkable code-generation capabilities of LLMs. By interpreting natural language descriptions, LLMs can complete desired tasks or functionalities. This expedites the development process and makes coding more accessible to a wide range of users, regardless of their technical experience.",
+   "score": 0.7100255,
+   "raw_content": null,
+   "id": "ad4482-06"
+  },
+  {
+   "url": "https://ijisae.org/index.php/IJISAE/article/view/7942",
+   "title": "Enhancing Software Development through Prompt Engineering A Study on Large Language Models for Code Generation and Developer Productivity | International Journal of Intelligent Systems and Applications in Engineering",
+   "content": "Large Language Models (LLMs) are increasingly changing Software Development with capabilities to generate code snippets, debug, etc., and towards design work as well. Successful outcomes using LLMs is heavily reliant on prompt engineering. Well-designed prompts influence the quality of generated code, improve developer workflows, and build effective human-computer interactivity in the use of LLM models. This study examines prompt engineering in improving developer productivity via a designed [...] Wang T, Zhou N, Chen Z. Enhancing computer programming education with llms: A study on effective prompt engineering for python code generation. arXiv preprint arXiv:2407.05437. 2024 Jul 7.\n\nLi Y, Shi J, Zhang Z. An approach for rapid source code development based on ChatGPT and prompt engineering. IEEE Access. 2024 Apr 8;12:53074-87. [...] ### Downloads\n\nDownload data is not yet available.\n\n## References\n\nRose, Leema. \"An Efficient Transformer-Based Model for Automated Code Generation: Leveraging Large Language Models for Software Engineering.\" International Journal of Emerging Research in Engineering and Technology 1.3 (2020): 1-9.",
+   "score": 0.6959583,
+   "raw_content": null,
+   "id": "ce3f90-07"
+  },
+  {
+   "url": "https://escholarship.org/content/qt1n0554j2/qt1n0554j2_noSplash_13710fc5437ad4325ce06643bced09d8.pdf",
+   "title": "Large Language Models for Programming Industrial Control Systems and Mitigating Real-World Software Vulnerabilities",
+   "content": "LLM Finetuning for Code Review Automation has also been attempted by  through the use of LoRA-based methods to improve the Llama LLM. The authors’ approach uses a LoRA-Augmented LLM as an automated Code Review agent and forwards its feedback into the code-generation agent to enable better quality code output. Their findings show that LoRA is the preferred method for fine-tuning code generation in this context. Supplying stricter feedback in this process has also been explored in CodeRL , where [...] The popularization of Large Language Models has catalyzed significant interest in their use in many disparate fields. Specifically, the success of automated code generation has been greatly accelerated by improvements in the logical reasoning ability of these models . State-of-the-art models like GPT-4o  have revolutionized the landscape compared to their predecessors such as CodeBERT . Moreover, further advances in code synthesis have led to the refinement of methods for generating correct, [...] The popularization of Large Language Models has catalyzed significant interest in their use in many disparate fields. Specifically, the success of automated code generation has been greatly accelerated by improvements in the logical reasoning ability of these models . State-of-the-art models like GPT-4o  have revolutionized the landscape compared to their predecessors such as CodeBERT . Moreover, further advances in code synthesis have led to the refinement of methods for generating correct,",
+   "score": 0.68236214,
+   "raw_content": null,
+   "id": "ab54dd-08"
+  },
+  {
+   "url": "https://aro.koyauniversity.org/index.php/aro/article/view/2159",
+   "title": "A Systematic Survey on Large Language Models for Code Generation | ARO-THE SCIENTIFIC JOURNAL OF KOYA UNIVERSITY",
+   "content": "The rapid development of large language models (LLMs) has transformed code generation, offering powerful tools for automating software development tasks. However, evaluating generated code’s quality, security, and effectiveness remains a significant challenge. The present systematic survey comprehensively analyses studies published between 2021 and 2024, focusing on utilizing LLMs in the code generation process. The survey explored ten research questions, such as the most commonly used [...] most commonly used programming languages, the metrics employed to evaluate the quality of code, and scenarios in which LLMs are applied by developers during the software development process, outlining the scope in which prompt engineering influences code generation and security concerns with the types of benchmarks, models evaluated, and code analysis tools used in studies. The findings indicate that the most frequently used evaluation metrics in code generation are Pass@k and Bilingual [...] Jiang, X., Dong, Y., Wang, L., Zheng, F., Shang, Q., Li, G., Jin, Z., and Jiao, W., 2024. Self-planning code generation with large language models. ACM Transactions on Software Engineering and Methodology, 33, p.182. DOI:",
+   "score": 0.67779404,
+   "raw_content": null,
+   "id": "8aabc2-09"
+  },
+  {
+   "url": "https://conf.researchr.org/details/staf-2025/llm4se-2025-papers/2/Large-Language-Models-for-Game-Development-A-Survey-on-Automated-Code-Generation",
+   "title": "Large Language Models for Game Development: A Survey on Automated Code Generation (LLM4SE 2025 - First Large Language Models for Software Engineering Workshop (LLM4SE 2025)) - STAF 2025",
+   "content": "Large Language Models (LLMs) are increasingly utilised in software development, particularly for automatic code generation. Game development, a complex and multidisciplinary field, has begun leveraging LLMs to streamline various stages of the development process. This paper focuses on the application of LLMs in automating code generation for game development, providing a comprehensive survey of existing research from multiple perspectives. We analyse the benefits and limitations of LLM-based [...] of LLM-based approaches in this domain and identify key challenges. Our findings highlight the potential of LLMs to enhance game development workflows, while outlining future research directions to address existing limitations. [...] | 30m  Research paper | AIPyCraft: AI-Assisted Software Development Lifecycle for 6G Blockchain Oracle Validation LLM4SE  Antonio Alberti University of Leeds, Alexis Leal Federal Institute of Mato Grosso (Brazil), Ariel Dalla-Costa Universidade do Vale do Rio dos Sinos, Cristiano Both University of Vale do Rio dos Sinos (UNISINOS) |",
+   "score": 0.6423203,
+   "raw_content": null,
+   "id": "b55eb1-10"
+  },
+  {
+   "url": "https://pure.roehampton.ac.uk/portal/en/publications/large-language-models-for-game-development-a-survey-on-automated-",
+   "title": "Large Language Models for Game Development: A Survey on Automated Code Generation - University of Roehampton Research Explorer",
+   "content": "Large Language Models (LLMs) are increasingly utilised in software development, particularly for automatic code generation. Game development, a complex and multidisciplinary field, has begun leveraging LLMs to streamline various stages of the development process. This paper focuses on the application of LLMs in automating code generation for game development, providing a comprehensive survey of existing research from multiple perspectives. We analyse the benefits and limitations of LLM-based [...] abstract = \"Large Language Models (LLMs) are increasingly utilised in software development, particularly for automatic code generation. Game development, a complex and multidisciplinary field, has begun leveraging LLMs to streamline various stages of the development process. This paper focuses on the application of LLMs in automating code generation for game development, providing a comprehensive survey of existing research from multiple perspectives. We analyse the benefits and limitations of [...] N2 - Large Language Models (LLMs) are increasingly utilised in software development, particularly for automatic code generation. Game development, a complex and multidisciplinary field, has begun leveraging LLMs to streamline various stages of the development process. This paper focuses on the application of LLMs in automating code generation for game development, providing a comprehensive survey of existing research from multiple perspectives. We analyse the benefits and limitations of",
+   "score": 0.62337685,
+   "raw_content": null,
+   "id": "5d61ba-11"
+  },
+  {
+   "url": "https://www.sei.cmu.edu/blog/application-of-large-language-models-llms-in-software-engineering-overblown-hype-or-disruptive-change",
+   "title": "Application of Large Language Models (LLMs) in Software Engineering: Overblown Hype or Disruptive Change? | CMU Software Engineering Institute",
+   "content": "software architecture development and analysis—Early adopters are already using design vocabulary-driven prompts to guide code generation using LLMs. Using multi-model inputs to communicate, analyze, or suggest snippets of software designs via images or diagrams with supporting text is an area of future research and can help augment the knowledge and impact of software architects. [...] just-in-time developer feedback—Applications of LLMs in software development have been received with skepticism, some deserved and some undeserved. While the code generated by current AI assistants, such as Copilot, may incur more security issues, in time this will improve as LLMs are trained on more thoroughly vetted data sets. Giving developers syntactic cor­rections as they write code also helps reduce time spent in code conformance checking. [...] Conventional systems built using AI-augmented techniques—This quadrant represents an emerging area of R&D in the software engineering community, where system operations have a low degree of AI augmentation, but AI-augmented tools and methods are used in the SDLC. An example is a website hosting service where the content is not AI augmented, but the development process employs AI-based code generators (such as GitHub Copilot), AI-based code review tools (such as Codiga), and/or AI-based testing",
+   "score": 0.61479884,
+   "raw_content": null,
+   "id": "2e3a56-12"
+  },
+  {
+   "url": "https://github.com/iSEngLab/AwesomeLLM4SE",
+   "title": "GitHub - iSEngLab/AwesomeLLM4SE: [SCIS 2025] A Survey on Large Language Models for Software Engineering · GitHub",
+   "content": "1. 🔥A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation [2024-arXiv]\n2. 🔥LeDex: Training LLMs to Better Self-Debug and Explain Code [2024-NeurIPS]\n3. 🔥EffiLearner: Enhancing Efficiency of Generated Code via Self-Optimization [2024-NeurIPS]\n4. 🔥ACES: Generating a Diversity of Challenging Programming Puzzles with Autotelic Generative Models [2024-NeurIPS] [...] 8. 🔥Towards the Integration of Large Language Models and Automatic Assessment Tools: Enhancing Student Support in Programming Assignments 2024-[Koli Calling]\n9. 🔥Enhancing Software Design and Developer Experience Via LLMs[2024-ASE]\n10. 🔥Test-Driven Development and LLM-based Code Generation[2024-ASE]\n11. 🔥PACGBI: A Pipeline for Automated Code Generation from Backlog Items[2024-ASE]\n12. 🔥LLM4Workflow: An LLM-based Automated Workflow Model Generation Tool[2024-ASE] [...] 15. 🔥SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents [2024-NeurIPS]\n16. 🔥ACES: Generating a Diversity of Challenging Programming Puzzles with Autotelic Generative Models [2024-NeurIPS]\n17. 🔥LProtector: An LLM-driven Vulnerability Detection System [2024-arXiv]\n18. 🔥An Empirical Study on the Potential of LLMs in Automated Software Refactoring [2024-arXiv]\n19. 🔥DSLXpert: LLM-driven Generic DSL Code Generation [2024-arXiv]",
+   "score": 0.5988988,
+   "raw_content": null,
+   "id": "bcc9e3-13"
+  },
+  {
+   "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1ip7yhf/llms_are_fundamentally_incapable_of_doing",
+   "title": "LLMs are fundamentally incapable of doing software engineering.",
+   "content": "Where an llm shines is in doing the code writing part very fast to implement and test your assumptions. Just don't expect an llm to do all the",
+   "score": 0.5911333,
+   "raw_content": null,
+   "id": "02192d-14"
+  },
+  {
+   "url": "https://www.ideals.illinois.edu/items/134464",
+   "title": "Harnessing large language models for software engineering | IDEALS",
+   "content": "Automatic code generation, often referred to as program synthesis, has seen remarkable progress with the emergence of large language models (LLMs) trained on",
+   "score": 0.5686554,
+   "raw_content": null,
+   "id": "e826a4-15"
+  },
+  {
+   "url": "https://llm4code.github.io/papers",
+   "title": "Accepted Papers | LLM4Code 2027",
+   "content": "| An Initial Exploration of Contrastive Prompt Tuning to Generate Energy-Efficient Code | Sophie Weidmann, Fernando Castor |\n| Benchmarking LLM Commit Message Generation through a Developer-centric Pairwise Preference Framework | Lucas Aguiar, Matheus Freitas, Matheus Paixao, Rafael Carmo |\n| Code Roulette: How Prompt Variability Affects LLM Code Generation | Andrei Paleyes, Diana Robinson, Radzim Sendyka, Christian Cabrera, Neil D. Lawrence | [...] | Towards Improving in-IDE Code Completion for Driver Development | Batuhan Raif Karagoz, Mahesh Jayasankar, Saurabh Bodhe, Subhayan Roy, Lejin Varghese, Max Kiehn, Yonas Bedasso |\n| Towards LLM-guided Semantic Validation of Autonomous Driving Safety Policies 📝 | Qingzhao Zhang, Z. Morley Mao |\n| TritonForge: Profiling-Guided Framework for Automated Triton Kernel Optimization | Haonan Li, Keyu Man, Partha Kanuparthy, Hanning Chen, Wei Sun, Sreen Tallam, Chenguang Zhu, Kevin Zhu, Zhiyun Qian | [...] | LLM-Driven SQL Remediation: Towards Safe and Explainable Code for Automated Schema Refactoring | Antony Medeiros, Claudio Cavalcante, Nicolaas Ruberg, Sergio Lifschitz |\n| LLM-Powered On-Demand Test Suites in Self-Graded Student Programming Assignments 💬 | Chang Liu |\n| MAsFL: Data-Secure, Efficient and Accurate Fault Localization with Multi-Agent Small Language Models | DUONG PHAM DUC, HIROSHI SATO, MASAO KUBO |",
+   "score": 0.5200546,
+   "raw_content": null,
+   "id": "ae4ee8-16"
+  },
+  {
+   "url": "https://par.nsf.gov/biblio/10419705-benchmarking-large-language-models-automated-verilog-rtl-code-generation",
+   "title": "Benchmarking Large Language Models for Automated Verilog RTL Code Generation | NSF Public Access Repository",
+   "content": "US Flag\ndot gov icon\nhttps lock icon\nNSF Public Access Repository, A partnership with the Department of Energy, Office of Scientific and Technical Information\nNational Science Foundation Logo\n\n##### More Like this\n\nAccepted Manuscript\n\n#### Warning: Leaving National Science Foundation Website\n\nNational Science Foundation Logo",
+   "score": 0.4522033,
+   "raw_content": null,
+   "id": "4cb4ad-17"
+  },
+  {
+   "url": "https://www.computer.org/csdl/proceedings-article/icse-fose/2023/249600a031/1V2wtSLtltu",
+   "title": "Large Language Models for Software Engineering: Survey and Open Problems",
+   "content": "This paper provides a survey of the emerging area of Large Language Models (LLMs) for Software Engineering (SE). It also sets out open research challenges for the application of LLMs to technical problems faced by software engineers. LLMs' emergent properties bring novelty and creativity with applications right across the spectrum of Software Engineering activities including coding, design, requirements, repair, refactoring, performance improvement, documentation and analytics. However, these [...] Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models  \n2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)\n   Manifestations of Empathy in Software Engineering: How, Why, and When It Matters  \nIEEE Transactions on Software Engineering\n   Code Readability in the Age of Large Language Models: An Industrial Case Study from Atlassian [...] # Large Language Models for Software Engineering: Survey and Open Problems\n\nYear: 2023, Pages: 31-53\n\nDOI Bookmark: 10.1109/ICSE-FoSE59343.2023.00008\n\n#### Authors",
+   "score": 0.41223437,
+   "raw_content": null,
+   "id": "2d0905-18"
+  },
+  {
+   "url": "https://devm.io/machine-learning/llm-software-development-coding",
+   "title": "Coding with Cognition: The LLM Revolution in Software Development",
+   "content": "Skip to content\n\n \n\n{{loadedArticle.subtitle}}\n\n# {{loadedArticle.name}}\n\n{{category.name}}\n\nIssues: {{loadedArticle.issue.designation}} Issues: {{loadedArticle.issue.designation}}\n\n{{loadedArticle.publishedAt | daymonthyear}}\n\n \n\n{{loadedArticle.subtitle}}\n\n# {{loadedArticle.name}}\n\n{{category.name}}\n\nIssues: {{loadedArticle.issue.designation}} Issues: {{loadedArticle.issue.designation}}\n\n{{loadedArticle.publishedAt | daymonthyear}}\n\n{{author.name}}  {{author.name}} [...] {{author.platformPartner.name}}\n\n{{author.name}}  {{author.name}}\n\n{{author.bio}}\n\n### More articles on this topic\n\n### {{article.subtitle}}\n\n### {{article.name}}\n\n{{anAuthor.name}}\n\n### More articles on this topic\n\n### {{article.subtitle}}\n\n### {{article.name}}\n\n{{anAuthor.name}}\n\nDesktop Tablet Mobile\n\n[\n\nGen AI Engineering Days 2024\n\nLive on 29 & 30. October 2024 | 13:00 – 16:30 CEST\n\nRegister here](",
+   "score": 0.22185606,
+   "raw_content": null,
+   "id": "6dd1d7-19"
+  }
+ ]
+}

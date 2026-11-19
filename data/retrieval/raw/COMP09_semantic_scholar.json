@@ -1,0 +1,867 @@
+{
+ "query": "Blockchain applications for secure data sharing",
+ "retrieved_at": "2026-11-18T17:46:45.613381+00:00",
+ "data": [
+  {
+   "paperId": "489397402fa1298e67ec0b929c46e3c62fce8a9f",
+   "externalIds": {
+    "DOI": "10.52783/jisem.v10i37s.6381",
+    "CorpusId": 278187505
+   },
+   "url": "https://www.semanticscholar.org/paper/489397402fa1298e67ec0b929c46e3c62fce8a9f",
+   "title": "Blockchain-Based Secure Data Sharing for IoT Applications",
+   "venue": "Journal of Information Systems Engineering & Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://jisem-journal.com/index.php/journal/article/download/6381/2935",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52783/jisem.v10i37s.6381?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52783/jisem.v10i37s.6381, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-18",
+   "authors": [
+    {
+     "authorId": "2212367887",
+     "name": "R. Usharani"
+    }
+   ],
+   "abstract": "The swift expansion of Internet of Things (IoT) applications has brought forth considerable challenges in securing data transmission and safeguarding privacy. Conventional centralized data-sharing methods are vulnerable to single points of failure, unauthorized access, and data manipulation. This paper investigates a blockchain-based strategy for securing data sharing within IoT networks. The decentralized and immutable characteristics of blockchain bolster data integrity, confidentiality, and access control. The proposed framework utilizes smart contracts to automate data sharing and enforce access policies, ensuring that only authorized individuals can retrieve the data. Additionally, cryptographic methods such as hashing and digital signatures offer further security enhancements. Performance assessments indicate that the blockchain-based approach enhances data privacy, minimizes unauthorized access, and fosters trust among IoT devices. The research underscores that the integration of blockchain with IoT significantly improves data security and establishes a dependable and scalable data-sharing framework, making it suitable for real-time applications in smart homes, healthcare, and industrial automation."
+  },
+  {
+   "paperId": "2c4e83124c8740bb633fc3599786824a723fa578",
+   "externalIds": {
+    "DBLP": "journals/access/SenHT25",
+    "DOI": "10.1109/ACCESS.2025.3593953",
+    "CorpusId": 280435775
+   },
+   "url": "https://www.semanticscholar.org/paper/2c4e83124c8740bb633fc3599786824a723fa578",
+   "title": "A Comprehensive Review of Cryptographic Techniques in Federated Learning for Secure Data Sharing and Applications",
+   "venue": "IEEE Access",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/access.2025.3593953",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3593953?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3593953, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2288084614",
+     "name": "Anik Sen"
+    },
+    {
+     "authorId": "1775589",
+     "name": "Swee-Huay Heng"
+    },
+    {
+     "authorId": "2310887599",
+     "name": "Shing-Chiang Tan"
+    }
+   ],
+   "abstract": "The demand for secure data sharing is growing fast in sensitive domains like healthcare, finance, and IoT. Federated Learning (FL) introduces a decentralised machine learning paradigm whereby models can be trained over distributed nodes without sharing data. Despite its promise, FL faces significant security challenges, such as gradient inversion, model poisoning, and privacy leakage, which involve strong cryptographic techniques. Some cryptographic techniques have been proposed to address potential security concerns in the FL environment. This study provides an overview of the major techniques that include Homomorphic Encryption (HE), Secure Multi-Party Computation (SMPC), Differential Privacy (DP), blockchain integration, and emerging hybrid approaches, and their applications from different perspectives. The techniques, along with their respective strengths and weaknesses, are systematically compared to ensure the identification of appropriate application domains. This review addresses hybrid approaches that combine multiple techniques to achieve an optimal trade-off between privacy, computational efficiency, and scalability. Key challenges such as computational overhead, scalability limitations, and the privacy-utility trade-off are identified, along with notable research gaps in the field. Future directions emphasise on the development of optimised hybrid techniques and strategies to alleviate computational and communication overheads in resource-constrained environments. This study therefore reviews those aspects that might provide useful insights to researchers and practitioners in the development of secure, scalable, and computationally efficient FL systems, and hence facilitate their practical implementation in privacy-sensitive domains."
+  },
+  {
+   "paperId": "745c44e540f5cca30c914a4c0272a936df57b391",
+   "externalIds": {
+    "PubMedCentral": "10172726",
+    "DBLP": "journals/jrie/UpadristaNT23",
+    "DOI": "10.1007/s40860-023-00204-w",
+    "CorpusId": 258648828,
+    "PubMed": "37359293"
+   },
+   "url": "https://www.semanticscholar.org/paper/745c44e540f5cca30c914a4c0272a936df57b391",
+   "title": "Secure data sharing with blockchain for remote health monitoring applications: a review",
+   "venue": "Journal of Reliable Intelligent Environments",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s40860-023-00204-w.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10172726, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-05-11",
+   "authors": [
+    {
+     "authorId": "71312531",
+     "name": "Venkatesh Upadrista"
+    },
+    {
+     "authorId": "3249141",
+     "name": "S. Nazir"
+    },
+    {
+     "authorId": "1915936",
+     "name": "H. Tianfield"
+    }
+   ],
+   "abstract": "Remote Health Monitoring (RHM) is going to reinvent the future healthcare industry and bring about abundant value to hospitals, doctors, and patients by overcoming the many challenges currently being faced in monitoring patient’s well-being, promoting preventive care, and managing the quality of drugs and equipment. Despite the many benefits of RHM, it is yet to be widely deployed due to the healthcare data security and privacy challenges. Healthcare data are highly sensitive and require fail-safe measures against unauthorized data access, leakages, and manipulations, and as such, there are stringent regulations governing how healthcare data can be secured, communicated, and stored, such as General Data Protection Regulation (GDPR) and the Health Insurance Portability and Accountability Act (HIPAA). The challenges and regulatory demands in RHM applications can be addressed using blockchain technology due to its distinguishing features of decentralization, immutability, and transparency to address the challenges of data security and privacy. This article will provide a systematic review on the use of blockchain in RHM, focusing primarily on data security and privacy."
+  },
+  {
+   "paperId": "f1a479fa2ab3cd635633892e79539650dffe3a27",
+   "externalIds": {
+    "DBLP": "journals/tvt/CuiHLLTCASG24",
+    "DOI": "10.1109/TVT.2024.3448207",
+    "CorpusId": 272114836
+   },
+   "url": "https://www.semanticscholar.org/paper/f1a479fa2ab3cd635633892e79539650dffe3a27",
+   "title": "Secure Data Sharing for Consortium Blockchain-Enabled Vehicular Social Networks",
+   "venue": "IEEE Transactions on Vehicular Technology",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://figshare.com/articles/journal_contribution/Secure_data_sharing_for_consortium_blockchain-enabled_vehicular_social_networks/26793640",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2024.3448207?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2024.3448207, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-12-01",
+   "authors": [
+    {
+     "authorId": "1878323920",
+     "name": "Mingming Cui"
+    },
+    {
+     "authorId": "2269772416",
+     "name": "Dezhi Han"
+    },
+    {
+     "authorId": "2302218646",
+     "name": "Han Liu"
+    },
+    {
+     "authorId": "69486668",
+     "name": "Kuan Ching Li"
+    },
+    {
+     "authorId": "2287016053",
+     "name": "Mingdong Tang"
+    },
+    {
+     "authorId": "2266993146",
+     "name": "Chin-Chen Chang"
+    },
+    {
+     "authorId": "3097241",
+     "name": "Ferheen Ayaz"
+    },
+    {
+     "authorId": "2275721963",
+     "name": "Zheng-Guo Sheng"
+    },
+    {
+     "authorId": "2153979351",
+     "name": "Yong-Liang Guan"
+    }
+   ],
+   "abstract": "Data sharing in Vehicular Social Networks (VSNs) is an essential road service that assists vehicle driving and promotes intelligent transportation applications. In VSNs, vehicles regularly collect and upload valuable data to share with other vehicles. Data encryption can be employed during data uploading and sharing to prevent malicious tampering and privacy disclosure. However, existing data-sharing schemes lack security, have high overhead in obtaining decrypted data, and show low trust in the central authority controlling the entire network. To facilitate data sharing in VSNs, this paper proposes a new scheme using consortium blockchain to realize secure data sharing. Nodes in the blockchain invoke smart contracts and implement the location-based Speculative Byzantine Fault Tolerance (LSBFT) to accomplish data-sharing transactions among vehicles. The scheme not only ensures the security of vehicle information but also protects the privacy of the shared data. Security analysis demonstrates that the proposed scheme can resist attacks and has shown transaction fairness, data confidentiality, non-repudiation, and traceability. Simulation results show that the scheme has higher sharing efficiency and less time to reach a consensus in the data storage process."
+  },
+  {
+   "paperId": "c326e6cffca5d32b8b46043563764a1c3d67b951",
+   "externalIds": {
+    "DBLP": "journals/ppna/UllahDPMU25",
+    "DOI": "10.1007/s12083-024-01821-9",
+    "CorpusId": 274534894
+   },
+   "url": "https://www.semanticscholar.org/paper/c326e6cffca5d32b8b46043563764a1c3d67b951",
+   "title": "IoV-SFL: A blockchain-based federated learning framework for secure and efficient data sharing in the internet of vehicles",
+   "venue": "Peer-to-Peer Networking and Applications",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.researchsquare.com/article/rs-3648280/latest.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12083-024-01821-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12083-024-01821-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-12-06",
+   "authors": [
+    {
+     "authorId": "9275869",
+     "name": "Irshad Ullah"
+    },
+    {
+     "authorId": "2309436757",
+     "name": "Xiao-Heng Deng"
+    },
+    {
+     "authorId": "73162793",
+     "name": "Xin-Jun Pei"
+    },
+    {
+     "authorId": "2315747123",
+     "name": "Husnain Mushtaq"
+    },
+    {
+     "authorId": "2267652297",
+     "name": "Muhammad Uzair"
+    }
+   ],
+   "abstract": "The emergence of the Internet of Vehicles (IoV) signifies a transformative paradigm for intelligent and interconnected transportation systems. However, the effective sharing of data within the IoV ecosystem presents significant challenges including security, privacy, and efficiency. To address these challenges, this paper introduces the IoV-SFL, a novel framework that seamlessly integrates Federated Learning (FL) and blockchain technology to provide a comprehensive solution. By employing federated learning, IoV-SFL framework ensures that data remains on local devices, preserving user privacy, while consortium blockchain enhances security and transparency. Furthermore, the IoV-SFL framework also leverages the capabilities of Homomorphic Encryption (HE) and Dynamic Scaling Factor to enable privacy-preserving computations, optimize resource allocation, and enhance efficiency. The incorporation of Gated Recurrent Units (GRU) within the Convolutional Neural Networks (CNN) model empowers the IoV-SFL framework to extract meaningful insights from heterogeneous data streams. Rigorous experiments have validated the superior performance of the IoV-SFL framework compared to conventional approaches in terms of security, communication efficiency, model accuracy, and convergence speed. Additionally, a comprehensive security and privacy analysis highlights IoV-SFL’s robustness against diverse threats and vulnerabilities. The IoV-SFL framework represents a groundbreaking advancement, offering a secure and efficient means of data sharing in the Internet of Vehicles (IoV), paving the way for innovative vehicular applications and safer transportation systems."
+  },
+  {
+   "paperId": "cedc751cc420c68f21c3061dc06efc211d2e689b",
+   "externalIds": {
+    "DOI": "10.1063/5.0072467",
+    "CorpusId": 247986366
+   },
+   "url": "https://www.semanticscholar.org/paper/cedc751cc420c68f21c3061dc06efc211d2e689b",
+   "title": "Blockchain meets healthcare: Architecture for secure data sharing in unobtrusive medical applications",
+   "venue": "EIGHTH INTERNATIONAL CONFERENCE NEW TRENDS IN THE APPLICATIONS OF DIFFERENTIAL EQUATIONS IN SCIENCES (NTADES2021)",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1063/5.0072467?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1063/5.0072467, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2570205501",
+     "name": "M. Jayasudha"
+    },
+    {
+     "authorId": "2298313325",
+     "name": "C. Vijayalakshmi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ab0c0cebc11f82cadb2dae4a4bcd54f204b0d413",
+   "externalIds": {
+    "DOI": "10.48175/ijarsct-22237",
+    "CorpusId": 274042048
+   },
+   "url": "https://www.semanticscholar.org/paper/ab0c0cebc11f82cadb2dae4a4bcd54f204b0d413",
+   "title": "Blockchain Based Proxy Re-Encryption for Secure Data Sharing",
+   "venue": "International Journal of Advanced Research in Science, Communication and Technology",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.48175/ijarsct-22237",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.48175/ijarsct-22237?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48175/ijarsct-22237, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-13",
+   "authors": [
+    {
+     "authorId": "2500594097",
+     "name": "G. Ashok"
+    },
+    {
+     "authorId": "2582018675",
+     "name": "Chikane Mayur Sakharam"
+    },
+    {
+     "authorId": "2500752875",
+     "name": "J. Ashok"
+    },
+    {
+     "authorId": "2122654821",
+     "name": "G. Ghodake"
+    }
+   ],
+   "abstract": "This paper proposes a solution to secure data sharing within the Internet of Things (IoT) by combining Proxy Re-Encryption (PRE) and Blockchain. In IoT networks, data must often be shared across multiple devices and users, raising concerns over data privacy and security. Proxy Re-Encryption enables controlled data sharing without disclosing original information, while Blockchain technology offers an immutable, transparent ledger for tracking data transactions. Together, these technologies ensure data integrity, privacy, and efficient access control, making them suitable for modern IoT applications"
+  },
+  {
+   "paperId": "cc0eb0fa24084e75094b8a090d8e92c40aff0e9c",
+   "externalIds": {
+    "DOI": "10.62762/jrsc.2026.796877",
+    "CorpusId": 286909933
+   },
+   "url": "https://www.semanticscholar.org/paper/cc0eb0fa24084e75094b8a090d8e92c40aff0e9c",
+   "title": "A Blockchain-Based Revocable Identity-Based Proxy Re-Encryption Scheme with Cryptographic Reverse Firewalls for Secure Data Sharing",
+   "venue": "Journal of Reliable and Secure Computing",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://www.icck.org/filebob/uploads/storage/JRSC_4RkHqUrJ5atTAk57M.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62762/jrsc.2026.796877?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62762/jrsc.2026.796877, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-03-27",
+   "authors": [
+    {
+     "authorId": "150245877",
+     "name": "N. Hundera"
+    },
+    {
+     "authorId": "24066588",
+     "name": "Rashad Elhabob"
+    },
+    {
+     "authorId": "153493149",
+     "name": "D. Adhikari"
+    },
+    {
+     "authorId": "2256761573",
+     "name": "Hu Xiong"
+    }
+   ],
+   "abstract": "With the rapid growth of Internet of Things (IoT) applications and decentralized data-driven systems, secure and flexible data sharing remains a critical challenge. Identity-Based Proxy Re-Encryption (IB-PRE) is an effective cryptographic primitive for enabling fine-grained access delegation without exposing plaintext data. However, existing IB-PRE schemes remain vulnerable to algorithm substitution attacks (ASA), malicious key generation, inefficient ciphertext management, and the lack of practical revocation mechanisms. To address these limitations, we propose a blockchain-based revocable identity-based proxy re-encryption scheme with cryptographic reverse firewalls (BRIBPR-CRF) for secure IoT data sharing. The proposed scheme integrates CRFs into the key generation, encryption, and proxy re-encryption key generation processes to mitigate ASA and limit the impact of potentially compromised cryptographic components. An efficient identity revocation mechanism enables the removal of compromised or expired users without requiring global key updates. In addition, a consortium blockchain is employed to record initial ciphertexts and execute proxy re-encryption via smart contracts, thereby eliminating single points of failure and reducing trust assumptions compared with traditional proxy-based systems. We formally prove the security of BRIBPR-CRF in the random-oracle model. Finally, extensive performance evaluations demonstrate that the proposed scheme achieves lower communication, computation, and energy overhead compared with existing schemes, making it suitable for secure and scalable data sharing in decentralized and semi-trusted IoT environments."
+  },
+  {
+   "paperId": "ba7ab37ba1f98aeb849bb72b55a264b1010a47f1",
+   "externalIds": {
+    "DOI": "10.1016/b978-0-323-85854-0.00009-5",
+    "CorpusId": 245995820
+   },
+   "url": "https://www.semanticscholar.org/paper/ba7ab37ba1f98aeb849bb72b55a264b1010a47f1",
+   "title": "Blockchain-based secure data sharing scheme using image steganography and encryption techniques for telemedicine applications",
+   "venue": "Wearable Telemedicine Technology for the Healthcare Industry",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/b978-0-323-85854-0.00009-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/b978-0-323-85854-0.00009-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "1581541059",
+     "name": "I. Pustokhina"
+    },
+    {
+     "authorId": "1626073676",
+     "name": "D. Pustokhin"
+    },
+    {
+     "authorId": "1619570884",
+     "name": "K. Shankar"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "0a865d429e2c0ad468f9b606b48fda8433ae2f6f",
+   "externalIds": {
+    "DOI": "10.1109/I2CACIS61270.2024.10649818",
+    "CorpusId": 272305865
+   },
+   "url": "https://www.semanticscholar.org/paper/0a865d429e2c0ad468f9b606b48fda8433ae2f6f",
+   "title": "A Secure Data Sharing Platform in the Era of Web 3.0 by Leveraging the Power of Blockchain Technology",
+   "venue": "2024 IEEE International Conference on Automatic Control and Intelligent Systems (I2CACIS)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/I2CACIS61270.2024.10649818?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/I2CACIS61270.2024.10649818, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-06-29",
+   "authors": [
+    {
+     "authorId": "2583802683",
+     "name": "Christensen Choong Ming Jie"
+    },
+    {
+     "authorId": "2318894483",
+     "name": "Daveena Sri A.-P. Michael Rajah"
+    },
+    {
+     "authorId": "2318892002",
+     "name": "Gyvayhni A-P Ganisen"
+    },
+    {
+     "authorId": "2318894444",
+     "name": "Tharanitharan A.-L. Chandran"
+    },
+    {
+     "authorId": "2222275920",
+     "name": "Ahmad Sahban Rafsanjani"
+    },
+    {
+     "authorId": "1611149756",
+     "name": "Muhammed BasheerJasser"
+    }
+   ],
+   "abstract": "In the ever-evolving landscape of the internet, the emergence of Web 3.0 has ushered in a new era of decentralized applications. As researchers navigate through Web 3.0, the criticality of secure data sharing becomes evident, necessitating a robust solution to address vulnerabilities present in current methods. The existing methods grapple with vulnerabilities, especially in centralized repositories susceptible to breaches due to intricate and less secure authentication processes. Furthermore, the compromise of data integrity and privacy during the process of data sharing exacerbates the challenges faced by current methods. This research conducts a thorough examination of the pivotal role played by blockchain in enhancing security measures and empowering consumers with control over their data. Furthermore, it introduces a novel approach by proposing a secure Web 3.0 data-sharing platform, leveraging IPFS, Pinata, Smart Contracts, Meta Masks, and decentralized principles. To evaluate the security of the proposed secure data sharing platform, this study utilized two smart contract vulnerability detector tools, namely Slither and Echidna. The findings revealed a minimal presence of issues, with Slither identifying only five low-level, nonthreatening problems and Echidna indicating no critical failures. This demonstrates the platform's robustness against significant vulnerabilities such as the reentrancy attack and integer overflow and validates its ability to facilitate safe, decentralized data sharing in the context of the Web 3.0 paradigm."
+  },
+  {
+   "paperId": "0f5b7ee815733731bddba3f2bba0eaad79c05623",
+   "externalIds": {
+    "DOI": "10.1007/s41870-023-01175-0",
+    "CorpusId": 257489152
+   },
+   "url": "https://www.semanticscholar.org/paper/0f5b7ee815733731bddba3f2bba0eaad79c05623",
+   "title": "A hierarchical blockchain architecture for secure data sharing for vehicular networks",
+   "venue": "International journal of information technology",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s41870-023-01175-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s41870-023-01175-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2023-03-01",
+   "authors": [
+    {
+     "authorId": "2211388066",
+     "name": "Kripakar Srinivasan C"
+    },
+    {
+     "authorId": "2190250294",
+     "name": "Usha Divakarala"
+    },
+    {
+     "authorId": "2098364806",
+     "name": "K. Chandrasekaran"
+    },
+    {
+     "authorId": "145154255",
+     "name": "K. K. Reddy"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "1e94418c296e6288e98d4da5675b9ea101a16e47",
+   "externalIds": {
+    "DOI": "10.1109/ICDCA69396.2026.11620483",
+    "CorpusId": 290848170
+   },
+   "url": "https://www.semanticscholar.org/paper/1e94418c296e6288e98d4da5675b9ea101a16e47",
+   "title": "Optimized Blockchain Based Frameworks for Secure Healthcare Data Sharing Using Cloud Storage",
+   "venue": "2026 International Conference on Data Science for Cyber-Physical Systems Resilience using Advanced Applications (ICDCA)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/icdca69396.2026.11620483",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDCA69396.2026.11620483?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDCA69396.2026.11620483, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2026-06-01",
+   "authors": [
+    {
+     "authorId": "34442491",
+     "name": "B. Srinivas"
+    },
+    {
+     "authorId": "2285847173",
+     "name": "R. Saranya"
+    },
+    {
+     "authorId": "81379995",
+     "name": "R. Malathi"
+    },
+    {
+     "authorId": "2455615412",
+     "name": "S. M. Nathira"
+    }
+   ],
+   "abstract": "Medical data is a record of highly, sensitive information about patients that helps in diagnosis, treatment, and research. It is challenging for centralized systems to keep the data confidential, prevent unauthorized access, and lack interoperability. This work offers a secure healthcare data sharing system using a hybrid blockchain model. A private blockchain ensures data access management and a public blockchain allows transparency and auditability. Besides, smart contracts are used for automatic consent management, access control and transaction logging. Patient's data confidentiality and integrity is ensured through the use of asymmetric encryption, hashing via the SHA, 256 algorithm and digital signatures. The model further implements homomorphic encryption in order to carry out medical data computation while keeping the data encrypted and therefore patient privacy is not compromised. This method also allows the use of encrypted data in privacy preservation analytics and research. Role, Based Access Control (RBAC) limits data access to authorized healthcare entities only. Medical data that is voluminous is stored off, chain whereas metadata and access records are kept securely on the blockchain. The combination of blockchain, cryptographic tools, and privacy, preserving techniques significantly improves the security, trust, and scalability of the system thereby making it potential for large scale healthcare applications."
+  },
+  {
+   "paperId": "534d9ccc0ec1df75d9a4964a2387414f85a20a06",
+   "externalIds": {
+    "DOI": "10.1109/ICIMIA69818.2026.11744849",
+    "CorpusId": 295383936
+   },
+   "url": "https://www.semanticscholar.org/paper/534d9ccc0ec1df75d9a4964a2387414f85a20a06",
+   "title": "Blockchain based Secure Data Sharing for Glucose Prediction in IoMT Scenario using Deep Learning",
+   "venue": "International Conference on Innovative Mechanisms for Industry Applications",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/icimia69818.2026.11744849",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIMIA69818.2026.11744849?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIMIA69818.2026.11744849, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2026-10-01",
+   "authors": [
+    {
+     "authorId": "2524938699",
+     "name": "Vinitha Sankar"
+    },
+    {
+     "authorId": "2390644114",
+     "name": "R. Murugesan"
+    },
+    {
+     "authorId": "2277664325",
+     "name": "Anitha Gopalan"
+    }
+   ],
+   "abstract": "The growth of Internet of Medical Things (IoMT) systems makes the continuous health monitoring as the feasible task. Still, the challenges related to data security, privacy and requirement of efficient predictive outcome degrades the performance. To address the challenges, this research proposed the glucose prediction with blockchain technology based on cryptographic hashing and optimization-based key generation along with federated learning-based prediction. The proposed model utilized the Blockchain-based Data Acquisition and Storage mechanism integrated with the Optimal Bhattacharya Signed Tiger Hashing Algorithm (O-BHA) to ensure tamper-proof and secure data storage. In the O-BHA algorithm, the optimized key generation mechanism is employed using the Sinusoidal Beaver Behavior Optimization (SBbO) algorithm to improve global search capability and convergence. Finally, the Kolmogorov-Arnold Networks-based Federated Learning (KAN-FL) model is proposed for providing the decentralized training by preserving data privacy. The experimental evaluations demonstrate that the consideration of secure blockchain storage with federated learning based prediction improves the performance by ensuring data protection and system scalability."
+  },
+  {
+   "paperId": "29e0eb8233c08e4eac205ed894c14e56993f7775",
+   "externalIds": {
+    "MAG": "3166793278",
+    "DBLP": "journals/sj/AgyekumXSCXG22",
+    "DOI": "10.1109/JSYST.2021.3076759",
+    "CorpusId": 236368671
+   },
+   "url": "https://www.semanticscholar.org/paper/29e0eb8233c08e4eac205ed894c14e56993f7775",
+   "title": "A Proxy Re-Encryption Approach to Secure Data Sharing in the Internet of Things Based on Blockchain",
+   "venue": "IEEE Systems Journal",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/jsyst.2021.3076759",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSYST.2021.3076759?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSYST.2021.3076759, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-05-27",
+   "authors": [
+    {
+     "authorId": "51460461",
+     "name": "K. Agyekum"
+    },
+    {
+     "authorId": "151481916",
+     "name": "Qi Xia"
+    },
+    {
+     "authorId": "38986009",
+     "name": "Emmanuel Boateng Sifah"
+    },
+    {
+     "authorId": "1435352553",
+     "name": "Christian Nii Aflah Cobblah"
+    },
+    {
+     "authorId": "49837331",
+     "name": "Hu Xia"
+    },
+    {
+     "authorId": "2524489",
+     "name": "Jian-Bin Gao"
+    }
+   ],
+   "abstract": "The evolution of the Internet of Things has seen data sharing as one of its most useful applications in cloud computing. As eye-catching as this technology has been, data security remains one of the obstacles it faces since the wrongful use of data leads to several damages. In this article, we propose a proxy re-encryption approach to secure data sharing in cloud environments. Data owners can outsource their encrypted data to the cloud using identity-based encryption, while proxy re-encryption construction will grant legitimate users access to the data. With the Internet of Things devices being resource-constrained, an edge device acts as a proxy server to handle intensive computations. Also, we make use of the features of information-centric networking to deliver cached content in the proxy effectively, thus improving the quality of service and making good use of the network bandwidth. Further, our system model is based on blockchain, a disruptive technology that enables decentralization in data sharing. It mitigates the bottlenecks in centralized systems and achieves fine-grained access control to data. The security analysis and evaluation of our scheme show the promise of our approach in ensuring data confidentiality, integrity, and security."
+  },
+  {
+   "paperId": "d6493e8b5cce12ae3d0b979403a54863e1571b79",
+   "externalIds": {
+    "DOI": "10.1109/CSITSS67709.2025.11294266",
+    "CorpusId": 284023963
+   },
+   "url": "https://www.semanticscholar.org/paper/d6493e8b5cce12ae3d0b979403a54863e1571b79",
+   "title": "Polynomial Functional Encryption for Secure Data Sharing in Organ Transplantation",
+   "venue": "2025 9th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CSITSS67709.2025.11294266?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CSITSS67709.2025.11294266, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-11-20",
+   "authors": [
+    {
+     "authorId": "2399643535",
+     "name": "Samkit Samsukha"
+    },
+    {
+     "authorId": "1742186394",
+     "name": "V. Shetty"
+    },
+    {
+     "authorId": "2469118514",
+     "name": "Rekha B. S."
+    }
+   ],
+   "abstract": "Data security is a critical issue in healthcare systems, and it has become a hot topic in the last few years. This paper presents a polynomial functional encryption (PFE) framework for secure data sharing in healthcare applications, addressing key challenges in data security, privacy, and efficiency. The proposed framework aims to establish a secure, transparent and decentralized medical data management system, improving healthcare outcomes and promoting ethical organ transplant practices. A new security definition called Composable Functional Encryption Security (CFE-security) is introduced, which aligns closely with the ideal-world notion of controlled data access. The integration of blockchain technology will prevent unauthorized alterations to medical records and organ transplant histories. The proposed system also incorporates the Hungarian algorithm to optimize the matching of organ donors and recipients, ensuring fairness and accuracy in transplant prioritization."
+  },
+  {
+   "paperId": "a9caecc5f898cf86792e37088def2800b0047d5f",
+   "externalIds": {
+    "DOI": "10.33003/fjs-2023-0703-1786",
+    "CorpusId": 259581180
+   },
+   "url": "https://www.semanticscholar.org/paper/a9caecc5f898cf86792e37088def2800b0047d5f",
+   "title": "BLOCKCHAIN-BASED ZERO KNOWLEDGE PROOF MODEL FOR SECURE DATA SHARING SCHEME IN A DISTRIBUTED VEHICULAR NETWORKS",
+   "venue": "FUDMA Journal of Sciences",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://fjs.fudutsinma.edu.ng/index.php/fjs/article/download/1786/1412",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33003/fjs-2023-0703-1786?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33003/fjs-2023-0703-1786, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-03",
+   "authors": [
+    {
+     "authorId": "1716214367",
+     "name": "Muhammad Umar Majigi"
+    },
+    {
+     "authorId": "29920322",
+     "name": "I. Idris"
+    },
+    {
+     "authorId": "1806317",
+     "name": "Shafi'i Muhammad Abdulhamid"
+    },
+    {
+     "authorId": "150035136",
+     "name": "A. Uduimoh"
+    }
+   ],
+   "abstract": "The possibility of implementing advanced applications, such as improved driving safety, has increased with the rapid development of vehicular telematics, and existing vehicular services have been enriched through data sharing and analysis between vehicles. This research uses smart contracts and consortium blockchain zero knowledge proof to secure data sharing and storage in vehicular networks. The results indicate that, for message sizes (m), both data_ experiments _2 and 1 produce ciphertext of the same size 157 bits, with the exception of 'gnfuv-temp-exp1-55d487b85b-5g2xh,' which generates ciphertext of 156 bits with the lowest decryption time of 26,865ms and a small decrease in encryption time between 28,620ms and 28,162ms.  the proposed model validation shows that the model performed better than the Advanced encryption standard in terms of ciphertext size, encryption time and decryption time in comparison and it satisfies the good and robust blockchain-based zero knowledge proof model for secure data sharing and storage for distributed VANET. The scheme achieves high levels of security while operating with reasonable efficiency, reliability and availability according to numerical results."
+  },
+  {
+   "paperId": "6e7ae4d408f325b00f822a5aeb986849e1ceb9cc",
+   "externalIds": {
+    "DBLP": "journals/ppna/LiuWYLDYW25",
+    "DOI": "10.1007/s12083-025-01920-1",
+    "CorpusId": 277684052
+   },
+   "url": "https://www.semanticscholar.org/paper/6e7ae4d408f325b00f822a5aeb986849e1ceb9cc",
+   "title": "Secure traffic data sharing in UAV-assisted VANET through certificateless proxy re-encryption and consortium blockchain",
+   "venue": "Peer-to-Peer Networking and Applications",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12083-025-01920-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12083-025-01920-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-07",
+   "authors": [
+    {
+     "authorId": "2298977241",
+     "name": "Yi-Lin Liu"
+    },
+    {
+     "authorId": "2312869481",
+     "name": "Yu-Jue Wang"
+    },
+    {
+     "authorId": "2375299460",
+     "name": "Chen Yi"
+    },
+    {
+     "authorId": "2354136608",
+     "name": "Jun Li"
+    },
+    {
+     "authorId": "2347397548",
+     "name": "Yong Ding"
+    },
+    {
+     "authorId": "2276988103",
+     "name": "Chang-Song Yang"
+    },
+    {
+     "authorId": "49527737",
+     "name": "Hui-Yong Wang"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "9dad453f4b0273354074e1735b3c73fb829f25f3",
+   "externalIds": {
+    "DBLP": "journals/iotj/LiuFPCMSD21",
+    "DOI": "10.1109/JIOT.2020.3048345",
+    "CorpusId": 231852413
+   },
+   "url": "https://www.semanticscholar.org/paper/9dad453f4b0273354074e1735b3c73fb829f25f3",
+   "title": "Blockchain-Enabled Secure Data Sharing Scheme in Mobile-Edge Computing: An Asynchronous Advantage Actor–Critic Learning Approach",
+   "venue": "IEEE Internet of Things Journal",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2020.3048345?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2020.3048345, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-02-15",
+   "authors": [
+    {
+     "authorId": "2149098823",
+     "name": "Lei Liu"
+    },
+    {
+     "authorId": "2109020134",
+     "name": "Jie Feng"
+    },
+    {
+     "authorId": "39718931",
+     "name": "Qing-Qi Pei"
+    },
+    {
+     "authorId": "4562384",
+     "name": "Chen Chen"
+    },
+    {
+     "authorId": "2277729030",
+     "name": "Ming Yang"
+    },
+    {
+     "authorId": "47663269",
+     "name": "Bo-Dong Shang"
+    },
+    {
+     "authorId": "1714082",
+     "name": "Mian-Xiong Dong"
+    }
+   ],
+   "abstract": "Mobile-edge computing (MEC) plays a significant role in enabling diverse service applications by implementing efficient data sharing. However, the unique characteristics of MEC also bring data privacy and security problem, which impedes the development of MEC. Blockchain is viewed as a promising technology to guarantee the security and traceability of data sharing. Nonetheless, how to integrate blockchain into MEC system is quite challenging because of dynamic characteristics of channel conditions and network loads. To this end, we propose a secure data sharing scheme in the blockchain-enabled MEC system using an asynchronous learning approach in this article. First, a blockchain-enabled secure data sharing framework in the MEC system is presented. Then, we present an adaptive privacy-preserving mechanism according to available system resources and privacy demands of users. Next, an optimization problem of secure data sharing is formulated in the blockchain-enabled MEC system with the aim to maximize the system performance with respect to the decreased energy consumption of MEC system and the increased throughput of blockchain system. Especially, an asynchronous learning approach is employed to solve the formulated problem. The numerical results demonstrate the superiority of our proposed secure data sharing scheme when compared with some popular benchmark algorithms in terms of average throughput, average energy consumption, and reward."
+  },
+  {
+   "paperId": "15188a99033c1beddeb14f19a4c6f9558fcb9568",
+   "externalIds": {
+    "MAG": "3105507192",
+    "DBLP": "journals/cmig/KumarWKYKAA21",
+    "DOI": "10.1016/j.compmedimag.2020.101812",
+    "CorpusId": 227522528,
+    "PubMed": "33279761"
+   },
+   "url": "https://www.semanticscholar.org/paper/15188a99033c1beddeb14f19a4c6f9558fcb9568",
+   "title": "An Integration of blockchain and AI for secure data sharing and detection of CT images for the hospitals",
+   "venue": "Comput. Medical Imaging Graph.",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compmedimag.2020.101812?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compmedimag.2020.101812, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-11-10",
+   "authors": [
+    {
+     "authorId": "49165602",
+     "name": "Rajendra Kumar"
+    },
+    {
+     "authorId": "47825543",
+     "name": "Wen-Yong Wang"
+    },
+    {
+     "authorId": "144296650",
+     "name": "Jay Kumar"
+    },
+    {
+     "authorId": "2122813938",
+     "name": "Ting Yang"
+    },
+    {
+     "authorId": "2108365896",
+     "name": "Abdullah Aman Khan"
+    },
+    {
+     "authorId": "115681118",
+     "name": "Wazir Ali"
+    },
+    {
+     "authorId": "2064799326",
+     "name": "Ikram Ali"
+    }
+   ],
+   "abstract": "Deep learning, for image data processing, has been widely used to solve a variety of problems related to medical practices. However, researchers are constantly struggling to introduce ever efficient classification models. Recent studies show that deep learning can perform better and generalize well when trained using a large amount of data. Organizations such as hospitals, testing labs, research centers, etc. can share their data and collaboratively build a better learning model. Every organization wants to retain the privacy of their data, while on the other hand, these organizations want accurate and efficient learning models for various applications. The concern for privacy in medical data limits the sharing of data among multiple organizations due to some ethical and legal issues. To retain privacy and enable data sharing, we present a unique method that combines locally learned deep learning models over the blockchain to improve the prediction of lung cancer in health-care systems by filling the defined gap. There are several challenges involved in sharing that data while maintaining privacy. In this paper, we identify and address such challenges. The contribution of our work is four-fold: (i) We propose a method to secure medical data by only sharing the weights of the trained deep learning model via smart contract. (ii) To deal with different sized computed tomography (CT) images from various sources, we adopted the Bat algorithm and data augmentation to reduce the noise and overfitting for the global learning model. (iii) We distribute the local deep learning model wights to the blockchain decentralized network to train a global model. iv) We propose a recurrent convolutional neural network (RCNN) to estimate the region of interest (ROI) in theCT images. An extensive empirical study has been conducted to verify the significance of our proposed method for better prediction of cancer in the early stage. Experimental results of the proposed model can show that our proposed technique can detect the lung cancer nodules and also achieve better performance."
+  },
+  {
+   "paperId": "a7c9d4249031dfd7a014844f230048a171fd20ec",
+   "externalIds": {
+    "DBLP": "journals/iotj/KangYHWMXZ19",
+    "MAG": "2898082692",
+    "DOI": "10.1109/JIOT.2018.2875542",
+    "CorpusId": 70172211
+   },
+   "url": "https://www.semanticscholar.org/paper/a7c9d4249031dfd7a014844f230048a171fd20ec",
+   "title": "Blockchain for Secure and Efficient Data Sharing in Vehicular Edge Computing and Networks",
+   "venue": "IEEE Internet of Things Journal",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2018.2875542?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2018.2875542, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2019-06-01",
+   "authors": [
+    {
+     "authorId": "145993626",
+     "name": "Jia-Wen Kang"
+    },
+    {
+     "authorId": "143791274",
+     "name": "Rong Yu"
+    },
+    {
+     "authorId": "3116552",
+     "name": "Xumin Huang"
+    },
+    {
+     "authorId": "3427682",
+     "name": "Maoqiang Wu"
+    },
+    {
+     "authorId": "2461792",
+     "name": "S. Maharjan"
+    },
+    {
+     "authorId": "145382103",
+     "name": "Sheng-Li Xie"
+    },
+    {
+     "authorId": "40160759",
+     "name": "Yan Zhang"
+    }
+   ],
+   "abstract": "The drastically increasing volume and the growing trend on the types of data have brought in the possibility of realizing advanced applications such as enhanced driving safety, and have enriched existing vehicular services through data sharing among vehicles and data analysis. Due to limited resources with vehicles, vehicular edge computing and networks (VECONs) i.e., the integration of mobile edge computing and vehicular networks, can provide powerful computing and massive storage resources. However, road side units that primarily presume the role of vehicular edge computing servers cannot be fully trusted, which may lead to serious security and privacy challenges for such integrated platforms despite their promising potential and benefits. We exploit consortium blockchain and smart contract technologies to achieve secure data storage and sharing in vehicular edge networks. These technologies efficiently prevent data sharing without authorization. In addition, we propose a reputation-based data sharing scheme to ensure high-quality data sharing among vehicles. A three-weight subjective logic model is utilized for precisely managing reputation of the vehicles. Numerical results based on a real dataset show that our schemes achieve reasonable efficiency and high-level of security for data sharing in VECONs."
+  }
+ ]
+}

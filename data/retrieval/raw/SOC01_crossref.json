@@ -1,0 +1,922 @@
+{
+ "query": "Social media use and political polarization",
+ "retrieved_at": "2026-11-18T17:56:28.912718+00:00",
+ "data": [
+  {
+   "DOI": "10.13187/ijmil.2021.1.34",
+   "title": [
+    "Social Media Use and Political Polarization: the Mediating Role of Political Engagement and Political Loyalty"
+   ],
+   "container-title": [
+    "International Journal of Media and Information Literacy"
+   ],
+   "publisher": "Cherkas Global University Press",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.13187/ijmil.2021.1.34"
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:p> In a major policy overhaul, China now allows couples to have up to three children, sparking a firestorm of contested opinions on social media. Drawing on an online survey of 802 Chinese social media users’ opinions toward this policy shift and guided by an extended communication mediation model, this study reveals the relationship between social media news exposure and opinion polarization. The analyses show that social media news exposure cannot directly affect opinion polarization, but it can indirectly affect polarization via several pathways. Overall, we argue that expression and interaction following news exposure and news elaboration can depolarize people’s political views. </jats:p>",
+   "DOI": "10.1177/20563051231196899",
+   "type": "journal-article",
+   "title": [
+    "Does Social Media Use Polarize or Depolarize Political Opinion in China? Explaining Opinion Polarization Within an Extended Communication Mediation Model"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8707-1124",
+     "authenticated-orcid": false,
+     "given": "Jing",
+     "family": "Guo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "The Chinese University of Hong Kong, Hong Kong SAR"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4533-8382",
+     "authenticated-orcid": false,
+     "given": "Yang",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Macau University of Science and Technology, Macao SAR"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Social Media + Society"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/20563051231196899"
+  },
+  {
+   "DOI": "10.4135/9781452244723.n407",
+   "title": [
+    "Polarization, Political"
+   ],
+   "container-title": [
+    "Encyclopedia of Social Media and Politics"
+   ],
+   "publisher": "SAGE Publications, Inc.",
+   "issued": {
+    "date-parts": [
+     [
+      2014
+     ]
+    ]
+   },
+   "type": "reference-entry",
+   "URL": "https://doi.org/10.4135/9781452244723.n407"
+  },
+  {
+   "publisher": "Academic Research Publishing Group (Publications)",
+   "abstract": "<jats:p>Social media, in the new millennium, has become a very effective tool of communication, information, and propagation regarding all social, religious, and political discourses that further lead towards ideological divisions. In the contemporary democratic world, the role of social media for political opinion building is obvious which is done by opinion leaders through political information and debates. The purpose of this study is to explore the social media use and political polarization among social media users. The survey research method was used to examine social media use for political engagement and political polarization. Private university students were selected as participants (n=350). The result was found positive which means that social media use is responsible for political polarization. Moreover, social media use is also a significant predictor of political engagement. In addition to this, the results show that political engagement is a mediator between the relationship between social media use and political polarization. The practical implications of the study have been discussed.</jats:p>",
+   "DOI": "10.32861/jssr.68.804.810",
+   "type": "journal-article",
+   "title": [
+    "Social Media Use and Political Polarization: Political Engagement as a Mediator"
+   ],
+   "author": [
+    {
+     "given": "Kinza",
+     "family": "Amjad",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Muzammil",
+     "family": "Saeed",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Farahat",
+     "family": "Ali",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Muhammad",
+     "family": "Awais",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The Journal of Social Sciences Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      8,
+      31
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.32861/jssr.68.804.810"
+  },
+  {
+   "DOI": "10.1257/rct.4850-1.0",
+   "title": [
+    "Political Polarization and Social Media"
+   ],
+   "container-title": [
+    "AEA Randomized Controlled Trials"
+   ],
+   "publisher": "American Economic Association",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      12
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1257/rct.4850-1.0",
+   "author": [
+    {
+     "given": "Ernesto",
+     "family": "Schargrodsky",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1257/rct.4850",
+   "title": [
+    "Political Polarization and Social Media"
+   ],
+   "container-title": [
+    "AEA Randomized Controlled Trials"
+   ],
+   "publisher": "American Economic Association",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      12
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1257/rct.4850",
+   "author": [
+    {
+     "given": "Ernesto",
+     "family": "Schargrodsky",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.tele.2017.11.005",
+   "title": [
+    "Does social media use really make people politically polarized? Direct and indirect effects of social media use on political polarization in South Korea"
+   ],
+   "container-title": [
+    "Telematics and Informatics"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.tele.2017.11.005",
+   "author": [
+    {
+     "given": "Changjun",
+     "family": "Lee",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jieun",
+     "family": "Shin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ahreum",
+     "family": "Hong",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>We propose a possible link between the political polarization among citizens and the level of shamelessness of lies issued by politicians on social media websites. To this purpose, we study the problem of a candidate who has (exogenously) decided to issue a lie on social media and that must decide how blatantly the lie should be. We assume the candidate's payoff function increases with the dissemination of the lie up to the election date. The dissemination of the lie up to the election date is shown to be a decreasing function of the shamelessness level. Nonetheless, the electorate's political polarization is an incentive for the candidate to lie brazenly. The dissemination process is carried by social media users who decide between inspecting (or not) and sharing (or not) the candidate's message. Furthermore, we include programmed bots as sources of dissemination. In this regard, we show how the influence of bots over the dissemination process relates to the electorate's political polarization level, with the lie's shamelessness and with the time interval between the posting and election dates.</jats:p>",
+   "DOI": "10.2139/ssrn.3579542",
+   "type": "posted-content",
+   "title": [
+    "Political Polarization and Blatant Lies on Social Media"
+   ],
+   "author": [
+    {
+     "given": "Samuel",
+     "family": "Santos",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marcelo",
+     "family": "Griebeler",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.3579542"
+  },
+  {
+   "DOI": "10.15760/honors.908",
+   "title": [
+    "Developing a Conceptual Framework for Research on Social Media and Political Polarization"
+   ],
+   "publisher": "Portland State University Library",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.15760/honors.908",
+   "author": [
+    {
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Audrey",
+     "family": "Sanders",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Center for Open Science",
+   "abstract": "<p>This chapter examines how social media and political polarization amplify individuals’ willingness to censor political opponents. While freedom of expression is a core democratic value, citizens increasingly endorse silencing ideas they perceive as false or harmful. I propose the Social Media–Polarization–Censorship (SPC) Framework, which highlights how polarization and social media mutually reinforce each other, eroding shared understandings of truth (epistemic polarization). I argue that when people disagree over truth, opponents ideas seem harmful and untrue--driving our endorsement of censoring and silencing opponents. I go on to argue that such censorship may paradoxically deepen polarization by reducing cross-cutting exposure and fostering feelings of grievance among those censored. I conclude by exploring reforms and interventions—ranging from algorithmic changes to psychological strategies—that may disrupt this cycle. Ultimately, understanding the interplay of social media, polarization, and censorship is essential for preserving pluralism and democratic discourse in increasingly divided societies.</p>",
+   "DOI": "10.31219/osf.io/hxztk_v1",
+   "type": "posted-content",
+   "title": [
+    "How Social Media and Political Polarization Amplify  Our Willingness to Censor Political Opponents"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0606-8594",
+     "authenticated-orcid": true,
+     "given": "Emily",
+     "family": "Kubin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      21
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.31219/osf.io/hxztk_v1"
+  },
+  {
+   "publisher": "Oxford University Press (OUP)",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This study proposes a moderated mediation model to understand how social media use influences political polarization through two competing mechanisms and how such mechanisms are conditioned by political tolerance. The model was tested with a survey of 1,200 Hong Kong residents after the prolonged Anti-Extradition Law Amendment Bill movement. We found that social media use was positively correlated with attitudinal and affective polarization. Such polarizing effects were channeled through politically motivated selective avoidance, but there were noticeable depolarizing effects induced by increased network heterogeneity. More importantly, political tolerance could further amplify the depolarizing effects of social media use. In contrast, political tolerance cannot counteract the polarizing effect of social media use channeled through selective avoidance.</jats:p>",
+   "DOI": "10.1093/ijpor/edad006",
+   "type": "journal-article",
+   "title": [
+    "How Does Political Tolerance Moderate the Effects of Social Media Use on Political Polarization: A Moderated Mediation Model"
+   ],
+   "author": [
+    {
+     "given": "Chuanli",
+     "family": "Xia",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Humanities and Social Sciences, BNU-HKBU United International College , Zhuhai , China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fei",
+     "family": "Shen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Media and Communication, City University of Hong Kong , Hong Kong , China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Public Opinion Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/ijpor/edad006"
+  },
+  {
+   "publisher": "Center for Open Science",
+   "abstract": "<p>This chapter examines how social media and political polarization amplify individuals’ willingness to censor political opponents. While freedom of expression is a core democratic value, citizens increasingly endorse silencing ideas they perceive as false or harmful. I propose the Social Media–Polarization–Censorship (SPC) Framework, which highlights how polarization and social media mutually reinforce each other, eroding shared understandings of truth (epistemic polarization). I argue that when people disagree over truth, opponents ideas seem harmful and untrue--driving our endorsement of censoring and silencing opponents. I go on to argue that such censorship may paradoxically deepen polarization by reducing cross-cutting exposure and fostering feelings of grievance among those censored. I conclude by exploring reforms and interventions—ranging from algorithmic changes to psychological strategies—that may disrupt this cycle. Ultimately, understanding the interplay of social media, polarization, and censorship is essential for preserving pluralism and democratic discourse in increasingly divided societies.</p>",
+   "DOI": "10.31219/osf.io/hxztk_v2",
+   "type": "posted-content",
+   "title": [
+    "How Social Media and Political Polarization Amplify  Our Willingness to Censor Political Opponents"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0606-8594",
+     "authenticated-orcid": true,
+     "given": "Emily",
+     "family": "Kubin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.31219/osf.io/hxztk_v2"
+  },
+  {
+   "DOI": "10.5771/9783748928232-118",
+   "title": [
+    "Does Social Media Use Promote Political Mass Polarization?"
+   ],
+   "container-title": [
+    "Questions of Communicative Change and Continuity"
+   ],
+   "publisher": "Nomos Verlagsgesellschaft mbH & Co. KG",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5771/9783748928232-118",
+   "author": [
+    {
+     "given": "Katharina",
+     "family": "Ludwig",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Philipp",
+     "family": "Müller",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Oxford University PressNew York, NY",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Recent years have seen a significant increase in research on political polarization, parallel with a global rise in polarization among democracies, particularly regarding the role of social media in political polarization. As a central hub for political deliberation, social media shapes people’s perceptions of the political environment and is often seen as a key driver of political polarization. The homophilic nature of many platforms, along with other characteristics of social media, contributes to polarizing effects according to some studies. Political discourse on social media tends to be dominated by extreme voices, while moderate views are scarcely represented. This creates false or perceived polarization, which can influence individual behavior and the broader political reality.</jats:p>\n                  <jats:p>This article explores the complex relationship between social media and political polarization by defining various types of political polarization and presenting the social media landscape, reviewing the role social media plays in political polarization—while looking into different platforms and the main topics the research in the field has focused on, dealing with the issue of false or perceived polarization and its implications, and discussing whether social media can contribute to depolarization. The article concludes by highlighting gaps in the existing literature and offers suggestions for future research.</jats:p>",
+   "DOI": "10.1093/acrefore/9780190228613.013.1523",
+   "type": "reference-entry",
+   "title": [
+    "Social Media and Political Polarization"
+   ],
+   "author": [
+    {
+     "given": "Moran",
+     "family": "Yarchi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Communication, Reichman University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Oxford Research Encyclopedia of Communication"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      10
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/acrefore/9780190228613.013.1523"
+  },
+  {
+   "DOI": "10.1080/10584609.2024.2325423",
+   "title": [
+    "Social Media Use and Political Engagement in Polarized Times. Examining the Contextual Roles of Issue and Affective Polarization in Developed Democracies"
+   ],
+   "container-title": [
+    "Political Communication"
+   ],
+   "publisher": "Informa UK Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1080/10584609.2024.2325423",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9911-593X",
+     "authenticated-orcid": false,
+     "given": "Michael",
+     "family": "Chan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Journalism &amp; Communication, Chinese University of Hong Kong, Shatin, Hong kong"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9119-2324",
+     "authenticated-orcid": false,
+     "given": "Jingjing",
+     "family": "Yi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Journalism &amp; Communication, Chinese University of Hong Kong, Shatin, Hong kong"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>The algorithms that rule your social media feeds determine what content you'll be able to see on platforms and apps. The ultimate goal of these algorithms is to keep users engaged by surface more relevant content, i.e. content you are likely to like, comment on, or share. But when it comes to political discourse online, this system can have its downsides. Since emotional, shocking, or contentious content drives engagement, that kind of content is what typically gets promoted to users. This can result in a \"filter bubble,\" a feed full of information that agrees with and reinforces the user's current beliefs. Research has found that algorithms may be perpetuating personalisation of content online-and exacerbating political polarization. To address these challenges, our research calls for greater algorithmic transparency, the development and enforcement of new regulations for online intermediaries and enhanced digital literacy to better equip citizens to negotiate and critically consume online information.</jats:p>",
+   "DOI": "10.2139/ssrn.6638721",
+   "type": "posted-content",
+   "title": [
+    "Social Media Algorithm and political polarization"
+   ],
+   "author": [
+    {
+     "given": "Ankush",
+     "family": "Sharma",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bhupesh",
+     "family": "Relan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Chirag",
+     "family": "Singla",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Anuj",
+     "family": "Anand",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.6638721"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:p>Technological advances have vastly expanded the number of news and political media outlets available to the public, creating the possibility that people will selectively expose themselves to like‐minded ideological content. At the same time, there is evidence that citizens are often highly polarized politically. This raises a question about the extent to which patterns of selective exposure contribute to political polarization. This entry provides a brief overview of selective exposure and polarization, highlighting the possibility of a link between them. While an overwhelming majority of people do not exclusively use like‐minded political news outlets, there is mixed evidence regarding a relationship between selective exposure and political polarization.</jats:p>",
+   "DOI": "10.1002/9781119011071.iemp0296",
+   "type": "other",
+   "title": [
+    "Media Use, Selective Exposure, and Political Polarization"
+   ],
+   "author": [
+    {
+     "given": "Lauren B.",
+     "family": "Hahn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Brian E.",
+     "family": "Weeks",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The International Encyclopedia of Media Psychology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      9
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1002/9781119011071.iemp0296"
+  },
+  {
+   "DOI": "10.1257/rct.4850-1.1",
+   "title": [
+    "Political Polarization and Social Media"
+   ],
+   "container-title": [
+    "AEA Randomized Controlled Trials"
+   ],
+   "publisher": "American Economic Association",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10,
+      12
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1257/rct.4850-1.1",
+   "author": [
+    {
+     "given": "Ernesto",
+     "family": "Schargrodsky",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rafael",
+     "family": "Di Tella",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ramiro",
+     "family": "Galvez",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5040/9781978723788.ch-1",
+   "title": [
+    "Social Media Activism and Party Polarization"
+   ],
+   "container-title": [
+    "Polarization and Political Party Factions in the 2020 Election"
+   ],
+   "publisher": "The Rowman & Littlefield Publishing Group",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.5040/9781978723788.ch-1",
+   "author": [
+    {
+     "given": "Todd L.",
+     "family": "Belt",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:p>Teen users outpace adults in social media use across several platforms. Though much scholarship has considered the negative effects of social media use on teen well-being, this study considers how participation on Twitter, Instagram, Facebook, and TikTok is influencing teens’ political interests and behaviors. Compared to traditional resources, we find that social media use across these platforms positively correlated with political interest and civic online and offline engagement, while Twitter and Facebook use had positive relationships with affective polarization. TikTok and Instagram each correlated with higher levels of interest and civic engagement, and the platforms had no relationship with polarization. We discuss these implications and what they mean for political participation among teens online.</jats:p>",
+   "DOI": "10.1177/20563051231186364",
+   "type": "journal-article",
+   "title": [
+    "The Kids Are Online: Teen Social Media Use, Civic Engagement, and Affective Polarization"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1928-5870",
+     "authenticated-orcid": false,
+     "given": "Ayla",
+     "family": "Oden",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Louisiana State University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lance",
+     "family": "Porter",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Louisiana State University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Social Media + Society"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/20563051231186364"
+  }
+ ]
+}

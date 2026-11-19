@@ -1,0 +1,799 @@
+{
+ "query": "Learning loss after COVID-19 school closures",
+ "retrieved_at": "2026-11-18T17:54:54.646637+00:00",
+ "data": [
+  {
+   "paperId": "c6e337f105c91c8308e1d3554931309176cde3ec",
+   "externalIds": {
+    "PubMedCentral": "9758600",
+    "MAG": "3133743056",
+    "DOI": "10.1016/j.ijedudev.2021.102377",
+    "CorpusId": 222012406,
+    "PubMed": "36570641"
+   },
+   "url": "https://www.semanticscholar.org/paper/c6e337f105c91c8308e1d3554931309176cde3ec",
+   "title": "Using educational transitions to estimate learning loss due to COVID-19 school closures: The case of Complementary Basic Education in Ghana",
+   "venue": "International Journal of Educational Development",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9758600/pdf/",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9758600, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-03-04",
+   "authors": [
+    {
+     "authorId": "3832495",
+     "name": "R. Sabates"
+    },
+    {
+     "authorId": "114558367",
+     "name": "Emma Carter"
+    },
+    {
+     "authorId": "39751475",
+     "name": "J. Stern"
+    }
+   ],
+   "abstract": "Learning loss is expected for millions of children who have been out of school as a result of the current COVID-19 pandemic. Unfortunately, it is uncertain how much learning will be lost and how wide the gaps may be for disadvantaged children. This paper uses a unique longitudinal dataset to estimate learning loss during a three-month transition from Complementary Basic Education to government schools in Ghana. Our results show an average learning loss of 66 % of previous learning gains in foundational numeracy during this transition period. More importantly, we estimate widening gaps in learning loss according to lack of home learning support, as well as lack of home learning resources. Our results have implications for the provision of learning activities and support at home, not just during current school closures due to COVID-19, but also during transitions between academic years."
+  },
+  {
+   "paperId": "62d2a03981630159f66cd012a67a3016dc68c51a",
+   "externalIds": {
+    "PubMedCentral": "8504478",
+    "DOI": "10.1016/j.ijedudev.2021.102434",
+    "CorpusId": 238585601,
+    "PubMed": "34658500"
+   },
+   "url": "https://www.semanticscholar.org/paper/62d2a03981630159f66cd012a67a3016dc68c51a",
+   "title": "Potential effects of COVID-19 school closures on foundational skills and Country responses for mitigating learning loss",
+   "venue": "International Journal of Educational Development",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0738059321000870/pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8504478, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2021-10-11",
+   "authors": [
+    {
+     "authorId": "2532656110",
+     "name": "Carolina Alban Conto"
+    },
+    {
+     "authorId": "11463439",
+     "name": "Spogmai Akseer"
+    },
+    {
+     "authorId": "2566585961",
+     "name": "Thomas Dreesen"
+    },
+    {
+     "authorId": "115155948",
+     "name": "Akito Kamei"
+    },
+    {
+     "authorId": "84122264",
+     "name": "Suguru Mizunoya"
+    },
+    {
+     "authorId": "2092772134",
+     "name": "A. Rigole"
+    }
+   ],
+   "abstract": "This article investigates to what extent disrupted schooling and dropout affects children’s acquisition of foundational skills prior to and during the COVID-19 pandemic. Using household survey data from thirteen low- and lower-middle-income countries, we find that missing or dropping out of school is associated with lower reading and numeracy outcomes. Drawing on global surveys conducted during the pandemic, we find that countries’ remote learning responses are often inadequate to keep all children learning, avoid dropout, and mitigate the learning losses our findings predict, particularly for marginalized children and those at the pre-primary level."
+  },
+  {
+   "paperId": "781e756ff91c81a2754825183c42251f72a5e890",
+   "externalIds": {
+    "PubMedCentral": "8092566",
+    "DOI": "10.1073/pnas.2022376118",
+    "CorpusId": 233184874,
+    "PubMed": "33827987"
+   },
+   "url": "https://www.semanticscholar.org/paper/781e756ff91c81a2754825183c42251f72a5e890",
+   "title": "Learning loss due to school closures during the COVID-19 pandemic",
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1073/pnas.2022376118",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8092566, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-04-07",
+   "authors": [
+    {
+     "authorId": "80028915",
+     "name": "Per Engzell"
+    },
+    {
+     "authorId": "1379672188",
+     "name": "Arun Frey"
+    },
+    {
+     "authorId": "144376262",
+     "name": "Mark D. Verhagen"
+    }
+   ],
+   "abstract": "Significance School closures have been a common tool in the battle against COVID-19. Yet, their costs and benefits remain insufficiently known. We use a natural experiment that occurred as national examinations in The Netherlands took place before and after lockdown to evaluate the impact of school closures on students’ learning. The Netherlands is interesting as a “best-case” scenario, with a short lockdown, equitable school funding, and world-leading rates of broadband access. Despite favorable conditions, we find that students made little or no progress while learning from home. Learning loss was most pronounced among students from disadvantaged homes. Suspension of face-to-face instruction in schools during the COVID-19 pandemic has led to concerns about consequences for students’ learning. So far, data to study this question have been limited. Here we evaluate the effect of school closures on primary school performance using exceptionally rich data from The Netherlands (n ≈ 350,000). We use the fact that national examinations took place before and after lockdown and compare progress during this period to the same period in the 3 previous years. The Netherlands underwent only a relatively short lockdown (8 wk) and features an equitable system of school funding and the world’s highest rate of broadband access. Still, our results reveal a learning loss of about 3 percentile points or 0.08 standard deviations. The effect is equivalent to one-fifth of a school year, the same period that schools remained closed. Losses are up to 60% larger among students from less-educated homes, confirming worries about the uneven toll of the pandemic on children and families. Investigating mechanisms, we find that most of the effect reflects the cumulative impact of knowledge learned rather than transitory influences on the day of testing. Results remain robust when balancing on the estimated propensity of treatment and using maximum-entropy weights or with fixed-effects specifications that compare students within the same school and family. The findings imply that students made little or no progress while learning from home and suggest losses even larger in countries with weaker infrastructure or longer school closures."
+  },
+  {
+   "paperId": "2bed4aebaea6cbd066bd87efd2309e2d4d97bc81",
+   "externalIds": {
+    "DOI": "10.1080/00071005.2021.1984390",
+    "CorpusId": 240063084
+   },
+   "url": "https://www.semanticscholar.org/paper/2bed4aebaea6cbd066bd87efd2309e2d4d97bc81",
+   "title": "PARENTAL PERCEPTIONS OF LEARNING LOSS DURING COVID-19 SCHOOL CLOSURES IN 2020",
+   "venue": "British Journal of Educational Studies",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1080/00071005.2021.1984390",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/00071005.2021.1984390?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00071005.2021.1984390, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2021-10-25",
+   "authors": [
+    {
+     "authorId": "144164028",
+     "name": "C. Booth"
+    },
+    {
+     "authorId": "66403320",
+     "name": "A. Villadsen"
+    },
+    {
+     "authorId": "39543638",
+     "name": "Alissa Goodman"
+    },
+    {
+     "authorId": "48860239",
+     "name": "E. Fitzsimons"
+    }
+   ],
+   "abstract": "ABSTRACT Schools across the UK were mostly closed from March to July 2020 due to Covid-19. Therefore, parents and children found themselves thrust into a prolonged period of home-schooling. In this study, parents (N = 2,122) reported on their children’s (N = 3,230) home-schooling experiences and its impacts on their children’s academic progress. Parental reports suggest that children spent around 3 hours each weekday doing schoolwork at home. Children enrolled in private secondary schools received 4 hours of virtual lessons each weekday from teachers, while state school children received just 1 hour. Parents, on the whole, reported concern for children’s academic progress. This is particularly so for children in secondary school and, most strikingly, those in school years antecedent to final exams (Years 10 and 12). Parents were less concerned about academic progress for those in Years 11 and 13, who had received their final exam grades shortly before the time of the survey. This study highlights the fact that children have been unequally affected by Covid-19 school closures, depending on their year group and school type, which should be considered in future research and policy."
+  },
+  {
+   "paperId": "d674afc917a8601daa76a73db757e79bb91bce35",
+   "externalIds": {
+    "MAG": "3036044545",
+    "PubMedCentral": "8108634",
+    "DOI": "10.1093/wbro/lkab003",
+    "CorpusId": 225699376
+   },
+   "url": "https://www.semanticscholar.org/paper/d674afc917a8601daa76a73db757e79bb91bce35",
+   "title": "Simulating the Potential Impacts of COVID-19 School Closures on Schooling and Learning Outcomes: A Set of Global Estimates",
+   "venue": "The World Bank Research Observer",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1093/wbro/lkab003",
+    "status": "BRONZE",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8108634, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Book"
+   ],
+   "publicationDate": "2020-06-01",
+   "authors": [
+    {
+     "authorId": "24958714",
+     "name": "João Pedro Azevedo"
+    },
+    {
+     "authorId": "47159359",
+     "name": "Amer Hasan"
+    },
+    {
+     "authorId": "117277893",
+     "name": "D. Goldemberg"
+    },
+    {
+     "authorId": "68984409",
+     "name": "K. Geven"
+    },
+    {
+     "authorId": "122803103",
+     "name": "Syedah Aroob Iqbal"
+    }
+   ],
+   "abstract": "Abstract This paper presents simulations of the potential effect of COVID-19-related school closures on schooling and learning outcomes. It considers four scenarios—varying in both the duration of school closures and the effectiveness of any mitigation strategies being deployed by governments. Using data on 174 countries, the analysis finds that the global level of schooling and learning will fall substantially. School closures could result in a loss of between 0.3 and 1.1 years of schooling adjusted for quality, bringing down the effective years of basic schooling that students achieve during their lifetime from 7.8 years to between 6.7 and 7.5 years. Close to 11 million students from primary up to secondary education could drop out due to the income shock of the pandemic alone. Exclusion and inequality will likely be exacerbated if already marginalized and vulnerable groups, such as girls, ethnic minorities, and persons with disabilities, are more adversely affected by school closures. Students from the current cohort could, on average, face a reduction of $366 to $1,776 in yearly earnings. In present value terms, this amounts to between $6,680 and $32,397 dollars in lost earnings over a typical student's lifetime. Globally, a school shutdown of 5 months could generate learning losses that have a present value of $10 trillion. By this measure, the world could stand to lose as much as 16 percent of the investments that governments make in the basic education of this cohort of students. In the pessimistic and very pessimistic scenarios, cumulative losses could add up to between $16 and $20 trillion in present value terms. Unless drastic remedial action is taken, the world could face a substantial setback in achieving the goal of halving the percentage of learning poor by 2030."
+  },
+  {
+   "paperId": "a4b2c372a2c0f94022344ea0f745d2b5490415ce",
+   "externalIds": {
+    "MAG": "3095366218",
+    "DOI": "10.31235/osf.io/ve4z7",
+    "CorpusId": 229209778
+   },
+   "url": "https://www.semanticscholar.org/paper/a4b2c372a2c0f94022344ea0f745d2b5490415ce",
+   "title": "Learning Loss Due to School Closures During the COVID-19 Pandemic",
+   "venue": "",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1073/pnas.2022376118",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31235/osf.io/ve4z7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31235/osf.io/ve4z7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-10-29",
+   "authors": [
+    {
+     "authorId": "80028915",
+     "name": "Per Engzell"
+    },
+    {
+     "authorId": "1379672188",
+     "name": "Arun Frey"
+    },
+    {
+     "authorId": "144376262",
+     "name": "Mark D. Verhagen"
+    }
+   ],
+   "abstract": "Suspension of face-to-face instruction in schools during the COVID-19 pandemic has led to concerns about consequences for student learning. So far, data to study this question have been limited. Here we evaluate the effect of school closures on primary school performance using exceptionally rich data from the Netherlands (n≈350,000). We use the fact that national exams took place before and after lockdown, and compare progress during this period to the same period in the three previous years. The Netherlands underwent only a relatively short lockdown (8 weeks), and features an equitable system of school funding and the world's highest rate of broadband access. Still, our results reveal a learning loss of about 3 percentile points or 0.08 standard deviations. The effect is equivalent to a fifth of a school year, the same period that schools remained closed. Losses are up to 60% larger among students from less-educated homes, confirming worries about the uneven toll of the pandemic on children and families. Investigating mechanisms, we find that most of the effect reflects the cumulative impact of knowledge learned rather than transitory influences on the day of testing. Results remain robust when balancing on the estimated propensity of treatment and using maximum entropy weights, or with fixed-effects specifications that compare students within the same school and family. The findings imply that students made little or no progress whilst learning from home, and suggest losses even larger in countries with weaker infrastructure or longer school closures."
+  },
+  {
+   "paperId": "6117b102cade90e4aaf0b16d37b81e1c443344c1",
+   "externalIds": {
+    "MAG": "3195511552",
+    "DOI": "10.1080/00131911.2021.1966389",
+    "CorpusId": 240536464
+   },
+   "url": "https://www.semanticscholar.org/paper/6117b102cade90e4aaf0b16d37b81e1c443344c1",
+   "title": "Learning disruption or learning loss: using evidence from unplanned closures to inform returning to school after COVID-19",
+   "venue": "Educause Review",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1080/00131911.2021.1966389",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/00131911.2021.1966389?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00131911.2021.1966389, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-09-17",
+   "authors": [
+    {
+     "authorId": "73647510",
+     "name": "S. Harmey"
+    },
+    {
+     "authorId": "107888829",
+     "name": "G. Moss"
+    }
+   ],
+   "abstract": "ABSTRACT Throughout the COVID-19 pandemic, the immediate and longer-term effects of school closures and ongoing interruptions on children’s learning have been a source of considerable apprehension to many. In an attempt to anticipate and mitigate the effect of school closures, researchers and policymakers have turned to the learning loss literature, research that estimates the effect of summer holidays on academic achievement. However, school closures due to COVID-19 have taken place under very different conditions, making the utility of such a literature debatable. Instead, this study is based on a rapid evidence assessment of research on learning disruption – extended and unplanned periods of school closure following unprecedented events, such as SARs or weather-related events. We argue that this literature provides clearer evidence on what helps children return to learning under similar conditions, and in this sense has more direct relevance for schools after COVID-19. A narrative synthesis of key recommendations is presented. Key findings are as follows: (i) that school leaders’ local knowledge is pivotal in leading a return to school, (ii) the curriculum needs to be responsive to children’s needs and (iii) that schools are essential in supporting the mental health of students. A discussion of the applicability and utility of these findings is provided in light of emerging evidence of challenges faced by schools in the context of an ongoing global pandemic and the disruption to education it continues to create."
+  },
+  {
+   "paperId": "ae380fc6a86e9cb643e4ddbb49ffa5ef26095404",
+   "externalIds": {
+    "MAG": "3097159547",
+    "DOI": "10.3102/0013189X20965918",
+    "CorpusId": 219433797
+   },
+   "url": "https://www.semanticscholar.org/paper/ae380fc6a86e9cb643e4ddbb49ffa5ef26095404",
+   "title": "Projecting the Potential Impact of COVID-19 School Closures on Academic Achievement",
+   "venue": "Educational Research",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3102/0013189X20965918?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3102/0013189X20965918, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-10-28",
+   "authors": [
+    {
+     "authorId": "49064911",
+     "name": "Megan Kuhfeld"
+    },
+    {
+     "authorId": "104512076",
+     "name": "James G. Soland"
+    },
+    {
+     "authorId": "117161970",
+     "name": "Beth Tarasawa"
+    },
+    {
+     "authorId": "9049674",
+     "name": "Angela Johnson"
+    },
+    {
+     "authorId": "4334236",
+     "name": "Erik A. Ruzek"
+    },
+    {
+     "authorId": "2153468659",
+     "name": "Jing Liu"
+    }
+   ],
+   "abstract": "As the COVID-19 pandemic upended the 2019–2020 school year, education systems scrambled to meet the needs of students and families with little available data on how school closures may impact learning. In this study, we produced a series of projections of COVID-19-related learning loss based on (a) estimates from absenteeism literature and (b) analyses of summer learning patterns of 5 million students. Under our projections, returning students are expected to start fall 2020 with approximately 63 to 68% of the learning gains in reading and 37 to 50% of the learning gains in mathematics relative to a typical school year. However, we project that losing ground during the school closures was not universal, with the top third of students potentially making gains in reading."
+  },
+  {
+   "paperId": "d02fd43ef058d4807b51a7d6164c417dfb4822c8",
+   "externalIds": {
+    "PubMedCentral": "13171617",
+    "DOI": "10.1057/s41599-026-06967-w",
+    "CorpusId": 257974766,
+    "PubMed": "42146970"
+   },
+   "url": "https://www.semanticscholar.org/paper/d02fd43ef058d4807b51a7d6164c417dfb4822c8",
+   "title": "COVID-19 school closures, learning losses and intergenerational mobility",
+   "venue": "Humanities and Social Sciences Communications",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41599-026-06967-w_reference.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13171617, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Book",
+    "Review"
+   ],
+   "publicationDate": "2023-03-28",
+   "authors": [
+    {
+     "authorId": "34218929",
+     "name": "A. Cojocaru"
+    },
+    {
+     "authorId": "24958714",
+     "name": "João Pedro Azevedo"
+    },
+    {
+     "authorId": "71947946",
+     "name": "Ambar Narayan"
+    },
+    {
+     "authorId": "2166712858",
+     "name": "Veronica Montalva-Talledo"
+    }
+   ],
+   "abstract": "The paper investigates the longer-term inequality implications of COVID-19 by examining the ability of children from different backgrounds to engage in continued learning throughout the pandemic, and their implications for intergenerational mobility in education. The analysis builds on data from the Global Database of Intergenerational Mobility, country-specific learning loss simulation models using weekly school closure information from February 2020 to February 2022, and high-frequency phone survey data collected by the World Bank during the pandemic to assess the incidence and type of continued learning during school closures across children from different backgrounds. Using this information, the paper simulates counterfactual educational attainment and corresponding absolute and relative intergenerational educational mobility measures to estimate COVID-19 impacts. The results suggest that the extensive school closures are likely to have a significant impact on both absolute and relative mobility in the absence of remedial measures – in upper-middle-income countries, the share of children with more years of education than their parents could decline by 8 percentage points. Unequal access to continued learning across children from different socioeconomic backgrounds also leads to a significant decline in relative mobility. Notably, adopting more optimistic assumptions about the effectiveness of alternative learning modalities makes the simulated decline in relative mobility even larger."
+  },
+  {
+   "paperId": "02ba28ef73466633d9be224c8bea71dc3855997c",
+   "externalIds": {
+    "DOI": "10.1024/1010-0652/a000366",
+    "CorpusId": 259806004
+   },
+   "url": "https://www.semanticscholar.org/paper/02ba28ef73466633d9be224c8bea71dc3855997c",
+   "title": "No Loss, No Gain? COVID-19 school closures and Swiss fifth-graders' competencies and self-concept in mathematics",
+   "venue": "Zeitschrift für pädagogische Psychologie",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1024/1010-0652/a000366",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1024/1010-0652/a000366?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1024/1010-0652/a000366, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-06-21",
+   "authors": [
+    {
+     "authorId": "119174451",
+     "name": "Miriam Compagnoni"
+    },
+    {
+     "authorId": "2080500503",
+     "name": "Beat Rechsteiner"
+    },
+    {
+     "authorId": "2076019",
+     "name": "Urs Grob"
+    },
+    {
+     "authorId": "118612726",
+     "name": "N. Bayer"
+    },
+    {
+     "authorId": "2079774188",
+     "name": "A. Wullschleger"
+    },
+    {
+     "authorId": "2492206053",
+     "name": "Katharina Maag Merki"
+    }
+   ],
+   "abstract": "Abstract: COVID-19-related school closures in spring 2020 interrupted learning routines and posed a great challenge for students' competencies acquisition and self-concepts. Concerns about possible learning losses due to school closures, especially for disadvantaged students, are justified, but the currently available empirical evidence is still scarce, varies greatly with regard to context, and neglects reciprocal effects of competencies and self-concept. To address these shortcomings, this paper first provides insights on the effect that the 8 weeks of school closures had on Swiss primary school students' math competencies. IRT-based math tests were used to cross-sectionally compare data from 1,299 students in Grade 5 in late spring 2020 shortly after the reopening of schools with data from a previous year's cohort ( n = 11,314) using propensity score matching. The results revealed no significant differences in math competencies and no evidence of an increase in inequality when children with not German (vs German) as their first language were studied. Second, changes in math self-concepts in the school year 2019/20, when the pandemic first hit, as well as reciprocal effects of math competencies and math self-concept were assessed longitudinally ( n = 1,299) using random intercept cross-lagged panel models based on three measurement points. Results showed that higher math self-concept and positive change in math self-concept over the time of school closures were related to higher learning gains. Different development trajectories for children with German (vs not German) first language emerged. The study therefore fosters a better understanding of the effect that pandemic-induced school closures had on learning and relativizes the feared negative effects on math competencies caused by short school closures."
+  },
+  {
+   "paperId": "76b917124e1e7f11bf94a0933a52d8881ec9fa2b",
+   "externalIds": {
+    "DOI": "10.1080/00313831.2021.2006307",
+    "CorpusId": 245035298
+   },
+   "url": "https://www.semanticscholar.org/paper/76b917124e1e7f11bf94a0933a52d8881ec9fa2b",
+   "title": "Learning Loss in Vulnerable Student Populations After the First Covid-19 School Closure in the Netherlands",
+   "venue": "Scandinavian Journal of Educational Research",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/00313831.2021.2006307?needAccess=true",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/00313831.2021.2006307?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00313831.2021.2006307, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-12-10",
+   "authors": [
+    {
+     "authorId": "2144633537",
+     "name": "Tessa M. Schuurman"
+    },
+    {
+     "authorId": "40031688",
+     "name": "Lotte F. Henrichs"
+    },
+    {
+     "authorId": "37659909",
+     "name": "N. Schuurman"
+    },
+    {
+     "authorId": "2144635861",
+     "name": "Simone Polderdijk"
+    },
+    {
+     "authorId": "46639537",
+     "name": "Lisette Hornstra"
+    }
+   ],
+   "abstract": "ABSTRACT School closures due to the COVID-19 pandemic raised concerns about increases in educational inequality. We examined the magnitude of the impact of the first school closure for vulnerable student groups in particular. This study was conducted among 886 Grade 3 - 5 students in the Netherlands in schools serving a high percentage of students from disadvantaged backgrounds. Piecewise growth analyses indicated that the school closures caused discontinuity in students’ achievement growth on national standardized tests and led to an average learning loss of 2.47 months in mathematics and 2.35 in reading comprehension, exceeding the duration of the school closure. Findings suggest that school closures contribute to educational inequality and indicate which students may particularly need additional support to overcome the adverse consequences of the lockdowns."
+  },
+  {
+   "paperId": "53fe8dc46daf0b0d43bb37dca8ea55c9c787f9cf",
+   "externalIds": {
+    "DOI": "10.18356/25206796-2020-13",
+    "CorpusId": 240867204
+   },
+   "url": "https://www.semanticscholar.org/paper/53fe8dc46daf0b0d43bb37dca8ea55c9c787f9cf",
+   "title": "COVID-19: Effects of School Closures on Foundational Skills and Promising Practices for Monitoring and Mitigating Learning Loss",
+   "venue": "Innocenti Working Papers",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18356/25206796-2020-13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18356/25206796-2020-13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "103929850",
+     "name": "Carolina Albán Conto"
+    },
+    {
+     "authorId": "11463439",
+     "name": "Spogmai Akseer"
+    },
+    {
+     "authorId": "2566585961",
+     "name": "Thomas Dreesen"
+    },
+    {
+     "authorId": "115155948",
+     "name": "Akito Kamei"
+    },
+    {
+     "authorId": "84122264",
+     "name": "Suguru Mizunoya"
+    },
+    {
+     "authorId": "2092772134",
+     "name": "A. Rigole"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "1e4701231a6ca05e8d1acb07decc7da74cb354a6",
+   "externalIds": {
+    "DOI": "10.33094/6.2017.2021.51.11.19",
+    "CorpusId": 237630731
+   },
+   "url": "https://www.semanticscholar.org/paper/1e4701231a6ca05e8d1acb07decc7da74cb354a6",
+   "title": "Lessons (to be) Learned? An Investigation of Online Learning during the COVID-19 School Closures in a Brunei Primary School",
+   "venue": "International Journal of Education, Training and Learning",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "http://onlineacademicpress.com/index.php/IJETL/article/download/445/348",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33094/6.2017.2021.51.11.19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33094/6.2017.2021.51.11.19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2021-08-26",
+   "authors": [
+    {
+     "authorId": "2373605769",
+     "name": "P. Chin"
+    }
+   ],
+   "abstract": "This study explores data gathered from Year 6 subject teachers and senior administrators at a public primary school in Brunei Darussalam regarding online learning and teaching, and the transformation challenges encountered when moving from classroom education to virtual-based learning during the COVID-19 pandemic. A mixed methods approach was used, and the findings revealed there was both student learning loss and gain in the 2020 primary national school assessment. Unequal access to technology deprived disadvantaged students while internet issues showed that students experienced slow connections and inadequate internet quotas for online learning. The most significant findings were that collegial support and collaboration helped to reduce teachers’ anxiety levels, and that having digital competence was advantageous in successfully implementing technological teaching methods to support and advance education. Parental involvement in their children’s education at home was equally important as in regular schooling. The limitations of this study were that the opinions of the senior administrators and subject teachers were based on their self-reflection on evaluation, analysis and action plan; furthermore, the mixed approach reduces direct comparison with other public primary schools. Such educational challenges facing students and teachers may lead to better understanding and future research and developments in improving educational systems."
+  },
+  {
+   "paperId": "54170eda8ce0d7fbe699ce716df2ebade0dedba5",
+   "externalIds": {
+    "PubMedCentral": "11305537",
+    "DOI": "10.1371/journal.pone.0301301",
+    "CorpusId": 271767888,
+    "PubMed": "39110741"
+   },
+   "url": "https://www.semanticscholar.org/paper/54170eda8ce0d7fbe699ce716df2ebade0dedba5",
+   "title": "The performance of interrupted time series designs with a limited number of time points: Learning losses due to school closures during the COVID-19 pandemic",
+   "venue": "PLoS ONE",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1371/journal.pone.0301301",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11305537, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-08-07",
+   "authors": [
+    {
+     "authorId": "2542453550",
+     "name": "F. V. van Leeuwen"
+    },
+    {
+     "authorId": "5448455",
+     "name": "P. Lugtig"
+    },
+    {
+     "authorId": "5326406",
+     "name": "R. Feskens"
+    }
+   ],
+   "abstract": "Interrupted time series (ITS) designs are increasingly used for estimating the effect of shocks in natural experiments. Currently, ITS designs are often used in scenarios with many time points and simple data structures. This research investigates the performance of ITS designs when the number of time points is limited and with complex data structures. Using a Monte Carlo simulation study, we empirically derive the performance—in terms of power, bias and precision- of the ITS design. Scenarios are considered with multiple interventions, a low number of time points and different effect sizes based on a motivating example of the learning loss due to COVID school closures. The results of the simulation study show the power of the step change depends mostly on the sample size, while the power of the slope change depends on the number of time points. In the basic scenario, with both a step and a slope change and an effect size of 30% of the pre-intervention slope, the required sample size for detecting a step change is 1,100 with a minimum of twelve time points. For detecting a slope change the required sample size decreases to 500 with eight time points. To decide if there is enough power researchers should inspect their data, hypothesize about effect sizes and consider an appropriate model before applying an ITS design to their research. This paper contributes to the field of methodology in two ways. Firstly, the motivation example showcases the difficulty of employing ITS designs in cases which do not adhere to a single intervention. Secondly, models are proposed for more difficult ITS designs and their performance is tested."
+  },
+  {
+   "paperId": "a2b5c2baee5f7db380f91650c38e3b3ac15d9986",
+   "externalIds": {
+    "DOI": "10.1007/s11159-023-10011-3",
+    "CorpusId": 264113317
+   },
+   "url": "https://www.semanticscholar.org/paper/a2b5c2baee5f7db380f91650c38e3b3ac15d9986",
+   "title": "Parents and teachers’ compensatory strategies during COVID-19 school closures: A scoping review",
+   "venue": "International Review of Education",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11159-023-10011-3.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11159-023-10011-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11159-023-10011-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-10-01",
+   "authors": [
+    {
+     "authorId": "2574597675",
+     "name": "Elena De Gioannis"
+    },
+    {
+     "authorId": "75982658",
+     "name": "G. Ballarino"
+    },
+    {
+     "authorId": "2258488365",
+     "name": "Davide Cartagini"
+    }
+   ],
+   "abstract": "After the outbreak of the COVID-19 pandemic, most countries decided to close schools in 2020 to slow down the spread of the virus. The abrupt closure of schools required teachers and families to adapt quickly to an online setting for school activities. The literature review presented here focuses on this adaptive process, summarising research on how parents and teachers tried to curtail the potentially detrimental effects of school closure and remote schooling on students’ learning, identifying the compensatory strategies adopted and analysing their impact on students’ learning experience and performance. The review highlights that the shift from in-person to remote learning led to significant learning losses, as well as to the emergence of new inequalities and the exacerbation of old ones. Teachers and parents played a pivotal role in minimising learning loss due to emergency remote teaching (ERT). Concerning parents, the three main types of strategies were related to: (1) parental socioeconomic and/or demographic factors; (2) parental involvement and support in learning activities; and (3) the family environment. Concerning teachers, two strategies emerged: (1) the implementation of activities favouring interaction between teachers and students and/or among students; and (2) ad-hoc teaching activities. In almost all cases, the compensatory strategies identified were positively associated with students’ learning experience, with a few exceptions."
+  },
+  {
+   "paperId": "f647789721de00c695e939984fef6533d3322659",
+   "externalIds": {
+    "DOI": "10.24127/ajpm.v12i3.7382",
+    "CorpusId": 264433370
+   },
+   "url": "https://www.semanticscholar.org/paper/f647789721de00c695e939984fef6533d3322659",
+   "title": "COVID-19 SCHOOL CLOSURES IMPACTS ON PRIMARY SCHOOL STUDENTS� MATHEMATICS COMPETENCE",
+   "venue": "AKSIOMA",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://ojs.fkip.ummetro.ac.id/index.php/matematika/article/download/7382/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24127/ajpm.v12i3.7382?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24127/ajpm.v12i3.7382, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-30",
+   "authors": [
+    {
+     "authorId": "2168166246",
+     "name": "Mardyanto Barumbun"
+    },
+    {
+     "authorId": "2522021344",
+     "name": "Soma Salim S"
+    }
+   ],
+   "abstract": "School closures and home learning policy to prevent the spread of COVID-19 in Indonesia raised concerns about learning loss. This research was focused on examining the potential for learning loss in terms of the mathematical competence of year-3 indigenous primary school students in Indonesia due to school closures during the pandemic. This qualitative research with a phenomenological approach involved 8 year-3 students who had been studying from home for the last 1.5 years or so. Data collection was carried out using mathematical diagnostic tests and interviews. Results from this study revealed the phenomenon of learning loss in terms of the mathematical competence among the students, where the mastery of prior mathematics knowledge and skills required for grade 3 were not mastered yet. Also, their mathematical competences were below the competency standard in the curriculum for grade 3 primary school in Indonesia. The significancy of this study emphasized that the phenomenon of learning loss that occurred in primary school students during and even after the COVID-19 pandemic should be a serious concern for all parties and stakeholders. Hence, some solutions and quick steps that need to be taken to mitigate the long-term impacts of learning loss are also included in this article."
+  },
+  {
+   "paperId": "ac5b2298753dcd1614e569a3a907298f929ae490",
+   "externalIds": {
+    "DOI": "10.52214/cice.v25i1.9969",
+    "CorpusId": 258811042
+   },
+   "url": "https://www.semanticscholar.org/paper/ac5b2298753dcd1614e569a3a907298f929ae490",
+   "title": "Primary school learning in sub-Saharan Africa during COVID-19: a scoping review of responses and recovery initiatives induced during school closures",
+   "venue": "Current Issues in Comparative Education",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "http://dx.doi.org/10.52214/cice.v25i1.9969",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52214/cice.v25i1.9969?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52214/cice.v25i1.9969, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-05-18",
+   "authors": [
+    {
+     "authorId": "72787832",
+     "name": "B. Wawire"
+    },
+    {
+     "authorId": "2175897607",
+     "name": "A. Barnes-Story"
+    },
+    {
+     "authorId": "114577706",
+     "name": "Elisheba W. Kiru"
+    },
+    {
+     "authorId": "2109512619",
+     "name": "Sungkyum Kim"
+    }
+   ],
+   "abstract": "Globally, the COVID-19 pandemic caused unprecedented disruptions in education. School closures quickly followed the onset of the pandemic to contain the spread of the virus, forcing millions of students out of their regular academic calendars. Countries put in place interventions aimed to reduce the deleterious effects of school closures and disruptions in learning. For instance, many countries used various mediums to provide students with distance learning. This scoping review examines the interventions that education systems in low- and middle-income Sub-Saharan African (SSA) countries (LMIC) implemented to mitigate learning loss in reading and writing skills among early grade learners (i.e., children attending primary schools) and discusses the reach of those programs. This review highlights the proportion of students reached by the targeted mitigation measures, revealing that LMIC countries in SSA provided students with remote learning opportunities through radio and television programming, provided teachers with professional development on the use of novel tools, and provided parents and families with support to help learners at home. However, these disruptions affected the traditional assessment methods. Various assessment methods were implemented to measure student progress, but there is a need for appropriate progress monitoring tools and accurate data to measure the effectiveness of the interventions. Many LMIC implemented Return-to-School policy frameworks, processes, and principles that ensured safe learning continuity."
+  },
+  {
+   "paperId": "9a5c8e43f60deff993eaa2cd3909c3453235813f",
+   "externalIds": {
+    "DOI": "10.1007/s13209-024-00296-4",
+    "CorpusId": 268178869
+   },
+   "url": "https://www.semanticscholar.org/paper/9a5c8e43f60deff993eaa2cd3909c3453235813f",
+   "title": "Learning loss one year after school closures: evidence from the Basque Country",
+   "venue": "SERIEs: Journal of the Spanish Economic Association",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13209-024-00296-4.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s13209-024-00296-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s13209-024-00296-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-26",
+   "authors": [
+    {
+     "authorId": "144467561",
+     "name": "Andreu Arenas"
+    },
+    {
+     "authorId": "119311945",
+     "name": "L. Gortázar"
+    }
+   ],
+   "abstract": "We use census data on external assessments in primary and secondary schools in the Basque Country (Spain) to estimate learning losses due to the COVID-19 pandemic in March 2021, 1 year after school closures, which lasted from March to June 2020. Differences-in-differences with student and school-by-grade fixed effects show an average learning loss of 0.045 standard deviations, an effect that is smaller than short-run effects estimated by previous papers, and estimated after 6 months of one of the most successful school reopening campaigns among OECD countries. The effect is larger in Mathematics, moderate in Basque language, and none in Spanish language. Controlling for socioeconomic differences, learning losses are especially large in public schools, and also in private schools with a high percentage of low-performing students. On the other hand, we find a regression to the mean within schools, possibly due to a compressed curriculum during the whole period. Finally, and more importantly, we use unique novel data on student socio-emotional well-being and show for the first time that students with higher learning losses self-report significantly worse levels of socio-emotional well-being due to the pandemic."
+  },
+  {
+   "paperId": "3aeb462e4e5787ab19cc790cad4b9436c5deae43",
+   "externalIds": {
+    "DOI": "10.3368/jhr.0723-13025r2",
+    "CorpusId": 269019762
+   },
+   "url": "https://www.semanticscholar.org/paper/3aeb462e4e5787ab19cc790cad4b9436c5deae43",
+   "title": "COVID-19 Learning Loss and Recovery",
+   "venue": "The Journal of human resources",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://escholarship.org/content/qt3jj1b8hb/qt3jj1b8hb.pdf?t=scivff",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3368/jhr.0723-13025r2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3368/jhr.0723-13025r2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-04-08",
+   "authors": [
+    {
+     "authorId": "2244567785",
+     "name": "Abhijeet Singh"
+    },
+    {
+     "authorId": "2296000567",
+     "name": "Mauricio Romero"
+    },
+    {
+     "authorId": "2295805098",
+     "name": "Karthik Muralidharan"
+    }
+   ],
+   "abstract": "Abstract We use a panel survey of ∼19,000 primary-school-aged children in rural Tamil Nadu to study learning loss after COVID-19-induced school closures and the pace of recovery after schools reopened. Students tested in December 2021 (18 months after school closures) displayed learning deficits of ∼0.73 standard deviations (σ) in math and ∼0.34σ in language compared to identically aged students in the same villages in 2019. Two-thirds of this deficit was made up within six months after schools reopened. Further, while learning loss was regressive, recovery was progressive. A government-run after-school remediation program contributed ∼24 percent of the cohort-level recovery, likely aiding the progressive recovery."
+  },
+  {
+   "paperId": "421c9db90f26ebeaa3f9d88e6fa8f0c208d2baff",
+   "externalIds": {
+    "MAG": "3123534370",
+    "DOI": "10.12658/M0611",
+    "CorpusId": 236856203
+   },
+   "url": "https://www.semanticscholar.org/paper/421c9db90f26ebeaa3f9d88e6fa8f0c208d2baff",
+   "title": "The Impact COVID-19 School Closures on Educational Inequalities",
+   "venue": "İnsan & Toplum",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.12658/m0611",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12658/M0611?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12658/M0611, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2020-12-01",
+   "authors": [
+    {
+     "authorId": "2481004387",
+     "name": "Mahmut Özer"
+    },
+    {
+     "authorId": "115689898",
+     "name": "H. Suna"
+    },
+    {
+     "authorId": "2386729368",
+     "name": "Zafer Çelik"
+    },
+    {
+     "authorId": "1808911",
+     "name": "P. Aşkar"
+    }
+   ],
+   "abstract": "During the new coronavirus pandemic, schools were closed suddenly in almost every country in the world, and education services continued with the distance education solutions. However, the consequences of the school closures, maintaining education services via distance education and the deprivation of other services provided by schools have not been adequately evaluated. In this study, the effects of school closures and distance education on families and students during the Covid-19 pandemic were reviewed. Parental involvement, physical and technological possessions at home, digital literacy levels of students and parents have become the main factors that determines the efficiency of distance learning during the pandemic. As a result, there is a possibility that inequalities in education will increase more in pandemic. Inequalities in education had an important impact on the unemployment and loss of income, learning loss of students and psychological conditions, reaching healthy nutrition, need for special education, and fragile students. Although distance education was considered as an opportunity to reduce learning loss of students due to school closures during the pandemic, unfortunately it also made possible to increase the inequalities in education during the pandemic period."
+  }
+ ]
+}

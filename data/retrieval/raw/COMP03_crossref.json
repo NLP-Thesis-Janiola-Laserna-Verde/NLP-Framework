@@ -1,0 +1,928 @@
+{
+ "query": "Explainable artificial intelligence methods for deep neural networks",
+ "retrieved_at": "2026-11-18T17:44:18.554714+00:00",
+ "data": [
+  {
+   "DOI": "10.1016/j.engappai.2025.113622",
+   "title": [
+    "Malware classification using deep neural networks with Deep Q-Learning and eXplainable artificial intelligence"
+   ],
+   "container-title": [
+    "Engineering Applications of Artificial Intelligence"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.engappai.2025.113622",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3909-7650",
+     "authenticated-orcid": false,
+     "given": "Nguyen Tan",
+     "family": "Cam",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tran Minh",
+     "family": "Huy",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nguyen Thanh",
+     "family": "Tin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Ryerson University Library and Archives",
+   "abstract": "<jats:p>&lt;p dir=\"ltr\"&gt;In current deep learning architectures, each of the deeper layers in networks tends to contain hundreds of unorganized neurons, which makes it hard for humans to understand how they interact with each other. Research in Explainable Artificial Intelligence (XAI) aims to alleviate the black-box nature of current AI methods and make them understandable by humans. In this dissertation, we propose a novel algorithm called Locality Guided Neural Network (LGNN) for XAI. Motivated by Self-Organizing Maps (SOMs), the goal is to enforce a local topology on a layer of a deep network such that neighboring neurons are organized using correlation as a criterion. Our algorithm does not change the structure of a model, so it can be easily plugged into current state-of-the-art Convolutional Neural Network (CNN) models. A cluster of neighboring neurons activating for a class makes the network both quantitatively and qualitatively more interpretable when visualized, as we show through experiments. Additionally, user studies demonstrate how LGNN visualizations can allow users to intuit a network’s understanding of each class within a dataset. In the experiments, we train VGG and WRN networks for image classification on CIFAR100 and Imagenette datasets. Our experimental results show that LGNN maintains competitive classification accuracy to baseline models within 0.5%. Additionally, case studies and user experiments explore how LGNN can be utilized for downstream tasks such as manually selecting neurons for feature visualization. Our user study tasked users with predicting test set classification accuracy using visualizations from both LGNN and Uniform Manifold Approximation and Projection (UMAP), which is state-of-the-art. The users had a mean correlation of 0.6285 for LGNN and 0.5913 for UMAP between the user predictions and the actual test set accuracy. These correlations demonstrate that LGNN visualizations can be utilized alongside state-of-the-art visualization toolsto analyze neural networks.&lt;/p&gt;</jats:p>",
+   "DOI": "10.32920/29873849",
+   "type": "posted-content",
+   "title": [
+    "Locality Guided Neural Networks for Explainable Artificial Intelligence"
+   ],
+   "author": [
+    {
+     "given": "Randy",
+     "family": "Tan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      26
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.32920/29873849"
+  },
+  {
+   "publisher": "Ryerson University Library and Archives",
+   "abstract": "<jats:p>&lt;p dir=\"ltr\"&gt;In current deep learning architectures, each of the deeper layers in networks tends to contain hundreds of unorganized neurons, which makes it hard for humans to understand how they interact with each other. Research in Explainable Artificial Intelligence (XAI) aims to alleviate the black-box nature of current AI methods and make them understandable by humans. In this dissertation, we propose a novel algorithm called Locality Guided Neural Network (LGNN) for XAI. Motivated by Self-Organizing Maps (SOMs), the goal is to enforce a local topology on a layer of a deep network such that neighboring neurons are organized using correlation as a criterion. Our algorithm does not change the structure of a model, so it can be easily plugged into current state-of-the-art Convolutional Neural Network (CNN) models. A cluster of neighboring neurons activating for a class makes the network both quantitatively and qualitatively more interpretable when visualized, as we show through experiments. Additionally, user studies demonstrate how LGNN visualizations can allow users to intuit a network’s understanding of each class within a dataset. In the experiments, we train VGG and WRN networks for image classification on CIFAR100 and Imagenette datasets. Our experimental results show that LGNN maintains competitive classification accuracy to baseline models within 0.5%. Additionally, case studies and user experiments explore how LGNN can be utilized for downstream tasks such as manually selecting neurons for feature visualization. Our user study tasked users with predicting test set classification accuracy using visualizations from both LGNN and Uniform Manifold Approximation and Projection (UMAP), which is state-of-the-art. The users had a mean correlation of 0.6285 for LGNN and 0.5913 for UMAP between the user predictions and the actual test set accuracy. These correlations demonstrate that LGNN visualizations can be utilized alongside state-of-the-art visualization toolsto analyze neural networks.&lt;/p&gt;</jats:p>",
+   "DOI": "10.32920/29873849.v1",
+   "type": "posted-content",
+   "title": [
+    "Locality Guided Neural Networks for Explainable Artificial Intelligence"
+   ],
+   "author": [
+    {
+     "given": "Randy",
+     "family": "Tan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1,
+      26
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.32920/29873849.v1"
+  },
+  {
+   "DOI": "10.1016/j.engappai.2025.111961",
+   "title": [
+    "Explainable automated wild-orchid identification combining deep neural networks and Bayesian networks"
+   ],
+   "container-title": [
+    "Engineering Applications of Artificial Intelligence"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.engappai.2025.111961",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1673-7870",
+     "authenticated-orcid": false,
+     "given": "Diah Harnoni",
+     "family": "Apriyanti",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8481-560X",
+     "authenticated-orcid": false,
+     "given": "Luuk J.",
+     "family": "Spreeuwers",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5454-2428",
+     "authenticated-orcid": false,
+     "given": "Peter J.F.",
+     "family": "Lucas",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1117/12.3110121",
+   "title": [
+    "Application of explainable artificial intelligence in quality control of port engineering construction"
+   ],
+   "container-title": [
+    "Second International Conference on Artificial Intelligence, Deep Learning, and Neural Networks (AIDLNN 2025)"
+   ],
+   "publisher": "SPIE",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      29
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1117/12.3110121",
+   "author": [
+    {
+     "given": "Luyao",
+     "family": "Wang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Luning",
+     "family": "Ning",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1117/12.3110885",
+   "title": [
+    "Case study on optimizing credit scoring models for financial risk assessment using explainable artificial intelligence"
+   ],
+   "container-title": [
+    "Second International Conference on Artificial Intelligence, Deep Learning, and Neural Networks (AIDLNN 2025)"
+   ],
+   "publisher": "SPIE",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      29
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1117/12.3110885",
+   "author": [
+    {
+     "given": "Yajun",
+     "family": "Xiong",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003172772-13",
+   "title": [
+    "Indoor Environment Assistance Navigation System Using Deep Convolutional Neural Networks"
+   ],
+   "container-title": [
+    "Explainable Artificial Intelligence for Smart Cities"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      16
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003172772-13",
+   "author": [
+    {
+     "given": "M.",
+     "family": "Afif",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "R.",
+     "family": "Ayachi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Atri",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Ryerson University Library and Archives",
+   "abstract": "<jats:p>&lt;p&gt;In current deep network architectures, deeper layers in networks tend to contain hundreds of independent neurons which makes it hard for humans to understand how they interact with each other. By organizing the neurons by correlation, humans can observe how clusters of neighbouring neurons interact with each other. In this paper, we propose a novel algorithm for back propagation, called Locality Guided Neural Network(LGNN) for training networks that preserves locality between neighbouring neurons within each layer of a deep network. Heavily motivated by Self-Organizing Map (SOM), the goal is to enforce a local topology on each layer of a deep network such that neighbouring neurons are highly correlated with each other. This method contributes to the domain of Explainable Artificial Intelligence (XAI), which aims to alleviate the black-box nature of current AI methods and make them understandable by humans. Our method aims to achieve XAI in deep learning without changing the structure of current models nor requiring any post processing. This paper focuses on Convolutional Neural Networks (CNNs), but can theoretically be applied to any type of deep learning architecture. In our experiments, we train various VGG and Wide ResNet (WRN) networks for image classification on CIFAR100. In depth analyses presenting both qualitative and quantitative results demonstrate that our method is capable of enforcing a topology on each layer while achieving a small increase in classification accuracy&lt;/p&gt;</jats:p>",
+   "DOI": "10.32920/22734389",
+   "type": "posted-content",
+   "title": [
+    "Locality Guided Neural Networks for Explainable Artificial Intelligence"
+   ],
+   "author": [
+    {
+     "given": "Randy",
+     "family": "Tan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Naimul",
+     "family": "Khan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ling",
+     "family": "Guan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.32920/22734389"
+  },
+  {
+   "publisher": "Ryerson University Library and Archives",
+   "abstract": "<jats:p>&lt;p&gt;In current deep network architectures, deeper layers in networks tend to contain hundreds of independent neurons which makes it hard for humans to understand how they interact with each other. By organizing the neurons by correlation, humans can observe how clusters of neighbouring neurons interact with each other. In this paper, we propose a novel algorithm for back propagation, called Locality Guided Neural Network(LGNN) for training networks that preserves locality between neighbouring neurons within each layer of a deep network. Heavily motivated by Self-Organizing Map (SOM), the goal is to enforce a local topology on each layer of a deep network such that neighbouring neurons are highly correlated with each other. This method contributes to the domain of Explainable Artificial Intelligence (XAI), which aims to alleviate the black-box nature of current AI methods and make them understandable by humans. Our method aims to achieve XAI in deep learning without changing the structure of current models nor requiring any post processing. This paper focuses on Convolutional Neural Networks (CNNs), but can theoretically be applied to any type of deep learning architecture. In our experiments, we train various VGG and Wide ResNet (WRN) networks for image classification on CIFAR100. In depth analyses presenting both qualitative and quantitative results demonstrate that our method is capable of enforcing a topology on each layer while achieving a small increase in classification accuracy&lt;/p&gt;</jats:p>",
+   "DOI": "10.32920/22734389.v1",
+   "type": "posted-content",
+   "title": [
+    "Locality Guided Neural Networks for Explainable Artificial Intelligence"
+   ],
+   "author": [
+    {
+     "given": "Randy",
+     "family": "Tan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Naimul",
+     "family": "Khan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ling",
+     "family": "Guan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.32920/22734389.v1"
+  },
+  {
+   "DOI": "10.1002/9781119790327.ch4",
+   "title": [
+    "Explainable Neural Networks"
+   ],
+   "container-title": [
+    "Artificial Intelligence and Quantum Computing for Advanced Wireless Networks"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      2,
+      14
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781119790327.ch4"
+  },
+  {
+   "DOI": "10.1109/is61756.2024.10705194",
+   "title": [
+    "Deep Neural Networks for Anti Money Laundering Using Explainable Artificial Intelligence"
+   ],
+   "container-title": [
+    "2024 IEEE 12th International Conference on Intelligent Systems (IS)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      8,
+      29
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/is61756.2024.10705194",
+   "author": [
+    {
+     "given": "Giannis",
+     "family": "Konstantinidis",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Portsmouth,Portsmouth,United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Alexander",
+     "family": "Gegov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Portsmouth,Portsmouth,United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "International Joint Conferences on Artificial Intelligence Organization",
+   "abstract": "<jats:p>We demonstrate that CNN deep neural networks can not only be used for making predictions based on multivariate time series data, but also for explaining these predictions. \nThis is important for a number of applications where predictions are the basis for decisions and actions. Hence, confidence in the prediction result is crucial. \nWe design a two stage convolutional neural network architecture which uses particular kernel sizes.\nThis allows us to utilise gradient based techniques for generating saliency maps for both the time dimension and the features.\nThese are then used for explaining which features during which time interval are responsible for a given prediction, as well as explaining during which time intervals was the joint contribution of all features most important for that prediction. \nWe demonstrate our approach for predicting the average energy production of photovoltaic power plants and for explaining these predictions.</jats:p>",
+   "DOI": "10.24963/ijcai.2019/932",
+   "type": "proceedings-article",
+   "title": [
+    "Explainable Deep Neural Networks for Multivariate Time Series Predictions"
+   ],
+   "author": [
+    {
+     "given": "Roy",
+     "family": "Assaf",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "IBM Research, Zurich"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Anika",
+     "family": "Schumann",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IBM Research, Zurich"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.24963/ijcai.2019/932"
+  },
+  {
+   "DOI": "10.2139/ssrn.5139467",
+   "title": [
+    "Explainable Artificial Intelligence with MicroPython: Lightweight Neural Networks for Students' Deeper Learning"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5139467",
+   "author": [
+    {
+     "given": "Dennis",
+     "family": "Klinkhammer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1117/12.3110928",
+   "title": [
+    "Explainable artificial intelligence decision support for plant species selection in saline-alkali land remediation"
+   ],
+   "container-title": [
+    "Second International Conference on Artificial Intelligence, Deep Learning, and Neural Networks (AIDLNN 2025)"
+   ],
+   "publisher": "SPIE",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      29
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1117/12.3110928",
+   "author": [
+    {
+     "given": "Ruonan",
+     "family": "Sun",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Congdong",
+     "family": "Jiang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xinwei",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "American Meteorological Society",
+   "abstract": "<jats:title>Abstract</jats:title>\n<jats:p>Convolutional neural networks (CNNs) have recently attracted great attention in geoscience because of their ability to capture nonlinear system behavior and extract predictive spatiotemporal patterns. Given their black-box nature, however, and the importance of prediction explainability, methods of explainable artificial intelligence (XAI) are gaining popularity as a means to explain the CNN decision-making strategy. Here, we establish an intercomparison of some of the most popular XAI methods and investigate their fidelity in explaining CNN decisions for geoscientific applications. Our goal is to raise awareness of the theoretical limitations of these methods and to gain insight into the relative strengths and weaknesses to help guide best practices. The considered XAI methods are first applied to an idealized attribution benchmark, in which the ground truth of explanation of the network is known a priori, to help objectively assess their performance. Second, we apply XAI to a climate-related prediction setting, namely, to explain a CNN that is trained to predict the number of atmospheric rivers in daily snapshots of climate simulations. Our results highlight several important issues of XAI methods (e.g., gradient shattering, inability to distinguish the sign of attribution, and ignorance to zero input) that have previously been overlooked in our field and, if not considered cautiously, may lead to a distorted picture of the CNN decision-making strategy. We envision that our analysis will motivate further investigation into XAI fidelity and will help toward a cautious implementation of XAI in geoscience, which can lead to further exploitation of CNNs and deep learning for prediction problems.</jats:p>",
+   "DOI": "10.1175/aies-d-22-0012.1",
+   "type": "journal-article",
+   "title": [
+    "Investigating the Fidelity of Explainable Artificial Intelligence Methods for Applications of Convolutional Neural Networks in Geoscience"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1731-7595",
+     "authenticated-orcid": true,
+     "given": "Antonios",
+     "family": "Mamalakis",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "a Department of Atmospheric Science, Colorado State University, Fort Collins, Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Elizabeth A.",
+     "family": "Barnes",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "a Department of Atmospheric Science, Colorado State University, Fort Collins, Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Imme",
+     "family": "Ebert-Uphoff",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "b Department of Electrical and Computer Engineering, Colorado State University, Fort Collins, Colorado"
+      },
+      {
+       "name": "c Cooperative Institute for Research in the Atmosphere, Colorado State University, Fort Collins, Colorado"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Artificial Intelligence for the Earth Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      10
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1175/aies-d-22-0012.1"
+  },
+  {
+   "publisher": "European Federation of Engineering Associations",
+   "abstract": "<jats:p>Deep neural networks have strengthened the perception and planning abilities of autonomous vehicles, but as opaque systems, they are difficult to inspect after an accident in bad weather. This paper develops a transparency framework for camera-based driving decisions by integrating concept-aligned feature attribution, temporal counterfactual testing, and uncertainty-aware explanation scoring. A multi-task network was tested on 46,200 annotated urban frames and 8,640 short sequences with clear, rain, night, occlusion and construction conditions. The mean intersection-over-union and steering mean absolute error of the proposed method were 78.6% and 1.84 degrees, respectively, and the generation speed was 21.7ms per frame. The five post-hoc baselines were evaluated, and it was found that among them, the fidelity of the explanations was the lowest, at 0.71, whereas five improvements were made to the other baselines. The human reviewers reduced the localization time for causal road agents by 18.9% with the new explanations, and there was no increase in false intervention decisions. Ablation results show that concept alignment is responsible for most of the semantic faithfulness, and counterfactual consistency is required in cases of occlusion and bad weather. Based on the above research, \"openness\" can be considered a quantifiable indicator and should not be seen as merely an appearance trait. A system needs to be feasible for driving rules observation and have high accuracy and timeliness in prediction.</jats:p>",
+   "DOI": "10.64972/jaat.2023v1.300p14e:186-199",
+   "type": "journal-article",
+   "title": [
+    "Explainable Artificial Intelligence for Autonomous Driving: A Study on Transparency in Deep Neural Networks"
+   ],
+   "author": [
+    {
+     "given": "Lidia",
+     "family": "Kaczmarowa",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Oliwia Barbara",
+     "family": "Budzyńska",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Applied Automation Technologies"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      5
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.64972/jaat.2023v1.300p14e:186-199"
+  },
+  {
+   "DOI": "10.1109/ijcnn48605.2020.9207559",
+   "title": [
+    "Locality Guided Neural Networks for Explainable Artificial Intelligence"
+   ],
+   "container-title": [
+    "2020 International Joint Conference on Neural Networks (IJCNN)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      7
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/ijcnn48605.2020.9207559",
+   "author": [
+    {
+     "given": "Randy",
+     "family": "Tan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Naimul",
+     "family": "Khan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Ling",
+     "family": "Guan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7717/peerj.10346/fig-2",
+   "title": [
+    "Figure 2: Relationship between artificial intelligence, machine learning, artificial neural networks and deep learning."
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.7717/peerj.10346/fig-2"
+  },
+  {
+   "publisher": "American Meteorological Society",
+   "abstract": "<jats:title>Abstract</jats:title>\n<jats:p>Convolutional neural networks (CNNs) are opening new possibilities in the realm of satellite remote sensing. CNNs are especially useful for capturing the information in spatial patterns that is evident to the human eye but has eluded classical pixelwise retrieval algorithms. However, the black-box nature of CNN predictions makes them difficult to interpret, hindering their trustworthiness. This paper explores a new way to simplify CNNs that allows them to be implemented in a fully transparent and interpretable framework. This clarity is accomplished by moving the inner workings of the CNN out into a feature engineering step and replacing the CNN with a regression model. The specific example of the GOES Radar Estimation via Machine Learning to Inform NWP (GREMLIN) is used to demonstrate that such simplifications are possible and to show the benefits of the interpretable approach. GREMLIN translates images of GOES radiances and lightning into images of radar reflectivity, and previous research used explainable artificial intelligence (XAI) approaches to explain some aspects of how GREMLIN makes predictions. However, the Interpretable GREMLIN model shows that XAI missed several strategies, and XAI does not provide guarantees on how the model will respond when confronted with new scenarios. In contrast, the interpretable model establishes well-defined relationships between inputs and outputs, offering a clear mapping of the spatial context utilized by the CNN to make accurate predictions, and providing guarantees on how the model will respond to new inputs. The significance of this work is that it provides a new approach for developing trustworthy artificial intelligence models.</jats:p>\n<jats:sec>\n<jats:title>Significance Statement</jats:title>\n<jats:p>Convolutional neural networks (CNNs) are very powerful tools for interpreting and processing satellite imagery. However, the black-box nature of their predictions makes them difficult to interpret, compromising their trustworthiness when applied in the context of high-stakes decision-making. This paper develops an interpretable version of a CNN model, showing that it has similar performance as the original CNN. The interpretable model is analyzed to obtain clear relationships between inputs and outputs, which elucidates the nature of spatial context utilized by CNNs to make accurate predictions. The interpretable model has a well-defined response to inputs, providing guarantees for how it will respond to novel inputs. The significance of this work is that it provides an approach to developing trustworthy artificial intelligence models.</jats:p></jats:sec>",
+   "DOI": "10.1175/aies-d-22-0093.1",
+   "type": "journal-article",
+   "title": [
+    "Understanding Spatial Context in Convolutional Neural Networks Using Explainable Methods: Application to Interpretable GREMLIN"
+   ],
+   "author": [
+    {
+     "given": "Kyle A.",
+     "family": "Hilburn",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "a Cooperative Institute for Research in the Atmosphere, Colorado State University, Fort Collins, Colorado"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Artificial Intelligence for the Earth Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1175/aies-d-22-0093.1"
+  },
+  {
+   "DOI": "10.1109/case69030.2026.11704517",
+   "title": [
+    "Error Detection of the Robotic Unfastening Process by Utilizing Deep Neural Networks and Explainable Artificial Intelligence"
+   ],
+   "container-title": [
+    "2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/case69030.2026.11704517"
+  }
+ ]
+}

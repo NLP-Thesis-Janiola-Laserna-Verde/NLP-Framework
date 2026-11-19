@@ -1,0 +1,787 @@
+{
+ "query": "Sea level rise and coastal community adaptation",
+ "retrieved_at": "2026-11-18T18:02:07.331047+00:00",
+ "data": [
+  {
+   "DOI": "10.1017/cft.2023.25.pr3",
+   "title": [
+    "Review: Social science to accelerate coastal adaptation to sea-level rise — R0/PR3"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      14
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr3"
+  },
+  {
+   "DOI": "10.1017/cft.2023.25.pr2",
+   "title": [
+    "Review: Social science to accelerate coastal adaptation to sea-level rise — R0/PR2"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      1
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr2"
+  },
+  {
+   "DOI": "10.1017/cft.2023.25.pr7",
+   "title": [
+    "Review: Social science to accelerate coastal adaptation to sea-level rise — R1/PR7"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      5
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr7"
+  },
+  {
+   "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+   "abstract": "<jats:title>Utilisation des fonctions de croyance pour la modélisation des incertitudes dans les projections de l'élévation du niveau marin pour l'adaptation côtière</jats:title>\n                <jats:p xml:lang=\"fr\">L’adaptation côtière est un impératif pour faire face à l’élévation du niveau marin,conséquence directe du réchauffement climatique. Cependant, la mise en place d’actions et de stratégies est souvent entravée par la présence de diverses et importantes incertitudes lors de l’estimation des aléas et risques futurs. Ces incertitudes peuvent être dues à une connaissance limitée (de l’élévation du niveau marin futur par exemple) ou à la variabilité naturelle de certaines variables (les conditions de mer extrêmes). La prise en compte des incertitudes dans la chaîne d’évaluation des risques est essentielle pour une adaptation efficace.L’objectif de ce travail est de proposer une méthodologie pour la quantification des incertitudes basée sur les fonctions de croyance – un formalisme de l’incertain plus flexible que les probabilités. Les fonctions de croyance nous permettent de décrire plus fidèlement l’information incomplète fournie par des experts (quantiles,intervalles, etc.), et de combiner différentes sources d’information. L’information statistique peut quand à elle être décrite par de fonctions des croyance définies à partir de la fonction de vraisemblance. Pour la propagation d’incertitudes, nous exploitons l’équivalence mathématique entre fonctions de croyance et intervalles aléatoires, et procédons par échantillonnage Monte Carlo. La méthodologie est appliquée dans l’estimation des projections de la remontée du niveau marin global à la fin du siècle issues de la modélisation physique, d’élicitation d’avis d’experts, et de modèle semi-empirique. Ensuite, dans une étude de cas, nous évaluons l’impact du changement climatique sur les conditions de mers extrêmes et évaluons le renforcement nécessaire d’une structure afin de maintenir son niveau de performance fonctionnelle.</jats:p>",
+   "DOI": "10.70675/9b36a7f3z854ez4f2dz82daz9dd778eb4177",
+   "type": "dissertation",
+   "title": [
+    "Modeling sea-level rise uncertainties for coastal defence adaptation using belief functions"
+   ],
+   "author": [
+    {
+     "given": "Nadia",
+     "family": "Ben Abdallah",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/04y5kwa70",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Compiègne"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70675/9b36a7f3z854ez4f2dz82daz9dd778eb4177"
+  },
+  {
+   "DOI": "10.1061/9780784412008.ch06",
+   "title": [
+    "A \"Toolkit\" for Sea Level Rise Adaptation in Virginia"
+   ],
+   "container-title": [
+    "Sea Level Rise and Coastal Infrastructure"
+   ],
+   "publisher": "American Society of Civil Engineers",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      3,
+      15
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1061/9780784412008.ch06",
+   "author": [
+    {
+     "suffix": "Jr.",
+     "given": "William A.",
+     "family": "Stiles",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Executive Director, Wetlands Watch, 1121 Graydon Ave., Norfolk, VA 23507."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.54985/peeref.2209p4785874",
+   "title": [
+    "Sea Level Rise Induced Impacts on Coastal Areas of Bangladesh and Local-Led Community-Based Adaptation"
+   ],
+   "publisher": "Peeref",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      28
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.54985/peeref.2209p4785874",
+   "author": [
+    {
+     "given": "Bishwajit",
+     "family": "Roy",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Centre for Ecology, Evolution and Environmental Changes, University of Lisbon"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Tiago Capela",
+     "family": "Lourenço",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Centre for Ecology, Evolution and Environmental Changes, University of Lisbon"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Gil Pessanha",
+     "family": "Penha-Lopes",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Centre for Ecology, Evolution and Environmental Changes, University of Lisbon"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1017/cft.2023.25.pr8",
+   "title": [
+    "Recommendation: Social science to accelerate coastal adaptation to sea-level rise — R1/PR8"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      5
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr8"
+  },
+  {
+   "DOI": "10.1017/cft.2023.25.pr9",
+   "title": [
+    "Decision: Social science to accelerate coastal adaptation to sea-level rise — R1/PR9"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      6
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr9"
+  },
+  {
+   "DOI": "10.1017/cft.2023.25.pr5",
+   "title": [
+    "Decision: Social science to accelerate coastal adaptation to sea-level rise — R0/PR5"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      29
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr5"
+  },
+  {
+   "DOI": "10.1017/cft.2023.25.pr4",
+   "title": [
+    "Recommendation: Social science to accelerate coastal adaptation to sea-level rise — R0/PR4"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      29
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr4"
+  },
+  {
+   "DOI": "10.1142/9789811275135_0207",
+   "title": [
+    "COMMUNITY-INFORMED AND SCIENTIFICALLY-BASED PATHWAYS FOR BARRIER ISLAND ADAPTATION TO SEA-LEVEL RISE"
+   ],
+   "container-title": [
+    "Coastal Sediments 2023"
+   ],
+   "publisher": "WORLD SCIENTIFIC",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1142/9789811275135_0207",
+   "author": [
+    {
+     "given": "STEPHANIE",
+     "family": "PATCH",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Civil, Coastal, and Environmental Engineering, University of South Alabama, 150 Student Services Drive, Mobile, AL 36688, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "RENEE",
+     "family": "COLLINI",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Coastal Research and Extension Center, Mississippi State University, Sea Grant, 1815 Popps Ferry Road, Biloxi, MS 39532, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "MIKAELA",
+     "family": "HEMING",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Cooperative Extension Natural Resources, University of New Hampshire, Taylor Hall, Durham, NH 03824, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1017/cft.2023.25.pr6",
+   "title": [
+    "Author comment: Social science to accelerate coastal adaptation to sea-level rise — R1/PR6"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      11
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr6",
+   "author": [
+    {
+     "given": "Xénia",
+     "family": "Philippenko",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Coastal Engineering Research Council",
+   "abstract": "<jats:p>As sea levels continue to rise, coastal communities are searching for strategies to reduce flooding of low-lying roads, property, and stormwater drainage networks. Here we focus on the development of adaptation strategies for communities that experience flooding outside of extreme storms like hurricanes due to sea level rise (SLR). Processes that contribute to these floods can include tides, rainfall, wind setup, groundwater, and infrastructure failure (Gold et al., 2023). Here we present a framework to test the effectiveness of adaptation strategies in reducing multi-driver chronic flooding at both current and future sea levels. This framework integrates coastal engineering and stakeholder input to 1) identify adaptation strategies that are preferred by a community that frequently floods and 2) test the effectiveness of these strategies with a numerical model under both current and future conditions.</jats:p>",
+   "DOI": "10.9753/icce.v38.management.59",
+   "type": "journal-article",
+   "title": [
+    "COMMUNITY-ENGAGED COASTAL FLOOD MODELING TO EVALUATE SEA LEVEL RISE ADAPTATION STRATEGIES"
+   ],
+   "author": [
+    {
+     "given": "Thomas",
+     "family": "Thelen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Katherine",
+     "family": "Anarde",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Casey",
+     "family": "Dietrich",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Max",
+     "family": "Cawley",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Miyuki",
+     "family": "Hino",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Coastal Engineering Proceedings"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      29
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.9753/icce.v38.management.59"
+  },
+  {
+   "DOI": "10.1061/9780784412008.ch10",
+   "title": [
+    "Defining Coastal Science Needs of the Engineering Community for Meeting the Challenge of Sea Level Rise"
+   ],
+   "container-title": [
+    "Sea Level Rise and Coastal Infrastructure"
+   ],
+   "publisher": "American Society of Civil Engineers",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      3,
+      15
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1061/9780784412008.ch10",
+   "author": [
+    {
+     "given": "Michael S.",
+     "family": "Kearney",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Professor, Department of Geography, University of Maryland, College Park, MD 20742, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>This paper addresses duties under Te Tiriti o Waitangi/the Treaty of Waitangi (the Treaty) for protection of particular Māori interests in the face of coastal hazards associated with sea-level rise. Under Te Tiriti o Waitangi, the Crown has a duty to actively protect Māori lands, estates, forests, fisheries and other taonga, and must enable Māori to protect these taonga. It is necessary to assess what Treaty duties may exist in relation to decisions to adopt measures to adapt in an attempt to prevent the risks of damage eventuating from coastal hazards associated with sea-level rise.&lt;br&gt;&lt;br&gt;Much of the climate adaptation measures that would be necessary to actively protect Māori coastal interests fall within local government authorities' jurisdictions; they are thus guided by the procedures and standards under the Local Government Act (LGA) and Resource Management Act (RMA), as well as by district and regional plans and related documents. Local government authorities are not currently directly accountable for Treaty duties when acting pursuant to these Acts; these relevant obligations are still held by the Crown, or central government. But the actions of local government, on delegated authority from the Crown, can give rise to these authorities either upholding the central government Treaty obligations or creating new, modern-day breaches of the Treaty (that the central government would have to answer for).&lt;br&gt;&lt;br&gt;This paper is interested in what might be necessary in order to uphold the Crown’s Treaty obligations in the area of adaptation to the coastal hazards associated with sea-level rise. The paper forms part of a New Zealand Deep South National Science Challenge project on what to do about housing that will be adversely affected by such coastal hazards. Because of the nature of Treaty interests, it is hard to limit the scope of this paper to housing only. However, housing and marae are the key focus, even while some comments may also be made on some other coastal interests protected under the Treaty. Because of the multi-layered jurisdictional approach to climate adaptation measures in law and practice in Aotearoa, such an enquiry needs to address central government rules and initiatives as well as local government actions.</jats:p>",
+   "DOI": "10.2139/ssrn.3685498",
+   "type": "posted-content",
+   "title": [
+    "Treaty of Waitangi Duties Relevant to Adaptation to Coastal Hazards from Sea-Level Rise"
+   ],
+   "author": [
+    {
+     "given": "Catherine",
+     "family": "Iorns",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.3685498"
+  },
+  {
+   "DOI": "10.1017/cft.2023.25.pr1",
+   "title": [
+    "Author comment: Social science to accelerate coastal adaptation to sea-level rise — R0/PR1"
+   ],
+   "publisher": "Cambridge University Press (CUP)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      1,
+      23
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1017/cft.2023.25.pr1",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2421-3003",
+     "authenticated-orcid": false,
+     "given": "Gonéri",
+     "family": "Le Cozannet",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5772/intechopen.74325",
+   "title": [
+    "Constructing Local Sea Level Rise Scenarios for Assessing Possible Impacts and Adaptation Needs: Insights from Coasts of India"
+   ],
+   "container-title": [
+    "Sea Level Rise and Coastal Infrastructure"
+   ],
+   "publisher": "InTech",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      9,
+      5
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5772/intechopen.74325",
+   "author": [
+    {
+     "given": "Dhanya",
+     "family": "Praveen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andimuthu",
+     "family": "Ramachandran",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kandasami",
+     "family": "Palanivelu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Springer Nature Switzerland",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This chapter provides a comprehensive overview of sea level rise (SLR), integrating scientific evidence, socio-economic impacts, and adaptation strategies. It examines the accelerating rate of global sea level rise, primarily attributed to human-induced climate change, with projections indicating significant increases by 2100. The socio-economic consequences of SLR, including direct costs from infrastructure damage and indirect impacts on sectors like tourism and fisheries, are explored in the chapter. The chapter discusses the disproportionate effects on vulnerable coastal communities, highlighting issues of displacement, health risks, and cultural heritage loss. Various adaptation strategies are analysed in it, including infrastructure development, ecosystem-based approaches, socio-economic adaptations, and managed retreat. It also addresses the complex challenges in implementing these strategies, emphasizing the need for interdisciplinary, context-specific solutions. The chapter concludes by outlining future research directions, and stressing the importance of improved regional projections and integrated approaches for addressing the multifaceted challenges posed by sea level rise.</jats:p>",
+   "DOI": "10.1007/978-3-031-89171-7_2",
+   "type": "book-chapter",
+   "title": [
+    "Sea Level Rise: Scientific Evidence, Socio-Economic Realities, and Adaptation Challenges for Coastal Communities"
+   ],
+   "author": [
+    {
+     "given": "Vilane Gonçalves",
+     "family": "Sales",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sea Level Rise"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      2
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1007/978-3-031-89171-7_2"
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>The costs of coastal sector impacts from sea level rise (SLR) are an important component of the total projected economic damages of climate change, a major input to decision-making and design of climate policy. Moreover, the ultimate costs to coastal resources will depend strongly on adaptation, society's response to cope with the impacts. This paper presents a new model to assess coastal impacts from SLR, combining global scope with high spatial resolution to fill a gap between very detailed local studies and aggregate global estimates. The Coastal Impact and Adaptation Model (CIAM) determines the optimal strategy for adaptation at the local level, evaluating over 12,000 coastal segments, as described in the DIVA database (Vafeidis et al, 2006), based on their socioeconomic characteristics and the potential impacts of relative sea level rise and uncertain storm surge. An application of CIAM is then presented to demonstrate the model's ability to assess local impacts and direct costs, choose the least-cost adaptation, and estimate global net damages for several probabilistic SLR scenarios (Kopp et al, 2014). CIAM finds that there is large potential for coastal adaptation to reduce the expected impacts of SLR compared to the alternative of no adaptation, lowering global net present costs by a factor of 10 to less than $1.5 trillion over the next two centuries, although this does not include initial transition costs to overcome an under-adapted current state. In addition to producing aggregate estimates, CIAM results can also be interpreted at the local level, where we find that retreat (e.g., relocate inland) is often a more cost-effective adaptation strategy than protect (e.g., construct physical defenses).</jats:p>",
+   "DOI": "10.2139/ssrn.2628061",
+   "type": "posted-content",
+   "title": [
+    "Estimating Global Damages from Sea Level Rise with the Coastal Impact and Adaptation Model (CIAM)"
+   ],
+   "author": [
+    {
+     "given": "Delavane",
+     "family": "Diaz",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.2628061"
+  },
+  {
+   "DOI": "10.1061/41185(417)45",
+   "title": [
+    "Shaping Sea-Level Rise Adaptation Policy through Science: The North Carolina Sea Level Rise Risk Management Study"
+   ],
+   "container-title": [
+    "Solutions to Coastal Disasters 2011"
+   ],
+   "publisher": "American Society of Civil Engineers",
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      6,
+      21
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1061/41185(417)45",
+   "author": [
+    {
+     "given": "John K.",
+     "family": "Dorman",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "North Carolina Department of Emergency Management, Office of Geospatial and Technology Management, 1812 Tillery Place, Suite 105, Raleigh, NC 27604, USA.E-mail:"
+      },
+      {
+       "name": "Dewberry, 8401 Arlington Boulevard, Fairfax, VA 22031, USA.E-mail:"
+      },
+      {
+       "name": "Halcrow, 1101 Channelside Drive, Suite 200 S, Tampa, FL 33602, USA.E-mail:"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Brian K.",
+     "family": "Batten",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "North Carolina Department of Emergency Management, Office of Geospatial and Technology Management, 1812 Tillery Place, Suite 105, Raleigh, NC 27604, USA.E-mail:"
+      },
+      {
+       "name": "Dewberry, 8401 Arlington Boulevard, Fairfax, VA 22031, USA.E-mail:"
+      },
+      {
+       "name": "Halcrow, 1101 Channelside Drive, Suite 200 S, Tampa, FL 33602, USA.E-mail:"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Adam",
+     "family": "Hosking",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "North Carolina Department of Emergency Management, Office of Geospatial and Technology Management, 1812 Tillery Place, Suite 105, Raleigh, NC 27604, USA.E-mail:"
+      },
+      {
+       "name": "Dewberry, 8401 Arlington Boulevard, Fairfax, VA 22031, USA.E-mail:"
+      },
+      {
+       "name": "Halcrow, 1101 Channelside Drive, Suite 200 S, Tampa, FL 33602, USA.E-mail:"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

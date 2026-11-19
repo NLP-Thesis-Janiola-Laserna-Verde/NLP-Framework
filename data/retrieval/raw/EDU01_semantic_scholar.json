@@ -1,0 +1,730 @@
+{
+ "query": "Effectiveness of project-based learning in secondary schools",
+ "retrieved_at": "2026-11-18T17:47:07.570018+00:00",
+ "data": [
+  {
+   "paperId": "7acd3574681d23f3177777e25b27e3bf1921505d",
+   "externalIds": {
+    "MAG": "2887667216",
+    "CorpusId": 54547118
+   },
+   "url": "https://www.semanticscholar.org/paper/7acd3574681d23f3177777e25b27e3bf1921505d",
+   "title": "Effectiveness of Project Based Learning in Statistics for Lower Secondary Schools",
+   "venue": "",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://files.eric.ed.gov/fulltext/EJ1181463.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2018-05-20",
+   "authors": [
+    {
+     "authorId": "52625560",
+     "name": "T. Siswono"
+    },
+    {
+     "authorId": "145386406",
+     "name": "S. Hartono"
+    },
+    {
+     "authorId": "52279223",
+     "name": "A. W. Kohar"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "60cac92fcce90c6717d573af11d8c590a8c996b3",
+   "externalIds": {
+    "DOI": "10.47663/ibec.v3i1.296",
+    "CorpusId": 281896824
+   },
+   "url": "https://www.semanticscholar.org/paper/60cac92fcce90c6717d573af11d8c590a8c996b3",
+   "title": "Effectiveness of Project-Based Learning Model to Enhance Students' Creativity in Secondary Schools",
+   "venue": "PROCEEDING INTERNATIONAL BUSINESS AND ECONOMICS CONFERENCE (IBEC)",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.47663/ibec.v3i1.296",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47663/ibec.v3i1.296?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47663/ibec.v3i1.296, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2024-12-30",
+   "authors": [
+    {
+     "authorId": "2318799971",
+     "name": "Dedi Irawan"
+    },
+    {
+     "authorId": "115162537",
+     "name": "M. Rinaldi"
+    },
+    {
+     "authorId": "2139892492",
+     "name": "S. Rezeki"
+    }
+   ],
+   "abstract": "This study aims to analyze the effectiveness of the Project-Based Learning (PjBL) model in improving student creativity in secondary schools. Student creativity includes four main aspects, namely fluency, flexibility, originality, and elaboration. The study was conducted using a quantitative approach with a quasi-experimental design, involving two groups of students: an experimental group using the PjBL method and a control group using conventional learning methods. Data were collected through observation, creativity tests, and student learning motivation questionnaires. \nThe results showed that the implementation of PjBL had a significant effect on increasing student creativity. Students in the experimental group showed higher creativity scores than the control group, with the most striking increase in the aspects of originality and elaboration. In addition, the PjBL model also increased student learning motivation as well as collaboration, critical thinking, and problem-solving skills. The integration of technology in PjBL, such as the use of digital devices and online resources, had a positive impact on students' learning experiences. \nHowever, this study also found several obstacles in the implementation of PjBL, such as the need for teacher training, time management, and infrastructure support. Therefore, a comprehensive strategy is needed to optimize the implementation of PjBL in secondary schools. Overall, the project-based learning model has proven to be effective in enhancing student creativity and is relevant to the demands of 21st century education."
+  },
+  {
+   "paperId": "d4e86976f061b42c0a22e1e2fdbc3447d02a891a",
+   "externalIds": {
+    "DOI": "10.35905/almaarief.v7i2.14649",
+    "CorpusId": 281296507
+   },
+   "url": "https://www.semanticscholar.org/paper/d4e86976f061b42c0a22e1e2fdbc3447d02a891a",
+   "title": "Addressing the Learning Plateau in Social Studies through Project-Based Learning in Indonesian Secondary Schools",
+   "venue": "AL MA ARIEF Jurnal Pendidikan Sosial dan Budaya",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ejurnal.iainpare.ac.id/index.php/ALMAARIEF/article/download/14649/2871/",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35905/almaarief.v7i2.14649?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35905/almaarief.v7i2.14649, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-26",
+   "authors": [
+    {
+     "authorId": "2228502819",
+     "name": "Salwa Mayasari"
+    },
+    {
+     "authorId": "2352742198",
+     "name": "F. Zahrawati B"
+    },
+    {
+     "authorId": "2318518827",
+     "name": "Nurleli Ramli"
+    },
+    {
+     "authorId": "2268118530",
+     "name": "Zurahmah Zurahmah"
+    },
+    {
+     "authorId": "2293345135",
+     "name": "Sona Minasyan"
+    }
+   ],
+   "abstract": "Background: Students often experience a learning plateau, a stagnation in progress that negatively impacts motivation and academic outcomes. Previous studies have yet to explore effective interventions to overcome this issue, particularly in social studies learning.Purpose: This study aims to identify the stages of project-based learning (PjBL) in social studies, measure students’ learning plateau levels before and after its implementation, and evaluate its effectiveness in reducing the plateau.Method: A quasi-experimental design with a one-group pretest-posttest approach was used. The participants were eighth-grade students from SMP Negeri 12 Parepare, selected through purposive sampling, in class VIII.1 serving as the experimental group. Data were collected using learning plateau measurement instruments and analysed using the Paired Samples Test and N-Gain Score.Results: The PjBL model was implemented in five stages: essential question, project planning, scheduling, monitoring, and evaluation. The results indicated a significant reduction in students’ learning plateau levels, shifting from medium–very high to low–very low categories. A significance value of 0.000 in the Paired Samples Test confirmed the difference, while the average N-Gain Score was 0.29.Theoretical implication: These findings support the effectiveness of PjBL in addressing learning stagnation and contribute to the broader pedagogical discourse on active learning models.Practical implication: The results suggest that PjBL can be adopted in classroom practice to enhance student motivation and learning outcomes in social studies, particularly at the junior high school level."
+  },
+  {
+   "paperId": "b6584c7339c783b6e1b66f52e7925e74a64a2706",
+   "externalIds": {
+    "DOI": "10.47191/rajar/v11i12.15",
+    "CorpusId": 284410904
+   },
+   "url": "https://www.semanticscholar.org/paper/b6584c7339c783b6e1b66f52e7925e74a64a2706",
+   "title": "A Project-Based Learning Approach to Teaching Post-1975 Short Stories in Vietnamese Upper Secondary Schools",
+   "venue": "RA Journal Of Applied Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://rajournals.in/index.php/rajar/article/download/1866/1464",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47191/rajar/v11i12.15?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47191/rajar/v11i12.15, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-31",
+   "authors": [
+    {
+     "authorId": "2530484141",
+     "name": "Assoc Prof Dr. Truong Thi Bich"
+    }
+   ],
+   "abstract": "In the context of competency-based educational reform, the selection and implementation of student-centered instructional approaches have become an essential requirement in upper secondary education. Project-Based Learning (PBL) is widely regarded as an effective instructional approach that connects academic knowledge with real-world contexts while fostering students’ autonomy and creativity. However, the application of PBL in literature education—particularly in teaching Vietnamese short stories written after 1975—remains limited and lacks sufficient empirical evidence.\n\nThis article reports the findings of an experimental study examining the effectiveness of Project-Based Learning in teaching post-1975 Vietnamese short stories at the upper secondary level. The study employed a quasi-experimental design involving Grade 12 students at a Vietnamese high school, with an experimental group taught using PBL and a control group taught using traditional instructional methods. Data were collected through pre- and post-tests and a student learning-interest questionnaire.\n\nThe results indicate that Project-Based Learning significantly improves students’ learning outcomes and learning engagement in the study of post-1975 Vietnamese short stories. Based on these findings, the article proposes pedagogical implications for enhancing the effectiveness of literature teaching in Vietnamese upper secondary schools."
+  },
+  {
+   "paperId": "7c2cd7cbffb78383a99aabc1ad3a8e0bd62706ea",
+   "externalIds": {
+    "MAG": "2499566999",
+    "CorpusId": 78704848
+   },
+   "url": "https://www.semanticscholar.org/paper/7c2cd7cbffb78383a99aabc1ad3a8e0bd62706ea",
+   "title": "STUDY ON EFFECTIVENESS OF PROJECT-BASED-LEARNING (PBL) APPROACH TO TEACHING OF SCIENCE AT SECONDARY SCHOOLS",
+   "venue": "",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2016-06-04",
+   "authors": [
+    {
+     "authorId": "4584500",
+     "name": "V. Tangpu"
+    },
+    {
+     "authorId": "2401228001",
+     "name": "K. A. Kumar"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "214deb0d4d4ed0b3c16fa97048c78e61f2661c8b",
+   "externalIds": {
+    "DOI": "10.22364/bjellc.13.2023.06",
+    "CorpusId": 258973342
+   },
+   "url": "https://www.semanticscholar.org/paper/214deb0d4d4ed0b3c16fa97048c78e61f2661c8b",
+   "title": "Implementing Project-Based Learning in English Language Classes – a Case of Kosovar Lower Secondary Schools",
+   "venue": "Baltic Journal of English Language Literature and Culture",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://journal.lu.lv/bjellc/article/download/581/549",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22364/bjellc.13.2023.06?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22364/bjellc.13.2023.06, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-05-15",
+   "authors": [
+    {
+     "authorId": "2174376622",
+     "name": "Donjetë Latifaj"
+    },
+    {
+     "authorId": "72644731",
+     "name": "Brikena Xhaferi"
+    }
+   ],
+   "abstract": "Project-based learning (PBL) is a contemporary educational approach in which students engage in authentic tasks and scenarios while working on various projects. Throughout the process, students are encouraged to participate actively in their learning. Since this methodology is not commonly used in Kosovo, the current study aimed to assess the extent to which information and communication technology (ICT) is utilized during the implementation of PBL in lower secondary English classes in Kosovo. Furthermore, the study aimed to investigate the effectiveness of PBL in enhancing students’ ability to acquire English as a foreign language. The study focused on analyzing teachers’ perspectives on the use of ICT when implementing PBL in English classes. The findings from an online survey show that teachers use ICT to a certain degree when implementing PBL and that a considerable number of teachers are interested in receiving specialized training to enhance their use of technology in future classes. Generally, teachers prefer project-based methods, but PBL is not widely utilized in the Kosovar education system. Finally, teachers and students with a positive attitude towards ICT and PBL are willing to implement them in their school settings."
+  },
+  {
+   "paperId": "e829b2e3783db498c7f4714ca9a54c3bd4feb53e",
+   "externalIds": {
+    "DOI": "10.53469/jerp.2025.07(05).06",
+    "CorpusId": 279037696
+   },
+   "url": "https://www.semanticscholar.org/paper/e829b2e3783db498c7f4714ca9a54c3bd4feb53e",
+   "title": "Research on the Design and Implementation of Music Teaching from the Perspective of Project-based Learning",
+   "venue": "Journal of Educational Research and Policies",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://bryanhousepub.com/index.php/jerp/article/download/1927/1861",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.53469/jerp.2025.07(05).06?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.53469/jerp.2025.07(05).06, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-29",
+   "authors": [
+    {
+     "authorId": "47123812",
+     "name": "Jiang Nan"
+    }
+   ],
+   "abstract": "In recent years, with the deepening of education reform, project-based learning, as a student-centered teaching model, has shown unique value in the field of music education. Based on the practical research of music teaching in kindergartens and primary and secondary schools, this paper explores the design and implementation strategies of project-based learning in music education. Research has found that project-based learning can effectively solve problems such as “lack of interest”, “ragmented experience” and “neglect of abilities” that exist in traditional music teaching. It can significantly improve students’ musical literacy and comprehensive abilities through the creation of real situations, interdisciplinary integration and diverse results. This article systematically explains the framework of project-based music teaching from the aspects of design concept, activity generation, implementation path, etc., and verifies its effectiveness with specific cases, providing theoretical reference and practical guidance for the innovation of music education."
+  },
+  {
+   "paperId": "30e977f53e1602cef66eaaaeb47e032b9a2e3759",
+   "externalIds": {
+    "DOI": "10.65310/7y8kxp21",
+    "CorpusId": 289042670
+   },
+   "url": "https://www.semanticscholar.org/paper/30e977f53e1602cef66eaaaeb47e032b9a2e3759",
+   "title": "Project-Based Learning as a Catalyst for Enhancing 21st-Century Skills in Secondary Education",
+   "venue": "Journal of Contemporary Pedagogy and Learning Science",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://researchfrontiers.id/scientiacausa/article/download/43/44",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.65310/7y8kxp21?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.65310/7y8kxp21, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-02-05",
+   "authors": [
+    {
+     "authorId": "2440579169",
+     "name": "Alya Nabila Adistia"
+    },
+    {
+     "authorId": "2379141292",
+     "name": "Shavira Salsabila"
+    },
+    {
+     "authorId": "2085651519",
+     "name": "Ismaul Fitroh"
+    },
+    {
+     "authorId": "2441511148",
+     "name": "Achmad Afif Fikri"
+    },
+    {
+     "authorId": "2121196462",
+     "name": "Muhammad Zia Alghar"
+    }
+   ],
+   "abstract": "This study examined the effectiveness of Project-Based Learning (PBL) in enhancing secondary students’ 21st-century skills using a quasi-experimental mixed-methods design. Participants were Grade 10–11 students from two comparable public schools, with intact classrooms assigned to a PBL condition or conventional instruction. Quantitative data were collected through pre-test and post-test measures of critical thinking, creativity, collaboration, communication, and self-regulation, while qualitative evidence was obtained from classroom observations, reflective journals, and semi-structured interviews. Statistical analyses indicated significantly higher post-test gains in the PBL group, with effect sizes suggesting meaningful educational impact across multiple skill domains. The qualitative strand revealed that skill growth was mediated by scaffolding practices, authentic task structures, iterative revision cycles, and group accountability mechanisms. Transferability and sustainability outcomes were strongest when assessment criteria valued process indicators and when projects were connected to real-world issues. The integration of findings suggests that PBL supports equitable skill development by providing multiple participation pathways for diverse learners. Implications for curriculum and teacher development are discussed."
+  },
+  {
+   "paperId": "e1ab79958d22267b4b831c0bf1687f6f5f29d893",
+   "externalIds": {
+    "DOI": "10.17977/um039v11i22026p267-283",
+    "CorpusId": 295954547
+   },
+   "url": "https://www.semanticscholar.org/paper/e1ab79958d22267b4b831c0bf1687f6f5f29d893",
+   "title": "Integrating Science, Technology, Engineering, and Mathematics in Digital Learning: The Effectiveness of an E-Module on Ecosystem Material in Secondary Schools",
+   "venue": "Edcomtech Jurnal Kajian Teknologi Pendidikan",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.17977/um039v11i22026p267-283",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.17977/um039v11i22026p267-283?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.17977/um039v11i22026p267-283, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-08-15",
+   "authors": [
+    {
+     "authorId": null,
+     "name": "Mona Kristina Simatupang"
+    },
+    {
+     "authorId": null,
+     "name": "Suryanti Suryanti"
+    },
+    {
+     "authorId": null,
+     "name": "Iffa Ichwani Putri"
+    },
+    {
+     "authorId": null,
+     "name": "Siti Robiah"
+    },
+    {
+     "authorId": null,
+     "name": "Nurul Fauziah"
+    }
+   ],
+   "abstract": "This study aimed to analyze the effectiveness and practicality of a Science, Technology, Engineering, and Mathematics (STEM)-integrated e-module for Biology learning on ecosystem material in secondary schools. The study employed a quasi-experimental method using a nonequivalent control group design involving 88 tenth-grade students at SMAN 2 Pekanbaru. The sample consisted of an experimental class that used the STEM-integrated e-module through Project-Based Learning (PjBL) and a control class that used a conventional module through the same learning model. Data were collected using a learning outcomes test and teacher and student response questionnaires. Data analysis included descriptive statistics, normality and homogeneity tests, the Mann-Whitney U test, N-Gain analysis, and effect size analysis. The results showed no statistically significant difference in pretest scores between the experimental and control classes (p = 0.216), whereas a statistically significant difference was found in posttest scores (p < 0.001). The experimental class obtained a higher N-Gain value (0.564) than the control class (0.334), although both were categorized as moderate. The effect size (r = 0.39) indicated a moderate magnitude of difference in learning outcomes between the two groups. Regarding practicality, the e-module obtained average scores of 86% based on teacher responses and 88% based on student responses, both of which were categorized as very practical. These findings suggest that the STEM-integrated e-module can serve as an alternative digital teaching material for ecosystem learning when implemented through PjBL."
+  },
+  {
+   "paperId": "4f3e96f75945caefa7f47889cb29c0a05c3c51bc",
+   "externalIds": {
+    "MAG": "3096552366",
+    "DOI": "10.52155/IJPSAT.V22.2.2111",
+    "CorpusId": 229007938
+   },
+   "url": "https://www.semanticscholar.org/paper/4f3e96f75945caefa7f47889cb29c0a05c3c51bc",
+   "title": "Exploring the Effectiveness of Project-Based Learning Approach on Junior Secondary School Students' Academic Achievement in Descriptive Geometry in Katsina, Nigeria",
+   "venue": "",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.52155/IJPSAT.V22.2.2111?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52155/IJPSAT.V22.2.2111, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-09-18",
+   "authors": [
+    {
+     "authorId": "2362282902",
+     "name": "Hamza Abubakar"
+    },
+    {
+     "authorId": "80591066",
+     "name": "A. Madugu"
+    },
+    {
+     "authorId": "73758196",
+     "name": "M. Idris"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "e54c28b50dbb2dab5934a50afa38b07b8408bb67",
+   "externalIds": {
+    "DOI": "10.59141/jiss.v6i3.1638",
+    "CorpusId": 277259298
+   },
+   "url": "https://www.semanticscholar.org/paper/e54c28b50dbb2dab5934a50afa38b07b8408bb67",
+   "title": "Comprehensive and Innovative Language Learning Model with an Intercultural Communication Approach: A Systematic Review of Anecdotal Text Writing Lessons in Secondary Schools",
+   "venue": "Jurnal Indonesia Sosial Sains",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.59141/jiss.v6i3.1638",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59141/jiss.v6i3.1638?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59141/jiss.v6i3.1638, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-22",
+   "authors": [
+    {
+     "authorId": "2351700684",
+     "name": "S. Rajaguk-guk"
+    },
+    {
+     "authorId": "115768698",
+     "name": "Ifan Iskandar"
+    },
+    {
+     "authorId": "2483645326",
+     "name": "Muhammad Kamal Bin Abdul Hakim"
+    }
+   ],
+   "abstract": "This research investigates the effectiveness of various language learning models in improving students' skills in writing anecdotal texts at the secondary school level. The primary research problem addresses the gap in the existing teaching methods for anecdotal text writing and the need for innovative, intercultural, and project-based learning models. The objective of the research is to evaluate the impact of project-based learning, technology, and intercultural communication strategies on students' writing and critical thinking abilities. The research method used is a Systematic Literature Review (SLR), analyzing 50 relevant articles published in the last five years. Results show that project-based learning models and technology such as Grammarly and other digital media can improve students' writing and critical thinking skills. The intercultural approach also plays an important role in building cross-ethnic cultural understanding between teachers and students. However, there are limitations on the implementation of technology and generalization of research results, so further research is needed for the development of a more inclusive model."
+  },
+  {
+   "paperId": "8804a9f8c5412451b6dbc5970029361cf3c60730",
+   "externalIds": {
+    "DOI": "10.60138/152202010",
+    "CorpusId": 260694243
+   },
+   "url": "https://www.semanticscholar.org/paper/8804a9f8c5412451b6dbc5970029361cf3c60730",
+   "title": "Effectiveness of Project-Based Learning on Students’ Achievement and Motivation towards English in an EFL Environment",
+   "venue": "Hebron University Research Journal (HURJ): B- (Humanities)",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.60138/152202010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.60138/152202010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-12-31",
+   "authors": [
+    {
+     "authorId": "2005683308",
+     "name": "A. Salamin"
+    },
+    {
+     "authorId": "2495105842",
+     "name": "Riham Sahib Tamimi"
+    }
+   ],
+   "abstract": "This study aims to detect the effectiveness of Project-Based Learning (PBL) on students' academic achievement and motivation towards English in EFL environment. Identify the year in which the Ministry of Education adopted PBL to be used at schools. The Ministry of Education in Palestine has asked teachers to implement this new method of teaching and learning in their classrooms. Moreover, Educational supervisors claim that PBL has the power to improve students' achievement, attitude, motivation, critical thinking, self-confidence, and active learning as students investigate real-world issues in a collaborative environment. This is a mixed research study utilizing both qualitative and quantitative instruments to collect data. 69 ninth gradersfrom two different classes in Ibrahim Abu-Dabat Secondary Girls’ School participated in the study. In the quantitative phase, a pre-and post-test was used to find the effect of PBL on the students' achievement. In the qualitative phase, two semi-structured interviews were used to assess students' motivation towards English lessons and to investigate the challenges that teachers and students face while implementing PBL. Results showed that there is no statistically significant difference between the achievement scores of the experimental group and the control group. However, the results indicated that the experimental group students outperformed the control group students in reading and writing skills. In addition, the interview results revealed that the use of PBL affects students' engagement in a positive way and improves their motivation towards learning English. Furthermore, few challenges were also reported to provide sufficient information about the difficulties that teachers and students may encounter while using PBL. The study concluded that PBL could be an effective means of teaching English as a foreign language."
+  },
+  {
+   "paperId": "df21138bb84636e1300a335809c0b9855ee32c5f",
+   "externalIds": {
+    "DOI": "10.67899/ar.v2i1.218",
+    "CorpusId": 291844271
+   },
+   "url": "https://www.semanticscholar.org/paper/df21138bb84636e1300a335809c0b9855ee32c5f",
+   "title": "Transformative Islamic Character Education through Project-Based Learning: Promoting Social Responsibility among Muslim Students",
+   "venue": "Journal of islamic education",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://barkah-ilmi-fiddunya.my.id/ojs/index.php/ar/article/download/218/119",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.67899/ar.v2i1.218?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.67899/ar.v2i1.218, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-24",
+   "authors": [
+    {
+     "authorId": "2438442430",
+     "name": "Najeeb Yahya"
+    },
+    {
+     "authorId": "2438520176",
+     "name": "Helene Knudstad"
+    },
+    {
+     "authorId": "115367113",
+     "name": "Mahmud Mahmud"
+    }
+   ],
+   "abstract": "Character education remains one of the primary objectives of Islamic education; however, conventional instructional methods often fail to provide meaningful opportunities for students to practice moral values in authentic social contexts. This study aims to evaluate the effectiveness of Project-Based Learning (PjBL) in promoting transformative Islamic character education and strengthening students' social responsibility. The research adopted a quasi-experimental design involving two comparable classes from Islamic secondary schools. Data were collected using character assessment scales, observation sheets, reflective journals, and interviews. Statistical analysis revealed that students participating in project-based learning achieved significantly higher levels of empathy, cooperation, leadership, responsibility, and civic engagement compared to those receiving conventional instruction. Students also demonstrated increased motivation to implement Islamic values through community service activities and collaborative social projects. The findings suggest that experiential learning provides authentic opportunities for internalizing Islamic moral principles. The novelty of this study lies in integrating Project-Based Learning with Islamic character education into a transformative pedagogical framework that encourages active citizenship and sustainable community engagement"
+  },
+  {
+   "paperId": "130d2099ab31008c0237490e968dc7d10526789c",
+   "externalIds": {
+    "DOI": "10.22219/raden.v5i2.42884",
+    "CorpusId": 284069392
+   },
+   "url": "https://www.semanticscholar.org/paper/130d2099ab31008c0237490e968dc7d10526789c",
+   "title": "Integrating project-based and experiential learning for lower secondary competencies: A mixed-methods study",
+   "venue": "Research and Development in Education",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ejournal.umm.ac.id/index.php/raden/article/download/42884/17881",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22219/raden.v5i2.42884?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22219/raden.v5i2.42884, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-19",
+   "authors": [
+    {
+     "authorId": "2354432752",
+     "name": "S. Zaenab"
+    },
+    {
+     "authorId": "72539533",
+     "name": "Lise Chamisijatin"
+    },
+    {
+     "authorId": "83146376",
+     "name": "S. Sukarsono"
+    },
+    {
+     "authorId": "73653261",
+     "name": "Diani Fatmawati"
+    }
+   ],
+   "abstract": "Project-Based Learning (PjBL) is widely promoted for fostering higher-order thinking, collaboration,\nand problem-solving, yet its application in lower secondary schools often encounters issues of fluctuating motivation and uneven engagement. This study examined the effectiveness of a PjBL model explicitly structured through Experiential Learning phases in enhancing Grade 8 students’ cognitive, affective, and psychomotor competencies at SMP Muhammadiyah 02 Batu, Indonesia, and explored its implementation across six subjects and students’ perceptions of their learning. Using a mixed-methods Concurrent Triangulation design, 12 teachers joined a professional development workshop before six “model teachers” designed and implemented PjBL units aligned with Kolb’s cycle (experiencing–reflecting–thinking–acting). Data were obtained from teacher knowledge tests, student pre- and post-tests, attitude and skill ratings, student perception and experience questionnaires, and systematic classroom observations, and were analyzed descriptively and thematically. Teacher understanding improved (mean score 8.0 to 9.0/10), and students’ knowledge increased in Science, Social Studies, Mathematics, Indonesian Language, and Arts & Culture, with skills averaging 73–80 and most attitudes rated A or B. Students strongly agreed that PjBL improved collaboration but reported limited consistent reading of project materials. Overall, the integrated model enhanced multiple competence dimensions and was positively received, though stronger support for self-regulated learning and more rigorous future research designs is recommended."
+  },
+  {
+   "paperId": "ef2105b9520205bc2d1438dad21361f824db2a81",
+   "externalIds": {
+    "DOI": "10.56113/takuana.v4i4.405",
+    "CorpusId": 286301848
+   },
+   "url": "https://www.semanticscholar.org/paper/ef2105b9520205bc2d1438dad21361f824db2a81",
+   "title": "Integrating YouTube into Project-Based Learning to Enhance Students’ Interest in Islamic Religious Education at a Vocational Secondary School",
+   "venue": "Takuana Jurnal Pendidikan Sains dan Humaniora",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://ejurnal.man4kotapekanbaru.sch.id/takuana/article/download/405/227",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56113/takuana.v4i4.405?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56113/takuana.v4i4.405, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-03-04",
+   "authors": [
+    {
+     "authorId": "2318004879",
+     "name": "Dwi Agustina"
+    },
+    {
+     "authorId": "118149496",
+     "name": "I. Syafei"
+    },
+    {
+     "authorId": "101618382",
+     "name": "B. Baharudin"
+    },
+    {
+     "authorId": "2398152583",
+     "name": "D. Wahyudi"
+    }
+   ],
+   "abstract": "This study examines the effectiveness of integrating YouTube-based Project-Based Learning (PjBL) to enhance students’ interest in Islamic Religious Education (IRE). A quasi-experimental post-test-only control group design was employed, involving tenth-grade students at SMK Geomatika Lampung, a vocational secondary school in Indonesia. Students’ learning interest was measured using a validated Likert-scale questionnaire, and the data were analyzed through normality, homogeneity, and independent samples t-tests. The findings revealed a statistically significant difference in learning interest between students taught using YouTube-based PjBL and those taught through conventional methods (p < 0.05). The integration of project-based learning with digital video media promoted active engagement, motivation, and positive affective responses in IRE learning. However, since the study was conducted in a single vocational school context, the findings should be interpreted cautiously and may not be generalized to all vocational secondary schools without further empirical validation. Future research involving broader and more diverse samples is recommended to strengthen generalizability."
+  },
+  {
+   "paperId": "1ce6863c508686b251f8b56fad1a4415d722871e",
+   "externalIds": {
+    "DOI": "10.47772/ijriss.2025.910000370",
+    "CorpusId": 282999644
+   },
+   "url": "https://www.semanticscholar.org/paper/1ce6863c508686b251f8b56fad1a4415d722871e",
+   "title": "Effectiveness of Learning PEMDAS through Game-Based Learning for Primary Students",
+   "venue": "International journal of research and innovation in social science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47772/ijriss.2025.910000370?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47772/ijriss.2025.910000370, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-11-12",
+   "authors": [
+    {
+     "authorId": "2090703145",
+     "name": "N. Ishak"
+    },
+    {
+     "authorId": "2942695",
+     "name": "N. H. Mat Zain"
+    },
+    {
+     "authorId": "2392317145",
+     "name": "Nur Alissya Rozi"
+    }
+   ],
+   "abstract": "Mathematics plays a vital role in our daily lives, not only in academic settings but also in solving real-world problems. Despite its significance, many individuals, particularly students in primary and secondary schools, struggle to grasp mathematical concepts. The challenges stem from difficulties in mastering various formulas and solving equations, which often lead to a lack of interest and motivation in learning mathematics. This issue calls for innovative teaching methods that are engaging and student-friendly. One promising solution is the implementation of game-based learning to enhance students' understanding and interest in mathematics. This project aims to improve mathematical engagement by achieving three main objectives: (1) to design a 2D game-based learning model for teaching mathematical methods, (2) to develop a 2D game-based learning application, and (3) to evaluate its effectiveness in enhancing students’ learning. The Agile methodology was adopted for its flexibility and clarity in managing iterative development processes. In designing the game, the Mechanics-Dynamics-Aesthetics (MDA) Framework was applied, focusing on game mechanics, user interaction (dynamics), and overall experience (aesthetics). The effectiveness of the project was assessed using pre- and post-questionnaires. The results demonstrated a 54.07% improvement in students’ understanding and interest in mathematics, indicating that game-based learning is a promising tool for enhancing educational outcomes. Thus, the project's objectives were successfully met. However, several limitations were identified. The current version of the game is limited to practising the order of operations, can only be accessed on desktop computers, supports only the English language, and does not allow players to choose or customise their characters. Future enhancements may include expanding the mathematical concepts covered, developing mobile-friendly versions for smartphones and tablets, incorporating multiple language options such as Bahasa Melayu, and enabling character customisation to improve user engagement. Overall, this project highlights the potential of game-based learning in making mathematics more accessible and enjoyable for young learners, laying the groundwork for future educational innovation."
+  },
+  {
+   "paperId": "94ca3c1c89e3b82ee4dbeff365eef2e94f79a848",
+   "externalIds": {
+    "DOI": "10.59965/pij.v4i1.301",
+    "CorpusId": 291309220
+   },
+   "url": "https://www.semanticscholar.org/paper/94ca3c1c89e3b82ee4dbeff365eef2e94f79a848",
+   "title": "Project-based learning integrated with local wisdom: Developing a trigonometry teaching module to enhance hots of senior secondary students in Merangin Regency",
+   "venue": "Panicgogy International Journal",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://nakiscience.com/index.php/pij/article/download/301/197",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59965/pij.v4i1.301?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59965/pij.v4i1.301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-03-30",
+   "authors": [
+    {
+     "authorId": "2458954104",
+     "name": "Indria Yulizarti"
+    },
+    {
+     "authorId": "71233668",
+     "name": "E. Wahyuningrum"
+    },
+    {
+     "authorId": "145942683",
+     "name": "S. Sudirman"
+    }
+   ],
+   "abstract": "This study developed and evaluated a trigonometry teaching module grounded in Project-Based Learning (PjBL) integrated with local wisdom from Merangin Regency, Indonesia, using the ADDIE development model. Needs analysis across three state senior secondary schools revealed that 80.2% of students found trigonometry difficult and 71.1% perceived mathematics as disconnected from daily life. The module, designed for tenth-grade students (Phase E) and aligned with Indonesia’s Merdeka Belajar curriculum, embedded the six-step PjBL syntax within contextual activities centred on the Tugu Pedang and Jam Gento—culturally iconic landmarks in Merangin Regency. Expert validation by three mathematics teachers yielded an overall feasibility score of 4.47 (89.49%), placing the module in the Very Feasible category. Practicality testing during a small-group trial (two teachers; ten students) indicated Very Practical ratings from teachers and Practical to Very Practical ratings from students across all assessed aspects. Large-group effectiveness testing employed a quasi-experimental non-equivalent comparison group design (n = 35 per class). The experimental class achieved a mean posttest Higher Order Thinking Skills (HOTS) score of 83.69 versus 65.45 in the control class, with classical mastery rates of 91.43% and 2.86% respectively. An independent-sample t-test confirmed a significant difference (Sig. = 0.000 < 0.05). These findings establish that the developed module is valid, practical, and effective, offering a replicable model for contextualising abstract mathematics through local cultural integration within project-based instructional frameworks. These findings are theoretically grounded in Project-Based Learning theory (Thomas, 2000) and Bloom’s revised taxonomy for HOTS (Anderson & Krathwohl, 2001), and are directed at tenth-grade (Phase E) students within Indonesia’s Merdeka Belajar curriculum framework."
+  },
+  {
+   "paperId": "e4ebd37ad830a2f3a0d42ef324e85000ba7bfbef",
+   "externalIds": {
+    "DOI": "10.54691/n94ngv12",
+    "CorpusId": 268138127
+   },
+   "url": "https://www.semanticscholar.org/paper/e4ebd37ad830a2f3a0d42ef324e85000ba7bfbef",
+   "title": "The Application Practice of Ubiquitous Learning in Secondary School English Teaching",
+   "venue": "Frontiers in Humanities and Social Sciences",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://bcpublication.org/index.php/FHSS/article/download/5958/5795",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.54691/n94ngv12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54691/n94ngv12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-01-23",
+   "authors": [
+    {
+     "authorId": "2111092732",
+     "name": "Yang Zheng"
+    },
+    {
+     "authorId": "2289248658",
+     "name": "Hongyuan Wang"
+    },
+    {
+     "authorId": "1596821594",
+     "name": "Yuxing Xiang"
+    }
+   ],
+   "abstract": "Ubiquitous learning is the extension of digital learning, and meanwhile the trend under the new situation of educational concept innovation as well as technological development. secondary school English classroom is the main place of English education, and English teaching innovation is regarded as the core content of improving the English efficiency of secondary school. Based on the innovative concept of ubiquitous learning, this project adopts a combination of qualitative and quantitative research methods to study the application of ubiquitous learning in English teaching in secondary schools. It is found that ubiquitous learning is beneficial to cultivate the concept of lifelong learning and enhance the effectiveness of students’ independent learning. It is hoped that this project will provide a theoretical framework for the current problem of English teaching in secondary schools in the context of ubiquitous learning, and provide practical suggestions for policymakers and educational practitioners to make the advantage of online teaching."
+  },
+  {
+   "paperId": "6f0a0814eb50a096774ae85a9f4733ae3603384c",
+   "externalIds": {
+    "DOI": "10.62383/pentagon.v3i2.582",
+    "CorpusId": 279542695
+   },
+   "url": "https://www.semanticscholar.org/paper/6f0a0814eb50a096774ae85a9f4733ae3603384c",
+   "title": "Model Project Based Learning dalam Pembelajaran Biologi: Suatu Penelitian Tindakan Kelas di SMA Negeri 2 Langowan",
+   "venue": "Pentagon",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journal.arimsi.or.id/index.php/Pentagon/article/download/582/700",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62383/pentagon.v3i2.582?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62383/pentagon.v3i2.582, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-13",
+   "authors": [
+    {
+     "authorId": "2535053463",
+     "name": "Kirei Hana Megumi Moniung"
+    },
+    {
+     "authorId": "66420045",
+     "name": "F. Tumbel"
+    },
+    {
+     "authorId": "2577164712",
+     "name": "Wiesye M. S. Nangoy"
+    }
+   ],
+   "abstract": "The low activity of students in biology learning is the main challenge in efforts to improve the quality of science learning in secondary schools. This study aims to analyze the effectiveness of the application of the Project Based Learning learning model in increasing student activity and learning outcomes in respiratory system materials at SMA Negeri 2 Langowan. This research is a Class Action Research that is carried out in two cycles, each of which includes stages of planning, action, observation, and reflection. The subjects of the study were 13 students in grade XI. The instruments used include student activity observation sheets and the final test of the cycle based on description questions. The results showed that in the first cycle, only 38.46% of students achieved learning completeness with an average score of 60. However, after improving the strategy in cycle II through active mentoring, learning motivation, and strengthening group work, completeness increased to 92.30% with an average score of 84.69. These findings indicate that the Project Based Learning learning model is able to build student activeness through contextual, collaborative, and hands-on experience-based learning. The increase in activeness is reflected not only in test results, but also in students' active participation in discussions, group presentations, and project completion. The implications of this study show that Project Based Learning is feasible to be implemented as an innovative learning strategy to improve the quality of student interaction and engagement in biology learning on an ongoing basis."
+  },
+  {
+   "paperId": "57c26eb95c8c66a983c3d8a2405852c22e96f54a",
+   "externalIds": {
+    "DOI": "10.37284/eajes.8.4.4230",
+    "CorpusId": 284236785
+   },
+   "url": "https://www.semanticscholar.org/paper/57c26eb95c8c66a983c3d8a2405852c22e96f54a",
+   "title": "Effect of In-Service Training on Teachers’ Effective Facilitation of Planning Students’ Project-Based Learning Activities",
+   "venue": "East African Journal of Education Studies",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journals.eanso.org/index.php/eajes/article/download/4230/4711",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.37284/eajes.8.4.4230?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.37284/eajes.8.4.4230, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-23",
+   "authors": [
+    {
+     "authorId": "81508883",
+     "name": "Alfred Buluma"
+    },
+    {
+     "authorId": "2400976253",
+     "name": "Cotrida Namata"
+    },
+    {
+     "authorId": "2092062309",
+     "name": "Rose Atugonza"
+    }
+   ],
+   "abstract": "Project-Based Learning (PBL) is at the core of the rolled-out Competency-Based Curriculum (CBC) in the secondary schools in Uganda. Teachers at the centre of implementing CBC studied and trained in a knowledge-based one. Hence, their success in facilitating CBC is dependent on the retooling received through the various in-service training programs. Consequently, this study was conducted to investigate the effectiveness of in-service training on the successful facilitation of planning of project-based learning among teachers in selected Government-aided secondary schools in Mubende Municipality-Mubende District. The study adopted an embedded mixed research design. Data was collected from 152 teachers and 60 lower secondary school students.  Data was collected using self-administered questionnaires (SAQ), interviews, and documentary review. Descriptive data were generated from the Statistical Package for Social Sciences (SPSS). Study findings indicate a significant positive relationship between in-service training and effective planning of project-based learning. We recommend the need to design continuous professional development programs to facilitate retooling of teachers as Uganda rolls out CBC at the different levels of education. Designed programs should be complemented by the provision of regular in-service training for all in-service teachers in order to successfully adopt PBL and CBC in Uganda."
+  }
+ ]
+}

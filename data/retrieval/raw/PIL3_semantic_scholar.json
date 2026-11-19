@@ -1,0 +1,935 @@
+{
+ "query": "Food insecurity and household coping strategies",
+ "retrieved_at": "2026-11-10T10:50:39.045509+00:00",
+ "data": [
+  {
+   "paperId": "6cb5be1a9c8154ec7d2cc77cf819b5d7c44f861a",
+   "externalIds": {
+    "DOI": "10.62154/ajasfr.2024.017.010447",
+    "CorpusId": 273907874
+   },
+   "url": "https://www.semanticscholar.org/paper/6cb5be1a9c8154ec7d2cc77cf819b5d7c44f861a",
+   "title": "Determinants of Food Insecurity and Household Coping Strategies among Cassava Farmers in Oyo State, Nigeria",
+   "venue": "African Journal of Agricultural Science and Food Research",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.62154/ajasfr.2024.017.010447",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62154/ajasfr.2024.017.010447?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62154/ajasfr.2024.017.010447, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-11-07",
+   "authors": [
+    {
+     "authorId": "2329794740",
+     "name": "T. O. Babarinde"
+    },
+    {
+     "authorId": "88407444",
+     "name": "A. Adepoju"
+    },
+    {
+     "authorId": "2329792528",
+     "name": "Gbenga Blessing Durojaye"
+    },
+    {
+     "authorId": "2329794768",
+     "name": "Waliyat Titolayo Aremu"
+    },
+    {
+     "authorId": "2329792904",
+     "name": "Iswat Olamide Ladoja"
+    },
+    {
+     "authorId": "2329794937",
+     "name": "Muhdawwal Aremu Eleshin"
+    }
+   ],
+   "abstract": "This study examined the factors influencing food insecurity and household coping strategies among cassava farmers in Afijio Local Government Area, Oyo State, Nigeria. A multistage sampling procedure was employed to collect data from one hundred and twenty cassava farmers by the use of a well-structured questionnaire. Data collected was analyzed using descriptive statistics, food security and coping strategy index, and logit regression model. The results showed average values of 43 years for age, 13 years for farming experience, 4 members per household, and 5 ha for farm size. The mean farm income was ₦866,825 and the non-farm income was ₦39,433. About 60.00% of the respondents were food insecure. Regression results reveal that educational level is significant and negatively influences food insecurity at 1%. Household size has a direct relationship with food insecurity and is significant at 1%. In addition, the age of the farmers, sex, and farm income also influenced household food insecurity in the study area. The study recommends that farmers should be enlightened on the benefit of education and therefore encouraged to enroll in school to improve their knowledge. Birth control policy should also be made to regulate the number of household members."
+  },
+  {
+   "paperId": "1edf02f23e9a1073161e860c914d9b8d481b8967",
+   "externalIds": {
+    "DOI": "10.1080/23311886.2025.2483392",
+    "CorpusId": 277449317
+   },
+   "url": "https://www.semanticscholar.org/paper/1edf02f23e9a1073161e860c914d9b8d481b8967",
+   "title": "Armed conflict and household food insecurity: impacts and coping strategies in the conflict-affected rural settings of Tigray, Ethiopia",
+   "venue": "Cogent Social Sciences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1080/23311886.2025.2483392",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/23311886.2025.2483392?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/23311886.2025.2483392, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-28",
+   "authors": [
+    {
+     "authorId": "2037161857",
+     "name": "H. Gebrihet"
+    },
+    {
+     "authorId": "118823945",
+     "name": "Y. H. Gebresilassie"
+    }
+   ],
+   "abstract": "Abstract The armed conflict in Tigray, Ethiopia, commencing in November 2020, has triggered a profound setback of food security gains in rural areas, necessitating rigorous investigation. This study examines the severity, determinants and coping mechanisms of war-induced food insecurity among rural households, employing a cross-sectional survey of 1060 households. The Food Insecurity Access Scale (FIAS) and Food Insecurity Experience Scale (FIES) revealed that 57% of households experienced food insecurity, with 21.86% exhibiting severe levels, while the Local Coping Strategy Index (LCSI) exhibited prevalent adaptive responses. Conflict-induced factors – displacement, destruction of agricultural assets and market disintegration – constituted primary drivers, significantly elevating vulnerability in directly affected households. Resilience was enhanced by access to irrigation, diversified income streams and livestock ownership, with social protection mechanisms, such as the Productive Safety Net Program (PSNP) and humanitarian assistance, mitigating impacts. However, coping strategies, including asset divestiture, migration and dietary curtailment, while facilitating immediate survival, compromised long-term stability. effects of conflict on rural food systems, distinct from prior urban-centric analyses and underscore the imperative for targeted interventions. Recommendations encompass irrigation development, agricultural enhancement, credit facilitation and expanded safety nets to foster sustainable post-conflict recovery, contributing empirical insights to the nexus of conflict and food security."
+  },
+  {
+   "paperId": "1656058f210108ee01ee3fbb0e72c37fd721dfe6",
+   "externalIds": {
+    "DOI": "10.37905/drsj.v4i1.92",
+    "CorpusId": 282365328
+   },
+   "url": "https://www.semanticscholar.org/paper/1656058f210108ee01ee3fbb0e72c37fd721dfe6",
+   "title": "Identifying the causes of food insecurity and household coping behaviors in Southern Niger",
+   "venue": "Dynamics of Rural Society Journal",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://drsj.fis.ung.ac.id/index.php/DRSJ/article/download/92/42",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.37905/drsj.v4i1.92?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.37905/drsj.v4i1.92, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-10-22",
+   "authors": [
+    {
+     "authorId": "88700323",
+     "name": "Seydou Zakari"
+    }
+   ],
+   "abstract": "Despite significant efforts by the Nigerien government and several international organizations, such as the World Food Program (WFP) and various non-governmental organizations (NGOs), food insecurity continues to affect a substantial portion of the Nigerien population. This study aims to identify the causes of food insecurity and examine the coping strategies adopted by households to mitigate hunger. A structured survey was conducted in 15 villages in the Kollo region of Niger, where household heads were randomly selected for interviews. A total of 500 households participated. Using the Multinomial Probit model, the study explores factors influencing households' choices of coping strategies, hypothesizing that these behaviors are shaped by socio-economic and demographic characteristics. The results reveal that food insecurity is driven by factors such as drought, soil infertility, lack of agricultural inputs, crop pests and diseases, and limited financial resources. In response, households employ strategies such as selling livestock, migrating in search of better opportunities, consuming less preferred foods, and resorting to unusual borrowing. The study concludes that enhancing the sustainability of agricultural production through the promotion of climate-smart agricultural technologies is crucial for improving food security and strengthening household resilience to future challenges."
+  },
+  {
+   "paperId": "45ad9617ef8c8c23b2540ad2ab133614930252ad",
+   "externalIds": {
+    "DOI": "10.1051/bioconf/202515304001",
+    "CorpusId": 275959564
+   },
+   "url": "https://www.semanticscholar.org/paper/45ad9617ef8c8c23b2540ad2ab133614930252ad",
+   "title": "Household food insecurity in rural and urban West Java: The need for coping strategies",
+   "venue": "BIO Web of Conferences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1051/bioconf/202515304001",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/bioconf/202515304001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/bioconf/202515304001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": null,
+     "name": "Anna Vipta Resti Mauludyani"
+    },
+    {
+     "authorId": "81538051",
+     "name": "A. Khomsan"
+    }
+   ],
+   "abstract": "To meet dietary demands and avoid nutritional issues, households experiencing food insecurity employ coping strategies. This study evaluated the degree of food insecurity and coping mechanisms used by households in rural and urban West Java. Using pretested questionnaires, this cross-sectional study collected data from 300 households in rural Cianjur and urban Sukabumi in June 2022. In both places, most households experience food insecurity (rural 70.0%, urban 63.3%). Nonetheless, relying on less-priced and less favored items was the most common coping technique among food-insecure households in both regions. Relying on less preferred and less expensive food was significantly more common in rural areas (40.7%) than urban areas (23.3%). Furthermore, a substantially greater proportion of rural households (19.3% vs. 10.0%) borrowed food or turned to friends or family for support. Overall, the occupation of the father, the level of education of the mother, and the percentage of food spending were the factors that determined household food insecurity. In conclusion, this study suggests that food-insecure households in rural and urban areas employ different coping mechanisms. Urban areas can gain advantages from subsidized food initiatives, while rural regions benefit more from agricultural support tailored to local communities."
+  },
+  {
+   "paperId": "78b17860f4e297173d925d1f1d7584d1b63279db",
+   "externalIds": {
+    "DOI": "10.1002/fes3.70012",
+    "CorpusId": 273291266
+   },
+   "url": "https://www.semanticscholar.org/paper/78b17860f4e297173d925d1f1d7584d1b63279db",
+   "title": "How Do Household Coping Strategies Evolve With Increased Food Insecurity? An Examination of Nigeria's Food Price Shock of 2015–2018",
+   "venue": "Food and Energy Security",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.econstor.eu/bitstream/10419/301945/1/1899408568.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/fes3.70012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/fes3.70012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-09-01",
+   "authors": [
+    {
+     "authorId": "48051645",
+     "name": "J. Quinton"
+    },
+    {
+     "authorId": "2325556567",
+     "name": "Glenn P. Jenkins"
+    },
+    {
+     "authorId": "1412157895",
+     "name": "Godwin O. Olasehinde-Williams"
+    }
+   ],
+   "abstract": "Faced with a significant devaluation of its currency and a surge in food prices, the Nigerian government prohibited the use of foreign currency for food imports. This essentially blocked the importation of numerous food items under the guise of stimulating the domestic output of these staples. Consequently, food prices in Nigeria increased despite a global decline in food prices, and the incidence and severity of food insecurity escalated. This study examines the changes in the types and severity of coping mechanisms for food insecurity resulting from the food price shock caused by the oil price crash, currency devaluation, and restrictions on foreign exchange. Nigeria's General Household Survey Panel data from 2012 and 2015, during periods of high oil prices, is compared with data from 2018 when oil prices had remained low, the currency had been devalued, and the treasury had been depleted. Alongside detailed descriptive statistics, logistic and hurdle regressions are employed for statistical analysis. Findings indicate a rise in the percentage of Nigerian households grappling with food insecurity from 2015 to 2018. During this period, 68.7% of households resorted to at least one coping mechanism, 31.8% adopted six or more coping strategies, and 43.2% resorted to severe coping strategies. The issue stems not primarily from natural disasters or conflicts but from a failure in macroeconomic and agricultural economic policies. Our findings confirm that these policies come at great cost, particularly to female‐headed households, single‐parent households, households headed by elderly people, and other vulnerable populations, pushing them deeper into food insecurity."
+  },
+  {
+   "paperId": "670588b565207905414edfe0e8e6cde89c9c943b",
+   "externalIds": {
+    "PubMedCentral": "9476421",
+    "DOI": "10.1038/s41598-022-19963-2",
+    "CorpusId": 252308663,
+    "PubMed": "36109660"
+   },
+   "url": "https://www.semanticscholar.org/paper/670588b565207905414edfe0e8e6cde89c9c943b",
+   "title": "Spatial exploration of non-resilience to food insecurity, its association with COVID-19 and household coping strategies in East Gojjam districts, Northwest Ethiopia, 2020",
+   "venue": "Scientific Reports",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-022-19963-2.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9476421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-09-15",
+   "authors": [
+    {
+     "authorId": "51096331",
+     "name": "Ayenew Negesse"
+    },
+    {
+     "authorId": "51286908",
+     "name": "Wubetu Woyraw"
+    },
+    {
+     "authorId": "24449818",
+     "name": "H. Temesgen"
+    },
+    {
+     "authorId": "84145803",
+     "name": "Yohannes Teka"
+    },
+    {
+     "authorId": "1661223357",
+     "name": "Lieltwork Yismaw"
+    },
+    {
+     "authorId": "1572473395",
+     "name": "T. Akalu"
+    },
+    {
+     "authorId": "2164870848",
+     "name": "Yikeber Argachew Deml"
+    },
+    {
+     "authorId": "1396323770",
+     "name": "Bickes Wube Sume"
+    },
+    {
+     "authorId": "2047193671",
+     "name": "Y. Negesse"
+    },
+    {
+     "authorId": "1740999363",
+     "name": "Tesfahun Taddege"
+    },
+    {
+     "authorId": "2185141007",
+     "name": "Wassie Dessie Kidie"
+    },
+    {
+     "authorId": "2105476734",
+     "name": "Abraham Teym"
+    },
+    {
+     "authorId": "51923800",
+     "name": "Biachew Asmare"
+    },
+    {
+     "authorId": "2174460516",
+     "name": "Yidersal Hune"
+    },
+    {
+     "authorId": "119541135",
+     "name": "Dawit Damte"
+    },
+    {
+     "authorId": "52007597",
+     "name": "Temesgen Getaneh"
+    },
+    {
+     "authorId": "88057504",
+     "name": "Tsige Gebre"
+    },
+    {
+     "authorId": "2383121073",
+     "name": "B. Tilahun"
+    },
+    {
+     "authorId": "2185140369",
+     "name": "Aemero Tenagne"
+    },
+    {
+     "authorId": "2164050956",
+     "name": "Eniyew Tegegne"
+    },
+    {
+     "authorId": "51096087",
+     "name": "Molla Yigzaw Birhanu"
+    },
+    {
+     "authorId": "2037366220",
+     "name": "Habitamu Mekonen"
+    },
+    {
+     "authorId": "4681752",
+     "name": "Mulu Shiferaw"
+    },
+    {
+     "authorId": "1752910457",
+     "name": "Woldeteklehaymanot Kassahun"
+    },
+    {
+     "authorId": "40587034",
+     "name": "B. Desalegn"
+    }
+   ],
+   "abstract": "The coronavirus disease-2019 (COVID-19) pandemic has posed a significant multifaceted threat to the global community. Ethiopia, as a Sub-Saharan African country, is suffering from chronic food insecurity, and the emergence of such a pandemic will exacerbate the situation. As a result, this study investigated the spatial variation of non-resilience to food insecurity, its relationship with COVID-19, and household coping strategies to become resilient in the long run among households in the East Gojjam Zone of Northwest Ethiopia. From September 22 to December 24, 2020, an agro-ecological-based cross-sectional study of 3532 households was conducted to assess the spatial distribution and associated factors of non-resilience to household food insecurity. The enumeration areas (EAs) and households were chosen using a multistage sampling technique. Data were gathered using a semi-structured questionnaire and checklist using an Android device loaded with an Open Data Kit (ODK) template. Binary logistic regression was used to identify the specific factors associated with household non-resilience to food insecurity. A thematic analysis was conducted to investigate the opportunities and challenges of resilience for household food insecurity. Nearly two-thirds (62.5%) of the households were farmers, 67.9% lived in rural areas, and nearly three-quarters (73.8%) earned less than or equal to ETB 2100 per month. Males headed more than four-fifths of the households (81.7%). We found that nearly two-thirds of the households (60.02%), 95% CI 58.40, 61.64) were food insecure. After bivariate logistic regression, we found that households who were divorced (AOR = 2.54 (1.65, 3.87)), daily laborers (AOR = 2.37 (1.15, 4.87)), government employees (AOR = 2.06 (1.05, 4.05)), residents of highland and hot areas (AOR = 11.5 (5.37, 16.77)) and lowland areas (AOR = 1.35 (1.02, 3.15)) were frustrated by COVID-19 (AOR = 1.23 (1.02, 1.50)) and price inflation (1.89 (AOR = 1.42, 2.56))) were at higher odds of being non-resilient to household food insecurity at a 95% confidence level. Geospatial hot spot analysis revealed that Kurar kebele (the lowest government administrative unit) in Dejen District and Debre Markos town were the red-hotspot areas of household non-resilience to food insecurity. Less than a quarter of the households attempted to cope with food insecurity by adjusting their food consumption, while more than 60% of the households chose none of the coping strategies tested. According to the thematic analysis, the degree of poverty (lack of asset ownership), the COVID-19 pandemic, farm decreased variety, and low crop productivity were identified as challenges to coping with the hardship of resilience to food insecurity. During the COVID-19 pandemic and public emergency, the proportion of households that were unprepared for food insecurity reached its peak. It was recognized that a segment of the population with low economic capacity was more vulnerable to food insecurity and less resilient. Tough developmental gains will be undermined in this case. As a result, each responsible body and stakeholder should develop and implement solid corrective plans for the local context."
+  },
+  {
+   "paperId": "e6e6b96684153f3672202c3595429511c51093f3",
+   "externalIds": {
+    "DOI": "10.1080/19320248.2025.2528753",
+    "CorpusId": 280079094
+   },
+   "url": "https://www.semanticscholar.org/paper/e6e6b96684153f3672202c3595429511c51093f3",
+   "title": "Household Food Insecurity: Determinants and Coping Strategies in Northwest and Northeast Nigeria",
+   "venue": "Journal of Hunger &amp; Environmental Nutrition",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/19320248.2025.2528753?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/19320248.2025.2528753, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-07-09",
+   "authors": [
+    {
+     "authorId": "2335988198",
+     "name": "K. Adeyemi"
+    },
+    {
+     "authorId": "2348620157",
+     "name": "T. Ibiyemi"
+    },
+    {
+     "authorId": "2372669783",
+     "name": "O. Taiwo"
+    },
+    {
+     "authorId": "2360468329",
+     "name": "B. Adeyemi"
+    }
+   ],
+   "abstract": "ABSTRACT This study examines factors influencing household food insecurity in Northeast and Northwest Nigeria, using FAO’s sixth-round survey data from 3,441 households across five states. Households with multiple income sources (OR = 0.25, 95% CI [0.13, 0.51]) and male-controlled income (OR = 0.36, 95% CI [0.20, 0.65]) had reduced odds of food insecurity. In contrast, larger household size (OR = 1.05, 95% CI [1.03, 1.08]) and drought exposure (OR = 1.73, 95% CI [1.29, 2.32]) increased risk. Households in Borno, Yobe, and Zamfara faced higher odds. These findings highlight the need for gender-sensitive, resilience-focused interventions that promote income diversification."
+  },
+  {
+   "paperId": "1f4b24f9bb9a94a1ab6a7ad66706294d315973c8",
+   "externalIds": {
+    "PubMedCentral": "9807975",
+    "DOI": "10.1186/s40795-022-00663-z",
+    "CorpusId": 255415404,
+    "PubMed": "36597135"
+   },
+   "url": "https://www.semanticscholar.org/paper/1f4b24f9bb9a94a1ab6a7ad66706294d315973c8",
+   "title": "Household food insecurity and coping strategies among rural households in Kedida Gamela District, Kembata-Tembaro zone, Southern Ethiopia: mixed-methods concurrent triangulation design",
+   "venue": "BMC Nutrition",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://bmcnutr.biomedcentral.com/counter/pdf/10.1186/s40795-022-00663-z",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9807975, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-01-03",
+   "authors": [
+    {
+     "authorId": "2199241015",
+     "name": "Gizachew Yohannes"
+    },
+    {
+     "authorId": "11286843",
+     "name": "E. Wolka"
+    },
+    {
+     "authorId": "9695623",
+     "name": "T. Bati"
+    },
+    {
+     "authorId": "8106938",
+     "name": "T. Yohannes"
+    }
+   ],
+   "abstract": "Background Household food insecurity is a state in which household members experienced limited or uncertain physical and economic access to safe, plenty, and healthy food to meet the dietary needs for a fruitful, healthy, and active life. Food insecurity continues to be a major development and public health problem across the globe, having adverse consequences. This study was done to assess household food insecurity and to explore coping strategies in Kedida Gamela District, Southern Ethiopia. Method A cross-sectional study complemented with the qualitative inquiry was carried-out from August to November 2020. Multistage sampling was used to select s tudy subjects. A total sample of 597 households was selected randomly using up to date family folder list in the district as a sampling frame. For the qualitative study, 16 food-insecure households were selected randomly from food in secured households. Quantitative data were entered using Ep-Data 3.1 and exported to SPSS 20 for analysis. Bivariate analysis was carried out to see the crude association between each independent variable and outcome variable. P -value < 0.05 and 95%CI for adjusted odds ratios (AOR) were used to declare the significance of the associations. The qualitative data were analyzed using thematic analysis. Result The findings of this study showed that 76% of the households were food insecure. Being female-headed households [AOR: 2.82:CI(1.10, 7.24)], absence of formal education [(AOR: 9.75:CI (3.7, 11.31)], lack of engagement in non-farm farm activities [(AOR; 3.30: CI (1.86, 5.96)], absence of credit service [AOR:4.04; C I (2.11,7.73)], presence of dependent household members [AOR: 3.47;(2.91,6.34)], poorest wealth status [AOR;9.86:CI (3.72, 15.85)] were factors significantly associated with food insecurity of the households. Food insecure households employed different coping strategies with the respective level of food insecurity. Conclusion The findings of this study indicated that household food insecurity was higher in the study area. Moreover, sex, educational status, wealth status of the households; engagement of households in off/non-farm farm activities, credit service, and active and inactive labor force were significantly associated with household food insecurity. Food insecure households practice different coping strategies with respective food insecurity levels from the less severe strategy of eating inedible, fewer-quality foods to the most severe of migrating and begging for food. Planning and exhaustively implementing sustainable food security programs should get due attention."
+  },
+  {
+   "paperId": "36377f7e4ea90a25c2a7141ccc6d3170a5aeb430",
+   "externalIds": {
+    "DOI": "10.1002/aepp.13422",
+    "CorpusId": 267672173
+   },
+   "url": "https://www.semanticscholar.org/paper/36377f7e4ea90a25c2a7141ccc6d3170a5aeb430",
+   "title": "Household resilience and coping strategies to food insecurity: An empirical analysis from Tajikistan",
+   "venue": "Applied Economic Perspectives and Policy",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aepp.13422",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/aepp.13422?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/aepp.13422, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-13",
+   "authors": [
+    {
+     "authorId": "2128824745",
+     "name": "Bekhzod Egamberdiev"
+    },
+    {
+     "authorId": "87460262",
+     "name": "I. Bobojonov"
+    },
+    {
+     "authorId": "153391223",
+     "name": "Lena Kuhn"
+    },
+    {
+     "authorId": "11495207",
+     "name": "T. Glauben"
+    },
+    {
+     "authorId": "66018607",
+     "name": "Kamiljon T. Akramov"
+    }
+   ],
+   "abstract": "By applying Resilience Index Measurement Analysis to data from Tajikistan, this paper measures food insecurity resilience capacity. Another objective of this paper is to construct and integrate coping strategies into resilience discussions. The final objective is to analyze the role of resilience capacity and coping strategy in food security with an Instrumental Variable approach. Our results generally confirm that resilience and coping strategies increase food security, determined by food expenditure, household adequacy of fruit and vegetable consumption, and household food expenditure share. Moreover, resilience capacity has a moderating role in mitigating negative impacts of shocks on food security."
+  },
+  {
+   "paperId": "377ece4ad3eb8a7ef604c1365b154e4ab2c4d75b",
+   "externalIds": {
+    "DOI": "10.35631/jthem.1144016",
+    "CorpusId": 290481782
+   },
+   "url": "https://www.semanticscholar.org/paper/377ece4ad3eb8a7ef604c1365b154e4ab2c4d75b",
+   "title": "URBAN FOOD INSECURITY IN MALAYSIA: A QUALITATIVE PILOT STUDY OF HOUSEHOLD COPING STRATEGIES AND PERCEIVED NUTRITIONAL TRADE-OFFS",
+   "venue": "Journal of Tourism, Hospitality and Environment Management",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://gaexcellence.com/jthem/article/download/7798/6882",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35631/jthem.1144016?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35631/jthem.1144016, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-22",
+   "authors": [
+    {
+     "authorId": "2452776805",
+     "name": "Nurzulain Zulkfli"
+    },
+    {
+     "authorId": "2488746020",
+     "name": "Mohd Aliff Abdul Majid"
+    },
+    {
+     "authorId": null,
+     "name": "Irine Runnie Henry Ginjom"
+    },
+    {
+     "authorId": "2499567142",
+     "name": "Zuraini Mat Issa"
+    }
+   ],
+   "abstract": "Food insecurity is a growing challenge in Malaysia, forcing B40 households to constantly choose between their limited financial resources and daily food needs. In addition to assessing and refining the cultural suitability of the interview guide, this pilot study explored the coping strategies used by urban households to navigate food insecurity and perceived dietary trade-offs. In-depth semi-structured interviews were conducted with two male household heads from contrasting urban contexts, namely Kuching, Sarawak, and Shah Alam, Selangor. The data were analysed using thematic analysis, resulting in three main themes and distinct coping behaviours. One household relied on internalised coping, such as rationing and emotional suppression. In contrast, the other household adopted externally adaptive strategies, such as discount shopping and leveraging food assistance. In both cases, participants experienced a similar nutritional compromise, particularly in reduced meal quality and dietary variety. While these adjustments helped households stretch limited resources, they also raised concerns about hunger, perceived nutritional adequacy, and dietary variety. In addition to generating preliminary insights, the pilot study identified areas for refining the interview guide, particularly in relation to emotional burden, transport-related access, and perceived dietary trade-offs. Overall, this study offers preliminary policy insights by suggesting that food security interventions should consider household coping practices and emotional strain alongside affordability. Still, these suggestions need validation through larger-scale research."
+  },
+  {
+   "paperId": "bd124b0968ec6dad07840263d71ece9a06738fd3",
+   "externalIds": {
+    "PubMedCentral": "13660757",
+    "DOI": "10.1016/j.crm.2026.100841",
+    "CorpusId": 289297236,
+    "PubMed": "42871717"
+   },
+   "url": "https://www.semanticscholar.org/paper/bd124b0968ec6dad07840263d71ece9a06738fd3",
+   "title": "Household coping strategies for food insecurity during droughts in northern Namibia",
+   "venue": "Climate Risk Management",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.crm.2026.100841",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13660757, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-06-01",
+   "authors": [
+    {
+     "authorId": "2376543667",
+     "name": "Leah Poole-Selters"
+    },
+    {
+     "authorId": "82207984",
+     "name": "Desderius Haufiku"
+    },
+    {
+     "authorId": "2442761922",
+     "name": "Likeleli Katjirua"
+    },
+    {
+     "authorId": "2390287993",
+     "name": "Tandi Litwayi"
+    },
+    {
+     "authorId": "2186222405",
+     "name": "Mecthilde Pinto"
+    },
+    {
+     "authorId": "2442762351",
+     "name": "Robert Popyeni"
+    },
+    {
+     "authorId": "1379775949",
+     "name": "Komal Rathod"
+    },
+    {
+     "authorId": "2309089359",
+     "name": "Carolyn Van Sant"
+    },
+    {
+     "authorId": "2249353861",
+     "name": "M. David"
+    },
+    {
+     "authorId": "100531896",
+     "name": "Selma Lendelvo"
+    },
+    {
+     "authorId": "1994686887",
+     "name": "E. D. de Perez"
+    }
+   ],
+   "abstract": "As droughts grow more frequent and severe, understanding how households respond to food insecurity is essential for shaping effective humanitarian and adaptation programs. Based on a household survey of 730 respondents across four regions in northern Namibia, this study explores who experiences food insecurity, the coping strategies households use to manage drought, and how these strategies relate to household characteristics and perceptions of future risk. The survey collected information on household demographics, income sources, access to food aid, and food security status one year after a drought along with coping strategies used to manage drought and food shortages, and perceptions of future food insecurity risk, which were analyzed using descriptive statistics. One year after the most recent drought, 42% of households reported experiencing food insecurity. The most common drought coping strategies were diversifying income (24%) and borrowing money (14%). Households with lower incomes, agricultural livelihoods, and female heads were more likely to experience hunger. Drought coping patterns varied by region with nearly half of respondents in Ohangwena Region (primarily subsistence agriculture) reporting use of at least one coping strategy, compared to 13% in Kunene (arid region with primarily pastoralists). Fear of future food insecurity was widespread, regardless of current food security status or coping strategy use; however, receipt of food aid was associated with lower household hunger. These findings indicate that many households are already taking action to manage drought impacts, yet the effectiveness of these strategies remains uncertain. Rather than applying generic drought solutions, humanitarian and development investments in drought-prone settings should build on existing community practices that are associated with positive outcomes and target those who are most vulnerable. For example, a small percent of households were actively engaging in resource conservation; these practices could be shared and replicated by other households."
+  },
+  {
+   "paperId": "ecfd3b831493b9f3ce0c6ca360a1f5719b9ac5df",
+   "externalIds": {
+    "DOI": "10.18502/jnfs.v11i4.23080",
+    "CorpusId": 295339615
+   },
+   "url": "https://www.semanticscholar.org/paper/ecfd3b831493b9f3ce0c6ca360a1f5719b9ac5df",
+   "title": "Household Coping Strategies for Food Insecurity: An Overview of Reviews",
+   "venue": "Journal of Nutrition and Food Security",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.18502/jnfs.v11i4.23080",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18502/jnfs.v11i4.23080?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18502/jnfs.v11i4.23080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-10-28",
+   "authors": [
+    {
+     "authorId": "3644182",
+     "name": "M. Karkhaneh"
+    },
+    {
+     "authorId": "2524640514",
+     "name": "Fateme Shafiei"
+    },
+    {
+     "authorId": "1518641830",
+     "name": "M. R. Pakravan-Charvadeh"
+    },
+    {
+     "authorId": "2369890973",
+     "name": "Fatemeh Mohammadi-Nasrabadi"
+    }
+   ],
+   "abstract": "Background: Comprehensive understanding of the strategies used by households to confront food insecurity can assist governments and relevant organizations in formulating policies that are more effective. This overview of reviews aims to examine the strategies utilized by households to confront food insecurity throughout the world, regardless of its underlying causes. Methods: The authors searched in PubMed/Medline, ISI Web of Science, Scopus and Google Scholar by appropriate keywords to identify relevant publications up to March 2024. Reviews were eligible for inclusion in the current study if they mentioned coping strategies in response to food insecurity and their full text was in English. The quality of included reviews was examined by the SANRA, JBI, and PRISMA-ScR. Results: A total of 58 review studies reporting coping strategies in response to food insecurity were included. Two major groups of household coping strategies for food insecurity were highlighted: 1) Food-based coping strategies including reducing amount/ portion size of food intake, skipping meals, eating cheap foods, using less preferred food, borrowing/ requesting food options, food sharing, minimizing food waste, assistance programs; and 2) Non-food-based coping strategies which are social protection, financial and asset-based approaches, diversification of livelihood or income sources, agricultural/livestock management approaches, informal and illegal economic approaches, and human capital related strategies. Conclusion: Examining the coping strategies used by households experiencing food insecurity can offer policymakers and planners valuable insights to mitigate food insecurity and its consequences globally and regionally."
+  },
+  {
+   "paperId": "0b52d948c02b66aef4121047d5a0db353ea99fe4",
+   "externalIds": {
+    "DOI": "10.1111/issj.12520",
+    "CorpusId": 270536953
+   },
+   "url": "https://www.semanticscholar.org/paper/0b52d948c02b66aef4121047d5a0db353ea99fe4",
+   "title": "Effect of coping strategies on household food insecurity in Pakistan amid global economic crisis",
+   "venue": "International social science journal",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/issj.12520?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/issj.12520, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-06-14",
+   "authors": [
+    {
+     "authorId": "2303090796",
+     "name": "Mumtaz Anwar"
+    },
+    {
+     "authorId": "2098358893",
+     "name": "Waqas Shair"
+    },
+    {
+     "authorId": "2234146522",
+     "name": "Saem Hussain"
+    }
+   ],
+   "abstract": "Food insecurity tends to be more prevalent amid crises. Several households employ various coping strategies to soften the crisis's financial impact and access adequate food for consumption. This study investigates the impact of various coping strategies on household food insecurity in Pakistan. The study endeavours to identify a more effective coping strategy for reducing food insecurity amid an economic crisis. The study uses nationally represented data surveyed to ‘evaluate the socio‐economic impact of a pandemic on the well‐being of people’. We applied the Ordered Logit and Inverse Probability Weighting model to estimate the aftermath of coping strategies on food insecurity levels. The study's findings suggest that a household that used coping strategies amid crisis is a vulnerable household and more likely to have food insecurity status. Moreover, the study suggests that the coping strategies’ extent (quantity) is positively associated with the likelihood of food insecurity. Finally, the study's aftermath suggests that amongst the different coping strategies, the erosive coping strategy has a lower likelihood of incidence of food insecurity than other strategies. However, within the erosive coping strategies, a household sold real estate asset has less likelihood of being food insecure than other erosive coping strategies. Moreover, spending savings or investments and liquidating real estate are crucial in determining the household's food security status amid the crisis. The study's key findings put forth some potential policy implications related to strategies that can hedge against the crisis and promote resilience in the face of food insecurity."
+  },
+  {
+   "paperId": "21b2da82e3a5cc5d0e72341a8f074c21f34ba946",
+   "externalIds": {
+    "DOI": "10.4103/ijph.ijph_545_23",
+    "CorpusId": 272883007,
+    "PubMed": "39321226"
+   },
+   "url": "https://www.semanticscholar.org/paper/21b2da82e3a5cc5d0e72341a8f074c21f34ba946",
+   "title": "Household Food Insecurity among Indigenous Communities in Sarawak, Malaysia: Predictors and Coping Strategies.",
+   "venue": "Indian Journal of Public Health",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.4103/ijph.ijph_545_23",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4103/ijph.ijph_545_23?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4103/ijph.ijph_545_23, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-07-01",
+   "authors": [
+    {
+     "authorId": "2322844669",
+     "name": "Wan Jool Teoh"
+    },
+    {
+     "authorId": "38706069",
+     "name": "Leh Shii Law"
+    },
+    {
+     "authorId": "31736017",
+     "name": "H. Helmy"
+    },
+    {
+     "authorId": "2358696153",
+     "name": "Jeffery Stephen"
+    },
+    {
+     "authorId": "4543829",
+     "name": "W. Cheah"
+    },
+    {
+     "authorId": "2322835446",
+     "name": "Yolanda Anak Salleh"
+    }
+   ],
+   "abstract": "BACKGROUND\nFood insecurity prevails in people at all phases of their life course and causes remarkable health, social, and financial repercussions. In Sarawak state, Malaysia, information regarding household food insecurity is limited.\n\n\nOBJECTIVES\nThe objective of this study was to examine the prevalence of household food insecurity, together with its predictors and coping strategies among the Sarawak indigenous communities.\n\n\nMATERIALS AND METHODS\nThis cross-sectional study was conducted among 953 Indigenous households (women) located in six districts throughout Sarawak using multistage sampling. Interviewer-administrated questionnaires were used. Simple and multiple logistic regressions were employed to draw inferences.\n\n\nRESULTS\nThe prevalence of food insecurity was 42.2%. Large household size (adjusted odds ratio [AOR] =1.57 [1.04-2.45]), hardcore poor (AOR = 12.26 [5.07-29.65]), and absolute poor families (AOR = 3.01 [1.76-5.15]), recipient of financial assistance (AOR = 1.94 [1.27, 2.96]), no savings (AOR = 1.63 [1.08-2.46]), increased resource loss (AOR = 1.004 [1.001-1.008]), and employment of coping strategies (AOR = 3.78 [2.50-5.72]) were significantly related to a higher risk of household food insecurity. High level of perceived social support (AOR = 0.73 [0.58-0.93]), optimism (AOR = 0.91 [0.86-0.96]), and general perceived self-efficacy (AOR = 0.88 [0.85-0.91]) among respondents were protective against household food insecurity.\n\n\nCONCLUSION\nNearly half of the Indigenous households faced food insecurity in the current study. The findings suggest that incessant effort by pertinent stakeholders is warranted via diverse strategies to enhance the socioeconomic status and nutrition intervention programs that incorporate components of perceived social support, optimism, and perceived general self-efficacy to mitigate the level of food insecurity among the Sarawak Indigenous communities."
+  },
+  {
+   "paperId": "00f1fb2c056c3cebe42f9d1231bc0c9b80587ce8",
+   "externalIds": {
+    "DOI": "10.1016/j.jafr.2024.101627",
+    "CorpusId": 275159085
+   },
+   "url": "https://www.semanticscholar.org/paper/00f1fb2c056c3cebe42f9d1231bc0c9b80587ce8",
+   "title": "Does PSNP participation influence the extent and choices of household coping strategies to food insecurity? Evidence from Northwestern Ethiopia",
+   "venue": "Journal of Agriculture and Food Research",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jafr.2024.101627",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jafr.2024.101627?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jafr.2024.101627, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-12-01",
+   "authors": [
+    {
+     "authorId": "2299680031",
+     "name": "Yednekachew Merkeb"
+    },
+    {
+     "authorId": "88459534",
+     "name": "K. Yasunobu"
+    },
+    {
+     "authorId": "153103228",
+     "name": "Asres Elias"
+    },
+    {
+     "authorId": "90893145",
+     "name": "Birara Endalew"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "4b7480e41bb79313372c8e12043228bb886f57af",
+   "externalIds": {
+    "PubMedCentral": "8061560",
+    "DOI": "10.1136/bmjopen-2021-048738",
+    "CorpusId": 233381262,
+    "PubMed": "33883156"
+   },
+   "url": "https://www.semanticscholar.org/paper/4b7480e41bb79313372c8e12043228bb886f57af",
+   "title": "Impact of COVID-19 on household food insecurity and interlinkages with child feeding practices and coping strategies in Uttar Pradesh, India: a longitudinal community-based study",
+   "venue": "BMJ Open",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://bmjopen.bmj.com/content/bmjopen/11/4/e048738.full.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8061560, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2021-04-01",
+   "authors": [
+    {
+     "authorId": "40133967",
+     "name": "P. Nguyen"
+    },
+    {
+     "authorId": "5827815",
+     "name": "S. Kachwaha"
+    },
+    {
+     "authorId": "146153569",
+     "name": "A. Pant"
+    },
+    {
+     "authorId": "6344889",
+     "name": "L. Tran"
+    },
+    {
+     "authorId": "108056665",
+     "name": "Sebanti Ghosh"
+    },
+    {
+     "authorId": "2130407981",
+     "name": "P. Sharma"
+    },
+    {
+     "authorId": "52195701",
+     "name": "Vishal D. Shastri"
+    },
+    {
+     "authorId": "1413124075",
+     "name": "Jessica L. Escobar-Alegría"
+    },
+    {
+     "authorId": "2522391",
+     "name": "Rasmi Avula"
+    },
+    {
+     "authorId": "145019782",
+     "name": "P. Menon"
+    }
+   ],
+   "abstract": "Objectives The COVID-19 pandemic has profound negative impacts on people’s lives, but little is known on its effect on household food insecurity (HFI) in poor setting resources. This study assessed changes in HFI during the pandemic and examined the interlinkages between HFI with child feeding practices and coping strategies. Design A longitudinal survey in December 2019 (in-person) and August 2020 (by phone). Setting Community-based individuals from 26 blocks in 2 districts in Uttar Pradesh, India. Participants Mothers with children <2 years (n=569). Main outcomes and analyses We measured HFI by using the HFI Access Scale and examined the changes in HFI during the pandemic using the Wilcoxon matched-pairs signed-rank tests. We then assessed child feeding practices and coping strategies by HFI status using multivariable regression models. Results HFI increased sharply from 21% in December 2019 to 80% in August 2020, with 62% households changing the status from food secure to insecure over this period. Children in newly or consistently food-insecure households were less likely to consume a diverse diet (adjusted OR, AOR 0.57, 95% CI 0.34 to 0.95 and AOR 0.51, 95% CI 0.23 to 1.12, respectively) compared with those in food-secure households. Households with consistent food insecurity were more likely to engage in coping strategies such as reducing other essential non-food expenditures (AOR 2.2, 95% CI 1.09 to 4.24), borrowing money to buy food (AOR 4.3, 95% CI 2.31 to 7.95) or selling jewellery (AOR 5.0, 95% CI 1.74 to 14.27) to obtain foods. Similar findings were observed for newly food-insecure households. Conclusions The COVID-19 pandemic and its lockdown measures posed a significant risk to HFI which in turn had implications for child feeding practices and coping strategies. Our findings highlight the need for further investment in targeted social protection strategies and safety nets as part of multisectoral solutions to improve HFI during and after COVID-19."
+  },
+  {
+   "paperId": "faec2aeb5fbaa48d7211aba491528df9f726130c",
+   "externalIds": {
+    "DOI": "10.1080/23311886.2024.2362287",
+    "CorpusId": 270607238
+   },
+   "url": "https://www.semanticscholar.org/paper/faec2aeb5fbaa48d7211aba491528df9f726130c",
+   "title": "Household food insecurity predictors and coping strategies in Basketo Special District, Southern Ethiopia: using the double hurdle model",
+   "venue": "Cogent Social Sciences",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1080/23311886.2024.2362287",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/23311886.2024.2362287?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/23311886.2024.2362287, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-06-18",
+   "authors": [
+    {
+     "authorId": "2307361164",
+     "name": "Mihretu Tesfaye Oyato"
+    },
+    {
+     "authorId": "2307361134",
+     "name": "Gashahun Borano"
+    },
+    {
+     "authorId": "2307361821",
+     "name": "Kebede Abate Tariku"
+    },
+    {
+     "authorId": "2307361312",
+     "name": "Efta Hezikeal Zekariyas"
+    }
+   ],
+   "abstract": "Abstract In Ethiopia, recent reports reveal that nearly 31 million people in the country failed to feed themselves and are suffering from food insecurity problems. The purpose of this study was to examine households’ determinants of food insecurity among rural households in Basketo Special District. An explanatory cross-sectional research design with a mixed research approach was employed. The study has conducted household-level survey data collection from sample households in 14 kebeles of Basketo special district, and secondary data was collected from the documents of the agriculture and extension development office of the district. A stratified random sampling technique has been employed to select 383 sample households. The consumption expenditure approach, particularly calorie acquisition by households, was used to categorize the sample households into food-secure and food-insecure households. Both descriptive and econometric analyses were used to analyze the data collected from households. Our study finds that of the total sampled households, 52.29% (194) were found to be food insecure households, whereas 47.71% (177) were food secure. More specifically, econometric analysis was held by the double hurdle model and revealed that among the fourteen explanatory variables considered, six were statistically significant. These include the age of the household head, sex of the household head, family size, market distance, access to credit, and livestock holding in the tropical livestock unit; they significantly affected households’ probability of being food insecure. From this study, it was suggested that to improve households’ food insecurity status in the study area, households should adopt family planning techniques and women’s empowerment strategies."
+  },
+  {
+   "paperId": "a740d5134e31740fd59184c91f241e82a1e0f3ee",
+   "externalIds": {
+    "DOI": "10.3390/su14148710",
+    "CorpusId": 250656960
+   },
+   "url": "https://www.semanticscholar.org/paper/a740d5134e31740fd59184c91f241e82a1e0f3ee",
+   "title": "Coping Strategies for Household Food Insecurity, and Perceived Health in an Urban Community in Southern Mozambique: A Qualitative Study",
+   "venue": "Sustainability",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2071-1050/14/14/8710/pdf?version=1658225287",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su14148710?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su14148710, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-07-16",
+   "authors": [
+    {
+     "authorId": "2163368047",
+     "name": "E. Militao"
+    },
+    {
+     "authorId": "94061665",
+     "name": "E. Salvador"
+    },
+    {
+     "authorId": "2177378039",
+     "name": "J. Silva"
+    },
+    {
+     "authorId": "4159264",
+     "name": "O. Uthman"
+    },
+    {
+     "authorId": "2651373",
+     "name": "S. Vinberg"
+    },
+    {
+     "authorId": "4230534",
+     "name": "G. Macassa"
+    }
+   ],
+   "abstract": "In low- and middle-income countries, food insecurity (FI) is a living reality for many households, particularly among the most vulnerable groups. The burden of household FI in Mozambique and how FI and coping strategies relate to perceived health are unknown. This study investigated the lived experiences and coping strategies of food-insecure households, along with their perceived health. Altogether, 16 in-depth interviews were performed, audio-recorded, and transcribed verbatim. A qualitative content analysis was carried out and five themes emerged: lived experiences of FI, coping strategies used in situations of FI, food choices, climate change and food security, and FI and perceived health. A wide range of lived experiences and coping strategies were reported, including cooking whatever is available, skipping meals, receiving money or food from friends and relatives, eating unsafe and low-quality foods, taking on additional work, cooking least-preferred foods, and having a monotonous and less-nutritious diet. Furthermore, the participants reported emotional distress, anxiety and depression, substance use, and other negative health outcomes. Some had diagnoses of hypertension, diabetes or HIV/AIDS. The findings suggest the need for employment creation and women’s empowerment, as well as the implementation of appropriate policies and programmes to alleviate household FI."
+  },
+  {
+   "paperId": "dee56b1ccf2929c1b633cc0e98a502ce2cefb152",
+   "externalIds": {
+    "DOI": "10.1007/s10708-022-10742-0",
+    "CorpusId": 252100566
+   },
+   "url": "https://www.semanticscholar.org/paper/dee56b1ccf2929c1b633cc0e98a502ce2cefb152",
+   "title": "Determinants of household food insecurity and coping strategies in Northern Ghana",
+   "venue": "GeoJournal",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10708-022-10742-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10708-022-10742-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-09-05",
+   "authors": [
+    {
+     "authorId": "1412891756",
+     "name": "G. Danso-Abbeam"
+    },
+    {
+     "authorId": "2184186066",
+     "name": "M. A. Asale"
+    },
+    {
+     "authorId": "82533061",
+     "name": "A. Ogundeji"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "997120932bd52b9830b01dcd42f93bdbd4fcaf6a",
+   "externalIds": {
+    "PubMedCentral": "10594962",
+    "DOI": "10.1177/00469580231206263",
+    "CorpusId": 264438082,
+    "PubMed": "37872773"
+   },
+   "url": "https://www.semanticscholar.org/paper/997120932bd52b9830b01dcd42f93bdbd4fcaf6a",
+   "title": "Coping Strategies to Mitigate Food Insecurity at Household Level: Evidence From Urban Setting in Addis Ababa, Ethiopia",
+   "venue": "Inquiry : a journal of medical care organization, provision and financing",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1177/00469580231206263",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10594962, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-01-01",
+   "authors": [
+    {
+     "authorId": "6052092",
+     "name": "S. Biadgilign"
+    }
+   ],
+   "abstract": "Food insecurity is the limited or uncertain ability of households to acquire nutritionally adequate and safe foods in socially acceptable ways. There is paucity of empirical evidence on household food insecurity, level of expenditure, and coping strategies in urban setting of Ethiopia. The objective of this paper is to examine the coping strategies of food insecure households in an urban area setting of Addis Ababa, Ethiopia. This study is based on data collected from 632 mothers interviewed in 2017. Multi-stage sampling techniques were carried out to identify the study unit from selected sub-cites. From each sub-city, proportion to population sampling was applied to obtain the sample size. Simple random sampling method was used to select districts in each sub-city. Multivariable logistic regression model was used to identify factors associated with food security status. The most common coping strategies households used in response to food insecurity were: rely on less preferred and less expensive foods, borrow food, or borrow money to buy food and purchase of food on credit. Food insecure households were 3 times more likely to rely on help from a relative or friend outside the household [AOR = 2.37; 95% CI: (1.01, 5.53); P < .047] compared to food secure households. Similarly, food insecure households were approximately 4 times more likely to limit portions at mealtimes [AOR = 3.55; 95% CI: (1.36, 9.30); P < .010] compared to food secure households. Furthermore, households with no access to a bank or microfinance savings account were 3 times [AOR = 2.62; 95%: (1.21, 5.66); P < .014] more likely to become food insecure compared to those with access to financial services. Households rely on less preferred cheap foods or lending to cope with food insecurity in urban settings of Ethiopia. Encouraging households to practice urban gardening, social protection through integrated national safety net programs, and improving access to microfinance services would be vital to address food insecurity among urban households of the country to bring successful social and economic development."
+  }
+ ]
+}

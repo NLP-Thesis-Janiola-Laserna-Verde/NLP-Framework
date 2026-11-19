@@ -1,0 +1,570 @@
+{
+ "query": "Effects of internal migration on urban communities",
+ "retrieved_at": "2026-11-18T17:58:04.966271+00:00",
+ "data": [
+  {
+   "DOI": "10.5040/9781350989627.ch-0002",
+   "title": [
+    "Internal Migration And Gecekondu Communities In Turkey"
+   ],
+   "container-title": [
+    "Urban Poverty in Turkey"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9781350989627.ch-0002"
+  },
+  {
+   "DOI": "10.7249/p3905-1",
+   "title": [
+    "Internal Migration: A Quantitative Study of Rural-Urban Migration in Colombia"
+   ],
+   "publisher": "RAND Corporation",
+   "issued": {
+    "date-parts": [
+     [
+      1969
+     ]
+    ]
+   },
+   "type": "edited-book",
+   "URL": "https://doi.org/10.7249/p3905-1"
+  },
+  {
+   "DOI": "10.5040/9780755692651.ch-002",
+   "title": [
+    "Migration, Poverty And Marginality In Urban Contexts"
+   ],
+   "container-title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9780755692651.ch-002"
+  },
+  {
+   "publisher": "Oxford University Press",
+   "abstract": "<p>The recent spate of global migration for geo-political reasons hides the fact that human migration has occurred over several millennia. Perhaps social media has led to acute awareness of the impact of immigration on social, political, and economic aspects of the new country. Urban areas and conurbations tend to attract refugees and asylum seekers. The contributions that migrants make are often ignored or forgotten. Migrants are mostly psychologically and physically resilient, but acculturation processes may not always go smoothly, creating discrimination by the larger community. Some migrant groups show higher rates of psychiatric disorders, but these have to be seen in the context of discrimination in policies of employment, housing, etc., and physical and psychological acculturation. Political, social, and economic factors are likely to play a role in the genesis of depression in urban migrants. Specific social factors may influence the individual’s functioning soon after arrival, but other factors may emerge after moving into the city.</p>",
+   "DOI": "10.1093/med/9780198804949.003.0005",
+   "type": "book-chapter",
+   "title": [
+    "Internal migration and internal boundaries"
+   ],
+   "author": [
+    {
+     "given": "Antonio",
+     "family": "Ventriglio",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dinesh",
+     "family": "Bhugra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Urban Mental Health (Oxford Cultural Psychiatry series)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/med/9780198804949.003.0005"
+  },
+  {
+   "DOI": "10.1016/b978-0-12-137350-4.50001-9",
+   "title": [
+    "COMMITTEE ON COMPARATIVE URBAN ECONOMICS"
+   ],
+   "container-title": [
+    "Internal Migration"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      1977
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-12-137350-4.50001-9"
+  },
+  {
+   "DOI": "10.5040/9780755692651.ch-003",
+   "title": [
+    "Theorizing Urban Poverty And Marginality"
+   ],
+   "container-title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9780755692651.ch-003"
+  },
+  {
+   "DOI": "10.1002/pop4.48",
+   "title": [
+    "Retracted: Internal Migration, Mobility, and Exclusion in Urban India: An Examination"
+   ],
+   "container-title": [
+    "Poverty &amp; Public Policy"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      12
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1002/pop4.48",
+   "author": [
+    {
+     "given": "Anil Kumar",
+     "family": "Jha",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Geography; Government Girls P.G. College; Morar, Gwalior (M.P.) India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/b978-0-12-137350-4.50019-6",
+   "title": [
+    "Urban Growth and Decline in the United States: A Study of Migration's Effects in Two Cities"
+   ],
+   "container-title": [
+    "Internal Migration"
+   ],
+   "publisher": "Elsevier",
+   "issued": {
+    "date-parts": [
+     [
+      1977
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1016/b978-0-12-137350-4.50019-6",
+   "author": [
+    {
+     "given": "Peter A.",
+     "family": "Morrison",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study investigates the emerging transition in China's internal migration patterns, shifting from rural‐to‐urban migration to urban‐to‐urban migration and examines its historical evolution, underlying drivers, and the characteristics of urban‐to‐urban migrants. Over the past 75 years, China's internal migration has followed an evolutionary trajectory characterised by a sequence of ‘free migration, restricted migration, rural‐to‐urban migration and urban‐to‐urban migration’. Key factors contributing to the rise of urban‐to‐urban migration include the advancement of urbanisation processes, widening disparities in regional development levels, industrial agglomeration and regional economic integration, improvements in human capital and enhanced conditions for migration. Drawing on Amap migration big data, we observe that urban‐to‐urban migration is rapidly increasing, with no clear spatial distinction between the origins and destination. Based on the Chinese General Social Survey (CGSS), we reveal that individuals engaged in urban‐to‐urban migration generally exhibit higher levels of educational attainment, more conservative marriage and fertility behaviours, superior employment quality and a greater tendency to socialise with friends rather than neighbours. Other developing countries may also witness a similar transformation in migration patterns from rural‐to‐urban to urban‐to‐urban in the future. The experience from China has unique value for global migration studies.</jats:p>",
+   "DOI": "10.1002/psp.70236",
+   "type": "journal-article",
+   "title": [
+    "The New Trend in China's Internal Migration: From Rural‐to‐Urban Migration to Urban‐to‐Urban Migration"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0083-4780",
+     "authenticated-orcid": false,
+     "given": "Yiwen",
+     "family": "Shangguan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Economics and Management Tongji University Shanghai China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Population, Space and Place"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1002/psp.70236"
+  },
+  {
+   "DOI": "10.5040/9780755692651.0010",
+   "title": [
+    "Bibliography"
+   ],
+   "container-title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9780755692651.0010"
+  },
+  {
+   "DOI": "10.5040/9780755692651.0007",
+   "title": [
+    "Introduction"
+   ],
+   "container-title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9780755692651.0007"
+  },
+  {
+   "DOI": "10.5040/9780755692651.0009",
+   "title": [
+    "Notes"
+   ],
+   "container-title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9780755692651.0009"
+  },
+  {
+   "DOI": "10.5040/9780755692651.0008",
+   "title": [
+    "Conclusion"
+   ],
+   "container-title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9780755692651.0008"
+  },
+  {
+   "DOI": "10.18356/9789210021821c011",
+   "title": [
+    "Impacts of Internal Migration on Economic Growth and Urban Development in China"
+   ],
+   "container-title": [
+    "Migration and Development Within and Across Borders"
+   ],
+   "publisher": "United Nations",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.18356/9789210021821c011"
+  },
+  {
+   "DOI": "10.5040/9780755692651.ch-004",
+   "title": [
+    "Features Of Urban Poverty In Dhaka Slums"
+   ],
+   "container-title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9780755692651.ch-004"
+  },
+  {
+   "DOI": "10.4135/9789353287788.n31",
+   "title": [
+    "Urban Migration and Policy Issues"
+   ],
+   "container-title": [
+    "Handbook of Internal Migration in India"
+   ],
+   "publisher": "SAGE Publications Pvt Ltd",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4135/9789353287788.n31",
+   "author": [
+    {
+     "given": "R. B.",
+     "family": "Bhagat",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5040/9780755692651",
+   "title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "monograph",
+   "URL": "https://doi.org/10.5040/9780755692651",
+   "author": [
+    {
+     "given": "Shahadat",
+     "family": "Hossain",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.jtrangeo.2025.104449",
+   "title": [
+    "Effects of urban internal and external migration on urban settlement, commuting, and employment containment in Melbourne, Australia"
+   ],
+   "container-title": [
+    "Journal of Transport Geography"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.jtrangeo.2025.104449",
+   "author": [
+    {
+     "given": "Tiebei",
+     "family": "Li",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jago",
+     "family": "Dodson",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5040/9780755692651.ch-005",
+   "title": [
+    "The Social Life Of Slum Communities In Dhaka City"
+   ],
+   "container-title": [
+    "Urban Poverty in Bangladesh"
+   ],
+   "publisher": "I.B.Tauris",
+   "issued": {
+    "date-parts": [
+     [
+      2011
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5040/9780755692651.ch-005"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n        <p>This study investigates the nexus between urban poverty dynamics and rapid urbanization, urban growth, economic shocks, and internal migration to create novelty in the literature on urban poverty dynamics in Bangladesh. For this purpose, we conduct quantitative analysis for exploring the growth in urbanization and poverty in new versus existing urban areas using data from multiple Household Income and Expenditure Survey (HIES 2000, 2005, 2010 &amp; 2016). Moreover, we investigate the linkages between rural-urban migration and urban poverty using population growth rate data from World Bank Development Indicators (WDI) and net rural-urban migration data from the Sample Vital Registration Survey (SVRS) of Bangladesh Bureau of Statistics. Logistic regression approach is used for our analytical purpose. Findings reveal higher prevalence of poverty in new urban areas compared to the existing one and this results in increase in urban poverty. This study also reveals that there is no statistically significant long-run relationship between the urban population growth rates and net rural-urban migration, implying that growing poverty in new urban areas is not because of rural-urban migration. Therefore, we underscore the need for targeted policy interventions and urban planning strategies to address the unique challenges of poverty in newly urbanized areas of Bangladesh.</p>",
+   "DOI": "10.21203/rs.3.rs-6879162/v1",
+   "type": "posted-content",
+   "title": [
+    "Urban Poverty Dynamics in Bangladesh: Understanding Effects of Rapid Urbanization, Economic Shocks, and Internal Migration"
+   ],
+   "author": [
+    {
+     "given": "Muhammad Shahadat Hossain",
+     "family": "Siddiquee",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Dhaka"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Md. Deen",
+     "family": "Islam",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Dhaka"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Md. Saiful",
+     "family": "Islam",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Dhaka"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      16
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-6879162/v1"
+  }
+ ]
+}

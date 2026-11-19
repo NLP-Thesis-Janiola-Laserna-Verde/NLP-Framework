@@ -1,0 +1,683 @@
+{
+ "query": "Informal employment and economic development",
+ "retrieved_at": "2026-11-18T17:58:59.554613+00:00",
+ "data": [
+  {
+   "DOI": "10.1086/452214",
+   "title": [
+    "Urban Informal Employment and Self-Employment in Developing Countries: Theory and Evidence"
+   ],
+   "container-title": [
+    "Economic Development and Cultural Change"
+   ],
+   "publisher": "University of Chicago Press",
+   "issued": {
+    "date-parts": [
+     [
+      1996,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1086/452214",
+   "author": [
+    {
+     "given": "Gustavo",
+     "family": "Yamada",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>This paper examines how economic sanctions affect the allocation of workers across formal and informal employment. We analyse the case of the unprecedented sanctions imposed on Iran in 2012. Employing a difference-in-differences approach, we compare the probability of being employed in the informal sector before and after 2012 for workers in industries with different pre-existing exposure to international trade. Our analysis reveals that, following the sanctions, workers in industries with higher trade exposure are significantly more likely to experience informal employment compared to workers in industries with lower trade exposure. These results remain robust when accounting for potential sorting issues by using an instrumental variable approach. Our findings suggest that the sudden shock to market access caused by the sanctions might have induced a decline in firms&amp;apos; productivity, especially in industries that heavily depend on imported inputs, and therefore an increase in firms&amp;apos; incentives to reduce the costs by shifting their employees to the informal sector. This sheds light on an important margin of labour market adjustment through which sanctions can affect the economy of the target country.</jats:p>",
+   "DOI": "10.2139/ssrn.4630807",
+   "type": "posted-content",
+   "title": [
+    "Economic Sanctions and Informal Employment"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2823-1268",
+     "authenticated-orcid": true,
+     "given": "Ali",
+     "family": "Moghaddasi Kelishomi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8589-3703",
+     "authenticated-orcid": true,
+     "given": "Roberto",
+     "family": "Nisticò",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.4630807"
+  },
+  {
+   "DOI": "10.1787/28214bf5-en",
+   "title": [
+    "From informal to formal jobs: The contribution of cooperatives in Colombia"
+   ],
+   "container-title": [
+    "OECD Local Economic and Employment Development (LEED) Working Papers"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      7,
+      29
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.1787/28214bf5-en"
+  },
+  {
+   "DOI": "10.4324/9781003329862-13",
+   "title": [
+    "Agricultural exports and informal sector in India"
+   ],
+   "container-title": [
+    "Higher Education, Employment, and Economic Development in India"
+   ],
+   "publisher": "Routledge India",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      17
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003329862-13",
+   "author": [
+    {
+     "given": "Anirban",
+     "family": "Kundu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4337/9781785368431.00020",
+   "title": [
+    "The informal economy and informal employment"
+   ],
+   "container-title": [
+    "Handbook of Social Policy and Development"
+   ],
+   "publisher": "Edward Elgar Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      5,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4337/9781785368431.00020",
+   "author": [
+    {
+     "given": "Francie",
+     "family": "Lund",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/708872a8-en",
+   "title": [
+    "Informal workers by status in employment"
+   ],
+   "container-title": [
+    "OECD International Development Statistics"
+   ],
+   "publisher": "OECD",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      29
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1787/708872a8-en"
+  },
+  {
+   "publisher": "Lujosh Ventures Limited",
+   "abstract": "<jats:p>The problem of employment has become a central global concern in recent times. This makes the government and development partners to be fully engaged in finding a lasting solution to the problems. In the past, development planning efforts were concentrated on the development of modern industrial sector. Today, there is renewed interest in the informal economy worldwide. This is because a large share of the global workforce and economy is informal and because the informal sector is growing in many contexts and appearing in new places and guises. The informal sector serves as a buffer against unemployment in times of economic downturn, allowing an increasing share of the population to earn a livelihood from the sector rather than stay openly unemployed with no income. The sector has also played a key role in cushioning the adverse impact of economic crises. The paper therefore interrogated the nature of employment in the informal sector and is anchored on Modernisation theory. This paper is based on a desk and literature review of relevant articles and publications as well as on employment and the informal sector. The paper revealed that Nigerian Informal Sector is a major contributor to the Nigerian economy, accounting for a significant portion of employment and national Gross Domestic Product and also the informal sector currently accounts for over half of global employment and as much as 90% of employment in some of the developing countries like Nigeria. The paper therefore recommends that efforts should be made by the government and its agencies to create more jobs. Secondly, policies should be introduced to address identified challenges in the informal sector towards improving productivity and incomes of informal sector workers.</jats:p>",
+   "DOI": "10.36108/unizikjb/1202.40.0160",
+   "type": "journal-article",
+   "title": [
+    "EMPLOYMENT IN THE INFORMAL SECTOR IN NIGERIA: IMPLICATIONS FOR SUSTAINABLE ECONOMIC DEVELOPMENT"
+   ],
+   "author": [
+    {
+     "given": "Amaka Ogochukwu",
+     "family": "Onwo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Nnamdi Azikiwe University, Awka"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Gladys Amaechi",
+     "family": "Ohazulike",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nnamdi Azikiwe University, Awka"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "UNIZIK JOURNAL OF BUSINESS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.36108/unizikjb/1202.40.0160"
+  },
+  {
+   "DOI": "10.1787/024440678835",
+   "title": [
+    "Table 1.6. Informal employment and employment in the informal sector;"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1787/024440678835"
+  },
+  {
+   "DOI": "10.1080/10971475.2017.1380115",
+   "title": [
+    "Informal Employment and China’s Economic Development"
+   ],
+   "container-title": [
+    "The Chinese Economy"
+   ],
+   "publisher": "Informa UK Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      11,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1080/10971475.2017.1380115",
+   "author": [
+    {
+     "given": "Ying",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Economics, New School University, New York, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Zhun",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Economics, Howard University, Washington, D.C., USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4337/9781788972802.00016",
+   "title": [
+    "Informal employment and non-market work"
+   ],
+   "container-title": [
+    "Research Handbook on Development and the Informal Economy"
+   ],
+   "publisher": "Edward Elgar Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4337/9781788972802.00016",
+   "author": [
+    {
+     "given": "Nancy",
+     "family": "Folbre",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.18524/2304-1439.2018.1(30).145212",
+   "title": [
+    "INFORMAL EMPLOYMENT IN UKRAINE: SOCIO-ECONOMIC DEVELOPMENT"
+   ],
+   "container-title": [
+    "Odesa National University Herald. Sociology and Politics"
+   ],
+   "publisher": "Odesa I.I. Mechnikov National University",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      10,
+      22
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.18524/2304-1439.2018.1(30).145212",
+   "author": [
+    {
+     "given": "Н. І.",
+     "family": "Варга",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/533140181104",
+   "title": [
+    "Figure 2.1. Self-Employment and Informal Employment &amp; Figure 2.2. Share of Informal Employment in Non-Agricultural Employment"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1787/533140181104"
+  },
+  {
+   "DOI": "10.1086/533550",
+   "title": [
+    "Is There an Informal Employment Wage Penalty? Evidence from South Africa"
+   ],
+   "container-title": [
+    "Economic Development and Cultural Change"
+   ],
+   "publisher": "University of Chicago Press",
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1086/533550",
+   "author": [
+    {
+     "given": "Eliane",
+     "family": "El Badaoui",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Eric",
+     "family": "Strobl",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Frank",
+     "family": "Walsh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-319-71058-7_15-1",
+   "title": [
+    "Informal Employment"
+   ],
+   "container-title": [
+    "Encyclopedia of the UN Sustainable Development Goals",
+    "Decent Work and Economic Growth"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      11,
+      29
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-319-71058-7_15-1",
+   "author": [
+    {
+     "given": "Emerson Abraham",
+     "family": "Jackson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-3-319-95867-5_15",
+   "title": [
+    "Informal Employment"
+   ],
+   "container-title": [
+    "Encyclopedia of the UN Sustainable Development Goals",
+    "Decent Work and Economic Growth"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      11,
+      8
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-319-95867-5_15",
+   "author": [
+    {
+     "given": "Emerson Abraham",
+     "family": "Jackson",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.32843/2663-5208.2019.10.8",
+   "title": [
+    "THE INFLUENCE OF SOCIO-ECONOMIC FACTORS TO THE DEVELOPMENT OF INFORMAL EMPLOYMENT IN UKRAINE"
+   ],
+   "container-title": [
+    "Habitus"
+   ],
+   "publisher": "Publishing House Helvetica (Publications)",
+   "issued": {
+    "date-parts": [
+     [
+      2019
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.32843/2663-5208.2019.10.8",
+   "author": [
+    {
+     "name": "Uzhgorod National University",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "N.I.",
+     "family": "Varha",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/245657753644",
+   "title": [
+    "Informal Employment Re-loaded"
+   ],
+   "container-title": [
+    "OECD Development Centre Working Papers"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      2008,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "report",
+   "URL": "https://doi.org/10.1787/245657753644"
+  },
+  {
+   "DOI": "10.1787/9b94a2ff-en",
+   "title": [
+    "Informal workers by gender and status in employment"
+   ],
+   "container-title": [
+    "OECD International Development Statistics"
+   ],
+   "publisher": "OECD",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      29
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1787/9b94a2ff-en"
+  },
+  {
+   "DOI": "10.1007/978-981-15-0841-7_13",
+   "title": [
+    "Informal Employment in India’s Development Trajectory"
+   ],
+   "container-title": [
+    "India Studies in Business and Economics",
+    "Employment in the Informal Sector in India"
+   ],
+   "publisher": "Springer Nature Singapore",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-981-15-0841-7_13",
+   "author": [
+    {
+     "given": "Ishita",
+     "family": "Mukhopadhyay",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780203003282-11",
+   "title": [
+    "Employment status and informal employment"
+   ],
+   "container-title": [
+    "Informal Employment in Advanced Economies"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2002,
+      9,
+      11
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203003282-11"
+  }
+ ]
+}

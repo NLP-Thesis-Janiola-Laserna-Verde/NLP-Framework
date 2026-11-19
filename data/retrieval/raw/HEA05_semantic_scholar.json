@@ -1,0 +1,1130 @@
+{
+ "query": "Antimicrobial resistance and antibiotic stewardship",
+ "retrieved_at": "2026-11-18T18:09:53.457280+00:00",
+ "data": [
+  {
+   "paperId": "984541a6b49853c485b890b73bf06dbb60ac0657",
+   "externalIds": {
+    "PubMedCentral": "8145182",
+    "DOI": "10.1007/s13337-021-00695-2",
+    "CorpusId": 235197224,
+    "PubMed": "34056051"
+   },
+   "url": "https://www.semanticscholar.org/paper/984541a6b49853c485b890b73bf06dbb60ac0657",
+   "title": "The potential impact of the COVID-19 pandemic on antimicrobial resistance and antibiotic stewardship",
+   "venue": "VirusDisease",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13337-021-00695-2.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8145182, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-05-25",
+   "authors": [
+    {
+     "authorId": "49579050",
+     "name": "S. Subramanya"
+    },
+    {
+     "authorId": "5144286",
+     "name": "Daniel M. Czyż"
+    },
+    {
+     "authorId": "5678789",
+     "name": "K. Acharya"
+    },
+    {
+     "authorId": "144001723",
+     "name": "H. Humphreys"
+    }
+   ],
+   "abstract": "The rapid emergence and spread of antimicrobial resistance continue to kill an estimated 700,000 people annually, and this number is projected to increase ten-fold by 2050. With the lack of data, it is uncertain how the COVID-19 pandemic will affect antimicrobial resistance. Severe disruption of research, innovation, global health programs, and compromised antimicrobial stewardship, infection prevention and control programs, especially in low-and middle-income countries, could affect antimicrobial resistance. However, factors such as strict lockdown, social distancing, vaccination, and the extensive implementation of hand hygiene and face masks, with limited international travel and migration, may also contribute to decreasing AMR. Although the impact of COVID-19 on AMR is global, the adverse effect is likely to be worse in LMICs. In this article, we explore the possible impact of the current pandemic on antibiotic resistance."
+  },
+  {
+   "paperId": "2249e00282d797e480595d573df27b6bb0b10bed",
+   "externalIds": {
+    "MAG": "2779985585",
+    "DOI": "10.1007/s00134-017-5036-1",
+    "CorpusId": 3361387,
+    "PubMed": "29288367"
+   },
+   "url": "https://www.semanticscholar.org/paper/2249e00282d797e480595d573df27b6bb0b10bed",
+   "title": "Antimicrobial resistance and antibiotic stewardship programs in the ICU: insistence and persistence in the fight against resistance. A position statement from ESICM/ESCMID/WAAAR round table on multi-drug resistance",
+   "venue": "Intensive Care Medicine",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "https://dspace.library.uu.nl/handle/1874/371336",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00134-017-5036-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00134-017-5036-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2018-02-01",
+   "authors": [
+    {
+     "authorId": "3503378",
+     "name": "J. de Waele"
+    },
+    {
+     "authorId": "2389020352",
+     "name": "M. Akova"
+    },
+    {
+     "authorId": "143644374",
+     "name": "M. Antonelli"
+    },
+    {
+     "authorId": "3721943",
+     "name": "R. Cantón"
+    },
+    {
+     "authorId": "35605953",
+     "name": "J. Carlet"
+    },
+    {
+     "authorId": "2168417493",
+     "name": "D. de Backer"
+    },
+    {
+     "authorId": "2242122989",
+     "name": "G. Dimopoulos"
+    },
+    {
+     "authorId": "66688172",
+     "name": "J. Garnacho-Montero"
+    },
+    {
+     "authorId": "3817472",
+     "name": "J. Kesecioglu"
+    },
+    {
+     "authorId": "144955730",
+     "name": "J. Lipman"
+    },
+    {
+     "authorId": "145217926",
+     "name": "M. Mer"
+    },
+    {
+     "authorId": "1815168",
+     "name": "J. Paiva"
+    },
+    {
+     "authorId": "3502209",
+     "name": "M. Poljak"
+    },
+    {
+     "authorId": "145128252",
+     "name": "J. Roberts"
+    },
+    {
+     "authorId": "1384152843",
+     "name": "J. Rodríguez-Bãno"
+    },
+    {
+     "authorId": "145124915",
+     "name": "J. Timsit"
+    },
+    {
+     "authorId": "3887170",
+     "name": "J. Zahar"
+    },
+    {
+     "authorId": "3916449",
+     "name": "M. Bassetti"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "40d5aafb953bddb721668540ded50cf9c0317240",
+   "externalIds": {
+    "DOI": "10.11648/j.wjph.20261102.12",
+    "CorpusId": 287276425
+   },
+   "url": "https://www.semanticscholar.org/paper/40d5aafb953bddb721668540ded50cf9c0317240",
+   "title": "Understanding of Antimicrobial Resistance and Antibiotic Stewardship Among Community Members in the Uganda Luwero District",
+   "venue": "World Journal of Public Health",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "http://article.sciencepg.com/pdf/j.wjph.20261102.12",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11648/j.wjph.20261102.12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11648/j.wjph.20261102.12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-03-26",
+   "authors": [
+    {
+     "authorId": "2381125103",
+     "name": "Jakub Kreuter"
+    },
+    {
+     "authorId": "14953425",
+     "name": "Michelle L. Cathorall"
+    },
+    {
+     "authorId": "1398517268",
+     "name": "Lenis P. Chen-Edinboro"
+    },
+    {
+     "authorId": "1401730348",
+     "name": "William Opoku-Agyeman"
+    }
+   ],
+   "abstract": "Antimicrobial resistance is a growing issue worldwide, directly contributing to more than one million deaths each year. Developing countries like Uganda rely on the continued effectiveness of antimicrobials to combat endemic diseases. This study investigated antimicrobial resistance awareness and antibiotic use behaviors among members of the Luwero district in Uganda. An electronic survey was administered to community members in Uganda's Luwero district, the survey tool included questions reflecting aspects of antibiotic stewardship such as how often antibiotics should be taken, dose completion, and rational use. It was found that very few respondents correctly defined antimicrobial resistance and many stopped taking antibiotics when they felt better. There was no significant relationship found between level of education and the variables of interest. Knowledge gaps regarding appropriate use and frequency of dosing of antibiotics were observed among respondents. Education was found to not be associated with accurate knowledge of antibiotic use, reflective of the lack of educational initiatives regarding AMR in Uganda. Further investigation is necessary to more fully illuminate antibiotic use and stewardship in this region."
+  },
+  {
+   "paperId": "45178deb359c047c790ce4bf31f8912e63927d81",
+   "externalIds": {
+    "DOI": "10.1922/CDH_00172Konrad07",
+    "CorpusId": 253118067,
+    "PubMed": "36283066"
+   },
+   "url": "https://www.semanticscholar.org/paper/45178deb359c047c790ce4bf31f8912e63927d81",
+   "title": "Antibiotic use by dentists in Germany: a review of prescriptions, pathogens, antimicrobial resistance and antibiotic stewardship strategies",
+   "venue": "Community Dental Health",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1922/CDH_00172Konrad07?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1922/CDH_00172Konrad07, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-10-24",
+   "authors": [
+    {
+     "authorId": "2054211521",
+     "name": "K. Tolksdorf"
+    },
+    {
+     "authorId": "2325979453",
+     "name": "Antje Freytag"
+    },
+    {
+     "authorId": "4650787",
+     "name": "J. Bleidorn"
+    },
+    {
+     "authorId": "3745088",
+     "name": "Robby Markwart"
+    }
+   ],
+   "abstract": "Background: In Germany, 85% of all antibiotics are prescribed in the outpatient care sector, and dentists account for 11% of the total outpatient antibiotic prescriptions. Objective and Method: Summarise published literature on antibiotic use, pathogens and antibiotic resistance in odontogenic infections and German clinical guidelines and interventions for antibiotic use in dental care. Results: In contrast to other outpatient physicians, the volume of antibiotics prescribed by dentists in Germany did not decrease over the last decade. Penicillins and aminopenicillins are the most frequently prescribed antibiotics (70% of all prescriptions), followed by clindamycin (26%). Streptococcus spp. and Staphylococcus spp. are frequent pathogens isolated from odontogenic infections. However, the infections are often polybacterial with a mixed growth of anaerobic and aerobic bacteria. While the widespread use of penicillin class antibiotics is compatible with German recommendations on empiric antibiotic therapy, there is evidence that pathogens from odontogenic infections frequently exhibit resistance against them. Moreover, the high prescription volume of clindamycin (>25%) appears to be inadequate, since relatively high resistance rates are observed and clindamycin is not recommended as first-line choice in empiric antibiotic therapy. National and international studies show that continuous education of patients and dentists, individual prescription feedback as well as evidence-based guidelines are important measures to improve antibiotic prescription patterns among dentists. Conclusion: To promote rational antibiotic use in outpatient dental care, antibiotic stewardship measures are necessary that include prescription guidelines based on AMR surveillance data as well as continuous education of dentists."
+  },
+  {
+   "paperId": "7181b7d75e6c09e5af1329e82f41397d952052d6",
+   "externalIds": {
+    "DOI": "10.1186/s42269-025-01317-3",
+    "CorpusId": 277753254
+   },
+   "url": "https://www.semanticscholar.org/paper/7181b7d75e6c09e5af1329e82f41397d952052d6",
+   "title": "Revisiting antibiotic stewardship: veterinary contributions to combating antimicrobial resistance globally",
+   "venue": "Bulletin of the National Research Centre",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://bnrc.springeropen.com/counter/pdf/10.1186/s42269-025-01317-3",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s42269-025-01317-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s42269-025-01317-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-11",
+   "authors": [
+    {
+     "authorId": "2355171190",
+     "name": "M. Y. Alhassan"
+    },
+    {
+     "authorId": "2355170424",
+     "name": "Muhammad Kabir Kabara"
+    },
+    {
+     "authorId": "2356236662",
+     "name": "A. Ahmad"
+    },
+    {
+     "authorId": "2410599347",
+     "name": "J. Abdulsalam"
+    },
+    {
+     "authorId": "2355171658",
+     "name": "H. Habib"
+    }
+   ],
+   "abstract": "Antimicrobial resistance (AMR) is a critical global health threat, compromising the effectiveness of essential medicines and endangering food security, economic stability, and environmental sustainability. The widespread misuse of antibiotics in veterinary medicine, particularly in intensive livestock production, has accelerated the emergence and spread of resistant pathogens. While high-income countries have implemented regulatory measures to control antibiotic use, low- and middle-income countries continue to face challenges due to weak regulatory frameworks, inadequate access to diagnostics, and the limited availability of alternative treatments. Addressing antimicrobial resistance aligns with Sustainable Development Goal 3, which promotes good health and well-being, and Sustainable Development Goal 12, which emphasizes responsible consumption and production. Veterinary antibiotic stewardship plays a crucial role in mitigating antimicrobial resistance by promoting responsible antimicrobial use in livestock and companion animals without compromising productivity. Successful interventions, such as Denmark’s “Yellow Card” scheme and the Netherlands’ targeted reduction programs, demonstrate how stringent regulations, improved diagnostics, and alternative treatment strategies can significantly reduce antibiotic consumption. However, implementation remains difficult in low- and middle-income countries, where financial and technical barriers limit enforcement and surveillance efforts. The One Health framework provides a holistic strategy, integrating human, animal, and environmental health to address zoonotic transmission pathways and environmental reservoirs of resistance. Expanding surveillance networks, fostering interdisciplinary collaboration, and investing in research on alternatives—such as vaccines, probiotics, and phytochemicals—are essential for sustainable antimicrobial resistance control. Veterinary antibiotic stewardship is integral to combating antimicrobial resistance and achieving Sustainable Development Goals 3 and 12. The One Health framework strengthens cross-sectoral collaboration, ensuring that mitigation efforts account for human, animal, and environmental health. Moving forward, global policy harmonization, increased funding for alternative antimicrobial strategies, and capacity-building in resource-limited settings are essential to ensuring equitable access to stewardship interventions. Strengthening regulatory enforcement and promoting innovation in diagnostics and antimicrobial alternatives will be key to safeguarding public health and preserving the effectiveness of antibiotics for future generations."
+  },
+  {
+   "paperId": "06f77fa7f354490179e6927629024c45035d4e9c",
+   "externalIds": {
+    "PubMedCentral": "11843993",
+    "DOI": "10.1186/s12909-025-06856-x",
+    "CorpusId": 276507306,
+    "PubMed": "39979877"
+   },
+   "url": "https://www.semanticscholar.org/paper/06f77fa7f354490179e6927629024c45035d4e9c",
+   "title": "Impact of educational intervention on knowledge of antimicrobial resistance and antibiotic use patterns among healthcare students: a pre- and post-intervention study",
+   "venue": "BMC Medical Education",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-025-06856-x",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11843993, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-20",
+   "authors": [
+    {
+     "authorId": "1989874150",
+     "name": "E. Orok"
+    },
+    {
+     "authorId": "2220966361",
+     "name": "F. Ikpe"
+    },
+    {
+     "authorId": "2220968361",
+     "name": "Tonfamoworio Williams"
+    },
+    {
+     "authorId": "2037164838",
+     "name": "Inimuvie Ekada"
+    }
+   ],
+   "abstract": "Antimicrobial resistance (AMR) is a growing global health threat, partly driven by inappropriate antibiotic use. Healthcare students, as future practitioners, must have a good understanding of AMR to contribute to antimicrobial stewardship. This study aimed to evaluate the impact of an educational intervention on healthcare students’ knowledge of AMR and to assess patterns of antibiotic use prior to the intervention. A quasi-experimental pre-and-post study design was conducted with unpaired groups of healthcare students. An educational intervention was carried out comprising of two 20-minute PowerPoint lectures, as well as question and answer sessions focused on understanding the spread, impact, and prevention of AMR. A self-administered questionnaire was given as a pre-test and repeated as a post-test immediately after the training. Students’ knowledge of AMR and patterns of antibiotic use was assessed pre-intervention while knowledge of AMR was assessed post-intervention. The knowledge was categorised into domains (Understanding Antibiotic and Antimicrobial Resistance; Spread and Impact of Antibiotic/Antimicrobial Resistance; Prevention of Antibiotic/Antimicrobial Resistance). The total score for each domain of knowledge tested was categorized into good knowledge (≥ 80%) and poor knowledge (< 50%). The number of participants in the pre- and post-intervention were 185 and 157 students with average age of 17.7 years and 17.8 years respectively. Post-intervention, there was a significant increase in students’ AMR knowledge, with correct responses regarding spread and impact of AMR increasing from 40.5% pre-intervention to 62.4% post-intervention (p < 0.001; φ (effect size = 0.218). The proportion of students demonstrating good overall knowledge increased from 28.1 to 44.6% (p = 0.001; φ (effect size = 0.171). Misconceptions, such as misunderstanding that antibiotic resistance does not result from the body becoming resistant to antibiotics, persisted but not statistically significant (24.9–17.2%, p = 0.055). Pre-intervention also revealed varied antibiotic use patterns, including the inappropriate use of antibiotics for malaria (51.7%, (n = 76)), and common cold (25.2% (n = 37)). The study findings indicate that educational interventions can effectively improve healthcare students’ knowledge of AMR, though persistent misconceptions underscore the need for more targeted educational efforts. Incorporating structured AMR content into healthcare curricula could help the students contribute to antimicrobial stewardship. Future research should evaluate knowledge retention and behaviour changes to optimize the long-term impact of AMR education."
+  },
+  {
+   "paperId": "95fe6f846a22094184651893ab705bad2fd0e7a2",
+   "externalIds": {
+    "PubMedCentral": "10914457",
+    "DOI": "10.1093/jacamr/dlae034",
+    "CorpusId": 268249494,
+    "PubMed": "38449513"
+   },
+   "url": "https://www.semanticscholar.org/paper/95fe6f846a22094184651893ab705bad2fd0e7a2",
+   "title": "Community antibiotic consumption and associated factors in Lusaka district of Zambia: findings and implications for antimicrobial resistance and stewardship",
+   "venue": "JAC-Antimicrobial Resistance",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://academic.oup.com/jacamr/article-pdf/6/2/dlae034/56866540/dlae034.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10914457, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-03-05",
+   "authors": [
+    {
+     "authorId": "2290037127",
+     "name": "Maty Tsumbu Ngoma"
+    },
+    {
+     "authorId": "10124449",
+     "name": "D. Sitali"
+    },
+    {
+     "authorId": "2127929599",
+     "name": "S. Mudenda"
+    },
+    {
+     "authorId": "1656879370",
+     "name": "Mercy Mukuma"
+    },
+    {
+     "authorId": "2083429585",
+     "name": "F. Bumbangi"
+    },
+    {
+     "authorId": "89908924",
+     "name": "E. Bunuma"
+    },
+    {
+     "authorId": "2746117",
+     "name": "E. Skjerve"
+    },
+    {
+     "authorId": "5454304",
+     "name": "J. Muma"
+    }
+   ],
+   "abstract": "Abstract Introduction Antimicrobial resistance (AMR) is a global public health crisis. This study assessed the general public’s consumption of antibiotics and associated factors in the Lusaka district of Zambia. Methods This cross-sectional study was conducted among 2038 participants between December 2022 and January 2023. Data were analysed using Stata 13.0. Multivariable regression techniques were used to determine the factors that influenced antibiotic consumption. Results Of the 2038 participants, 53.4% were female, and 51.5% had attended at least secondary school. Antibiotic use was 99.2%, of which 40.9% were appropriately used. Overall, 79.1% of antibiotics were prescribed in hospitals, while 20.9% were used from leftovers and accessed without prescriptions. This study found that the appropriate use of antibiotics was associated with being female, being aged 35 years and above, attaining secondary school or tertiary education, having a monthly expenditure of 195 USD and above, being aware that antibiotics were not the same as painkillers, and being confident that when someone was hospitalized, they would get well. Conclusions This study found that the appropriate use of antibiotics was low, and this is an urgent public health issue requiring community engagement in tackling AMR and adherence to treatment guidelines in healthcare facilities. Additionally, there is a need to implement and strengthen antimicrobial stewardship programmes in healthcare facilities to promote the rational use of antibiotics in Zambia. There is also a need to heighten community awareness campaigns and educational activities on the appropriate use of antibiotics."
+  },
+  {
+   "paperId": "bb5f26b56fed2d906c9351e649a2b7a2ac47fd55",
+   "externalIds": {
+    "PubMedCentral": "11468406",
+    "DOI": "10.7759/cureus.69170",
+    "CorpusId": 272638021,
+    "PubMed": "39398725"
+   },
+   "url": "https://www.semanticscholar.org/paper/bb5f26b56fed2d906c9351e649a2b7a2ac47fd55",
+   "title": "Impact of COVID-19 on Antibiotic Stewardship, Antimicrobial Resistance, and Prescribing Habits at Two General Hospitals in Abu Dhabi: A Retrospective Analysis",
+   "venue": "Cureus",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.cureus.com/articles/284013-impact-of-covid-19-on-antibiotic-stewardship-antimicrobial-resistance-and-prescribing-habits-at-two-general-hospitals-in-abu-dhabi-a-retrospective-analysis.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11468406, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-09-01",
+   "authors": [
+    {
+     "authorId": "47471591",
+     "name": "Kanika Vats"
+    },
+    {
+     "authorId": "2317629144",
+     "name": "Kuldeep Singh"
+    },
+    {
+     "authorId": "8471057",
+     "name": "S. Oommen"
+    }
+   ],
+   "abstract": "Introduction The COVID-19 pandemic has overwhelmingly affected healthcare systems, particularly in the area of antibiotic management. The surge in antimicrobial use to address secondary bacterial infections in COVID-19 patients has heightened concerns about overuse and antimicrobial resistance (AMR). This study examined the pandemic's effect on the antibiotic stewardship program (ASP) at two general hospitals in Abu Dhabi, focusing on changes in prescribing practices, adherence to stewardship guidelines, resistance trends, and overall health system impact. The present retrospective study evaluated shifts in antibiotic consumption, compliance with stewardship practices, and broader healthcare implications. The aim is to assess the pandemic's impact, identify improvement areas, and provide insights to enhance the ASP in addressing the global AMR crisis. Methods This retrospective review assessed electronic medical records from two general hospitals in Abu Dhabi over a 24-month period, from January 2019 to December 2020. It included pre-COVID-19 data from 2019 and data from 2020 during the COVID-19 surge. The study focused on patients aged 25 to 40 years with respiratory tract infections, urinary tract infections, ventilator-associated pneumonia, and nosocomial infections, identified using predefined ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification) codes. Patients with COVID-19 diagnoses and those undergoing surgical procedures were excluded. Key metrics compared data from 2019 and 2020 to assess changes in clinicians' prescribing practices, antibiotic usage, ASP interventions, and their impact on the healthcare system. Results The COVID-19 pandemic influenced antibiotic use and resistance trends, leading to longer hospital stays (3.86 days in 2019 vs. 4.29 days in 2020) and increased use of duplicate anaerobic therapy (4.58% in 2019 vs. 5.71% in 2020). From 2019 to 2020, the average duration of antibiotic therapy decreased from 6.23 days to 5.24 days, but empirical therapy without sufficient evidence rose. The average length of treatment increased (2.87 days in 2019 vs. 3.28 days in 2020), and there was a rise in the use of antibiotics for viral and fungal infections, with cases growing from 17.08% in 2019 to 22.38% in 2020. Despite modest improvements in stewardship practices in 2020, AMR challenges persisted. These results underscore the need for enhanced stewardship programs and continued research to address the ongoing impact on antibiotic prescribing and resistance. Conclusion The COVID-19 pandemic increased antibiotic use and altered resistance patterns. Although stewardship practices improved, AMR challenges remained. Enhanced stewardship programs and ongoing research are essential to mitigate these effects and improve antibiotic management. Recommendation To address changes in antibiotic use and resistance during the COVID-19 pandemic, it is recommended to strengthen ASPs to adapt to new prescribing trends, ensure adherence to evidence-based practices, provide ongoing education for clinicians, invest in research on long-term resistance impacts, and enhance data tracking and monitoring systems."
+  },
+  {
+   "paperId": "0a7a1ff8aa0b3e33ab66cf06985e3bc0e350f376",
+   "externalIds": {
+    "DOI": "10.1016/j.jinf.2024.106183",
+    "CorpusId": 269802565,
+    "PubMed": "38754635"
+   },
+   "url": "https://www.semanticscholar.org/paper/0a7a1ff8aa0b3e33ab66cf06985e3bc0e350f376",
+   "title": "Global antimicrobial resistance and antibiotic use in COVID-19 patients within health facilities: a systematic review and meta-analysis of aggregated participant data.",
+   "venue": "Journal of Infection",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.journalofinfection.com/article/S0163-4453(24)00117-8/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jinf.2024.106183?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jinf.2024.106183, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-05-01",
+   "authors": [
+    {
+     "authorId": "2190156622",
+     "name": "Xin-Yi Yang"
+    },
+    {
+     "authorId": "2301552057",
+     "name": "Xi-Ying Li"
+    },
+    {
+     "authorId": "2301558215",
+     "name": "Shengyue Qiu"
+    },
+    {
+     "authorId": "2152503397",
+     "name": "Chao-Jie Liu"
+    },
+    {
+     "authorId": "2276259099",
+     "name": "Shan-Quan Chen"
+    },
+    {
+     "authorId": "2209338887",
+     "name": "Haohai Xia"
+    },
+    {
+     "authorId": "2165680624",
+     "name": "Yingchao Zeng"
+    },
+    {
+     "authorId": "2190898892",
+     "name": "Lin Shi"
+    },
+    {
+     "authorId": "2282280819",
+     "name": "Jie Chen"
+    },
+    {
+     "authorId": "2301753111",
+     "name": "Jinkun Zheng"
+    },
+    {
+     "authorId": "2302308731",
+     "name": "Shifang Yang"
+    },
+    {
+     "authorId": "2301568333",
+     "name": "Guobao Tian"
+    },
+    {
+     "authorId": "2301636759",
+     "name": "Gordon G. Liu"
+    },
+    {
+     "authorId": "2502525",
+     "name": "Lian-Ping Yang"
+    }
+   ],
+   "abstract": "OBJECTIVES\nThe COVID-19 pandemic has posed a significant threat to the global healthcare system, presenting a major challenge to antimicrobial stewardship worldwide.\n\n\nMETHODS\nWe conducted a systematic review to determine the prevalence of antimicrobial resistance (AMR) and antibiotic usage among COVID-19 patients receiving treatment in healthcare facilities. Our search encompassed the PubMed, Web of Science, Embase, and Scopus databases, spanning studies published from December 2019 to May 2023. We utilized random-effects meta-analysis to assess the prevalence of multidrug-resistant organisms (MDROs) and antibiotic use in COVID-19 patients, aligning with both the WHO's priority list of MDROs and the AWaRe list of antibiotic products. Estimates were stratified by region, country, and country income. Meta-regression models were established to identify predictors of MDRO prevalence and antibiotic use in COVID-19 patients. The study protocol was registered with PROSPERO (CRD 42023449396).\n\n\nRESULTS\nAmong the 11,050 studies screened, 173 were included in the review, encompassing a total of 892,312 COVID-19 patients. MDROs were observed in 42.9% (95% CI 31.1%-54.5%, I2=99.90%) of COVID-19 patients: 41.0% (95% CI 35.5%-46.6%) for carbapenem-resistant organisms (CRO), 19.9% (95% CI 13.4%-27.2%) for methicillin-resistant Staphylococcus aureus (MRSA), 24.9% (95% CI 16.7%-34.1%) for extended-spectrum beta-lactamase-producing organisms (ESBL), and 22.9% (95% CI 13.0%-34.5%) for vancomycin-resistant Enterococcus species (VRE), respectively. Overall, 76.2% (95% CI 69.5%-82.9%, I2=99.99%) of COVID-19 patients were treated with antibiotics: 29.6% (95% CI 26.0%-33.4%) with \"Watch\" antibiotics, 22.4% (95% CI 18.0%-26.7%) with \"Reserve\" antibiotics, and 16.5% (95% CI 13.3%-19.7%) with \"Access\" antibiotics. The MDRO prevalence and antibiotic use were significantly higher in low- and middle-income countries than in high-income countries, with the lowest proportion of antibiotic use (60.1% (95% CI 52.1%-68.0%)) and MDRO prevalence (29.1% (95% CI 21.8%-36.4%)) in North America, the highest MDRO prevalence in the Middle East and Africa (63.9% (95% CI 46.6%-81.2%)), and the highest proportion of antibiotic use in South Asia (92.7% (95% CI 90.4%-95.0%)). The meta-regression identified antibiotic use and ICU admission as a significant predictor of higher prevalence of MDROs in COVID-19 patients.\n\n\nCONCLUSIONS\nThis systematic review offers a comprehensive and current assessment of MDRO prevalence and antibiotic use among COVID-19 patients in healthcare facilities. It underscores the formidable challenge facing global efforts to prevent and control AMR amidst the backdrop of the COVID-19 pandemic. These findings serve as a crucial warning to policymakers, highlighting the urgent need to enhance antimicrobial stewardship strategies to mitigate the risks associated with future pandemics."
+  },
+  {
+   "paperId": "24df84614fed3f3ea09cb6b7ba5f85fbe3f9c2e9",
+   "externalIds": {
+    "DOI": "10.1016/j.ijmmb.2023.100383",
+    "CorpusId": 258880178,
+    "PubMed": "37573060"
+   },
+   "url": "https://www.semanticscholar.org/paper/24df84614fed3f3ea09cb6b7ba5f85fbe3f9c2e9",
+   "title": "Impact of improving infection control and antibiotic stewardship practices on nosocomial infections and antimicrobial resistance in an oncology centre from India.",
+   "venue": "Indian Journal of Medical Microbiology",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ijmmb.2023.100383?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ijmmb.2023.100383, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-01",
+   "authors": [
+    {
+     "authorId": "2180906829",
+     "name": "Nitin Bansal"
+    },
+    {
+     "authorId": "47316070",
+     "name": "P. Goyal"
+    },
+    {
+     "authorId": "2192818151",
+     "name": "D. Basu"
+    },
+    {
+     "authorId": "2552123",
+     "name": "U. Batra"
+    },
+    {
+     "authorId": "20697419",
+     "name": "N. Sachdeva"
+    },
+    {
+     "authorId": "1395837848",
+     "name": "S. Joga"
+    },
+    {
+     "authorId": "144459360",
+     "name": "Arpit Jain"
+    },
+    {
+     "authorId": "2056574",
+     "name": "D. Doval"
+    }
+   ],
+   "abstract": "BACKGROUND\nImproving basic infection control (IC) practices, diagnostics and anti-microbial stewardship (AMS) are key tools to handle antimicrobial resistance (AMR).\n\n\nMATERIALS AND METHODS\nThis is a retrospective study done over 6 years (2016-2021) in an oncology centre in North India with many on-going interventions to improve IC practices, diagnostics and AMS. This study looked into AMR patterns from clinical isolates, rates of hospital acquired infections (HAI) and clinical outcomes.\n\n\nRESULTS\nOver all, 98,915 samples were sent for culture from 158,191 admitted patients. Most commonly isolated organism was E. coli (n ​= ​6951; 30.1%) followed by Klebsiella pneumoniae (n ​= ​5801; 25.1%) and Pseudomonas aeroginosa (n ​= ​3041; 13.1%). VRE (Vancomycin resistant Enterococcus) rates fell down from 43.5% in Jan-June 2016 to 12.2% in July-Dec 2021, same was seen in CR (carbapenem resistant) Pseudomonas (23.0%-20.6%, CR Acinetobacter (66.6%-17.02%) and CR E. coli (21.6%-19.4%) over the same study period. Rate of isolation of Candida spp. from non-sterile sites also showed reduction (1.68 per 100 patients to 0.65 per 100 patients). Incidence of health care associated infections also fell from 2.3 to 1.19 per 1000 line days for CLABSI, 2.28 to 1.88 per 1000 catheter days for CAUTI. There was no change in overall mortality rates across the study period.\n\n\nCONCLUSION\nThis study emphasizes the point that improving compliance to standard IC recommendations and improving diagnostics can help in reducing the burden of antimicrobial resistance."
+  },
+  {
+   "paperId": "4fea8a5338070824e3da36445132a3d5d9c7ebfa",
+   "externalIds": {
+    "PubMedCentral": "10749484",
+    "DOI": "10.3389/fmicb.2023.1298858",
+    "CorpusId": 266281969,
+    "PubMed": "38146447"
+   },
+   "url": "https://www.semanticscholar.org/paper/4fea8a5338070824e3da36445132a3d5d9c7ebfa",
+   "title": "WHO AWaRe classification for antibiotic stewardship: tackling antimicrobial resistance – a descriptive study from an English NHS Foundation Trust prior to and during the COVID-19 pandemic",
+   "venue": "Frontiers in Microbiology",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3389/fmicb.2023.1298858",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10749484, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2023-12-11",
+   "authors": [
+    {
+     "authorId": "2219904220",
+     "name": "Rasha Abdelsalam Elshenawy"
+    },
+    {
+     "authorId": "2267189215",
+     "name": "N. Umaru"
+    },
+    {
+     "authorId": "2269601970",
+     "name": "Z. Aslanpour"
+    }
+   ],
+   "abstract": "Antimicrobial resistance (AMR) is a silent and rapidly escalating pandemic, presenting a critical challenge to global health security. During the pandemic, this study was undertaken at a NHS Foundation Trust in the United Kingdom to explore antibiotic prescribing trends for respiratory tract infections (RTIs), including pneumonia, and the COVID-19 pandemic across the years 2019 and 2020. This study, guided by the WHO’s AWaRe classification, sought to understand the impact of the pandemic on antibiotic prescribing and antimicrobial stewardship (AMS). The research methodology involved a retrospective review of medical records from adults aged 25 and older admitted with RTIs, including pneumonia, in 2019 and 2020. The application of the AWaRe classification enabled a structured description of antibiotic use. The study evaluated antibiotic use in 640 patients with RTIs. Notably, it observed a slight increase in the use of amoxicillin/clavulanic acid and a substantial rise in azithromycin prescriptions, highlighting shifts in prescribing trends. Despite these changes, some antibiotics displayed steady consumption rates. These findings highlight the importance of understanding antibiotic use patterns during the AMR threat. The increase in the usage of “Watch” category antibiotics during the pandemic emphasises the urgency of robust AMS measures. The research confirms that incorporating the AWaRe classification in prescribing decisions is crucial for patient safety and combating antibiotic misuse. This study provides essential insights into the changing landscape of antibiotic prescribing during a global health crisis, reinforcing the necessity for ongoing AMS vigilance to effectively address AMR challenges."
+  },
+  {
+   "paperId": "536cd743aef5ada36d5cdc76ac83480ec66701e7",
+   "externalIds": {
+    "PubMedCentral": "10135403",
+    "DOI": "10.3390/antibiotics12040767",
+    "CorpusId": 258195426,
+    "PubMed": "37107129"
+   },
+   "url": "https://www.semanticscholar.org/paper/536cd743aef5ada36d5cdc76ac83480ec66701e7",
+   "title": "Bacterial Aetiology of Neonatal Sepsis and Antimicrobial Resistance Pattern at the Regional Referral Hospital, Dar es Salam, Tanzania; A Call to Strengthening Antibiotic Stewardship Program",
+   "venue": "Antibiotics",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2079-6382/12/4/767/pdf?version=1681781432",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10135403, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-04-01",
+   "authors": [
+    {
+     "authorId": "5749132",
+     "name": "M. Majigo"
+    },
+    {
+     "authorId": "10998894",
+     "name": "J. Makupa"
+    },
+    {
+     "authorId": "2166374426",
+     "name": "Zivonishe Mwazyunga"
+    },
+    {
+     "authorId": "2214670901",
+     "name": "Anna Luoga"
+    },
+    {
+     "authorId": "2214680112",
+     "name": "Julius Kisinga"
+    },
+    {
+     "authorId": "2214670433",
+     "name": "Bertha Mwamkoa"
+    },
+    {
+     "authorId": "2118189327",
+     "name": "Sukyung Kim"
+    },
+    {
+     "authorId": "40563812",
+     "name": "A. Joachim"
+    }
+   ],
+   "abstract": "The diagnosis of neonatal sepsis in lower-income countries is mainly based on clinical presentation. The practice necessitates empirical treatment with limited aetiology and antibiotic susceptibility profile knowledge, prompting the emergence and spread of antimicrobial resistance. We conducted a cross-sectional study to determine the aetiology of neonatal sepsis and antimicrobial resistance patterns. We recruited 658 neonates admitted to the neonatal ward with signs and symptoms of sepsis and performed 639 automated blood cultures and antimicrobial susceptibility testing. Around 72% of the samples were culture positive; Gram-positive bacteria were predominantly isolated, contributing to 81%. Coagulase-negative Staphylococci were the most isolates, followed by Streptococcus agalactiae. Overall, antibiotic resistance among Gram-positive pathogens ranged from 23% (Chloramphenicol) to 93% (Penicillin) and from 24.7% (amikacin) to 91% (ampicillin) for Gram-negative bacteria. Moreover, about 69% of Gram-positive and 75% of Gram-negative bacteria were multidrug-resistant (MDR). We observed about 70% overall proportion of MDR strains, non-significantly more in Gram-negative than Gram-positive pathogens (p = 0.334). In conclusion, the pathogen causing neonatal sepsis in our setting exhibited a high resistance rate to commonly used antibiotics. The high rate of MDR pathogens calls for strengthening antibiotic stewardship programs."
+  },
+  {
+   "paperId": "ebdb6035d44a261565160a4acdd096ccd0cb1a6c",
+   "externalIds": {
+    "MAG": "3014484917",
+    "CorpusId": 217762781
+   },
+   "url": "https://www.semanticscholar.org/paper/ebdb6035d44a261565160a4acdd096ccd0cb1a6c",
+   "title": "Antimicrobial resistance and antibiotic stewardship: knowledge, attitudes and perceptions amongst final-year undergraduate health professional students in a South African university.",
+   "venue": "",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2347581155",
+     "name": "Shanaya Singh"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "907d65a0d8537930aa3c0d68b8db4fe17310deb9",
+   "externalIds": {
+    "PubMedCentral": "8606649",
+    "DOI": "10.3389/fphar.2021.754000",
+    "CorpusId": 243834373,
+    "PubMed": "34819859"
+   },
+   "url": "https://www.semanticscholar.org/paper/907d65a0d8537930aa3c0d68b8db4fe17310deb9",
+   "title": "Exploring Undergraduate Pharmacy Students Perspectives Towards Antibiotics Use, Antibiotic Resistance, and Antibiotic Stewardship Programs Along With the Pharmacy Teachers’ Perspectives: A Mixed-Methods Study From Pakistan",
+   "venue": "Frontiers in Pharmacology",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/articles/10.3389/fphar.2021.754000/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8606649, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-11-08",
+   "authors": [
+    {
+     "authorId": "51272914",
+     "name": "F. Khan"
+    },
+    {
+     "authorId": "2309681072",
+     "name": "Amjad Khan"
+    },
+    {
+     "authorId": "89033726",
+     "name": "Shahid Shah"
+    },
+    {
+     "authorId": "31285768",
+     "name": "Khezar Hayat"
+    },
+    {
+     "authorId": "2004780493",
+     "name": "Abubakar Usman"
+    },
+    {
+     "authorId": "150101865",
+     "name": "F. Khan"
+    },
+    {
+     "authorId": "152329624",
+     "name": "Zakir Khan"
+    },
+    {
+     "authorId": "1561585727",
+     "name": "Yusuf Karataş"
+    },
+    {
+     "authorId": "2047851556",
+     "name": "Tawseef Ahmad"
+    },
+    {
+     "authorId": "14071917",
+     "name": "Jie Chang"
+    },
+    {
+     "authorId": "1931681091",
+     "name": "U. Malik"
+    },
+    {
+     "authorId": "2294969312",
+     "name": "A. Khan"
+    },
+    {
+     "authorId": "1937498776",
+     "name": "Sundus Shukar"
+    },
+    {
+     "authorId": "2051559622",
+     "name": "Muhtar Kadirhaz"
+    },
+    {
+     "authorId": "1863513591",
+     "name": "Yu Fang"
+    }
+   ],
+   "abstract": "Background: Antibiotic resistance (ABR) is one of the major issues around the globe. Timely education and awareness of pharmacy students regarding the appropriate use of antibiotics, ABR, and antimicrobial stewardships are required. Methods: The present study was first conducted in 12 (public and private sector) universities among undergraduate pharmacy students (UGPS) (n = 414) irrespective of their study year through a validated questionnaire, and the insights of pharmacy teachers were taken through in-depth semi-structured interviews in the second phase. For the quantitative data, different statistical methods were used, and data were presented in tabulated form, whereas inductive thematic interpretation was used to categorize themes and derive conclusions from qualitative evidence. Results: The majority of the students were males (n = 223, 54%) with the mean age group 19–23 years, and 20 faculty members were interviewed with a mean duration of 15 min. Students have good knowledge about antibiotics use and the majority purchased antibiotics through prescription (n = 277, 66.9%) during the last month and strongly agreed to stop unnecessary household storage (n = 183 44.2%). Most of the students have heard the terminologies related to antimicrobial resistance through social media while unaware (n = 104, 25.1%) of a Pakistan national action plan against AMR (antimicrobial resistance). Overall, respondents have a somewhat good understanding of the ABR. Regular use of antibiotics without consultation of a physician can lead to ABR and some wrong answers were observed (162, 39.1%; p > 0.05). The majority of the students (n = 198, 47.8%) and teachers believe that the current pharmacy syllabus must be swiftly updated with the new subjects related to ABR and AMS (antimicrobial stewardship) in Pakistan. The UGPS have emphasized (n = 220, 53.1%; Median = 1, IQR = 2) establishing a link between academia and hospitals. The ABR issue has been highlighted by pharmacy faculty members, who have urged students to take practical efforts toward ABR and AMS knowledge. Conclusion: The UGPS knowledge related to ABR and AMS must be updated. Students at the undergraduate level must get training in order to encourage the sensible use of antibiotics. Courses on ABR and AMS should be included in present pharmacy curricula."
+  },
+  {
+   "paperId": "6f8e18c61c5fbe4087ca8ab978462e5787553a9c",
+   "externalIds": {
+    "DOI": "10.20546/ijcmas.2026.1506.008",
+    "CorpusId": 291177926
+   },
+   "url": "https://www.semanticscholar.org/paper/6f8e18c61c5fbe4087ca8ab978462e5787553a9c",
+   "title": "Epidemiology and Antimicrobial Resistance of Extended-Spectrum β-Lactamase-Producing Escherichia coli in Urinary Tract Infections: Implications for Antibiotic Stewardship",
+   "venue": "International Journal of Current Microbiology and Applied Sciences",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://ijcmas.com/15-6-2026/Neha Sahu, et al.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.20546/ijcmas.2026.1506.008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.20546/ijcmas.2026.1506.008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-10",
+   "authors": [
+    {
+     "authorId": "2446169244",
+     "name": "Neha Sahu"
+    },
+    {
+     "authorId": "145376779",
+     "name": "Nityanand Upadhyay"
+    },
+    {
+     "authorId": "2465912032",
+     "name": "Rahul Verma"
+    },
+    {
+     "authorId": "2112283875",
+     "name": "Priyanka Sharma"
+    },
+    {
+     "authorId": "2495798357",
+     "name": "Harsh Sen Yadav"
+    },
+    {
+     "authorId": "2141867512",
+     "name": "G. Yadav"
+    },
+    {
+     "authorId": "2495798444",
+     "name": "Anjali Singh Raghav"
+    },
+    {
+     "authorId": "2458123489",
+     "name": "R. Sharma"
+    },
+    {
+     "authorId": "90348807",
+     "name": "Riya Srivastava"
+    },
+    {
+     "authorId": "2375071414",
+     "name": "Nandini Tiwari"
+    }
+   ],
+   "abstract": "Urinary tract infections (UTIs) caused by Extended-Spectrum Beta-Lactamase (ESBL)-producing Escherichia coli represent a growing therapeutic challenge due to their multidrug-resistant nature. The rising prevalence of ESBL-producing uropathogens, particularly in developing countries, necessitates routine detection and updated antimicrobial surveillance. This study aimed to determine the prevalence of ESBL-producing E. coli among UTI patients and evaluate their antimicrobial resistance profile at a tertiary care centre in Bareilly, India. A retrospective study was conducted in the Department of Microbiology, SRMS Institute of Medical Sciences, over six months (November 2023 – May 2024). One hundred urine samples (midstream, catheter, and suprapubic aspirate) from clinically suspected UTI patients were processed. Semi-quantitative culture on CLED agar, biochemical identification, and VITEK-2 automated confirmation were performed. Antibiotic susceptibility testing followed the Kirby–Bauer disk diffusion method per CLSI 2023 guidelines. ESBL detection was confirmed phenotypically using the Double Disc Synergy Test (DDST). Culture positivity was 72%. Escherichia coli was the predominant isolate (63.9%), of which 45.7% were confirmed ESBL producers. ESBL-positive strains showed 100% resistance to third-generation cephalosporins (cefotaxime, ceftazidime, ceftriaxone), high resistance to fluoroquinolones (ciprofloxacin 81%, levofloxacin 76%) and cotrimoxazole (85%). Carbapenems (imipenem and meropenem) retained 100% sensitivity in both ESBL and non-ESBL groups. Female patients accounted for 62% of ESBL-positive cases. ESBL-producing E. coli constitutes a significant proportion of UTI isolates with extensive multidrug resistance. Carbapenems remain the most reliable therapeutic option. Routine ESBL screening, antimicrobial stewardship, and continuous resistance surveillance are essential to limit further spread of resistant strains."
+  },
+  {
+   "paperId": "746ab4c43759129ef7b852c5ccb7c7891ec65aa2",
+   "externalIds": {
+    "PubMedCentral": "9774439",
+    "DOI": "10.3390/antibiotics11121679",
+    "CorpusId": 253821068,
+    "PubMed": "36551335"
+   },
+   "url": "https://www.semanticscholar.org/paper/746ab4c43759129ef7b852c5ccb7c7891ec65aa2",
+   "title": "Evaluation of Healthcare Students’ Knowledge on Antibiotic Use, Antimicrobial Resistance and Antimicrobial Stewardship Programs and Associated Factors in a Tertiary University in Ghana: Findings and Implications",
+   "venue": "Antibiotics",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2079-6382/11/12/1679/pdf?version=1669276494",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9774439, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-11-22",
+   "authors": [
+    {
+     "authorId": "1430742999",
+     "name": "I. Sefah"
+    },
+    {
+     "authorId": "2191972094",
+     "name": "Emmanuel Akwaboah"
+    },
+    {
+     "authorId": "2129245984",
+     "name": "E. Sarkodie"
+    },
+    {
+     "authorId": "145309633",
+     "name": "B. Godman"
+    },
+    {
+     "authorId": "2191928042",
+     "name": "J. Meyer"
+    }
+   ],
+   "abstract": "Antimicrobial resistance (AMR) is a major public health problem globally, and Ghana is no exception. Good knowledge regarding antibiotic use, AMR, and the concept of antimicrobial stewardship (AMS) is critical among healthcare students to curb rising AMR rates in the future. Consequently, a need to ascertain this. A cross-sectional survey was undertaken among fifth-year pharmacy, medical students and fourth (final)-year nursing and physician assistantship students at the University of Health and Allied Sciences in Ghana to assess their knowledge on antibiotic use, AMR and AMS using a web-based self-administered structured questionnaire. Descriptive statistics, Fishers’ exact test, and multiple logistic regression analyses were performed. A total of 160 healthcare students were interviewed, of which 56.3% (n = 90) were male and 58.8% (n = 94) were in their fourth year of study. Good knowledge of antibiotic use, AMR, and AMS was associated with the study course (p = 0.001) and the number of years of study (p < 0.001). Overall, there were differences in the level of knowledge of antibiotics among the different healthcare students and their years of study. Efforts must now be made to enhance the curricula to ensure an improved and uniform transfer of knowledge of antibiotics, AMR, and AMS among the different healthcare students to sustain the fight against AMR in Ghana given growing concerns."
+  },
+  {
+   "paperId": "ec9128e4c2ea1f681c1a3462001be718b86cc69e",
+   "externalIds": {
+    "DOI": "10.1016/j.jiph.2023.12.007",
+    "CorpusId": 266259340,
+    "PubMed": "38128409"
+   },
+   "url": "https://www.semanticscholar.org/paper/ec9128e4c2ea1f681c1a3462001be718b86cc69e",
+   "title": "The experience of an antimicrobial stewardship program and antibiotic consumption and resistance trends during the COVID-19 pandemic at a tertiary care center in Beirut.",
+   "venue": "Journal of Infection and Public Health",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jiph.2023.12.007",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jiph.2023.12.007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jiph.2023.12.007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-12-01",
+   "authors": [
+    {
+     "authorId": "15999764",
+     "name": "Nisrine Haddad"
+    },
+    {
+     "authorId": "5017217",
+     "name": "R. Zeenny"
+    },
+    {
+     "authorId": "2139565116",
+     "name": "Celia El-Halabi"
+    },
+    {
+     "authorId": "2268274546",
+     "name": "Tamara Abdallah"
+    },
+    {
+     "authorId": "2497434368",
+     "name": "R. El Helou"
+    },
+    {
+     "authorId": "2141144408",
+     "name": "N. Zahreddine"
+    },
+    {
+     "authorId": "2095363755",
+     "name": "S. Kanj"
+    },
+    {
+     "authorId": "144890736",
+     "name": "N. Rizk"
+    }
+   ],
+   "abstract": "BACKGROUND\nAntimicrobial Resistance, a global concern, worsened with the COVID-19 pandemic that caused a surge of critically ill patients, increased antimicrobial consumption, and the spread of infections with multidrug-resistant organisms (MDROs). Antimicrobial Stewardship Programs (ASP) aim to optimize antimicrobial utilization to fight resistance. We aim to describe the ASP experience and to study antimicrobial consumption and MDRO rates among COVID-19 patients at a tertiary care center in Beirut.\n\n\nMETHODS\nWe compiled the ASP interventions, defined as ASP team recommendations, from January 2019 until December 2021. Data on antimicrobial consumption, expressed as a defined daily dose (DDD) per 100 patient days, was collected per quarter for all antimicrobials and restricted antimicrobials per ASP guidance. Our primary objective was to report on the ASP experience, and the secondary objective was to reflect on the rates of MDROs among hospitalized COVID-19 patients with respiratory or bloodstream bacterial co-infections between March 2020 and September 2021.\n\n\nRESULTS\n9922 ASP interventions were documented during this study period, with a noticeable correlation between COVID-19 surges in Lebanon and the number of ASP interventions. Acceptance rates for these recommendations improved over time, with a noticeable decrease in the proportion of interventions related to de-escalation and discontinuation of broad-spectrum antimicrobials. We noted an increase in all antimicrobial consumption after the onset of the pandemic, peaking in Q4 2020 (142.8 DDD of anti-infectives/100 patient days) and Q1 2021 (79.1 DDD of restricted anti-infectives/100 patient days). As expected, MDROs, particularly ESKAPE organisms (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Carbapenem-resistant Enterobacteriaceae) accounted for 24% of isolates obtained from this cohort.\n\n\nCONCLUSION\nThis study highlights the experience of the ASP as we adapted to the COVID-19 pandemic. The ASP team maintained its operations and continued to monitor antibiotic consumption and provide recommendations to limit antibiotic misuse in an effort to mitigate the impact of the pandemic on antimicrobial resistance."
+  },
+  {
+   "paperId": "ae370d8f0ad41abec267505d6a9b5ead8847ef62",
+   "externalIds": {
+    "PubMedCentral": "9495135",
+    "DOI": "10.3390/antibiotics11091210",
+    "CorpusId": 252172752,
+    "PubMed": "36139990"
+   },
+   "url": "https://www.semanticscholar.org/paper/ae370d8f0ad41abec267505d6a9b5ead8847ef62",
+   "title": "Knowledge, Attitudes, and Practices of Community Pharmacy Professionals on Poultry Antibiotic Dispensing, Use, and Bacterial Antimicrobial Resistance in Zambia: Implications on Antibiotic Stewardship and WHO AWaRe Classification of Antibiotics",
+   "venue": "Antibiotics",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2079-6382/11/9/1210/pdf?version=1662545660",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9495135, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-09-01",
+   "authors": [
+    {
+     "authorId": "51371416",
+     "name": "Steward Mudenda"
+    },
+    {
+     "authorId": "81976381",
+     "name": "M. Mukosha"
+    },
+    {
+     "authorId": "145309633",
+     "name": "B. Godman"
+    },
+    {
+     "authorId": "4065712",
+     "name": "J. Fadare"
+    },
+    {
+     "authorId": "5043540",
+     "name": "S. Malama"
+    },
+    {
+     "authorId": "6913803",
+     "name": "Musso Munyeme"
+    },
+    {
+     "authorId": "2005944634",
+     "name": "C. Hikaambo"
+    },
+    {
+     "authorId": "15226720",
+     "name": "A. Kalungia"
+    },
+    {
+     "authorId": "81847256",
+     "name": "A. Hamachila"
+    },
+    {
+     "authorId": "82549168",
+     "name": "Henson Kainga"
+    },
+    {
+     "authorId": "2083429585",
+     "name": "F. Bumbangi"
+    },
+    {
+     "authorId": "4746645",
+     "name": "V. Daka"
+    },
+    {
+     "authorId": "116442675",
+     "name": "R. L. Mfune"
+    },
+    {
+     "authorId": "48971277",
+     "name": "G. Mainda"
+    },
+    {
+     "authorId": "23214777",
+     "name": "W. Mufwambi"
+    },
+    {
+     "authorId": "71407923",
+     "name": "Prudence Mpundu"
+    },
+    {
+     "authorId": "50874469",
+     "name": "Maisa Kasanga"
+    },
+    {
+     "authorId": "2182246984",
+     "name": "S. Saad"
+    },
+    {
+     "authorId": "5454304",
+     "name": "J. Muma"
+    }
+   ],
+   "abstract": "Globally, the inappropriate dispensing and use of antibiotics in animals has contributed to the development of bacterial antimicrobial resistance (AMR). In Zambia, there is insufficient information among community pharmacy professionals on antibiotic use (ABU) and AMR in food-producing animals. This study assessed community pharmacy professionals’ knowledge, attitudes, and practices regarding poultry antibiotic dispensing, use, and bacterial AMR in the Lusaka district of Zambia. A cross-sectional study was conducted among 178 community pharmacy professionals between February and April 2022 using a semi-structured questionnaire. Data were analyzed using Stata version 17. Of the total participants (n = 178), 51.1% (n = 91) were pharmacists. The most dispensed antibiotic was oxytetracycline, a Watch antibiotic, mainly without prescriptions. Good knowledge of ABU and AMR was associated with work experience for more than one year (p = 0.016), while good practices were associated with male gender (p = 0.039) and work experience of more than one year (p = 0.011). The study found moderate knowledge, positive attitudes, and moderate practices of pharmacy professionals on poultry ABU and AMR. There was high dispensing of poultry antibiotics without prescriptions, which calls for strict implementation of antimicrobial stewardship and surveillance programs in poultry production in Zambia to reduce AMR."
+  },
+  {
+   "paperId": "f9a7916d09b7684b38f995c93fb5dfc224b4f684",
+   "externalIds": {
+    "PubMedCentral": "8434738",
+    "DOI": "10.1186/s12909-021-02912-4",
+    "CorpusId": 237475027,
+    "PubMed": "34507579"
+   },
+   "url": "https://www.semanticscholar.org/paper/f9a7916d09b7684b38f995c93fb5dfc224b4f684",
+   "title": "Antimicrobial stewardship: Assessment of knowledge, awareness of antimicrobial resistance and appropriate antibiotic use among healthcare students in a Nigerian University",
+   "venue": "BMC Medical Education",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1186/s12909-021-02912-4.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8434738, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-09-10",
+   "authors": [
+    {
+     "authorId": "1405224695",
+     "name": "W. Akande-Sholabi"
+    },
+    {
+     "authorId": "2111273284",
+     "name": "Amen T. Ajamu"
+    }
+   ],
+   "abstract": "Inappropriate use of antibiotics is a major cause of antimicrobial resistance (AMR). Inadequate knowledge about AMR among healthcare students could affect their practice of antimicrobial stewardship as future healthcare professionals. This study aims to assess the use of antibiotics and knowledge of AMR among future healthcare professionals of a Nigerian University. Respondents’ knowledge of antimicrobial resistance, use of antibiotics, and source of antibiotics in the past 12 months was explored using a self-administered questionnaire. Multivariate analyses were used to evaluate the relationship between specific variables and respondents’ knowledge. Of the 939 questionnaires administered to the students, 866 were filled given a response rate of 92.2 %. A total of (765; 88.3 %) of the respondents were aware that antimicrobial resistance makes it harder to eliminate the infection from the body as existing drugs become less effective. In all 824, (95.2 %) of the respondents had use antibiotics in the past 12 months. The use of antibiotics to treat malaria was self-reported by (175; 21.2 %). About half (432; 52.4 %) purchased the antibiotics from community pharmacies, while others obtained their antibiotics from the hospitals (192; 23.3 %), patent medicine stores (150; 18.2 %), and friends and family (50; 6.1 %) in the last 12 months. In all 506, (58.4 %) had good knowledge of antimicrobial resistance. Logistic regression shows that students in 3rd to 6th year 9.29 [AOR = 9.29, 95 % CI: (3.7–22.96)], had greater knowledge of antimicrobial resistance. The healthcare students demonstrated a moderate knowledge of AMR. This underscores the need to adopt several educational tactics to introduce the concepts of AMR to the students and ensure there are strict policies to regulate the flow of antibiotics."
+  },
+  {
+   "paperId": "0cc5810fee8b56a5a87a91f371e3b2612af94bb4",
+   "externalIds": {
+    "PubMedCentral": "9418794",
+    "DOI": "10.1016/j.amsu.2022.104423",
+    "CorpusId": 251660057,
+    "PubMed": "36039143"
+   },
+   "url": "https://www.semanticscholar.org/paper/0cc5810fee8b56a5a87a91f371e3b2612af94bb4",
+   "title": "Neglecting antibiotic stewardship in prisons: A concern for antimicrobial resistance response",
+   "venue": "Annals of Medicine and Surgery",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.amsu.2022.104423",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9418794, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-08-01",
+   "authors": [
+    {
+     "authorId": "121465944",
+     "name": "Y. Adebisi"
+    },
+    {
+     "authorId": "2038355221",
+     "name": "Nafisat Dasola Jimoh"
+    },
+    {
+     "authorId": "2181987506",
+     "name": "Adeleke Adekunle Faid"
+    },
+    {
+     "authorId": "2557306345",
+     "name": "Maleek Olanrewaju Olatunji"
+    },
+    {
+     "authorId": "2181982143",
+     "name": "Esther Opone"
+    },
+    {
+     "authorId": "2134931930",
+     "name": "Obafemi Arinola Olarewaju"
+    },
+    {
+     "authorId": "2181984691",
+     "name": "Adesoji Adetunji"
+    },
+    {
+     "authorId": "2181984710",
+     "name": "Somtochukwu Marycynthia Ezema"
+    },
+    {
+     "authorId": "2181980620",
+     "name": "Jean Claude Niyibizi"
+    },
+    {
+     "authorId": "1429291259",
+     "name": "D. E. Lucero-Prisno"
+    }
+   ],
+   "abstract": "Antimicrobial resistance is a global public health issue that has the potential to return us to the pre-antibiotic era, when there were no medicines against common diseases and, as a result, human suffering was enormous [1]. The widespread, injudicious, and unnecessary use of antibiotics, among other factors, has aided in the emergence and spread of antibiotic-resistant infections [2]. Given the worrisome increase in cases of antibiotic resistance and the dearth of newly discovered antimicrobial medications, it is essential to keep an eye on pathogen epidemiology in order to make informed treatment decisions and to continuously monitor antibiotic use in all settings, including correctional facilities [3]. While antimicrobial resistance is a concern for the entire population, it is likely to pose more serious risks to groups that are at a higher overall risk of contracting infectious diseases, such as those in prisons, jails, and other closed settings [4]. Although antibiotic use patterns among inmates have not been extensively studied, it is clear that antibiotic misuse would not be uncommon in prisons. In this letter, we discuss how neglecting antibiotic misuse in correctional facilities is a concern for antimicrobial resistance response. Efforts to combat antimicrobial resistance have always focused on the general population, while people in correctional facilities and other closed settings are frequently overlooked. Inmates are more likely to contract infectious diseases, particularly those spread through airborne transmission, due to prison and prisoner characteristics such as overcrowding, poor hygiene conditions, poorly ventilated areas, limited access to diagnostic tests and healthcare services, and their compromised health status when compared to the general population [5,6]. A systematic review of seventeen studies, for example, found a high prevalence of Multi-Drug Resistant Tuberculosis in prison populations in post-Soviet states [7]. Many studies have also found a direct link between an increase in infectious diseases and an increase in the risk of antimicrobial resistance emerging [8,9]. This means that if there are no major efforts to combat infectious diseases in prisons, the use of antimicrobials will rise, increasing the likelihood of antibiotic misuse among inmates. This can make prisons a possible ecological reservoir for antimicrobial-resistant pathogens, which can lead to pathogens spread within the prison and into the community via prison workers and visitors. The establishment of measures to prevent or reduce the occurrence of infectious diseases and their risk factors in correctional facilities is critical, not only from the standpoint of health equity but also in response to antimicrobial resistance. In comparison to the general population, there is a significant lack of programs in correctional facilities aimed at raising awareness about antimicrobial resistance. Poor knowledge of antimicrobial resistance is to be expected, and this can lead to antibiotic misuse, which can contribute to the spread and emergence of antibiotic-resistant infections. This is concerning because it has been reported that respiratory tract infections, specifically acute upper respiratory tract infections, and oral diseases are among the conditions with a high risk of antimicrobial over-prescription in prisons [10]. Complex medical and lifestyle histories (age, sedentary lifestyle, asthma, and obesity), a high prevalence of multimorbidity, and various life-threatening conditions are all associated with a high prevalence and transmissibility of disease agents in prisons [11]. These issues are more prevalent in lowand middle-income correctional facilities [12]. Besides this, overuse of over-the-counter topical antibiotics has been reported in correctional facilities [13]. Some studies have also revealed an alarmingly common practice of inappropriate antimicrobial prescriptions in prisons [10,14]. This is frequently aided by the widespread empirical use of antibiotics due to diagnostic insufficiency. Healthcare professionals must encourage inmates to finish their antibiotic courses and educate them on the dangers of antimicrobial resistance. To curb AMR in prisons, there is a need for diagnosis-specific monitoring of antimicrobial use combined with evidence-based prison-focused antimicrobial stewardship policies. Correctional institutions are frequently left out of global initiatives to improve antimicrobial resistance and use surveillance, despite an increase in such efforts. This suggests that there is a severe lack of information regarding the epidemiology of infectious diseases and the usage patterns of antibiotics in prisons. This is concerning because this information will allow for the development of a tailored strategy to combat antimicrobial resistance in such settings. Surveillance is a crucial tool to inform policy and infection prevention and control strategies. Data is crucial because it serves as the basis for determining how AMR is spreading and for informing and tracking the effectiveness of local, national, and international initiatives. This necessitates immediate efforts to incorporate prisons and other closed environments into antimicrobial surveillance strategies in order to facilitate adequate plans to"
+  }
+ ]
+}

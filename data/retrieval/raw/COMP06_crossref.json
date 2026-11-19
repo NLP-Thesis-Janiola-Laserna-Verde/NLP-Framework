@@ -1,0 +1,1364 @@
+{
+ "query": "Phishing detection using natural language processing",
+ "retrieved_at": "2026-11-18T17:45:01.790533+00:00",
+ "data": [
+  {
+   "DOI": "10.5220/0015004700004852",
+   "title": [
+    "AI-Powered Detection of Phishing Emails Using Natural Language Processing and Machine Learning"
+   ],
+   "container-title": [
+    "Proceedings of the 1st International Conference on Interdisciplinary Technology &amp; Science Convergence (FusionX Global)"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0015004700004852",
+   "author": [
+    {
+     "given": "Kunal",
+     "family": "Tewtia",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, Chandigarh University, Mohali, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rajiv",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, Chandigarh University, Mohali, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kaveender",
+     "family": "Singh",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, Chandigarh University, Mohali, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Anay",
+     "family": "Gupta",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, Chandigarh University, Mohali, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pragya",
+     "family": "Rajput",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering, Chandigarh University, Mohali, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781003408307-6",
+   "title": [
+    "Detection of Spear Phishing Using Natural Language Processing"
+   ],
+   "container-title": [
+    "Intelligent Approaches to Cyber Security"
+   ],
+   "publisher": "Chapman and Hall/CRC",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      9
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003408307-6",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-7940-112X",
+     "authenticated-orcid": false,
+     "given": "Deep",
+     "family": "Gandhi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9938-3149",
+     "authenticated-orcid": false,
+     "given": "Jash",
+     "family": "Mehta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-7626-7164",
+     "authenticated-orcid": false,
+     "given": "Ramchandra",
+     "family": "Mangrulkar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5220/0010412600690073",
+   "title": [
+    "A Novel Phishing Email Detection Algorithm based on Multinomial Naive Bayes Classifier and Natural Language Processing"
+   ],
+   "container-title": [
+    "Proceedings of the 1st International Conference on Computing and Emerging Sciences"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0010412600690073",
+   "author": [
+    {
+     "given": "Omar",
+     "family": "Abdelaziz",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "TSYS School of Computer Science, Columbus State University, Columbus, GA, U.S.A., --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sahana",
+     "family": "Deb",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "TSYS School of Computer Science, Columbus State University, Columbus, GA, U.S.A., --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rania",
+     "family": "Hodhod",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "TSYS School of Computer Science, Columbus State University, Columbus, GA, U.S.A., --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lydia",
+     "family": "Ray",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "TSYS School of Computer Science, Columbus State University, Columbus, GA, U.S.A., --- Select a Country ---"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Sekolah Tinggi Informatika dan Komputer Indonesia",
+   "abstract": "<jats:p>Phishing attacks remain one of the most prevalent and damaging cybersecurity threats, targeting users across various communication channels such as email, social media, and SMS. Traditional phishing detection systems are often limited to email and rely on static rule-based filtering or keyword matching, making them ineffective against evolving phishing tactics. This project proposes an innovative solution that utilizes Artificial Intelligence (AI) and Natural Language Processing (NLP) to create a real-time phishing attack detection and prevention system. By analyzing the contextual language of messages across multiple platforms, the system can detect and block phishing attempts with high accuracy. The system extracts important linguistic features such as urgency, emotional tone, and anomalous patterns within text, and applies machine learning algorithmsâ€”such as Random Forest, Support Vector Machines (SVM), and deep learning models like Long Short-Term Memory Networks (LSTM)â€”for classification. Additionally, a feedback loop is integrated to allow the system to adapt and improve over time through active learning, ensuring the detection system evolves alongside emerging phishing techniques. This AI-based solution extends beyond traditional email phishing detection by incorporating multiple channels, including SMS and social media platforms, making it a versatile tool for individuals and businesses. The system offers automated prevention actions, such as flagging suspicious messages and alerting users, thus providing a robust defense against phishing attacks in real-time. The project's implementation aims to fill the market gap in comprehensive, multi-channel phishing detection and contribute to the growing demand for intelligent and adaptive cybersecurity solutions.</jats:p>",
+   "DOI": "10.32664/ic-itechs.v5i1.1590",
+   "type": "journal-article",
+   "title": [
+    "AI-Based Phishing Attack Detection And Prevention Using Natural Language Processing (NLP)"
+   ],
+   "author": [
+    {
+     "given": "Birir Kipchirchir",
+     "family": "Sospeter",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Mr"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Wilfred",
+     "family": "Odoyo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Pioneer International University, Nairobi, Kenya"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "IC-ITECHS"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.32664/ic-itechs.v5i1.1590"
+  },
+  {
+   "publisher": "Edtech Publishers (OPC) Private Limited",
+   "abstract": "<jats:p>ABSTRACT\n\nIn today’s digital world, phishing attacks have become one of the most serious cybersecurity threats. Cybercriminals use fake emails, messages, and websites to trick users into sharing sensitive information such as passwords, bank details, and personal data. Traditional phishing detection methods are often unable to detect advanced and evolving attacks effectively.\n\nArtificial Intelligence (AI) combined with Natural Language Processing (NLP) provides a powerful solution to detect phishing attacks. NLP helps in analyzing the textual content of emails and messages to identify suspicious patterns, keywords, and malicious intent. AI models such as machine learning and deep learning improve detection accuracy by learning from large datasets.\n\nThis research paper focuses on the use of AI and NLP techniques for phishing detection. It explains the working process, methodologies, advantages, and challenges of implementing such systems. The study also highlights how these technologies can improve cybersecurity and protect users from online fraud.\n\n\nKEYWORDS\n\nPhishing Detection, Artificial Intelligence (AI), Natural Language Processing (NLP), Machine Learning, Cybersecurity, Email Filtering, Text Classification</jats:p>",
+   "DOI": "10.55041/ijsrem61524",
+   "type": "journal-article",
+   "title": [
+    "AI-Based Phishing Attack Detection Using Natural Language Processing (NLP)"
+   ],
+   "author": [
+    {
+     "given": "Suraj",
+     "family": "Kalbhor",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science  Dr. D. Y. Patil Arts, Commerce & Science College, Pimpri,  Pune, Maharashtra, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "sakshi",
+     "family": "Kadam",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science  Dr. D. Y. Patil Arts, Commerce & Science College, Pimpri,  Pune, Maharashtra, India"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      27
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.55041/ijsrem61524"
+  },
+  {
+   "DOI": "10.1109/access.2022.3183083",
+   "title": [
+    "A Systematic Literature Review on Phishing Email Detection Using Natural Language Processing Techniques"
+   ],
+   "container-title": [
+    "IEEE Access"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2022
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/access.2022.3183083",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6073-3981",
+     "authenticated-orcid": false,
+     "given": "Said",
+     "family": "Salloum",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Science, Engineering and Environment, University of Salford, Salford, U.K."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4065-4191",
+     "authenticated-orcid": false,
+     "given": "Tarek",
+     "family": "Gaber",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Science, Engineering and Environment, University of Salford, Salford, U.K."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6041-2646",
+     "authenticated-orcid": false,
+     "given": "Sunil",
+     "family": "Vadera",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Science, Engineering and Environment, University of Salford, Salford, U.K."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0823-8390",
+     "authenticated-orcid": false,
+     "given": "Khaled",
+     "family": "Shaalan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Engineering and IT, The British University in Dubai, Dubai, United Arab Emirates"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Novaris Press",
+   "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
+   "DOI": "10.67805/jgrms.v2i9.156",
+   "type": "journal-article",
+   "title": [
+    "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing"
+   ],
+   "author": [
+    {
+     "given": "Dr. Sunita",
+     "family": "Dixit",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Global Research in Multidisciplinary Studies(JGRMS)"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2029,
+      9,
+      30
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.67805/jgrms.v2i9.156"
+  },
+  {
+   "DOI": "10.1109/ichora69329.2026.11537091",
+   "title": [
+    "AI Agent Orchestrated Phishing Detection Using Natural Language Processing and Machine Learning"
+   ],
+   "container-title": [
+    "2026 8th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      21
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/ichora69329.2026.11537091",
+   "author": [
+    {
+     "given": "Tolga",
+     "family": "Üner",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Dokuz Eylul University,Computer Engineering Dept.,&#x0130;zmir,T&#x00FC;rkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gökhan",
+     "family": "Dalkılıç",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dokuz Eylul University,Computer Engineering Dept.,&#x0130;zmir,T&#x00FC;rkiye"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Trans Tech Publications Ltd",
+   "abstract": "<jats:p>Due to rapid growth of the internet most of the people started using internet through mobile and web apps to satisfy their needs. Such as online shopping and banking. Under OWSAP top 10 vulnerabilities, sensitive data exposure is one of the common threats that is identified in recent years and phishing is found to be a key source. Sensitive data exposure is majorly occurring in the internet using various phishing techniques and phishing is found to be a key sources of data stealing. Attackers, not only targeted the financial sectors and e-commerce industries, also in the field of defense and security . To detect the phishing attacks in webpages, many software was used. Some of the method of detection the phishing is, by using the URL of the webpage and by using contents of the webpage. Still, there is no robust and accurate software solution to detect the phishing attacks. The purpose of the research is to use both URL and contents of the webpage to identify the phishing. The proposed work is to build an automated and hybrid model using Random Forest (RF) algorithm in Machine learning with the Convolutional Neural network algorithm (CNN) in Deep Learning is applied to detect and classify the phishing in URL and web page contents in an automated manner .</jats:p>",
+   "DOI": "10.4028/p-4oja18",
+   "type": "proceedings-article",
+   "title": [
+    "Phishing Website Detection Using Natural Language Processing and Deep Learning Algorithm"
+   ],
+   "author": [
+    {
+     "given": "M.",
+     "family": "Thirumaran",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Puducherry Technological University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "R.P.",
+     "family": "Karthikeyan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Puducherry Technological University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "V.",
+     "family": "Rathaamani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Puducherry Technological University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Science and Technology",
+    "IoT, Cloud and Data Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      2,
+      27
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4028/p-4oja18"
+  },
+  {
+   "DOI": "10.1016/j.procs.2021.05.077",
+   "title": [
+    "Phishing Email Detection Using Natural Language Processing Techniques: A Literature Survey"
+   ],
+   "container-title": [
+    "Procedia Computer Science"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.procs.2021.05.077",
+   "author": [
+    {
+     "given": "Said",
+     "family": "Salloum",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tarek",
+     "family": "Gaber",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sunil",
+     "family": "Vadera",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Khaled",
+     "family": "Shaalan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.procs.2021.07.040",
+   "title": [
+    "Lightweight URL-based phishing detection using natural language processing transformers for mobile devices"
+   ],
+   "container-title": [
+    "Procedia Computer Science"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.procs.2021.07.040",
+   "author": [
+    {
+     "given": "Katherine",
+     "family": "Haynes",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hossein",
+     "family": "Shirazi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Indrakshi",
+     "family": "Ray",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.31979/etd.azrh-tprx",
+   "title": [
+    "From Feature-Enhanced Url Phishing Detection to Explainable Multi-Agent Email Phishing Detection Using Large Language Models"
+   ],
+   "publisher": "San Jose State University Library",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "dissertation",
+   "URL": "https://doi.org/10.31979/etd.azrh-tprx",
+   "author": [
+    {
+     "given": "Tanya",
+     "family": "Yadav",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "San Jose State University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/icict60155.2024.10545000",
+   "title": [
+    "Phishing Website Detection using Natural Language Processing"
+   ],
+   "container-title": [
+    "2024 International Conference on Inventive Computation Technologies (ICICT)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      24
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/icict60155.2024.10545000",
+   "author": [
+    {
+     "given": "E.",
+     "family": "Mariappan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "St. Mother Theresa Engineering College,Department of Computer Science and Engineering,Tuticorin,Tamilnadu,India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "C.",
+     "family": "Jean Celia Grace",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Francis Xavier Engineering College,Department of Information Technology,Tirunelveli,Tamilnadu,India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.",
+     "family": "Joe Patrick Gnanaraj",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "St. Mother Theresa Engineering College,Department of Mechanical Engineering,Tuticorin,Tamilnadu,India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "D.",
+     "family": "Elizabeth Paulsyah",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Francis Xavier Engineering College,Department of Computer Science and Engineering,Tirunelveli,Tamilnadu,India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "N.",
+     "family": "Muthukumaran",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Sri Eswar Engineering College,Department of Electronics and Communication Engineering,Coimbatore,Tamilnadu,India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Fifth Dimension Research Publications",
+   "abstract": "<jats:p>Phishing attacks represent one of the most persistent and damaging cybersecurity threats in the modern digital landscape, systematically exploiting human cognitive vulnerabilities to illicitly obtain sensitive information including login credentials, financial account data, and personal identity details. Conventional rule-based and blacklist-driven detection systems have demonstrated a pronounced inability to adapt to the rapidly evolving sophistication of contemporary phishing techniques, resulting in elevated false-positive rates, significant missed detections, and an ongoing reliance on labour-intensive manual maintenance. This paper presents a comprehensive AI-driven phishing detection framework that systematically integrates Natural Language Processing (NLP) and Machine Learning (ML) methodologies to substantially enhance both detection accuracy and operational robustness. The proposed system incorporates multi-stage text preprocessing, hybrid feature extraction combining Term Frequency–Inverse Document Frequency (TF-IDF) vectorisation and pre-trained word embeddings including Word2Vec and GloVe, alongside a comparative evaluation of supervised classification models encompassing Logistic Regression, Support Vector Machines (SVM), Random Forest, and Long Short-Term Memory (LSTM) deep learning networks. Experimental evaluation conducted across a combined dataset of 129,382 labelled email samples demonstrates that the proposed hybrid NLP-ML model substantially outperforms both traditional rule-based approaches and single-method ML baselines, with the LSTM classifier achieving 96.7% accuracy, 96.3% precision, 96.0% recall, and an F1-score of 96.1%. The principal contributions of this work include a rigorous comparative analysis of six machine learning architectures, a scalable and modular detection pipeline suitable for real-time deployment, a comprehensive feature importance analysis identifying key discriminative attributes, and actionable insights for enhancing operational phishing detection systems.</jats:p>",
+   "DOI": "10.59256/ijire.20260703013",
+   "type": "journal-article",
+   "title": [
+    "AI-Driven Phishing Detection Using Natural Language Processing and Machine Learning"
+   ],
+   "author": [
+    {
+     "given": "Sarveena",
+     "family": "S",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (Cyber Security), United Institute of Technology, Coimbatore, Tamil Nadu, India."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Dhanusiya",
+     "family": "R",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Engineering (Cyber Security), United Institute of Technology, Coimbatore, Tamil Nadu, India."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Raja",
+     "family": "A",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Head of the Department, Department of Computer Science and Engineering (Cyber Security), United Institute of Technology, Coimbatore, Tamil Nadu, India."
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Innovative Research in Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      13
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.59256/ijire.20260703013"
+  },
+  {
+   "publisher": "Researcher Connect Innovation and Impact Private Limited and MRI",
+   "abstract": "<jats:p>Email is still the most commonly used medium to launch phishing attacks. This scheme utilizes all the information present in an email, namely, the header, the links and the text in the body. Although it is obvious that a phishing email is designed to elicit an action from the intended victim, none of the existing detection schemes use this fact to identify phishing emails. This detection protocol is designed specifically to distinguish between “actionable” and “informational” emails. To this end, we incorporate natural language techniques in phishing detection. We also utilize contextual information, when available, to detect phishing: we study the problem of phishing detection within the contextual confines of the user’s email box and demonstrate that context plays an important role in detection. This is the first scheme that utilizes natural language techniques and contextual information to detect phishing. This protocol detects phishing at the email level rather than detecting masqueraded websites. This is crucial to prevent the victim from clicking any harmful links in the email. This implementation is called PhishNet-NLP, operates between a user’s mail transfer agent (MTA) and mail user agent (MUA) and processes each arriving email for phishing attacks even before reaching the inbox. In this paper, our scheme is aimed at detecting phishing mails which do not contain any links but bank on the victim‟s curiosity by luring them into replying with sensitive information. This method is far better than the existing Phishing Email Detection techniques as this covers emails without links while the pre-existing methods were based on the presumption of link(s).</jats:p>",
+   "DOI": "10.65521/mjret.v7i3.1239",
+   "type": "journal-article",
+   "title": [
+    "Identification and Detection of Phishing Email using Natural Language Processing Techniques"
+   ],
+   "author": [
+    {
+     "given": "Ms. Smita Deepak",
+     "family": "Kanerkar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Prof. Flavia",
+     "family": "Gonsalves",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Multidisciplinary Journal of Research in Engineering and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      1,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.65521/mjret.v7i3.1239"
+  },
+  {
+   "DOI": "10.1201/9781003217381-2",
+   "title": [
+    "Image Processing-Based Phishing Detection Techniques"
+   ],
+   "container-title": [
+    "Phishing Detection Using Content-Based Image Classification"
+   ],
+   "publisher": "Chapman and Hall/CRC",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      4,
+      27
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003217381-2",
+   "author": [
+    {
+     "given": "Shekhar",
+     "family": "Khandelwal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rik",
+     "family": "Das",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1145/2659651.2659691",
+   "title": [
+    "Identification and Detection of Phishing Emails Using Natural Language Processing Techniques"
+   ],
+   "container-title": [
+    "Proceedings of the 7th International Conference on Security of Information and Networks"
+   ],
+   "publisher": "ACM",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      9,
+      9
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/2659651.2659691",
+   "author": [
+    {
+     "given": "Shivam",
+     "family": "Aggarwal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "BT Kumaon Institute of Technology, Dwarahat, INDIA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vishal",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "BT Kumaon Institute of Technology, Dwarahat, INDIA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S. D.",
+     "family": "Sudarsan",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "ABB Corporate Research, Bangalore, INDIA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Phishing is a type of cyber-attack that aims to deceive users, usually using fraudulent web pages that appear legitimate. Currently, one of the most-common ways to detect these phishing pages according to their content is by entering words non-sequentially into Deep Learning (DL) algorithms, i.e., regardless of the order in which they have entered the algorithms. However, this approach causes the intrinsic richness of the relationship between words to be lost. In the field of cyber-security, the innovation of this study is to propose a model that detects phishing attacks based on the text of suspicious web pages and not on URL addresses, using Natural Language Processing (NLP) and DL algorithms. We used the Keras Embedding Layer with Global Vectors for Word Representation (GloVe) to exploit the web page content’s semantic and syntactic features. We first performed an analysis using NLP and Word Embedding, and then, these data were introduced into a DL algorithm. In addition, to assess which DL algorithm works best, we evaluated four alternative algorithms: Long Short-Term Memory (LSTM), Bidirectional LSTM (BiLSTM), Gated Recurrent Unit (GRU), and Bidirectional GRU (BiGRU). As a result, it can be concluded that the proposed model is promising because the mean accuracy achieved by each of the four DL algorithms was at least 96.7%, while the best performer was BiGRU with 97.39%.</jats:p>",
+   "DOI": "10.3390/app13095275",
+   "type": "journal-article",
+   "title": [
+    "A Phishing-Attack-Detection Model Using Natural Language Processing and Deep Learning"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4543-0082",
+     "authenticated-orcid": false,
+     "given": "Eduardo",
+     "family": "Benavides-Astudillo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Informatics and Computer Science, Escuela Politécnica Nacional, Quito 170525, Ecuador"
+      },
+      {
+       "name": "Department of Computer Sciences, Universidad de las Fuerzas Armadas ESPE, Sangolquí 171103, Ecuador"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9427-5766",
+     "authenticated-orcid": false,
+     "given": "Walter",
+     "family": "Fuertes",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Sciences, Universidad de las Fuerzas Armadas ESPE, Sangolquí 171103, Ecuador"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2940-7010",
+     "authenticated-orcid": false,
+     "given": "Sandra",
+     "family": "Sanchez-Gordon",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Informatics and Computer Science, Escuela Politécnica Nacional, Quito 170525, Ecuador"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Daniel",
+     "family": "Nuñez-Agurto",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Sciences, Universidad de las Fuerzas Armadas ESPE, Sangolquí 171103, Ecuador"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Germán",
+     "family": "Rodríguez-Galán",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Sciences, Universidad de las Fuerzas Armadas ESPE, Sangolquí 171103, Ecuador"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      4,
+      23
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/app13095275"
+  },
+  {
+   "publisher": "IGI Global",
+   "abstract": "<jats:p>With the rapid advancement of digital communication, phishing and spam attacks have become pervasive cyber threats, targeting both individuals and organizations. This chapter explores the application of Natural Language Processing (NLP) in detecting and mitigating these malicious activities. By analyzing linguistic patterns and textual characteristics, NLP techniques can distinguish between legitimate and deceptive content, offering a robust, automated defense mechanism against a wide array of cyber threats. The chapter discusses various NLP-based methods, including text classification, feature extraction, sentiment analysis, and machine learning algorithms, that can effectively identify phishing and spam messages. Real-world case studies and practical implementations are also presented, providing insight into the operational efficacy of NLP in cybersecurity. The chapter concludes with future research directions, addressing the evolving tactics of cybercriminals and the potential of NLP to keep pace with emerging threats.</jats:p>",
+   "DOI": "10.4018/979-8-3373-0588-2.ch003",
+   "type": "book-chapter",
+   "title": [
+    "Using Natural Language Processing (NLP) for Phishing and Spam Detection"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-2459-0807",
+     "authenticated-orcid": true,
+     "given": "Yara",
+     "family": "Shamoo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Saint Leo University, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Information Security, Privacy, and Ethics",
+    "Integrating Artificial Intelligence in Cybersecurity and Forensic Practices"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-0588-2.ch003"
+  },
+  {
+   "DOI": "10.56975/ijrar.v12i2.315612",
+   "title": [
+    "Phishing Email Detection Using Natural Language Processing Techniques"
+   ],
+   "container-title": [
+    "International Journal of Research and Analytical Reviews"
+   ],
+   "publisher": "IJ Research Organization",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.56975/ijrar.v12i2.315612",
+   "author": [
+    {
+     "given": "Prof.",
+     "family": "Vaishali Suryawanshi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mr.",
+     "family": "Faisal Shaikh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mr.",
+     "family": "Devesh Gondole",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mr.",
+     "family": "Aditya Khunteta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mr.",
+     "family": "Vaibhav Wani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

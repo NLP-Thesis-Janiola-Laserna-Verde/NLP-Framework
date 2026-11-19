@@ -1,0 +1,1018 @@
+{
+ "query": "Deforestation and biodiversity loss in tropical forests",
+ "retrieved_at": "2026-11-18T18:01:34.660169+00:00",
+ "data": [
+  {
+   "paperId": "29ad14510f230ab0e42856a52a19e13cb3c139e2",
+   "externalIds": {
+    "MAG": "2464739551",
+    "DOI": "10.1038/nature18326",
+    "CorpusId": 4405827,
+    "PubMed": "27362236"
+   },
+   "url": "https://www.semanticscholar.org/paper/29ad14510f230ab0e42856a52a19e13cb3c139e2",
+   "title": "Anthropogenic disturbance in tropical forests can double biodiversity loss from deforestation",
+   "venue": "Nature",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "https://e-space.mmu.ac.uk/617293/11/author%20accepted%281%29.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/nature18326?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/nature18326, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2016-06-29",
+   "authors": [
+    {
+     "authorId": "50387533",
+     "name": "J. Barlow"
+    },
+    {
+     "authorId": "47521858",
+     "name": "G. Lennox"
+    },
+    {
+     "authorId": "30407329",
+     "name": "J. Ferreira"
+    },
+    {
+     "authorId": "5543597",
+     "name": "E. Berenguer"
+    },
+    {
+     "authorId": "6046735",
+     "name": "A. Lees"
+    },
+    {
+     "authorId": "143655329",
+     "name": "R. Mac Nally"
+    },
+    {
+     "authorId": "143613481",
+     "name": "J. Thomson"
+    },
+    {
+     "authorId": "2499439791",
+     "name": "S. F. de Barros Ferraz"
+    },
+    {
+     "authorId": "144099874",
+     "name": "J. Louzada"
+    },
+    {
+     "authorId": "38746681",
+     "name": "V. H. F. Oliveira"
+    },
+    {
+     "authorId": "4013707",
+     "name": "L. Parry"
+    },
+    {
+     "authorId": "2503207436",
+     "name": "Ricardo Ribeiro de Castro Solar"
+    },
+    {
+     "authorId": "2058673132",
+     "name": "I. Vieira"
+    },
+    {
+     "authorId": "143710790",
+     "name": "L. Aragão"
+    },
+    {
+     "authorId": "8038684",
+     "name": "R. A. Begotti"
+    },
+    {
+     "authorId": "34668837",
+     "name": "R. Braga"
+    },
+    {
+     "authorId": "1432637642",
+     "name": "T. Cardoso"
+    },
+    {
+     "authorId": "2498150053",
+     "name": "R. D. de Oliveira"
+    },
+    {
+     "authorId": "145837026",
+     "name": "C. Souza"
+    },
+    {
+     "authorId": "39692764",
+     "name": "Nárgila G. Moura"
+    },
+    {
+     "authorId": "49508032",
+     "name": "Sâmia Nunes"
+    },
+    {
+     "authorId": "144829266",
+     "name": "João V. Siqueira"
+    },
+    {
+     "authorId": "48543554",
+     "name": "R. Pardini"
+    },
+    {
+     "authorId": "40187078",
+     "name": "J. Silveira"
+    },
+    {
+     "authorId": "1401230313",
+     "name": "F. Vaz-de-Mello"
+    },
+    {
+     "authorId": "108808876",
+     "name": "Ruan Carlo Stulpen Veiga"
+    },
+    {
+     "authorId": "50374319",
+     "name": "A. Venturieri"
+    },
+    {
+     "authorId": "34254112",
+     "name": "T. Gardner"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ba851f2625a156f086b400c045a40d6fc97f3fcf",
+   "externalIds": {
+    "DOI": "10.66946/guineis.v10.a5",
+    "CorpusId": 288206347
+   },
+   "url": "https://www.semanticscholar.org/paper/ba851f2625a156f086b400c045a40d6fc97f3fcf",
+   "title": "When the Jungles Turned to Forest: Habitat Loss and Fragmentation as Drivers of Biodiversity Loss in the Lowland Tropical Forests of the Upper Brahmaputra Valley",
+   "venue": "GUINEIS Journal",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://guineisjrnl.gauhati.ac.in/index.php/guinj/article/download/5/167",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.66946/guineis.v10.a5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.66946/guineis.v10.a5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-03-31",
+   "authors": [
+    {
+     "authorId": "2546710691",
+     "name": "Neeharika Gogoi"
+    },
+    {
+     "authorId": "2240015212",
+     "name": "Samrat Sengupta"
+    },
+    {
+     "authorId": "2255940126",
+     "name": "Narayan Sharma"
+    }
+   ],
+   "abstract": "Deforestation, accompanied by habitat loss, fragmentation and degradation, is the major challenge to biodiversity conservation, affecting nearly all global ecosystems. Tropical forests, in particular, have faced unprecedented loss, with a quarter of their land cover lost by the end of the 20th century. North East India’s landscape is dotted by remnant fragments of previously contiguous tropical and sub-tropical forests. The forested fragments of the Upper Brahmaputra Valley of Assam, composed of lowland tropical forests, which have existed for nearly a hundred years, provide the backdrop for a comprehensive investigation into the complex ecological processes at work in these isolated and biodiversity-rich habitats. By collating and discussing studies on historical deforestation, urbanisation, monoculture plantations, current impacts on species extinction and environmental policies from this region, this review aims to provide a broad overview of the complex dynamics and distinct patterns shaping the ecological landscape of Assam."
+  },
+  {
+   "paperId": "cc8d946ef270929b8c7bf100b8839f47942f7657",
+   "externalIds": {
+    "DOI": "10.1073/pnas.2022210118",
+    "CorpusId": 238204897,
+    "PubMed": "34580205"
+   },
+   "url": "https://www.semanticscholar.org/paper/cc8d946ef270929b8c7bf100b8839f47942f7657",
+   "title": "Anthropogenic impacts on Late Holocene land-cover change and floristic biodiversity loss in tropical southeastern Asia",
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "http://europepmc.org/pmc/articles/PMC8501839",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1073/pnas.2022210118?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1073/pnas.2022210118, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-09-27",
+   "authors": [
+    {
+     "authorId": "46752010",
+     "name": "Zhuo Zheng"
+    },
+    {
+     "authorId": "2370104809",
+     "name": "Ting Ma"
+    },
+    {
+     "authorId": "2230745717",
+     "name": "P. Roberts"
+    },
+    {
+     "authorId": "2128045895",
+     "name": "Zhen Li"
+    },
+    {
+     "authorId": "30593400",
+     "name": "Yuan-Fu Yue"
+    },
+    {
+     "authorId": "1852096",
+     "name": "Huanhua Peng"
+    },
+    {
+     "authorId": "14810006",
+     "name": "Kang-You Huang"
+    },
+    {
+     "authorId": "2442590010",
+     "name": "Ziyun Han"
+    },
+    {
+     "authorId": "17049716",
+     "name": "Q. Wan"
+    },
+    {
+     "authorId": "91362588",
+     "name": "Yaze Zhang"
+    },
+    {
+     "authorId": "2115476939",
+     "name": "Xiao Zhang"
+    },
+    {
+     "authorId": "49345396",
+     "name": "Yanwei Zheng"
+    },
+    {
+     "authorId": "2130041271",
+     "name": "Yoshiki Satio"
+    }
+   ],
+   "abstract": "Significance Palaeoecological analysis reveals that the expansion of rice agriculture in southern China and Southeast Asia around 2,000 y ago caused widespread deforestation and biodiversity changes in tropical and subtropical forests. Tropical forests, with the highest level of plant diversity and concentration of endemic species, suffered greater decline of arboreal richness than forests in subtropical and temperate areas. In subtropical ecosystems, total plant richness increased, despite arboreal decline, possibly thanks to the flourishing of herbs in an opening landscape. The disappearance of Glyptostrobus in southeastern Asia provides a case study as to how early rice agriculture endangered an endemic species by causing losses of its natural habitats, with prehistoric land-use changes leaving a clear legacy for today’s landscapes and species compositions. Southern China and Southeast Asia witnessed some of their most significant economic and social changes relevant to human land use during the Late Holocene, including the intensification and spread of rice agriculture. Despite rice growth being associated with a number of earth systems impacts, how these changes transformed tropical vegetation in this region of immense endemic biodiversity remains poorly understood. Here, we compile a pollen dataset incorporating ∼150,000 identifications and 233 pollen taxa to examine past changes in floral biodiversity, together with a compilation of records of forest decline across the region using 14 pollen records spanning lowland to mountain sites. Our results demonstrate that the rise of intensive rice agriculture from approximately 2,000 y ago led not only to extensive deforestation but also to remarkable changes of vegetation composition and a reduction in arboreal diversity. Focusing specifically on the Tertiary relic tree species, the freshwater wetland conifer Glyptostrobus (Glyptostrobus pensilis), we demonstrate how key species that had survived changing environmental conditions across millions of years shrank in the face of paddy rice farming and human disturbance."
+  },
+  {
+   "paperId": "c3905e533ed0aafacaf40104a02aaf571084d537",
+   "externalIds": {
+    "DOI": "10.1002/oik.12616",
+    "CorpusId": 292713236
+   },
+   "url": "https://www.semanticscholar.org/paper/c3905e533ed0aafacaf40104a02aaf571084d537",
+   "title": "Dispersal‐limited birds at high risk from cattle farming deforestation in tropical forests",
+   "venue": "Oikos",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/oik.12616",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/oik.12616?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/oik.12616, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-10-06",
+   "authors": [
+    {
+     "authorId": "2315511986",
+     "name": "Giovanny Pérez"
+    },
+    {
+     "authorId": "2244369588",
+     "name": "Simon C. Mills"
+    },
+    {
+     "authorId": "39214937",
+     "name": "Jacob B. Socolar"
+    },
+    {
+     "authorId": "1402172381",
+     "name": "J. Ochoa-Quintero"
+    },
+    {
+     "authorId": "5336234",
+     "name": "Torbjørn Haugaasen"
+    },
+    {
+     "authorId": "4510810",
+     "name": "R. Freckleton"
+    },
+    {
+     "authorId": "50387533",
+     "name": "J. Barlow"
+    },
+    {
+     "authorId": "34732521",
+     "name": "James J. Gilroy"
+    },
+    {
+     "authorId": "2251358067",
+     "name": "David P. Edwards"
+    }
+   ],
+   "abstract": "Deforestation driven by farming is a major threat to tropical biodiversity. Although this impact is well documented, assessments at local or regional scales often underestimate biodiversity loss at broader national scales by up to 60%. A key question remains: how do farming activities affect functional diversity and species traits across different spatial scales? We use a large field‐based dataset spanning 13 biogeographic regions across Colombia to assess the impacts of forest loss driven by cattle farming, one of the dominant forms of agriculture, on avian functional diversity. Using multispecies occupancy models and established morphological functional trait databases, we quantify changes in functional diversity resulting from forest‐to‐pasture conversion and identify the most impacted functional dimension. Our results indicate that functional diversity metrics are only slightly affected across ecoregions and largely reflect the national scale of loss, driven by a moderate reduction in functional richness across scales. This suggests a high degree of functional redundancy and resilience within communities, likely due to their high species richness. When examining specific morphological traits, forest conversion leads to a substantial decline in the occupancy probability of dispersal‐limited species. While high biodiversity buffers against immediate functional collapse, the decline of dispersal‐limited species highlights long‐term risks to ecosystem resilience and functional homogenisation. Our findings underscore the importance of trait‐based approaches, since aggregate functional diversity metrics may obscure critical impacts. Preserving structural connectivity and protecting large native forest blocks are essential for maintaining functional diversity and dispersal‐limited birds, while promoting sustainable agricultural practices can help balance biodiversity conservation with agricultural productivity in tropical landscapes."
+  },
+  {
+   "paperId": "7484c267aa1e345c7897d748d89e2063b8f6a10b",
+   "externalIds": {
+    "PubMedCentral": "4963098",
+    "MAG": "2488001736",
+    "DOI": "10.1371/journal.pone.0159668",
+    "CorpusId": 18084145,
+    "PubMed": "27462984"
+   },
+   "url": "https://www.semanticscholar.org/paper/7484c267aa1e345c7897d748d89e2063b8f6a10b",
+   "title": "The Impacts of Oil Palm on Recent Deforestation and Biodiversity Loss",
+   "venue": "PLoS ONE",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0159668&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4963098, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2016-07-27",
+   "authors": [
+    {
+     "authorId": "34992481",
+     "name": "Varsha Vijay"
+    },
+    {
+     "authorId": "3641138",
+     "name": "S. Pimm"
+    },
+    {
+     "authorId": "47391311",
+     "name": "C. Jenkins"
+    },
+    {
+     "authorId": "2110487728",
+     "name": "S. Smith"
+    }
+   ],
+   "abstract": "Palm oil is the most widely traded vegetable oil globally, with demand projected to increase substantially in the future. Almost all oil palm grows in areas that were once tropical moist forests, some of them quite recently. The conversion to date, and future expansion, threatens biodiversity and increases greenhouse gas emissions. Today, consumer pressure is pushing companies toward deforestation-free sources of palm oil. To guide interventions aimed at reducing tropical deforestation due to oil palm, we analysed recent expansions and modelled likely future ones. We assessed sample areas to find where oil palm plantations have recently replaced forests in 20 countries, using a combination of high-resolution imagery from Google Earth and Landsat. We then compared these trends to countrywide trends in FAO data for oil palm planted area. Finally, we assessed which forests have high agricultural suitability for future oil palm development, which we refer to as vulnerable forests, and identified critical areas for biodiversity that oil palm expansion threatens. Our analysis reveals regional trends in deforestation associated with oil palm agriculture. In Southeast Asia, 45% of sampled oil palm plantations came from areas that were forests in 1989. For South America, the percentage was 31%. By contrast, in Mesoamerica and Africa, we observed only 2% and 7% of oil palm plantations coming from areas that were forest in 1989. The largest areas of vulnerable forest are in Africa and South America. Vulnerable forests in all four regions of production contain globally high concentrations of mammal and bird species at risk of extinction. However, priority areas for biodiversity conservation differ based on taxa and criteria used. Government regulation and voluntary market interventions can help incentivize the expansion of oil palm plantations in ways that protect biodiversity-rich ecosystems."
+  },
+  {
+   "paperId": "36c4bd49cc044de0feb59e3e2fdcd87914d3bb13",
+   "externalIds": {
+    "MAG": "2618869832",
+    "DOI": "10.1073/pnas.1706264114",
+    "CorpusId": 885931,
+    "PubMed": "28550105"
+   },
+   "url": "https://www.semanticscholar.org/paper/36c4bd49cc044de0feb59e3e2fdcd87914d3bb13",
+   "title": "Global biodiversity loss from tropical deforestation",
+   "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5468656",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1073/pnas.1706264114?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1073/pnas.1706264114, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "LettersAndComments",
+    "JournalArticle"
+   ],
+   "publicationDate": "2017-05-26",
+   "authors": [
+    {
+     "authorId": "4521383",
+     "name": "X. Giam"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "fd0f24f22d30b032594753854b14f2553fd42a23",
+   "externalIds": {
+    "DOI": "10.1016/j.cub.2025.02.017",
+    "CorpusId": 276842993,
+    "PubMed": "40056917"
+   },
+   "url": "https://www.semanticscholar.org/paper/fd0f24f22d30b032594753854b14f2553fd42a23",
+   "title": "Explosive growth of secondary roads is linked to widespread tropical deforestation.",
+   "venue": "Current Biology",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://kar.kent.ac.uk/109104/1/D.%20Juffe%20Bignoli%20-Explosive%20growth%20of%20secondary%20roads%20is%20linked%20to%20widespread%20-%20AAM.pdf",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cub.2025.02.017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cub.2025.02.017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-28",
+   "authors": [
+    {
+     "authorId": "121943797",
+     "name": "Jayden E. Engert"
+    },
+    {
+     "authorId": "2324731133",
+     "name": "Carlos M. Souza"
+    },
+    {
+     "authorId": "46217471",
+     "name": "F. Kleinschroth"
+    },
+    {
+     "authorId": "1399027988",
+     "name": "D. Juffe-Bignoli"
+    },
+    {
+     "authorId": "2179692396",
+     "name": "Stefany C. P. Costa"
+    },
+    {
+     "authorId": "2179685078",
+     "name": "J. Botelho"
+    },
+    {
+     "authorId": "49440431",
+     "name": "F. Y. Ishida"
+    },
+    {
+     "authorId": "91429774",
+     "name": "Ilyas Nursamsi"
+    },
+    {
+     "authorId": "30190239",
+     "name": "W. Laurance"
+    }
+   ],
+   "abstract": "In the tropics and beyond, roads are key proximate drivers of environmental impacts, including forest fragmentation,1,2 fires,3 mining,4,5 and land clearing.6,7,8 Such impacts may be amplified for the initial roads constructed in intact forests-which we term \"first-cut roads\"-which often promote a rash of associated secondary roads branching off the new infrastructure.9,10,11,12,13 These secondary roads in turn can dramatically elevate forest and biodiversity losses.10,14,15 Although widely seen as a conservation concern,12,15,16,17 the magnitude and effects of secondary road development have not been previously quantified. Without such information, impact assessment procedures for road projects risk misjudging the level of expected forest loss, hampering decision-making.16,18,19,20 Here, we quantify the environmental impacts of both first-cut and secondary roads in three of the world's major tropical regions where high-quality road maps have recently become available: the Brazilian Amazon, the Congo Basin, and New Guinea. We identified 92 first-cut roads across our study region for which we quantified the length of adjoining secondary roads and the area of related forest loss and degradation. On average, we found 4.8, 9.8, and 49.1 km of secondary road for every kilometer of first-cut road in the Congo Basin, New Guinea, and Brazilian Amazon regions, respectively. Forest loss and degradation associated with these secondary roads was remarkably heavy, being 31.5, 22.2, and 305.2 times greater, respectively, than that directly linked with first-cut roads. Our findings provide key insights into the potential scale and extent of forest loss and degradation that will emerge with proposed roads and development corridors in tropical forests."
+  },
+  {
+   "paperId": "3372e252491e84b5d69160fbd69d83e009e07e1e",
+   "externalIds": {
+    "PubMedCentral": "8074879",
+    "DOI": "10.1098/rsos.201370",
+    "CorpusId": 232162190,
+    "PubMed": "33959317"
+   },
+   "url": "https://www.semanticscholar.org/paper/3372e252491e84b5d69160fbd69d83e009e07e1e",
+   "title": "Threatened Neotropical seasonally dry tropical forest: evidence of biodiversity loss in sap-sucking herbivores over 75 years",
+   "venue": "Royal Society Open Science",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1098/rsos.201370",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8074879, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2021-03-01",
+   "authors": [
+    {
+     "authorId": "1403653508",
+     "name": "J. A. Pinedo-Escatel"
+    },
+    {
+     "authorId": "1401218746",
+     "name": "G. Moya-Raygoza"
+    },
+    {
+     "authorId": "2281233",
+     "name": "C. Dietrich"
+    },
+    {
+     "authorId": "13193126",
+     "name": "J. Zahniser"
+    },
+    {
+     "authorId": "49699213",
+     "name": "L. Portillo"
+    }
+   ],
+   "abstract": "Tropical forests cover 7% of the earth's surface and hold 50% of known terrestrial arthropod species. Alarming insect declines resulting from human activities have recently been documented in temperate and tropical ecosystems worldwide, but reliable data from tropical forests remain sparse. The sap-sucking tribe Athysanini is one herbivore group sensitive to anthropogenic perturbation and the largest within the diverse insect family Cicadellidae distributed in America's tropical forests. To measure the possible effects of deforestation and related activities on leafhopper biodiversity, a survey of 143 historic collecting localities was conducted to determine whether species documented in the Mexican dry tropical forests during the 1920s to 1940s were still present. Biostatistical diversity analysis was performed to compare historical to recent data on species occurrences. A data matrix of 577 geographical records was analysed. In total, 374 Athysanini data records were included representing 115 species of 41 genera. Historically, species richness and diversity were higher than found in the recent survey, despite greater collecting effort in the latter. A strong trend in species decline was observed (−53%) over 75 years in this endangered seasonally dry ecosystem. Species completeness was dissimilar between historic and present data. Endemic taxa were significantly less important and represented in the 1920s–1940s species records. All localities surveyed in the dry tropical forest are disturbed and reduced by modern anthropogenic processes. Mexico harbours highly endemic leafhopper taxa with a large proportion of these inhabiting the dry forest. These findings provide important data for conservation decision making and modelling of distribution patterns of this threatened seasonally dry tropical ecosystem."
+  },
+  {
+   "paperId": "0dc9f61d330b7bf2e868a3bdf9f124181b949f68",
+   "externalIds": {
+    "MAG": "2955597409",
+    "DOI": "10.1038/s41558-019-0529-2",
+    "CorpusId": 197402642
+   },
+   "url": "https://www.semanticscholar.org/paper/0dc9f61d330b7bf2e868a3bdf9f124181b949f68",
+   "title": "Global loss of climate connectivity in tropical forests",
+   "venue": "Nature Climate Change",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://durham-repository.worktribe.com/output/1209885",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41558-019-0529-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41558-019-0529-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-07-08",
+   "authors": [
+    {
+     "authorId": "1822824",
+     "name": "R. Senior"
+    },
+    {
+     "authorId": "2111166659",
+     "name": "J. Hill"
+    },
+    {
+     "authorId": "2249327964",
+     "name": "D. Edwards"
+    }
+   ],
+   "abstract": "Range shifts are a crucial mechanism enabling species to avoid extinction under climate change1,2. The majority of terrestrial biodiversity is concentrated in the tropics3, including species considered most vulnerable to climate warming4, but extensive and ongoing deforestation of tropical forests is likely to impede range shifts5,6. We conduct a global assessment of the potential for tropical species to reach analogous future climates—‘climate connectivity’—and empirically test how this has changed in response to deforestation between 2000 and 2012. We find that over 62% of tropical forest area (~10 million km2) is already incapable of facilitating range shifts to analogous future climates. In just 12 years, continued deforestation has caused a loss of climate connectivity for over 27% of surviving tropical forest, with accelerating declines in connectivity as forest loss increased. On average, if species’ ranges shift as far down climate gradients as permitted by existing forest connectivity, by 2070 they would still experience 0.77 °C of warming under the least severe climate warming scenario and up to 2.6 °C warming for the most severe scenario. Limiting further forest loss and focusing the global restoration agenda towards creating climate corridors are global priorities for improving resilience of tropical forest biotas under climate change.Physically connected habitats are required for terrestrial species to shift their liveable ranges as the tropics warm. The authors show that over half of tropical forest area is currently unable to provide such climate connectivity, and that loss of connectivity is accelerating with deforestation."
+  },
+  {
+   "paperId": "05f472afb608dc54aaf983217a2d12ffd5275ada",
+   "externalIds": {
+    "PubMedCentral": "11078755",
+    "DOI": "10.1038/s41586-024-07303-5",
+    "CorpusId": 269041008,
+    "PubMed": "38600390"
+   },
+   "url": "https://www.semanticscholar.org/paper/05f472afb608dc54aaf983217a2d12ffd5275ada",
+   "title": "Ghost roads and the destruction of Asia-Pacific tropical forests",
+   "venue": "Nature",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41586-024-07303-5.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11078755, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-04-10",
+   "authors": [
+    {
+     "authorId": "121943797",
+     "name": "Jayden E. Engert"
+    },
+    {
+     "authorId": "32076609",
+     "name": "M. Campbell"
+    },
+    {
+     "authorId": "4203551",
+     "name": "J. Cinner"
+    },
+    {
+     "authorId": "2052670290",
+     "name": "Yoko F. Ishida"
+    },
+    {
+     "authorId": "2280263406",
+     "name": "Sean Sloan"
+    },
+    {
+     "authorId": "91513379",
+     "name": "J. Supriatna"
+    },
+    {
+     "authorId": "1804585",
+     "name": "M. Alamgir"
+    },
+    {
+     "authorId": "2295973681",
+     "name": "Jaime Cislowski"
+    },
+    {
+     "authorId": "30190239",
+     "name": "W. Laurance"
+    }
+   ],
+   "abstract": "Roads are expanding at the fastest pace in human history. This is the case especially in biodiversity-rich tropical nations, where roads can result in forest loss and fragmentation, wildfires, illicit land invasions and negative societal effects1–5. Many roads are being constructed illegally or informally and do not appear on any existing road map6–10; the toll of such ‘ghost roads’ on ecosystems is poorly understood. Here we use around 7,000 h of effort by trained volunteers to map ghost roads across the tropical Asia-Pacific region, sampling 1.42 million plots, each 1 km2 in area. Our intensive sampling revealed a total of 1.37 million km of roads in our plots—from 3.0 to 6.6 times more roads than were found in leading datasets of roads globally. Across our study area, road building almost always preceded local forest loss, and road density was by far the strongest correlate11 of deforestation out of 38 potential biophysical and socioeconomic covariates. The relationship between road density and forest loss was nonlinear, with deforestation peaking soon after roads penetrate a landscape and then declining as roads multiply and remaining accessible forests largely disappear. Notably, after controlling for lower road density inside protected areas, we found that protected areas had only modest additional effects on preventing forest loss, implying that their most vital conservation function is limiting roads and road-related environmental disruption. Collectively, our findings suggest that burgeoning, poorly studied ghost roads are among the gravest of all direct threats to tropical forests. An effort to map roads in the Asia-Pacific region finds that there are 3.0–6.6 times more roads than other sources suggest, and that unmapped ‘ghost roads’ are a major contributor to tropical forest loss."
+  },
+  {
+   "paperId": "25553760699cd0a3fb69d1f5f7ad11b3515bc06f",
+   "externalIds": {
+    "DOI": "10.1038/s41559-021-01417-z",
+    "CorpusId": 232420306,
+    "PubMed": "33782576"
+   },
+   "url": "https://www.semanticscholar.org/paper/25553760699cd0a3fb69d1f5f7ad11b3515bc06f",
+   "title": "Mapping the deforestation footprint of nations reveals growing threat to tropical forests",
+   "venue": "Nature Ecology & Evolution",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41559-021-01417-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41559-021-01417-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-03-29",
+   "authors": [
+    {
+     "authorId": "2462867023",
+     "name": "H. Nguyen"
+    },
+    {
+     "authorId": "6932834",
+     "name": "Keiichiro Kanemoto"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "a0fab2d70424cabae9033bdd2c15a55689254d9b",
+   "externalIds": {
+    "DOI": "10.1007/s10113-024-02189-5",
+    "CorpusId": 268484437
+   },
+   "url": "https://www.semanticscholar.org/paper/a0fab2d70424cabae9033bdd2c15a55689254d9b",
+   "title": "Two decades of accelerated deforestation in Peruvian forests: a national and regional analysis (2000–2020)",
+   "venue": "Regional Environmental Change",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s10113-024-02189-5.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10113-024-02189-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10113-024-02189-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-03-13",
+   "authors": [
+    {
+     "authorId": "2266669179",
+     "name": "Maricel Móstiga"
+    },
+    {
+     "authorId": "3463148",
+     "name": "D. Armenteras"
+    },
+    {
+     "authorId": "3142865",
+     "name": "J. Vayreda"
+    },
+    {
+     "authorId": "144241201",
+     "name": "J. Retana"
+    }
+   ],
+   "abstract": "The global tree cover has kept reducing in the last two decades, mainly in tropical forests, despite the global efforts to conserve biodiversity and the ecosystem services that provides. Considering South America is the region that had the highest rate of net forest loss (2000–2020), it is crucial to understand the deforestation dynamics of each country and their regions for the evaluation of effective national conservation actions. Here, we carried out a spatiotemporal analysis of the deforestation rates from 2000 to 2020 on a national and regional scale, including the forest loss inside protected areas, in Peru. It was found that Peru lost 3.4 million ha of forest between 2000 and 2020, mainly in the Not Flooded Rainforest region. National deforestation rates accelerated, while within protected areas rates showed a very small increase. Regional deforestation rates followed the national pattern with one exception—the Coast region. Our results evidence the success of the national conservation strategy based on protected areas to avoid deforestation in all regions, except in the Andean. Moreover, the increment in deforestation rates is aligned with the growth in road infrastructure; increments in anthropic activities; and the more frequent and intense natural extreme events that vary according to the region. Therefore, it is urgent to differentiate the drivers of deforestation that operate at the national versus the regional scale, consider the inclusion of all forest types in the monitoring system, and the strengthening of policies related to land use change at all scales."
+  },
+  {
+   "paperId": "16c38787fe949b1fd01e702c229443a9624fcc41",
+   "externalIds": {
+    "DOI": "10.53550/eec.2025.v31i03s.063",
+    "CorpusId": 279086483
+   },
+   "url": "https://www.semanticscholar.org/paper/16c38787fe949b1fd01e702c229443a9624fcc41",
+   "title": "Temporal Shifts in Community Dominance and Regenerative Capacity of Tropical Forests in Central India",
+   "venue": "Ecology, environment & conservation",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.53550/eec.2025.v31i03s.063?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.53550/eec.2025.v31i03s.063, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2466001889",
+     "name": "Kewat A. K."
+    },
+    {
+     "authorId": "2293113323",
+     "name": "K. P"
+    },
+    {
+     "authorId": "2281328154",
+     "name": "S. S"
+    },
+    {
+     "authorId": "2539271310",
+     "name": "K. A"
+    },
+    {
+     "authorId": "2221462111",
+     "name": "C. B"
+    },
+    {
+     "authorId": "2323955426",
+     "name": "K. R."
+    }
+   ],
+   "abstract": "Tropical forests cover approx. 17 million hectares of India’s total geographical area and are facing serious threats from deforestation, habitat fragmentation, and climate change, leading to biodiversity loss and ecosystem degradation. Our study enumerates the shifts in community composition of Central Indian tropical forests through Preservation Plots over a 30-year period. A total of 99 tree species (including 3 lianas) belonging to 79 genera and 32 families were identified by conducting the two-phytosociology survey. In 1991, 87 tree species were recorded, while in 2021, only 79 trees species were recorded. Sorensen similarity and Bray-Curtis dissimilarity indices were used to assess the changes in species composition across 125 quadrats, each 0.1 hectares in size. In which 87 plots resulted in higher dissimilarity index (0.2 to 1.0) indicating considerable shifts in composition whereas, only 28 plots exhibited higher similarity index (0.0 to 0.8) revealing minimal change and 10 plots remained unchanged in their species composition. The species dominance based on Importance Value Index indicated a remarkable change of community shift. Also, the regenerative potential of trees revealed 59 regenerating species from two surveys. In 1991, 51 regenerating species were recorded, with Fabaceae being the most dominant family. In 2021, it decreased to 44 species, with Fabaceae still being dominant. We obtained significant changes (p=  0.05) after comparing the individuals density (ha-1), basal area (m2 ha-1), and diversity indices between 1991 and 2021. Each Preservation Plot exhibited unique patterns of change in species composition and their regeneration ability. At saplings and seedlings stage, we investigated change in density/ha of each species throughout the Preservation Plots and found significant increasing and decreasing trend of regeneration (*). It is concluded that Preservation Plots plays vital role in long-term monitoring and assessment of change in community biodiversity, species structure and composition."
+  },
+  {
+   "paperId": "cf8fc8aefaec4dc92fe18e0a724eb03ec364beff",
+   "externalIds": {
+    "DOI": "10.1111/ddi.70105",
+    "CorpusId": 282215936
+   },
+   "url": "https://www.semanticscholar.org/paper/cf8fc8aefaec4dc92fe18e0a724eb03ec364beff",
+   "title": "Diversity Loss and Homogenization in Snake Communities in a Deforestation Hotspot",
+   "venue": "Diversity and Distributions: A journal of biological invasions and biodiversity",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.70105",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ddi.70105?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ddi.70105, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-01",
+   "authors": [
+    {
+     "authorId": "88258621",
+     "name": "Hugo Cabral"
+    },
+    {
+     "authorId": "1414546356",
+     "name": "Alfredo Romero-Muñoz"
+    },
+    {
+     "authorId": "46196550",
+     "name": "D. Santana"
+    },
+    {
+     "authorId": "6578961",
+     "name": "G. Leynaud"
+    },
+    {
+     "authorId": "34401430",
+     "name": "J. Nori"
+    },
+    {
+     "authorId": "87296365",
+     "name": "L. Piatti"
+    },
+    {
+     "authorId": "2311462864",
+     "name": "Ricardo Torres"
+    },
+    {
+     "authorId": "2386668517",
+     "name": "R. Chavez"
+    },
+    {
+     "authorId": "1400983296",
+     "name": "M. S. Andrade-Díaz"
+    },
+    {
+     "authorId": "2004750399",
+     "name": "Matthias Baumann"
+    },
+    {
+     "authorId": "2472139",
+     "name": "T. Kuemmerle"
+    }
+   ],
+   "abstract": "Agricultural expansion into tropical forests causes massive biodiversity loss. However, existing knowledge about these losses is heavily biased towards rainforests, as well as towards birds and mammals. Focusing on the South American Chaco, a global hotspot of deforestation and defaunation, we assessed how agriculture‐driven deforestation impacted snake distribution and, thereby, snake communities."
+  },
+  {
+   "paperId": "94c65004fce687c2527566df2ae12e87e283a7b6",
+   "externalIds": {
+    "MAG": "2971320317",
+    "DOI": "10.1017/S0030605318000881",
+    "CorpusId": 202854322
+   },
+   "url": "https://www.semanticscholar.org/paper/94c65004fce687c2527566df2ae12e87e283a7b6",
+   "title": "Land-cover change threatens tropical forests and biodiversity in the Littoral Region, Cameroon",
+   "venue": "Oryx",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CF07D9B297970930F7E0A5852C601A82/S0030605318000881a.pdf/div-class-title-land-cover-change-threatens-tropical-forests-and-biodiversity-in-the-littoral-region-cameroon-div.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0030605318000881?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0030605318000881, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-08-29",
+   "authors": [
+    {
+     "authorId": "38623652",
+     "name": "M. I. Mahmoud"
+    },
+    {
+     "authorId": "32076609",
+     "name": "M. Campbell"
+    },
+    {
+     "authorId": "27984048",
+     "name": "S. Sloan"
+    },
+    {
+     "authorId": "1804585",
+     "name": "M. Alamgir"
+    },
+    {
+     "authorId": "30190239",
+     "name": "W. Laurance"
+    }
+   ],
+   "abstract": "Abstract Tropical forest regions in equatorial Africa are threatened with degradation, deforestation and biodiversity loss as a result of land-cover change. We investigated historical land-cover dynamics in unprotected forested areas of the Littoral Region in south-western Cameroon during 1975–2017, to detect changes that may influence this important biodiversity and wildlife area. Processed Landsat imagery was used to map and monitor changes in land use and land cover. From 1975 to 2017 the area of high-value forest landscapes decreased by c. 420,000 ha, and increasing forest fragmentation caused a decline of c. 12% in the largest patch index. Conversely, disturbed vegetation, cleared areas and urban areas all expanded in extent, by 32% (c. 400,000 ha), 5.6% (c. 26,800 ha) and 6.6% (c. 78,631 ha), respectively. The greatest increase was in the area converted to oil palm plantations (c. 26,893 ha), followed by logging and land clearing (c. 34,838 ha), all of which were the major factors driving deforestation in the study area. Our findings highlight the increasing threats facing the wider Littoral Region, which includes Mount Nlonako and Ebo Forest, both of which are critical areas for regional conservation and the latter a proposed National Park and the only sizable area of intact forest in the region. Intact forest in the Littoral Region, and in particular at Ebo, merits urgent protection."
+  },
+  {
+   "paperId": "0d7576029f1a28724543dbc6bfe41b6661ad8154",
+   "externalIds": {
+    "DOI": "10.1101/2024.10.07.616969",
+    "CorpusId": 273232203
+   },
+   "url": "https://www.semanticscholar.org/paper/0d7576029f1a28724543dbc6bfe41b6661ad8154",
+   "title": "Predicting near-future deforestation in West African Key Biodiversity Areas to inform conservation urgency",
+   "venue": "bioRxiv",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://www.biorxiv.org/content/biorxiv/early/2024/10/08/2024.10.07.616969.full.pdf",
+    "status": "GREEN",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2024.10.07.616969?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2024.10.07.616969, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2024-10-08",
+   "authors": [
+    {
+     "authorId": "1430634063",
+     "name": "Brittany T. Trew"
+    },
+    {
+     "authorId": "25044543",
+     "name": "G. Buchanan"
+    },
+    {
+     "authorId": "4849900",
+     "name": "F. Edwards"
+    },
+    {
+     "authorId": "34130891",
+     "name": "F. Sanderson"
+    }
+   ],
+   "abstract": "Site-based protection is a cornerstone of 21st century conservation and a core component of global biodiversity conservation targets. However, loss of tropical forests, the most biodiverse of habitats, is a major threat to such sites. Here, we predict near-future deforestation risk in 113 Key Biodiversity Areas (KBAs) - sites of objectively defined global conservation importance - in the Guinean Forest biodiversity hotspot and identify those factors associated with loss. We find that (i) KBAs in the Guinean Forests have lost over 265,000 hectares of forest cover over the past decade, with those in Côte d’Ivoire experiencing the highest forest loss; (ii) future deforestation risk is highest among KBAs in Liberia and Côte d’Ivoire (on average 10% predicted loss across KBAs), where some are predicted to lose over a fifth of remaining forest cover by 2033. Models indicate that deforestation is highly contagious, with historical forest loss effectively predicting further adjacent loss, and that forest fragmentation and ease of human access also increased the localised deforestation risk. Conversely, predicted forest loss was lower in sites under some form of conservation protection. Our methods to predict near-future hotspots of deforestation risk in KBAs are reproducible and therefore applicable to other biodiversity hotspots. In the Guinean forests, our results highlight where conservation interventions to mitigate forest loss should be urgently prioritised."
+  },
+  {
+   "paperId": "68e49c989f410ee024c4d6bc9e396d6e9f3fc35b",
+   "externalIds": {
+    "MAG": "2955329041",
+    "DOI": "10.1111/csp2.42",
+    "CorpusId": 198404088
+   },
+   "url": "https://www.semanticscholar.org/paper/68e49c989f410ee024c4d6bc9e396d6e9f3fc35b",
+   "title": "Tree aboveground biomass and species richness of the mature tropical forests of Darien, Panama, and their role in global climate change mitigation and biodiversity conservation",
+   "venue": "Conservation Science and Practice",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/csp2.42",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/csp2.42?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/csp2.42, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2019-06-27",
+   "authors": [
+    {
+     "authorId": "1404020728",
+     "name": "Javier Mateo-Vega"
+    },
+    {
+     "authorId": "1404723132",
+     "name": "J. Arroyo-Mora"
+    },
+    {
+     "authorId": "78100797",
+     "name": "C. Potvin"
+    }
+   ],
+   "abstract": "The remote forests of the Darien region in eastern Panama are among the last remnants of relatively undisturbed forest habitat in the Central American isthmus. Despite decades of efforts by the government, nongovernmental organizations, and civil society, including Indigenous peoples, to protect the region's natural heritage, it remains under significant threat due to widespread illegal logging. Now, the Panamanian government is considering the mechanism, Reducing Emissions from Deforestation and Forest Degradation (REDD+), as another option to limit forest loss. Central to the proper functioning of REDD+ is the need to reduce uncertainties in estimates of aboveground biomass (AGB). These estimates are used to establish realistic reference levels against which additional contributions to reducing carbon dioxide emissions from the loss and degradation of forests can be financially compensated. Also, highly desirable to REDD+ is the achievement of biodiversity cobenefits. REDD+ investments will likely be directed primarily to areas where the potential to simultaneously mitigate climate change and conserve biodiversity is highest. Here, we present the results of a field‐based forest carbon inventorying method tested in Darien's mature forests with the participation of Embera and Wounaan Indigenous peoples. We also explore whether variations in field‐based estimates of AGB across mature forests, in both undisturbed and disturbed areas, are detectable through free and readily‐available remote sensing data sources. Furthermore, we examine and compare AGB and tree species richness in Darien with other well‐studied forest sites across the tropics. Our findings reveal that Darien's forests play a crucial role globally and regionally in storing carbon and housing biodiversity, and support the imperative need to protect these forests in a culturally appropriate manner with the region's Indigenous peoples."
+  },
+  {
+   "paperId": "008ad65715adf6cb433e9f9f009bec0ac1c6b82d",
+   "externalIds": {
+    "MAG": "2765891397",
+    "DOI": "10.5897/JAT2017.0251",
+    "CorpusId": 56382114
+   },
+   "url": "https://www.semanticscholar.org/paper/008ad65715adf6cb433e9f9f009bec0ac1c6b82d",
+   "title": "Environmental accounting: A tool for conserving biodiversity in tropical forests",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://academicjournals.org/journal/JAT/article-full-text-pdf/AE6C94966189.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5897/JAT2017.0251?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5897/JAT2017.0251, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2017-10-31",
+   "authors": [
+    {
+     "authorId": "108522503",
+     "name": "T. Olatunji"
+    }
+   ],
+   "abstract": "Loss of biodiversity threatens the world's ecosystem and tropical forests provide the last hope of sustainability. Environmental accounting focuses on sustainable production and development generates data and employs methodologies for valuing natural resources. Thus, by providing these accounting realities conservation is not only encouraged but becomes a critical necessity. This study aimed to evaluate the potential roles of environmental accounting in conserving biodiversity in tropical forests. Specifically, it is aimed to estimate the rate of deforestation and evaluate its effect on biodiversity for accounting purposes. The study was conducted in the Forest Reserves of Osun State, Nigeria through a survey of communities around the Forest Reserves to obtain the Contingent Values of biodiversity. Data on rates of deforestation were obtained from records of the Forestry Management Department of the Ministry of Environment in Osun State, Nigeria. These data were analyzed using the LOGIT regression Model and the amounts of WTP was aggregated and extrapolated to obtain the total value of biodiversity losses in the Forest Reserves. Results showed a per capita annual cost of 25USD resulting to over 2,824,408.125 USD as the lost value or depreciation of biodiversity in the study area. This depreciation cost is tremendous requiring urgent attention to conservation. It was concluded that the emergence of environmental accounting tools has significant consequence on biodiversity preservation because what is counted is what is valued and what is valued is what is treasured. This calls for policy and stringent action towards conservation of forest resources. \n \n   \n \n Key words: Biodiversity, environmental accounting, deforestation, depreciation."
+  },
+  {
+   "paperId": "b347e43f719a86421059b2e6653506d74f034550",
+   "externalIds": {
+    "MAG": "3023528362",
+    "DOI": "10.1111/cobi.13534",
+    "CorpusId": 218585338,
+    "PubMed": "32390229"
+   },
+   "url": "https://www.semanticscholar.org/paper/b347e43f719a86421059b2e6653506d74f034550",
+   "title": "Protecting biodiversity and economic returns in resource‐rich tropical forests",
+   "venue": "Conservation Biology",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cobi.13534",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/cobi.13534?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/cobi.13534, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-05-10",
+   "authors": [
+    {
+     "authorId": "2056401175",
+     "name": "James G. C. Ball"
+    },
+    {
+     "authorId": "2491765",
+     "name": "M. Burgman"
+    },
+    {
+     "authorId": "1644352887",
+     "name": "E. Goldman"
+    },
+    {
+     "authorId": "3862854",
+     "name": "J. Lessmann"
+    }
+   ],
+   "abstract": "In pursuit of socioeconomic development, many countries are expanding oil and mineral extraction into tropical forests. These activities seed access to remote, biologically rich areas, thereby endangering global biodiversity. We examined how protection of biodiversity and economic revenues can be balanced in biologically valuable regions. Using spatial data on oil profits and predicted species and ecosystem extents, we optimized the protection of 741 terrestrial species and 20 ecosystems of the Ecuadorian Amazon across a range of opportunity costs (i.e., sacrifices of extractive profit). We also applied spatial statistics to remotely sensed, historic deforestation data to focus the optimization on areas most threatened by imminent forest loss. Giving up 5% of a year's oil profits (US$221 million) allowed for a protected area network that retained an average of 65% of the extent of each species and ecosystem. This performance far exceeded that of the network produced by simple optimization for land area (which required a sacrifice of approximately 40% of annual oil profits [US$1.7 billion]) and used only marginally less land to achieve equivalent levels of ecological protection. We identified what we call emergency conservation targets: regions that are essential components of a cost‐effective conservation reserve network but at imminent risk of destruction, thus requiring urgent and effective protection. Governments can use our methods when evaluating extractive‐led development options to responsibly manage the associated ecological and economic trade‐offs and protect natural capital."
+  },
+  {
+   "paperId": "55bf9deba421150c373a1f8583056bf001385789",
+   "externalIds": {
+    "DOI": "10.1007/s44353-025-00023-5",
+    "CorpusId": 276025479
+   },
+   "url": "https://www.semanticscholar.org/paper/55bf9deba421150c373a1f8583056bf001385789",
+   "title": "Insights into mapping tropical primary wet forests in the Amazon Basin from satellite-based time series metrics of canopy stability",
+   "venue": "Discover Conservation",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s44353-025-00023-5.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44353-025-00023-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44353-025-00023-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-30",
+   "authors": [
+    {
+     "authorId": "145380857",
+     "name": "B. Mackey"
+    },
+    {
+     "authorId": "5597625",
+     "name": "S. Hugh"
+    },
+    {
+     "authorId": "7387927",
+     "name": "T. Shestakova"
+    },
+    {
+     "authorId": "2343121369",
+     "name": "Brendan M. Rogers"
+    },
+    {
+     "authorId": "11529347",
+     "name": "Ludmila Rattis"
+    }
+   ],
+   "abstract": "Deforestation and forest degradation are of continued and growing concern for biodiversity loss, carbon emissions, and a host of ecosystem services for local and global communities. Current remote sensing-based products of forest condition offer valuable information, but typically require extensive training data and represent snapshots in time. Here we provide complementary analyses that address some of these limitations by quantifying forest stability, a key component of ecosystem integrity, of wet tropical forests in the Amazon Basin over a 20-year period using an unsupervised classification method and identify areas of primary and secondary forest. Canopy stability was explored using a time series of remotely sensed MODIS data for the period 2003–2019 at a 500 m pixel resolution. We built on previous work to develop a pixel-based Canopy Stability Index based on the slope and coefficient of variation in fPAR (the fraction of photosynthetically active radiation intercepted by sunlit vegetation canopy) and SIWSI (the shortwave infrared water stress index), which collectively provide information on biophysical processes, canopy structure, and water stress. We examined temporal trends in canopy responses to environmental factors, natural disturbances and land use impacts and compared our results with the MapBiomas forest condition product. Analyses were focused on the Brazilian Amazon but extended to the entire Amazon Basin. The findings revealed a high level of agreement between the Canopy Stability Index and forest categories classified by MapBiomas. However, notable mismatches exist, particularly in ecoregions which contain non-forest ecosystems (e.g., Guianan Highlands Moist Forests, Gurupa varzea, and Pantepui forests and shrublands). Disturbances such as fires are correlated with high levels of canopy instability. The time series analysis revealed prior land use impacts and the occurrence of otherwise unrecognized degraded forest. High resolution modelled data on forest structure can be usefully complemented in tropical wet forests by the kinds of time series analyses presented here, which can assist in tracking changes in forest condition and responses to disturbances."
+  }
+ ]
+}

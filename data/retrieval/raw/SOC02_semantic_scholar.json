@@ -1,0 +1,645 @@
+{
+ "query": "Remittances and household welfare in developing countries",
+ "retrieved_at": "2026-11-18T17:56:36.272474+00:00",
+ "data": [
+  {
+   "paperId": "c01324fa68ee081de7e4784086f335697c1caf9c",
+   "externalIds": {
+    "DOI": "10.55057/ijbtm.2025.7.11.23",
+    "CorpusId": 283979918
+   },
+   "url": "https://www.semanticscholar.org/paper/c01324fa68ee081de7e4784086f335697c1caf9c",
+   "title": "Do Remittances, FDI, and Digitalization Drive Household Welfare in Asian Developing Countries? The Moderating Role of Regulatory Quality",
+   "venue": "International Journal of Business and Technology Management",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55057/ijbtm.2025.7.11.23?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55057/ijbtm.2025.7.11.23, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-15",
+   "authors": [],
+   "abstract": "Asia’s economic growth has been strong, yet many households have not experienced matching welfare gains. This study examines the effects of remittances, foreign direct investment (FDI), and digitalization on household welfare in Asian lower middle income and upper middle-income countries. Annual panel data for 2010 to 2023 are analyzed using System GMM to address endogeneity, unobserved heterogeneity, and persistence, with robustness checks using alternative specifications and country level estimates. The results show that digitalization has a positive and the most consistent effect across both groups. Remittances are also positive, with a stronger impact in upper middle-income economies. FDI does not exhibit a stable effect at the household level. Regulatory quality, particularly in upper middle-income countries, amplifies the effect of digitalization, while its moderation of remittances is weak and not observed for FDI. Country level checks confirm substantial cross-country heterogeneity. Policy implications include expanding affordable digital infrastructure, strengthening digital literacy, deepening financial inclusion, and improving governance so that the benefits of digitalization and remittances shift from consumption toward household saving and investment. The study’s novelty lies in jointly mapping these three channels within a dynamic framework that distinguishes income groups and underscores the role of regulatory quality in transmitting gains to households."
+  },
+  {
+   "paperId": "67a342c1c6397237f26986e835841319ea521b70",
+   "externalIds": {
+    "DOI": "10.56279/jgat.v46i2.390",
+    "CorpusId": 295710695
+   },
+   "url": "https://www.semanticscholar.org/paper/67a342c1c6397237f26986e835841319ea521b70",
+   "title": "Applying the Paired-t-test and Cohen’s d to Assess How Far Remittances Improve Household Welfare in Zanzibar: The Case of Wete and Chake-Chake Districts in Pemba",
+   "venue": "Journal of the Geographical Association of Tanzania",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://jgat.udsm.ac.tz/index.php/jgat/article/download/390/190",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56279/jgat.v46i2.390?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56279/jgat.v46i2.390, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-11-06",
+   "authors": [
+    {
+     "authorId": "2529613369",
+     "name": "Abrahamani Mzee Juma"
+    },
+    {
+     "authorId": "2529610163",
+     "name": "Opportuna Leo Kweka"
+    }
+   ],
+   "abstract": "Diaspora remittances play a significant role in supporting household income in many developing countries, particularly in areas with limited employment opportunities and weak social protection. This paper uses the Paired-t-test and Cohen’s d to determine how far remittances have been used to improve household welfare. Also, it is guided by the altruism theory of remittances, the Amartya Sen Framework, and the self-interest theory of remittances. Three data collection methods were employed—household surveys, documentary reviews, and in-depth interviews—to source a sample of 300 households that received remittances, and 15 key informants. The results show that remittances tend to improve household welfare, with most households reporting increased welfare levels: from 77% at a low level and 23% at a high level before receiving remittances to 18% at a low level and 82% at a high level afterwards. Paired-t-tests confirmed significant welfare improvements in the household indicators, with households shifting from low levels to high levels of improvement, and remittances acting as an intervening factor. The Cohen’s d indicated a medium to large effect size across all welfare indicators. The paper concludes that remittances play a statistically significant role in the improvement of household welfare in Pemba. The paper recommends promoting the productive use of remittances through increased diaspora engagement, and the strengthening of formal remittance channels to maximise benefits."
+  },
+  {
+   "paperId": "e852aa7fc3ed94da856d4ee1c04e183ab77e2550",
+   "externalIds": {
+    "MAG": "2596706465",
+    "DOI": "10.11564/31-1-953",
+    "CorpusId": 157380069
+   },
+   "url": "https://www.semanticscholar.org/paper/e852aa7fc3ed94da856d4ee1c04e183ab77e2550",
+   "title": "Remittances and Household Welfare in Nigeria",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "https://aps.journals.ac.za/pub/article/download/953/728",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11564/31-1-953?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11564/31-1-953, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2017-03-07",
+   "authors": [
+    {
+     "authorId": "6078458",
+     "name": "Ọ. Àkànle"
+    },
+    {
+     "authorId": "46232050",
+     "name": "J. Adésínà"
+    }
+   ],
+   "abstract": "Remittances remain among the most researched issues in contemporary international migrations, poverty alleviation, welfare dynamics and development financing in developing countries. This is particularly so as remittances continue to rival Official Development Assistance (ODA) and Foreign Direct Investment (FDI) and it is being argued to be more effective in driving development than aid. While studies exist on influences of remittances on household welfare in developing countries, many more are needed to sufficiently understand the actual roles of remittances in households’ welfare in Sub-Saharan Africa- one of the poorest regions in the world. The relationship between remittances and household welfare has particularly not been sufficiently empirically tested in Nigeria- the most populous nation in Africa, among the poorest countries in the world and the highest remittances receiving nation in Africa. This article therefore examined the influence of remittances on households’ welfare in Nigeria. This is a very important article considering the increasing trend of migration and efforts to reduce poverty and inequality. Secondary and primary data were gathered for this article. Secondary data were gathered through documents, journal articles and newspapers, among others, while primary data were gathered through quantitative and qualitative methods between 2015 and 2016, Appreciable positive relationships were found between remittances and household welfare. Unlike many previous studies which claimed remittances receiving households mostly spend remittances on consumptions, more robust expenditure patterns were found. Expression of welfare was also found to be beyond the commonly noted to include important intangible welfare credits like community respect for remittances receiving households. It is concuded that development experts, partners, governments, groups and individuals should therefore better appreciate and appropriate both the financial and non-material effects of remittances on inequality and poverty in developing countries especially of Africa."
+  },
+  {
+   "paperId": "12527d13d84da802416cd98d80f1d021508d9a96",
+   "externalIds": {
+    "MAG": "2563381712",
+    "DOI": "10.1016/J.EAP.2018.07.001",
+    "CorpusId": 157458229
+   },
+   "url": "https://www.semanticscholar.org/paper/12527d13d84da802416cd98d80f1d021508d9a96",
+   "title": "The impacts of international migrants’ remittances on household consumption volatility in developing countries",
+   "venue": "Economic Analysis and Policy",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.EAP.2018.07.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.EAP.2018.07.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2018-09-01",
+   "authors": [
+    {
+     "authorId": "119302987",
+     "name": "R. Mondal"
+    },
+    {
+     "authorId": "40263426",
+     "name": "R. Khanam"
+    }
+   ],
+   "abstract": "In this paper we investigate the impacts of remittances on reducing volatility of household consumption using a panel dataset of 84 developing countries during the period from 1980 to 2014. Our study is a partial replication of Combes & Ebeke (2011), who first investigated this issue using data for the period of 1975 to 2004 and found that international migrants’ remittances reduce household consumption volatility in developing countries. We improve their study by using more recent data, additional control variables, and by investigating the long run and the short run implications of international remittances in developing countries. Our results show that the volatility of household consumption can significantly be reduced by international migrants’ remittances. The robustness checks reinforce the stabilising impact of migrants’ remittances on consumption volatility in developing countries. Since overall consumption is an integral part of household welfare, the findings of this study highlight that international migrants’ remittances may indeed contribute significantly to households’ welfare by reducing the volatility of consumption in remittance receiving developing countries both in the short and long run."
+  },
+  {
+   "paperId": "2becf116f56bfd49d9eca769bd48476296558e50",
+   "externalIds": {
+    "CorpusId": 221663327
+   },
+   "url": "https://www.semanticscholar.org/paper/2becf116f56bfd49d9eca769bd48476296558e50",
+   "title": "Informal Transfers and Informal Taxes in Developing Countries: How do They Affect Household Welfare Distributions and Fiscal Incidence?",
+   "venue": "",
+   "year": 2019,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at http://iariw.org/washington/Evans-paper.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "27384117",
+     "name": "Martin C. Evans"
+    },
+    {
+     "authorId": "143812321",
+     "name": "H. Salomon"
+    },
+    {
+     "authorId": "2496764463",
+     "name": "Discussant Jia Gao"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "3328aee68c753171155585df404cf998e3a52cbb",
+   "externalIds": {
+    "DOI": "10.1007/s44282-026-00553-w",
+    "CorpusId": 291397309
+   },
+   "url": "https://www.semanticscholar.org/paper/3328aee68c753171155585df404cf998e3a52cbb",
+   "title": "A systematic review of global evidence on the role of remittances in household welfare",
+   "venue": "Discover Global Society",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s44282-026-00553-w.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44282-026-00553-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44282-026-00553-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-08-29",
+   "authors": [
+    {
+     "authorId": "104113397",
+     "name": "C. Nugroho"
+    },
+    {
+     "authorId": "49410436",
+     "name": "N. Man"
+    },
+    {
+     "authorId": "2362983145",
+     "name": "Nurul Nadia Ramli"
+    },
+    {
+     "authorId": "2460389072",
+     "name": "Muhamad Fadzil Bin Repin"
+    },
+    {
+     "authorId": "30537455",
+     "name": "N. Hanani"
+    }
+   ],
+   "abstract": "Migration and remittances significantly shape the socio-economic dynamics of rural communities, influencing rural household mobility and rural economic resilience. This systematic literature review explores the role of remittances in household welfare, drawing on 75 studies published between 2000 and 2025 that were selected from Scopus and ScienceDirect databases using predefined inclusion and exclusion criteria. These studies were selected through a systematic screening process guided by the PRISMA flowchart. Based on the reviewed literature, we present a comprehensive analysis of how remittances influence household well-being, highlighting both their positive and negative effects. The review further emphasizes the differences between the impacts of remittances on developing countries and the least developed countries as well as the short-term and long-term economic implications of the use of remittances by households. This study provides important insights for policymakers looking to maximize the benefits of remittances within families and communities, as well as mitigate the risks of dependency and unequal distribution in society."
+  },
+  {
+   "paperId": "31eb01386f8124fc12516c51896b4ddd6ffe1b94",
+   "externalIds": {
+    "DOI": "10.1142/s0116110522500159",
+    "CorpusId": 252324218
+   },
+   "url": "https://www.semanticscholar.org/paper/31eb01386f8124fc12516c51896b4ddd6ffe1b94",
+   "title": "Remittances, Household Welfare, and the COVID-19 Pandemic in Tajikistan",
+   "venue": "Asian Development Review",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1142/s0116110522500159",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1142/s0116110522500159?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1142/s0116110522500159, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-09-01",
+   "authors": [
+    {
+     "authorId": "2057735886",
+     "name": "Eiji Yamada"
+    },
+    {
+     "authorId": "9823251",
+     "name": "Satoshi Shimizutani"
+    },
+    {
+     "authorId": "103647948",
+     "name": "Enerelt Murakami"
+    }
+   ],
+   "abstract": "Remittance inflows are now the largest source of external financing to developing countries, but little research has yet firmly established the effect of remittances on household welfare. We investigate the case of Tajikistan, one of the most heavily remittance-dependent countries in the world. We use a panel dataset collected nationwide and employ an instrumental variable estimation to confirm a positive relationship between receiving remittances and household welfare after correcting for endogeneity. Moreover, we find that the effect of remittances on household spending is more pronounced in households whose head is male, older, and/or less educated. Then, we combine our estimated coefficients with the projected decline of remittance inflows as a result of the coronavirus disease (COVID-19) outbreak and show the pandemic’s adverse effect on household spending per capita."
+  },
+  {
+   "paperId": "5ac98cafdfaa7dea729b8b82cb5507bf68a161d3",
+   "externalIds": {
+    "DOI": "10.70619/vol4iss1pp1-13",
+    "CorpusId": 273435416
+   },
+   "url": "https://www.semanticscholar.org/paper/5ac98cafdfaa7dea729b8b82cb5507bf68a161d3",
+   "title": "The Effects of Diaspora Remittances on Household Agro Farming in Kericho County, Kenya",
+   "venue": "Journal of public policy & governance",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://edinburgjournals.org/journals/index.php/journal-of-public-policy/article/download/247/258",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70619/vol4iss1pp1-13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70619/vol4iss1pp1-13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-19",
+   "authors": [
+    {
+     "authorId": "2326525720",
+     "name": "Victor Sang"
+    },
+    {
+     "authorId": "104993857",
+     "name": "F. Kiruthu"
+    }
+   ],
+   "abstract": "The diaspora constitutes millions of people from developing countries living outside their country of birth. These people have migrated to other countries in search of better opportunities or as a result of socioeconomic and political challenges. As part of maintaining their connections with relatives in their home country, these migrants continuously send money to their families for support. Remittances channeled by persons living in the diaspora into their indigenous jurisdictions have become a source of capital in under-developing economies which have significantly enhanced socio-welfare as well presenting families with better opportunities for income generation. The current study sought to examine how these Diaspora remittances affect livelihoods in Kericho County. The study specifically examined the effects of diaspora remittances on household agro-farming and their subsequent effect on promotion of livelihoods in Kericho County Kenya. The focus of the study was the residents of Kericho County who are beneficiaries of diaspora remittances. The study was anchored on pure altruism and rational choice theories. A descriptive research design was employed. A total of 1393 households of the emigrants were targeted. From the target population, the study sampled 10% (139 respondents) who were selected using a convenience sampling technique. The study obtained a 98% response rate. The research findings showed that household agro-farming had a positive effect on the livelihood promotion within Kericho County at 92.2% (adjusted R2=0.922). The study concludes that diaspora remittances have a positive effect on the agro-farming aspects of livelihood promotion among residents of Kericho County who received them. The study thus concludes that diaspora remittances improved the economic lives of recipients by improving their agricultural productivity and giving them access to agro-products. The study recommends that there is need for the Kenyan government to work towards ensuring policies that ensures smooth flow of diaspora remittances and come up with ways of motivating and attracting remittances into Kenyan economy. The study also recommends that the Kenyan government comes up with interventions and incentives to encourage foreign remittances as it increases Agro Farmers disposable income and the utilize it to improve Agro farming. Finally, the study recommends that Kenyans living in Diaspora invest their income in their mother land by sending remittances."
+  },
+  {
+   "paperId": "24bfe9d74c4833677dc44c6773a977dd780ca286",
+   "externalIds": {
+    "MAG": "2615453902",
+    "DOI": "10.1080/21632324.2017.1325551",
+    "CorpusId": 157436838
+   },
+   "url": "https://www.semanticscholar.org/paper/24bfe9d74c4833677dc44c6773a977dd780ca286",
+   "title": "Impact of migration and remittances on household welfare among rural households in Northern and Central Malawi",
+   "venue": "",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/21632324.2017.1325551?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/21632324.2017.1325551, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2018-01-02",
+   "authors": [
+    {
+     "authorId": "6435121",
+     "name": "Joseph Kangmennaang"
+    },
+    {
+     "authorId": "48520007",
+     "name": "R. Bezner-Kerr"
+    },
+    {
+     "authorId": "3258346",
+     "name": "I. Luginaah"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "76e696395b40b35f681e9c6fe1722fea0627f6e6",
+   "externalIds": {
+    "MAG": "2108640473",
+    "CorpusId": 54935910
+   },
+   "url": "https://www.semanticscholar.org/paper/76e696395b40b35f681e9c6fe1722fea0627f6e6",
+   "title": "The impact of migrant remittances on household welfare in Ghana",
+   "venue": "",
+   "year": 2006,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://opendocs.ids.ac.uk/opendocs/bitstream/handle/123456789/2669/RP%20158.pdf?isAllowed=y&sequence=1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2006-08-01",
+   "authors": [
+    {
+     "authorId": "8323872",
+     "name": "Peter Quartey"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "b4d24b45d276a683703acd084c94f933cbfaafa8",
+   "externalIds": {
+    "DOI": "10.53486/mfsne2025.27",
+    "CorpusId": 290733518
+   },
+   "url": "https://www.semanticscholar.org/paper/b4d24b45d276a683703acd084c94f933cbfaafa8",
+   "title": "Remittances versus foreign direct investment: a comparative analysis of the impact on economic growth in remittance-dependent countries (2005-2024)",
+   "venue": "Proceedings of International Conference \"Modern finance from the perspective of sustainability of national economies\"",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://irek.ase.md:443/xmlui/bitstream/123456789/5016/1/Conf_Finance_ASEM_November_28-29_2025_p228-246.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.53486/mfsne2025.27?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.53486/mfsne2025.27, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2026-07-01",
+   "authors": [
+    {
+     "authorId": "2454679124",
+     "name": "Briana Ohmt"
+    }
+   ],
+   "abstract": "This article analyzes the comparative impact of remittances and foreign direct investment (FDI) on economic growth in economies highly dependent on external financial inflows. Although both FDI and remittances contribute to development, they operate through distinct mechanisms: remittances primarily enhance household consumption and welfare, while foreign direct investment stimulates productive capacity, innovation, and structural transformation. The study aims to determine whether these financial flows act as substitutes or complements in promoting sustainable growth and how their effects differ across developing economies. The research focuses on the evolution of ten countries with a high remittance to GDP ratio over the period 2005-2024, using World Bank data: Tajikistan, Lebanon, Samoa, Nepal, Gambia, Nicaragua, Honduras, Lesotho, El Salvador, and Haiti. These countries were selected based on the most recent World Bank data on the share of remittances in gross domestic product for the year 2024. To identify the determinants of GDP growth, econometric estimations were performed using three distinct models: Pooled Ordinary Least Squares, Fixed Effects and Random Effects. The dependent variable was GDP growth rate, while the explanatory variables included remittances, foreign direct investment, exports, final consumption expenditure and gross capital formation, each expressed as a proportion of GDP, along with the logarithm of the exchange rate. Interpolation was used to address missing data and the exchange rate variable was log transformed to facilitate coefficient interpretation. Diagnostic tests, including the Breusch-Pagan and Hausman tests, identified the random effects model as the most appropriate specification, combining consistency and efficiency. The results indicate that foreign direct investment, final consumption expenditure, and gross capital formation have significant positive effects on economic growth, while remittances exert a positive but less stable influence. These findings suggest that remittances support short term stability, whereas foreign direct investment promotes long term productivity and transformation. The study concludes that both financial flows are complementary and, when supported by coherent policies, can reinforce each other to foster inclusive and sustainable growth in remittance dependent economies."
+  },
+  {
+   "paperId": "fb4c25368f703a3b8ebc41e92c7a0a060fefb36f",
+   "externalIds": {
+    "PubMedCentral": "4186858",
+    "MAG": "2023007565",
+    "DOI": "10.1371/journal.pone.0109804",
+    "CorpusId": 4176786,
+    "PubMed": "25286032"
+   },
+   "url": "https://www.semanticscholar.org/paper/fb4c25368f703a3b8ebc41e92c7a0a060fefb36f",
+   "title": "Mobile Money, Smallholder Farmers, and Household Welfare in Kenya",
+   "venue": "PLoS ONE",
+   "year": 2014,
+   "openAccessPdf": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0109804&type=printable",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4186858, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2014-10-06",
+   "authors": [
+    {
+     "authorId": "3667207",
+     "name": "E. Kikulwe"
+    },
+    {
+     "authorId": "2064578426",
+     "name": "Elisabeth Fischer"
+    },
+    {
+     "authorId": "3999971",
+     "name": "M. Qaim"
+    }
+   ],
+   "abstract": "The use of mobile phones has increased rapidly in many developing countries, including in rural areas. Besides reducing the costs of communication and improving access to information, mobile phones are an enabling technology for other innovations. One important example are mobile phone based money transfers, which could be very relevant for the rural poor, who are often underserved by the formal banking system. We analyze impacts of mobile money technology on the welfare of smallholder farm households in Kenya. Using panel survey data and regression models we show that mobile money use has a positive impact on household income. One important pathway is through remittances received from relatives and friends. Such remittances contribute to income directly, but they also help to reduce risk and liquidity constraints, thus promoting agricultural commercialization. Mobile money users apply more purchased farm inputs, market a larger proportion of their output, and have higher profits than non-users of this technology. These results suggest that mobile money can help to overcome some of the important smallholder market access constraints that obstruct rural development and poverty reduction."
+  },
+  {
+   "paperId": "1c277acedc13cafd988e62bf4d16d18f6d2306bd",
+   "externalIds": {
+    "DOI": "10.70619/vol3iss3pp1-14",
+    "CorpusId": 273449463
+   },
+   "url": "https://www.semanticscholar.org/paper/1c277acedc13cafd988e62bf4d16d18f6d2306bd",
+   "title": "The Effects of Diaspora Remittances on Household Level Healthcare in Kericho County, Kenya",
+   "venue": "Journal of public policy & governance",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://edinburgjournals.org/journals/index.php/journal-of-public-policy/article/download/236/245",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70619/vol3iss3pp1-14?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70619/vol3iss3pp1-14, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-12-18",
+   "authors": [
+    {
+     "authorId": "2326525720",
+     "name": "Victor Sang"
+    },
+    {
+     "authorId": "104993857",
+     "name": "F. Kiruthu"
+    }
+   ],
+   "abstract": "The diaspora constitutes millions of people from developing countries living outside their country of birth. These people have migrated to other countries searching for better opportunities or as a result of socioeconomic and political challenges. As part of maintaining their connections with relatives in their home country, these migrants continuously send money to their families for support. Remittances channeled by persons living in the diaspora into their indigenous jurisdictions have become a source of capital in developing economies which has significantly enhanced socio-welfare as well as presenting the families with better opportunities for income generation. The current study sought to examine how these Diaspora remittances affect livelihoods in Kericho County. The study specifically examined the effects of household healthcare on household livelihoods in Kericho County Kenya. The focus of the study was the residents of Kericho County who are beneficiaries of diaspora remittances. The study was anchored on pure altruism and rational choice theories. A descriptive research design was used in this study. A total of 1393 households of the emigrants were targeted. From the target population, the study sampled 10% (139 respondents) who were selected using a convenience sampling technique. The study obtained a 98% response rate. The research findings showed that household healthcare had a positive effect on livelihood promotion within Kericho County 49.9% (adjusted R2=0.499)."
+  },
+  {
+   "paperId": "46a8a3a7c5d2003518308de6b43560c0037cf2bc",
+   "externalIds": {
+    "MAG": "2884108352",
+    "DOI": "10.1515/bejm-2017-0199",
+    "CorpusId": 158878718
+   },
+   "url": "https://www.semanticscholar.org/paper/46a8a3a7c5d2003518308de6b43560c0037cf2bc",
+   "title": "Smooth operator: remittances and household consumption during fiscal shocks",
+   "venue": "",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1515/bejm-2017-0199?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/bejm-2017-0199, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2018-06-26",
+   "authors": [
+    {
+     "authorId": "48963415",
+     "name": "Kimberly Beaton"
+    },
+    {
+     "authorId": "51144220",
+     "name": "Serhan Cevik"
+    },
+    {
+     "authorId": "93901325",
+     "name": "S. R. Yousefi"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "73e199857d9e1a001d8124b505cf10d3c2d3df05",
+   "externalIds": {
+    "DOI": "10.1515/peps-2025-0052",
+    "CorpusId": 289460883
+   },
+   "url": "https://www.semanticscholar.org/paper/73e199857d9e1a001d8124b505cf10d3c2d3df05",
+   "title": "Remittances and National Peace: The Conditional Roles of Institutional Quality and Income Inequality",
+   "venue": "Peace Economics, Peace Science and Public Policy",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1515/peps-2025-0052",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1515/peps-2025-0052?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/peps-2025-0052, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-06-22",
+   "authors": [
+    {
+     "authorId": "87223384",
+     "name": "Hajer Kratou"
+    },
+    {
+     "authorId": "119289818",
+     "name": "Franklin Nakpodia"
+    }
+   ],
+   "abstract": "Abstract International remittance flows represent one of the largest sources of external finance for many developing economies, yet their relationship with political stability remains contested. While some studies suggest that remittances are associated with improved household welfare and stability, others indicate that they may coincide with higher levels of unrest or insecurity. This paper examines the relationship between remittance inflows and national peace outcomes using cross-national panel data covering 115 countries from 2008 to 2024. The analysis focuses on the Global Peace Index (GPI), a multidimensional measure capturing domestic security, internal conflict, and militarisation. The study argues that the remittance–peace relationship is conditional rather than uniform and varies across institutional and distributional contexts. Using fixed-effects and dynamic panel estimators, the findings suggest that remittances are positively associated with GPI scores on average, indicating lower levels of peace. However, this association appears weaker in countries characterised by stronger institutional environments and stronger in societies with higher levels of income inequality. Rather than establishing definitive causal effects, the analysis extends existing cross-national research by examining how the remittance–peace relationship varies across institutional and distributional contexts."
+  },
+  {
+   "paperId": "1a4701c197303c8b7c0a603ad10e43754b44a8b7",
+   "externalIds": {
+    "MAG": "2752992922",
+    "CorpusId": 158150005
+   },
+   "url": "https://www.semanticscholar.org/paper/1a4701c197303c8b7c0a603ad10e43754b44a8b7",
+   "title": "An analysis of the determinants of remittances and effect of remittance on expenditure behaviour and child welfare in the households of Nepal",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at http://centaur.reading.ac.uk/72270/1/14028200_Pant_thesis.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "37972005",
+     "name": "D. Pant"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "28db51e026196ccad41bb0e7f91060efbeea2a27",
+   "externalIds": {
+    "MAG": "2283125174",
+    "CorpusId": 155829305
+   },
+   "url": "https://www.semanticscholar.org/paper/28db51e026196ccad41bb0e7f91060efbeea2a27",
+   "title": "Mobile money adoption and household welfare in Uganda",
+   "venue": "",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": "2015-12-16",
+   "authors": [
+    {
+     "authorId": "46238082",
+     "name": "C. Murendo"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "f9b51068d6ad6808070ffdedfbaebaa7bdf5a3fc",
+   "externalIds": {
+    "MAG": "2746009723",
+    "CorpusId": 158281672
+   },
+   "url": "https://www.semanticscholar.org/paper/f9b51068d6ad6808070ffdedfbaebaa7bdf5a3fc",
+   "title": "Mobile Phone Technologies and their Impacts on Household Welfare and Rural Development in Uganda",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": "2017-08-02",
+   "authors": [
+    {
+     "authorId": "118722168",
+     "name": "Haruna Sekabira"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "0b5699e0d77a4c6c441a069c63ee61db76038f2d",
+   "externalIds": {
+    "DOI": "10.1177/01979183221107925",
+    "CorpusId": 251074687
+   },
+   "url": "https://www.semanticscholar.org/paper/0b5699e0d77a4c6c441a069c63ee61db76038f2d",
+   "title": "Migrant Remittances and Food Security in Sub-Saharan Africa: The Role of Income Classifications",
+   "venue": "International Migration Review",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/01979183221107925?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/01979183221107925, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-07-25",
+   "authors": [
+    {
+     "authorId": "7933958",
+     "name": "Iddisah Sulemana"
+    },
+    {
+     "authorId": "1423559255",
+     "name": "Ebenezer Bugri-Anarfo"
+    },
+    {
+     "authorId": "96019420",
+     "name": "Louis Doabil"
+    }
+   ],
+   "abstract": "The pervasiveness of food insecurity in sub-Saharan Africa and other developing regions has resulted in increased emigration not only to wealthier countries within the continent but also to developed countries elsewhere in the world. A growing body of research has examined the welfare implications of remittances from international migrants for families left behind. A strand of that literature focuses on the association between international remittances and household food security. We contribute to this body of work by examining the variability of this relationship across three groupings of African countries, based on the World Bank's income classifications. Using data from the Afrobarometer Surveys, our results from an instrumental variable ordered probit regressions reveal that international remittances are positively and significantly correlated with household food security for all three country groupings. After correcting for endogeneity, we find that remittance-receiving households were 83.59 percent, 72.66 percent, and 26.06 percent more likely to report having never gone without enough food to eat in low-income, lower-middle income, and upper-middle income countries in sub-Saharan Africa, respectively. These findings suggest that central governments and policymakers in Africa should reform public policy in a way that strengthens the effectiveness and efficiency of international remittances transfer to reduce food insecurity across the continent."
+  },
+  {
+   "paperId": "a00285f4dceb99359611f6881e7077caaae16501",
+   "externalIds": {
+    "MAG": "936863596",
+    "CorpusId": 153234801
+   },
+   "url": "https://www.semanticscholar.org/paper/a00285f4dceb99359611f6881e7077caaae16501",
+   "title": "Remittances and welfare in Tajikistan",
+   "venue": "",
+   "year": 2015,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2354675509",
+     "name": "H. Martínez"
+    },
+    {
+     "authorId": "2076522306",
+     "name": "Rodolfo Eduardo"
+    }
+   ],
+   "abstract": null
+  }
+ ]
+}

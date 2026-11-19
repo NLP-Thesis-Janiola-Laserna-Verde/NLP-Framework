@@ -1,0 +1,740 @@
+{
+ "query": "Generative AI tools and academic integrity in higher education",
+ "retrieved_at": "2026-11-18T17:49:25.619690+00:00",
+ "data": [
+  {
+   "paperId": "54834756e0844699b0c8360e18f001e1c85c7c55",
+   "externalIds": {
+    "DOI": "10.71317/rjsa.003.06.0655",
+    "CorpusId": 285005664
+   },
+   "url": "https://www.semanticscholar.org/paper/54834756e0844699b0c8360e18f001e1c85c7c55",
+   "title": "Modeling the Influence of Generative AI Writing Tools on Academic Integrity and Writing Proficiency in Higher Education: A Structural Equation Modeling Approach",
+   "venue": "Research Journal for Social Affairs",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://rjsaonline.com/journals/index.php/rjsa/article/download/655/826",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.71317/rjsa.003.06.0655?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.71317/rjsa.003.06.0655, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-26",
+   "authors": [
+    {
+     "authorId": "40881993",
+     "name": "Omar J. Alkhatib"
+    },
+    {
+     "authorId": "2406574631",
+     "name": "Sadaf Raja"
+    },
+    {
+     "authorId": "2469769258",
+     "name": "Asadullah"
+    }
+   ],
+   "abstract": "The integration of Generative AI writing tools in higher education has transformed the landscape of academic writing, presenting both opportunities and challenges for teachers and students. This study examines the effect of the GenAI writing tools on the academic integrity and the writing proficiency of students using a quantitative cross-sectional survey design. The study targeted undergraduate students in Punjab, Pakistan, utilizing a stratified purposive sampling strategy to select 400 participants from six representative universities (three public and three private). All participants were active users of GenAI tools such as ChatGPT, Grammarly, QuillBot and Google Gemini. Data were analyzed using descriptive statistics, correlation analysis, and structural equation modeling (SEM). The findings reveal a complex dynamic: while GenAI tools significantly enhance writing proficiency, they simultaneously exert a negative influence on academic integrity. Furthermore, the results demonstrate that writing proficiency plays a crucial mediating role; students with higher writing proficiency demonstrate more strategic and ethical applications of GenAI tools. This study provokes the need of such a pedagogical intervention that would maintain the balance between technological assistance and the development of academic integrity and critical writing skills. These results provide practical approaches to integrating GenAI tools while protecting the academic integrity, forming the basis for future policy proposals in higher education."
+  },
+  {
+   "paperId": "e5148e92d74dc1f2c0aa59282aa8d83f4a1b9221",
+   "externalIds": {
+    "DOI": "10.1186/s41239-024-00453-6",
+    "CorpusId": 268667678
+   },
+   "url": "https://www.semanticscholar.org/paper/e5148e92d74dc1f2c0aa59282aa8d83f4a1b9221",
+   "title": "Generative AI and the future of higher education: a threat to academic integrity or reformation? Evidence from multicultural perspectives",
+   "venue": "International Journal of Educational Technology in Higher Education",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1186/s41239-024-00453-6.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s41239-024-00453-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s41239-024-00453-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2024-03-25",
+   "authors": [
+    {
+     "authorId": "2125901210",
+     "name": "A. Yusuf"
+    },
+    {
+     "authorId": "79587760",
+     "name": "Nasrin Pervin"
+    },
+    {
+     "authorId": "1387447295",
+     "name": "Marcos Román-González"
+    }
+   ],
+   "abstract": "In recent years, higher education (HE) globally has witnessed extensive adoption of technology, particularly in teaching and research. The emergence of generative Artificial Intelligence (GenAI) further accelerates this trend. However, the increasing sophistication of GenAI tools has raised concerns about their potential to automate teaching and research processes. Despite widespread research on GenAI in various fields, there is a lack of multicultural perspectives on its impact and concerns in HE. This study addresses this gap by examining the usage, benefits, and concerns of GenAI in higher education from a multicultural standpoint. We employed an online survey that collected responses from 1217 participants across 76 countries, encompassing a broad range of gender categories, academic disciplines, geographical locations, and cultural orientations. Our findings revealed a high level of awareness and familiarity with GenAI tools among respondents. A significant portion had prior experience and expressed the intention to continue using these tools, primarily for information retrieval and text paraphrasing. The study emphasizes the importance of GenAI integration in higher education, highlighting both its potential benefits and concerns. Notably, there is a strong correlation between cultural dimensions and respondents’ views on the benefits and concerns related to GenAI, including its potential as academic dishonesty and the need for ethical guidelines. We, therefore, argued that responsible use of GenAI tools can enhance learning processes, but addressing concerns may require robust policies that are responsive to cultural expectations. We discussed the findings and offered recommendations for researchers, educators, and policymakers, aiming to promote the ethical and effective integration of GenAI tools in higher education."
+  },
+  {
+   "paperId": "81f9b4d3b33e4f39bc0086144865a4e6984602fa",
+   "externalIds": {
+    "DOI": "10.1007/s10805-025-09607-1",
+    "CorpusId": 276368937
+   },
+   "url": "https://www.semanticscholar.org/paper/81f9b4d3b33e4f39bc0086144865a4e6984602fa",
+   "title": "The Use of Generative AI Tools in Higher Education: Ethical and Pedagogical Principles",
+   "venue": "Journal of Academic Ethics",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2139/ssrn.5003394",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10805-025-09607-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10805-025-09607-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-02-14",
+   "authors": [
+    {
+     "authorId": "2344061279",
+     "name": "Khoa Nguyen"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "686fc1631cf4c0b2e14aba22de07a8d93347d237",
+   "externalIds": {
+    "DOI": "10.3390/educsci15020214",
+    "CorpusId": 276275084
+   },
+   "url": "https://www.semanticscholar.org/paper/686fc1631cf4c0b2e14aba22de07a8d93347d237",
+   "title": "Generative AI Tools in Salvadoran Higher Education: Balancing Equity, Ethics, and Knowledge Management in the Global South",
+   "venue": "Education sciences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/educsci15020214",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/educsci15020214?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/educsci15020214, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-02-10",
+   "authors": [
+    {
+     "authorId": "2344913483",
+     "name": "Tizziana Valdivieso"
+    },
+    {
+     "authorId": "2052455901",
+     "name": "O. González"
+    }
+   ],
+   "abstract": "The integration of generative artificial intelligence (GAI) tools in higher education offers new opportunities for personalized learning, critical thinking, and digital literacy. However, socio-economic disparities and ethical concerns present significant challenges to equitable and responsible GAI use, particularly in under-resourced educational settings. This mixed-methods study explored how undergraduate students at Universidad Centroamericana José Simeón Cañas (UCA) in El Salvador engage with GAI tools, focusing on patterns of access, usage, and the socio-economic and ethical factors shaping these interactions. A quantitative survey of 365 students and qualitative focus groups with 25 participants were conducted to examine device preferences, tool usage, and concerns related to academic integrity, data privacy, and responsible AI use. Results revealed significant socio-economic disparities in access to GAI tools, with students from lower-income backgrounds primarily using smartphones and free AI tools, while higher-income students reported greater access to laptops and premium features. Ethical concerns were more prominent among students with limited institutional support, highlighting the need for structured guidance on the responsible use of GAI tools. These findings underscore the importance of institutional policies that promote equitable access to educational technologies and provide ethical frameworks for their use. By integrating socio-constructivist and connectivist learning theories, this study emphasizes that equitable access and guided support are critical for maximizing the educational potential of GAI tools. The study contributes to ongoing discussions about how higher education institutions, particularly in the Global South, can responsibly and effectively integrate AI technologies to support diverse student populations."
+  },
+  {
+   "paperId": "04251aec39a34bf734c33b1a591f3700d10300a0",
+   "externalIds": {
+    "DOI": "10.48175/ijarsct-37626",
+    "CorpusId": 290021287
+   },
+   "url": "https://www.semanticscholar.org/paper/04251aec39a34bf734c33b1a591f3700d10300a0",
+   "title": "Generative AI and Academic Integrity in Higher Education: Challenges and Future Directions",
+   "venue": "International Journal of Advanced Research in Science, Communication and Technology",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.48175/ijarsct-37626",
+    "status": "GOLD",
+    "license": "other-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.48175/ijarsct-37626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48175/ijarsct-37626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-07-08",
+   "authors": [
+    {
+     "authorId": "2539817837",
+     "name": "S. G. G. Purushothaman"
+    },
+    {
+     "authorId": "2540372553",
+     "name": "Thanga Kumaran M. Saurabh Jaiswal"
+    }
+   ],
+   "abstract": "The public release of ChatGPT in late 2022, and the wave of generative artificial intelligence (GenAI) tools that followed it, has unsettled long-standing assumptions about how learning is demonstrated and assessed in higher education. Essays, reports, code, and even reflective writing can now be produced in seconds by systems whose output is fluent, personalised, and largely indistinguishable from student work. This paper examines the resulting collision between GenAI and academic integrity from a governance and assurance perspective. Drawing on the rapidly growing literature published since 2022, it maps the principal challenges facing institutions: the unreliability and demonstrated bias of AI-text detection tools, the erosion of assessment validity, widening equity gaps, fragmented and reactive policy, limited faculty capacity, and the contamination of scholarly work by fabricated references and hallucinated content. The paper argues that detection-centred enforcement is a structurally weak control and proposes instead a layered institutional framework in which policy and governance, pedagogy and assessment redesign, and technology-based assurance operate as mutually reinforcing controls, sustained by a continuous audit and improvement cycle. Future directions are discussed, including two-lane assessment models, AI literacy as a graduate attribute, provenance and watermarking infrastructure, and the emergence of academic integrity as an auditable domain of institutional risk management"
+  },
+  {
+   "paperId": "f7ca7259cb50defa577bfa033abb2aa84c4c28d1",
+   "externalIds": {
+    "DBLP": "journals/informatics/DericFV25",
+    "DOI": "10.3390/informatics12020036",
+    "CorpusId": 277670996
+   },
+   "url": "https://www.semanticscholar.org/paper/f7ca7259cb50defa577bfa033abb2aa84c4c28d1",
+   "title": "Exploring the Ethical Implications of Using Generative AI Tools in Higher Education",
+   "venue": "Informatics",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2227-9709/12/2/36/pdf?version=1744027792",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/informatics12020036?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/informatics12020036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-04-07",
+   "authors": [
+    {
+     "authorId": "2286910265",
+     "name": "Elena Deric"
+    },
+    {
+     "authorId": "2283154951",
+     "name": "D. Frank"
+    },
+    {
+     "authorId": "31598467",
+     "name": "D. Vuković"
+    }
+   ],
+   "abstract": "A significant portion of the academic community, including students, teachers, and researchers, has incorporated generative artificial intelligence (GenAI) tools into their everyday tasks. Alongside increased productivity and numerous benefits, specific challenges that are fundamental to maintaining academic integrity and excellence must be addressed. This paper examines whether ethical implications related to copyrights and authorship, transparency, responsibility, and academic integrity influence the usage of GenAI tools in higher education, with emphasis on differences across academic segments. The findings, based on a survey of 883 students, teachers, and researchers at University North in Croatia, reveal significant differences in ethical awareness across academic roles, gender, and experience with GenAI tools. Teachers and researchers demonstrated the highest awareness of ethical principles, personal responsibility, and potential negative consequences, while students—particularly undergraduates—showed lower levels, likely due to limited exposure to structured ethical training. Gender differences were also significant, with females consistently demonstrating higher awareness across all ethical dimensions compared to males. Longer experience with GenAI tools was associated with greater ethical awareness, emphasizing the role of familiarity in fostering understanding. Although strong correlations were observed between ethical dimensions, their connection to future adoption was weaker, highlighting the need to integrate ethical education with practical strategies for responsible GenAI tool use."
+  },
+  {
+   "paperId": "440102e25173f08ceae2b7ef2561bc8736de3b1b",
+   "externalIds": {
+    "DOI": "10.1007/s10805-025-09613-3",
+    "CorpusId": 277200824
+   },
+   "url": "https://www.semanticscholar.org/paper/440102e25173f08ceae2b7ef2561bc8736de3b1b",
+   "title": "AI and Academic Integrity: Exploring Student Perceptions and Implications for Higher Education",
+   "venue": "Journal of Academic Ethics",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://hal.science/hal-05063030",
+    "status": "GREEN",
+    "license": "other-oa",
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10805-025-09613-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10805-025-09613-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-20",
+   "authors": [
+    {
+     "authorId": "66673215",
+     "name": "Brady D. Lund"
+    },
+    {
+     "authorId": "2326126295",
+     "name": "T. Lee"
+    },
+    {
+     "authorId": "2212887866",
+     "name": "N. R. Mannuru"
+    },
+    {
+     "authorId": "2326686959",
+     "name": "Nikhila Arutla"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "460b284defe09dabd76637a8b1640c663d31112d",
+   "externalIds": {
+    "DOI": "10.65638/2978-5634.2025.01.04",
+    "CorpusId": 284120333
+   },
+   "url": "https://www.semanticscholar.org/paper/460b284defe09dabd76637a8b1640c663d31112d",
+   "title": "AI-Generated Content and Academic Integrity in Higher Education: Challenges and Solutions",
+   "venue": "Journal of Teaching Innovation and Reform",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.65638/2978-5634.2025.01.04?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.65638/2978-5634.2025.01.04, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-07-28",
+   "authors": [
+    {
+     "authorId": "2005105071",
+     "name": "Dena Kadhim Muhsen"
+    },
+    {
+     "authorId": "2027027745",
+     "name": "Bushra Fuaad Khmas"
+    }
+   ],
+   "abstract": "The advent of Generative AI (GenAI) tools like ChatGPT and Google Bard has transformed academic content creation, offering both opportunities and risks. While useful for learning and productivity, misuse raises concerns about academic integrity. This study explores the implications of AI-generated content in higher education, combining literature review and a Python-based detection tool. Using NLP techniques perplexity scoring, stylometry, and transformer classifiers the hybrid model achieved 88% accuracy in identifying AI-written texts. Results show AI content can meet academic standards, especially for lower-order cognitive tasks, challenging traditional evaluation methods. The paper also addresses ethical concerns, limitations of detection tools, and the need for clear institutional policies. Recommendations include integrating AI-use guidelines, educator training, and promoting digital ethics among students. The findings underscore the urgency for proactive, policy-driven responses to safeguard the authenticity of academic achievement in the age of intelligent systems."
+  },
+  {
+   "paperId": "a4b3eb5fad33ab889af5e37244ba9fe4f7e6f2c8",
+   "externalIds": {
+    "DOI": "10.22364/htqe.2025.25",
+    "CorpusId": 282979405
+   },
+   "url": "https://www.semanticscholar.org/paper/a4b3eb5fad33ab889af5e37244ba9fe4f7e6f2c8",
+   "title": "Academic Integrity and Generative AI Research for Higher Education: A Systematic Literature Review",
+   "venue": "Human, Technologies and Quality of Education, 2025",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.apgads.lu.lv/fileadmin/user_upload/lu_portal/apgads/PDF/HTQE-2025/htqe.2025.25_matjola.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22364/htqe.2025.25?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22364/htqe.2025.25, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2025-11-01",
+   "authors": [
+    {
+     "authorId": "2392177778",
+     "name": "Ieva Matjola"
+    }
+   ],
+   "abstract": "Since the spring of 2023, when generative AI (GenAI) tools became available to the public and their use became widespread, the question of academic integrity in educational processes has been raised. GenAI has created conditions in which new situations arise at higher education levels (and eventually at other levels of education), and teaching and learning, as well as assessment, can be carried out with the help of GenAI. This review offers a detailed insight into the current research landscape and outlines future research needs to promote academic integrity and the ethical use of GenAI in higher education. By assessing articles published in 2023–2025 and indexed in the Web of Science and Scopus databases, the review identifies the methods, research designs, and samples used, summarises the main directions for potential future research, and identifies research gaps. The systematic literature review identifies the qualitative, quantitative, and mixed methods used in the study, such as interviews, surveys, case studies, and experimental designs. Study samples typically included students and academic staff, but often lacked cross-cultural perspectives and studies that explored academic integrity issues in depth. Research gaps were also identified, such as insufficient attention to the specificities of different disciplines and the long-term impact of GenAI technology."
+  },
+  {
+   "paperId": "355147d871bd3e05c62104efb4f63f294b27ec82",
+   "externalIds": {
+    "DOI": "10.59429/esp.v9i9.2927",
+    "CorpusId": 273524625
+   },
+   "url": "https://www.semanticscholar.org/paper/355147d871bd3e05c62104efb4f63f294b27ec82",
+   "title": "Discourse analysis on academic integrity generative AI: Perspectives from science and mathematics students in higher education",
+   "venue": "Environment and Social Psychology",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.59429/esp.v9i9.2927",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59429/esp.v9i9.2927?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59429/esp.v9i9.2927, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-10-21",
+   "authors": [
+    {
+     "authorId": "2327144929",
+     "name": "Aldrex A. Barrientos"
+    },
+    {
+     "authorId": "2492506264",
+     "name": "Mercibelle A. Del Mundo"
+    },
+    {
+     "authorId": "104011340",
+     "name": "Hermie V. Inoferio"
+    },
+    {
+     "authorId": "2327142860",
+     "name": "Mardiya A. Adjid"
+    },
+    {
+     "authorId": "2327138640",
+     "name": "Hilda B. Hajan"
+    },
+    {
+     "authorId": "2327142138",
+     "name": "Myrna M. Ullong"
+    },
+    {
+     "authorId": "2327138632",
+     "name": "Devie Ruth S. Alih"
+    },
+    {
+     "authorId": "2305391019",
+     "name": "Benjamar P. Abdulmajid"
+    },
+    {
+     "authorId": "2305390954",
+     "name": "Marcelino M. Espartero"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI) has significantly influenced the current educational system, offering various benefits to teachers and students. However, the integration of AI in education also poses challenges, particularly in maintaining academic integrity. This study investigates the perspectives of 24 science and mathematics students on the impact of Generative AI (GAI) on academic integrity, a core principle in higher education. Using an exploratory design, the findings reveal a dual perspective: GAI can enhance learning and research by providing advanced tools and resources, yet it also risks undermining ethical standards if misused. The study highlights the importance of balancing technological advancements with the maintenance of academic integrity, emphasizing the need for responsible AI usage and the development of policies to mitigate potential negative impacts. Further research is needed to explore the impact of GAI on academic integrity across different disciplines and educational contexts."
+  },
+  {
+   "paperId": "dfe761ff3c30a584b071dd265b3599f40f71176a",
+   "externalIds": {
+    "DOI": "10.11648/j.eas.20261101.11",
+    "CorpusId": 284885925
+   },
+   "url": "https://www.semanticscholar.org/paper/dfe761ff3c30a584b071dd265b3599f40f71176a",
+   "title": "Adoption of Generative AI and Learning Analytics for Personalized Learning in Nigerian Higher Education: Effects on Student Engagement, Learning Outcomes, and Academic Integrity",
+   "venue": "Engineering and Applied Sciences",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "http://article.sciencepg.com/pdf/j.eas.20261101.11",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11648/j.eas.20261101.11?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11648/j.eas.20261101.11, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-01-16",
+   "authors": [
+    {
+     "authorId": "2405697749",
+     "name": "Ayonote Elenode"
+    }
+   ],
+   "abstract": "This study examines the integration of generative artificial intelligence (GenAI) and learning analytics (LA) in fostering personalized learning within Nigerian higher education institutions. Specifically, it explores how these emerging technologies influence student engagement, academic performance, and perceptions of academic integrity in digitally mediated learning environments. A mixed-method research design was adopted, involving 420 undergraduate students and 60 academic staff drawn from three Nigerian universities. Quantitative data were collected through structured questionnaires assessing GenAI usage patterns, learning analytics engagement, levels of digital literacy, and integrity perceptions, while qualitative insights were obtained from semi-structured interviews with academic staff and information and communication technology (ICT) administrators. The findings reveal that 64% of respondents actively use GenAI tools such as ChatGPT and Gemini to support learning activities, while 58% regularly access learning analytics dashboards for performance monitoring and feedback. Regression analysis indicates that GenAI-assisted learning and engagement with learning analytics jointly predict improved academic performance (β = 0.36, p < 0.01) and higher levels of student engagement (β = 0.42, p < 0.001). However, the study also finds that unregulated use of GenAI tools is positively associated with increased concerns about plagiarism and academic misconduct (r = 0.31, p < 0.05). The study concludes that the pedagogically guided integration of GenAI and learning analytics can significantly enhance personalized learning experiences in Nigerian higher education. Nevertheless, this potential can only be realized through the development of robust governance frameworks that emphasize ethical use, digital literacy, academic integrity, and data privacy. The study therefore recommends targeted capacity-building for educators, the establishment of transparent institutional AI policies, and continuous evaluation of the pedagogical impact of GenAI technologies."
+  },
+  {
+   "paperId": "4dfd0991ae6de72fba5f12d5c0fb53337eb22810",
+   "externalIds": {
+    "DOI": "10.1109/ICISS71466.2026.11715209",
+    "CorpusId": 292567504
+   },
+   "url": "https://www.semanticscholar.org/paper/4dfd0991ae6de72fba5f12d5c0fb53337eb22810",
+   "title": "Moral-Technical Relationship: A Structural Analysis of Trust and Academic Integrity as Predictors of Generative AI Adoption in Higher Education",
+   "venue": "International Conferences on Information Science and System",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/iciss71466.2026.11715209",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICISS71466.2026.11715209?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICISS71466.2026.11715209, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2026-08-01",
+   "authors": [
+    {
+     "authorId": "2326232878",
+     "name": "M. Naufal"
+    },
+    {
+     "authorId": "2260020235",
+     "name": "A. Mailangkay"
+    }
+   ],
+   "abstract": "Generative AI has become a powerful tool in higher education, helping students and researchers work more efficiently. However, this rapid adoption raises important questions about how users view AI ethics and trust. This study investigates what actually drives AI adoption among students, researchers, and lecturers in Indonesia, using an extended version of the UTAUT2 model. Based on 250 survey responses analyzed using PLS-SEM, the model successfully explains 27.8% of the variance in users' intention to adopt AI tools. The results show that Performance Expectancy, Effort Expectancy, Social Influence, and Moral Obligation significantly influence AI adoption. In contrast, Trust and Perceived Ethics were found to be non-significant factors. These findings indicate that the academic community in Indonesia currently has a 'utility-first' mindset: users prioritize how useful and easy the AI is for their immediate tasks, rather than focusing on the ethical risks or the trustworthiness of the system. This highlights a critical need for universities to provide stronger ethical training and guidelines as AI usage continues to grow"
+  },
+  {
+   "paperId": "f3af8b9db2aa2f21df307dc08f9d7c1e0a85ee08",
+   "externalIds": {
+    "DOI": "10.15662/ijrai.2025.0806024",
+    "CorpusId": 291478241
+   },
+   "url": "https://www.semanticscholar.org/paper/f3af8b9db2aa2f21df307dc08f9d7c1e0a85ee08",
+   "title": "Generative Artificial Intelligence and Academic Integrity: A Conceptual Framework for Responsible AI Integration in Higher Education",
+   "venue": "International journal of research and applied innovations",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.15662/ijrai.2025.0805024",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15662/ijrai.2025.0806024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15662/ijrai.2025.0806024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-22",
+   "authors": [
+    {
+     "authorId": "2467781816",
+     "name": "Nikolas James Vann"
+    }
+   ],
+   "abstract": "The rapid adoption of generative artificial intelligence (GenAI) has created significant opportunities and\nchallenges for higher education. Tools capable of generating text, code, images, analyses, and other academic content\ncan enhance personalized learning, provide immediate feedback, support research, and improve educational\naccessibility. At the same time, their growing use has intensified concerns regarding academic integrity, authorship,\nplagiarism, assessment validity, misinformation, overreliance on AI, and the authenticity of student learning.\nTraditional academic integrity frameworks, which were largely developed around conventional forms of plagiarism and\nunauthorized assistance, may therefore be insufficient for educational environments in which human and AI\ncontributions increasingly overlap. This study develops a conceptual framework for responsible GenAI integration in\nhigher education by synthesizing multidisciplinary literature available through December 2024. The framework\nintegrates institutional AI governance, academic integrity policies, AI literacy, faculty preparedness, assessment\npractices, transparency, and human oversight as interconnected dimensions of responsible adoption. The study argues\nthat higher education institutions should move beyond approaches centered primarily on prohibition and AI-content\ndetection toward governance models that establish clear boundaries for acceptable AI assistance while preserving\nhuman intellectual engagement and academic accountability. The proposed framework positions responsible AI\nintegration as a balance between technological innovation and educational integrity, with institutional governance\nproviding strategic direction, AI literacy enabling informed use, assessment practices protecting authentic learning, and\ntransparency and human oversight strengthening accountability. The study contributes to emerging scholarship on\nGenAI in higher education by providing an institution-oriented framework for integrating AI while protecting academic\nstandards, educational quality, and stakeholder trust"
+  },
+  {
+   "paperId": "46c102f424563d1bf686e59b706de61dd5503a2c",
+   "externalIds": {
+    "DOI": "10.29333/jdet/19285",
+    "CorpusId": 292242502
+   },
+   "url": "https://www.semanticscholar.org/paper/46c102f424563d1bf686e59b706de61dd5503a2c",
+   "title": "Student engagement with generative AI in Greek higher education: Use patterns and academic integrity concerns",
+   "venue": "Journal of Digital Educational Technology",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://www.jdet.net/download/student-engagement-with-generative-ai-in-greek-higher-education-use-patterns-and-academic-integrity-19285.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29333/jdet/19285?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29333/jdet/19285, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-09-19",
+   "authors": [
+    {
+     "authorId": "66676866",
+     "name": "Christos Zagkos"
+    },
+    {
+     "authorId": "3238374",
+     "name": "Argyris Kyridis"
+    },
+    {
+     "authorId": "114633884",
+     "name": "I. Kamarianos"
+    },
+    {
+     "authorId": "118050606",
+     "name": "C. Tourtouras"
+    },
+    {
+     "authorId": "2341560725",
+     "name": "Georgios Ladias"
+    },
+    {
+     "authorId": "2502477115",
+     "name": "Angeliki Kyridi"
+    }
+   ],
+   "abstract": "This study explores how undergraduate students in Greek public universities engage with generative AI tools for academic purposes and how such use relates to perceptions of reliability, ethical concerns, and academic integrity. Although interest in AI in higher education has grown rapidly, empirical evidence from non-Anglophone European systems, and from Greece in particular, remains scarce, leaving an evidence gap that this study addresses. Data were collected from 442 students across five institutions using an original questionnaire with demonstrated content validity and high internal consistency. Results indicate moderate but growing use of AI, primarily for comprehension support, problem-solving, and information retrieval. While students recognise the functional benefits of AI, they express reservations about its reliability and strong concerns regarding its potential to facilitate academic misconduct, including plagiarism. Correlational and regression analyses suggest that increased use of AI coexists with, rather than diminishes, ethical awareness. Cluster analysis identifies distinct user profiles, reflecting varying levels of engagement and ethical sensitivity. Overall, the findings highlight the dual role of generative AI as both a learning aid and a challenge to academic integrity, underscoring the need for institutional guidelines and ethical frameworks."
+  },
+  {
+   "paperId": "a75cc22aa6230005cbf61ca50c29d36dd98e92fb",
+   "externalIds": {
+    "DOI": "10.52562/jdle.2026.1968",
+    "CorpusId": 295604064
+   },
+   "url": "https://www.semanticscholar.org/paper/a75cc22aa6230005cbf61ca50c29d36dd98e92fb",
+   "title": "Generative AI and Academic Integrity in Philippine Higher Education: A Documentary Analysis of Institutional Policy Mechanisms",
+   "venue": "Journal of Digital Learning and Education",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://journal.moripublishing.com/index.php/jdle/article/download/1968/789",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52562/jdle.2026.1968?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52562/jdle.2026.1968, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-08-28",
+   "authors": [
+    {
+     "authorId": "2526927188",
+     "name": "Kelvin Rufin"
+    },
+    {
+     "authorId": "2526935484",
+     "name": "Joana Melissa Dungog"
+    },
+    {
+     "authorId": "2568745142",
+     "name": "Sheena Mae De Vera"
+    },
+    {
+     "authorId": "2298548239",
+     "name": "Felmark Levara"
+    },
+    {
+     "authorId": "121896199",
+     "name": "G. Lagura"
+    }
+   ],
+   "abstract": "Philippine universities have issued guidance on generative artificial intelligence (GenAI) since 2023, but comparisons of what the adopted texts require remain limited. This documentary analysis examined seven institutional policies and three scholarly or advisory proposals located through database and website searches between September and December 2025 and re-read on 3 November 2026. A codebook of 19 provisions, organised under Chan's governance, pedagogical and operational dimensions, was applied to each document. All seven policies name institutional values and require attribution of GenAI use, and six ask for student or course-level declarations. Four redesign or restrict assessment, three limit the weight of detector evidence, and three name a responsible body. No re-read policy bans GenAI outright. Institutions can pair declarations with structural assessment changes, written evidence standards for detection tools, and a review cycle."
+  },
+  {
+   "paperId": "cc938703a9737b95e0418ac1199b543dc4e1cc4c",
+   "externalIds": {
+    "DOI": "10.34190/ecel.23.1.3090",
+    "CorpusId": 273611217
+   },
+   "url": "https://www.semanticscholar.org/paper/cc938703a9737b95e0418ac1199b543dc4e1cc4c",
+   "title": "Generative AI in Higher Education: Educators' Perspectives on Academic Learning and Integrity",
+   "venue": "European Conference on e-Learning",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://papers.academic-conferences.org/index.php/ecel/article/download/3090/2705",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.34190/ecel.23.1.3090?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.34190/ecel.23.1.3090, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": "2024-10-23",
+   "authors": [
+    {
+     "authorId": "2388376772",
+     "name": "Naghmeh Aghaee"
+    },
+    {
+     "authorId": "2327650935",
+     "name": "John Vrågård"
+    },
+    {
+     "authorId": "2327673093",
+     "name": "Freddie Brorsson"
+    }
+   ],
+   "abstract": "Generative Artificial Intelligence (Gen AI), exemplified by models such as ChatGPT, has rapidly advanced, becoming a significant force in various sectors, including higher education. ChatGPT, a leading application of Gen AI, utilizes large language models (LLMs) to generate human-like text, providing capabilities that range from answering complex questions to facilitating software development. As these tools become increasingly integrated into academic environments, their impact on teaching and learning processes has become more under focus. However, there are not many studies focusing on the impact of such systems on students’ performance and the use of such systems. This study therefore examines the impact of GPT tools on higher education, aiming to address the following research questions: How does the use of GPTs influence the teaching and learning process in higher education? What are the perceived impacts of GPTs on educational practices from university educators’ perspective? The research employs a qualitative methodology, incorporating semi-structured interviews with educators from Swedish universities who have integrated GPT into their curricula. Data were transcribed and analysed using OpenAI's Whisper to extract key themes and insights. Data analysis was done through thematic analysis and categorizing the data using codes. The study uncovers a dual impact of GPT on education, while it offers substantial opportunities for enhancing productivity and personalized learning, it also raises significant concerns about academic integrity, over-reliance on AI, and the potential influences on students’ soft skills. These findings contribute to the discourse on digital learning by highlighting the need for instructional and constructive integration of AI technologies such as GenAI, in educational settings. In addition, the rise and integration of GPT technology is irreversible, and we must adapt to it rather than return to old ways. Embracing AI's potential while addressing its challenges is essential for progress and innovation in this new era. The study emphasizes the importance of developing clear policies and guidelines to ensure that the benefits of GPT are realized without compromising the integrity of the educational process. As such, this research provides valuable insights for educators, policymakers, and scholars interested in the ethical and effective implementation of AI in higher education"
+  },
+  {
+   "paperId": "4bae71ebb40bb6e36ba583a3f03f796d2669e228",
+   "externalIds": {
+    "DBLP": "journals/information/IlievaYRK25",
+    "DOI": "10.3390/info16060472",
+    "CorpusId": 279139826
+   },
+   "url": "https://www.semanticscholar.org/paper/4bae71ebb40bb6e36ba583a3f03f796d2669e228",
+   "title": "A Framework for Generative AI-Driven Assessment in Higher Education",
+   "venue": "Inf.",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2078-2489/16/6/472/pdf?version=1748958815",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/info16060472?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/info16060472, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-03",
+   "authors": [
+    {
+     "authorId": "145533303",
+     "name": "Galina Ilieva"
+    },
+    {
+     "authorId": "144935864",
+     "name": "Tania Yankova"
+    },
+    {
+     "authorId": "2291230787",
+     "name": "M. Ruseva"
+    },
+    {
+     "authorId": "104152764",
+     "name": "S. Kabaivanov"
+    }
+   ],
+   "abstract": "The rapid integration of generative artificial intelligence (AI) into educational environments raises both opportunities and concerns regarding assessment design, academic integrity, and quality assurance. While new generation AI tools offer new modes of interactivity, feedback, and content generation, their use in assessment remains insufficiently pedagogically framed and regulated. In this study, we propose a new framework for generative AI-supported assessment in higher education, structured around the needs and responsibilities of three key stakeholders (branches): instructors, students, and control authorities. The framework outlines how teaching staff can design adaptive and AI-informed tasks and provide feedback, how learners can engage with these tools transparently, and how institutional bodies can ensure accountability through compliance standards, policies, and audits. This three-branch multi-level model contributes to the emerging discourse on responsible AI adoption in higher education by offering a holistic approach for integrating AI-based systems into assessment practices while safeguarding academic values and quality."
+  },
+  {
+   "paperId": "b8d5779262f3f669df993449f0ad76dbcc694693",
+   "externalIds": {
+    "DOI": "10.1007/s10805-026-09752-1",
+    "CorpusId": 289307125
+   },
+   "url": "https://www.semanticscholar.org/paper/b8d5779262f3f669df993449f0ad76dbcc694693",
+   "title": "Academic Integrity in the Age of Generative AI: a Scoping Review of Research on Higher Education Student Voices",
+   "venue": "Journal of Academic Ethics",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1007/s10805-026-09752-1",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10805-026-09752-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10805-026-09752-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-06-17",
+   "authors": [
+    {
+     "authorId": "2238684008",
+     "name": "J. Ying"
+    }
+   ],
+   "abstract": "As GenAI tools become readily accessible and increasingly integrated into higher education teaching, learning, and assessment, significant concerns and debates have emerged about their implications for academic integrity. In this context, recent years have witnessed a rapidly expanding field of research on higher education student experiences, perceptions, attitudes, beliefs, concerns, or practices related to academic integrity in the use of GenAI. This scoping review maps this field by analysing 38 empirical studies on student voices on academic integrity in the use of GenAI. The review reveals a complex, dynamic landscape of student understandings, attitudes, perceptions, concerns, and practices regarding academic integrity in the use of GenAI in higher education. Overall, student voices on issues of academic integrity in using GenAI reveal their struggles, negotiations, and adaptations as they navigate an ethical ‘grey zone’. Students emerge not as passive recipients of GenAI technology or institutional policies, nor as culprits who breach academic integrity without ethical constraints, but as active agents who seek to interpret, adapt, and shape the ethical contours of GenAI use in their studies. Meanwhile, the gaps between students’ ethical awareness and their practices of compromising academic integrity, as well as their rationalisations of these gaps, are notable. Studies also show that student voices are shaped by intersecting demographic, psychological, and contextual factors, highlighting the need for differentiated policies and educational responses that recognise students as partners in developing and implementing policies and educational approaches to address the challenges of academic integrity entailed by GenAI."
+  },
+  {
+   "paperId": "e98825498e7429abeab34329d7d30d167bddb00f",
+   "externalIds": {
+    "DOI": "10.1007/s44217-025-01031-2",
+    "CorpusId": 283759250
+   },
+   "url": "https://www.semanticscholar.org/paper/e98825498e7429abeab34329d7d30d167bddb00f",
+   "title": "Academic integrity in the age of AI: challenges and strategies for African higher education",
+   "venue": "Discover Education",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1007/s44217-025-01031-2",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44217-025-01031-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44217-025-01031-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-08",
+   "authors": [
+    {
+     "authorId": "2154948294",
+     "name": "Ayenew Guadu"
+    },
+    {
+     "authorId": "1584433129",
+     "name": "Dawit Dibekulu"
+    },
+    {
+     "authorId": "120512814",
+     "name": "A. Menberu"
+    }
+   ],
+   "abstract": "The rise of generative artificial intelligence (AI) tools such as ChatGPT, Jasper, and QuillBot is profoundly reshaping academic practices globally, raising urgent questions about authorship, originality, and academic integrity. These challenges are particularly complex within African universities, where systemic inequalities ranging from digital illiteracy and resource constraints to policy gaps and diverse cultural understandings of authorship exacerbate the risks of AI-driven plagiarism. This systematic conceptual review critically examines the evolving nature of plagiarism in the AI era and its implications for African higher education. Through a multidisciplinary analysis drawing on real-world case studies, pedagogical and policy challenges, and regional ethical considerations, the review argues that AI-assisted academic misconduct cannot be addressed through detection technologies alone. Instead, a context-sensitive approach is needed one that blends ethical guidance, institutional reform, AI literacy, and regional collaboration. The review concludes with strategies and recommendations aimed at fostering a continental academic ethic that promotes both innovation and integrity in the age of AI, while acknowledging limitations such as reliance on qualitative literature and limited empirical data from African contexts."
+  },
+  {
+   "paperId": "bb340926d919112ff0e37ee9dc8887ac55e0f1d0",
+   "externalIds": {
+    "DOI": "10.70670/sra.v4i1.1865",
+    "CorpusId": 287061773
+   },
+   "url": "https://www.semanticscholar.org/paper/bb340926d919112ff0e37ee9dc8887ac55e0f1d0",
+   "title": "Impact of Generative Artificial Intelligence (ChatGPT) on Students’ Critical Thinking Skills and Academic Integrity in Higher Education",
+   "venue": "Social Science Review Archives",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://policyjournalofms.com/index.php/6/article/download/1865/1815",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70670/sra.v4i1.1865?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70670/sra.v4i1.1865, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-03-24",
+   "authors": [
+    {
+     "authorId": "2427335614",
+     "name": "Seemeen Umar Khan Yousufzai"
+    },
+    {
+     "authorId": "120333521",
+     "name": "Zunaira Faraz"
+    },
+    {
+     "authorId": "2550202009",
+     "name": "Muhammad Junaid Abbad"
+    },
+    {
+     "authorId": "143979982",
+     "name": "Syed Shahab Ali Shah"
+    }
+   ],
+   "abstract": "Generative Artificial Intelligence (AI) tools, such as ChatGPT, are increasingly integrated into higher education. While these tools offer convenience and learning support, concerns exist regarding their impact on students’ critical thinking skills and academic integrity. This study investigates the influence of ChatGPT usage on university students’ cognitive and ethical outcomes, focusing on critical thinking and adherence to academic integrity. A quantitative research design was employed, surveying 250 undergraduate and postgraduate students. Data were collected using a structured Likert-scale questionnaire covering ChatGPT usage, critical thinking, and academic integrity. Reliability was confirmed via Cronbach’s alpha, and analyses included descriptive statistics, correlation, regression, and comparative analyses using SPSS and R software. Findings indicate that most students engage moderately with ChatGPT. Critical thinking skills were moderately developed, whereas academic integrity remained high overall. Regression analysis revealed a significant negative relationship between ChatGPT usage and both critical thinking (β = -0.32) and academic integrity (β = -0.28). Comparative analyses showed no significant differences across gender or academic level. While ChatGPT can enhance learning efficiency, excessive reliance may adversely affect cognitive and ethical outcomes. Educators and institutions should implement structured guidelines, AI literacy programs, and pedagogical strategies to promote responsible usage."
+  }
+ ]
+}

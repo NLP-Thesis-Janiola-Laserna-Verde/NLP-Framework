@@ -1,0 +1,1140 @@
+{
+ "query": "Algorithmic bias and fairness in machine learning systems",
+ "retrieved_at": "2026-11-18T17:46:59.440498+00:00",
+ "data": [
+  {
+   "DOI": "10.1148/ryai.09292023.podcast",
+   "title": [
+    "Algorithmic Fairness in Machine Learning"
+   ],
+   "container-title": [
+    "Radiology: Artificial Intelligence"
+   ],
+   "publisher": "Radiological Society of North America (RSNA)",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      29
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1148/ryai.09292023.podcast"
+  },
+  {
+   "publisher": "openRxiv",
+   "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>As machine learning-based models continue to be developed for healthcare applications, greater effort is needed in ensuring that these technologies do not reflect or exacerbate any unwanted or discriminatory biases that may be present in the data. In this study, we introduce a reinforcement learning framework capable of mitigating biases that may have been acquired during data collection. In particular, we evaluated our model for the task of rapidly predicting COVID-19 for patients presenting to hospital emergency departments, and aimed to mitigate any site-specific (hospital) and ethnicity-based biases present in the data. Using a specialized reward function and training procedure, we show that our method achieves clinically-effective screening performances, while significantly improving outcome fairness compared to current benchmarks and state-of-the-art machine learning methods. We performed external validation across three independent hospitals, and additionally tested our method on a patient ICU discharge status task, demonstrating model generalizability.</jats:p>",
+   "DOI": "10.1101/2022.06.24.22276853",
+   "type": "posted-content",
+   "title": [
+    "Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: A New Utility for Deep Reinforcement Learning"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0352-8452",
+     "authenticated-orcid": false,
+     "given": "Jenny",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2391-5361",
+     "authenticated-orcid": false,
+     "given": "Andrew A. S.",
+     "family": "Soltan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David A.",
+     "family": "Clifton",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      27
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1101/2022.06.24.22276853"
+  },
+  {
+   "DOI": "10.1145/3531146.3534644",
+   "title": [
+    "Data augmentation for fairness-aware machine learning"
+   ],
+   "container-title": [
+    "2022 ACM Conference on Fairness Accountability and Transparency"
+   ],
+   "publisher": "ACM",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      20
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3531146.3534644",
+   "author": [
+    {
+     "given": "Ioannis",
+     "family": "Pastaltzidis",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Information Technologies Institute, Centre for Research and Technology Hellas, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nikolaos",
+     "family": "Dimitriou",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Information Technologies Institute, Centre for Research and Technology Hellas, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Katherine",
+     "family": "Quezada-Tavarez",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Centre for IT and IP Law, KU Leuven, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Stergios",
+     "family": "Aidinlis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Trilateral Research, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thomas",
+     "family": "Marquenie",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Centre for IT and IP Law, KU Leuven, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Agata",
+     "family": "Gurzawska",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Trilateral Research, United Kingdom"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dimitrios",
+     "family": "Tzovaras",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Information Technologies Institute, Centre for Research and Technology Hellas, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/icssa62312.2024.10788666",
+   "title": [
+    "Mitigating Racial Algorithmic Bias in Healthcare Artificial Intelligent Systems: A Fairness-Aware Machine Learning Approach"
+   ],
+   "container-title": [
+    "2024 5th International Conference on Smart Sensors and Application (ICSSA)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      10
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/icssa62312.2024.10788666",
+   "author": [
+    {
+     "given": "Tiffany Meg",
+     "family": "Nyawambi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Strathmore Institute of Mathematical Sciences, Strathmore University,Nairobi,Kenya"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Henry",
+     "family": "Muchiri",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Computing and Engineering Sciences, Strathmore University,Nairobi,Kenya"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Bon View Publishing Pte",
+   "abstract": "<jats:p>Advances in computational infrastructure and the widespread adoption of electronic health record (EHR) systems have accelerated the integration of artificial intelligence (AI) and machine learning (ML) into sexual and reproductive health (SRH) services. These technologies enhance diagnostic accuracy, support clinical decision-making, and enable predictive analytics using diverse healthcare data. However, biases within training datasets can produce unfair outcomes, particularly for underrepresented groups. This study proposes a fairness-aware ML framework designed to detect and mitigate algorithmic bias in SRH services. The framework is evaluated using two open-source datasets: a large SRH dataset from England (2014–2015) containing 2,126,413 records and the PCOS dataset covering the top 75 countries, enabling assessment of generalizability and intersectional fairness. It integrates pre-processing, in-processing, and post-processing techniques, including model-specific and group-specific thresholding. Results show that on the SRH England dataset, logistic regression (LR) achieved near-optimal parity fairness with minimal performance loss, improving disparate impact from 0.99 to 1.00 while maintaining 0.66 accuracy. Random Forest (RF) and Gradient Boosting (GB) exhibited larger fairness shifts, with disparate impact decreasing from 0.94 to 0.66 (RF) and 0.93 to 0.77 (GB), though accuracy remained stable. On the PCOS dataset, LR reduced bias with only a 1.96% accuracy drop, while GB improved performance but saw fairness decline, with disparate impact falling from 1.08 to 0.57. RF improved fairness but experienced a 28% accuracy reduction. Overall, the findings show that fairness-aware ML can substantially reduce bias, though equity–performance trade-offs vary across models and datasets.\n \nReceived: 16 September 2025 | Revised: 21 January 2026 | Accepted: 31 March 2026\n \nConflicts of Interest\nThe authors declare that they have no conflicts of interest to this work.\n \nData Availability Statement\nThe PCOS dataset that support the findings of this study is  openly  available  on  Kaggle at https://www.kaggle.com/datasets/ankushpanday1/pcos-prediction-datasettop-75-countries. The NHS  Sexual  and  Reproductive  Health  (SRH)  Services  England  2014–15  dataset  that  support  the  findings  of this  study is  openly  available  through  NHS  Digital  at  https://digital.nhs. uk/data-and-information/publications/statistical/sexual-and-reproductive-health-services/sexual-and-reproductive-health-servicesengland-2014-15.\n \nAuthor Contribution Statement\nEfosa Osagie: Conceptualization, Methodology, Validation, Formal analysis, Investigation, Writing – original draft, Writing – review &amp; editing, Visualization, Supervision, Project administration. Shemi Ayo-Ogbor: Investigation, Writing – original draft. Rebecca Balasundaram: Investigation, Writing – original draft.</jats:p>",
+   "DOI": "10.47852/bonviewjdsis62027678",
+   "type": "journal-article",
+   "title": [
+    "A Fairness-Aware Machine Learning Framework for Sexual and Reproductive Health: Evaluating Algorithmic Bias Across Models"
+   ],
+   "author": [
+    {
+     "given": "Efosa",
+     "family": "Osagie",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Computer Science and Data Science Department, York St. John University, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shemi",
+     "family": "Ayo-Ogbor",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ministry of Health, Al Taif, Kingdom of Saudi Arabia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6618-2642",
+     "authenticated-orcid": true,
+     "given": "Rebecca",
+     "family": "Balasundaram",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Computer Science and Data Science Department, York St. John University, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Journal of Data Science and Intelligent Systems"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      8
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.47852/bonviewjdsis62027678"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>Machine learning (ML) is playing an increasingly important role in rendering decisions that affect a broad range of groups in society. This posits the requirement of <jats:italic>algorithmic fairness</jats:italic>, which holds that automated decisions should be equitable with respect to protected features (e.g., gender, race). Training datasets can contain <jats:italic>both</jats:italic> class imbalance and protected feature bias. We postulate that, to be effective, both class and protected feature bias should be reduced—which allows for an increase in model accuracy and fairness. Our method, Fair OverSampling (FOS), uses SMOTE (Chawla in J Artif Intell Res 16:321–357, 2002) to reduce class imbalance and feature <jats:italic>blurring</jats:italic> to enhance group fairness. Because we view bias in imbalanced learning and algorithmic fairness differently, we do not attempt to balance classes <jats:italic>and</jats:italic> features; instead, we seek to <jats:italic>de-bias</jats:italic> features and <jats:italic>balance</jats:italic> the number of class instances. FOS restores numerical class balance through the creation of synthetic minority class instances and causes a classifier to pay <jats:italic>less attention</jats:italic> to protected features. Therefore, it reduces <jats:italic>bias</jats:italic> for both <jats:italic>classes</jats:italic> and protected <jats:italic>features</jats:italic>. Additionally, we take a step toward bridging the gap between fairness and imbalanced learning with a new metric, <jats:italic>Fair Utility</jats:italic>, that measures model effectiveness with respect to accuracy and fairness. Our source code and data are publicly available at https://github.com/dd1github/Fair-Over-Sampling.</jats:p>",
+   "DOI": "10.1007/s44248-024-00007-1",
+   "type": "journal-article",
+   "title": [
+    "Towards a holistic view of bias in machine learning: bridging algorithmic fairness and imbalanced learning"
+   ],
+   "author": [
+    {
+     "given": "Damien",
+     "family": "Dablain",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bartosz",
+     "family": "Krawczyk",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nitesh",
+     "family": "Chawla",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Discover Data"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1007/s44248-024-00007-1"
+  },
+  {
+   "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+   "abstract": "<jats:title>Analyses de l'équité algorithmique pour l'apprentissage automatique en éducation</jats:title>\n                <jats:p xml:lang=\"fr\">Cette thèse vise à évaluer et réduire l'iniquité algorithmique des modèles d'apprentissage automatique largement utilisés en éducation. En effet, ces modèles prédictifs, fondés sur des données éducatives et des traces d'apprentissage de plus en plus abondantes, ont pour but d'améliorer l'expérience d'apprentissage humain. Ils permettent, par exemple, de prédire le décrochage scolaire ou de personnaliser l'expérience d'apprentissage en adaptant les contenus éducatifs selon les besoins de chaque apprenant et apprenante. Cependant, il a été démontré à plusieurs reprises que ces modèles peuvent produire des prédictions biaisées et discriminantes, le plus souvent du fait de prédictions systématiquement moins bonnes observées pour les personnes noires comparées aux personnes blanches, et pour les femmes comparées aux hommes. Il est donc devenu crucial d'évaluer l'équité des résultats des modèles prédictifs, vis-à-vis des différents groupes présents dans les données. Les travaux de l'état de l'art se sont concentrés sur la comparaison entre groupes des performances prédictives des modèles considérés. Par exemple, pour un classifieur binaire et pour les groupes hommes/femmes, le taux de bonnes prédictions est calculé pour chaque groupe, et la différence entre ces taux indiquerait une iniquité. Bien que cette approche soit prédominante dans la littérature, elle ne capture l'iniquité qu'en termes de performance prédictive, alors que celle-ci peut se manifester sous d'autres formes et de manière plus nuancée qu'une différence de taux, ce qui doit être approfondi. L'objectif principal de cette thèse est donc d'approfondir la compréhension et l'évaluation de l'iniquité algorithmique, pour ensuite identifier son éventuelle présence dans des contextes sous-étudiés. Ces contextes incluent à la fois des attributs sensibles et des populations d'apprenants et apprenantes peu voire pas considérés. Pour ce faire, nous avons conçu une nouvelle mesure d'équité algorithmique, abrégée MADD, qui s'appuie sur les distributions des résultats des modèles d'apprentissage supervisé. Cette approche via les distributions permet en plus d'exploiter des analyses graphiques pour comprendre l'iniquité quantifiée par la MADD. Nous avons démontré théoriquement et expérimentalement la validité de cette mesure, et avons ainsi découvert que les potentielles iniquités observées dans les données ne sont pas toujours reflétées dans les résultats des modèles, comme par exemple cela a été le cas pour le biais de genre de nos expériences. De plus, nous avons développé une technique de réduction de l'iniquité utilisant la MADD, ainsi que de nouvelles méthodes d'évaluation pour plusieurs attributs sensibles simultanément. En effet, la littérature considère chaque attribut séparément, alors que la théorie de l'intersectionnalité de Crenshaw (1989, 1991) défend l'idée que leurs influences combinées produisent des discriminations uniques et différentes pour certains groupes. Nos résultats expérimentaux montrent que certaines combinaisons augmentent, réduisent, ou maintiennent le niveau d'iniquité observé initialement. Enfin, nous avons mené des analyses d'équité pour de nouveaux attributs sensibles, démographiques ou liés au contexte d'apprentissage, et avec de nouvelles populations d'apprenants et apprenantes, de pays d'Afrique, de Philippines, d'Haïti et de France, grâce à la collecte de données issues d'un MOOC (ou massive open online course) et d'une plateforme en ligne (Canvas LMS). Ces expériences ont révélé des iniquités qui n'ont pas été découvertes auparavant, apportant ainsi un éclairage sur les potentielles iniquités réelles présentes dans ces contextes d'étude. Afin de faciliter les réplications de nos travaux ainsi que l'application de nos méthodes dans d'autres contextes, nous avons créé une librairie Python open source, nommée maddlib. Les données (sauf celles des Philippines) et nos codes documentés sont également disponibles en ligne.</jats:p>",
+   "DOI": "10.70675/cd7cfce4zdadaz4145zb07czdcb9669230ea",
+   "type": "dissertation",
+   "title": [
+    "Algorithmic fairness analyses of supervised machine learning in education"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5839-882X",
+     "authenticated-orcid": false,
+     "given": "Mélina",
+     "family": "Verger",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/02en5vm52",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Sorbonne université"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70675/cd7cfce4zdadaz4145zb07czdcb9669230ea"
+  },
+  {
+   "publisher": "Digital Manuscriptpedia",
+   "abstract": "<jats:p>Machine learning (ML) systems are increasingly deployed in sensitive domains such as healthcare, finance, and criminal justice. Despite their benefits, these systems often exhibit algorithmic bias, raising concerns about fairness, accountability, and trust. Bias may emerge from historical inequalities in training data, model design, or deployment practices, resulting in disparate impacts on marginalized groups. Over the years, researchers have proposed multiple fairness definitions and mitigation strategies, ranging from data preprocessing and in-processing adversarial learning to post-processing adjustments. Toolkits like AI Fairness 360 and Fairlearn support practical implementation, while regulatory frameworks such as the EU AI Act emphasize governance and accountability. This survey consolidates theoretical foundations, technical approaches, domain-specific applications, and policy perspectives to provide a comprehensive understanding of algorithmic bias and fairness in ML, highlighting open challenges and future research directions.</jats:p>",
+   "DOI": "10.65890/dmp.lnmr.impact26.53",
+   "type": "journal-article",
+   "title": [
+    "Algorithmic Bias and Fairness in Machine Learning Systems: A Review"
+   ],
+   "author": [
+    {
+     "given": "Tooba",
+     "family": "Fatima",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kashifa",
+     "family": "Khanam",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abhishek",
+     "family": "Jaiswal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Khanak",
+     "family": "Saxena",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Madhuresh",
+     "family": "Yadav",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohammad",
+     "family": "Jeelani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Abhishek",
+     "family": "Saxena",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "DMPedia Lecture Notes in Multidisciplinary Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      13
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.65890/dmp.lnmr.impact26.53"
+  },
+  {
+   "publisher": "openRxiv",
+   "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Machine learning is becoming increasingly prominent in healthcare. Although its benefits are clear, growing attention is being given to how machine learning may exacerbate existing biases and disparities. In this study, we introduce an adversarial training framework that is capable of mitigating biases that may have been acquired through data collection or magnified during model development. For example, if one class is over-presented or errors/inconsistencies in practice are reflected in the training data, then a model can be biased by these. To evaluate our adversarial training framework, we used the statistical definition of equalized odds. We evaluated our model for the task of rapidly predicting COVID-19 for patients presenting to hospital emergency departments, and aimed to mitigate regional (hospital) and ethnic biases present. We trained our framework on a large, real-world COVID-19 dataset and demonstrated that adversarial training demonstrably improves outcome fairness (with respect to equalized odds), while still achieving clinically-effective screening performances (NPV\n                  <jats:italic>&gt;</jats:italic>\n                  0.98). We compared our method to the benchmark set by related previous work, and performed prospective and external validation on four independent hospital cohorts. Our method can be generalized to any outcomes, models, and definitions of fairness.\n                </jats:p>",
+   "DOI": "10.1101/2022.01.13.22268948",
+   "type": "posted-content",
+   "title": [
+    "Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: Insights from Rapid COVID-19 Diagnosis by Adversarial Learning"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0352-8452",
+     "authenticated-orcid": false,
+     "given": "Jenny",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2391-5361",
+     "authenticated-orcid": false,
+     "given": "Andrew A. S.",
+     "family": "Soltan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yang",
+     "family": "Yang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "David A.",
+     "family": "Clifton",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      14
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1101/2022.01.13.22268948"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>As models based on machine learning continue to be developed for healthcare applications, greater effort is needed to ensure that these technologies do not reflect or exacerbate any unwanted or discriminatory biases that may be present in the data. Here we introduce a reinforcement learning framework capable of mitigating biases that may have been acquired during data collection. In particular, we evaluated our model for the task of rapidly predicting COVID-19 for patients presenting to hospital emergency departments and aimed to mitigate any site (hospital)-specific and ethnicity-based biases present in the data. Using a specialized reward function and training procedure, we show that our method achieves clinically effective screening performances, while significantly improving outcome fairness compared with current benchmarks and state-of-the-art machine learning methods. We performed external validation across three independent hospitals, and additionally tested our method on a patient intensive care unit discharge status task, demonstrating model generalizability.</jats:p>",
+   "DOI": "10.1038/s42256-023-00697-3",
+   "type": "journal-article",
+   "title": [
+    "Algorithmic fairness and bias mitigation for clinical machine learning with deep reinforcement learning"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0352-8452",
+     "authenticated-orcid": false,
+     "given": "Jenny",
+     "family": "Yang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2391-5361",
+     "authenticated-orcid": false,
+     "given": "Andrew A. S.",
+     "family": "Soltan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5095-6367",
+     "authenticated-orcid": false,
+     "given": "David W.",
+     "family": "Eyre",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David A.",
+     "family": "Clifton",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Nature Machine Intelligence"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      31
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1038/s42256-023-00697-3"
+  },
+  {
+   "publisher": "Agence Bibliographique de l'Enseignement Supérieur",
+   "abstract": "<jats:title>Analyse de sensibilité et équité algorithmique pour le machine learning et l'intelligence artificielle</jats:title>\n                <jats:p xml:lang=\"fr\">Au cours des dernières années, le déploiement d'algorithmes utilisant du Machine Learning a explosé. En permanence à la recherche de performances améliorées au prix de toujours plus de données, ces algorithmes ont révolutionné de nombreux domaines. Néanmoins, de plus en plus de problèmes transparaissent lors de l'utilisation de ces modèles. Dans cette thèse, nous nous intéressons à deux écueils particuliers que sont le manque d'explicabilité, ainsi que le défaut d'équité pouvant mener à des discriminations qui peut être présent dans ces algorithmes. Nous montrons comment ces deux sujets sont liés en présentant un cadre probabiliste unificateur permettant de transposer des techniques de l'un des domaines vers l'autre.</jats:p>",
+   "DOI": "10.70675/0445eb0az81f4z4ea8z8a87z1a0fef986a20",
+   "type": "dissertation",
+   "title": [
+    "Sensitivity analysis and algorithmic fairness for machine learning and artificial intelligence"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3908-9909",
+     "authenticated-orcid": false,
+     "given": "Clément",
+     "family": "Benesse",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/02v6kpv12",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Toulouse 3"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.70675/0445eb0az81f4z4ea8z8a87z1a0fef986a20"
+  },
+  {
+   "publisher": "Front Matter",
+   "abstract": "<jats:p>In AI and machine learning, the future resembles the past and bias refers to prior information. There has been a growing interest in identifying the harmful biases in the machine learning. Often these harmful biases are just the reflection or amplification of human biases which algorithms learn from training data. Some training data sets such as text, medical, criminal, educational, financial etc.</jats:p>",
+   "DOI": "10.59350/7tdcs-4q330",
+   "type": "posted-content",
+   "title": [
+    "Bias and Fairness in Machine Learning"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2222-2395",
+     "authenticated-orcid": false,
+     "given": "Abhishek",
+     "family": "Tiwari",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      7,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.59350/7tdcs-4q330"
+  },
+  {
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "abstract": "<jats:p>Automated resume screening systems are being largely utilized at an advancing rate due to advantages over manual filtering by companies that provide hiring solutions. They allow organizations to manage a more significant number of candidate applications in a significantly shorter time. However, the use of machine learning raises important issues related to fairness, accountability, and transparency. Research shows that these systems often reflect or amplify biases present in their training datasets, resulting in discriminatory outcomes based on gender, race, or socioeconomic status. This proposal examines how anonymization and fairness auditing can be used together to reduce algorithmic bias in AIbased hiring systems. By reviewing academic literature and regulatory guidelines, the proposed research will develop, implement, and assess a clear method for detecting and reducing bias. The results aim to enhance both the technical and ethical understanding of fairness, guiding the responsible use of AI in recruitment.</jats:p>",
+   "DOI": "10.36227/techrxiv.176288180.07809430/v1",
+   "type": "posted-content",
+   "title": [
+    "Mitigating Algorithmic Bias in AI-Based Resume Screening Systems Using Anonymization and Fairness Auditing"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0009-3349-5015",
+     "authenticated-orcid": false,
+     "given": "Nishant",
+     "family": "Bansal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      11
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.36227/techrxiv.176288180.07809430/v1"
+  },
+  {
+   "publisher": "Front Matter",
+   "abstract": "<jats:p>In AI and machine learning, the future resembles the past and bias refers to prior information. There has been a growing interest in identifying the harmful biases in the machine learning. Often these harmful biases are just the reflection or amplification of human biases which algorithms learn from training data. Some training data sets such as text, medical, criminal, educational, financial etc.</jats:p>",
+   "DOI": "10.59350/tqhjw-sjy18",
+   "type": "posted-content",
+   "title": [
+    "Bias and Fairness in Machine Learning"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2222-2395",
+     "authenticated-orcid": false,
+     "given": "Abhishek",
+     "family": "Tiwari",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      7,
+      3
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.59350/tqhjw-sjy18"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n                <p>Algorithmic decision-making is no longer a theoretical concern: it operates across healthcare, criminal justice, employment, and financial services, and the disparities it produces are well documented. This paper examines how bias enters machine learning pipelines, tracing it to skewed training data, poorly chosen proxy variables, and the design of optimization objectives. Four case studies provide the empirical basis: Obermeyer et al.’s analysis of a commercial healthcare risk-scoring tool [3], Buolamwini and Gebru’s audit of commercial facial analysis systems [4], ProPublica’s investigation of the COMPAS recidivism tool [5], and the abandonment of Amazon’s automated hiring system [6]. Each case shows that bias in AI is neither accidental nor self-correcting; it follows from design choices that encode existing social inequalities into automated outputs. The paper also examines competing formal definitions of fairness, showing that these definitions are mathematically incompatible and that no single algorithm can satisfy all of them simultaneously [8]. Technical mitigation strategies [12] are reviewed alongside the regulatory frameworks established by the EU AI Act [15], New York City’s Local Law 144 [17], and related governance developments. The paper concludes that technical fixes alone are not sufficient and that durable fairness requires institutional accountability, representative data governance, and enforceable legal standards.</p>",
+   "DOI": "10.21203/rs.3.rs-10083731/v1",
+   "type": "posted-content",
+   "title": [
+    "Algorithmic Bias in AI Systems: Examining Its Impact on Fairness and Decision-Making"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0003-6629-1170",
+     "authenticated-orcid": false,
+     "given": "Dharma",
+     "family": "Patel",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Marwadi University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      6,
+      22
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-10083731/v1"
+  },
+  {
+   "publisher": "EDP Sciences",
+   "abstract": "<jats:p>In recent years, research into and concern over algorithmic fairness and bias in machine learning systems has grown significantly. It is vital to make sure that these systems are fair, impartial, and do not support discrimination or social injustices since machine learning algorithms are becoming more and more prevalent in decision-making processes across a variety of disciplines. This abstract gives a general explanation of the idea of algorithmic fairness, the difficulties posed by bias in machine learning systems, and different solutions to these problems. Algorithmic bias and fairness in machine learning systems are crucial issues in this regard that demand the attention of academics, practitioners, and policymakers. Building fair and unbiased machine learning systems that uphold equality and prevent discrimination requires addressing biases in training data, creating fairness-aware algorithms, encouraging transparency and interpretability, and encouraging diversity and inclusivity.</jats:p>",
+   "DOI": "10.1051/e3sconf/202339904036",
+   "type": "journal-article",
+   "title": [
+    "Algorithmic Fairness and Bias in Machine Learning Systems"
+   ],
+   "author": [
+    {
+     "given": "Rushil",
+     "family": "Chandra",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Karun",
+     "family": "Sanjaya",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "AR",
+     "family": "Aravind",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ahmed Radie",
+     "family": "Abbas",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ruzieva",
+     "family": "Gulrukh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T. S. Senthil",
+     "family": "kumar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "E3S Web of Conferences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1051/e3sconf/202339904036"
+  },
+  {
+   "DOI": "10.1201/9781003402848-14",
+   "title": [
+    "Algorithmic Fairness"
+   ],
+   "container-title": [
+    "Applied Machine Learning Using mlr3 in R"
+   ],
+   "publisher": "Chapman and Hall/CRC",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12,
+      20
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003402848-14",
+   "author": [
+    {
+     "given": "Florian",
+     "family": "Pfisterer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.mlwa.2024.100525",
+   "title": [
+    "The Butterfly Effect in artificial intelligence systems: Implications for AI bias and fairness"
+   ],
+   "container-title": [
+    "Machine Learning with Applications"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.mlwa.2024.100525",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-1942-2831",
+     "authenticated-orcid": false,
+     "given": "Emilio",
+     "family": "Ferrara",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.12792/iciae2020.001",
+   "title": [
+    "Addressing Bias in Search and Fairness in Machine Learning"
+   ],
+   "container-title": [
+    "Proceedings of The 8th IIAE International Conference on Industrial Application Engineering 2020"
+   ],
+   "publisher": "The Institute of Industrial Applications Engineers",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.12792/iciae2020.001",
+   "author": [
+    {
+     "given": "Chirag",
+     "family": "Shah",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "ScienceOpen",
+   "abstract": "<jats:p>\n      \n                    <jats:bold>Introduction</jats:bold>\n   </jats:p>\n                <jats:p>Machine learning algorithms are quickly gaining traction in both the private and public sectors for their ability to automate both simple and complex decision-making processes. The vast majority of economic sectors, including transportation, retail, advertisement, and energy, are being disrupted by widespread data digitization and the emerging technologies that leverage it. Computerized systems are being introduced in government operations to improve accuracy and objectivity, and AI is having an impact on democracy and governance [1]. Numerous businesses are using machine learning to analyze massive quantities of data, from calculating credit for loan applications to scanning legal contracts for errors to analyzing employee interactions with customers to detect inappropriate behavior. New tools make it easier than ever for developers to design and deploy machine-learning algorithms [2] [3].</jats:p>",
+   "DOI": "10.14293/s2199-1006.1.sor-.pp59wrh.v1",
+   "type": "posted-content",
+   "title": [
+    "Monitoring bias and fairness in machine learning models: A review"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5111-9883",
+     "authenticated-orcid": false,
+     "given": "Marley",
+     "family": "Bacelar",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "UNICAMP - Universidade Estadual de Campinas"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.14293/s2199-1006.1.sor-.pp59wrh.v1"
+  }
+ ]
+}

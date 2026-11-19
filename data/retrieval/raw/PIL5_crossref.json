@@ -1,0 +1,1114 @@
+{
+ "query": "Obesity prevention in school-aged children",
+ "retrieved_at": "2026-11-10T10:51:23.575632+00:00",
+ "data": [
+  {
+   "DOI": "10.1016/j.orcp.2012.08.132",
+   "title": [
+    "Children's first year at school: An indicator of effectiveness for obesity prevention programs in preschool aged children?"
+   ],
+   "container-title": [
+    "Obesity Research &amp; Clinical Practice"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      10
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.orcp.2012.08.132",
+   "author": [
+    {
+     "given": "L.",
+     "family": "Hardy",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "L.",
+     "family": "King",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/978-0-387-76924-0_20",
+   "title": [
+    "Obesity Prevention Programs for School-aged Children and Adolescents"
+   ],
+   "container-title": [
+    "Issues in Clinical Child Psychology",
+    "Handbook of Childhood and Adolescent Obesity"
+   ],
+   "publisher": "Springer US",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-0-387-76924-0_20",
+   "author": [
+    {
+     "given": "David M.",
+     "family": "Janicke",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Bethany J.",
+     "family": "Sallinen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jessica C. White",
+     "family": "Plume",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4137/ppri.s12291",
+   "title": [
+    "Obesity Prevention and Treatment in School-aged Children, Adolescents,\n                        and Young Adults&amp;mdash;Where Do We Go from Here?"
+   ],
+   "container-title": [
+    "Primary Prevention Insights"
+   ],
+   "publisher": "Portico",
+   "issued": {
+    "date-parts": [
+     [
+      2015
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.4137/ppri.s12291",
+   "author": [
+    {
+     "family": "Sharon M. Karp and Sabina B. Gesell",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1089/chi.2019.0253",
+   "title": [
+    "School Gardening Activities Aimed at Obesity Prevention Improve Body Mass Index and Waist Circumference Parameters in School-Aged Children: A Systematic Review and Meta-Analysis"
+   ],
+   "container-title": [
+    "Childhood Obesity"
+   ],
+   "publisher": "SAGE Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1089/chi.2019.0253",
+   "author": [
+    {
+     "given": "Andrea",
+     "family": "Rochira",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Hygiene and Preventive Medicine, University of Bologna, Bologna, Italy."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dario",
+     "family": "Tedesco",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "IRCCS Rizzoli Orthopedic Institute Hospital Health Direction, Bologna, Italy."
+      },
+      {
+       "name": "Department of Biomedical and Neuromotor Sciences (DIBINEM), University of Bologna, Bologna, Italy."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andrea",
+     "family": "Ubiali",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Hygiene and Preventive Medicine, University of Bologna, Bologna, Italy."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maria Pia",
+     "family": "Fantini",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Hygiene and Preventive Medicine, University of Bologna, Bologna, Italy."
+      },
+      {
+       "name": "Department of Biomedical and Neuromotor Sciences (DIBINEM), University of Bologna, Bologna, Italy."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Davide",
+     "family": "Gori",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Biomedical and Neuromotor Sciences (DIBINEM), University of Bologna, Bologna, Italy."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.18535/jmscr/v5i5.153",
+   "title": [
+    "Obesity on School- Aged Children: Prevalence and Causes"
+   ],
+   "container-title": [
+    "Journal of Medical Science And clinical Research"
+   ],
+   "publisher": "Valley International",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      5,
+      23
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.18535/jmscr/v5i5.153",
+   "author": [
+    {
+     "name": "MGM Institute of Physiotherapy, N-6, CIDCO, Aurangabad, Maharashtra-431003",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Manish",
+     "family": "P. Shukla",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Virtual delivery of obesity prevention and treatment programs may be effective for supporting children and families to adopt healthy lifestyle changes while enhancing program accessibility. This rapid review aimed to summarize the impact of family-based digital interventions for childhood obesity prevention and treatment. Four databases were searched up to February 2021 for trials of interactive digital programs aimed to prevent and/or treat obesity in children aged 5–12 years and reported diet, physical activity, sedentary behavior, sleep, or weight-related outcomes in children. A total of 23 publications (from 18 interventions) were included. Behavior change theories were used in 13 interventions with “Social Cognitive Theory” applied most frequently (n = 9). Interventions included websites (n = 11), text messaging (n = 5), video gaming (n = 2), Facebook (n = 3), and/or mobile applications (n = 2). Studies reported changes in body mass index (BMI; n = 11 studies), diet (n = 11), physical activity (n = 10), screen time (n = 6), and/or sleep (n = 1). Significant improvements were reported for diet (n = 5) or physical activity (n = 4). Two of the six interventions were effective in reducing screen time. Digital interventions have shown modest improvements in child BMI and significant effectiveness in diet and physical activity, with emerging evidence supporting the use of social media and video gaming to enhance program delivery.</jats:p>",
+   "DOI": "10.3390/nu14224837",
+   "type": "journal-article",
+   "title": [
+    "A Rapid Review of the Impact of Family-Based Digital Interventions for Obesity Prevention and Treatment on Obesity-Related Outcomes in Primary School-Aged Children"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5371-4777",
+     "authenticated-orcid": false,
+     "given": "Li",
+     "family": "Chai",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Health and Wellbeing Queensland, Queensland Government, Brisbane, QLD 4064, Australia"
+      },
+      {
+       "name": "School of Human Movement and Nutrition Sciences, The University of Queensland, Brisbane, QLD 4072, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rebecca",
+     "family": "Farletti",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Health and Wellbeing Queensland, Queensland Government, Brisbane, QLD 4064, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9228-1345",
+     "authenticated-orcid": false,
+     "given": "Leila",
+     "family": "Fathi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Human Movement and Nutrition Sciences, The University of Queensland, Brisbane, QLD 4072, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Robyn",
+     "family": "Littlewood",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Health and Wellbeing Queensland, Queensland Government, Brisbane, QLD 4064, Australia"
+      },
+      {
+       "name": "School of Human Movement and Nutrition Sciences, The University of Queensland, Brisbane, QLD 4072, Australia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Nutrients"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      11,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/nu14224837"
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:sec>\n                    <jats:title>Background:</jats:title>\n                    <jats:p>One potential strategy to prevent unhealthy summer weight gain in children is to integrate obesity prevention interventions into the SUN Meals program, where free meals are offered to children from low-income households. The current study gathered insights from parents to (1) identify children’s weight-related health behaviors that need support during the summer, (2) examine potential intervention activities and their relevant barriers and facilitators, and (3) describe the preferred logistics of a summer obesity prevention intervention.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>\n                      Two rounds of focus groups were conducted virtually between February and April 2025. Participants (\n                      <jats:italic toggle=\"yes\">n</jats:italic>\n                      = 26) were parents of elementary school-aged children from low-income families. Data were analyzed using inductive thematic content analysis.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>The top five weight-related health behaviors parents identified as priorities for their children were (1) increasing fruit and vegetable intake, (2) getting sufficient sleep, (3) limiting screen time, (4) increasing physical activity, and (5) reducing added sugar intake. Most parents supported a weekly, half-day intervention at the SUN Meals program sites for elementary school-aged children. Activities deemed important included providing engaging nutrition education related to the food served; helping families establish bedtime routines and screen time agreements; and offering physical activities at the program sites. Parents also suggested low- or no-cost half-day programming on-site, complemented by take-home packets and additional follow-ups between sessions to reinforce intervention content at home.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>Parents supported the proposed structured summer obesity prevention intervention at SUN Meals program sites, noting its benefits for families’ weight-related health behaviors and offering practical logistical suggestions.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1177/21532176261443775",
+   "type": "journal-article",
+   "title": [
+    "Parents’ Insights on a Summer Obesity Prevention Intervention at SUN Meals Program Sites for Elementary School-Aged Children"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2539-1098",
+     "authenticated-orcid": false,
+     "given": "Jiwoo",
+     "family": "Lee",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Nursing, University of Minnesota, Minneapolis, MN, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Winnie",
+     "family": "Yip",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Nursing, University of Minnesota, Minneapolis, MN, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aishah",
+     "family": "Damirgi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Nursing, University of Minnesota, Minneapolis, MN, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nancy E.",
+     "family": "Sherwood",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Division of Epidemiology &amp; Community Health, School of Public Health, University of Minnesota, Minneapolis, MN, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marlene B.",
+     "family": "Schwartz",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Human Development and Family Sciences, College of Liberal Arts and Sciences, University of Connecticut, Storrs, CT, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jayne A.",
+     "family": "Fulkerson",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Nursing, University of Minnesota, Minneapolis, MN, USA."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Childhood Obesity"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      16
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/21532176261443775"
+  },
+  {
+   "DOI": "10.1037/1522-3736.4.1.43c",
+   "title": [
+    "\"Preventing mental disorders in school-aged children\": Commentary."
+   ],
+   "container-title": [
+    "Prevention &amp; Treatment"
+   ],
+   "publisher": "American Psychological Association (APA)",
+   "issued": {
+    "date-parts": [
+     [
+      2001,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1037/1522-3736.4.1.43c",
+   "author": [
+    {
+     "given": "Victor",
+     "family": "Battistich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Oxford University Press (OUP)",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Effective evidence-informed family-based nutrition interventions for childhood obesity management are needed. (a) To assess the number and quality of published randomized controlled trials incorporating family-based nutrition interventions for childhood obesity (ages 5–18 years) management and (b) to identify intervention attributes (e.g., contact time, nutrition curricula, and behavior change strategies) used in successful interventions. Studies that met eligibility criteria were randomized controlled trials and family-based childhood obesity management interventions for children and adolescents ages 5–18 years old that included a healthy eating component and measured child dietary behaviors and/or parent dietary feeding practices. Six databases were searched: CINAHL complete, Cochrane Central Register of Controlled Trials, Health Source: Nursing/Academic Edition, MEDLINE with full text (PubMed), PsycINFO, SPORTDiscus, and ERIC (EBSCO Host). The validated Quality Assessment Tool for Quantitative Studies was used to assess study quality. Eight studies met eligibility criteria. Study quality analysis showed that blinding of the research teams (e.g., analysts, and those focused on data collection) and the use of age appropriate, valid, and reliable instruments were areas of concern. Successful nutrition interventions targeting children 5–18 years old, appear to include setting family-based goals, modifying home food environment, hands-on approaches to teaching nutrition (games, group-based activities), and fruit and vegetable vouchers. This review highlighted a limited amount of moderate to high quality evidence to suggest that family-based nutrition interventions can be successful in improving dietary behaviors and that interventions with positive outcomes had some components of nutrition curricula and strategies in common.</jats:p>",
+   "DOI": "10.1093/tbm/ibaa082",
+   "type": "journal-article",
+   "title": [
+    "Family-based nutrition interventions for obesity prevention among school-aged children: a systematic review"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-5870-6127",
+     "authenticated-orcid": false,
+     "given": "Megan",
+     "family": "Perdew",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Exercise Science, Physical and Health Education, University of Victoria, Victoria, BC, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2364-7774",
+     "authenticated-orcid": false,
+     "given": "Sam",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Exercise Science, Physical and Health Education, University of Victoria, Victoria, BC, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4799-2751",
+     "authenticated-orcid": false,
+     "given": "Patti-Jean",
+     "family": "Naylor",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Exercise Science, Physical and Health Education, University of Victoria, Victoria, BC, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Translational Behavioral Medicine"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      9,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/tbm/ibaa082"
+  },
+  {
+   "publisher": "National Documentation Centre (EKT)",
+   "abstract": "<jats:p>Τα παιδιά είναι ζωτικής σημασίας για την ανάπτυξη του έθνους. Με τα χρόνια,αποδείχθηκε ότι η καλή σωματική και ψυχική υγεία κατά την παιδική ηλικίαθέτει τις βάσεις για την καλή υγεία μετά την ενηλικίωση. Τα παιδιά έχουναρχίσει να αναγνωρίζονται όχι μόνο για αυτό που είναι σήμερα, αλλά και γιατους μελλοντικούς τους ρόλους στη δημιουργία οικογενειών και για τηντροφοδότηση του εργατικού δυναμικού. Για την ενίσχυση αυτής της προοπτικής,αναπτύχθηκε η έρευνα -“Υγεια της συμπεριφοράς παιδιών σχολικής ηλικίας” -(HBSC) από ερευνητές από την Αγγλία, τη Φινλανδία και τη Νορβηγία καιεγκρίθηκε από το Περιφερειακό Γραφείο Ευρώπης του Παγκόσμιου ΟργανισμούΥγείας Ευρώπη το 1983. Ο στόχος της μελέτης HBSC είναι να συλλεχθούνδεδομένα σχετικά με τις συμπεριφορές υγείας των εφήβων και να καταστούν οιπληροφορίες διαθέσιμες, ώστε να είναι δυνατή η βελτίωση των υπηρεσιών υγείαςκαι των προγραμμάτων για τη νεολαία. Τα παιδιά είναι ζωτικής σημασίας για την ανάπτυξη του έθνους. Με τα χρόνια,αποδείχθηκε ότι η καλή σωματική και ψυχική υγεία κατά την παιδική ηλικίαθέτει τις βάσεις για την καλή υγεία μετά την ενηλικίωση. Τα παιδιά έχουναρχίσει να αναγνωρίζονται όχι μόνο για αυτό που είναι σήμερα, αλλά και γιατους μελλοντικούς τους ρόλους στη δημιουργία οικογενειών και για τηντροφοδότηση του εργατικού δυναμικού. Για την ενίσχυση αυτής της προοπτικής,αναπτύχθηκε η έρευνα -“Υγεια της συμπεριφοράς παιδιών σχολικής ηλικίας” -(HBSC) από ερευνητές από την Αγγλία, τη Φινλανδία και τη Νορβηγία καιεγκρίθηκε από το Περιφερειακό Γραφείο Ευρώπης του Παγκόσμιου ΟργανισμούΥγείας Ευρώπη το 1983. Ο στόχος της μελέτης HBSC είναι να συλλεχθούνδεδομένα σχετικά με τις συμπεριφορές υγείας των εφήβων και να καταστούν οιπληροφορίες διαθέσιμες, ώστε να είναι δυνατή η βελτίωση των υπηρεσιών υγείαςκαι των προγραμμάτων για τη νεολαία. θέμα, χρησιμοποιήθηκαν τα δεδομένα της cross-sectional μελέτης“Palestinian Health Behavior in School-aged Children”(HBSC). Οι μαθητές τωντάξεων 6, 8, 10, και 12 αυτοσυμπλήρωσαν μια τροποποιημένη έκδοση τουδιεθνούς ερωτηματολογίου HBSC, με αποτέλεσμα 15.963 μαθητές (47,3% αγόριακαι 52,7% κορίτσια) να περιλαμβάνονται σε αυτή τη μελέτη (56,9% από τηΔυτική Όχθη και 43,1% από τη Γάζα). Από το σύνολο των επιλεγμένων παιδιών, 6458 (40,8%) συμπλήρωσαν ένα προαιρετικό πακέτο (ερωτηματολόγιο)σχετιζόμενο με την εργασία.ΑΠΟΤΕΛΕΣΜΑΤΑΗ μετά-ανάλυση κατέδειξε ότι οι ενήλικες εμφάνισαν μεγαλύτερα ποσοστάπαχυσαρκίας σε σχέση με τα παιδιά σε όλες τις ηπείρους στη Μεσόγειοανεξάρτητα από τα διαφορετικά επίπεδα εισοδήματος. Ο επιπολασμός τηςπαχυσαρκίας μεταξύ των παιδιών στην Ευρώπη ήταν υψηλότερος από ό, τιμεταξύ των Ασιατών.1) Στην Ιερουσαλήμ, η αξιολόγηση έδειξε ότι η κατάσταση των υπέρβαρων(24.3%) ή παχύσαρκων ατόμων (9.9%) συνηπήρχε με λιποβαρείς (4,8%) και/ήαναιμικές καταστάσεις (23,3%). Λιγότερο από ένας στους τέσσερις (22,4%) τωνΠαλαιστινίων φοιτητών δήλωσαν συμμετοχή σε κάποια σωματικήδραστηριότητα περισσότερο από 5 ημέρες την εβδομάδα, με τα άρρενα άτομα ναείναι σωματικά πιο δραστήρια (P&lt;0,01). Η πλειοψηφία των παιδιώνπροσλαμβάνει λιγότερο από το 80% της συνιστώμενης ημερήσιας πρόσληψης (RDA) για τα περισσότερα μικροθρεπτικά συστατικά. Παρά το γεγονός ότι ουποσιτισμός ήταν εμφανής στο δείγμα, το 80% των παιδιών βαθμολόγησαν τηνυγεία τους ως εξαιρετική, με τα άρρενα άτομα να χαρακτηρίζουν την υγεία τουςως βέλτιστη (P&lt;0,01).2) Η ανάλυση του δεύτερου θέματος ανέδειξε ότι το τραύμα είναι η κύρια αιτίατης κακής υγείας μεταξύ των Παλαιστινίων παιδιών σε όλη τη χώρα. Από τοσύνολο των 15.963 εφήβων, το 47,6% τραυματίστηκαν, με τα άρρενα άτομα(53,5%) να είναι στατιστικά πιο επιρρεπή σε τραυματισμούς σε σχέση με τα θήλεα(42,1%) (&lt;0,001). Το σύνολο των ατόμων με περισσότερους από ένατραυματισμό, φάνηκε να μειώνεται κατά ηλικία και βρέθηκε επίσης σημαντικάυψηλότερη στα αγόρια παρά στα κορίτσια (27,3% και 17,9%, αντίστοιχα&lt;0,001). Παιδιά οικογενειών με χαμηλό Δείκτη Οικογενειακής Ευμάρειας(Family Affluence Scale - FAS) παρουσίασαν σημαντικά χαμηλότερες αναλογίεςτραυματισμών από εκείνα που ζουν σε οικογένειες με μέτρια ή υψηλή FAS (&lt;0,001). Ο αριθμός των τραυματισμών κατά την διάρκεια ποδηλασίας ήτανσημαντικά μεγαλύτερος στα αγόρια (46,3%) συγκριτικά με τα κορίτσια (41,7%) (&lt;0,001), ενώ ο αριθμός των τραυματισμών κατά το περπάτημα/τρέξιμο ήτανμεγαλύτερος στα κοριτσια (32,5%) σε σχέση με τα αγόρια (28,0%) (&lt;0,001).3) Περίπου το 73,8% των μαθητών οι οποίοι συμπλήρωσαν το προαιρετικόπακέτο ανέφεραν ότι εργάζονται κατά τη διάρκεια των τελευταίων 12 μηνών,από τους οποίους το 79,1% δήλωσαν ότι υπέστησαν κάποιο τραυματισμό πουσχετίζεται με την εργασία την οποία εκτελούσαν. Τα εργατικά ατυχήματα ήτανσημαντικά περισσότερα στα αγόρια, σε παιδιά μικρότερης ηλικίας, και σε παιδιάπου είναι εγγεγραμμένα σε σχολεία της UNRWA και ζουν στη Λωρίδα της Γάζας(P&lt;0.05). Τα παιδιά που εργάζονται περισσότερο από 3 ώρες/ημέρα είχανπερισσότερες πιθανότητες κατά ένα συντελεστή 1,73 (95% CI,1.53-1.95) ναυποστούν κάποιο τραυματισμό από αυτούς που εργάζονται λιγότερο από 3ώρες/μέρα. Περίπου τα μισά από τα παιδιά εργάστηκαν στο λιανικό εμπόριο(51,5%), τη γεωργία (20,0%) και τον καθαρισμό (11,4%). Το είδος τουτραυματισμού είχε άμεση σχέση με το είδος της εκτελούμενης εργασίας.ΣΥΜΠΕΡΑΣΜΑΣτην Παλαιστίνη δεν εκτιμούνται ιδιαίτερα ο βαθμός, οι παράγοντες κινδύνουκαι οι προβλέψεις της παιδικής παχυσαρκίας και των τραυματισμών. Ευρήματατης παρούσας μελέτης καλύπτουν ένα κενό στη βιβλιογραφία για την εφηβικήυγεία στην Παλαιστίνη, παρέχοντας νέες πληροφορίες σχετικά με τιςδιατροφικές συνήθειες των εφήβων και τον κίνδυνο τραυματισμού. Ελπίζουμεότι τα αποτελέσματα της παρούσας μελέτης μπορούν να παρέχουν αρχικάκατευθυντήριες οδηγίες για το σχεδιασμό ενημερωτικών και εκπαιδευτικώνπρογραμμάτων, τα οποία ενθαρρύνουν υγιεινές διατροφικές συνήθειες σεσυνδυασμό με τη σωματική δραστηριότητα. Επιπλέον μπορούν να συμβάλλουνστην ανάπτυξη ενός «Εθνικού Προγράμματος Παρέμβασης και ΠρόληψηςΤραυματισμών» με στόχο την ενίσχυση της ασφάλειας των Παλαιστινίωνεφήβων.</jats:p>",
+   "DOI": "10.12681/eadd/38321",
+   "type": "dissertation",
+   "title": [
+    "Obesity and unintentional injuries among Palestinian children"
+   ],
+   "author": [
+    {
+     "given": "Christine",
+     "family": "Jildeh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.12681/eadd/38321"
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Background: Fractional exhaled nitric oxide (FeNO) is recognized as a biomarker of eosinophilic inflammation. Current literature shows evidence that FeNO is influenced by many factors. Obesity is a chronic inflammatory state. In this study, we considered obesity as a potential factor that influences FeNO levels. The aim of the study was to analyze the association between body mass index (BMI, body mass (kg)/height (m)2) and FeNO levels in a young group of children. Methods: The participants in the study were 506 school-aged children who were randomly selected from primary schools located in Silesian Voivodship (Poland). The modified version of the Study of Asthma and Allergies in Childhood (ISAAC) questionnaire was used to assess the respiratory system status of children. FeNO was measured in 447 children according to European Respiratory Society and America Thoracic Society (ERS/ATS) recommendations. Body mass and height were measured by a medical body composition analyzer. BMI was defined and interpreted with Palczewska’s percentile charts. Results: In the study group there were 49.9% (n = 223) boys and 50.1% (n = 224) girls. The frequency of normal BMI was 76.8% (n = 172), overweight 13.7% (n = 31) and obesity 9.4% (n = 21) in girls, while the normal BMI was found in 71.3% (n = 159), overweight 11.6% (n = 26) and obesity 17% (n = 38) in boys, the differences not statistically significant (p = 0.05). The mean FeNO value in children with obesity was 16.1 ± 12.5 ppb, in children with normal BMI 15.8 ± 15.5 ppb and the lowest FeNO values were in children with overweight 15.3 ± 13.0 ppb; p = 0.9. The FeNO values after adjusting for age, sex, BMI and symptoms from respiratory system were depended on age and respiratory symptoms only. Conclusions: In 6–9 year old school children, FeNO levels are associated with age and health in relation to the respiratory system. The BMI should not be included when considering reference values for FeNO.</jats:p>",
+   "DOI": "10.3390/children9091406",
+   "type": "journal-article",
+   "title": [
+    "The Effect of Obesity on Fractional Exhaled Nitric Oxide in School-Aged Children"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0106-9662",
+     "authenticated-orcid": false,
+     "given": "Kamil",
+     "family": "Barański",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Epidemiology, Faculty of Medical Sciences in Katowice, Medical University of Silesia in Katowice, 40-055 Katowice, Poland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Krzysztof",
+     "family": "Kocot",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Epidemiology, Faculty of Medical Sciences in Katowice, Medical University of Silesia in Katowice, 40-055 Katowice, Poland"
+      },
+      {
+       "name": "Department and Clinic of Pediatric Cardiology, Faculty of Medical Sciences in Katowice, Medical University of Silesia in Katowice, 40-752 Katowice, Poland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Children"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      16
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/children9091406"
+  },
+  {
+   "DOI": "10.1037//1522-3736.4.1.43c",
+   "title": [
+    "\"Preventing mental disorders in school-aged children\": Commentary."
+   ],
+   "container-title": [
+    "Prevention &amp; Treatment"
+   ],
+   "publisher": "American Psychological Association (APA)",
+   "issued": {
+    "date-parts": [
+     [
+      2001
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1037//1522-3736.4.1.43c",
+   "author": [
+    {
+     "given": "Victor",
+     "family": "Battistich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Adolescent overweight and obesity (AdOO) represent a public health challenge across the European Union (EU). Rising AdOO prevalence contributes to early onset of chronic health conditions and long‐term health inequalities. Dietary patterns, physical activity and socioeconomic and cultural environments differ across EU regions; identifying region‐specific determinants is critical for shaping effective public health strategies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Behavioural and demographic variables were drawn from the 2018 Health Behaviour in School‐aged Children (HBSC) survey. Interaction and spatial plots were used to illustrate region‐specific risk factors and estimate differences in AdOO prevalence. Among the 26 EU countries, stratified by regional zones, multivariable logistic regression analyses were performed to identify risk factors.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Interaction plots indicated zone‐specific profiling supporting the need for stratified analysis. AdOO prevalence exceeded 17.0% in all regions, with variation between zones. Across all four regions, middle or higher family affluence, being a girl, moderate or higher physical activity and moderate or high sweets consumption were associated with lower odds of AdOO. In contrast, behavioural factors such as smoking, alcohol use and soft‐drink consumption showed weaker or region‐specific increases in odds. Age was not consistently associated with AdOO across regions: it showed no significant association in Western Europe, while alcohol use was linked to higher odds only in Southern Europe, and high soft‐drink consumption increased odds only in the Eastern zone.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Region‐specific risk profiles highlight opportunities for tailored interventions, including promoting physical activity, addressing socioeconomic inequalities and integrating sex‐specific behavioural patterns into adolescent health policies for AdOO across the EU.</jats:p>\n                  </jats:sec>",
+   "DOI": "10.1111/ijpo.70109",
+   "type": "journal-article",
+   "title": [
+    "Regional Variations in Overweight and Obesity Among School‐Aged Adolescents: Evidence From the Cross‐Sectional Health Behaviour in School‐Aged Children Study in 26 European Union Countries"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2213-0653",
+     "authenticated-orcid": false,
+     "given": "Dennis",
+     "family": "Boateng",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Global Statistical Consult  Accra Ghana"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Maxim",
+     "family": "Dierckens",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Public Health and Primary Care Ghent University  Ghent Belgium"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Felix Boakye",
+     "family": "Oppong",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Global Statistical Consult  Accra Ghana"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Pediatric Obesity"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/ijpo.70109"
+  },
+  {
+   "DOI": "10.1007/978-3-031-13134-9_9",
+   "title": [
+    "Sexual Exploitation, Abuse, and Trafficking of School-Aged Children"
+   ],
+   "container-title": [
+    "School Violence and Primary Prevention"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-031-13134-9_9",
+   "author": [
+    {
+     "given": "Annie",
+     "family": "Farmer",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4135/9781452243801.n10",
+   "title": [
+    "The Children of Divorce Intervention Program: Fostering Resilient Outcomes for School-Aged Children"
+   ],
+   "container-title": [
+    "Primary Prevention Works"
+   ],
+   "publisher": "SAGE Publications, Inc.",
+   "issued": {
+    "date-parts": [
+     [
+      1997
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4135/9781452243801.n10",
+   "author": [
+    {
+     "given": "Joanne",
+     "family": "Pedro-Carroll",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1037/10517-074",
+   "title": [
+    "Community prevention and intervention: Prevention with school-aged children."
+   ],
+   "container-title": [
+    "Encyclopedia of psychology, Vol. 2."
+   ],
+   "publisher": "American Psychological Association",
+   "issued": {
+    "date-parts": [
+     [
+      2000
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1037/10517-074",
+   "author": [
+    {
+     "given": "Edward",
+     "family": "Seidman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Daniel",
+     "family": "Chesir-Teran",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.35802/073152",
+   "publisher": "Wellcome",
+   "issued": {
+    "date-parts": [
+     [
+      2003,
+      11,
+      17
+     ]
+    ]
+   },
+   "type": "grant",
+   "URL": "https://doi.org/10.35802/073152"
+  },
+  {
+   "DOI": "10.1037/10521-094",
+   "title": [
+    "Prevention: For school-aged children and adolescents."
+   ],
+   "container-title": [
+    "Encyclopedia of psychology, Vol. 6."
+   ],
+   "publisher": "Oxford University Press",
+   "issued": {
+    "date-parts": [
+     [
+      2000
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1037/10521-094",
+   "author": [
+    {
+     "given": "Joseph A.",
+     "family": "Durlak",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.53796/hnsj59/20",
+   "title": [
+    "Assessment of Risk Factors for Obesity among School aged Children in Basra city"
+   ],
+   "container-title": [
+    "Humanitarian and Natural Sciences Journal"
+   ],
+   "publisher": "Brabdo for Educational Services",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      9,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.53796/hnsj59/20"
+  },
+  {
+   "DOI": "10.1127/anthranz/2017/0752",
+   "title": [
+    "Impact of normal weight obesity on fundamental motor skills in pre-school children aged 3 to 6 years"
+   ],
+   "container-title": [
+    "Anthropologischer Anzeiger"
+   ],
+   "publisher": "Schweizerbart",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      8,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1127/anthranz/2017/0752",
+   "author": [
+    {
+     "given": "Martin",
+     "family": "Musalek",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jakub",
+     "family": "Kokstejn",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Pavel",
+     "family": "Papez",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Christiane",
+     "family": "Scheffler",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rebekka",
+     "family": "Mumm",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Anna-Franziska",
+     "family": "Czernitzki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Slawomir",
+     "family": "Koziel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

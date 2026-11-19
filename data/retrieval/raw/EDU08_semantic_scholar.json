@@ -1,0 +1,693 @@
+{
+ "query": "Gamification and student motivation",
+ "retrieved_at": "2026-11-18T17:52:16.212546+00:00",
+ "data": [
+  {
+   "paperId": "c3627ebee2c21c9589ed68cb9843b66ba2ec912e",
+   "externalIds": {
+    "MAG": "1968522627",
+    "DBLP": "journals/ile/BuckleyD16",
+    "DOI": "10.1080/10494820.2014.964263",
+    "CorpusId": 9368596
+   },
+   "url": "https://www.semanticscholar.org/paper/c3627ebee2c21c9589ed68cb9843b66ba2ec912e",
+   "title": "Gamification and student motivation",
+   "venue": "Interactive Learning Environments",
+   "year": 2016,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10494820.2014.964263?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10494820.2014.964263, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2016-08-17",
+   "authors": [
+    {
+     "authorId": "118632967",
+     "name": "Patrick Buckley"
+    },
+    {
+     "authorId": "3457582",
+     "name": "Elaine Doyle"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "b7c62f1d4ef0d426895e7bf47d0d3d41a34453a9",
+   "externalIds": {
+    "DOI": "10.70363/djpe.v4i1.308",
+    "CorpusId": 281019374
+   },
+   "url": "https://www.semanticscholar.org/paper/b7c62f1d4ef0d426895e7bf47d0d3d41a34453a9",
+   "title": "Gamification and Student Motivation: Evaluating E-Learning Engagement from an Educational Psychology Perspective",
+   "venue": "Darussalam: Journal of Psychology and Educational",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journal.minangdarussalam.or.id/index.php/djpe/article/download/308/114",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70363/djpe.v4i1.308?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70363/djpe.v4i1.308, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-07-29",
+   "authors": [
+    {
+     "authorId": "2080539266",
+     "name": "B. I. Sappaile"
+    },
+    {
+     "authorId": "2378383825",
+     "name": "Jenheri Jenheri"
+    },
+    {
+     "authorId": "2307225145",
+     "name": "A. Sari"
+    },
+    {
+     "authorId": "2359491682",
+     "name": "Ardi Azhar Nampira"
+    }
+   ],
+   "abstract": "This study investigates the impact of gamification on student motivation and engagement in e-learning environments from an educational psychology perspective. The research aims to evaluate how game-based elements—such as points, badges, leaderboards, and challenges—affect intrinsic and extrinsic motivation, learning persistence, and cognitive engagement among students. Using a mixed-methods approach, data were collected through surveys, system analytics, and interviews involving 210 undergraduate students enrolled in online learning courses. Quantitative results show that gamified features significantly enhance students’ intrinsic motivation and foster higher participation rates, while qualitative findings reveal that meaningful design and feedback mechanisms contribute to a more positive learning experience. The study highlights that gamification is most effective when aligned with psychological principles such as self-determination, goal orientation, and flow theory. These findings provide important implications for instructional designers and educators in creating engaging digital learning environments that promote sustained motivation and academic achievement."
+  },
+  {
+   "paperId": "7a96f554acc835bfa249560aa4e7216b4a628db7",
+   "externalIds": {
+    "DOI": "10.70725/040734gzixyu",
+    "CorpusId": 279179639
+   },
+   "url": "https://www.semanticscholar.org/paper/7a96f554acc835bfa249560aa4e7216b4a628db7",
+   "title": "Gamification and Student Motivation in the Chilean Inner City",
+   "venue": "The Journal of Interactive Learning Research",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70725/040734gzixyu?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70725/040734gzixyu, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2322871418",
+     "name": "Nicholas Napolitano"
+    },
+    {
+     "authorId": "2422777",
+     "name": "H. Song"
+    }
+   ],
+   "abstract": "Lack of student motivation is a detrimental problem in foreign language education. This problem may lead to less target language production and lower proficiency. The purpose of this quasi-experimental study was to examine the effect of change in student motivation when a gamified intervention is implemented. This study was conducted in an English foreign language course at a secondary school in the inner city of Temuco, Chile. Student motivation was measured by using a 22 item, self-reporting questionnaire with a six-point Likert scale. A total of 53 students participated in this study. A quantitative analysis indicated that the experimental group scored higher on the questionnaire in all but one of the items. An independent sample t-test indicated that 19 of the items that scored higher were statistically significant. These results show that the use of a gamified intervention can positively affect student motivation."
+  },
+  {
+   "paperId": "6d84786e36f0e86f2f4d348d36602ed76cd93f97",
+   "externalIds": {
+    "DOI": "10.63090/ijep/3108.1800.0004",
+    "CorpusId": 285032710
+   },
+   "url": "https://www.semanticscholar.org/paper/6d84786e36f0e86f2f4d348d36602ed76cd93f97",
+   "title": "Gamification In Education Improving Learning Outcomes And Student Motivation",
+   "venue": "International Journal of Education and Pedagogy (IJEP)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63090/ijep/3108.1800.0004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63090/ijep/3108.1800.0004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-09",
+   "authors": [
+    {
+     "authorId": "2255692421",
+     "name": "Ismail Thamarasseri"
+    }
+   ],
+   "abstract": "Gamification in education enhances learning outcomes, and boosts student motivation by integrating game elements into the learning process. This approach leverages techniques such as points, badges, leaderboards, and challenges to foster engagement, and promote active participation. By creating an interactive, and enjoyable learning environment, gamification encourages students to develop problem-solving skills, persist through challenges, and collaborate with peers. It also provides immediate feedback, helping learners track their progress, and stay motivated. The integration of gamification in education not only increases academic performance but also nurtures intrinsic motivation, and a positive attitude toward learning"
+  },
+  {
+   "paperId": "e5b9d165358fbb1c2a6d78f032abac663b8588ff",
+   "externalIds": {
+    "DOI": "10.61978/eduscape.v3i3.937",
+    "CorpusId": 281981115
+   },
+   "url": "https://www.semanticscholar.org/paper/e5b9d165358fbb1c2a6d78f032abac663b8588ff",
+   "title": "Gamification and Student Engagement: Evidence, Challenges, and Future Directions",
+   "venue": "Eduscape : Journal of Education Insight",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journal.idscipub.com/eduscape/article/download/937/807",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.61978/eduscape.v3i3.937?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.61978/eduscape.v3i3.937, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-07-31",
+   "authors": [
+    {
+     "authorId": "114458085",
+     "name": "A. I. Irvani"
+    },
+    {
+     "authorId": "2385341385",
+     "name": "Andani Putri Dewi"
+    },
+    {
+     "authorId": "2355716846",
+     "name": "A. Gunawan"
+    },
+    {
+     "authorId": "100657533",
+     "name": "A. Rahmaniar"
+    }
+   ],
+   "abstract": "This narrative review explores gamification as a pedagogical strategy in higher education, highlighting its role in improving student engagement, learning outcomes, and motivation. Literature was collected from Scopus, Web of Science, ERIC, and Google Scholar using keywords such as “gamification and student engagement,” “game-based learning in higher education,” and “gamification and learning outcomes.” Inclusion criteria emphasized empirical and theoretical studies published between 2010 and 2025. Findings show that gamification enhances participation, satisfaction, and academic performance by fostering both intrinsic and extrinsic motivation. Comparative evidence indicates stronger results in developed countries supported by robust digital infrastructure, while limited resources constrain adoption in developing regions. Cultural contexts also matter: competitive elements thrive where recognition is valued, while collaborative gamification proves more effective in cooperative cultures. The results align with Self-Determination Theory and Flow Theory, demonstrating how gamification supports autonomy, competence, and deep engagement. Challenges remain in ensuring equitable access, sustaining long-term impact, and addressing design limitations. Policy support through infrastructure, teacher training, and institutional investment is crucial. Future research should emphasize longitudinal evaluations, adaptive frameworks, and low-tech innovations to foster inclusivity and sustainability. Overall, gamification holds significant potential to transform higher education when integrated thoughtfully within systemic and cultural contexts"
+  },
+  {
+   "paperId": "0426c9c34a06762dd9ee9b2378e2fdd2a3b2020b",
+   "externalIds": {
+    "DOI": "10.3926/jotse.1693",
+    "CorpusId": 252703111
+   },
+   "url": "https://www.semanticscholar.org/paper/0426c9c34a06762dd9ee9b2378e2fdd2a3b2020b",
+   "title": "Enhancing cooperative learning and student motivation with gamification strategies: A case study in industrial engineering",
+   "venue": "Journal of Technology and Science Education",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.jotse.org/index.php/jotse/article/download/1693/652",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3926/jotse.1693?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3926/jotse.1693, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2022-10-03",
+   "authors": [
+    {
+     "authorId": "2180586727",
+     "name": "Laia Lluch Molins"
+    },
+    {
+     "authorId": "2533451505",
+     "name": "Francis Yorka Balbotin Escorza"
+    },
+    {
+     "authorId": "2538591487",
+     "name": "Nelida Sullivan Campillay"
+    }
+   ],
+   "abstract": "This contribution presents the pedagogical design of a subject through gamified activities supported by technological tools in which the integration of two key subjects of the Civil Industrial Engineering career were implemented, which are operational research and project evaluation. In addition, the results of the satisfaction and learning perception questionnaires administered at the end of the experience are presented. Gamification is planned and implemented as a collaborative learning strategy to relate knowledge and skills acquired in order to provide solutions to science-based engineering problems in the area of their profession.  The experience has been developed with 10 students of the ninth semester of the 2017 generation of the career, dictated this semester. It should be noted that the course was planned to be taught in classroom mode, due to the COVID-19 pandemic, for both academics and students, it was a challenge and a learning achievement to teach the course online, since the University of Antofagasta was not prepared to teach classes in virtual mode. Even though Chilean universities have used gamification in engineering, there have been no records of the existence of subjects integrated with the application of this tool.The results obtained in this teaching innovation achieved motivation of our students, teamwork, learning to learn, good performance in the completion of academic activities and the satisfaction of students accredited through the survey."
+  },
+  {
+   "paperId": "58780d69be06ccaa7385a0a8e8f989e111777c77",
+   "externalIds": {
+    "DOI": "10.1002/pits.70056",
+    "CorpusId": 280340535
+   },
+   "url": "https://www.semanticscholar.org/paper/58780d69be06ccaa7385a0a8e8f989e111777c77",
+   "title": "A Meta‐Analysis of Gamification's Impact on Student Motivation in K‐12 Education",
+   "venue": "Psychology in the schools (Print)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pits.70056",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/pits.70056?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/pits.70056, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-07-27",
+   "authors": [
+    {
+     "authorId": "2141456731",
+     "name": "M. Kurnaz"
+    },
+    {
+     "authorId": "2038401560",
+     "name": "Nilüfer Koçtürk"
+    }
+   ],
+   "abstract": "Gamification is widely used to enhance student learning and engagement. This meta‐analysis focused on experimental research examining the effects of gamification on student motivation in K‐12. Studies were retrieved from Scopus, PubMed, Web of Science, and ProQuest, resulting in 279 articles screened, with 31 meeting the inclusion criteria. The pooled effect size (k = 41) for gamification was g = 0.654 (95% CI [0.442, 0.866]) under a random effects model, with high heterogeneity observed (I2 = 88.92). Unlike previous meta‐analyses, this study simultaneously compared gamification's effects on intrinsic versus extrinsic motivation and analyzed grade‐level differences across primary, secondary, and high school students. Gamification had a greater impact on extrinsic motivation (g = 0.713, 95% CI [0.152, 1.275]) than intrinsic motivation (g = 0.638, 95% CI [0.239, 1.036]). Additionally, gamification was the most effective among secondary school students (g = 1.015, 95% CI [0.639, 1.391]), followed by high school students (g = 0.821, 95% CI [0.523, 1.119]) and primary school students (g = 0.309, 95% CI [0.033, 0.584]). These findings provide developmentally tailored, practical insights for designing effective gamified learning environments."
+  },
+  {
+   "paperId": "d15db9438fda41904f1ba75ccdc6b5a096826752",
+   "externalIds": {
+    "DOI": "10.34069/ai/2024.79.07.5",
+    "CorpusId": 272622019
+   },
+   "url": "https://www.semanticscholar.org/paper/d15db9438fda41904f1ba75ccdc6b5a096826752",
+   "title": "Gamification and student engagement in higher education: The moderating role of concentration",
+   "venue": "Revista Amazonía investiga",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.34069/ai/2024.79.07.5",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.34069/ai/2024.79.07.5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.34069/ai/2024.79.07.5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-07-30",
+   "authors": [
+    {
+     "authorId": "2320950503",
+     "name": "Ahmed Freeh Allehaidan"
+    },
+    {
+     "authorId": "2492450458",
+     "name": "Wan Mohd Nazmee Wan Zainon"
+    }
+   ],
+   "abstract": "Gamification in the teaching and education system is an innovative approach incorporating game elements into educational activities to enhance student engagement, motivation, and learning outcomes. Thus, this study investigates the relationship between attitude towards using gamification and student engagement (skill engagement and participation engagement) while exploring the moderating role of student concentration in this relationship. The 306 data were collected from the students in the Saudi public university to verify these proposed hypotheses. The findings indicate employing Structural Equation Modeling (SEM) via Partial Least Squares (PLS). The research framework evaluated the impact of attitude towards gamification on student engagement. Results revealed a significant positive relationship between attitude towards using gamification and student engagement, which is more noticeable when student concentration is high than when it is low. This study contributes to understanding the dynamics between gamification, student attitudes, concentration levels, and engagement within educational contexts."
+  },
+  {
+   "paperId": "bd6ea6aa7a926f4beae9016cc3941cd0d2fc21da",
+   "externalIds": {
+    "DOI": "10.35445/alishlah.v17i2.6516",
+    "CorpusId": 279825205
+   },
+   "url": "https://www.semanticscholar.org/paper/bd6ea6aa7a926f4beae9016cc3941cd0d2fc21da",
+   "title": "Gamification in School Education: A Systematic Review of Its Effectiveness in Improving Student Motivation and Academic Outcomes",
+   "venue": "Al-Ishlah: Jurnal Pendidikan",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.35445/alishlah.v17i2.6516",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35445/alishlah.v17i2.6516?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35445/alishlah.v17i2.6516, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-05-20",
+   "authors": [
+    {
+     "authorId": "2309943822",
+     "name": "Nurhayati Nurhayati"
+    },
+    {
+     "authorId": "2508761743",
+     "name": "Fathur M. Fathur Rohman"
+    }
+   ],
+   "abstract": "The integration of technology in education has led to the growing adoption of gamification as a tool to enhance student engagement, motivation, and academic achievement. Despite its benefits, concerns remain regarding its impact on deep learning and disparities in technological access among institutions. This study conducted a systematic literature review to assess the effects of gamification on student motivation and learning outcomes across educational levels. Guided by the PRISMA framework, 278 articles were initially retrieved from the Scopus and ERIC databases. After screening and quality assessment, 21 peer-reviewed studies published between 2021 and 2024 were included, with quality scores ranging from 60% to 100% (average 82%). Findings indicate that gamification positively influences student motivation and often enhances academic performance, especially in primary and secondary education. The most effective game elements identified were points, badges, leaderboards, progress tracking, real-time feedback, collaboration, real-world applications, and autonomy support. However, the effectiveness of gamification varies depending on subject matter, educational stage, and technological infrastructure. While gamification offers notable benefits, its impact is context-dependent. To maximize its potential, educators must adopt balanced approaches that consider student needs, curricular goals, and available resources. Gamification can significantly enhance student learning and motivation when implemented strategically and supported by robust pedagogical and technological frameworks."
+  },
+  {
+   "paperId": "0a7697962f67d4479a86fe64e41f234e93f758b1",
+   "externalIds": {
+    "DOI": "10.29303/jppipa.v11i9.12543",
+    "CorpusId": 282370088
+   },
+   "url": "https://www.semanticscholar.org/paper/0a7697962f67d4479a86fe64e41f234e93f758b1",
+   "title": "The Effect of Gamification in Computer Science Learning on Student Motivation and Learning Outcomes at SMP Negeri 27 Padang",
+   "venue": "Jurnal Penelitian Pendidikan IPA",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://jppipa.unram.ac.id/index.php/jppipa/article/download/12543/8446",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29303/jppipa.v11i9.12543?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29303/jppipa.v11i9.12543, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-09-25",
+   "authors": [
+    {
+     "authorId": "2387610239",
+     "name": "Yulirismayenti"
+    },
+    {
+     "authorId": "2081881295",
+     "name": "Dedy Irfan"
+    },
+    {
+     "authorId": "2340765924",
+     "name": "T. Wahyuni"
+    },
+    {
+     "authorId": "2330642615",
+     "name": "Refdinal"
+    },
+    {
+     "authorId": "2294412530",
+     "name": "Ahmaddul Hadi"
+    },
+    {
+     "authorId": "2342850335",
+     "name": "Abdul Habib Arrasyidi Desky"
+    }
+   ],
+   "abstract": "This study aims to examine the effect of gamification in Informatics learning on students’ motivation and academic achievement in Grade VII at SMP Negeri 27 Padang. A quasi-experimental method was employed with two groups: an experimental class using gamification and a control class using conventional teaching, involving 64 students. The results show that gamification significantly enhances both motivation and learning outcomes. The average pretest score in the experimental class increased from 66.37 to 85.00 in the posttest, while the control class rose from 66.43 to 75.23. Statistical analysis revealed a significance value of 0.000 < 0.05, indicating a significant difference between the two groups. The findings suggest that incorporating gamification elements such as points, badges, and challenges creates a more engaging and effective learning environment. In conclusion, gamification serves as an innovative pedagogical strategy to address low motivation and achievement in Informatics education, aligning with the characteristics of 21st-century digital-native learners."
+  },
+  {
+   "paperId": "7890ba56787b13f117c909e2f1065bfe30ab5c26",
+   "externalIds": {
+    "DOI": "10.35828/etak.2022.28.1.23",
+    "CorpusId": 247985654
+   },
+   "url": "https://www.semanticscholar.org/paper/7890ba56787b13f117c909e2f1065bfe30ab5c26",
+   "title": "Gamification and EFL Writing: Effects on Student Motivation",
+   "venue": "The English Teachers Association in Korea",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35828/etak.2022.28.1.23?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35828/etak.2022.28.1.23, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-03-30",
+   "authors": [
+    {
+     "authorId": "2060728246",
+     "name": "Dennis Laffey"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "f60af62eca9652bafaf3c63bc459d7de3d22c911",
+   "externalIds": {
+    "DOI": "10.1007/s11423-023-10337-7",
+    "CorpusId": 267000760
+   },
+   "url": "https://www.semanticscholar.org/paper/f60af62eca9652bafaf3c63bc459d7de3d22c911",
+   "title": "Gamification enhances student intrinsic motivation, perceptions of autonomy and relatedness, but minimal impact on competency: a meta-analysis and systematic review",
+   "venue": "Educational technology research and development",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11423-023-10337-7.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11423-023-10337-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11423-023-10337-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-01-16",
+   "authors": [
+    {
+     "authorId": "2171689799",
+     "name": "Liuyufeng Li"
+    },
+    {
+     "authorId": "2791331",
+     "name": "K. Hew"
+    },
+    {
+     "authorId": "2111144231",
+     "name": "Jiahui Du"
+    }
+   ],
+   "abstract": "Although many studies in recent years have examined the use of gamification as a motivational strategy in education, evidence regarding its effects on intrinsic motivation is inconsistent. To make the case for or against the adoption of gamification in education, this study examines its effects on students’ intrinsic motivation and the underlying motivational factors: perceived competence, autonomy, and relatedness. In this review, we analyzed the results of studies comparing gamified learning with non-gamified learning published between 2011 and 2022. The results of our meta-analysis of 35 independent interventions (involving 2500 participants) indicated an overall significant but small effect size favoring gamified learning over learning without gamification (Hedges’ g  = 0.257, 95% CI [0.043, 0.471], p  = .019) with no evidence of publication bias. Gamification also exerted a positive and significant effect on the students’ perceptions of autonomy (Hedges’ g  = 0.638, 95% CI [0.139, 1.136], p  = .012) and relatedness (Hedges’ g  = 1.776, 95% CI [0.737, 2.814], p  = .001), but minimal impact on competence (Hedges’ g  = 0.277, 95% CI [0.001, 0.553], p  = .049). To further investigate the possible reasons for the small impact on intrinsic motivation, a systematic review of 31 studies was conducted. The findings revealed two major challenges encountered in the adoption of gamification to increase students’ intrinsic motivation: students’ lack of perceived competence and lack of perceived autonomy in gamified classes."
+  },
+  {
+   "paperId": "e4e8352716efc406460171110af6bf46eb750643",
+   "externalIds": {
+    "DOI": "10.58788/alwijdn.v10i1.5844",
+    "CorpusId": 275886641
+   },
+   "url": "https://www.semanticscholar.org/paper/e4e8352716efc406460171110af6bf46eb750643",
+   "title": "The Use of Gamification-Based Duolingo Application in Increasing Student Motivation is Reviewed From the Theory of Self-Determination",
+   "venue": "Al-Wijdán: journal of Islamic education studies",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://ejournal.uniramalang.ac.id/index.php/alwijdan/article/download/5844/3709",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58788/alwijdn.v10i1.5844?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58788/alwijdn.v10i1.5844, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-01-24",
+   "authors": [
+    {
+     "authorId": "2342160529",
+     "name": "Mirza Muttaqin"
+    },
+    {
+     "authorId": "2342160469",
+     "name": "Halimi Zuhdi"
+    },
+    {
+     "authorId": "2369364797",
+     "name": "R. Ridwan"
+    }
+   ],
+   "abstract": "This study aims to evaluate the extent to which the gamification-based Duolingo application can increase students' motivation in learning Arabic, especially in vocabulary mastery or mufrodat, with the Self-Determination Theory (SDT) theoretical approach. SDT focuses on the importance of intrinsic motivation, which is driven by three main aspects: autonomy or independence, competence or ability, and interconnectedness or relationships that are established in the context of learning. This study uses a quantitative approach with a Descriptive Survey design to provide a more real picture of the influence of the use of this application on student motivation. Data collection was carried out with an SDT questionnaire instrument that measured the level of student motivation through the three main components. The results of the data analysis showed a significant increase in motivation among students who participated in the experiment. These findings indicate that the gamification-based Duolingo application plays a role in increasing students' intrinsic motivation in learning mufrodat, especially by strengthening a sense of independence, improving perceived abilities, and creating a sense of connectedness or relevance in the learning process. Gamification-based Duolingo has great potential as an effective tool in language learning, especially in helping to increase students' motivation to master new vocabulary. It is evidenced by the questionnaire data which got a score of 88%.\nKeywords: Duolingo, gamification, Self-Determination Theory, mufrodat"
+  },
+  {
+   "paperId": "a5f5e26f1ee5e9f4631c0b5bd6e4256470423343",
+   "externalIds": {
+    "DOI": "10.2478/atd-2025-0013",
+    "CorpusId": 278298185
+   },
+   "url": "https://www.semanticscholar.org/paper/a5f5e26f1ee5e9f4631c0b5bd6e4256470423343",
+   "title": "Gamification in Education: Effectiveness and Impact on Student Motivation",
+   "venue": "Acta Educationis Generalis",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2478/atd-2025-0013",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2478/atd-2025-0013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2478/atd-2025-0013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-04-01",
+   "authors": [
+    {
+     "authorId": "2340841907",
+     "name": "M. Reiter"
+    }
+   ],
+   "abstract": "Abstract Introduction Gamification has become a widely adopted strategy in education, aiming to enhance student motivation, engagement, and learning outcomes. In vocational and technical education, digital platforms often use gamified elements to support autonomous and self-directed learning. However, the actual effectiveness of individual gamification features remains under-researched in practice. Methods The study applied a mixed-methods approach based on statistical analysis of user data from the educational platform VITA (N=5,402) and comparative evaluation against established theoretical models by Sailer (2017) and Hamari (2014). Descriptive statistics and Pearson correlation coefficients were used to identify key relationships between learner characteristics, engagement indicators, and gamification components. Results The findings show that points (XP) and instant feedback are the most effective gamification elements in supporting course completion and learner engagement. In contrast, badges and leaderboards demonstrated minimal correlation with performance metrics. Comparative radar chart analysis confirmed a partial alignment between theoretical models and practical implementation. Discussion Gamification can be a powerful motivational tool if pedagogically grounded and intentionally designed. The study highlights the importance of aligning gamified elements with motivational principles, especially in the context of vocational learners who require clarity, autonomy, and progress tracking. Limitations The dataset represents only one private educational platform and does not include qualitative user feedback or adaptive personalization features. Conclusions Gamification is effective when elements such as feedback, points, and progress are meaningfully integrated into the learning process. Future educational innovations should focus on deeper personalization, narrative integration, and collaborative design to maximize gamification’s motivational potential."
+  },
+  {
+   "paperId": "80405a504138f7b899bf2b6de5f1d70bfc06396c",
+   "externalIds": {
+    "DOI": "10.63345/ijre.v14.i2.2",
+    "CorpusId": 277763768
+   },
+   "url": "https://www.semanticscholar.org/paper/80405a504138f7b899bf2b6de5f1d70bfc06396c",
+   "title": "Gamification in Education: Effects on Student Motivation and Learning Outcomes",
+   "venue": "International Journal of Research and Education",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63345/ijre.v14.i2.2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63345/ijre.v14.i2.2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2334700542",
+     "name": "Niharika Singh"
+    }
+   ],
+   "abstract": "The application of gamification in learning processes is a new pedagogical method that incorporates aspects typical of games in non-game contexts to drive student motivation, engagement, and learning performance. This paper critically discusses the effect of gamification on the motivation of students and academic performance, with a focus on its application in learning contexts. Critical examination of literature shows that gamification has the capability to increase intrinsic motivation, drive active learning, and allow knowledge to be retained for the long term. However, the extent of effectiveness depends on levels of education and subject matter. The research design that is used in this study adheres to a mixed-methods study, where quantitative data is obtained through surveys supplemented by qualitative data from teachers and students. Results show that gamification provides higher rates of student engagement and satisfaction but not always converted into significant improvements in academic performance. The paper concludes by summarizing implications of findings for educationists and policymakers and offering directions for future research endeavors."
+  },
+  {
+   "paperId": "6f213c20aa55978a08e5243c53b2688bc776e391",
+   "externalIds": {
+    "DOI": "10.33306/mjssh/304",
+    "CorpusId": 275286217
+   },
+   "url": "https://www.semanticscholar.org/paper/6f213c20aa55978a08e5243c53b2688bc776e391",
+   "title": "Assessing the influence of gamification on student motivation in English language acquisition",
+   "venue": "Muallim Journal of Social Science and Humanities",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://mjsshonline.com/index.php/journal/article/download/608/350",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33306/mjssh/304?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33306/mjssh/304, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-02",
+   "authors": [
+    {
+     "authorId": "2338452003",
+     "name": "Rzabayeva Diana"
+    },
+    {
+     "authorId": "2084297367",
+     "name": "G. Kassymova"
+    },
+    {
+     "authorId": "2006802127",
+     "name": "S. Issaliyeva"
+    },
+    {
+     "authorId": "2278150448",
+     "name": "M. Nursultan"
+    },
+    {
+     "authorId": "2448875718",
+     "name": "A. Orynbayeva"
+    }
+   ],
+   "abstract": "This research article presents a comprehensive investigation into the integration of gamification elements in English language learning environments and its effect on student motivation. Employing a mixed-method approach, the study utilizes pre and post-tests coupled with descriptive statistics to measure language proficiency levels before and after the gamified intervention. The experimental group comprises 50 fifth-grade students, evenly distributed with 25 females and 25 males, aged approximately 10-11 years old. Central to the study is the incorporation of gamification, a pedagogical strategy that leverages game-like elements to enhance engagement and motivation in learning activities. By embedding features such as rewards, challenges, and progress tracking within language learning tasks, the research aims to evaluate how these gamified components influence student motivation and, consequently, language acquisition outcomes. Through rigorous analysis of both quantitative performance data and qualitative feedback, the study seeks to unravel the nuanced relationship between gamification strategies and student motivation in the context of English language acquisition. By examining the interplay between gamified elements and motivational factors, the research endeavours to offer valuable insights into effective instructional design practices for fostering engagement and proficiency in language learning settings. This study holds significant implications for educators and curriculum developers seeking innovative approaches to cultivate a vibrant and motivating learning environment conducive to language acquisition success."
+  },
+  {
+   "paperId": "4afa3d63294aedbb55400b9f8a950b31c568a29d",
+   "externalIds": {
+    "DOI": "10.55849/scientechno.v3i2.1050",
+    "CorpusId": 271494803
+   },
+   "url": "https://www.semanticscholar.org/paper/4afa3d63294aedbb55400b9f8a950b31c568a29d",
+   "title": "The Impact of Gamification Learning on Student Motivation in Elementary School Learning",
+   "venue": "Journal of Science & Technology",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.55849/scientechno.v3i2.1050",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55849/scientechno.v3i2.1050?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55849/scientechno.v3i2.1050, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-07-16",
+   "authors": [
+    {
+     "authorId": "2080539266",
+     "name": "B. I. Sappaile"
+    }
+   ],
+   "abstract": "Lately, many students have found a lack of motivation in learning in elementary schools. This can be caused by a lack of methods or use of technology that can attract students' attention so they are motivated to learn. Student motivation is a key factor in successful learning in elementary schools. However, one often finds it challenging to maintain high levels of motivation among students. For this reason, a gamification approach, which uses game elements in learning, has attracted attention as a way to increase student motivation. This research aims to determine the impact of gamified learning on student motivation in learning in elementary schools. The focus is to find out whether the use of game elements in learning can increase student motivation. This research uses a quantitative approach with a preposttest-posttest experimental design. Data was collected through questionnaires that measured students' motivation levels before and after the intervention. The research results show that gamified learning has a positive impact on student motivation in elementary schools. Students who engaged in learning with gamification elements showed greater increases in their motivation levels compared to students who received conventional learning. Factors such as challenge, reward, and self-recognition in the context of play help increase student interest and engagement in learning. The conclusion of this research explains that gamified learning can be an effective tool for increasing student motivation in elementary schools. The integration of game elements such as points, levels, and challenges in learning can increase student interest, engagement, and overall motivation. These findings provide an important contribution to the development of more innovative and effective learning strategies in the future."
+  },
+  {
+   "paperId": "8e0d05c6091129f326ebc80067d61eca4b84932c",
+   "externalIds": {
+    "DOI": "10.9743/jeo.2024.21.2.15",
+    "CorpusId": 268801376
+   },
+   "url": "https://www.semanticscholar.org/paper/8e0d05c6091129f326ebc80067d61eca4b84932c",
+   "title": "A Systematic Review of Gamification in MOOCs: Effects on Student Motivation, Engagement, and Dropout Rates",
+   "venue": "Journal of Educators Online",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.9743/jeo.2024.21.2.15",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9743/jeo.2024.21.2.15?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9743/jeo.2024.21.2.15, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-03-31",
+   "authors": [
+    {
+     "authorId": "2294214555",
+     "name": "Alj Zakaria"
+    }
+   ],
+   "abstract": "A massive open online course (MOOC) is a powerful tool for expanding educational opportunities, but one of the major challenges facing MOOCs is the high dropout rate. Low completion rates indicate issues with student engagement and motivation. Gamification, the incorporation of game elements in non-game contexts, has shown promise in increasing engagement and completion rates in education. This systematic review aims to explore the current state of research on gamification in MOOCs, including the most commonly used gamification aspects, their impact on motivation and engagement, and the influence on dropout rates. We searched several databases, such as Google Scholar, Scopus, and ERIC, from 2014 to 2021 and included studies that focused on the application of gamification in MOOCs and its effects on motivation, engagement, and dropout rates. A total of 16 studies were analyzed, and the results were synthesized to address the research questions posed. The results of this systematic literature review indicate that while research on gamification in MOOCs is still in its early stages, several studies have shown that gamification elements such as badges, levels, leaderboards, challenges, and rewards significantly affect student motivation and engagement, and reduce dropout rates in MOOCs. However, the effectiveness of these elements varies depending on their specific design, implementation, and alignment with students’ intrinsic motivations and goals."
+  },
+  {
+   "paperId": "77375fa98accbd3c9e271c7e9a767c0c1ffd6c3a",
+   "externalIds": {
+    "DOI": "10.32672/pice.v2i1.1332",
+    "CorpusId": 269344126
+   },
+   "url": "https://www.semanticscholar.org/paper/77375fa98accbd3c9e271c7e9a767c0c1ffd6c3a",
+   "title": "ANALYSIS OF THE ROLE OF GAMIFICATION IN EDUCATION: ITS IMPACT ON STUDENT MOTIVATION",
+   "venue": "Proceedings of International Conference on Education",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://jurnal.serambimekkah.ac.id/index.php/ice/article/download/1332/997",
+    "status": "HYBRID",
+    "license": "other-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32672/pice.v2i1.1332?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32672/pice.v2i1.1332, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2024-04-01",
+   "authors": [
+    {
+     "authorId": "2298148496",
+     "name": "Loly Suwandani"
+    },
+    {
+     "authorId": "67291311",
+     "name": "Sunyono"
+    }
+   ],
+   "abstract": "This research examined the role of gamification-based learning in the world of education which has an impact on student learning motivation. The research method used was the survey method, this method was used to collect data and analyze the impact of gamification on student motivation. The subjects of this research were 237 students from East Lampung. The research results showed that the use of gamification can have an impact on students' motivation to learn. Gamification is complemented by game elements such as scores, challenges, and rewards, which can create a more interactive and engaging learning environment and stimulate competitiveness, cooperation, and exploration of complex concepts in a fun way. Rewards associated with gamification provide added value for students to be actively involved in the learning process. This research made an important contribution to understanding the role of gamification in educational contexts and provides a basis for implementing more effective gamification strategies to increase student motivation. The implications of the results of this research can be used as a guide for educators and policymakers to design more interesting and motivating learning experiences in the field of education."
+  },
+  {
+   "paperId": "793fffe0a18262de27c97dd53bbd8d20b8d30b8a",
+   "externalIds": {
+    "DOI": "10.31958/lughawiyah.v6i1.12559",
+    "CorpusId": 271777216
+   },
+   "url": "https://www.semanticscholar.org/paper/793fffe0a18262de27c97dd53bbd8d20b8d30b8a",
+   "title": "Utilization of Gamification in Arabic Language Learning to Increase Student Motivation and Achievement",
+   "venue": "Lughawiyah: Journal of Arabic Education and Linguistics",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.31958/lughawiyah.v6i1.12559",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31958/lughawiyah.v6i1.12559?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31958/lughawiyah.v6i1.12559, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-06-28",
+   "authors": [
+    {
+     "authorId": "1581708296",
+     "name": "Melisa Rezi"
+    },
+    {
+     "authorId": "2268263250",
+     "name": "Ahmad Firdaus Mohd Noor"
+    },
+    {
+     "authorId": "2327432060",
+     "name": "Tsai Nicholas"
+    }
+   ],
+   "abstract": "Technological developments in the current era of globalization are essential in the world of Education. There is much technology that supports learning. In the current digital era, technology and Education have introduced gamification as an innovative method to increase student motivation and learning achievement in higher Education. However, gamification’s negative impact on academics still requires further research. This research aims to determine the effect of using gamification in increasing motivation and achievement. The method used in this research is a quantitative survey method. This method can show that this research is in the form of data containing numbers. This data was obtained by using Google Forms to create a questionnaire containing questions, which were then distributed to respondents who would get the results. So, the researchers will discuss these results in the results and discussion. The results of this research show and explain that gamification in learning Arabic can increase the interest, motivation, and achievement of college students in the Arabic language learning process. The conclusion of this research shows that gamification can increase enthusiasm for learning and student involvement in the learning process. The limitation of this research is that the researcher only focuses on the influence of gamification in increasing student motivation and achievement in higher Education. The researcher’s hope for future researchers is that they can further develop and explain in detail the influence of gamification in Arabic language learning to increase student motivation and achievement in higher Education."
+  }
+ ]
+}

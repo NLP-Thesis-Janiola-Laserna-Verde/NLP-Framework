@@ -1,0 +1,963 @@
+{
+ "query": "Zero trust architecture for network security",
+ "retrieved_at": "2026-11-18T17:44:50.556832+00:00",
+ "data": [
+  {
+   "publisher": "Breda Publishing Press",
+   "abstract": "<jats:p> Entering traditional passwords on a website is not uncommon and most people have at least one. But as our digital reliance increases and cyber criminals become more tech savvy, passwords may not be suitable as our primary form of authentication in the future. </jats:p>",
+   "DOI": "10.12968/s1353-4858(22)70045-1",
+   "type": "journal-article",
+   "title": [
+    "Zero-trust architecture is creating a passwordless society"
+   ],
+   "author": [
+    {
+     "given": "Jonas",
+     "family": "Iggbom",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Curity"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Network Security"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.12968/s1353-4858(22)70045-1"
+  },
+  {
+   "publisher": "Auricle Global Society of Education and Research",
+   "abstract": "<jats:p>Enterprise network security has rapidly transitioned from customary castle-and-moat architectures to Zero-Trust network security architectures that focus on identity-based security controls for distributed computing environments. In particular, the emergence of Internet of Things (IoT) devices and cloud computing, together with the associated threat landscape, render customary castle-and-moat security architectures as well as trusted networks and trusted devices obsolete. As a result, constant authentication and authorization of each access request based on a wide-ranging context are required instead. Edge computing infrastructure can implement Zero Trust using distributed policy enforcement points with low-latency response and control. Artificial intelligence-based deep learning architectures, such as recurrent neural networks and transformer architectures, can autonomously detect threats at the edge by monitoring and analyzing network and device behavior during system operation in real-time. API-based security orchestration solutions allow security policies to be dynamically updated in response to incidents in the underlying network infrastructure, resulting in incident response time frames in the sub-second range. Advanced Persistent Threats targeting SCADA and ICS systems require alternative approaches such as game-theoretic modeling combined with physical system monitoring. When combined with Zero-Trust principles deployed at the network edge, ML can enable a distributed, ultra-low latency security fabric that is able to detect advanced and evasive attacks and that is suited to latency-sensitive applications. Physical system detection algorithms were shown to be effective against integrity attacks on IACS with low false positives. Protocol-specific intrusion detection systems using deterministic finite automaton approaches can achieve perfect traffic modeling and detect anomalies in the field. The security of the modern distributed enterprise against new-age cyber threats has been established by the convergence of Zero-Trust architecture, edge computing, artificial intelligence, and automated security orchestration.</jats:p>",
+   "DOI": "10.52710/cfs.963",
+   "type": "journal-article",
+   "title": [
+    "AI-Enabled Zero-Trust Security Architecture at Network Edge"
+   ],
+   "author": [
+    {
+     "family": "Naveen Kumar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Computer Fraud and Security"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.52710/cfs.963"
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Manufacturing is undergoing a digital revolution as shop floor operations become smarter and more connected. This convergence of operational technology (OT) with information technology (IT) brings immense productivity gains-but it also exposes the once-isolated factory floor to cyber threats. Zero Trust Architecture (ZTA), with its \"never trust, always verify\" mantra, has emerged as a leading strategy to secure modern manufacturing networks. At the same time, artificial intelligence (AI) is transforming cybersecurity by enabling smarter threat detection, adaptive controls, and automated responses. In this article, we explore how AI (including generative AI, machine learning, anomaly detection, computer vision, and predictive analytics) can enhance Zero Trust security principles on the manufacturing shop floor, where OT and IT systems intersect in complex ways.</jats:p>",
+   "DOI": "10.2139/ssrn.5260029",
+   "type": "posted-content",
+   "title": [
+    "The Role of AI in Zero Trust Architecture: Strengthening Network Security on the Manufacturing Shop Floor"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0000-2194-5431",
+     "authenticated-orcid": true,
+     "given": "Venkatesh",
+     "family": "Kodela",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.5260029"
+  },
+  {
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "abstract": "<jats:p>Zero Trust Architecture (ZTA), a paradigm shift in cybersecurity, has significantly transformed traditional network security with the pivotal strategy based on the principal of \"never trust, always verify.\" This study explores the core components of ZTA through a systematic literature review, focusing on the Principles of Zero Trust, and other components such as Access Management (IAM), data encryption, endpoint security, and multi-factor authentication, based on synthesized findings from recent studies. This paper proposed a comprehensive flowchart implementation, demonstrating how crucial ZTA is in contemporary and future network infrastructures, including IoT and 6G networks. Concluding the study with a detailed proposal framework for effective ZTA implementation, this paper is tailored to diverse organizational needs that highlights ZTA's potential to significantly strengthen organizational security against evolving cyber threats.</jats:p>",
+   "DOI": "10.36227/techrxiv.172165641.12548858/v1",
+   "type": "posted-content",
+   "title": [
+    "Zero Trust Architecture: A Paradigm Shift in Network Security"
+   ],
+   "author": [
+    {
+     "given": "Nurin Irdina",
+     "family": "Roslan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Computer Science and Mathematic, Universiti Teknologi Mara Cawangan Perak Kampus Tapah"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0006-9810-0748",
+     "authenticated-orcid": false,
+     "given": "Noormunirah Thuraya",
+     "family": "Mazman",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Computer Science, and Mathematic Universiti Teknologi Mara Cawangan Perak Kampus Tapah"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nur Farisha Adlina",
+     "family": "Johari",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Faculty of Computer Science, and Mathematic Universiti Teknologi Mara Cawangan Perak Kampus Tapah"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      7,
+      22
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.36227/techrxiv.172165641.12548858/v1"
+  },
+  {
+   "publisher": "Breda Publishing Press",
+   "abstract": "<jats:p> In today's digital landscape, data is a company's most valuable asset, and energy companies, particularly electric, oil and gas, remain at risk of hacking attempts due to their major social and economic importance. Using key zero-trust principles can help to ensure that IT systems are protected, mitigating the risk to company operations and sensitive and critical data. </jats:p><jats:p> Data is a company's most valuable asset, and energy companies, particularly electric, oil and gas, remain at risk of hacking attempts due to their major social and economic importance. </jats:p><jats:p> Zero-trust principles can help to ensure that IT systems are protected, mitigating the risk to company operations and sensitive and critical data. However, as David Greenwood of ISN Solutions explains, this model often requires careful planning to ensure productivity and that access to data needed for daily work is maintained. </jats:p>",
+   "DOI": "10.1016/s1353-4858(21)00063-5",
+   "type": "journal-article",
+   "title": [
+    "Applying the principles of zero-trust architecture to protect sensitive and critical data"
+   ],
+   "author": [
+    {
+     "given": "David",
+     "family": "Greenwood",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "ISN Solutions"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Network Security"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1016/s1353-4858(21)00063-5"
+  },
+  {
+   "DOI": "10.1201/9781779643575-12",
+   "title": [
+    "Machine Learning-Based Zero-Trust Framework for Advanced Network Security"
+   ],
+   "container-title": [
+    "Zero-Trust Learning"
+   ],
+   "publisher": "Apple Academic Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781779643575-12",
+   "author": [
+    {
+     "given": "Vikram",
+     "family": "Singh",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sanjay",
+     "family": "Tyagi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/icncis67521.2025.11296039",
+   "title": [
+    "A Review of Zero Trust Architecture Security Research"
+   ],
+   "container-title": [
+    "2025 5th International Conference on Network Communication and Information Security (ICNCIS)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      10,
+      17
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/icncis67521.2025.11296039",
+   "author": [
+    {
+     "given": "Tianyu",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Nanjing University of Aeronautics and Astronautics,College of Computer Science and Technology/College of Software,Nanjing,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lyuyi",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Guangzhou Automobile Group Co., Ltd.,Guangzhou,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781779643575-11",
+   "title": [
+    "Leveraging AI and Zero-Trust Principles for Improved Security"
+   ],
+   "container-title": [
+    "Zero-Trust Learning"
+   ],
+   "publisher": "Apple Academic Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781779643575-11",
+   "author": [
+    {
+     "given": "Gunseerat",
+     "family": "Kaur",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/mnet.2023.3326356",
+   "title": [
+    "Zero Trust Architecture for 6G Security"
+   ],
+   "container-title": [
+    "IEEE Network"
+   ],
+   "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1109/mnet.2023.3326356",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7073-147X",
+     "authenticated-orcid": false,
+     "given": "Xu",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Electronic Engineering, Tsinghua University, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5147-2145",
+     "authenticated-orcid": false,
+     "given": "Wei",
+     "family": "Feng",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Electronic Engineering, Tsinghua University, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4922-7025",
+     "authenticated-orcid": false,
+     "given": "Ning",
+     "family": "Ge",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Electronic Engineering, Tsinghua University, Beijing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yan",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Informatics, University of Oslo, Oslo, Norway"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>The growing adoption of hybrid cloud environments has introduced new challenges in securing complex infrastructures, where traditional perimeter-based security models are no longer sufficient. This paper proposes a Zero-Trust Security Architecture tailored to hybrid cloud deployments, addressing the limitations of legacy security models by ensuring that no entity, whether internal or external, is trusted by default. The Zero Trust model operates on the principle of \"never trust, always verify,\" enforcing stringent access controls and continuous monitoring. This architecture incorporates key elements such as Identity and Access Management (IAM), micro-segmentation, and least privilege access to mitigate risks associated with lateral movement, unauthorized access, and data breaches. Through a detailed analysis of the literature and case studies, this paper explores the practical implementation of Zero Trust in hybrid clouds, highlighting the benefits of reduced attack surfaces, enhanced compliance, and improved operational efficiencies. The study demonstrates that adopting Zero Trust can significantly strengthen security in dynamic environments, providing a scalable and adaptable solution for evolving security threats. Experimental results show improvements in security metrics such as click-through rate (CTR) and conversion rate, validating the effectiveness of the proposed model. This paper aims to serve as a comprehensive framework for organizations seeking to enhance their hybrid cloud security posture through a robust, real-time security architecture.&amp;nbsp;</jats:p>",
+   "DOI": "10.2139/ssrn.5363397",
+   "type": "posted-content",
+   "title": [
+    "Zero-Trust Security Architecture for Hybrid Cloud Deployments"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0008-9819-0223",
+     "authenticated-orcid": true,
+     "given": "Venkatesh",
+     "family": "Muniyandi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.5363397"
+  },
+  {
+   "DOI": "10.1201/9781779643575-3",
+   "title": [
+    "Advantages of Zero-Trust Security"
+   ],
+   "container-title": [
+    "Zero-Trust Learning"
+   ],
+   "publisher": "Apple Academic Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781779643575-3",
+   "author": [
+    {
+     "given": "Neha",
+     "family": "Sharma",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Shubhangi",
+     "family": "Mishra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohit",
+     "family": "Angurala",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yashika",
+     "family": "Sharma",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781394361120.ch13",
+   "title": [
+    "Journey from Flat Network to Zero Trust"
+   ],
+   "container-title": [
+    "Zero Trust Security"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      25
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781394361120.ch13"
+  },
+  {
+   "publisher": "International Research Publication and Journals",
+   "abstract": "<jats:p>The changing cybersecurity landscape requires creative frameworks to combat advanced threats. Zero Trust Architecture (ZTA) represents a fundamental transformation from conventional perimeter-based security frameworks by implementing the principles of \"never trust, always verify.\" This study examines the deployment of ZTA, its challenges, applications, and its effect on network security. This paper emphasizes ZTA's efficiency in addressing insider threats and lateral movement and improving data protection through an extensive examination of the literature before 2021. The report finishes with observations regarding ZTA's potential and suggestions for future integration.</jats:p>",
+   "DOI": "10.71097/ijsat.v15.i1.1650",
+   "type": "journal-article",
+   "title": [
+    "Implementation and Challenges of Zero Trust Architecture in Network Security"
+   ],
+   "author": [
+    {
+     "given": "Sabeeruddin shaik",
+     "family": "-",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal on Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      2,
+      14
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.71097/ijsat.v15.i1.1650"
+  },
+  {
+   "DOI": "10.1201/9781779643575-7",
+   "title": [
+    "Enhancing Educational Security with AI and Zero-Trust Principles"
+   ],
+   "container-title": [
+    "Zero-Trust Learning"
+   ],
+   "publisher": "Apple Academic Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781779643575-7",
+   "author": [
+    {
+     "family": "Priyanka",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Monica",
+     "family": "Luthra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mohit",
+     "family": "Angurala",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Traditional perimeter-based security models fail to protect against advanced cyber threats, so organizations need a better security framework which implements Zero Trust principles. Zero Trust Architecture (ZTA) uses the verification principle of \"never trust always verify\" to deliver a real-time security solution with authentication along with authorization and monitoring. The deployment of Artificial Intelligence (AI) within Zero Trust security operations delivers automatic threat identification along with behavior analysis services and adaptive policy implementations to boost protection measures. AI-enabled Zero Trust security frameworks show widespread industrial success through successful prevention of unauthorized access combined with fraud prevention and the elimination of phishing attacks. The implementation of Zero Trust security faces multiple challenges because it deals with elevated false positive detection rates together with substantial computational requirements and adversarial attack threats and follows strict regulatory framework requirements. This paper examines AI-driven Zero Trust security for web applications by investigating major system components and practical applications while identifying leading obstacles. The paper outlines future research avenues with an emphasis on defense methods for adversarial AI together with federal learning techniques for confidential analytics and power-efficient AI detection solutions for real-time security threats.</jats:p>",
+   "DOI": "10.2139/ssrn.5257699",
+   "type": "posted-content",
+   "title": [
+    "AI-Powered Zero Trust Architecture for Web App Security"
+   ],
+   "author": [
+    {
+     "given": "Sandeep",
+     "family": "Phanireddy",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.5257699"
+  },
+  {
+   "DOI": "10.1515/9783111712895-010",
+   "title": [
+    "227Chapter 10 Zero Trust Architecture – A Beginner’s Guide"
+   ],
+   "container-title": [
+    "Cybersecurity Unlocked"
+   ],
+   "publisher": "De Gruyter",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      7,
+      30
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1515/9783111712895-010",
+   "author": [
+    {
+     "given": "Varre Komal Krishna",
+     "family": "Shashank",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of CSE (Cyber Security) , Indian Institute of Information Technology (IIIT) Kottayam , Valavoor Chakkampuzha Rd, Valavoor, Pala , Kerala"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/9781394361120.ch05",
+   "title": [
+    "Network Segmentation and Network Security"
+   ],
+   "container-title": [
+    "Zero Trust Security"
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      25
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1002/9781394361120.ch05"
+  },
+  {
+   "DOI": "10.21275/sr24716003250",
+   "title": [
+    "Zero Trust Architecture: Principles, Implementation, and Impact on Organizational Security"
+   ],
+   "container-title": [
+    "International Journal of Science and Research (IJSR)"
+   ],
+   "publisher": "International Journal of Science and Research",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      5
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21275/sr24716003250",
+   "author": [
+    {
+     "given": "Yamini",
+     "family": "Kannan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781779643575-9",
+   "title": [
+    "Enhancing Network Security with Zero-Trust Principles and Anonymous Identity Authentication"
+   ],
+   "container-title": [
+    "Zero-Trust Learning"
+   ],
+   "publisher": "Apple Academic Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781779643575-9",
+   "author": [
+    {
+     "given": "Raghavendra",
+     "family": "Kulkarni",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chetna",
+     "family": "Kaushal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ismail",
+     "family": "Keshta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mukesh",
+     "family": "Soni",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Renato R.",
+     "family": "Maaliw",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781779643575-2",
+   "title": [
+    "Importance of Zero Trust and Transformation of Modern Network Security"
+   ],
+   "container-title": [
+    "Zero-Trust Learning"
+   ],
+   "publisher": "Apple Academic Press",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781779643575-2",
+   "author": [
+    {
+     "given": "S.",
+     "family": "Muralimohan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "U.",
+     "family": "Sivaji",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "R.",
+     "family": "Tharun",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "B. Rupa",
+     "family": "Devi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "T. Ravi",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

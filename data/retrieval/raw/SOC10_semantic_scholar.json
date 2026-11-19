@@ -1,0 +1,646 @@
+{
+ "query": "Informal employment and economic development",
+ "retrieved_at": "2026-11-18T17:58:56.788767+00:00",
+ "data": [
+  {
+   "paperId": "1b1fc8a7e95337c145c17059a2d655cfc4a542a6",
+   "externalIds": {
+    "DOI": "10.54254/2977-5701/2026.37803",
+    "CorpusId": 293887504
+   },
+   "url": "https://www.semanticscholar.org/paper/1b1fc8a7e95337c145c17059a2d655cfc4a542a6",
+   "title": "Does air pollution promote informal employment? A mechanism analysis through housing prices and economic development",
+   "venue": "Journal of Applied Economics and Policy Studies",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://jaeps.ewapub.com/article/view/37803.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.54254/2977-5701/2026.37803?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54254/2977-5701/2026.37803, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-10-20",
+   "authors": [
+    {
+     "authorId": "2516799282",
+     "name": "Chao Liu"
+    },
+    {
+     "authorId": "2516802618",
+     "name": "Yu-Huan Liu"
+    },
+    {
+     "authorId": "2516788025",
+     "name": "Li Liu"
+    }
+   ],
+   "abstract": "Using data from the 2013–2017 China Migrants Dynamic Survey (CMDS), this study employs an IV-Probit model and a Difference-in-Differences (DID) approach to examine the impact of air pollution on informal employment. The results show that the higher the level of air pollution, the greater the likelihood that workers engage in informal employment. Air pollution has a particularly strong positive effect on the likelihood of informal employment among individuals aged 30–45 and those with lower levels of education. Further mechanism analysis indicates that air pollution mainly increases the probability of workers engaging in informal employment through the channels of urban housing prices and economic development. These findings enrich the existing literature on air pollution and employment and provide a theoretical basis for urban environmental governance and the formulation of labor employment policies."
+  },
+  {
+   "paperId": "ced3c136320eeac4e376c5437659d047d8fac803",
+   "externalIds": {
+    "MAG": "2048827926",
+    "DOI": "10.2991/asshm-13.2013.194",
+    "CorpusId": 168041935
+   },
+   "url": "https://www.semanticscholar.org/paper/ced3c136320eeac4e376c5437659d047d8fac803",
+   "title": "The Relationship between Urban Informal Employment and Economic Development in China",
+   "venue": "",
+   "year": 2013,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.2991/asshm-13.2013.194",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2991/asshm-13.2013.194?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2991/asshm-13.2013.194, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2111473796",
+     "name": "Ji Ren"
+    },
+    {
+     "authorId": "2147415727",
+     "name": "Mei Gao"
+    }
+   ],
+   "abstract": "China’s urban informal employment scale has enlarged to become an important part in the workforce and it has important influence on China’s economic development. In the paper, it will show a new calculation method of urban informal employment and the result of calculation. And this paper will estimate China’s urban informal employment scale, analyze the relationship between China’s urban informal employment scale and economic development though data analysis. From two aspects of advantages and disadvantages to consider China’s urban informal employment, the author puts forward some relevant policy Suggestions."
+  },
+  {
+   "paperId": "c18feb84c0f37132f5e129d5f4b09b88c554050d",
+   "externalIds": {
+    "MAG": "3128827705",
+    "DOI": "10.21686/2413-2829-2021-1-73-86",
+    "CorpusId": 234040225
+   },
+   "url": "https://www.semanticscholar.org/paper/c18feb84c0f37132f5e129d5f4b09b88c554050d",
+   "title": "Informal Employment Impact on Social and Economic Development of Russian Federation Entities",
+   "venue": "Vestnik of the Plekhanov Russian University of Economics",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "https://vest.rea.ru/jour/article/download/1007/767",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21686/2413-2829-2021-1-73-86?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21686/2413-2829-2021-1-73-86, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-02-02",
+   "authors": [
+    {
+     "authorId": "2044560296",
+     "name": "E. Dubravskaya"
+    }
+   ],
+   "abstract": "To make managerial decisions on labour market regulation on the regional level it is necessary to have an objective statistic estimation of interconnection between informal employment and indicators of social and economic development. The article describes preconditions of forming a complex system of indicators on the basis of documents of strategic planning and analysis of works by Russian and overseas researchers dealing with issues of informal employment. Informal employment is an independent field of research that attracts scientists from different spheres and disciplines: from economics and anthropology to gender research, politology, sociology and city planning. Due to the fact that sizes and composition of informal employment, causes of its arising and consequences, lines of impact and interconnection with other figures are different, the author took analysis of documents of strategic planning and goals of national development of the Russian Federation up to 2024 as a starting point for shaping the structure of the system of indicators. In the research indicators of social and economic development were grouped by blocks corresponding to lines in national projects and supplemented by the block of indicators characterizing the macro-economic situation. This categorization based on priorities of national development fosters conclusion drawing with due regard to human capital, comfortable environment for life and economic growth."
+  },
+  {
+   "paperId": "a0c396b8b81a6d7a61350067b395e85c5b8c7d3c",
+   "externalIds": {
+    "MAG": "3113566160",
+    "DOI": "10.21686/2500-3925-2020-6-31-43",
+    "CorpusId": 234373744
+   },
+   "url": "https://www.semanticscholar.org/paper/a0c396b8b81a6d7a61350067b395e85c5b8c7d3c",
+   "title": "Classification of Russian regions taking into account the structure of informal employment and the level of socio-economic development",
+   "venue": "Statistics and Economics",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://statecon.rea.ru/jour/article/download/1525/1259",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21686/2500-3925-2020-6-31-43?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21686/2500-3925-2020-6-31-43, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2020-12-29",
+   "authors": [
+    {
+     "authorId": "2044560296",
+     "name": "E. Dubravskaya"
+    }
+   ],
+   "abstract": "Purpose of the study. The possibilities for the implementation of national and regional strategic objectives depend on the compliance of the measures taken with the chosen development path. The set of measures includes managerial decisions in the field of labor market regulation and concerning the legalization of informal employment. To make managerial decisions on the regulation of the labor market at the regional level, an objective statistical assessment of the relationship between informal employment and indicators of socio-economic development is required.The information basis for the regulation of informal employment should be quantitatively assessed stable regularities of the relationship between the parameters of informal employment and the structural and dynamic characteristics of economic growth and development. To identify and evaluate these statistical patterns, based on data from the Federal State Statistics Service in a regional context, a system of statistical indicators has been developed and significant factors of informal employment and socio-economic development have been identified. Given the heterogeneity of the constituent entities of the Russian Federation in terms of the scale and structure of informal employment, the distribution of regions into homogeneous groups is required. The article describes the approaches to the classification of Russian regions, taking into account the level of socio-economic development and the structure of informal employment.Materials and methods. The article examines an approach to the distribution of regions into homogeneous groups using the methods of cluster analysis based on a group of indicators characterizing those employed in the informal sector, which is based on the assumption that the indicators of informal employment are causally related to indicators of socio-economic development.Results. Five groups of regions are obtained, homogeneous in terms of the structural characteristics of informal employment and generalized factors of socio-economic development. For the purposes of further interpretation, the selected groups are assessed and ranked relative to the average Russian level of socio-economic development: low level (8 regions), below average (26 regions), average (41 regions), above average (8 regions), high level (2 regions) ...Conclusion. The resulting classification of Russian regions is a transitional stage to the construction of an econometric model of the relationship between informal employment and indicators of socio-economic development. Further analysis will allow us to assess which indicators have the greatest multiplier effect on the regional economy and to obtain a quantitative assessment of this impact on its growth."
+  },
+  {
+   "paperId": "88b8ad85e682a9e14655253b59e0828096e0030a",
+   "externalIds": {
+    "MAG": "2774709597",
+    "DOI": "10.1080/10971475.2017.1380115",
+    "CorpusId": 158053972
+   },
+   "url": "https://www.semanticscholar.org/paper/88b8ad85e682a9e14655253b59e0828096e0030a",
+   "title": "Informal Employment and China’s Economic Development",
+   "venue": "",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10971475.2017.1380115?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10971475.2017.1380115, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2017-11-02",
+   "authors": [
+    {
+     "authorId": "39773682",
+     "name": "Ying Chen"
+    },
+    {
+     "authorId": "47047646",
+     "name": "Zhun Xu"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "514e91c2c68dc19dd4618841687f7800e82c6b17",
+   "externalIds": {
+    "DOI": "10.3390/su141911989",
+    "CorpusId": 252503435
+   },
+   "url": "https://www.semanticscholar.org/paper/514e91c2c68dc19dd4618841687f7800e82c6b17",
+   "title": "Informal Sector Employment and Economic Growth: Evidence from Developing Countries in SDG Perspective",
+   "venue": "Sustainability",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2071-1050/14/19/11989/pdf?version=1664160883",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su141911989?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su141911989, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2022-09-22",
+   "authors": [
+    {
+     "authorId": "46819424",
+     "name": "N. Sultana"
+    },
+    {
+     "authorId": "2622636",
+     "name": "M. Rahman"
+    },
+    {
+     "authorId": "40263426",
+     "name": "R. Khanam"
+    }
+   ],
+   "abstract": "The understanding of the role of informal employment in economic growth is important to facilitate developing countries in safeguarding the decent work, productive employment, and inclusive growth agenda mentioned in Sustainable Development Goals (SDG) 8. The present study attempts to this end by investigating the role of informal employment on economic growth with an aim to assist in fulfilling target 8.3 of SDG. This study utilizes the data available for 20 developing countries for the period 2011–2019. Panel data analysis techniques have been applied, considering the percentage of total employment in the informal sector as the main explanatory variable of the models. The relevant macroeconomic indicators are included in the model as control variables. Empirical findings from Fully Modified Ordinary Least Squares (FMOLS), Dynamic Ordinary Least Squares (DOLS), and Dynamic Fixed Effect (DFE) models indicate a positive effect of informal employment on the economic growth of developing countries. The other macroeconomic indicators, per capita income, national expenditure, money supply, and economic freedom, are also found to contribute to the economic growth of the selected countries. This study reveals an important bidirectional causal association between informal employment and economic growth, a unidirectional causal link from per capita income to informal employment and from informal employment to national expenditure. Taking into account the contribution of the informal sector to the economy, this study fosters the need for achieving the targets mentioned in SDG 8 by adopting appropriate policies rather than punishing this sector immediately."
+  },
+  {
+   "paperId": "96f6b43118fb1f1eab1ca0813d821fdec15c1e6e",
+   "externalIds": {
+    "DOI": "10.54254/2754-1169/2024.ld19158",
+    "CorpusId": 275316386
+   },
+   "url": "https://www.semanticscholar.org/paper/96f6b43118fb1f1eab1ca0813d821fdec15c1e6e",
+   "title": "The Impact of Economic Development on the Employment Market and Employment Policy Optimization in Developing Countries A Case Study of Vietnam",
+   "venue": "Advances in Economics, Management and Political Sciences",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.ewadirect.com/proceedings/aemps/article/view/19158/pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.54254/2754-1169/2024.ld19158?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54254/2754-1169/2024.ld19158, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-03",
+   "authors": [
+    {
+     "authorId": "2256137524",
+     "name": "Kun Huang"
+    }
+   ],
+   "abstract": "Vietnams rapid economic growth has significantly impacted Vietnams employment structure, with informal employment playing an important role in various sectors. This study explores the challenges faced by informal workers, including low wages, lack of social protection, and job insecurity. Besides, women are particularly vulnerable when participating in the informal sector. They suffer more from wage disparities and unstable employment. In addition, the study also analyzes the causes of the widespread informal sector, which include a lack of educational opportunities, limited access to formal employment, and resistance to transition from informal to formal sectors. Government efforts, including increasing labor regulations and vocational training programs, made limited progress. This is because of the weak enforcement of regulations and insufficient incentives for businesses and workers to transit. This research emphasizes the importance of strengthening regulatory frameworks, increasing training and skill development programs, and creating effective policies to support the transition. These measures are critical for Vietnam to achieve sustainable economic growth, reduce inequality, and improve workers living standards."
+  },
+  {
+   "paperId": "a878e3ad65a623be64aac4fe7bc81dcc2511191c",
+   "externalIds": {
+    "DOI": "10.70267/esg2025.v2n3.1234",
+    "CorpusId": 282051439
+   },
+   "url": "https://www.semanticscholar.org/paper/a878e3ad65a623be64aac4fe7bc81dcc2511191c",
+   "title": "Analysis of Coupling Coordination Pathways between Urbanisation Quality and the Inclusive Development of Informal Employment from a Transnational Perspective",
+   "venue": "Environment, Social and Governance",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://journals.zeuspress.org/index.php/ESG/article/download/353/330",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70267/esg2025.v2n3.1234?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70267/esg2025.v2n3.1234, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-11",
+   "authors": [
+    {
+     "authorId": "2409280890",
+     "name": "Rui Yin"
+    }
+   ],
+   "abstract": "The global acceleration of urbanisation and the ongoing growth of informal employment are the key issues in current social and economic development. On the one hand, rapid urbanisation is accompanied by issues such as the allocation of economic and social resources; on the other hand, a large proportion of the workforce is employed informally. Although they alleviate employment pressure, these groups face difficulties such as a lack of rights protection and poor working conditions. The present study utilises multisource data from international databases to create a coupled coordination model linking urbanisation quality (U1) and the inclusive development of informal employment (U2). Through literature analysis and empirical comparison, the study focuses on Germany, Japan, Brazil and China from 2019--2024, analysing the dynamic evolution of these two subsystems. Research indicates the following: Coupling coordination exhibits a differentiated pattern: Germany maintains high-quality coordination through institutional flexibility. Japan’s economic stagnation, characterised by a lack of dynamism in the labour market, can be attributed to the rigidity of its employment structures. China has advanced toward sound coordination through policy optimisation. Brazil remains locked in moderate coordination due to dual spatial fragmentation. Two-way interaction is driven by three dimensions: institutional design, policy quantification, and spatial equity. This study provides China with a theoretical framework and international insights to help it resolve the dilemma of achieving urbanisation while addressing informal employment."
+  },
+  {
+   "paperId": "792e9809375e9154face806fb39a9dd3c1bb79a8",
+   "externalIds": {
+    "DOI": "10.1080/00213624.2025.2575152",
+    "CorpusId": 283115990
+   },
+   "url": "https://www.semanticscholar.org/paper/792e9809375e9154face806fb39a9dd3c1bb79a8",
+   "title": "Cooperative Salons: A Model for Socio-Economic Development of the Informal Hairdressers Community in India",
+   "venue": "Journal of Economic Issues",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/00213624.2025.2575152?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/00213624.2025.2575152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-02",
+   "authors": [
+    {
+     "authorId": "2376448265",
+     "name": "G. L."
+    },
+    {
+     "authorId": "2393286046",
+     "name": "Srikanta Parida"
+    }
+   ],
+   "abstract": "Abstract Several studies have shown that cooperatives play an important role in the socio-economic development of communities all over the world. However, none of the studies conducted so far have documented the importance of cooperatives in the informal hairdressers’ community, including that in India. Hence, the present study provides a new model called cooperative salons that addresses social, economic, competition-related, technological, locational, health-related, occupational, and financial problems; creates employment generation; and helps address the UN Sustainable Development Goal number eight related to the issue of decent work deficit. Hence, cooperatives are certainly one practical option for the formalization of the informal sector."
+  },
+  {
+   "paperId": "ffc264d6fa19fc9bb4f899d1a44e364a201253d9",
+   "externalIds": {
+    "DOI": "10.47772/ijriss.2025.915ec0026",
+    "CorpusId": 278183719
+   },
+   "url": "https://www.semanticscholar.org/paper/ffc264d6fa19fc9bb4f899d1a44e364a201253d9",
+   "title": "An Analysis of the Impact of Survival Entrepreneurship on Economic Development: A Case Study of the Informal Sector in Zimbabwe",
+   "venue": "International journal of research and innovation in social science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47772/ijriss.2025.915ec0026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47772/ijriss.2025.915ec0026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2217627494",
+     "name": "Nothando Tshuma"
+    },
+    {
+     "authorId": "2358129926",
+     "name": "Vuyisile Ndebele"
+    },
+    {
+     "authorId": "2358130804",
+     "name": "Tsepeso Setoboli"
+    },
+    {
+     "authorId": "2296641908",
+     "name": "E. Sibanda"
+    }
+   ],
+   "abstract": "High unemployment in Zimbabwe has led to the rise of survivalist entrepreneurs. This research examines the impact of survival entrepreneurs on economic development in Zimbabwe. A Dynamic Linear Regression Model is employed to analyse the relationship between self-employment data, serving as a proxy for survivalist entrepreneurship, and GDP per capita, which is regarded as a core measure of economic development. The findings reveal that self-employment has a statistically insignificant relationship with GDP per capita, despite the growing significance of the informal sector within Zimbabwe’s economy. While survivalist entrepreneurship contributes positively by creating jobs and supporting livelihoods, its overall influence on GDP per capita growth remains marginal. To boost the productivity of survivalist entrepreneurs and promote their participation in formal economic activities, the government should streamline business registration processes, reducing bureaucratic barriers and offering tax incentives to encourage formalization. Furthermore, collaboration with private sector entities is essential to provide mentorship, funding, and networking opportunities. Additionally, enacting laws to safeguard the rights of informal entrepreneurs, while extending social benefits, can ensure their gradual integration into the formal economy, unlocking their full potential for extensive economic growth."
+  },
+  {
+   "paperId": "0d58b847118d4e2690b2a85377b94ba42e96a664",
+   "externalIds": {
+    "DOI": "10.24891/tbaukc",
+    "CorpusId": 281016693
+   },
+   "url": "https://www.semanticscholar.org/paper/0d58b847118d4e2690b2a85377b94ba42e96a664",
+   "title": "Peculiarities of informal employment sector's development in the context of modern realities",
+   "venue": "Regional Economics: Theory and Practice",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24891/tbaukc?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24891/tbaukc, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-28",
+   "authors": [
+    {
+     "authorId": "2378376912",
+     "name": "V. V. Savalei"
+    },
+    {
+     "authorId": "2378373422",
+     "name": "Matvei K. Prokopas"
+    }
+   ],
+   "abstract": "Subject. This article explores the labor market in Russia and institutional mechanisms that contribute to the reduction of the shadow economy.\nObjectives. The article aims to identify factors affecting the scale and structure of informal employment at both the national and regional levels, and assess the role of sanctions in strengthening the shadow economy.\nMethods. For the study, we used a statistical analysis.\nResults. The article finds that in the Primorsky Krai, an increase in fixed capital investments leads to a decrease in the number of people employed in the informal sector, whereas the opposite trend is observed for Russia as a whole. Furthermore, in the Primorsky Krai, the growth in the number of registered entrepreneurs contributes to a reduction in the number of people employed in the informal sector of the economy.\nConclusions. The regional authorities should take into account the characteristics of changes in important economic parameters when developing measures to support formal employment."
+  },
+  {
+   "paperId": "e37a7e6a713c55ce5dc53962f305ddef3a875b7d",
+   "externalIds": {
+    "DOI": "10.55942/jebl.v5i6.989",
+    "CorpusId": 284412843
+   },
+   "url": "https://www.semanticscholar.org/paper/e37a7e6a713c55ce5dc53962f305ddef3a875b7d",
+   "title": "Structural transformation and labor market dynamics in Afghanistan: An evidence-based analysis of economic development and employment changes (2017–2024)",
+   "venue": "Journal of Economics and Business Letters",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.journal.privietlab.org/index.php/JEBL/article/download/989/561",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55942/jebl.v5i6.989?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55942/jebl.v5i6.989, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-12-30",
+   "authors": [
+    {
+     "authorId": "2374741266",
+     "name": "Abdul Ahmad Pooya"
+    }
+   ],
+   "abstract": "This study examines the path of structural change and the labor market in Afghanistan between 2017 and 2024, focusing on the disruption following the 2021 political transition. The analysis based on cross-sectoral data from the World Bank, the ILO, and national reports reveals a trend of \"reversed structural transformation\" when labor moves out of higher-productivity (services and manufacturing) sectors towards lower-productivity (agriculture and informal activities) sectors. Formal job destruction, the reduction of aid-funded services, and the massive return of Afghan migrants from Iran and Pakistan have all changed the employment structure, leading to an increase in unemployment, informality, and gender inequality. Despite a slight recovery in the agricultural, mining, and construction sectors, the economy remains vulnerable to external shocks and institutional inefficiencies. The results highlight that discovering the post-2021 labor adjustment in Afghanistan has been more of subsistence survival rather than productive relocation efforts and indicate the pressing need to have inclusive and employment-based recovery efforts."
+  },
+  {
+   "paperId": "8df9354aa9972b9c17e7aba63d0b66a50bc819c5",
+   "externalIds": {
+    "DOI": "10.1007/s40847-025-00482-5",
+    "CorpusId": 282713218
+   },
+   "url": "https://www.semanticscholar.org/paper/8df9354aa9972b9c17e7aba63d0b66a50bc819c5",
+   "title": "Migration, informal employment, and the ageing workforce in India: an exploration of PLFS unit-level data",
+   "venue": "Journal of Social and Economic Development",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40847-025-00482-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40847-025-00482-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-31",
+   "authors": [
+    {
+     "authorId": "2078486769",
+     "name": "A. Dandapat"
+    },
+    {
+     "authorId": "2294986091",
+     "name": "Soumita Dasgupta"
+    },
+    {
+     "authorId": "2376206121",
+     "name": "Pinaki Das"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "d700ecd64a0c513f14c8361c4becc77fbc29146b",
+   "externalIds": {
+    "MAG": "2908457349",
+    "DOI": "10.18524/2304-1439.2018.1(30).145212",
+    "CorpusId": 170015453
+   },
+   "url": "https://www.semanticscholar.org/paper/d700ecd64a0c513f14c8361c4becc77fbc29146b",
+   "title": "INFORMAL EMPLOYMENT IN UKRAINE: SOCIO-ECONOMIC DEVELOPMENT",
+   "venue": "Odesa National University Herald Sociology and Politics",
+   "year": 2018,
+   "openAccessPdf": {
+    "url": "http://heraldiss.onu.edu.ua/old/article/download/145212/151498",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18524/2304-1439.2018.1(30).145212?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18524/2304-1439.2018.1(30).145212, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2018-10-22",
+   "authors": [
+    {
+     "authorId": "2557908115",
+     "name": "Н. І. Варга"
+    }
+   ],
+   "abstract": "The article presents the socio-economic analysis of statistical indicators of the prevalence of informal employment. Informal employment is widely defined as paid work that is not declared to the state for tax, social security and labour law purposeswhen it should be declared but that is legal in all other respects. Informal employment takes various forms. On the one hand, there is wholly informal employment where the worker is not formally employed by the employer and the remunerated activity is not declared to the state for tax, social security and labour law purposes. This may take the form of either waged employment or self-employment. The main areas, age characteristics and territorial placement of informally employed in Ukraine are investigated. The consequences of functioning of informal employment are determined. It is proved that informal employment can act as a result of social exclusion and voluntary exit beyond the formal institutionalized economic activity. The risks are explored in the prevalence of informal employment for the state and society (social insecurity, nonpayment of tadeductions). Positive points are explored in the functioning of informal employment (flexibility, self-employment, micro entrepreneurship). Informal, secondary employment allows to some extent to provide mobility and a higher employment rate in this case reducing the risk of unemployment and increasing the chances of employment. Negative aspects include low quality of work, lack of basic rights in the field of labour protection under the absence of an employment contract and health insurance. The structure of informal employment is one of the most important features where the largest proportion of informal workers is observed in agriculture, construction and service industry. Therefore, there are some methodological difficulties, which do not allow to estimate a real percentage of temporarily employed in the sphere of informal economy."
+  },
+  {
+   "paperId": "f3e5347a0a4cc7100189fd6409aa7e3d624afa99",
+   "externalIds": {
+    "DOI": "10.47604/jpid.3553",
+    "CorpusId": 282706587
+   },
+   "url": "https://www.semanticscholar.org/paper/f3e5347a0a4cc7100189fd6409aa7e3d624afa99",
+   "title": "Effect of Employment Opportunities Created Under the National Hygiene Programme on the Socio-Economic Well-Being of Youth in Urban Informal Settlements in Nairobi County, Kenya",
+   "venue": "Journal of poverty, investment and development",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://iprjb.org/journals/JPID/article/download/3553/4777",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47604/jpid.3553?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47604/jpid.3553, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-10-31",
+   "authors": [
+    {
+     "authorId": "2102544142",
+     "name": "K. Ogola"
+    },
+    {
+     "authorId": "108121974",
+     "name": "C. Rotich"
+    }
+   ],
+   "abstract": "Purpose: Youth unemployment still remains a major socio-economic problem in Kenya especially in the urban informal settlements whereby absence of access to formal employment contributes to the issue of poverty and social exclusion. To this the Government of Kenya has come up with National Hygiene Programme (NHP), alias Kazi Mtaani, as a form of temporary employment and better living standards by way of public hygiene programs. This paper has discussed how available jobs in the form of the National Hygiene Programme have an impact on the socio-economic well-being of the young people in the informal settlements within the Nairobi County. \nMethodology: The research was informed by the theory of spatial mismatch and adopted the descriptive survey design that involved 6,046 youths involved in the programme. A stratified random of 375 participants were chosen and the data were gathered through the structured questionnaires. The SPSS was used to analyze the data, both through descriptive and inferential statistics, such as correlation and regression analysis. \nResults: The results showed that there was a significant positive correlation between opportunities of employment and socio-economic well-being which was strong and significant (r = 0.990, p < 0.01). Regression findings also established that the employment opportunities had a significant influence in predicting the well-being of youth (b = 4.313, p = 0.000). It was shown that the engagement in the programme had increased the stability of youth income and decreased dependency and facilitated the integration of communities even though it lacked any long-term effects. \nUnique Contribution to Theory, Practice and Policy: The research suggests the institutionalization of sustainable youth employment patterns that incorporate both intertemporal provisions of short-term temporary work with skill-building and entrepreneurship training along with long-term employability options. These strategies are capable of increasing the resilience of the youth, encouraging self-reliance, and facilitating inclusive urbanization."
+  },
+  {
+   "paperId": "d960a205ab48ee9fa53ac9403b2a7e62e2e72188",
+   "externalIds": {
+    "DOI": "10.12737/2306-627x-2023-12-3-80-85",
+    "CorpusId": 263684432
+   },
+   "url": "https://www.semanticscholar.org/paper/d960a205ab48ee9fa53ac9403b2a7e62e2e72188",
+   "title": "Informal Employment of the Population and Its Impact on the Tax Component of the Russian Economic System",
+   "venue": "Scientific Research and Development Economics of the Firm",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12737/2306-627x-2023-12-3-80-85?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12737/2306-627x-2023-12-3-80-85, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-09-25",
+   "authors": [
+    {
+     "authorId": "147743044",
+     "name": "O. Levshukova"
+    },
+    {
+     "authorId": "2254486953",
+     "name": "B. Dzetl'"
+    },
+    {
+     "authorId": "2254484984",
+     "name": "Aleksey Voytikov"
+    }
+   ],
+   "abstract": "Shadow employment is an integral element of the state's economic system, which poses a threat to the sustainable functioning of the tax system and requires increased attention from researchers. The scientific article reveals the essence and reasons for the development of the institution of informal employment in the Russian Federation and characterizes the correlation between the dynamics of the development of shadow labor activity and the state of the country's tax system. The authors present and analyze statistical data that determine the state of the institution of informal employment in Russia: the dynamics of the number of informally employed citizens, their gender and age structure, as well as sectoral distribution are characterized. A study was conducted, according to the results of which, it was determined that informal employment and the tax component of the Russian economic system are characterized by significant mutual influence. Tax statistics are presented and analyzed and the role of reducing the number of informally employed population in ensuring the stable functioning of the tax system of the Russian Federation is explained. The measures that will increase the level of legalization of shadow labor activity in our country are presented."
+  },
+  {
+   "paperId": "93065687aacb6a834fd57d28905fdc047fcfd2b2",
+   "externalIds": {
+    "DOI": "10.51244/ijrsi.2023.10824",
+    "CorpusId": 263174071
+   },
+   "url": "https://www.semanticscholar.org/paper/93065687aacb6a834fd57d28905fdc047fcfd2b2",
+   "title": "Entrepreneurship Education and Informal Sector: Implications for Sustainable Economic Development",
+   "venue": "International journal of research and scientific innovation",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51244/ijrsi.2023.10824?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51244/ijrsi.2023.10824, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2449200603",
+     "name": "I. Okeke"
+    },
+    {
+     "authorId": "1396532152",
+     "name": "Gabriel Chidiebere Alonta"
+    }
+   ],
+   "abstract": "The paper examined the role of entrepreneurship education in sustainable economic development via the informal sector. Entrepreneurship education is a great force for any meaningful national development and individual survival in any economy. It is a part of the total educational system that involves the acquisition of skills, ideas and management abilities necessary for job creation. The paper concludes that effective entrepreneurship education and training could result to increased self employment in the informal sector, thereby leading to sustainable economic development Consequently, it is recommended among other things that attempts be made by both the government and entrepreneurship educators to improve the curriculum of entrepreneurship education by emphasizing skills that are tailored toward self-employment in the informal sector ."
+  },
+  {
+   "paperId": "899a6544983bfebc7c124ea12c176fdf0e75a6d9",
+   "externalIds": {
+    "DOI": "10.36108/unizikjb/1202.40.0160",
+    "CorpusId": 237379776
+   },
+   "url": "https://www.semanticscholar.org/paper/899a6544983bfebc7c124ea12c176fdf0e75a6d9",
+   "title": "EMPLOYMENT IN THE INFORMAL SECTOR IN NIGERIA: IMPLICATIONS FOR SUSTAINABLE ECONOMIC DEVELOPMENT",
+   "venue": "",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "http://www.ubsjournal.com.ng/publication/vol_4/issue_1/paper_6.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36108/unizikjb/1202.40.0160?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36108/unizikjb/1202.40.0160, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2125349141",
+     "name": "Amaka Ogochukwu Onwo"
+    },
+    {
+     "authorId": "2125349250",
+     "name": "Gladys Amaechi Ohazulike"
+    }
+   ],
+   "abstract": "The problem of employment has become a central global concern in recent times. This makes the government and development partners to be fully engaged in finding a lasting solution to the problems. In the past, development planning efforts were concentrated on the development of modern industrial sector. Today, there is renewed interest in the informal economy worldwide. This is because a large share of the global workforce and economy is informal and because the informal sector is growing in many contexts and appearing in new places and guises. The informal sector serves as a buffer against unemployment in times of economic downturn, allowing an increasing share of the population to earn a livelihood from the sector rather than stay openly unemployed with no income. The sector has also played a key role in cushioning the adverse impact of economic crises. The paper therefore interrogated the nature of employment in the informal sector and is anchored on Modernisation theory. This paper is based on a desk and literature review of relevant articles and publications as well as on employment and the informal sector. The paper revealed that Nigerian Informal Sector is a major contributor to the Nigerian economy, accounting for a significant portion of employment and national Gross Domestic Product and also the informal sector currently accounts for over half of global employment and as much as 90% of employment in some of the developing countries like Nigeria. The paper therefore recommends that efforts should be made by the government and its agencies to create more jobs. Secondly, policies should be introduced to address identified challenges in the informal sector towards improving productivity and incomes of informal sector workers."
+  },
+  {
+   "paperId": "34e24b4cfff2b91ae152125e2f5f1b94dba834a4",
+   "externalIds": {
+    "DOI": "10.18592/taradhi.v16i1.16301",
+    "CorpusId": 280756756
+   },
+   "url": "https://www.semanticscholar.org/paper/34e24b4cfff2b91ae152125e2f5f1b94dba834a4",
+   "title": "Empowering The Informal Economy Through Islamic Social Finance: Insights from Islamic Economic Principles for Inclusive Development",
+   "venue": "At-Taradhi: Jurnal Studi Ekonomi",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://jurnal.uin-antasari.ac.id/index.php/taradhi/article/download/16301/4484",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18592/taradhi.v16i1.16301?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18592/taradhi.v16i1.16301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-06-10",
+   "authors": [
+    {
+     "authorId": "2213905672",
+     "name": "H. Karimah"
+    },
+    {
+     "authorId": "2532431045",
+     "name": "Azizah Akbariani Ahmad"
+    },
+    {
+     "authorId": "2535654806",
+     "name": "Muhammad Ariq Athallah Akbar"
+    }
+   ],
+   "abstract": "The informal sector continues to dominate employment in many developing countries, including Indonesia, providing livelihoods for millions of workers who often lack access to social protection and economic security. This paper examines the origin and development of the informal economy and explores its structural determinants. Additionally, it highlights the role of Islamic economics, particularly the potential of Islamic social finance instruments—zakat, infāq, ṣadaqah, and waqf (ZISWAF)—in supporting inclusive and sustainable development within the informal sector. Employing a descriptive-qualitative approach, this study integrates content analysis, literature review, and critical analysis of both mainstream and Islamic economic perspectives. The conceptual model developed in this paper positions Islamic economic principles such as falah, maslahah, and social justice as key drivers for empowering informal sector workers. By aligning these principles with the objectives of maqāṣid al-sharī‘ah, the framework provides strategic directions for capacity building, ethical financing, and inclusive growth. The findings suggest that productive utilization of ZISWAF can facilitate the transition of informal workers toward economic resilience and formal sector integration. This study calls for collaborative engagement among government, private sector, and Islamic philanthropic institutions to ensure the realization of sustainable development goals, underpinned by ethical and spiritual commitments.\nSektor informal terus mendominasi lapangan kerja di banyak negara berkembang, termasuk Indonesia, dengan menyediakan mata pencaharian bagi jutaan pekerja yang sering kali tidak memiliki akses terhadap perlindungan sosial dan jaminan ekonomi. Penelitian ini mengkaji asal-usul dan perkembangan ekonomi informal serta mengeksplorasi faktor-faktor struktural yang menjadi penentunya. Selain itu, penelitian ini menyoroti peran ekonomi Islam, khususnya potensi instrumen keuangan sosial Islam—zakat, infāq, ṣadaqah, dan wakaf (ZISWAF)—dalam mendukung pembangunan yang inklusif dan berkelanjutan di sektor informal. Melalui pendekatan deskriptif-kualitatif, studi ini mengintegrasikan analisis isi, kajian literatur, dan studi kritis terhadap perspektif ekonomi arus utama dan ekonomi Islam. Model konseptual yang dikembangkan dalam penelitian ini menempatkan prinsip-prinsip ekonomi Islam seperti falah (kesejahteraan holistik), maslahah (kemaslahatan umum), dan keadilan sosial sebagai pendorong utama dalam memberdayakan pekerja di sektor informal. Dengan menyelaraskan prinsip-prinsip tersebut dengan tujuan maqāṣid al-sharī‘ah, kerangka ini memberikan arahan strategis dalam penguatan kapasitas, pembiayaan berbasis etika, dan pertumbuhan yang inklusif. Temuan penelitian ini menunjukkan bahwa pemanfaatan ZISWAF secara produktif berpotensi memfasilitasi transisi pekerja informal menuju ketahanan ekonomi dan integrasi ke dalam sektor formal. Studi ini juga mengajak adanya kolaborasi yang sinergis antara pemerintah, sektor swasta, dan lembaga filantropi Islam guna mewujudkan tujuan pembangunan berkelanjutan yang berlandaskan komitmen etis dan spiritual."
+  },
+  {
+   "paperId": "87d4f78c980659a3ff12f1c8176a0b0110e2687d",
+   "externalIds": {
+    "DOI": "10.1108/ijssp-02-2025-0122",
+    "CorpusId": 286186169
+   },
+   "url": "https://www.semanticscholar.org/paper/87d4f78c980659a3ff12f1c8176a0b0110e2687d",
+   "title": "The role of the informal sector in economic development: evidence from developed, developing and underdeveloped economies",
+   "venue": "International journal of sociology and social policy",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/ijssp-02-2025-0122?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/ijssp-02-2025-0122, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-03-02",
+   "authors": [
+    {
+     "authorId": "2161122954",
+     "name": "Reetika Dadheech"
+    }
+   ],
+   "abstract": "\n \n This study investigates the relationship between informal employment (IE) and economic growth (EG) across countries at different stages of development. Specifically, it examines whether IE promotes or constrains EG, and whether institutional factors such as economic freedom (EF) and government expenditure (GE) moderate this relationship.\n \n \n \n The study employs a balanced panel dataset of 161 countries from 2011 to 2019. Long-run econometric estimators including fixed effects, fully modified ordinary least squares and dynamic ordinary least squares are applied to address endogeneity, serial correlation and unobserved heterogeneity. IE is treated as the key independent variable, while per capita income, GE, EF and unemployment are included as control variables. A quadratic specification is incorporated to capture non-linear threshold effects.\n \n \n \n The results confirm a statistically significant inverted U-shaped relationship between informality and EG. Moderate levels of IE initially support growth, but excessive informality inhibits gross domestic product (GDP) per capita growth. EF and GE exert significant positive effects on growth. Unemployment exhibits an indirect short-run positive effect by pushing workers into informal activities that sustain consumption and productivity. The positive growth effect of informality is strongest in emerging economies and weakest in high-income countries.\n \n \n \n This study reinforces the need to incorporate IE into mainstream economic development models rather than treating it as a residual labour category. The findings confirm that the relationship between informality and growth is non-linear and income-dependent, suggesting that future research should examine threshold levels of informality across different institutional settings and sectors. The results also highlight the importance of accounting for unpaid and informal work in national accounts, labour-market modelling, and development theory. Scholars may further extend this research by exploring how digitalisation, automation, and financial inclusion influence the transition from informal to formal employment.\n \n \n \n The results show that the informal sector (IS) is a major source of jobs and economic stability, especially in emerging economies. Policies should not try to remove informality suddenly but should improve working conditions and support a gradual shift toward formality. Measures such as skills development, entrepreneurship support, financial inclusion, and digital access can increase income and productivity. Policy design should differ across income groups and sectors because the impact of informality on growth is not uniform.\n \n \n \n The IS plays a central role in reducing poverty by offering work to low income and vulnerable groups. Expanding access to microfinance, social protection, and skill building can improve income security and reduce inequality. Supporting informal workers can contribute to more inclusive growth where formal jobs are limited.\n \n \n \n This study is one of the few that analyses the nonlinear link between IE and EG across many countries while combining dual sector theory, the Kuznets curve, and institutional perspectives. It offers evidence for designing development policies that support inclusive and sustainable growth.\n"
+  }
+ ]
+}

@@ -1,0 +1,772 @@
+{
+ "query": "Urbanization and income inequality",
+ "retrieved_at": "2026-11-18T17:56:57.382981+00:00",
+ "data": [
+  {
+   "publisher": "Elsevier BV",
+   "abstract": "<jats:p>Nepal is experiencing rapid urbanization, partly driven by young people opting out of foreign employment and seeking opportunities domestically. Urbanization has emerged as a significant driver of Nepal's economic transformation. Concentrated urban access to healthcare, education, and employment opportunities has facilitated rural-to-urban migration. Income inequality continues to pose a significant challenge in Nepal's economy. This study examines the relationship between urbanization and income inequality in Nepal.</jats:p>",
+   "DOI": "10.2139/ssrn.6254638",
+   "type": "posted-content",
+   "title": [
+    "Trends of Income Inequality and Urbanization in Nepal"
+   ],
+   "author": [
+    {
+     "given": "Jagrit",
+     "family": "Kanodia",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2139/ssrn.6254638"
+  },
+  {
+   "publisher": "Raw Data Library",
+   "abstract": "<jats:p>This study examines how the relationship between sustainable urbanization, vulnerability, and natural disasters in developing countries is shaped within the context of income inequality. Rapid urbanization processes, combined with increasing population density, environmental degradation, and socioeconomic disparities, have made disaster risks more complex and multidimensional. Particularly in societies with high levels of income inequality, the concentration of low-income groups in hazard-prone areas intensifies the social impacts of disasters and increases vulnerability. The main objective of this research is to empirically investigate the effects of sustainable urbanization, income inequality, and institutional factors on vulnerability and the population affected by natural disasters. For this purpose, a panel dataset covering thirty-one developing countries for the period 2002–2023 was employed. In the empirical analysis, cross-sectional dependence and heterogeneity tests were conducted, while the stationarity properties of the variables were examined using the CADF-CIPS and unit root tests. A cointegration test was applied to determine the existence of long-run relationships among the variables. Coefficient estimates were obtained using the Driscoll–Kraay, Ridge, FGLS, and PCSE estimators. In addition, the Bootstrap Quantile Regression approach was employed to reveal the effects of the variables across different levels of vulnerability. The empirical findings indicate that sustainable urbanization and institutional quality significantly reduce vulnerability and the population affected by natural disasters. In contrast, income inequality and population density emerge as the main factors that increase disaster risks. The quantile regression results further demonstrate that the impact of income inequality varies across different vulnerability levels and becomes more pronounced in highly vulnerable countries. Overall, the study highlights the critical importance of promoting sustainable urbanization policies, reducing income inequalities, and strengthening institutional capacity in order to mitigate disaster risks and enhance societal resilience.</jats:p>",
+   "DOI": "10.71008/gumushane.thesis.2026.198",
+   "type": "dissertation",
+   "title": [
+    "The relationship between sustainable urbanization, natural disasters and vulnerability in developing countries: An analysis of the role of income inequality"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0002-7284-8644",
+     "authenticated-orcid": false,
+     "given": "Yasin",
+     "family": "Çatalbaş",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "id": [
+        {
+         "id": "https://ror.org/00r9t7n55",
+         "id-type": "ROR",
+         "asserted-by": "publisher"
+        }
+       ],
+       "name": "Gümüşhane University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.71008/gumushane.thesis.2026.198"
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>The global community has been confronted with rising income inequality, in particular, for those least developed countries (LDCs), since the same level of inequality as in advanced countries would push many LDCs into abject poverty. This paper focuses on income inequality in developing countries, particularly LDCs. First, we demonstrate the infeasibility of fiscal measures in resolving income inequality even in developed countries. Second, we show that inequality in LDCs can be largely explained by urban-rural gap. Third, we uncover the benign impacts of urbanization on urban-rural gap. This leads us to propose an out-of-box strategy—containing income inequality by promoting well-managed urbanization. Fourth, we reveal a misperception that may have contributed to the neglect of urban-rural gap in constituting national inequality. This has possibly caused anti-urbanization mentalities and practices, with adverse distributional consequences. Finally, we provide evidence-based policy suggestions aimed at reducing income inequality and poverty—two major goals of SDGs.</jats:p>",
+   "DOI": "10.1038/s42949-021-00040-y",
+   "type": "journal-article",
+   "title": [
+    "Urbanization can help reduce income inequality"
+   ],
+   "author": [
+    {
+     "given": "Guanghua",
+     "family": "Wan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaoling",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mengxue",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "npj Urban Sustainability"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      10
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1038/s42949-021-00040-y"
+  },
+  {
+   "publisher": "SAGE Publications",
+   "abstract": "<jats:p>Despite the persisting interest in the nexus of tourism and income inequality, the relationships between tourism and urban income inequality remain unknown. In the past few decades, tourism, urbanization, and urban income inequality are all prominent social and economic phenomena in China. This study investigates such relationships and the underlying influence mechanism of urbanization based on provincial panel data in China between 1995 and 2019. The results show that tourism significantly increases urban income inequality. Moreover, there exists a Kuznets curve between tourism and urban income inequality. When the ratio of tourism revenue to GDP reaches the value of 0.416, the positive influence of tourism on urban income inequality reaches its maximum. Most of China’s provinces currently face the positive influence of tourism on urban income inequality. Besides, urbanization partially mediates tourism’s effects on urban income inequality. Heterogeneity analysis indicates that in high-urbanization, high-income, and low economic levels regions, tourism increases urban income inequality to a greater extent. This article enriches the knowledge of the association between tourism and income distribution.</jats:p>",
+   "DOI": "10.1177/13548166221108121",
+   "type": "journal-article",
+   "title": [
+    "Tourism, urbanization, and urban income inequality in China"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0598-0584",
+     "authenticated-orcid": false,
+     "given": "Jiekuan",
+     "family": "Zhang",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Guilin Tourism University, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Tourism Economics"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      12
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1177/13548166221108121"
+  },
+  {
+   "publisher": "EWA Publishing",
+   "abstract": "<jats:p>China has been burdened with the issue of income inequality which has been an ongoing conundrum for many decades in the vast majority of the world. Urbanization, which at first glance may seem like the ultimate solution may not provide the adequate effects many believe it brings forth. This raises the question: how does urbanization affect income inequality and specifically in China? While urbanization was thought to have been a way to mitigate this problem it has in turn further harmed the most vulnerable stakeholders, those on the lower receiving end. In order to effectively benefit and accurately pinpoint where the theories and reality differ, it is crucial this question is answered. This paper will take the analyses and data collected from various studies. An explanation of the initial perspective on urbanization will be brought up followed by the studies of the current situation and polished up with a discussion and some suggestions for the future.</jats:p>",
+   "DOI": "10.54254/2754-1169/23/20230337",
+   "type": "journal-article",
+   "title": [
+    "The Effect of Urbanization on Income Inequality"
+   ],
+   "author": [
+    {
+     "given": "Senhei",
+     "family": "He",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Quality School International"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Economics, Management and Political Sciences"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      13
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.54254/2754-1169/23/20230337"
+  },
+  {
+   "DOI": "10.26650/istjecon2022-1195063",
+   "title": [
+    "Urbanization and Urban-Rural Income Inequality in Latin America"
+   ],
+   "container-title": [
+    "Istanbul Journal of Economics / İstanbul İktisat Dergisi"
+   ],
+   "publisher": "Istanbul University",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      26
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.26650/istjecon2022-1195063",
+   "author": [
+    {
+     "given": "Buket",
+     "family": "Savranlar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ebru",
+     "family": "Topcu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.6027/0569db73-en",
+   "title": [
+    "Income inequality"
+   ],
+   "container-title": [
+    "Inequality"
+   ],
+   "publisher": "Norden",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      11,
+      15
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.6027/0569db73-en"
+  },
+  {
+   "DOI": "10.1787/459aa7f1-en",
+   "title": [
+    "Income inequality"
+   ],
+   "container-title": [
+    "Inequality"
+   ],
+   "publisher": "OECD",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      11,
+      15
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1787/459aa7f1-en"
+  },
+  {
+   "publisher": "World Scientific Pub Co Pte Ltd",
+   "abstract": "<jats:p>Mongolia, a resource-rich economy, experienced a substantial decline in income inequality between 2007 and 2022: the Gini coefficient dropped from 0.44 to 0.32. Using nationally representative Household Socio-Economic Survey microdata, we analyze disposable household income, including imputed consumption from assets, and apply a Shapley value-based regression decomposition to identify the microeconomic drivers of inequality. Over the last 15 years, the significant reduction in inequality has been driven predominantly by broad-based asset accumulation—particularly improved urban housing and expanded livestock holdings—rather than by labor market changes. Expanding direct transfers financed by mining revenues further reinforced this decline. These findings highlight that sustained reduction in inequality in resource-dependent economies requires a combination of asset-building policies, well-targeted transfers, and inclusive human capital development.</jats:p>",
+   "DOI": "10.1142/s0116110526500083",
+   "type": "journal-article",
+   "title": [
+    "Mining, Transfers, and Urbanization: What Reduced Income Inequality in Mongolia?"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-2287-174X",
+     "authenticated-orcid": false,
+     "given": "MANLAIBAATAR",
+     "family": "ZAGDBAZAR",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Economic Research Institute, Ulaanbaatar, Mongolia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Asian Development Review"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      28
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1142/s0116110526500083"
+  },
+  {
+   "publisher": "MIJP Publication",
+   "abstract": "<jats:p>Nepal is experiencing rapid urbanization, partly driven by young people opting out of foreign\nemployment and seeking opportunities domestically. Urbanization has emerged as a significant\ndriver of Nepal’s economic transformation. Concentrated urban access to healthcare, education,\nand employment opportunities has facilitated rural-to-urban migration. Income inequality\ncontinues to pose a significant challenge in Nepal’s economy. This study examines the\nrelationship between urbanization and income inequality in Nepal.</jats:p>",
+   "DOI": "10.46609/ijsser.2026.v11i02.021",
+   "type": "journal-article",
+   "title": [
+    "Trends of Income Inequality and Urbanization in Nepal"
+   ],
+   "author": [
+    {
+     "given": "Jagrit",
+     "family": "Kanodia",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Shivansh",
+     "family": "Bhattarai",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "International Journal of Social Science and Economic Research"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.46609/ijsser.2026.v11i02.021"
+  },
+  {
+   "DOI": "10.1007/s11205-018-1959-3",
+   "title": [
+    "Urbanization, Economic Structure, Political Regime, and Income Inequality"
+   ],
+   "container-title": [
+    "Social Indicators Research"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      7,
+      11
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s11205-018-1959-3",
+   "author": [
+    {
+     "given": "Samuel",
+     "family": "Adams",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Edem Kwame Mensah",
+     "family": "Klobodu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781003329084-1",
+   "title": [
+    "Introduction: international income inequality"
+   ],
+   "container-title": [
+    "International Income Inequality"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      10,
+      6
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003329084-1",
+   "author": [
+    {
+     "given": "Alan",
+     "family": "Freeman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Oxford University Press",
+   "abstract": "<p>According to the author of this chapter, the first job of economists is to enlighten the debate on income and wealth inequality by providing transparent measures that the broad public can understand. Once inequality is appropriately measured, we can then understand the drivers of inequality trends and the effects of public policy on inequality. Drawing on the author’s previously published works, this chapter presents evidence on US income and wealth inequality. It presents series for top income and wealth shares and for the distribution of economic growth by income groups. The author discusses the mechanisms behind the evolution of US income and wealth inequality from historical and comparative perspectives and analyzes the role of public policy and, in particular, taxation in the evolution of inequality.</p>",
+   "DOI": "10.1093/oso/9780197518199.003.0003",
+   "type": "book-chapter",
+   "title": [
+    "Income and Wealth Inequality"
+   ],
+   "author": [
+    {
+     "given": "Emmanuel",
+     "family": "Saez",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "United States Income, Wealth, Consumption, and Inequality"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      10,
+      9
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1093/oso/9780197518199.003.0003"
+  },
+  {
+   "DOI": "10.1108/s0147-912120160000044003",
+   "title": [
+    "Income Inequality around the World"
+   ],
+   "container-title": [
+    "Income Inequality Around the World"
+   ],
+   "publisher": "Emerald Group Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      8,
+      27
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1108/s0147-912120160000044003"
+  },
+  {
+   "publisher": "Learning Gate",
+   "abstract": "<jats:p>The purpose of this study is to analyse the role of economic growth in the relationship between urbanisation and income inequality in Sub-Saharan Africa. Methodologically, we apply the generalised method of moments to a sample of 33 Sub-Saharan African countries. The findings indicate that economic growth mitigates the exacerbating effect of urbanisation on income inequality. On the other hand, inflation and the labour force participation rate are sources of income inequality.  Thus, urbanisation will only reduce income inequality in Africa if it stimulates economic growth.  In terms of implication, the authorities must strengthen their strategies in favour of the sanitation of urban areas. Smart city strategies can also be adopted to make cities more inclusive.</jats:p>",
+   "DOI": "10.55214/25768484.v8i6.2082",
+   "type": "journal-article",
+   "title": [
+    "Urbanization, economic growth and income inequality in Sub-Saharan Africa"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-0823-5173",
+     "authenticated-orcid": false,
+     "given": "Konan Abogni Augustin",
+     "family": "KOUADIO",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0001-0451-9155",
+     "authenticated-orcid": false,
+     "given": "Mounoufie Valery",
+     "family": "KOFFI",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Edelweiss Applied Science and Technology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      2
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.55214/25768484.v8i6.2082"
+  },
+  {
+   "DOI": "10.61186/jpbud.28.1.97",
+   "title": [
+    "Investigating the Relationship between Income Inequality, Urbanization, and Economic Growth in Provinces of Iran"
+   ],
+   "container-title": [
+    "Planning and Budgeting"
+   ],
+   "publisher": "Apex Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      5,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.61186/jpbud.28.1.97",
+   "author": [
+    {
+     "given": "Elham",
+     "family": "Nobahar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hossein",
+     "family": "Panahi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Zahra",
+     "family": "Mehri",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "MDPI AG",
+   "abstract": "<jats:p>Income inequality in China has become increasingly serious since the beginning of the economic reform period in the 1970s, with urban–rural income inequality playing a large role. Urbanization policy and monetary policy are currently important economic policy tools for the Chinese government. In order to investigate the influence of inequality on the economy and to provide recommendations for ensuring the sustainability of growth, we study the effect of urban–rural income inequality on economic growth in the context of urbanization and monetary policy in China between 2002 and 2021. Using a flexible time-varying parametric structural vector auto-regression (TVP-VAR) model and a robust Markov chain Monte Carlo (MCMC) algorithm, our empirical results show that the effect is time-varying, with inequality promoting growth in the early years but affecting it adversely at later stages. Currently, urbanization mitigates inequality and promotes growth simultaneously, while easy monetary policy worsens inequality and affects growth adversely in the long term. We suggest that the authorities need to consider the implementation of policy rebalancing to ensure that the sustainability of economic development is not jeopardized because of worsening income disparity. Proactive urbanization policy and prudent monetary policy are viable rebalancing options.</jats:p>",
+   "DOI": "10.3390/su14116896",
+   "type": "journal-article",
+   "title": [
+    "The Dynamic Effects of Urban–Rural Income Inequality on Sustainable Economic Growth under Urbanization and Monetary Policy in China"
+   ],
+   "author": [
+    {
+     "given": "Junli",
+     "family": "Cheng",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Chinese Finance Research Institute, Southwestern University of Finance and Economics, Chengdu 611130, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Feng",
+     "family": "Lin",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Chinese Finance Research Institute, Southwestern University of Finance and Economics, Chengdu 611130, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Sustainability"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      6,
+      5
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3390/su14116896"
+  },
+  {
+   "DOI": "10.35188/unu-wider/wiidcomp",
+   "title": [
+    "World Income Inequality Database (WIID) Companion"
+   ],
+   "container-title": [
+    "World Income Inequality Database (WIID)"
+   ],
+   "publisher": "United Nations University, World Institute for Development Economics Research",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      3,
+      31
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.35188/unu-wider/wiidcomp",
+   "author": [
+    {
+     "name": "UNU-WIDER",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1787/544701673235",
+   "title": [
+    "Income inequality"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1787/544701673235"
+  },
+  {
+   "DOI": "10.1787/888932925122",
+   "title": [
+    "Income inequality"
+   ],
+   "publisher": "Organisation for Economic Co-Operation and Development  (OECD)",
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component",
+   "URL": "https://doi.org/10.1787/888932925122"
+  }
+ ]
+}

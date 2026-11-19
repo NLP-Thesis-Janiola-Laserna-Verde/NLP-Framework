@@ -1,0 +1,1265 @@
+{
+ "query": "Large language models for automated code generation in software engineering",
+ "retrieved_at": "2026-11-18T17:46:38.052793+00:00",
+ "data": [
+  {
+   "DOI": "10.1109/ase63991.2025.00218",
+   "title": [
+    "QuanBench: Benchmarking Quantum Code Generation with Large Language Models"
+   ],
+   "container-title": [
+    "2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      16
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/ase63991.2025.00218",
+   "author": [
+    {
+     "given": "Xiaoyu",
+     "family": "Guo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Kyushu University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minggu",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Kyushu University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jianjun",
+     "family": "Zhao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Kyushu University"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.21681/2311-3456-2024-3-68-75",
+   "title": [
+    "METHODOLOGY FOR THE DEVELOPMENT OF AUTOMATED SOFTWARE CODE GENERATION TOOLS BY FINE-TUNING LARGE LANGUAGE MODELS"
+   ],
+   "container-title": [
+    "Voprosy kiberbezopasnosti"
+   ],
+   "publisher": "A.L. Makarenko GI",
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.21681/2311-3456-2024-3-68-75"
+  },
+  {
+   "DOI": "10.5220/0014717000004052",
+   "title": [
+    "From Natural Language to Interpretable Code: Automated Code Generation for Healthcare with Large Language Models - A Comparative Analysis"
+   ],
+   "container-title": [
+    "Proceedings of the 18th International Conference on Agents and Artificial Intelligence"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0014717000004052",
+   "author": [
+    {
+     "given": "Yuexi",
+     "family": "Chen",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Information Systems, University of Limerick, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Gauri",
+     "family": "Vaidya",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Medicine, University of Limerick, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Alison",
+     "family": "O'Connor",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Information Systems, University of Limerick, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Meghana",
+     "family": "Kshirsagar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Computer Science and Information Systems, University of Limerick, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.63282/3050-922x.ijeret-v1i3p101",
+   "title": [
+    "An Efficient Transformer-Based Model for Automated Code Generation: Leveraging Large Language Models for Software Engineering"
+   ],
+   "container-title": [
+    "International Journal of Emerging Research in Engineering and Technology"
+   ],
+   "publisher": "ScienceTech Xplore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.63282/3050-922x.ijeret-v1i3p101",
+   "author": [
+    {
+     "given": "Leema",
+     "family": "Rose",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.63282/3050-9246.ijetcsit-v1i4p103",
+   "title": [
+    "AI-Augmented Software Engineering: Automated Code Generation and Optimization Using Large Language Models"
+   ],
+   "container-title": [
+    "International Journal of Emerging Trends in Computer Science and Information Technology"
+   ],
+   "publisher": "ScienceTech Xplore",
+   "issued": {
+    "date-parts": [
+     [
+      2020
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.63282/3050-9246.ijetcsit-v1i4p103",
+   "author": [
+    {
+     "given": "Sergey",
+     "family": "Levine",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1145/3691620.3695370",
+   "title": [
+    "Can Large Language Models Comprehend Code Stylometry?"
+   ],
+   "container-title": [
+    "Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering"
+   ],
+   "publisher": "ACM",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      27
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3691620.3695370",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-8253-429X",
+     "authenticated-orcid": false,
+     "given": "Atish",
+     "family": "Dipongkor",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Central Florida, Orlando, Florida, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5220/0014840100004015",
+   "title": [
+    "Towards Automated Migration: High-Quality, Cost-Efficient Source Code Translation Using Large Language Models"
+   ],
+   "container-title": [
+    "Proceedings of the 21st International Conference on Evaluation of Novel Approaches to Software Engineering"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2026
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0014840100004015",
+   "author": [
+    {
+     "given": "Max",
+     "family": "Mager",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Leipzig University of Applied Sciences, Leipzig, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Aleksandr",
+     "family": "Perevalov",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Leipzig University of Applied Sciences, Leipzig, Germany"
+      },
+      {
+       "name": "Web & Software Engineering Group, Leipzig, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andreas",
+     "family": "Both",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Leipzig University of Applied Sciences, Leipzig, Germany"
+      },
+      {
+       "name": "Web & Software Engineering Group, Leipzig, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/forge66646.2025.00017",
+   "title": [
+    "Augmenting Large Language Models with Static Code Analysis for Automated Code Quality Improvements"
+   ],
+   "container-title": [
+    "2025 IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      27
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/forge66646.2025.00017",
+   "author": [
+    {
+     "given": "Seyed Moein",
+     "family": "Abtahi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Ontario Tech University,Faculty of Engineering and Applied Science"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Akramul",
+     "family": "Azim",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Ontario Tech University,Faculty of Engineering and Applied Science"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Large Language Models (LLMs) are increasingly being used in everyday software engineering tasks, particularly in automated code generation. Despite their widespread adoption, these models remain far from perfect, making systematic and fair evaluation essential to understand their strengths and limitations. In the context of code generation, existing benchmarks are limited: they often target a single programming language and rely primarily on unit test outcomes, while overlooking other critical dimensions such as the overall quality of the generated code and its closeness to a valid solution. To address these gaps, we introduce , an extensible benchmark framework that, unlike prior work, establishes a systematic structure built on diverse and well-defined metrics, representative workloads, varied prompt templates, and a robust experimental procedure. In practice, the code generated by the LLMs is evaluated along three complementary dimensions: functional correctness, proximity to valid solutions, and code quality, enabling a comprehensive assessment of performance. We use  to evaluate four open-source and two proprietary models under three prompting strategies across five programming languages. We further complement this analysis with a study of common errors in the code and provide concrete examples, offering clearer insight into where LLMs tend to struggle. Our findings show that, while LLMs achieve promising results, they struggle with harder problems and, in the case of smaller models, with programming languages that have fewer available resources for training, and they often fail due to fundamental and easily avoidable errors that underscore the unreliability of automatically generated code.</jats:p>",
+   "DOI": "10.1007/s10664-026-10904-5",
+   "type": "journal-article",
+   "title": [
+    "PROBE: Benchmarking code generation in large language models"
+   ],
+   "author": [
+    {
+     "given": "Rodrigo",
+     "family": "Pato Nogueira",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marco",
+     "family": "Vieira",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "João R.",
+     "family": "Campos",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Empirical Software Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      8,
+      15
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1007/s10664-026-10904-5"
+  },
+  {
+   "DOI": "10.1145/3799682.3839849",
+   "title": [
+    "Automated Software Ticket Generation Using Large Language Models and Code Graphs"
+   ],
+   "container-title": [
+    "Proceedings of the 35th ACM International Conference on Information and Knowledge Management"
+   ],
+   "publisher": "ACM",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      11,
+      6
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3799682.3839849",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0007-1850-015X",
+     "authenticated-orcid": false,
+     "given": "Timo Maximilian",
+     "family": "Sieger",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Paderborn University, Paderborn, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4525-6865",
+     "authenticated-orcid": false,
+     "given": "Stefan",
+     "family": "Heindorf",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Paderborn University, Paderborn, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/s10515-024-00485-2",
+   "title": [
+    "BadCodePrompt: backdoor attacks against prompt engineering of large language models for code generation"
+   ],
+   "container-title": [
+    "Automated Software Engineering"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      28
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s10515-024-00485-2",
+   "author": [
+    {
+     "given": "Yubin",
+     "family": "Qu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Song",
+     "family": "Huang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yanzhou",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tongtong",
+     "family": "Bai",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiang",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xingya",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Long",
+     "family": "Li",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yongming",
+     "family": "Yao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/ase63991.2025.00248",
+   "title": [
+    "RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation"
+   ],
+   "container-title": [
+    "2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      16
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/ase63991.2025.00248",
+   "author": [
+    {
+     "given": "Xiao",
+     "family": "Yu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Zhejiang University,The State Key Laboratory of Blockchain and Data Security,Hangzhou,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Haoxuan",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Wuhan University of Technology,School of Computer Science and Artificial Intelligence,Wuhan,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Lei",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Xi&#x2019;an Jiaotong University,Faculty of Electronic and Information Engineering,Xi&#x2019;an,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xing",
+     "family": "Hu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang University,The State Key Laboratory of Blockchain and Data Security,Hangzhou,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jacky Wai",
+     "family": "Keung",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "City University of Hong Kong,Department of Computer Science,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xin",
+     "family": "Xia",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Zhejiang University,The State Key Laboratory of Blockchain and Data Security,Hangzhou,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:p>The development of a modular software platform using large language\nmodels (LLMs) for code generation presents unique opportunities and\nchallenges. This paper explores the experiences and difficulties\nencountered during the creation of an AI-driven business intelligence\nplatform built with LLM assistance. By using an iterative approach to\ngenerate modular code, the project aimed to accelerate development and\nautomate routine tasks. However, challenges such as inconsistency in the\ngenerated code, hallucinations, lack of long-term memory, and\nintegration complexities emerged. These limitations necessitated manual\nintervention for code refinement, debugging, and integration to ensure\nproject-wide consistency. The study discusses strategies to address\nthese issues, including structured prompting, automated testing, and\niterative refinement. The findings reveal that while LLMs significantly\nreduce development time and facilitate rapid prototyping, they are not a\ncomplete substitute for human expertise. The paper offers practical\ninsights into optimizing the use of LLMs in software engineering,\ndemonstrating both the potential benefits and current limitations of\nAI-assisted code generation in modular software projects.</jats:p>",
+   "DOI": "10.22541/au.172871465.54826063/v1",
+   "type": "posted-content",
+   "title": [
+    "Experiences and Challenges in AI-Driven Modular Software Development Using Large Language Models for Code Generation"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7323-3695",
+     "authenticated-orcid": false,
+     "given": "Sadi Evren",
+     "family": "SEKER",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Istanbul Universitesi"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      12
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.22541/au.172871465.54826063/v1"
+  },
+  {
+   "DOI": "10.1145/3691620.3695470",
+   "title": [
+    "JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models"
+   ],
+   "container-title": [
+    "Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering"
+   ],
+   "publisher": "ACM",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      27
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3691620.3695470",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-4892-6294",
+     "authenticated-orcid": false,
+     "given": "Jialun",
+     "family": "Cao",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "The Hong Kong University of Science and Technology, Hong Kong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0005-2555-5728",
+     "authenticated-orcid": false,
+     "given": "Zhiyong",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing University, Nanjing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6126-303X",
+     "authenticated-orcid": false,
+     "given": "Jiarong",
+     "family": "Wu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "The Hong Kong University of Science and Technology, Hong Kong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-3508-7172",
+     "authenticated-orcid": false,
+     "given": "Shing-Chi",
+     "family": "Cheung",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "The Hong Kong University of Science and Technology, Hong Kong, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6299-4704",
+     "authenticated-orcid": false,
+     "given": "Chang",
+     "family": "Xu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Nanjing University, Nanjing, China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1145/3696630.3731473",
+   "title": [
+    "Towards Privacy-Preserving Code Generation: Understanding and Mitigating Memorization in Code Large Language Models"
+   ],
+   "container-title": [
+    "Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering"
+   ],
+   "publisher": "ACM",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      6,
+      23
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1145/3696630.3731473",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0009-0231-287X",
+     "authenticated-orcid": false,
+     "given": "Melih",
+     "family": "Catal",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of Zurich, Zurich, Switzerland"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1007/s10515-026-00599-9",
+   "title": [
+    "Automating code generation for a new ecosystem: establishing baselines with large language model based code generation for ArkTS and HarmonyOS"
+   ],
+   "container-title": [
+    "Automated Software Engineering"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2,
+      27
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s10515-026-00599-9",
+   "author": [
+    {
+     "given": "Mehmet Cem",
+     "family": "Aytekin",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fatma Gizem",
+     "family": "Yılmaz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mustafa Umut",
+     "family": "Demirezen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "EWA Publishing",
+   "abstract": "<jats:p>In recent years, the proliferation of code generation models based on large language models such as GitHub Copilot and ChatGPT allows automated source code generation to meet the needs of developers and helps increase coding efficiency. However, a recent study revealed security concerns in generated code, leading the code to be vulnerable to attacks. My research introduces a framework aimed at mitigating the risk of code generation models generating vulnerable code specific to data leakage issues. The ranker is developed to use VUDENC, a deep learning model for vulnerability detection, along with CodeQL and Bandit, two Python code analyzers, to evaluate and rank generated code based on security metrics. By generating multiple code candidates and utilizing the ranker to select the most secure option, it ensures the generation of more secure code. The framework is evaluated on an aggregated SecurityEval and LLMSecEval dataset on relevant scenarios, which shows the framework has newfound advantages compared to the gpt3.5-turbo model. With its proven effectiveness, the framework could be expanding its applicability beyond data leakage issues, adapting to mitigate a comprehensive range of vulnerabilities.</jats:p>",
+   "DOI": "10.54254/2755-2721/2025.20425",
+   "type": "journal-article",
+   "title": [
+    "SecureCoder: A Framework for Mitigating Vulnerabilities in Automated Code Generation Using Large Language Models"
+   ],
+   "author": [
+    {
+     "given": "Ruichen",
+     "family": "Zhu",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Berkshire School, MA, USA"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Applied and Computational Engineering"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12,
+      19
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.54254/2755-2721/2025.20425"
+  },
+  {
+   "DOI": "10.1007/s10664-026-10844-0",
+   "title": [
+    "ArkTS code generation: A comprehensive evaluation with large language models"
+   ],
+   "container-title": [
+    "Empirical Software Engineering"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      2
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1007/s10664-026-10844-0",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-2445-5929",
+     "authenticated-orcid": false,
+     "given": "Ekin Can",
+     "family": "Erkuş",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Cansen Çağlayan",
+     "family": "Yılmaz",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-9045-4238",
+     "authenticated-orcid": false,
+     "given": "Mustafa Umut",
+     "family": "Demirezen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.jss.2026.112834",
+   "title": [
+    "Impact of code context and prompting strategies on automated unit test generation with modern general-purpose large language models"
+   ],
+   "container-title": [
+    "Journal of Systems and Software"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.jss.2026.112834",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-5632-9484",
+     "authenticated-orcid": false,
+     "given": "Jakub",
+     "family": "Walczak",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0007-6939-8757",
+     "authenticated-orcid": false,
+     "given": "Piotr",
+     "family": "Tomalak",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0004-1532-8823",
+     "authenticated-orcid": false,
+     "given": "Artur",
+     "family": "Laskowski",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1109/icse55347.2025.00108",
+   "title": [
+    "Fixing Large Language Models' Specification Misunderstanding for Better Code Generation"
+   ],
+   "container-title": [
+    "2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)"
+   ],
+   "publisher": "IEEE",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      4,
+      26
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1109/icse55347.2025.00108",
+   "author": [
+    {
+     "given": "Zhao",
+     "family": "Tian",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "College of Intelligence and Computing, Tianjin University,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Junjie",
+     "family": "Chen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "College of Intelligence and Computing, Tianjin University,China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiangyu",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Purdue University,Department of Computer Science,USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1186 @@
+{
+ "query": "Tuberculosis treatment adherence",
+ "retrieved_at": "2026-11-18T18:10:42.454055+00:00",
+ "data": [
+  {
+   "DOI": "10.1007/978-3-030-66703-0_19",
+   "title": [
+    "Tuberculosis Treatment and Adherence"
+   ],
+   "container-title": [
+    "Essential Tuberculosis"
+   ],
+   "publisher": "Springer International Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-3-030-66703-0_19",
+   "author": [
+    {
+     "given": "Al",
+     "family": "Story",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Springer Science and Business Media LLC",
+   "abstract": "<title>Abstract</title>\n        <p>Background\n Tuberculosis (TB) remains a public health challenge in Nigeria, ranking first in Africa and sixth globally. In Nasarawa State, rising cases and suboptimal treatment outcomes highlight adherence gaps, with over 7,000 cases reported in recent years. Poor adherence contributes to treatment failure, drug-resistance, and transmission. This study investigated determinants of TB treatment adherence among patients at Federal University Teaching Hospital (FUTH) Lafia, using the PRECEDE model to assess predisposing, reinforcing, and enabling factors.\nMethods\n A descriptive cross-sectional design was used, surveying 156 TB patients via systematic random sampling from a population of 216. Data were collected using a structured questionnaire covering demographics, knowledge, social support, quality of care, and adherence. Reliability was confirmed with a Cronbach’s alpha of 0.793. A 97.44% response rate (152/156) was achieved. Data was analyzed using SPSS version 27.0, with descriptive statistics, Pearson’s correlation, and logistic regression (significance at p ≤ 0.05).  Ethical approvals were obtained from Babcock University and FUTH Lafia.\nResults\n Findings revealed moderate TB knowledge (mean = 7.76 ± 2.058). Emotional support was strong (92.8% received medication reminders), but practical support was weak (23.6%). Quality of care scored highest (mean = 17.32 ± 1.836). Treatment adherence was 71.5% (mean = 8.58 ± 1.811), below WHO’s 90% target. Logistic regression showed quality of care significantly predicted adherence (AOR = 2.386, 95% CI = 1.564–3.640, p &lt; 0.001); knowledge and social support were non-significant.\nConclusion\n The study concluded that quality of care is the strongest determinant of adherence, recommending tailored education, practical support, and further research.</p>",
+   "DOI": "10.21203/rs.3.rs-6566218/v1",
+   "type": "posted-content",
+   "title": [
+    "Determinants of Tuberculosis Treatment Adherence Among Patients Receiving Tuberculosis Treatment at Federal University Teaching Hospital, Lafia, Nasarawa State"
+   ],
+   "author": [
+    {
+     "given": "Esther",
+     "family": "Anzaku",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Babcock University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Saheed",
+     "family": "Lawal",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Babcock University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      29
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-6566218/v1"
+  },
+  {
+   "DOI": "10.54499/2024.00492.bd",
+   "publisher": "Fundacao para a Ciencia e a Tecnologia (unidadeFCCN)",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      1
+     ]
+    ]
+   },
+   "type": "grant",
+   "URL": "https://doi.org/10.54499/2024.00492.bd"
+  },
+  {
+   "publisher": "Office of Academic Resources, Chulalongkorn University",
+   "abstract": "<jats:p>The objective of this study was to develop and evaluate the psychometric properties of a novel instrument called adherence to treatment for persons with pulmonary tuberculosis (TB) scale. The process of instrument development consisted of seven steps, which are: 1) clarifying the concept of adherence to TB treatment by synthesizing existing literature and obtaining a Delphi Study, 2) generating an item pool through a literature analysis, 3) selecting the format of measurement by employing a 4-point Likert scale, 4) evaluating the items through content validity testing, 5) conducting a preliminary research, 6) evaluating the psychometric properties of the scale by employing factor analysis, and 7) finalizing and interpreting the scale. The result of the study has exposed the seven components of adherence to TB treatment: 1) medication taking behavior, 2) nutrition care, 3) stop of substance use, 4) stress management, 5) physical activity, 6) sleep and rest quality, and 7) preventive behavior. The components were then utilized to establish a scale to measure adherence to TB treatment. The scale exhibited the scale-content validity index/ average score was .92. The Cronbach's alpha reliability coefficient was found with a value of .894. Due to factor analysis, EFA resulted in 33 items that assess seven domains.  In regards to CFA, the model modification has demonstrated the scale fit with the parameter indices (Chi-Squared ratio=1.97; CFI=.94; TLI=.88; RMSEA=.066; SRMR=.054). Therefore, this scale was proved to be an acceptable and promising tool for assessing the adherence to TB treatment. Thus, it can serve as a valuable reference for future investigations into nursing practice, education, and research.</jats:p>",
+   "DOI": "10.58837/chula.the.2023.474",
+   "type": "dissertation",
+   "title": [
+    "The development of adherence to treatment scale for persons with pulmonary tuberculosis"
+   ],
+   "author": [
+    {
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Yunus",
+     "family": "Prasetyo",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.58837/chula.the.2023.474"
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:p>As the overall prevalence of TB remains high among certain population groups, there is growing awareness of psychiatric comorbidity, especially depression and its role in the outcome of the disease. The paper attempts a holistic approach to the effects of psychiatric comorbidity to the natural history of tuberculosis. In order to investigate factors associated with medication nonadherence among patients suffering from tuberculosis, with emphasis on psychopathology as a major barrier to treatment adherence, we performed a systematic review of the literature on epidemiological data and past medical reviews from an historical perspective, followed by theoretical considerations upon the relationship between psychiatric disorders and tuberculosis. Studies reporting high prevalence rates of psychiatric comorbidity, especially depression, as well as specific psychological reactions and disease perceptions and reviews indicating psychiatric complications as adverse effects of anti-TB medication were included. In sum, data concerning factors affecting medication nonadherence among TB patients suggested that better management of comorbid conditions, especially depression, could improve the adherence rates, serving as a framework for the effective control of tuberculosis, but further studies are necessary to identify the optimal way to address such issues among these patients.</jats:p>",
+   "DOI": "10.1155/2013/489865",
+   "type": "journal-article",
+   "title": [
+    "Psychiatric Morbidity and Other Factors Affecting Treatment Adherence in Pulmonary Tuberculosis Patients"
+   ],
+   "author": [
+    {
+     "given": "Argiro",
+     "family": "Pachi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Psychiatric Department, Sotiria General Hospital of Chest Disease, Athens, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dionisios",
+     "family": "Bratis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Psychiatric Department, Sotiria General Hospital of Chest Disease, Athens, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Georgios",
+     "family": "Moussas",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Psychiatric Department, Sotiria General Hospital of Chest Disease, Athens, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Athanasios",
+     "family": "Tselebis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Psychiatric Department, Sotiria General Hospital of Chest Disease, Athens, Greece"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Tuberculosis Research and Treatment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2013
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1155/2013/489865"
+  },
+  {
+   "DOI": "10.1183/13993003.congress-2019.pa5274",
+   "title": [
+    "Endobronchial valve application in tuberculosis patients with low treatment adherence"
+   ],
+   "container-title": [
+    "Tuberculosis"
+   ],
+   "publisher": "European Respiratory Society",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      9,
+      28
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.1183/13993003.congress-2019.pa5274",
+   "author": [
+    {
+     "given": "Denis",
+     "family": "Krasnov",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Pavel",
+     "family": "Fadeev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Irina",
+     "family": "Felker",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Vladimir",
+     "family": "Krasnov",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1186/isrctn15169616",
+   "title": [
+    "Electronic monitors for improving tuberculosis patients’ treatment adherence in China"
+   ],
+   "container-title": [
+    "http://isrctn.com/"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      7,
+      29
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1186/isrctn15169616",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3772-1891",
+     "authenticated-orcid": false,
+     "given": "Min",
+     "family": "Su",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Instituto de Investigación Multidisciplinaria Perspectivas Globales",
+   "abstract": "<jats:p>Objetivo: Examinar cómo la educación y el acompañamiento de enfermería se relacionan con el autocuidado y la adherencia al tratamiento de la tuberculosis, con atención a su aplicación en Ecuador. Método: Síntesis documental breve de 15 publicaciones sobre barreras terapéuticas, apoyo social, educación y cuidado de enfermería. Resultados: La continuidad del tratamiento depende de factores personales, sociales y de acceso a los servicios; la información comprensible, el seguimiento y una relación de confianza favorecen la identificación temprana de dificultades. Las revisiones de intervenciones de enfermería sugieren beneficios, aunque la diversidad de diseños limita la extrapolación de sus efectos a Ecuador. Conclusión: La educación individualizada, la vigilancia de efectos adversos y la coordinación del seguimiento pueden fortalecer el autocuidado y la continuidad terapéutica.</jats:p>",
+   "DOI": "10.62574/vmvcma83",
+   "type": "journal-article",
+   "title": [
+    "Atención de enfermería, autocuidado y adherencia al tratamiento de la tuberculosis [Nursing care, self-care and adherence to tuberculosis treatment]",
+    "Nursing care, self-care and adherence to tuberculosis treatment [Atención de enfermería, autocuidado y adherencia al tratamiento de la tuberculosis]"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-8972-1804",
+     "authenticated-orcid": false,
+     "given": "Ingrid Mariela",
+     "family": "Yucailla-Chacaguasay",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Cuaderno de enfermería. Revista científica"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      10,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.62574/vmvcma83"
+  },
+  {
+   "DOI": "10.5220/0008322301780182",
+   "title": [
+    "Family Support, Self-efficacy, Motivation, and Treatment Adherence in Multidrug-resistant Tuberculosis Patients"
+   ],
+   "container-title": [
+    "Proceedings of the 9th International Nursing Conference"
+   ],
+   "publisher": "SCITEPRESS - Science and Technology Publications",
+   "issued": {
+    "date-parts": [
+     [
+      2018
+     ]
+    ]
+   },
+   "type": "proceedings-article",
+   "URL": "https://doi.org/10.5220/0008322301780182",
+   "author": [
+    {
+     "given": "Tintin",
+     "family": "Sukartini",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Nursing Universitas Airlangga, Surabaya and Indonesia, Indonesia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ika",
+     "family": "Minarni",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Nursing Universitas Airlangga, Surabaya and Indonesia, Indonesia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Candra Panji",
+     "family": "Asmoro",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Faculty of Nursing Universitas Airlangga, Surabaya and Indonesia, Indonesia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:p><jats:italic>Setting</jats:italic>. The poor patient adherence in tuberculosis (TB) treatment is considered to be one of the most serious challenges which reflect the decrease of treatment success and emerging of the Multidrug Resistance-TB (MDR-TB). To our knowledge, the data about patients’ adherence to anti-TB treatment in our country are missing.<jats:italic>Objective</jats:italic>. This study was aimed to investigate the anti-TB treatment adherence rate and to identify factors related to eventual nonadherence among Kosovo TB patients.<jats:italic>Design</jats:italic>. This study was conducted during 12 months, and the survey was a descriptive study using the standardized questionnaires with total 324 patients.<jats:italic>Results</jats:italic>. The overall nonadherence for TB patient cohort was 14.5%, 95% CI (0.109–0.188). Age and place of residence are shown to have an effect on treatment adherence. Moreover, the knowledge of the treatment prognosis, daily dosage, side effects, and length of treatment also play a role. This was also reflected in knowledge regarding compliance with regular administration of TB drugs, satisfaction with the treatment, interruption of TB therapy, and the professional monitoring in the administration of TB drugs.<jats:italic>Conclusion</jats:italic>. The level of nonadherence TB treatment in Kosovar patients is not satisfying, and more health care worker’s commitments need to be addressed for improvement.</jats:p>",
+   "DOI": "10.1155/2017/4850324",
+   "type": "journal-article",
+   "title": [
+    "Tuberculosis Treatment Adherence of Patients in Kosovo"
+   ],
+   "author": [
+    {
+     "given": "Shaip",
+     "family": "Krasniqi",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Institute of Pharmacology and Toxicology and Clinical Pharmacology, Faculty of Medicine, University of Prishtina “Hasan Prishtina”, Prishtina, Kosovo"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Arianit",
+     "family": "Jakupi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Health Agency for Development (HAD), Prishtina, Kosovo"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Armond",
+     "family": "Daci",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Pharmacy, Faculty of Medicine, University of Prishtina “Hasan Prishtina”, Prishtina, Kosovo"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bahri",
+     "family": "Tigani",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Health Agency for Development (HAD), Prishtina, Kosovo"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nora",
+     "family": "Jupolli-Krasniqi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Health Agency for Development (HAD), Prishtina, Kosovo"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mimoza",
+     "family": "Pira",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Health Agency for Development (HAD), Prishtina, Kosovo"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Valbona",
+     "family": "Zhjeqi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "National Institute of Public Health of Kosovo, Prishtina, Kosovo"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4515-8640",
+     "authenticated-orcid": true,
+     "given": "Burim",
+     "family": "Neziri",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Institute of Clinical Physiology, Faculty of Medicine, University of Prishtina “Hasan Prishtina”, Prishtina, Kosovo"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Tuberculosis Research and Treatment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1155/2017/4850324"
+  },
+  {
+   "publisher": "Research Square Platform LLC",
+   "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>Background\n Drug-sensitive tuberculosis (DSTB) patients often face challenges in adhering to medications. Tuberculosis Monitoring Encouragement Adherence Drive (TMEAD)is an electronic cartridge-based dispensing module that dispenses patients’ daily dose in a small disposable box that provides reminders for Medication consumption and enables remote drug adherence monitoring.\nObjective\n The present study evaluated the acceptance of TMEAD devices among DSTB patients in Nasik city of Maharashtra.\nMethods\n Qualitative In-depth interviews (IDI) were conducted with 40 DSTB patients and 16 treatment supporters. IDI were audio recorded. The observations were organized using the outline construct that assessed the technology acceptance into four major themes - performance expectancy (acceptability of the device), effort expectancy (perceived benefit of the device), social influence (saving time and money) and facilitating conditions (availability of medicines).\nResults\n Acceptance of the TMEAD device was linked to perceptions that the reminder alarm improves treatment adherence and reduces hospital visits. Having patient’s daily medication doses in a box aid in compliance to regular medicine consumption. Patients felt that the healthcare system was more concerned about them, thanks to the device's features &amp; ability to encourage family members to participate in their care. Poor patient acceptability of the device was linked to problems with its dependability, size, charging Issues, and concerns regarding possible stigma. TB health visitors said it lessened the frequency of in-person patient interactions, allowing them to spend more time on other crucial activities. Patients who returned the devices reported that the primary reasons were stigma associated with TB and issues with charging the device and taking the device to the workplace.\nConclusions\n Several features of the device support its acceptability among TB patients, while a few difficulties with patient use should be resolved by changing the device design. Specific difficulties, such as stigma associated with the disease, are more challenging to overcome and may restrict device usage. Overall, we conclude that TMEAD intervention has the potential to be integrated into the basket of digital adherence intervention under India’s National TB Elimination program.</jats:p>",
+   "DOI": "10.21203/rs.3.rs-3357653/v1",
+   "type": "posted-content",
+   "title": [
+    "Acceptance of Tuberculosis Monitoring Encouragement Adherence Drive (TMEAD) for Improving Tuberculosis Treatment Adherence in Nasik, Maharashtra"
+   ],
+   "author": [
+    {
+     "given": "Somen",
+     "family": "Saha",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Indian Institute of Public Health Gandhinagar"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Devang",
+     "family": "Raval",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Indian Institute of Public Health Gandhinagar"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Deepak",
+     "family": "Saxena",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Indian Institute of Public Health Gandhinagar"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nishad",
+     "family": "Halkarni",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Sensedose Technologies Private Limited"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rahul",
+     "family": "Doshi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Sensedose Technologies Private Limited"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sukan",
+     "family": "Rajpurohit",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "India Health Fund"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Raghavendra",
+     "family": "Rao",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "India Health Fund"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Madhav",
+     "family": "Joshi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "India Health Fund"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      18
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-3357653/v1"
+  },
+  {
+   "publisher": "openRxiv",
+   "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Substance use are associated with high discontinuation of tuberculosis treatment which is a barrier to tuberculosis control. Treatment discontinuation significantly increase the risk of poor treatment outcomes in both drug-susceptible and multidrug-resistant tuberculosis patients. This study aimed to explore the impact of substance use on tuberculosis treatment adherence among tuberculosis patients in Limpopo Province, South Africa.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Method</jats:title>\n                  <jats:p>The study employed exploratory qualitative research design. Purposive sampling method was used to sample eight TB focal person and eight facility operational managers who were working in eight community health center within three selected districts in Limpopo province. Data were collected through key informant in-depth interviews and were analysed using Colaizzi’s method.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>The study results show four individual major themes that emerged from data analysis: (1) Patients forget to take treatment, (2) Patients miss follow up visit and DOT support appointments (3) Patients refuse social support (4) Patients refuse to attend health education and counselling.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>The study highlighted serious impact of substance abuse on TB treatment adherence among TB patients. There is a need to integrate treatment for alcoholism and illicit drug users into primary health care to identify specific group of patients suffering from alcoholism and drug addiction on time, as a component of comprehensive TB treatment strategy.</jats:p>\n                </jats:sec>",
+   "DOI": "10.1101/2023.06.08.23291161",
+   "type": "posted-content",
+   "title": [
+    "The impact of substance use on tuberculosis treatment adherence among tuberculosis patients in Limpopo Province, South Africa"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9949-4439",
+     "authenticated-orcid": false,
+     "given": "Hulisani",
+     "family": "Matakanye",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Takalani",
+     "family": "Tshitangano",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      6,
+      12
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1101/2023.06.08.23291161"
+  },
+  {
+   "DOI": "10.1002/brb3.70665/v1/review1",
+   "title": [
+    "Review for \"Improving Treatment Adherence in Youths With Multidrug‐Resistant Tuberculosis With Psychosocial Intervention\""
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      12,
+      4
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1002/brb3.70665/v1/review1"
+  },
+  {
+   "DOI": "10.1002/brb3.70665/v1/review2",
+   "title": [
+    "Review for \"Improving Treatment Adherence in Youths With Multidrug‐Resistant Tuberculosis With Psychosocial Intervention\""
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      1,
+      29
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1002/brb3.70665/v1/review2"
+  },
+  {
+   "DOI": "10.1186/isrctn89499814",
+   "title": [
+    "Internet plus health education on treatment adherence in patients with pulmonary tuberculosis"
+   ],
+   "container-title": [
+    "http://isrctn.com/"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      8,
+      11
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1186/isrctn89499814",
+   "author": [
+    {
+     "given": "Chen",
+     "family": "Lv",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.11604/pamj.2016.25.80.9447",
+   "title": [
+    "Patient non adherence to tuberculosis treatment in Sudan: socio demographic factors influencing non adherence to tuberculosis therapy in Khartoum State"
+   ],
+   "container-title": [
+    "Pan African Medical Journal"
+   ],
+   "publisher": "Pan African Medical Journal",
+   "issued": {
+    "date-parts": [
+     [
+      2016
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.11604/pamj.2016.25.80.9447",
+   "author": [
+    {
+     "given": "Ahmed Osman",
+     "family": "Ahmed",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Martinus Hendrik",
+     "family": "Prins",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:p><jats:italic>Background</jats:italic>. In TB control, poor treatment adherence is a major cause of relapse and drug resistance. Nurses have a critical role in supporting patients in TB treatment process. Yet, very little research has been done to inform policymakers and practitioners on nurses’ experiences of treatment adherence among patients with TB.<jats:italic>Aim</jats:italic>. To describe nurses’ experiences of supporting treatment adherence among patients with tuberculosis in Burundi.<jats:italic>Method</jats:italic>. The study adopted qualitative approach with a descriptive design. A purposive sampling was performed. Eight nurses were selected from two TB treatment centers in Burundi. Content analysis was used to analyze the data.<jats:italic>Result</jats:italic>. According to the nurses, most patients complete their treatment. Educating patients, providing the medication, observing and following up treatment, and communicating with the patients were the key tasks by nurses to support adherence. Causes for interruption were medication-related difficulties, poverty, and patients’ indiscipline. Treatment adherence could also be affected by patients’ and nurses’ feelings. Providing transportation and meals could enhance treatment compliance.<jats:italic>Conclusion</jats:italic>. Nurses are critical resources to TB treatment success. In a poverty stricken setting, nurses’ work could be facilitated and adherence further could be enhanced if socioeconomic problems (transportation and nutritional support) were alleviated.</jats:p>",
+   "DOI": "10.1155/2014/984218",
+   "type": "journal-article",
+   "title": [
+    "Nurses’ Roles and Experiences with Enhancing Adherence to Tuberculosis Treatment among Patients in Burundi: A Qualitative Study"
+   ],
+   "author": [
+    {
+     "given": "Marie",
+     "family": "Carlsson",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "School of Health and Medical Sciences, Örebro University, 701 82 Örebro, Sweden"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Stina",
+     "family": "Johansson",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Health and Medical Sciences, Örebro University, 701 82 Örebro, Sweden"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Remy-Paul Bosela",
+     "family": "Eale",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "International Leadership University in Burundi, P.O. Box 2330, Bujumbura, Burundi"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9865-4405",
+     "authenticated-orcid": true,
+     "given": "Berthollet Bwira",
+     "family": "Kaboru",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Health and Medical Sciences, Örebro University, 701 82 Örebro, Sweden"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Tuberculosis Research and Treatment"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2014
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1155/2014/984218"
+  },
+  {
+   "DOI": "10.1186/isrctn95243114",
+   "title": [
+    "Intervening with a Manualised Package to achieve treatment adherence in people with Tuberculosis"
+   ],
+   "container-title": [
+    "http://isrctn.com/"
+   ],
+   "publisher": "Springer Science and Business Media LLC",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      2,
+      14
+     ]
+    ]
+   },
+   "type": "dataset",
+   "URL": "https://doi.org/10.1186/isrctn95243114",
+   "author": [
+    {
+     "given": "Marc",
+     "family": "Lipman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1002/brb3.70665/v1/decision1",
+   "title": [
+    "Decision letter for \"Improving Treatment Adherence in Youths With Multidrug‐Resistant Tuberculosis With Psychosocial Intervention\""
+   ],
+   "publisher": "Wiley",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      5
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.1002/brb3.70665/v1/decision1"
+  },
+  {
+   "publisher": "JMIR Publications Inc.",
+   "abstract": "<sec>\n                    <title>BACKGROUND</title>\n                        <p>Patients with Drug sensitive tuberculosis (DSTB) often face challenges in adhering to medications. Tuberculosis Monitoring Encouragement Adherence Drive (TMEAD) is a digital pillbox that provides reminders for pill consumption and facilitates the remote monitoring of medication adherence.</p>\n                </sec>\n                                <sec>\n                    <title>OBJECTIVE</title>\n                        <p>Present study assessed the acceptance of TMEAD among TB patients in Nasik city of Maharashtra.</p>\n                </sec>\n                                <sec>\n                    <title>METHODS</title>\n                        <p>Qualitative In-depth interviews (IDI) were conducted with 40 DSTB patients and 16 treatment supporters. IDI were audio recorded. The observations were organized using the outline construct that assessed the technology acceptance into four major themes - performance expectancy (acceptability of the device), effort expectancy (perceived benefit of the device), social influence (saving time and money) and facilitating conditions (availability of medicines).</p>\n                </sec>\n                                <sec>\n                    <title>RESULTS</title>\n                        <p>Better acceptance to TMEAD was related to perceptions that the reminder alarm improves medication adherence and remote monitoring too reduced the frequency of clinic visits, organization of medications made it easier to take them correctly. The device facilitated positive family involvement in the patient’s care, and that remote monitoring made patients feel more cared for by the health system. Lower patient acceptance to TMEAD was related to problems with the durability of the device, large size,  issues with charging, and concerns regarding possible stigma. TB health visitors reported that TMEAD implementation resulted in reducing the frequent in-person interactions with patients and thus allowed them to dedicate more time to other important tasks. Patients who returned the devices reported that the primary reasons were stigma associated with TB, and issues of charging the device and taking device at workplace.</p>\n                </sec>\n                                <sec>\n                    <title>CONCLUSIONS</title>\n                        <p>There are several features of the TMEAD that supports its acceptability among TB patients, while few barriers to patient use should be addressed by improving the design of the device. However, some barriers, such as disease-related stigma, are more difficult to modify and may limit use of the TMEAD. Overall, we conclude that TMEAD intervention has the potential to be integrated into the basket of digital adherence intervention under India’s National TB Elimination programme.</p>\n                </sec>",
+   "DOI": "10.2196/preprints.42625",
+   "type": "posted-content",
+   "title": [
+    "Acceptance of Tuberculosis Monitoring Encouragement Adherence Drive (TMEAD) for Improving Tuberculosis Treatment Adherence in Nasik, Maharashtra (Preprint)"
+   ],
+   "author": [
+    {
+     "given": "Deepak",
+     "family": "Saxena",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Devang",
+     "family": "Raval",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8043-3388",
+     "authenticated-orcid": false,
+     "given": "Somen",
+     "family": "Saha",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jignasa",
+     "family": "Sathwara",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nishad",
+     "family": "Halkarni",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rahul",
+     "family": "Doshi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Madhav",
+     "family": "Joshi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mridhula",
+     "family": "Sridharan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jayeeta",
+     "family": "Chowdhury",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      12
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.2196/preprints.42625"
+  }
+ ]
+}

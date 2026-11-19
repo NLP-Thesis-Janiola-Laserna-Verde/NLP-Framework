@@ -1,0 +1,771 @@
+{
+ "query": "Algorithmic bias and fairness in machine learning systems",
+ "retrieved_at": "2026-11-18T17:46:56.578801+00:00",
+ "data": [
+  {
+   "paperId": "5316c2d78f2b0225eb477c9004fa70a27004f2bf",
+   "externalIds": {
+    "DOI": "10.65890/dmp.lnmr.impact26.53",
+    "CorpusId": 289894283
+   },
+   "url": "https://www.semanticscholar.org/paper/5316c2d78f2b0225eb477c9004fa70a27004f2bf",
+   "title": "Algorithmic Bias and Fairness in Machine Learning Systems: A Review",
+   "venue": "DMPedia Lecture Notes in Multidisciplinary Research",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://digitalmanuscriptpedia.com/conferences/index.php/DMP-LNMR/article/download/53/51",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.65890/dmp.lnmr.impact26.53?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.65890/dmp.lnmr.impact26.53, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-03-13",
+   "authors": [
+    {
+     "authorId": "2447675103",
+     "name": "Tooba Fatima"
+    },
+    {
+     "authorId": "2447675377",
+     "name": "Kashifa Khanam"
+    },
+    {
+     "authorId": "2447512967",
+     "name": "A. Jaiswal"
+    },
+    {
+     "authorId": "2447649763",
+     "name": "Khanak Saxena"
+    },
+    {
+     "authorId": "2447459386",
+     "name": "Madhuresh Yadav"
+    },
+    {
+     "authorId": "2560452081",
+     "name": "Mohammad Jeelani"
+    },
+    {
+     "authorId": "2243979586",
+     "name": "Abhishek Saxena"
+    }
+   ],
+   "abstract": "Machine learning (ML) systems are increasingly deployed in sensitive domains such as healthcare, finance, and criminal justice. Despite their benefits, these systems often exhibit algorithmic bias, raising concerns about fairness, accountability, and trust. Bias may emerge from historical inequalities in training data, model design, or deployment practices, resulting in disparate impacts on marginalized groups. Over the years, researchers have proposed multiple fairness definitions and mitigation strategies, ranging from data preprocessing and in-processing adversarial learning to post-processing adjustments. Toolkits like AI Fairness 360 and Fairlearn support practical implementation, while regulatory frameworks such as the EU AI Act emphasize governance and accountability. This survey consolidates theoretical foundations, technical approaches, domain-specific applications, and policy perspectives to provide a comprehensive understanding of algorithmic bias and fairness in ML, highlighting open challenges and future research directions."
+  },
+  {
+   "paperId": "0527f506a71c10eaba02b2d177fccaa5a5d82809",
+   "externalIds": {
+    "DOI": "10.36548/jscp.2022.4.002",
+    "CorpusId": 253408829
+   },
+   "url": "https://www.semanticscholar.org/paper/0527f506a71c10eaba02b2d177fccaa5a5d82809",
+   "title": "Algorithmic Bias and Fairness in Machine Learning: Two Sides of the Same Coin?",
+   "venue": "December",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.36548/jscp.2022.4.002",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36548/jscp.2022.4.002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36548/jscp.2022.4.002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "publicationDate": "2022-11-05",
+   "authors": [
+    {
+     "authorId": "2487377906",
+     "name": "Merugu Bhuvana Naga Priya"
+    },
+    {
+     "authorId": "2504555423",
+     "name": "G. Srujana"
+    },
+    {
+     "authorId": "2487673813",
+     "name": "A. Alekhya"
+    },
+    {
+     "authorId": "2190788928",
+     "name": "Yamuna Mundru"
+    },
+    {
+     "authorId": "25158981",
+     "name": "Manas Kumar Yogi"
+    }
+   ],
+   "abstract": "The importance of counting for fairness has increased significantly in the design and engineering of those systems because of the rapid rise and widespread use of Artificial Intelligence (AI) systems and its applications in our daily lives. It is crucial to guarantee that the opinions formed by AI systems do not represent discrimination against particular groups or populations because these systems have the potential to be employed in a variety of sensitive contexts to form significant and life-changing judgments. Recent advances in traditional machine learning and deep learning have addressed these issues in a variety of subfields. Scientists are striving to overcome the biases that these programs may possess because of the industrialization of these systems and are getting familiar with them. This study looks into several practical systems that had exhibited biases in a wide variety of ways, and compiles a list of various biases’ possible sources. Then, in order to eliminate the bias previously existing in AI technologies, a hierarchy for fairness characteristics has been created. Additionally, numerous AI fields and sub domains are studied to highlight what academics have noticed regarding improper conclusions in the most cutting-edge techniques and ways they have attempted to remedy them. To lessen the issue of bias in AI systems, multiple potential future avenues and results are currently present. By examining the current research in their respective domains, it is hoped that this survey may inspire scholars to amend these problems promptly."
+  },
+  {
+   "paperId": "8d6a5c64c4d0cc5c4e6373828fb4f1b1cd2153d8",
+   "externalIds": {
+    "DOI": "10.1051/e3sconf/202339904036",
+    "CorpusId": 259934046
+   },
+   "url": "https://www.semanticscholar.org/paper/8d6a5c64c4d0cc5c4e6373828fb4f1b1cd2153d8",
+   "title": "Algorithmic Fairness and Bias in Machine Learning Systems",
+   "venue": "E3S Web of Conferences",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/36/e3sconf_iconnect2023_04036.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/e3sconf/202339904036?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/e3sconf/202339904036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "30144577",
+     "name": "Rohan Chandra"
+    },
+    {
+     "authorId": "2257423275",
+     "name": "Karun Sanjaya"
+    },
+    {
+     "authorId": "2530201297",
+     "name": "Anshul Aravind"
+    },
+    {
+     "authorId": "2223578394",
+     "name": "Ahmed Radie Abbas"
+    },
+    {
+     "authorId": "2223578409",
+     "name": "Ruzieva Gulrukh"
+    },
+    {
+     "authorId": "2504507426",
+     "name": "T. S. Senthil Kumar"
+    }
+   ],
+   "abstract": "In recent years, research into and concern over algorithmic fairness and bias in machine learning systems has grown significantly. It is vital to make sure that these systems are fair, impartial, and do not support discrimination or social injustices since machine learning algorithms are becoming more and more prevalent in decision-making processes across a variety of disciplines. This abstract gives a general explanation of the idea of algorithmic fairness, the difficulties posed by bias in machine learning systems, and different solutions to these problems. Algorithmic bias and fairness in machine learning systems are crucial issues in this regard that demand the attention of academics, practitioners, and policymakers. Building fair and unbiased machine learning systems that uphold equality and prevent discrimination requires addressing biases in training data, creating fairness-aware algorithms, encouraging transparency and interpretability, and encouraging diversity and inclusivity."
+  },
+  {
+   "paperId": "557287b3617932e1ecb447d315e26616276a7837",
+   "externalIds": {
+    "DOI": "10.1109/ICSSA62312.2024.10788666",
+    "CorpusId": 274826032
+   },
+   "url": "https://www.semanticscholar.org/paper/557287b3617932e1ecb447d315e26616276a7837",
+   "title": "Mitigating Racial Algorithmic Bias in Healthcare Artificial Intelligent Systems: A Fairness-Aware Machine Learning Approach",
+   "venue": "International Conference on Software Security and Assurance",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICSSA62312.2024.10788666?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICSSA62312.2024.10788666, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2024-09-10",
+   "authors": [
+    {
+     "authorId": "2335895496",
+     "name": "Tiffany Meg Nyawambi"
+    },
+    {
+     "authorId": "81280486",
+     "name": "Henry Muchiri"
+    }
+   ],
+   "abstract": "Racial bias in artificial intelligent (AI) systems is a pervasive problem that undermines fairness and perpetuates inequality. This paper presents an analysis of bias-mitigating algorithms applied to standard machine learning classifiers with the goal of reducing racial bias in healthcare access. The study integrates Reweighing, Adversarial Debiasing, and Exponentiated Gradient (with demographic parity) methods with two base classifiers: Logistic Regression and Random Forest Classifier. The evaluation framework employs both traditional predictive performance metrics—accuracy, precision, recall, and F1 score—and fairness metrics, including average odds difference, disparate impact score, equal opportunity difference, and balanced accuracy. The study finds that after the application of bias-mitigating algorithms, the Random Forest Classifier augmented with the Reweighing algorithm is the superior model, achieving an accuracy of 88.01%, precision of 89%, recall of 97%, and F1 score of 93%, while also demonstrating a balance with respect to fairness. This indicates the model's capability to maintain equity across diverse racial groups and the Random Forest Classifier model's compatibility with the Reweighing technique. The model was then interpreted using Local Interpretable Model-Agnostic Explanations to offer clear insights into the decision-making process. By highlighting effective strategies for mitigating racial algorithmic bias and fostering interpretability, this paper contributes foundational knowledge crucial for ethical AI development in the healthcare sector."
+  },
+  {
+   "paperId": "f76fd2ea00cfdd712274727b1f9de8c393f6d554",
+   "externalIds": {
+    "DOI": "10.70177/ijonis.v2i4.2837",
+    "CorpusId": 290411488
+   },
+   "url": "https://www.semanticscholar.org/paper/f76fd2ea00cfdd712274727b1f9de8c393f6d554",
+   "title": "ISLAMIC ETHICS OF ALGORITHMIC BIAS: A FRAMEWORK FOR FAIRNESS IN MACHINE LEARNING APPLICATIONS",
+   "venue": "International Jornal of Noesantara Islamic Studies",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://research.adra.ac.id/index.php/ijonis/article/download/2837/2281",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70177/ijonis.v2i4.2837?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70177/ijonis.v2i4.2837, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-08-20",
+   "authors": [
+    {
+     "authorId": "2174444745",
+     "name": "Rustiyana Rustiyana"
+    },
+    {
+     "authorId": "2409676632",
+     "name": "Fatimah Al Rashid"
+    },
+    {
+     "authorId": "83551789",
+     "name": "Fatima Malik"
+    }
+   ],
+   "abstract": "The expanding use of machine learning systems in socially consequential domains has intensified concerns about algorithmic bias, particularly in contexts where ethical legitimacy must align with religious and cultural values. The absence of frameworks that integrate computational fairness with Islamic moral philosophy presents a critical gap in current AI ethics discourse. This study aims to construct an Islamic ethical framework for evaluating and mitigating algorithmic bias by systematically mapping core Islamic principles—justice, harm prevention, accountability, and human dignity—onto established fairness methodologies in machine learning. A qualitative conceptual design was employed, utilizing structured content analysis of classical and contemporary Islamic ethical texts alongside interdisciplinary AI fairness literature. The findings reveal substantial conceptual convergence between Islamic ethics and technical fairness approaches, demonstrating that Islamic moral constructs can function as normative foundations for bias assessment. The study concludes that integrating Islamic ethics into AI governance offers a culturally grounded and ethically robust model capable of enhancing fairness evaluation and strengthening public trust in algorithmic decision systems. The proposed framework contributes to the emerging field of non-Western AI ethics and provides a basis for developing practical guidelines for ethical AI implementation in Muslim-majority contexts."
+  },
+  {
+   "paperId": "f0cc477e06c855a16321ac90dc55719a377d8799",
+   "externalIds": {
+    "DBLP": "conf/fat/PastaltzidisDQA22",
+    "DOI": "10.1145/3531146.3534644",
+    "CorpusId": 249872735
+   },
+   "url": "https://www.semanticscholar.org/paper/f0cc477e06c855a16321ac90dc55719a377d8799",
+   "title": "Data augmentation for fairness-aware machine learning: Preventing algorithmic bias in law enforcement systems",
+   "venue": "Conference on Fairness, Accountability and Transparency",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3531146.3534644",
+    "status": "HYBRID",
+    "license": "other-oa",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3531146.3534644?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3531146.3534644, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Book",
+    "JournalArticle"
+   ],
+   "publicationDate": "2022-06-20",
+   "authors": [
+    {
+     "authorId": "2171362585",
+     "name": "Ioannis Pastaltzidis"
+    },
+    {
+     "authorId": "2032131134",
+     "name": "Nikolaos Dimitriou"
+    },
+    {
+     "authorId": "2101048118",
+     "name": "Katherine Quezada-Tavárez"
+    },
+    {
+     "authorId": "72079363",
+     "name": "S. Aidinlis"
+    },
+    {
+     "authorId": "31689335",
+     "name": "Thomas Marquenie"
+    },
+    {
+     "authorId": "118624225",
+     "name": "Agata Gurzawska"
+    },
+    {
+     "authorId": "143636644",
+     "name": "D. Tzovaras"
+    }
+   ],
+   "abstract": "Researchers and practitioners in the fairness community have highlighted the ethical and legal challenges of using biased datasets in data-driven systems, with algorithmic bias being a major concern. Despite the rapidly growing body of literature on fairness in algorithmic decision-making, there remains a paucity of fairness scholarship on machine learning algorithms for the real-time detection of crime. This contribution presents an approach for fairness-aware machine learning to mitigate the algorithmic bias / discrimination issues posed by the reliance on biased data when building law enforcement technology. Our analysis is based on RWF-2000, which has served as the basis for violent activity recognition tasks in data-driven law enforcement projects. We reveal issues of overrepresentation of minority subjects in violence situations that limit the external validity of the dataset for real-time crime detection systems and propose data augmentation techniques to rebalance the dataset. The experiments on real world data show the potential to create more balanced datasets by synthetically generated samples, thus mitigating bias and discrimination concerns in law enforcement applications."
+  },
+  {
+   "paperId": "8fb610448e5080a041345ca4a925743dd17d0430",
+   "externalIds": {
+    "DOI": "10.65521/ijeecs.v14i2.2720",
+    "CorpusId": 288658070
+   },
+   "url": "https://www.semanticscholar.org/paper/8fb610448e5080a041345ca4a925743dd17d0430",
+   "title": "Ethical AI Frameworks for Bias Detection and Fairness Optimization in Machine Learning Systems",
+   "venue": "International journal of electrical, electronics and computer systems",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.65521/ijeecs.v14i2.2720?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.65521/ijeecs.v14i2.2720, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-10-30",
+   "authors": [
+    {
+     "authorId": "2438639516",
+     "name": "Myeong Dahalbahadur"
+    }
+   ],
+   "abstract": "The widespread adoption of artificial intelligence and machine learning systems in domains such as healthcare, finance, criminal justice, hiring, education, and autonomous decision-making has significantly increased concerns regarding algorithmic bias, discrimination, and fairness. Machine learning models trained on historical and socially biased datasets often inherit and amplify existing inequalities, leading to unfair predictions and ethically problematic outcomes. These challenges have created an urgent need for ethical AI frameworks capable of detecting, mitigating, and optimizing fairness within intelligent decision-making systems. This research proposes an ethical AI framework for bias detection and fairness optimization in machine learning systems. The proposed framework integrates fairness-aware preprocessing, bias-sensitive feature analysis, interpretable machine learning mechanisms, fairness-constrained optimization, and post-processing calibration strategies into a unified ethical AI architecture. The framework supports the identification of demographic disparities, mitigation of algorithmic discrimination, and optimization of fairness metrics while maintaining predictive performance. The proposed system incorporates fairness metrics such as demographic parity, equal opportunity, equalized odds, and disparate impact analysis to evaluate ethical compliance in machine learning models. Explainable artificial intelligence (XAI) mechanisms are also integrated to improve transparency, accountability, and interpretability of automated decisions. Experimental evaluation demonstrates that the proposed framework significantly reduces algorithmic bias and improves fairness consistency across demographic groups while preserving high classification accuracy. \n "
+  },
+  {
+   "paperId": "8a07c9348378c86e67e8ba804d8755a8b03f8c86",
+   "externalIds": {
+    "DOI": "10.60087/jklst.vol1.n1.p138",
+    "CorpusId": 267727342
+   },
+   "url": "https://www.semanticscholar.org/paper/8a07c9348378c86e67e8ba804d8755a8b03f8c86",
+   "title": "Ethical Considerations in AI Addressing Bias and Fairness in Machine Learning Models",
+   "venue": "Online (Weston, Conn.)",
+   "year": 2022,
+   "openAccessPdf": {
+    "url": "https://jklst.org/index.php/home/article/download/133/108",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.60087/jklst.vol1.n1.p138?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.60087/jklst.vol1.n1.p138, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2022-09-14",
+   "authors": [
+    {
+     "authorId": "2284511785",
+     "name": "Jeevan Sreerama"
+    },
+    {
+     "authorId": "2284150722",
+     "name": "Gowrisankar Krishnamoorthy"
+    }
+   ],
+   "abstract": "The proliferation of artificial intelligence (AI) and machine learning (ML) technologies has brought about unprecedented advancements in various domains. However, concerns surrounding bias and fairness in ML models have gained significant attention, raising ethical considerations that must be addressed. This paper explores the ethical implications of bias in AI systems and the importance of ensuring fairness in ML models. It examines the sources of bias in data collection, algorithm design, and decision-making processes, highlighting the potential consequences of biased AI systems on individuals and society. Furthermore, the paper discusses various approaches and strategies for mitigating bias and promoting fairness in ML models, including data preprocessing techniques, algorithmic transparency, and diverse representation in training datasets. Ethical guidelines and frameworks for developing responsible AI systems are also reviewed, emphasizing the need for interdisciplinary collaboration and stakeholder engagement to address bias and fairness comprehensively. Finally, future directions and challenges in advancing ethical considerations in AI are discussed, underscoring the ongoing efforts required to build trustworthy and equitable AI technologies."
+  },
+  {
+   "paperId": "ae0877a29ce2387c20fe6663e9b03d5b7347aef5",
+   "externalIds": {
+    "DBLP": "conf/kdd/GhaniRSJ23",
+    "DOI": "10.1145/3580305.3599180",
+    "CorpusId": 260499860
+   },
+   "url": "https://www.semanticscholar.org/paper/ae0877a29ce2387c20fe6663e9b03d5b7347aef5",
+   "title": "Addressing Bias and Fairness in Machine Learning: A Practical Guide and Hands-on Tutorial",
+   "venue": "Knowledge Discovery and Data Mining",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3580305.3599180",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3580305.3599180?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3580305.3599180, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Book",
+    "Conference",
+    "Review"
+   ],
+   "publicationDate": "2023-08-04",
+   "authors": [
+    {
+     "authorId": "1791498",
+     "name": "Rayid Ghani"
+    },
+    {
+     "authorId": "6783324",
+     "name": "Kit T. Rodolfa"
+    },
+    {
+     "authorId": "2266550",
+     "name": "Pedro Saleiro"
+    },
+    {
+     "authorId": "2068793245",
+     "name": "Sérgio Jesus"
+    }
+   ],
+   "abstract": "As data science and machine learning (ML) increasingly shape our society, the importance of developing fair algorithmic decision-making systems becomes paramount. There is a pressing need to train data scientists and practitioners on handling bias and fairness in real-world scenarios, from early stages of a data science project to maintaining ML systems in production. Existing resources are mostly academic and cover the ML training and optimization aspects of bias mitigation, leaving practitioners without comprehensive frameworks for making decisions throughout a real-world project lifecycle. This tutorial aims to bridge the gap between research and practice, providing an in-depth exploration of algorithmic fairness, encompassing metrics and definitions, practical case studies, data bias understanding, bias mitigation and model fairness audits using the Aequitas toolkit. Participants will be equipped to engage in conversations about bias, assist decision-makers in understanding options and trade-offs, evaluate project scoping aspects influencing fairness outcomes, and define actions and interventions based on model predictions. They will also learn to identify cohorts, target variables, evaluation metrics, and establish bias and fairness goals for different groups. Moreover, participants will gain insights into auditing and mitigating model bias, and implementing continuous monitoring to assess retraining needs. The tutorial addresses the current lack of practical training materials, methodologies, and tools for researchers and developers working on real-world algorithmic decision-making systems. By the conclusion of this hands-on tutorial, attendees will be well-versed in navigating bias-related issues, selecting appropriate metrics, and applying bias audit and mitigation frameworks and tools for informed design decisions in real-world data science systems."
+  },
+  {
+   "paperId": "cb171bf6cabada1d125b2d1be8b5487aa0d6fd3c",
+   "externalIds": {
+    "DOI": "10.32996/jcsts.2021.3.1.3",
+    "CorpusId": 276122991
+   },
+   "url": "https://www.semanticscholar.org/paper/cb171bf6cabada1d125b2d1be8b5487aa0d6fd3c",
+   "title": "Ethical AI: Addressing Bias and Fairness in Machine Learning Models for Decision-making",
+   "venue": "Journal of Computer Science and Technology Studies",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "https://al-kindipublisher.com/index.php/jcsts/article/download/8708/7392",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32996/jcsts.2021.3.1.3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32996/jcsts.2021.3.1.3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-01-28",
+   "authors": [
+    {
+     "authorId": "2343610055",
+     "name": "D. Patel"
+    }
+   ],
+   "abstract": "Ethical Artificial Intelligence (AI) has become a cornerstone of responsible technology development, especially as machine learning (ML) models increasingly influence critical decision-making processes in fields such as healthcare, finance, hiring, and criminal justice. This paper delves into the pressing issue of bias and fairness in machine learning models, examining the sources of bias, its societal implications, and strategies to mitigate its impact. We explore technical and non-technical approaches to ensuring fairness, including algorithmic interventions, data preprocessing techniques, and organizational policies. Our findings emphasize the need for a multifaceted approach to ethical AI that integrates technical rigor with societal awareness, fostering systems that are both accurate and equitable."
+  },
+  {
+   "paperId": "8bf01110e293008a81999fcf3d6ac9a8538e33bb",
+   "externalIds": {
+    "DOI": "10.3390/standards6010002",
+    "CorpusId": 284294562
+   },
+   "url": "https://www.semanticscholar.org/paper/8bf01110e293008a81999fcf3d6ac9a8538e33bb",
+   "title": "Public Perceptions of Algorithmic Bias and Fairness in Cloud-Based Decision Systems",
+   "venue": "Standards",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2305-6703/6/1/2/pdf?version=1766654101",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/standards6010002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/standards6010002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-12-25",
+   "authors": [
+    {
+     "authorId": "2414507",
+     "name": "Amal Alhosban"
+    },
+    {
+     "authorId": "2401384064",
+     "name": "Ritik Gaire"
+    },
+    {
+     "authorId": "1419518997",
+     "name": "H. al-Ababneh"
+    }
+   ],
+   "abstract": "Cloud-based machine learning systems are increasingly used in sectors such as healthcare, finance, and public services, where they influence decisions with significant social consequences. While these technologies offer scalability and efficiency, they raise significant concerns regarding security, privacy, and compliance. One of the central issues is algorithmic bias, which can emerge from data, design choices, or system interactions, and is often amplified when deployed at scale through cloud infrastructures. This study examines the relationship between algorithmic bias, social equity, and cloud-based innovation. Drawing on a survey of public perceptions, we find strong recognition of the risks posed by biased systems, including diminished trust, harm to vulnerable populations, and erosion of fairness. Participants overwhelmingly supported regulatory oversight, developer accountability, and greater transparency in algorithmic decision-making. Building on these findings, this paper proposes measures to integrate fairness auditing, representative datasets, and bias mitigation techniques into cloud security and compliance frameworks. We argue that addressing bias is not only an ethical responsibility but also an essential requirement for safeguarding public trust and meeting evolving legal and regulatory standards."
+  },
+  {
+   "paperId": "543dfba3c78045248b90cc55b156b13520697361",
+   "externalIds": {
+    "DOI": "10.47772/ijriss.2026.100300368",
+    "CorpusId": 287455702
+   },
+   "url": "https://www.semanticscholar.org/paper/543dfba3c78045248b90cc55b156b13520697361",
+   "title": "Cultural Bias in Machine Learning Systems: A Philosophical and Empirical Study of Algorithmic Knowledge Production",
+   "venue": "International journal of research and innovation in social science",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://rsisinternational.org/journals/ijriss/uploads/vol10-iss3-pg4955-4970-202604_pdf.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47772/ijriss.2026.100300368?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47772/ijriss.2026.100300368, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "2430735333",
+     "name": "Nabulongo Ali"
+    },
+    {
+     "authorId": "2429519839",
+     "name": "Peter Both Goah Wiech"
+    },
+    {
+     "authorId": "2429521662",
+     "name": "Katwesigye Collins"
+    },
+    {
+     "authorId": "120014861",
+     "name": "S. Asiimwe"
+    }
+   ],
+   "abstract": "Machine learning systems are increasingly functioning as epistemic infrastructures in high-stakes domains such as criminal justice, healthcare, finance, and employment. Despite this, their outputs are frequently treated as objective and neutral forms of knowledge. This study advances a synthesis of empirical and philosophical inquiry into cultural bias in machine learning, arguing that algorithms operate as sociotechnical agents embedded within historically situated structures of power and representation. Using the COMPAS Recidivism dataset (N = 7,214), a quantitative experimental design was employed to examine predictive disparities across protected attributes, specifically race and sex. Logistic Regression and Random Forest models were implemented within a controlled preprocessing pipeline and evaluated using standard performance metrics (accuracy, precision, recall, and F1-score), alongside subgroup fairness measures including false positive rates (FPR), false negative rates (FNR), and disparate impact ratios. To ensure robustness, subgroup disparities were further assessed using statistical significance testing. While overall model performance was moderate in aggregate metrics, subgroup analysis revealed consistent and structured disparities: African-American defendants exhibited elevated false positive rates, whereas females and underrepresented racial groups experienced disproportionately high false negative rates. These patterns persisted across model architectures, indicating that bias is structurally embedded in the data rather than solely a function of model design. However, extreme subgroup values should be interpreted with caution due to potential sample size imbalances within certain demographic categories. The findings challenge the assumption of epistemic neutrality in algorithmic systems, demonstrating that machine learning models participate in the cultural production of knowledge by reproducing historically grounded classifications and power asymmetries. The study argues that algorithmic outputs should be evaluated not only in terms of predictive performance but also through fairness-aware and context-sensitive frameworks that account for their broader ethical and epistemological implications."
+  },
+  {
+   "paperId": "b86623b501a134097389c8aae45457029bead88d",
+   "externalIds": {
+    "DOI": "10.1109/GCWCN66157.2025.11448446",
+    "CorpusId": 286782257
+   },
+   "url": "https://www.semanticscholar.org/paper/b86623b501a134097389c8aae45457029bead88d",
+   "title": "Fairness-Aware Machine Learning Models for Reducing Algorithmic Inequality in Social Welfare Systems",
+   "venue": "2025 IEEE 3rd Global Conference on Wireless Computing and Networking (GCWCN)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GCWCN66157.2025.11448446?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GCWCN66157.2025.11448446, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-11-22",
+   "authors": [
+    {
+     "authorId": "82590677",
+     "name": "Binoy Mathew"
+    },
+    {
+     "authorId": "1865644371",
+     "name": "S. Anuradha"
+    },
+    {
+     "authorId": "2391156759",
+     "name": "Deepak Gupta"
+    },
+    {
+     "authorId": "2425520000",
+     "name": "Turobova Sevara"
+    },
+    {
+     "authorId": "2392358304",
+     "name": "M. Allaberganova"
+    },
+    {
+     "authorId": "2361757937",
+     "name": "A. Ashirova"
+    }
+   ],
+   "abstract": "Algorithmic decision-making systems in social welfare programs increasingly demonstrate measurable bias against marginalized populations, perpetuating systemic inequalities through automated benefit allocation, fraud detection, and risk assessment. This paper presents a comprehensive fairness-aware machine learning framework that integrates multiple bias mitigation strategies across the entire ML pipeline to reduce algorithmic inequality in social welfare systems. Our hybrid approach combines adversarial debiasing, fairness constraint optimization, and post-processing calibration techniques while maintaining predictive performance. We evaluate the framework on four real-world datasets including Adult Income Census, COMPAS recidivism, German Credit, and a proprietary social welfare dataset from public assistance programs. The framework achieves demographic parity violation reduction from 0.287 to 0.043, equalized odds improvement from 0.312 to 0.067, and maintains prediction accuracy above 82.4% across all protected groups. Comprehensive fairness audits demonstrate 73.6% reduction in disparate impact while preserving individual rights to due process. Our multi-metric optimization approach addresses fundamental fairness-accuracy tradeoffs inherent in welfare allocation systems, providing actionable insights for policymakers implementing AI-driven public services."
+  },
+  {
+   "paperId": "592caab82055f97486e15afd4aa3d5b8793eec51",
+   "externalIds": {
+    "DOI": "10.1109/ICBATS66542.2025.11258168",
+    "CorpusId": 283471782
+   },
+   "url": "https://www.semanticscholar.org/paper/592caab82055f97486e15afd4aa3d5b8793eec51",
+   "title": "Framework for Fairness in Machine Learning Using Detecting and Mitigating Bias in AI Algorithms",
+   "venue": "2025 3rd International Conference on Business Analytics for Technology and Security (ICBATS)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICBATS66542.2025.11258168?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICBATS66542.2025.11258168, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-05-01",
+   "authors": [
+    {
+     "authorId": "2395926659",
+     "name": "Vincent Koc"
+    }
+   ],
+   "abstract": "The importance of artificial intelligence (AI) and machine learning (ML) is on the rise as they are increasingly being used in critical decision-making in areas including healthcare, finance, and criminal justice. Their effectiveness, however, is often compromised as these systems replicate and even worsen pre-existing biases from historical data or from the designs of models, ultimately causing unfair and undesirable results. This paper describes a systematic analysis for bias detection and mitigation in machine learning algorithms. The approach includes preprocessing of data, algorithmic changes, and changes during post-processing for improvement of anticipated inequalities while keeping the performance of the model intact. The model's applicability has been illustrated in the areas of healthcare, finance, and criminal justice with case studies demonstrating the need for a trade-off between the model's accuracy and fairness. Besides, AI ethics are also advanced through transparency methods like SHAP and GradCAM, which strengthen trust in AI systems as ethical principles are ensured in the deployment of the AI systems. Though these achievements are significant, challenges on the issue of scaling, fairness definitions, and contextual variations still persist with regard to the application of AI for fairness promoting purposes, suggesting interdisciplinary directions as ways to mitigate the challenges."
+  },
+  {
+   "paperId": "4c41a2aaac939548d8b2e502757ed17e82a7bb36",
+   "externalIds": {
+    "DOI": "10.47852/bonviewjdsis62027678",
+    "CorpusId": 288134795
+   },
+   "url": "https://www.semanticscholar.org/paper/4c41a2aaac939548d8b2e502757ed17e82a7bb36",
+   "title": "A Fairness-Aware Machine Learning Framework for Sexual and Reproductive Health: Evaluating Algorithmic Bias Across Models",
+   "venue": "Journal of Data Science and Intelligent Systems",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://ojs.bonviewpress.com/index.php/jdsis/article/download/7678/1964",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47852/bonviewjdsis62027678?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47852/bonviewjdsis62027678, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2026-05-08",
+   "authors": [
+    {
+     "authorId": "2253747915",
+     "name": "Efosa Osagie"
+    },
+    {
+     "authorId": "2433986320",
+     "name": "Shemi Ayo-Ogbor"
+    },
+    {
+     "authorId": "2354848285",
+     "name": "Rebecca Balasundaram"
+    }
+   ],
+   "abstract": "Advances in computational infrastructure and the widespread adoption of electronic health record (EHR) systems have accelerated the integration of artificial intelligence (AI) and machine learning (ML) into sexual and reproductive health (SRH) services. These technologies enhance diagnostic accuracy, support clinical decision-making, and enable predictive analytics using diverse healthcare data. However, biases within training datasets can produce unfair outcomes, particularly for underrepresented groups. This study proposes a fairness-aware ML framework designed to detect and mitigate algorithmic bias in SRH services. The framework is evaluated using two open-source datasets: a large SRH dataset from England (2014–2015) containing 2,126,413 records and the PCOS dataset covering the top 75 countries, enabling assessment of generalizability and intersectional fairness. It integrates pre-processing, in-processing, and post-processing techniques, including model-specific and group-specific thresholding. Results show that on the SRH England dataset, logistic regression (LR) achieved near-optimal parity fairness with minimal performance loss, improving disparate impact from 0.99 to 1.00 while maintaining 0.66 accuracy. Random Forest (RF) and Gradient Boosting (GB) exhibited larger fairness shifts, with disparate impact decreasing from 0.94 to 0.66 (RF) and 0.93 to 0.77 (GB), though accuracy remained stable. On the PCOS dataset, LR reduced bias with only a 1.96% accuracy drop, while GB improved performance but saw fairness decline, with disparate impact falling from 1.08 to 0.57. RF improved fairness but experienced a 28% accuracy reduction. Overall, the findings show that fairness-aware ML can substantially reduce bias, though equity–performance trade-offs vary across models and datasets.\n \nReceived: 16 September 2025 | Revised: 21 January 2026 | Accepted: 31 March 2026\n \nConflicts of Interest\nThe authors declare that they have no conflicts of interest to this work.\n \nData Availability Statement\nThe PCOS dataset that support the findings of this study is  openly  available  on  Kaggle at https://www.kaggle.com/datasets/ankushpanday1/pcos-prediction-datasettop-75-countries. The NHS  Sexual  and  Reproductive  Health  (SRH)  Services  England  2014–15  dataset  that  support  the  findings  of this  study is  openly  available  through  NHS  Digital  at  https://digital.nhs. uk/data-and-information/publications/statistical/sexual-and-reproductive-health-services/sexual-and-reproductive-health-servicesengland-2014-15.\n \nAuthor Contribution Statement\nEfosa Osagie: Conceptualization, Methodology, Validation, Formal analysis, Investigation, Writing – original draft, Writing – review & editing, Visualization, Supervision, Project administration. Shemi Ayo-Ogbor: Investigation, Writing – original draft. Rebecca Balasundaram: Investigation, Writing – original draft."
+  },
+  {
+   "paperId": "fd28f1f12886911c38a04a2b94100e8ba10cd39e",
+   "externalIds": {
+    "DOI": "10.1109/spmb62441.2024.10842230",
+    "CorpusId": 275767109
+   },
+   "url": "https://www.semanticscholar.org/paper/fd28f1f12886911c38a04a2b94100e8ba10cd39e",
+   "title": "Assessing Algorithmic Bias in Machine Learning Classifiers: A Fairness Evaluation",
+   "venue": "IEEE Signal Processing in Medicine and Biology Symposium",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/spmb62441.2024.10842230?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/spmb62441.2024.10842230, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "publicationDate": "2024-12-07",
+   "authors": [
+    {
+     "authorId": "2392322084",
+     "name": "S. Hamdan"
+    },
+    {
+     "authorId": "2310625464",
+     "name": "S. Wagle"
+    },
+    {
+     "authorId": "2327331992",
+     "name": "S. Poudel"
+    },
+    {
+     "authorId": "2325110946",
+     "name": "Y. Zhou"
+    },
+    {
+     "authorId": "30534112",
+     "name": "K. Poudel"
+    }
+   ],
+   "abstract": "In the realm of healthcare, AI stands as an invaluable tool that significantly contributes to streamlining healthcare records [1] . It excels in organizing medical documentation, enabling remote patient monitoring, and extracting critical information from EHR systems. Furthermore, AI profoundly influences drug discovery and development by predicting patient responses to medications and identifying those who will benefit most from specific treatments [2] . This technological advancement also enhances the efficacy of personalized medicine by tailoring treatments to patients based on their medical histories."
+  },
+  {
+   "paperId": "c07c8dce7cb771605541bbdb5cca808239ad15cd",
+   "externalIds": {
+    "DOI": "10.58213/3nt49018",
+    "CorpusId": 290911776
+   },
+   "url": "https://www.semanticscholar.org/paper/c07c8dce7cb771605541bbdb5cca808239ad15cd",
+   "title": "Detecting and Mitigating Algorithmic Bias in AI-Based Student Performance Prediction Systems: A Fairness-Aware Deep Learning Approach",
+   "venue": "Vidhyayana",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://vidhyayanaejournal.org/index.php/journal/article/download/3nt49018/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58213/3nt49018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58213/3nt49018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-08-03",
+   "authors": [
+    {
+     "authorId": "2370291359",
+     "name": "Sheetal Shevkari"
+    },
+    {
+     "authorId": "2585265158",
+     "name": "Sharon Manmothe"
+    }
+   ],
+   "abstract": "The rapid integration of Artificial Intelligence (AI) and deep learning in higher education has enabled automated student performance prediction systems; however, these systems frequently inherit and amplify biases present in historical educational data, leading to inequitable outcomes for students across gender, socioeconomic, geographic, and linguistic dimensions. Existing machine learning approaches for academic performance prediction predominantly optimize for accuracy, largely disregarding fairness constraints, which risks systematically disadvantaging already marginalized learner groups. This paper proposes FairEduNet, a fairness-aware deep learning framework that integrates adversarial debiasing, fairness-regularized training, and SHAP-based explainability to simultaneously detect and mitigate bias in student performance prediction. The proposed architecture employs a multi-task neural network with a dedicated adversarial classifier that penalizes predictions correlated with protected attributes, supported by demographic parity and equalized odds constraints. Experimental evaluation on two publicly available educational datasets—the Open University Learning Analytics Dataset (OULAD) and the UCI Student Performance Dataset—demonstrates that FairEduNet achieves competitive predictive accuracy (F1: 0.87) while reducing demographic parity difference by 34% and equalized odds gap by 28% compared to state-of-the-art baselines. The framework further provides interpretable, per-group feature attribution via SHAP, enabling educators and policymakers to audit AI systems for fairness. The results establish that fairness and accuracy are not inherently at odds in educational prediction contexts, and that responsible AI design can produce both equitable and performant academic decision-support systems."
+  },
+  {
+   "paperId": "4f2996f298f50295febb0fbd1a7f0c3dd1aa5d1b",
+   "externalIds": {
+    "DOI": "10.1109/ICICV68925.2026.11554671",
+    "CorpusId": 289195197
+   },
+   "url": "https://www.semanticscholar.org/paper/4f2996f298f50295febb0fbd1a7f0c3dd1aa5d1b",
+   "title": "An Ethical AI Model for Bias Detection and Fair Decision-Making in Machine Learning Systems",
+   "venue": "2026 7th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICICV68925.2026.11554671?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICICV68925.2026.11554671, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2026-05-20",
+   "authors": [
+    {
+     "authorId": "151393104",
+     "name": "Anshu Vashisth"
+    },
+    {
+     "authorId": "2411993654",
+     "name": "Gagandeep Kaur"
+    },
+    {
+     "authorId": "51429776",
+     "name": "Nahita Pathania"
+    },
+    {
+     "authorId": "2312762954",
+     "name": "Richa Jain"
+    }
+   ],
+   "abstract": "The high rate of artificial intelligence and machine learning systems integration has changed the way decisions are made in different fields, including healthcare, finance, recruiting, and criminals. Nevertheless, the growing use of automated decision systems has brought considerable concerns of algorithmic bias, fairness, and ethical responsibility. The biased or imbalanced datasets used to train machine learning models might offer biased results that disadvantage some people or groups of people due to sensitive characteristics like gender, race, or socio-economic status. This paper suggests an Ethical AI Model to solve such problems, which is Bias Detection and Fair Decision-Making in Machine Learning Systems that incorporates the processes of fairness assessment and machine learning decision systems. The proposed model constantly examines training data, model predictions, and decision outcomes to determine possible bias and make equitable decision-making. The framework will have four significant components, i.e., Data Bias Detection Module, Fairness Evaluation Engine, Ethical Decision Model, and Continuous Monitoring Layer. Bias detection methods are used to detect dataset imbalance and feature correlations, and fairness measures are used to assess model predictions in demographic groups. The system is dynamic in that the model decisions are adjusted dynamically with fairness constraints to minimize discrimination in automated predictions. It was experimentally proven that the proposed model scores higher on fairness (94.3), the bias difference is 38.0 less, and the prediction accuracy of that model is greater than 92.0, which is higher than that of the traditional machine learning decision systems. These findings indicate that the suggested ethical AI framework is a reliable and scalable solution to ensuring fairness, transparency, and accountability in the current AI-based decision systems."
+  },
+  {
+   "paperId": "081b6dfe8ecbd9ec9e0e460766075e32d0756be6",
+   "externalIds": {
+    "DOI": "10.1109/MoSICom67153.2025.11398221",
+    "CorpusId": 286240459
+   },
+   "url": "https://www.semanticscholar.org/paper/081b6dfe8ecbd9ec9e0e460766075e32d0756be6",
+   "title": "Detecting and Mitigating Algorithmic Bias in Automated Hiring Systems Using Fairness Constraints",
+   "venue": "2025 International Conference on Modeling, Simulation & Intelligent Computing (MoSICom)",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MoSICom67153.2025.11398221?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MoSICom67153.2025.11398221, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "publicationDate": "2025-12-10",
+   "authors": [
+    {
+     "authorId": "2421838037",
+     "name": "Parina K. Parekh"
+    },
+    {
+     "authorId": "2292457806",
+     "name": "Sujala D. Shetty"
+    }
+   ],
+   "abstract": "Automated hiring systems, powered by machine learning, are increasingly adopted by organizations to streamline candidate selection. However, these systems risk perpetuating and amplifying historical biases, particularly concerning gender and race. This study presents FairHire, a fairness-aware hiring framework that detects and mitigates bias in resume screening models. A baseline model (Random Forest) was trained using a curated resume dataset, evaluated, and subjected to bias analysis. Fairness metrics including Demographic Parity Difference and Equalized Odds Difference were computed using Fairlearn. Mitigation strategies were then applied to reduce bias in the sensitive attributes. Results demonstrate that fairness constraints can substantially reduce bias when applied during model training. The study highlights the importance of incorporating fairness into AI-based hiring workflows and provides a practical framework for hiring and other decision-making applications."
+  },
+  {
+   "paperId": "af465b4176088a5c1a6cce39351b7a0765508eef",
+   "externalIds": {
+    "DOI": "10.70903/jmliaih.2026.1310",
+    "CorpusId": 295863930
+   },
+   "url": "https://www.semanticscholar.org/paper/af465b4176088a5c1a6cce39351b7a0765508eef",
+   "title": "An Integrated Framework for Responsible Artificial Intelligence: Balancing Fairness, Interpretability, and Ethical Governance in Machine Learning Systems",
+   "venue": "Journal of Machine Learning Innovations and Artificial Intelligence Horizons",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://jmliaih.notationpublishing.com/1/article/download/32/31",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.70903/jmliaih.2026.1310?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.70903/jmliaih.2026.1310, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": null,
+   "authors": [
+    {
+     "authorId": "40103283",
+     "name": "Amitava Biswas"
+    }
+   ],
+   "abstract": "A healthy approach to addressing algorithmic bias, algorithmic opacity and algorithmic accountable oversight in a pervasive modern context of algorithms deployed in critical industries is needed, yet there are inadequate answers to the problems currently on the market. We think this is a broad approach to responsible AI: an evaluation of the binary classification task, an in-depth audit of a demographic disparity and a tractable audit of the explanations this give, all under a set of governance mechanisms. This method is composed of 4 components which have links among them. The first and most important gain from adding sensitive attributes to an additional audit vector that is not part of the primary attribute matrix is an evaluation of fairness, without having to expose the model to the attributes. Secondly, to get to the disparity measure there are three measures: Demographic parity difference, Equal opportunity difference, Equalized odds. Third, there is a 3-step mitigation methodology: pre-processing reweighing, in-processing mitigation with fairness constraints and optimization, and post-processing fairness constraints minimization with thresholds control, by tuning a soft fair constraint for the tradeoff between: predictive accuracy, and group equity. Lastly, the module named SHAP and LIME models it as an additive attribute contributions and locally faithful surrogate models, respectively. The framework is then adopted in a governance layer built around an ethical component, where the metrics of the decisions are automatically recorded and a manual check of the consequences of decisions is required, in addition to regular audit of drift. The results on Adult Income show that the ability to respect fairness constraints and measure the output with some accuracy can be achieved without sacrificing anything when using the outputs of explanations as a fairness measure. This main contribution of the work will be based on the notion of “f fairness”, asking whether f fairness and interpretability and govern-ability are not mutually incompatible and thus a repeatable possible model-development strategy for accountable practitioners"
+  }
+ ]
+}

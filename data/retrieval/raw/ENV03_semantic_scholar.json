@@ -1,0 +1,1001 @@
+{
+ "query": "Microplastic pollution in marine environments",
+ "retrieved_at": "2026-11-18T18:00:54.153268+00:00",
+ "data": [
+  {
+   "paperId": "3ac0b31bde0240fda0e8cbb496c855ab1e0eb4e2",
+   "externalIds": {
+    "DOI": "10.1016/j.marenvres.2025.106993",
+    "CorpusId": 276110796,
+    "PubMed": "39914291"
+   },
+   "url": "https://www.semanticscholar.org/paper/3ac0b31bde0240fda0e8cbb496c855ab1e0eb4e2",
+   "title": "Microplastic pollution in marine environments: An in-depth analysis of advanced monitoring techniques, removal technologies, and future challenges.",
+   "venue": "Marine Environmental Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.marenvres.2025.106993?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.marenvres.2025.106993, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-02-03",
+   "authors": [
+    {
+     "authorId": "5574619",
+     "name": "S. Thanigaivel"
+    },
+    {
+     "authorId": "1879310612",
+     "name": "R. Kamalesh"
+    },
+    {
+     "authorId": "2329673021",
+     "name": "Y. Ragini"
+    },
+    {
+     "authorId": "47665714",
+     "name": "A. Saravanan"
+    },
+    {
+     "authorId": "122342815",
+     "name": "A. Vickram"
+    },
+    {
+     "authorId": "2555074755",
+     "name": "M. Abirami"
+    },
+    {
+     "authorId": "49085740",
+     "name": "S. Thiruvengadam"
+    }
+   ],
+   "abstract": "Microplastics, recognized as toxic contaminants, have pervaded terrestrial, atmospheric, and marine environments, transitioning from emerging pollutants to pervasive threats. About 10 % of the plastic produced worldwide enters into the ocean which constitutes 85 % of marine litter. Microplastic distribution holds the highest concentration in the Atlantic Ocean whereas the Southern Ocean holds the lowest. Concerning microplastics, reports state that each year about 1.3 million metric tons of microplastics enter the ocean. The microparticles account for about 90 % of the floating ocean debris and over 75 % of these particles originate from land-based sources which include urban runoff, and mismanaged wastes. This review offers a thorough examination of the sources of microplastics and their environmental consequences and ecological impacts. The ubiquity of microplastics necessitates robust control measures, starting with their monitoring and detection in aquatic ecosystems to assess the effectiveness of mitigation strategies. Current removal methods, including physical, chemical, and bio-based techniques, are detailed, alongside advances in filtration, separation, and integrated hybrid approaches for microplastic control. The review concludes with perspectives on the limitations of existing methods and directions for future research in microplastic monitoring, detection, and removal."
+  },
+  {
+   "paperId": "7dd08cc974c78231f3b34e33b14a8f141bff2120",
+   "externalIds": {
+    "DOI": "10.64252/hjt6p524",
+    "CorpusId": 279936491
+   },
+   "url": "https://www.semanticscholar.org/paper/7dd08cc974c78231f3b34e33b14a8f141bff2120",
+   "title": "Evaluation of Microplastic Pollution in Marine Environments Sources, Distribution, and Impact",
+   "venue": "International Journal of Environmental Science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.64252/hjt6p524",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.64252/hjt6p524?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.64252/hjt6p524, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-05",
+   "authors": [
+    {
+     "authorId": "2284456019",
+     "name": "Dev S. Chahal"
+    },
+    {
+     "authorId": "2562443927",
+     "name": "Twinkle Solanki"
+    },
+    {
+     "authorId": "2498274843",
+     "name": "Nasreen Khan"
+    },
+    {
+     "authorId": "2482820377",
+     "name": "B. A. Kumar"
+    },
+    {
+     "authorId": "2569167099",
+     "name": "Sapna Sugandha"
+    },
+    {
+     "authorId": "2277936285",
+     "name": "B. M."
+    }
+   ],
+   "abstract": "The proliferation of microplastic pollution in marine environments has become a pressing global concern due to its extensive and often irreversible impacts on marine biodiversity, ecological processes, and human health. Microplastics—defined as synthetic polymer particles less than 5 millimeters in size—are pervasive across all marine compartments, from surface waters and water columns to sediments and biota. This research paper provides a thorough and critical evaluation of microplastic contamination in marine ecosystems, with an emphasis on identifying major sources, analyzing patterns of spatial and temporal distribution, and assessing ecological and toxicological consequences. \nThe study categorizes microplastic sources into primary and secondary origins, including microbeads from personal care products, synthetic fibers from laundry effluents, industrial pre-production pellets, and fragments resulting from the degradation of larger plastic items. It further examines the role of land-based and ocean-based activities, such as urban runoff, riverine transport, fishing, aquaculture, and maritime traffic, in exacerbating microplastic inputs into marine systems. \nA global synthesis of empirical research and monitoring data reveals stark contrasts in microplastic concentrations across different oceanic regions, influenced by factors such as hydrodynamic conditions, proximity to urban and industrial centers, and climatic variables. Ocean currents, gyres, and atmospheric deposition are identified as critical vectors facilitating long-distance transport and transboundary pollution. The presence of microplastics in remote areas, including polar regions and the deep sea, underscores their persistent and far-reaching nature. \nBiological impacts of microplastics are explored at multiple trophic levels, from plankton to top predators. Ingestion and entanglement are shown to cause physical harm, energetic stress, and behavioral alterations in marine organisms. Moreover, microplastics act as vectors for persistent organic pollutants (POPs), heavy metals, and pathogenic microorganisms, raising concerns about food web contamination and potential risks to human health through seafood consumption. Bioaccumulation and biomagnification pathways are discussed, alongside emerging evidence of microplastics’ potential to alter genetic expression, reproductive success, and immune function in marine fauna. \nThe paper also evaluates the socio-economic ramifications of microplastic pollution, particularly in regions dependent on fisheries, aquaculture, and coastal tourism. The inefficacy of current waste management infrastructures and policy responses is critically assessed, highlighting gaps in international governance and enforcement. Finally, the study advocates for a multi-pronged mitigation framework that includes innovative biotechnological solutions, improved waste collection and recycling systems, public awareness campaigns, and harmonized global policies aimed at reducing plastic production and environmental leakage. \nThis research underscores the urgent need for interdisciplinary approaches and cross-sector collaboration to address microplastic pollution holistically. It calls for intensified scientific investigation, comprehensive monitoring frameworks, and the integration of microplastic considerations into marine spatial planning and sustainable development agendas."
+  },
+  {
+   "paperId": "6dd22432d40a02baeb742acf0d4d533185ffda22",
+   "externalIds": {
+    "DOI": "10.1016/j.rsma.2023.103270",
+    "CorpusId": 265016138
+   },
+   "url": "https://www.semanticscholar.org/paper/6dd22432d40a02baeb742acf0d4d533185ffda22",
+   "title": "\"Microplastic Pollution in Marine Environments: Exploring Sources, Sinks, and Consequences with a Focus on Algal Interactions\"",
+   "venue": "Regional Studies in Marine Science",
+   "year": 2023,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.rsma.2023.103270?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.rsma.2023.103270, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2023-11-01",
+   "authors": [
+    {
+     "authorId": "92238453",
+     "name": "V. Salomone"
+    },
+    {
+     "authorId": "2265336464",
+     "name": "V. Passucci"
+    },
+    {
+     "authorId": "14680047",
+     "name": "M. M. Areco"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "8ee8137cd4248a5cb72ccad4a52513d22b210fbc",
+   "externalIds": {
+    "DOI": "10.1016/j.envpol.2021.116959",
+    "CorpusId": 232421204,
+    "PubMed": "33780841"
+   },
+   "url": "https://www.semanticscholar.org/paper/8ee8137cd4248a5cb72ccad4a52513d22b210fbc",
+   "title": "How do humans recognize and face challenges of microplastic pollution in marine environments? A bibliometric analysis.",
+   "venue": "Environmental Pollution",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envpol.2021.116959?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envpol.2021.116959, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-03-17",
+   "authors": [
+    {
+     "authorId": "47716147",
+     "name": "Mengjie Wu"
+    },
+    {
+     "authorId": "5347735",
+     "name": "Yuelu Jiang"
+    },
+    {
+     "authorId": "36873036",
+     "name": "Raymond W. M. Kwong"
+    },
+    {
+     "authorId": "4605049",
+     "name": "S. Brar"
+    },
+    {
+     "authorId": "38868202",
+     "name": "Huan Zhong"
+    },
+    {
+     "authorId": "47354705",
+     "name": "R. Ji"
+    }
+   ],
+   "abstract": "Microplastics (MPs) are abundant in marine environments, drawing global attention from scientists and rendering it significant to review the research progress and predict future trends of this field. To achieve that, we collected 1898 publications on marine MPs from Web of Science and performed a bibliometric analysis by CiteSpace and VOSviewer. Additionally, we utilized an unrestricted retrieval of literature from ScienceDirect to supplement our major findings. Trends in publication numbers show the growth in study from the initial stage ( 2012 and before), when microplastic (MP) occurrence, abundance, and distribution were primarily investigated. Throughout the ascent stage (between 2013-2016), when diverse sampling and analytical methods were applied to capture and identify MPs from the ocean, baseline data have been gleaned on physiochemical properties of MPs. The research focus then shifted to the bioaccumulation and ecotoxicological effects of MPs on marine biota, further highlighting their potential deleterious impacts on human health via dietary exposure, and this period was defined as the exploration stage (2017 and onwards). Nevertheless, key challenges including the lack of standard procedures for MP sampling, technical limitations in MP detecting and identification, and controversy about the underlying effects on the marine ecosystems and humans have also been arisen in the last decade. The present study elucidates how we gradually recognize MP pollution in marine environments and what challenges we face, suggesting future avenues for MP research."
+  },
+  {
+   "paperId": "c8bb822d8a0cf1dce2f05b01acca9ae176f0cc2e",
+   "externalIds": {
+    "DOI": "10.1016/j.envc.2026.101709",
+    "CorpusId": 295362300
+   },
+   "url": "https://www.semanticscholar.org/paper/c8bb822d8a0cf1dce2f05b01acca9ae176f0cc2e",
+   "title": "Understanding Microplastic Pollution in Marine Environments: Linking Field Observations with Transport Modelling",
+   "venue": "Environmental Challenges",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.envc.2026.101709",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envc.2026.101709?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envc.2026.101709, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-10-01",
+   "authors": [
+    {
+     "authorId": "2524746279",
+     "name": "Swarna Halder"
+    },
+    {
+     "authorId": "1404677389",
+     "name": "J. O'Sullivan"
+    },
+    {
+     "authorId": "117045856",
+     "name": "R. Ravindar"
+    },
+    {
+     "authorId": "2133334417",
+     "name": "M. Salauddin"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "743d276449e49e960e67770e9a122bb30913a7e3",
+   "externalIds": {
+    "DOI": "10.1016/j.greeac.2024.100202",
+    "CorpusId": 275121820
+   },
+   "url": "https://www.semanticscholar.org/paper/743d276449e49e960e67770e9a122bb30913a7e3",
+   "title": "A Comprehensive Review of Microplastic Pollution in Freshwater and Marine Environments",
+   "venue": "Green Analytical Chemistry",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.greeac.2024.100202",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.greeac.2024.100202?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.greeac.2024.100202, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-12-01",
+   "authors": [
+    {
+     "authorId": "2058970703",
+     "name": "Irene Monica Jaikumar"
+    },
+    {
+     "authorId": "153882703",
+     "name": "M. Tomson"
+    },
+    {
+     "authorId": "51070429",
+     "name": "A. Meyyazhagan"
+    },
+    {
+     "authorId": "6552626",
+     "name": "B. Balamuralikrishnan"
+    },
+    {
+     "authorId": "50441145",
+     "name": "R. Baskaran"
+    },
+    {
+     "authorId": "16283287",
+     "name": "M. Pappuswamy"
+    },
+    {
+     "authorId": "14371445",
+     "name": "H. Kamyab"
+    },
+    {
+     "authorId": "48770004",
+     "name": "E. Khalili"
+    },
+    {
+     "authorId": "93990846",
+     "name": "Mohammad Farajnezhad"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "fc0ab7a8833d8544fb3e2646aaddb269851b7dce",
+   "externalIds": {
+    "DOI": "10.1016/j.chemosphere.2024.141900",
+    "CorpusId": 268914732,
+    "PubMed": "38579953"
+   },
+   "url": "https://www.semanticscholar.org/paper/fc0ab7a8833d8544fb3e2646aaddb269851b7dce",
+   "title": "Effects of COVID-19 on coastal and marine environments: Aggravated microplastic pollution, improved air quality, and future perspective.",
+   "venue": "Chemosphere",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.chemosphere.2024.141900?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.chemosphere.2024.141900, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-04-03",
+   "authors": [
+    {
+     "authorId": "2108813263",
+     "name": "Yixuan Han"
+    },
+    {
+     "authorId": "2087957491",
+     "name": "Xiang Gu"
+    },
+    {
+     "authorId": "2237618858",
+     "name": "Chun-Ye Lin"
+    },
+    {
+     "authorId": "2470237319",
+     "name": "Mengchang He"
+    },
+    {
+     "authorId": "2143476109",
+     "name": "Yi-Di Wang"
+    }
+   ],
+   "abstract": "The COVID-19 pandemic during 2020-2023 has wrought adverse impacts on coastal and marine environments. This study conducts a comprehensive review of the collateral effects of COVID-19 on these ecosystems through literature review and bibliometric analysis. According to the output and citation analysis of these publications, researchers from the coastal countries in Asia, Europe, and America payed more attentions to this environmental issue than other continents. Specifically, India, China, and USA were the top three countries in the publications, with the proportion of 19.55%, 18.99%, and 12.01%, respectively. The COVID-19 pandemic significantly aggravated the plastic and microplastic pollution in coastal and marine environments by explosive production and unproper management of personal protective equipment (PPE). During the pandemic, the estimated mismanaged PPE waste ranged from 16.50 t/yr in Sweden to 250,371.39 t/yr in Indonesia. In addition, the PPE density ranged from 1.13 × 10-5 item/m2 to 2.79 item/m2 in the coastal regions worldwide, showing significant geographical variations. Besides, the emerging contaminants released from PPE into the coastal and marine environments cannot be neglected. The positive influence was that the COVID-19 lockdown worldwide reduced the release of air pollutants (e.g., fine particulate matter, NO2, CO, and SO2) and improved the air quality. The study also analyzed the relationships between sustainable development goals (SDGs) and the publications and revealed the dynamic changes of SDGs in different periods the COVID-19 pandemic. In conclusion, the air was cleaner due to the lockdown, but the coastal and marine contamination of plastic, microplastic, and emerging contaminants got worse during the COVID-19 pandemic. Last but not least, the study proposed four strategies to deal with the coastal and marine pollution caused by COVID-19, which were regular marine monitoring, performance of risk assessment, effective regulation of plastic wastes, and close international cooperation."
+  },
+  {
+   "paperId": "0780ff8fc830e15079a086eb885e81a633944064",
+   "externalIds": {
+    "DOI": "10.1007/s12595-025-00574-4",
+    "CorpusId": 278900612
+   },
+   "url": "https://www.semanticscholar.org/paper/0780ff8fc830e15079a086eb885e81a633944064",
+   "title": "Review on Microplastic Pollution in Marine Ecosystems: Sources, Distribution, Ecological Impacts, and Future Directions",
+   "venue": "Proceedings of the Zoological Society",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12595-025-00574-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12595-025-00574-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-05-25",
+   "authors": [
+    {
+     "authorId": "2363468426",
+     "name": "Ananya Baby"
+    },
+    {
+     "authorId": "144692247",
+     "name": "V. Revathy"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "6e66d03bcb7532142398337ce6ae986763a1a832",
+   "externalIds": {
+    "PubMedCentral": "12186783",
+    "DOI": "10.5455/javar.2025.l893",
+    "CorpusId": 278013650,
+    "PubMed": "40568518"
+   },
+   "url": "https://www.semanticscholar.org/paper/6e66d03bcb7532142398337ce6ae986763a1a832",
+   "title": "Microplastic pollution in the marine environment: Sources, impacts, and degradation",
+   "venue": "Journal of Advanced Veterinary and Animal Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.5455/javar.2025.l893",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12186783, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-03-01",
+   "authors": [
+    {
+     "authorId": "2356951209",
+     "name": "Osamah A. Ahmad"
+    },
+    {
+     "authorId": "21609210",
+     "name": "M. Jamal"
+    },
+    {
+     "authorId": "2356957821",
+     "name": "Hamdah S. Almalki"
+    },
+    {
+     "authorId": "2360031329",
+     "name": "Abeer H. Alzahrani"
+    },
+    {
+     "authorId": "2356954652",
+     "name": "Amirah S. Alatawi"
+    },
+    {
+     "authorId": "2322520869",
+     "name": "Md Fazlul Haque"
+    }
+   ],
+   "abstract": "Microplastics (MPs) are tiny particles derived from plastic, and their high fragmentation poses a significant threat to the marine environment. MPs can originate from various sources, such as primary or secondary sources as well as internal or external sources. However, in marine environments, MPs mainly enter from external sources, such as plastic waste, debris from land-based activities, tourism, shipping, and atmospheric deposition. MP accumulation in marine ecosystems is also influenced by the use of plastic equipment, aquaculture feed, health products, and particular environmental conditions. Understanding the ecotoxicological effects of environmentally relevant concentrations of MPs on the health of marine organisms is crucial. The effects of MPs on the health of marine organisms are well reported by different studies, highlighting their interactions with a wide range of marine life, including plankton, invertebrates, crustaceans, corals, seagrass, fish, and even humans. Thus, MPs have been reported as a notorious pollutant because of their deleterious impacts on the morphology, physiology, immunology, behavior, reproduction, and heredity of marine organisms. Moreover, most MPs are slowly degradable, and degradation is dependent on various biotic and abiotic factors, resulting in continuous accumulation in the marine environment. This review provides an in-depth explanation of the sources of MPs, along with their impacts on marine organisms, ecosystems, aquaculture, and human health. In addition, it will discuss the degradation of MPs in the marine environment to explore the potential strategies for reducing the harmful impacts of MPs."
+  },
+  {
+   "paperId": "06b671ad5375782b46f9c3bf69aa565d62f0be38",
+   "externalIds": {
+    "DOI": "10.3389/fenvs.2025.1600570",
+    "CorpusId": 278955149
+   },
+   "url": "https://www.semanticscholar.org/paper/06b671ad5375782b46f9c3bf69aa565d62f0be38",
+   "title": "Microplastic pollution in aquatic environments: a meta-analysis of influencing factors and methodological recommendations",
+   "venue": "Frontiers in Environmental Science",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2025.1600570/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3389/fenvs.2025.1600570?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3389/fenvs.2025.1600570, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-05-27",
+   "authors": [
+    {
+     "authorId": "2363857897",
+     "name": "L. Hartz"
+    },
+    {
+     "authorId": "2363858567",
+     "name": "Lisa Grabinski"
+    },
+    {
+     "authorId": "47947749",
+     "name": "Samir Salameh"
+    }
+   ],
+   "abstract": "Microplastics have become prominent environmental pollutants in both marine and freshwater systems, which raises ecological and health concerns. This study provides a comprehensive meta-analysis of microplastic concentration data from over 60 studies across Europe, investigating factors influencing microplastic distribution. The investigated influences include sampling latitude, proximity to wastewater treatment plants, population density in the sampling area, sampling mesh size, distance to coastlines, seasonal variations, and wind speeds. The results indicate that microplastic concentrations correlate with mesh size in marine but not freshwater environments, suggesting the predominant microplastic type in fresh waters to be primary microplastics. Although it is generally accepted, that waste water treatment plants contribute to microplastic pollution, this study identifies other more significant factors, such as surface runoff and atmospheric deposition. Population density shows a modest influence, while the distance of sampling site from coastlines is, contrary to findings from other publications, not significantly related to microplastic concentration levels. Seasonal and wind speed effects are complex, with varied impacts across sampling locations and used correction factors have to be critically reevaluated. This analysis underscores the need for standardized methodologies in microplastic research, and it recommends specific sampling practices to enhance data comparability across studies, which contributes to a more accurate assessment of microplastic pollution in aquatic environments."
+  },
+  {
+   "paperId": "386f2863019fd7cc4e23c190fd8906261c2ce3c7",
+   "externalIds": {
+    "DOI": "10.1186/s42834-025-00257-x",
+    "CorpusId": 280340730
+   },
+   "url": "https://www.semanticscholar.org/paper/386f2863019fd7cc4e23c190fd8906261c2ce3c7",
+   "title": "A bibliometric analysis of microplastic pollution in aquatic environments from 2013 to 2023",
+   "venue": "Sustainable Environment Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://sustainenvironres.biomedcentral.com/counter/pdf/10.1186/s42834-025-00257-x",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s42834-025-00257-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s42834-025-00257-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2025-07-28",
+   "authors": [
+    {
+     "authorId": "2244288513",
+     "name": "Shanshan Yang"
+    },
+    {
+     "authorId": "2049447861",
+     "name": "Pei-Xian Li"
+    },
+    {
+     "authorId": "2223833386",
+     "name": "Yaqian Jiao"
+    },
+    {
+     "authorId": "2327755835",
+     "name": "Zhan-Sheng Li"
+    },
+    {
+     "authorId": "2279817353",
+     "name": "Yifan Ruan"
+    },
+    {
+     "authorId": "2244591293",
+     "name": "Qi-Ying Yang"
+    }
+   ],
+   "abstract": "Plastics are extensively utilized in a variety of industries, including fisheries, agriculture, and commerce, due to their lightweight, corrosion resistance, versatility, and cost-effectiveness. From 2013 to 2023, the volume of research literature concerning microplastics (MPs) in aquatic environments has surged, underscoring the growing concern over MP pollution. This study aims to identify research hotspots and trends regarding MPs in water environments through a bibliometric analysis of publications from the Web of Science Core Collection (WoSCC). During the study period, we screened a total of 1,141 articles related to MPs in aquatic environments. The number of articles rose dramatically from 2 in 2013 to 289 in 2023, indicating significant growth in this research area. Notably, 887 studies focused on marine waters, followed by rivers (397), wastewater (350), and lakes (176), suggesting that oceans are a primary hotspot for MPs research. In the past five years alone, 1,025 studies on MP pollution in water have been published, accounting for 89.8% of the total literature, highlighting widespread concern. The journals publishing the most articles on MPs include Marine Pollution Bulletin (253 articles) and Science of the Total Environment (190 articles). Analysis of total citations and publication counts reveals that China, the UK, Canada, and the USA are leading countries in this field. Institutions such as China’s Chinese Academy of Sciences and East China Normal University are particularly influential. Furthermore, the collaborative research between China and the USA, as well as between China and Australia, stands out. This paper quantitatively assesses global research trends and hotspots related to MP pollution, emphasizing key areas such as risk assessment, pollution surveys, and mitigation technologies. We also address critical scientific issues that need attention in the context of global water pollution, aiming to provide insights for monitoring mechanisms and future standards for MP control."
+  },
+  {
+   "paperId": "60fa123952af9870425e0f3e83876682355ab75f",
+   "externalIds": {
+    "DOI": "10.1007/s11356-024-32511-x",
+    "CorpusId": 268040658,
+    "PubMed": "38416357"
+   },
+   "url": "https://www.semanticscholar.org/paper/60fa123952af9870425e0f3e83876682355ab75f",
+   "title": "Current patterns and trends of microplastic pollution in the marine environment: A bibliometric analysis",
+   "venue": "Environmental science and pollution research international",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11356-024-32511-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11356-024-32511-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2024-02-28",
+   "authors": [
+    {
+     "authorId": "2262004816",
+     "name": "Manoranjan Mishra"
+    },
+    {
+     "authorId": "89372844",
+     "name": "Desul Sudarsan"
+    },
+    {
+     "authorId": "1808901",
+     "name": "Celso A. S. Santos"
+    },
+    {
+     "authorId": "11486971",
+     "name": "Richarde Marques da Silva"
+    },
+    {
+     "authorId": "87385032",
+     "name": "S. Beja"
+    },
+    {
+     "authorId": "2262242905",
+     "name": "Suman Paul"
+    },
+    {
+     "authorId": "2287909057",
+     "name": "Pragati Bhanja"
+    },
+    {
+     "authorId": "2122908449",
+     "name": "M. Sethy"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "a1ccc3ecbb04b22c67be4c9b2977efe8d514e36a",
+   "externalIds": {
+    "DOI": "10.1002/wer.70032",
+    "CorpusId": 276247701,
+    "PubMed": "39927485"
+   },
+   "url": "https://www.semanticscholar.org/paper/a1ccc3ecbb04b22c67be4c9b2977efe8d514e36a",
+   "title": "Microplastic and nanoplastic pollution: Assessing translocation, impact, and mitigation strategies in marine ecosystems",
+   "venue": "Water environment research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/wer.70032?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/wer.70032, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-02-01",
+   "authors": [
+    {
+     "authorId": "2361489203",
+     "name": "Faheem Nawaz"
+    },
+    {
+     "authorId": "2290156105",
+     "name": "Zia Ul Islam"
+    },
+    {
+     "authorId": "95627083",
+     "name": "Sadaf Aslam Ghori"
+    },
+    {
+     "authorId": "2047198217",
+     "name": "Anila Bahadur"
+    },
+    {
+     "authorId": "2152017463",
+     "name": "Hamid Ullah"
+    },
+    {
+     "authorId": "2346073167",
+     "name": "Maqsood Ahmad"
+    },
+    {
+     "authorId": "2125580626",
+     "name": "G. Khan"
+    }
+   ],
+   "abstract": "The widespread presence of plastic debris in marine ecosystems was first highlighted as a serious concern in the United Nations Convention on the Law of the Sea (UNCLOS) and the 1972 London Convention. This realization identified plastic pollution as one of the major global environmental issues. Majorities of plastic debris are neither recycled nor incinerated, as a result, it eventually makes its way into lakes, rivers, and oceans. Analysis of water and sediment worldwide indicates that microplastics and nanoplastic are ubiquitous in soils, freshwater, and marine ecosystems. Microplastic and nanoplastics are distributed throughout marine environments via processes such as biofouling and chemical leaching, contaminating both pelagic and benthic species. Despite growing recognition of the hazards posed by microplastics and nanoplastics, regulatory efforts remain hampered by limited understanding of their broader ecological impacts, particularly how diverse factors translate into population declines and ecosystem disruptions."
+  },
+  {
+   "paperId": "7017e9bd858d012f9ead553adcb698c6c954f3b6",
+   "externalIds": {
+    "DOI": "10.1016/j.marenvres.2025.107304",
+    "CorpusId": 279631562,
+    "PubMed": "40587914"
+   },
+   "url": "https://www.semanticscholar.org/paper/7017e9bd858d012f9ead553adcb698c6c954f3b6",
+   "title": "Microplastic pollution in the Indian Ocean: Fiber-dominated contamination and comparative bioaccumulation in Auxis thazard and Symplectoteuthis oualaniensis.",
+   "venue": "Marine Environmental Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.marenvres.2025.107304?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.marenvres.2025.107304, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-06-01",
+   "authors": [
+    {
+     "authorId": "2344691812",
+     "name": "Zhenghao Wang"
+    },
+    {
+     "authorId": "2367626518",
+     "name": "Meng-Hong Hu"
+    },
+    {
+     "authorId": "2368848960",
+     "name": "Jiesi Fan"
+    },
+    {
+     "authorId": "2350865045",
+     "name": "Han-Feng Zheng"
+    },
+    {
+     "authorId": "2369222986",
+     "name": "Cuihua Wang"
+    },
+    {
+     "authorId": "2346073159",
+     "name": "Manzoor Ahmad"
+    },
+    {
+     "authorId": "50703957",
+     "name": "Ling-Zhi Li"
+    },
+    {
+     "authorId": "2323747306",
+     "name": "Guo-Qing Zhao"
+    },
+    {
+     "authorId": "2323502401",
+     "name": "Gangchen Zhang"
+    },
+    {
+     "authorId": "2369216541",
+     "name": "Yu-Qing Zhang"
+    },
+    {
+     "authorId": "2369943941",
+     "name": "Jian-Wei Hu"
+    },
+    {
+     "authorId": "2269711530",
+     "name": "You-Ji Wang"
+    }
+   ],
+   "abstract": "Microplastics are minute particles that originate from the breakdown of large plastic materials or are put on as microbeads, creating critical hazards to ecosystems. Currently, there is a lack of research on microplastics (MPs) in the surface waters of the Indian Ocean and local marine organisms. This study investigates the abundance, composition, and potential ecological impacts of MPs in the surface waters of the Indian Ocean, and MPs in the bodies of two typical marine organisms in the local area were detected. The present study reveals significant spatial heterogeneity in microplastic (MP) characteristics across the Indian Ocean, with the Arabian Sea exhibiting notably higher abundances, greater lengths, and polymer-type diversity compared to surrounding waters. Results indicate a high detection rate of 93.75 % across 32 sampling sites, with an average abundance of 0.007 items/L, highlighting the widespread presence of MPs in marine environments. Rayon (RY), Polyethylene (PE), polypropylene (PP), and polyethylene terephthalate (PET) were identified as the predominant materials, likely linked to the extensive use of textiles and consumer packaging. The size distribution of MPs primarily falls within the 0-500 μm and 500-1000 μm ranges, with fiber-shaped MPs being the most prevalent, reflecting the release of synthetic fibers during washing processes. Analysis of MPs in biological samples revealed a high prevalence of RY, indicating potential bioaccumulation in marine organisms. Findings also showed that frigate tuna (Auxis thazard) exhibited a higher ingestion rate and MP content compared to purpleback flying squid (Symplectoteuthis oualaniensis), suggesting species-specific differences in feeding behavior and habitat utilization. Microplastic pollution negatively affects marine ecosystems and organisms by disrupting food chains, habitat contamination, and harming their health. These findings highlight the urgent need for improved monitoring and management strategies to mitigate the impacts of microplastic pollution on ecosystems and human health."
+  },
+  {
+   "paperId": "784d0ba786dabb13f44585595b4868e44bd57312",
+   "externalIds": {
+    "DOI": "10.1016/j.envres.2025.120866",
+    "CorpusId": 275605017,
+    "PubMed": "39824273"
+   },
+   "url": "https://www.semanticscholar.org/paper/784d0ba786dabb13f44585595b4868e44bd57312",
+   "title": "Microplastic Pollution in the Water Column and Benthic Sediment of the San Pedro Bay, California, USA.",
+   "venue": "Environmental Research",
+   "year": 2025,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.envres.2025.120866",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envres.2025.120866?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envres.2025.120866, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2025-01-01",
+   "authors": [
+    {
+     "authorId": "2340837191",
+     "name": "Samiksha Singh"
+    },
+    {
+     "authorId": "2325681011",
+     "name": "Andrew Gray"
+    },
+    {
+     "authorId": "2311772743",
+     "name": "Clare Murphy-Hagan"
+    },
+    {
+     "authorId": "2099840220",
+     "name": "H. Hapich"
+    },
+    {
+     "authorId": "2293203418",
+     "name": "Win Cowger"
+    },
+    {
+     "authorId": "2561582316",
+     "name": "John Perna"
+    },
+    {
+     "authorId": "2342115981",
+     "name": "Thai Le"
+    },
+    {
+     "authorId": "2141836382",
+     "name": "Hinako Nogi"
+    },
+    {
+     "authorId": "2340671993",
+     "name": "Bani Badwal"
+    },
+    {
+     "authorId": "48076656",
+     "name": "K. McLaughlin"
+    },
+    {
+     "authorId": "11905028",
+     "name": "F. Kessouri"
+    },
+    {
+     "authorId": "2276427083",
+     "name": "Charles Moore"
+    },
+    {
+     "authorId": "7266948",
+     "name": "G. Lattin"
+    },
+    {
+     "authorId": "2250020435",
+     "name": "L. T. Thornton Hampton"
+    },
+    {
+     "authorId": "2282259067",
+     "name": "Charles S. Wong"
+    },
+    {
+     "authorId": "51106132",
+     "name": "M. Sutula"
+    }
+   ],
+   "abstract": "The concentration, character, and distribution of microplastics in coastal marine environments remain poorly understood, with most research focusing on the abundance of microplastics at the sea surface. To address this gap, we conducted one of the first comprehensive assessments of microplastic distribution through the marine water column and in the benthic sediment during the wet and dry season in the coastal waters of the San Pedro Shelf, Southern California, USA. Microplastic concentrations in the water column did not vary significantly across season but were significantly higher in nearshore environments and at the surface of the water column. Sediment samples contained significantly more microplastics in the wet season and in offshore environments. Black particles were the most dominant color, while fibers were the most abundant morphology, accounting for over 50% of both water column and sediment microplastics. Polyethylene and polypropylene were identified as the most abundant polymers in the water column regardless of morphology type. Tire and road wear particles were found through the study domain. Average microplastic concentrations in the San Pedro Bay were estimated to be 8.65×105 ± 7.60 ×105 particles/km2 and 3.19 ± 2.96 particles/m³. This study highlights the complexity of microplastic concentration, character, and distribution in marine environments and demonstrates that surface only sampling strategies significantly underestimate microplastic concentrations. Our findings underscore the need for continued and expanded research into microplastic distribution and transport dynamics across the marine environment to aid in understanding, managing, and mitigating plastic pollution in coastal marine systems."
+  },
+  {
+   "paperId": "424f4bdbda1842bcbc65427739c9f23e3683c0e6",
+   "externalIds": {
+    "DOI": "10.1016/j.marpolbul.2026.119379",
+    "CorpusId": 285612732,
+    "PubMed": "41691941"
+   },
+   "url": "https://www.semanticscholar.org/paper/424f4bdbda1842bcbc65427739c9f23e3683c0e6",
+   "title": "Artificial intelligence for modeling and reducing microplastic in marine environments: A review of current evidence.",
+   "venue": "Marine Pollution Bulletin",
+   "year": 2026,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.marpolbul.2026.119379",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.marpolbul.2026.119379?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.marpolbul.2026.119379, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2026-02-14",
+   "authors": [
+    {
+     "authorId": "1582736975",
+     "name": "D. Olawade"
+    },
+    {
+     "authorId": "2323634787",
+     "name": "James O. Ijiwade"
+    },
+    {
+     "authorId": "2284471444",
+     "name": "Abimbola O. Ige"
+    },
+    {
+     "authorId": "2000633111",
+     "name": "O. Wada"
+    }
+   ],
+   "abstract": "Marine microplastic pollution presents a critical environmental challenge, affecting ecosystems, wildlife, and human health as millions of tons of plastic waste enter oceans each year. Microplastics, due to their small size, are difficult to detect and accumulate widely in marine environments, where they integrate into the food web. Artificial Intelligence (AI) offers promising advancements for modeling, detecting, and mitigating the effects of microplastics in marine ecosystems. This narrative review examines recent developments in AI applications for addressing microplastic pollution. The review focuses on AI-driven modeling for predicting microplastic flows, intelligent waste detection systems that utilize remote sensing and autonomous robotics, and AI-based interventions aimed at reducing microplastic release. AI-driven models enhance the accuracy of predicting microplastic accumulation zones, supporting targeted clean-up efforts and informed policy-making. Advanced detection systems provide real-time monitoring over extensive areas, while AI-based filtration and material innovation technologies help reduce microplastic pollution at the source. AI holds significant potential to mitigate marine microplastic pollution, yet challenges such as data availability, model refinement, and global collaboration remain. Future research should focus on enhancing AI models, refining detection systems, and encouraging international data-sharing and cooperation. Collaboration across sectors is essential to fully leverage AI's potential in safeguarding marine ecosystems from microplastic pollution."
+  },
+  {
+   "paperId": "a69f7f678307e5f69af8e8b85c5bf89b0c711a72",
+   "externalIds": {
+    "DOI": "10.1016/j.jenvman.2021.112860",
+    "CorpusId": 235353976,
+    "PubMed": "34089959"
+   },
+   "url": "https://www.semanticscholar.org/paper/a69f7f678307e5f69af8e8b85c5bf89b0c711a72",
+   "title": "Microplastic pollution in aquatic environments with special emphasis on riverine systems: Current understanding and way forward.",
+   "venue": "Journal of Environmental Management",
+   "year": 2021,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jenvman.2021.112860?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jenvman.2021.112860, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "publicationDate": "2021-06-02",
+   "authors": [
+    {
+     "authorId": "2121382467",
+     "name": "Mansi Vaid"
+    },
+    {
+     "authorId": "138029988",
+     "name": "Kiranmay Sarma"
+    },
+    {
+     "authorId": "47156443",
+     "name": "Anshu Gupta"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "bc956a0d6526f7c71ac533c41fbbf2df4d87f31e",
+   "externalIds": {
+    "PubMedCentral": "7979831",
+    "DOI": "10.1038/s41598-021-85939-3",
+    "CorpusId": 232298774,
+    "PubMed": "33742029"
+   },
+   "url": "https://www.semanticscholar.org/paper/bc956a0d6526f7c71ac533c41fbbf2df4d87f31e",
+   "title": "Microplastic pollution in seawater and marine organisms across the Tropical Eastern Pacific and Galápagos",
+   "venue": "Scientific Reports",
+   "year": 2020,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41598-021-85939-3.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7979831, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "publicationDate": "2020-10-07",
+   "authors": [
+    {
+     "authorId": "1395596748",
+     "name": "A. Alfaro-Núñez"
+    },
+    {
+     "authorId": "6697316",
+     "name": "D. Astorga"
+    },
+    {
+     "authorId": "2056513920",
+     "name": "Lenin Cáceres-Farías"
+    },
+    {
+     "authorId": "2056514657",
+     "name": "Lisandra Bastidas"
+    },
+    {
+     "authorId": "2581478279",
+     "name": "Cynthia Soto Villegas"
+    },
+    {
+     "authorId": "2056514631",
+     "name": "K. Macay"
+    },
+    {
+     "authorId": "40108047",
+     "name": "J. Christensen"
+    }
+   ],
+   "abstract": "Detection of plastic debris degrading into micro particles across all oceanic environments and inside of marine organisms is no longer surprising news. Microplastic contamination now appears as one of the world’s environmental main concerns. To determine the levels of microplastic pollution at sea, water samples were collected across a 4000 km-trajectory in the Tropical Eastern Pacific and the Galápagos archipelago, covering an area of 453,000 square kilometres. Furthermore, 240 specimens of 16 different species of fish, squid, and shrimp, all of human consumption, were collected along the continental coast. Microplastic particles were found in 100% of the water samples and marine organisms. Microplastic particles ranging from 150 to 500 µm in size were the most predominant. This is one of the first reports simultaneously detecting and quantifying microplastic particles abundance and their impact on marine organisms of this region."
+  },
+  {
+   "paperId": "f00cd6563806b3d69bc18e0532937d0a980773ab",
+   "externalIds": {
+    "MAG": "2560739535",
+    "DOI": "10.1016/j.marpolbul.2016.11.003",
+    "CorpusId": 8271742,
+    "PubMed": "27939688"
+   },
+   "url": "https://www.semanticscholar.org/paper/f00cd6563806b3d69bc18e0532937d0a980773ab",
+   "title": "Microplastic pollution in the marine waters and sediments of Hong Kong.",
+   "venue": "Marine Pollution Bulletin",
+   "year": 2017,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.marpolbul.2016.11.003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.marpolbul.2016.11.003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2017-02-15",
+   "authors": [
+    {
+     "authorId": "1816761958",
+     "name": "Yiu-Yuen Tsang"
+    },
+    {
+     "authorId": "150953002",
+     "name": "Chu-Wa Mak"
+    },
+    {
+     "authorId": "108050022",
+     "name": "C. Liebich"
+    },
+    {
+     "authorId": "51215810",
+     "name": "S.-W. Lam"
+    },
+    {
+     "authorId": "2550313298",
+     "name": "T.-P. E. Sze"
+    },
+    {
+     "authorId": "31675247",
+     "name": "King M. Chan"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "7055b5f388aa94028ed924dc4de5dad99fbf3305",
+   "externalIds": {
+    "DOI": "10.3390/environments11110238",
+    "CorpusId": 273730168
+   },
+   "url": "https://www.semanticscholar.org/paper/7055b5f388aa94028ed924dc4de5dad99fbf3305",
+   "title": "Lost in the Dark: Current Evidence and Knowledge Gaps About Microplastic Pollution in Natural Caves",
+   "venue": "Environments",
+   "year": 2024,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/environments11110238",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/environments11110238?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/environments11110238, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "publicationDate": "2024-10-29",
+   "authors": [
+    {
+     "authorId": "2165715042",
+     "name": "Manuela Piccardo"
+    },
+    {
+     "authorId": "49185351",
+     "name": "S. Bevilacqua"
+    }
+   ],
+   "abstract": "In this study, a systematic review of the scientific literature was carried out to summarize the emerging evidence on microplastic pollution in natural caves. After the screening of 655 papers on the topic from a combined search on the Web of Knowledge and the Scopus databases, we found only 14 studies reporting quantitative data on microplastics from a total of 27 natural caves. Most of the assessments focused on water and sediment, with very limited investigations concerning the cave biota. Overall, the most common types of particles found in caves were small (<1 mm) fibers (~70–90% of items), transparent or light-colored, mostly made of polyethylene and polyethylene terephthalate. Anthropogenic cellulosic materials, however, represented a non-negligible portion of particles (i.e., ~20–30%). Microplastic concentrations in caves varied between 0.017 and 911 items/L for water and 7.9 and 4777 items/kg for sediment, thus falling within the levels of microplastic pollution found in other terrestrial, freshwater, and marine environments. Levels of microplastic pollution appear largely variable among caves, stressing the need to extend the geographic and environmental ranges of the assessments, which are currently concentrated on Italian caves on land, with very few case studies from other regions of the world and from marine caves. Despite their putative isolation, natural caves have a high vulnerability to microplastic contamination, requiring much more research effort to understand the potential risk that plastics pose to these fragile ecosystems."
+  }
+ ]
+}

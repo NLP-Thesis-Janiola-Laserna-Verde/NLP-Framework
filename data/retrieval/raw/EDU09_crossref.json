@@ -1,0 +1,629 @@
+{
+ "query": "Inclusive education for students with disabilities",
+ "retrieved_at": "2026-11-18T17:53:49.684815+00:00",
+ "data": [
+  {
+   "DOI": "10.4324/9781138609877-ree157-1",
+   "title": [
+    "Collaborative Teaming to Support Quality Inclusive Education for Students with Disabilities"
+   ],
+   "container-title": [
+    "Collaborative Teaming to Support Quality Inclusive Education for Students with Disabilities"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      30
+     ]
+    ]
+   },
+   "type": "reference-entry",
+   "URL": "https://doi.org/10.4324/9781138609877-ree157-1",
+   "author": [
+    {
+     "given": "Kathleen",
+     "family": "Mortier",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Corrine",
+     "family": "Aramburo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781138609877-ree157-0",
+   "title": [
+    "Collaborative Teaming to Support Quality Inclusive Education for Students with Disabilities"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      30
+     ]
+    ]
+   },
+   "type": "reference-book",
+   "URL": "https://doi.org/10.4324/9781138609877-ree157-0"
+  },
+  {
+   "DOI": "10.61587/mmit.tiue.uz.v1i1.306",
+   "title": [
+    "DIGITALIZATION OF INCLUSIVE EDUCATION FOR STUDENTS WITH DISABILITIES: MODERN ASSISTIVE TECHNOLOGIES"
+   ],
+   "publisher": "Tashkent International University of Education",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      5,
+      6
+     ]
+    ]
+   },
+   "type": "proceedings",
+   "URL": "https://doi.org/10.61587/mmit.tiue.uz.v1i1.306"
+  },
+  {
+   "DOI": "10.1108/s1529-210x20210000017006",
+   "title": [
+    "The Incompatibility of Neoliberalism and Inclusive Education"
+   ],
+   "container-title": [
+    "Neoliberalism and Inclusive Education"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/s1529-210x20210000017006",
+   "author": [
+    {
+     "given": "Sylvia",
+     "family": "Mac",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of La Verne, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1108/s1529-210x20210000017010",
+   "title": [
+    "Prelims"
+   ],
+   "container-title": [
+    "Neoliberalism and Inclusive Education"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1108/s1529-210x20210000017010"
+  },
+  {
+   "DOI": "10.1108/s1529-210x20210000017011",
+   "title": [
+    "References"
+   ],
+   "container-title": [
+    "Neoliberalism and Inclusive Education"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/s1529-210x20210000017011"
+  },
+  {
+   "DOI": "10.1108/s1529-210x20210000017009",
+   "title": [
+    "Index"
+   ],
+   "container-title": [
+    "Neoliberalism and Inclusive Education"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/s1529-210x20210000017009"
+  },
+  {
+   "DOI": "10.1787/9789264180383-en",
+   "title": [
+    "Inclusive Education at Work"
+   ],
+   "publisher": "OECD",
+   "issued": {
+    "date-parts": [
+     [
+      2000,
+      2,
+      2
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.1787/9789264180383-en",
+   "author": [
+    {
+     "name": "OECD",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1108/s1529-210x20210000017008",
+   "title": [
+    "Appendix"
+   ],
+   "container-title": [
+    "Neoliberalism and Inclusive Education"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/s1529-210x20210000017008"
+  },
+  {
+   "DOI": "10.1108/s1529-210x202117",
+   "title": [
+    "Neoliberalism and Inclusive Education"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "monograph",
+   "URL": "https://doi.org/10.1108/s1529-210x202117",
+   "author": [
+    {
+     "given": "Sylvia",
+     "family": "Mac",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of La Verne, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1108/978-1-68123-000-920251013",
+   "title": [
+    "Self-Determination and Inclusive Education for Students with Intellectual Disability"
+   ],
+   "container-title": [
+    "Inclusive Education for Students With Intellectual Disabilities"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      2,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/978-1-68123-000-920251013",
+   "author": [
+    {
+     "given": "Karrie A.",
+     "family": "Shogren",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Michael L.",
+     "family": "Wehmeyer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1108/978-1-68123-000-920251010",
+   "title": [
+    "Experiences of Learning"
+   ],
+   "container-title": [
+    "Inclusive Education for Students With Intellectual Disabilities"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      2,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/978-1-68123-000-920251010",
+   "author": [
+    {
+     "given": "John",
+     "family": "Kubiak",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Michael",
+     "family": "Shevlin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780203062449-9",
+   "title": [
+    "Individual rights to education and students with disabilities: some lessons from US policy"
+   ],
+   "container-title": [
+    "Inclusive Education"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      4,
+      3
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780203062449-9"
+  },
+  {
+   "DOI": "10.4324/9781003221852-5",
+   "title": [
+    "The paradigm transformation of support for students with disabilities in inclusive education"
+   ],
+   "container-title": [
+    "Inclusive Education in China"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      5,
+      5
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781003221852-5",
+   "author": [
+    {
+     "given": "Wangqian",
+     "family": "Fu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9781351107570-9",
+   "title": [
+    "Belonging to higher education: inclusive education for students with intellectual disabilities"
+   ],
+   "container-title": [
+    "Postsecondary Educational Opportunities for Students with Special Education Needs"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      12,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781351107570-9",
+   "author": [
+    {
+     "given": "Kristín",
+     "family": "Björnsdóttir",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1108/s1529-210x20210000017001",
+   "title": [
+    "Introduction"
+   ],
+   "container-title": [
+    "Neoliberalism and Inclusive Education"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      30
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/s1529-210x20210000017001",
+   "author": [
+    {
+     "given": "Sylvia",
+     "family": "Mac",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "University of La Verne, USA"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1108/978-1-68123-000-920251001",
+   "title": [
+    "Prelims"
+   ],
+   "container-title": [
+    "Inclusive Education for Students With Intellectual Disabilities"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      2,
+      13
+     ]
+    ]
+   },
+   "type": "other",
+   "URL": "https://doi.org/10.1108/978-1-68123-000-920251001"
+  },
+  {
+   "DOI": "10.2139/ssrn.5019757",
+   "title": [
+    "Redesigning Curriculum for Inclusive Education: Addressing the Learning Needs of Students with Disabilities"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2025
+     ]
+    ]
+   },
+   "type": "posted-content",
+   "URL": "https://doi.org/10.2139/ssrn.5019757",
+   "author": [
+    {
+     "given": "Emmanuel",
+     "family": "Dumbuya",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Emerald Publishing Limited",
+   "abstract": "<jats:p>Lesotho, like many other nations throughout Africa, is attempting to improve educational conditions for a wide variety of students. This chapter focuses on the inclusion of students with cognitive disabilities in regular primary schools. Interviews and observation data were collected and demonstrate that there are both successes and continued challenges to including such students in schools. In two schools studied, attitudes toward students were positive, and some teachers were successfully able to differentiate curriculum for students with disabilities. On the other hand, resource levels are low, and frontal teaching (which is generally ineffective for students with cognitive disabilities) appears be the dominant pedagogy in primary school classrooms.</jats:p>",
+   "DOI": "10.1108/978-1-60752-603-220251003",
+   "type": "book-chapter",
+   "title": [
+    "Inclusive Education for Inclusive Development in Lesotho"
+   ],
+   "author": [
+    {
+     "given": "Christopher",
+     "family": "Johnstone",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Augsburg College and University of Minnesota"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "The Enterprise of Education"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      8,
+      16
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1108/978-1-60752-603-220251003"
+  },
+  {
+   "DOI": "10.1108/978-1-68123-000-920251016",
+   "title": [
+    "Parent Advocacy for Inclusive Education in the United States"
+   ],
+   "container-title": [
+    "Inclusive Education for Students With Intellectual Disabilities"
+   ],
+   "publisher": "Emerald Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2015,
+      2,
+      13
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/978-1-68123-000-920251016",
+   "author": [
+    {
+     "given": "Meghan M.",
+     "family": "Burke",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

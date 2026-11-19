@@ -1,0 +1,908 @@
+{
+ "query": "Mangrove restoration and coastal protection",
+ "retrieved_at": "2026-11-18T18:00:38.587751+00:00",
+ "data": [
+  {
+   "publisher": "Utrecht University Library",
+   "abstract": "<jats:p xml:lang=\"en\">The world’s population continues to grow, and at the same time, the oceans are rising, posing challenges for those living near coastal areas. Almost two-thirds of the global population resides within 50 kilometers of the coast. Mangrove forests offer solutions to mitigate the potential for flooding and provide natural coastal protection. Traditionally, mangrove restoration has been approached from the seaward edge through large-scale planting, with limited success. This dissertation describes how mangrove restoration can be approached from both the seaward and landward edges along degraded coastlines to create functional mangrove forests.\nChapter 2 examines how the natural factors drive mangrove dynamics along the landward and seaward edges of a mangrove greenbelt. This work reveals that landward mangrove expansion in old aquaculture ponds was slow because of long inundation times and soft sediment. In contrast, seaward mangrove expansion was associated with elevated mudflats and gentle slopes. Chapter 3 further investigates the effects of different foreshore morphologies on mangrove expansion. This work shows that cheniers, or elevated sand lenses atop muddy foreshores, significantly decrease waves that enter the mangrove fringe. A stable chenier can promote mangrove expansion, even in combination with a negligible small mudflat of 10 to 20 metres. Without a chenier, a 10 times wider mudflat was required to make mangrove expansion more likely than mangrove retreat.\nChapter 4 compares traditional mangrove planting with ecological restoration measures for mangrove restoration (EMR). This work shows that EMR measures were more effective at creating connected forest expansion in a landward direction. EMR in the landward direction could be achieved through smart sluice gate management in the right season. This work shows how mangrove cover in associated mangrove aquaculture ponds significantly increased over the project lifetime. Along the seaward edge, field experiments revealed that EMR with permeable brushwood dams aimed at expanding mangrove habitat could not sufficiently overcome subsidence rates, indicating that mangrove restoration in seaward direction under relative sea level rise will become increasingly difficult.\nChapter 5 investigates the potential threat of plastic waste to mangroves once they have been restored. It is revealed that aerial root suffocation by plastic caused immediate pneumatophore growth and leaf loss. Mangrove trees are relatively resilient to partial burial by plastic waste, but mangrove stands are likely to deteriorate if plastic continues to accumulate. Chapter 6 examines the long-term mangrove greenbelt resilience in the face of continued rapid relative sea level rise. The study quantified that while the villages closest to the subsidence epicenter sank with 8.2 cm per year, their fringing mangroves sank nearly twice as slow on average. Trees were able to adjust to the rapidly rising water level through pneumatophore extension and the creation of new root mats when sediment was locally available. However system wide sediment shortage ultimately leads to a retreating coastline, affecting both mangroves and people.\nIn conclusion, seaward mangrove restoration is challenging along coastlines that are subject to rapid relative sea level rise. Foreshore management aimed at creating artificial cheniers or wide mudflats might reduce lateral erosion and lead to limited seaward mangrove expansion in less rapidly subsiding areas. It is also important to consider the landward edge of a desired greenbelt when attempting mangrove restoration, as hectares of potential mangrove habitat still exist in the form of other land-uses. Effective socio-economic measures are required to support mangrove expansion; these may be challenging, but not impossible. Ultimately, interventions that halt regional and global stressors of mangrove establishment and survival will have the most significant impact and long-term effect on coastal protection.</jats:p>",
+   "DOI": "10.33540/1624",
+   "type": "dissertation",
+   "title": [
+    "Mangrove Restoration for Coastal Protection"
+   ],
+   "author": [
+    {
+     "given": "Celine Euphemia Johanna",
+     "family": "van Bijsterveldt",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.33540/1624"
+  },
+  {
+   "publisher": "Frontiers Media SA",
+   "abstract": "<jats:p>Mangrove restoration in the coastal zones is a concept proposed by environmental conservationists. Among the cited advantages of mangrove restoration are providing socio-economic services and coastal protection. Aware of these advantages, countries in Southeast Asia, such as the Philippines, have been implementing government- or civilian-backed restoration efforts. However, will current practices of restoration lead to the intended results? Also, are claims of coastal protection effects realistic? These two questions underscore the challenges posed by the long gap between the present intervention and future impact. Field evidence of protection may emerge from existing sites, the circumstances of which may not be easily portable onto other sites. This study examines the mangrove restoration practices in the Philippines and proposes the restoration index as a short-term prospective estimate of the future success of the restoration effort. This study also assesses the coastal protection potential of mangroves by examining the “bio-shielding” effect against storm surges driven by category-5 winds. Two coastal sites—Tacloban, Leyte, and Pan de Azucar, Iloilo—in the Philippines along the track of a category-5 storm, were considered. The restoration index was calculated based on the characteristics of <jats:italic>Rhizophora</jats:italic> mangroves commonly used in restoration programs. The coastal inundation model examined the extent of inland flooding due to storm surges by comparing an actual and hypothetical mangrove scenario for each site. A reasonable value of tree density obtained from the restoration simulations was estimated to determine if and to what degree, do mangroves in both sites offer coastal protection. For Tacloban, the actual mangroves are limited in scope, while the hypothetical scenario assumed a mangrove greenbelt fringing the city’s eastern periphery. For Pan de Azucar, the existing mangroves are dense at the southwestern tip of the island, whereas in the hypothetical scenario, these mangroves are absent. The results, reinforced with a household survey, indicated a positive economic value of mangrove restoration for coastal protection. The restoration index and coastal inundation simulations are prospective tools that will guide the Philippines and Southeast Asia, in general, in formulating impactful mangrove restoration programs.</jats:p>",
+   "DOI": "10.3389/fmars.2022.968420",
+   "type": "journal-article",
+   "title": [
+    "Does mangrove restoration imply coastal protection? A prospective simulation study"
+   ],
+   "author": [
+    {
+     "given": "Drandreb Earl O.",
+     "family": "Juanico",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Frontiers in Marine Science"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      9,
+      23
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.3389/fmars.2022.968420"
+  },
+  {
+   "DOI": "10.1201/b17775-16",
+   "title": [
+    "Agroecology for Sustainable Coastal Ecosystems: A Case for Mangrove Forest Restoration"
+   ],
+   "container-title": [
+    "Agroecology, Ecosystems, and Sustainability"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      11,
+      20
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/b17775-16"
+  },
+  {
+   "DOI": "10.1007/978-81-322-3715-0_26",
+   "title": [
+    "Mangrove Restoration: An Overview of Coastal Afforestation in India"
+   ],
+   "container-title": [
+    "Wetland Science"
+   ],
+   "publisher": "Springer India",
+   "issued": {
+    "date-parts": [
+     [
+      2017
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1007/978-81-322-3715-0_26",
+   "author": [
+    {
+     "given": "G. A.",
+     "family": "Thivakaran",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Copernicus GmbH",
+   "abstract": "<jats:p>Mangrove forests provide critical shoreline protection in tropical and sub-tropical regions through wave attenuation, soil accretion and floodwater storage. These protective mechanisms relate to both ecosystem functionality and persistence (Lovelock et al. 2024). Multiple studies over the past decades have effectively shown that mangrove forest extent can lead to reduced wave heights between 50-99%, with vegetative characteristics slowly being introduced as a critical element (McIvor et al. 2013). Increasing evidence has identified that the eco-geomorphological conditions shape the consistency and scale of protection but have not been properly considered. Ecological, hydrodynamic and geomorphological processes which occur at various temporal and spatial scales influence species-specific interactions, functional type formations and habitat structure (Gijsman et al. 2021). Mangrove forests can develop into distinct ecotypes over time (Twilley and Rivera-Monroy 2009), directly influenced by tidal exchanges between the mangrove forests and nearshore environments, affecting the level of productivity within the mangroves (Mitsch and Gosselink 2015). These interactions influence the mangrove forest structure through variability in sediment deposition rates, biomass accumulation, seedling recruitment and overall forest productivity (van Hespen et al. 2023).Since variations in eco-geomorphological features affect mangrove functionality and persistence at multiple scales, this research will investigate how these differences can affect the ability of mangroves to provide consistent coastal protection. Building on existing modelling approaches (Beselly, van Der Wegen, and Roelvink 2025), the aim is to design an ideal model capable of capturing nuanced interactions between mangrove ecosystems and the geomorphological features. For instance, predictive models (WAPROMAN), designed to capture wave propagation through a uniform forest, utilised drag coefficients (McIvor et al. 2013), while a measure of mangrove forest extent seaward followed a mechanistic approach using the window of opportunity for seedling establishment predictions (van Hespen et al. 2023).The current workflow will identify and isolate the key drivers and traits of crucial mangrove forests that affect mangrove functionality and persistence, for parameterisation. As a preliminary approach, these parameters will be integrated into a numerical model, incorporating elements from previous mechanistic and empirical approaches, modified to ascertain and accommodate the variability in mangrove eco-geomorphology and sediment dynamics (Gijsman et al. 2021). This process can facilitate the quantification of impact and identify key thresholds that these selected attributes of mangrove forests have on the function and persistence related to long-term coastal protection. Through this integration of multiple layers of eco-geomorphological variability, this work offers insights into how mangrove systems work as Nature-based Solutions and how they thrive within our changing climate. </jats:p>",
+   "DOI": "10.5194/egusphere-egu26-1457",
+   "type": "posted-content",
+   "title": [
+    "Mangrove traits influencing coastal protection under varying environmental and eco-geomorphic conditions. "
+   ],
+   "author": [
+    {
+     "given": "Sarita",
+     "family": "Emmanuel",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      13
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.5194/egusphere-egu26-1457"
+  },
+  {
+   "DOI": "10.4324/9780367863098-8",
+   "title": [
+    "Community perceptions towards the risks and benefits of a mangrove restoration project"
+   ],
+   "container-title": [
+    "Coastal Wetlands Restoration"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780367863098-8",
+   "author": [
+    {
+     "given": "Hiromi",
+     "family": "Yamashita",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Naoyuki",
+     "family": "Mikami",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.7287/peerj.7493v0.1/reviews/2",
+   "title": [
+    "Peer Review #2 of \"The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico (v0.1)\""
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.7287/peerj.7493v0.1/reviews/2"
+  },
+  {
+   "DOI": "10.7287/peerj.7493v0.2/reviews/2",
+   "title": [
+    "Peer Review #2 of \"The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico (v0.2)\""
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.7287/peerj.7493v0.2/reviews/2"
+  },
+  {
+   "DOI": "10.7287/peerj.7493v0.1/reviews/3",
+   "title": [
+    "Peer Review #3 of \"The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico (v0.1)\""
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.7287/peerj.7493v0.1/reviews/3"
+  },
+  {
+   "DOI": "10.7287/peerj.7493v0.1/reviews/1",
+   "title": [
+    "Peer Review #1 of \"The effect of mangrove restoration on avian assemblages of a coastal lagoon in southern Mexico (v0.1)\""
+   ],
+   "publisher": "PeerJ",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      8,
+      13
+     ]
+    ]
+   },
+   "type": "peer-review",
+   "URL": "https://doi.org/10.7287/peerj.7493v0.1/reviews/1"
+  },
+  {
+   "DOI": "10.1016/j.coastaleng.2021.103922",
+   "title": [
+    "Predicting the evolution of coastal protection service with mangrove forest age"
+   ],
+   "container-title": [
+    "Coastal Engineering"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.coastaleng.2021.103922",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-3008-8299",
+     "authenticated-orcid": false,
+     "given": "Maria",
+     "family": "Maza",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Javier L.",
+     "family": "Lara",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Iñigo J.",
+     "family": "Losada",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1080/14888386.2005.9712753",
+   "title": [
+    "Mangrove restoration—natural protection from natural disasters"
+   ],
+   "container-title": [
+    "Biodiversity"
+   ],
+   "publisher": "Informa UK Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      3
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1080/14888386.2005.9712753",
+   "author": [
+    {
+     "given": "Alfredo",
+     "family": "Quarto",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4236/jep.2013.412168",
+   "title": [
+    "Fish Assemblages in the Degraded Mangrove Ecosystems of the Coastal Zone, Benin, West Africa: Implications for Ecosystem Restoration and Resources Conservation"
+   ],
+   "container-title": [
+    "Journal of Environmental Protection"
+   ],
+   "publisher": "Scientific Research Publishing, Inc.",
+   "issued": {
+    "date-parts": [
+     [
+      2013
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.4236/jep.2013.412168",
+   "author": [
+    {
+     "given": "Alphonse",
+     "family": "Adite",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ibrahim",
+     "family": "ImorouToko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Adam",
+     "family": "Gbankoto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.ecss.2025.109386",
+   "title": [
+    "Experimental study on the restoration and protection of mangrove tidal ecosystems flat located in a high wave area"
+   ],
+   "container-title": [
+    "Estuarine, Coastal and Shelf Science"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      9
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.ecss.2025.109386",
+   "author": [
+    {
+     "given": "Qinqin",
+     "family": "Liu",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaojian",
+     "family": "Liu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Xiaowei",
+     "family": "Zhu",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Peng",
+     "family": "Hou",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Changtao",
+     "family": "Deng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Huan",
+     "family": "Gao",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Qisong",
+     "family": "Wang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Can",
+     "family": "Zheng",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Huiqun",
+     "family": "Guo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.coastaleng.2025.104903",
+   "title": [
+    "Evaluating portable reef for mangrove sapling protection: An experimental study using live mangroves"
+   ],
+   "container-title": [
+    "Coastal Engineering"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.coastaleng.2025.104903",
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-6998-3493",
+     "authenticated-orcid": false,
+     "given": "Sindhu",
+     "family": "Sreeranga",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-0680-3061",
+     "authenticated-orcid": false,
+     "given": "Jiarui",
+     "family": "Lei",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Scholar Publishing",
+   "abstract": "<jats:p>Destruction of mangrove forests has become a major concern in Indonesia due to issues such as cutting for timber, fuel and charcoal. Mangroves are cleared for timber, charcoal and firewood. Because of higher calorific value, the mangrove twigs are used as firewood. To investigate whether mangrove restoration can absorb carbon and store it in the soil by using co-management approach, it is necessary to take the research sample in Jenu area, Tuban Regency, East Java Province, Indonesia. The condition of mangrove forest in coast of Jenu indicates the heavy degraded of mangrove forests. The purpose of this study, firstly, is building co-management model among stakeholders involved. Secondly, to describe the model of co management to restore mangrove forests to increase sequestering in coast of Jenu.The methodology used to achieve the research objective is using Generalized Structured Component Analysis (GSCA). GSCA offers a global least squares optimization criterion. The result of this study shows local government, community, and the private sector are working together to serve the public in an ethical and open manner that engenders accountability. Beside, the translation of co-management is based on 7(seven) elements. they are a) equality in deliberation; (b) public policy formulation as agreement between community, government and private sector; (c) transparency and open management among three parties involved; (d) recognition and achievement awards to community groups that support restoration activities; (e) law enforcement on violators; (f). monitoring the effectiveness of ecosystem restoration activities; (g) facilitation of intercommunity conflict.</jats:p>",
+   "DOI": "10.14738/assrj.52.4134",
+   "type": "journal-article",
+   "title": [
+    "Restoration of mangrove co-management to sequester coastal blue carbon"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-1155-7624",
+     "authenticated-orcid": false,
+     "given": "Rudianto",
+     "family": "Adenan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Advances in Social Sciences Research Journal"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      2,
+      1
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.14738/assrj.52.4134"
+  },
+  {
+   "DOI": "10.1016/j.ocecoaman.2018.05.009",
+   "title": [
+    "Economic feasibility of mangrove restoration in the Southeastern Coast of Bangladesh"
+   ],
+   "container-title": [
+    "Ocean &amp; Coastal Management"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      7
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.ocecoaman.2018.05.009",
+   "author": [
+    {
+     "given": "Mohammad Mahfuzur",
+     "family": "Rahman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Md. Abdullah",
+     "family": "Mahmud",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Wiley",
+   "abstract": "<jats:p>During coastal wetland restoration, foundation plant species are critical in creating habitat, modulating ecosystem functions, and supporting ecological communities. Following initial hydrologic restoration, foundation plant species can help stabilize sediments and jump‐start ecosystem development. Different foundation species, however, have different traits and environmental tolerances. To understand how these traits and tolerances impact restoration trajectories, there is a need for comparative studies among foundation species. In subtropical and tropical climates, coastal wetland restoration practitioners can sometimes choose between salt marsh and/or mangrove foundation species. Here, we compared the early life history traits and environmental tolerances of two foundation species: (1) a salt marsh grass (<jats:italic>Spartina alterniflora</jats:italic>) and (2) a mangrove tree (<jats:italic>Avicennia germinans</jats:italic>). In an 18‐month study of a recently restored coastal wetland in southeastern Louisiana (USA), we examined growth and survival along an elevation gradient and compared expansion and recruitment rates. We found that the rapid growth, expansion, and recruitment rates of the salt marsh grass make it a better species for quickly establishing ecological structure at suitable elevations. The slower growth, limited expansion, and lower recruitment of the mangrove species show its restricted capacity for immediate structural restoration, especially in areas where it co‐occurs with perennial salt marsh species. Our findings suggest that the structural attributes needed in recently restored areas can be achieved sooner using fast‐growing foundation species. Following salt marsh grass establishment, mangroves can then be used to further assist ecosystem development. This work highlights how appropriate foundation species can help jump‐start ecosystem development to meet restoration objectives.</jats:p>",
+   "DOI": "10.1111/rec.12963",
+   "type": "journal-article",
+   "title": [
+    "Jump‐starting coastal wetland restoration: a comparison of marsh and mangrove foundation species"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8786-6178",
+     "authenticated-orcid": false,
+     "given": "Erik S.",
+     "family": "Yando",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Coastal Plant Ecology Lab, Department of Biology University of Louisiana at Lafayette  Lafayette LA U.S.A."
+      },
+      {
+       "name": "The Mangrove Lab, Department of Geography National University of Singapore  Singapore"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Michael J.",
+     "family": "Osland",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "U.S. Geological Survey Wetland and Aquatic Research Center  Lafayette LA U.S.A."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Scott F.",
+     "family": "Jones",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Coastal Plant Ecology Lab, Department of Biology University of Louisiana at Lafayette  Lafayette LA U.S.A."
+      },
+      {
+       "name": "U.S. Geological Survey Western Ecological Research Center  Davis CA U.S.A."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mark W.",
+     "family": "Hester",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Coastal Plant Ecology Lab, Department of Biology University of Louisiana at Lafayette  Lafayette LA U.S.A."
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Restoration Ecology"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      7
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.1111/rec.12963"
+  },
+  {
+   "publisher": "Coastal Engineering Research Council",
+   "abstract": "<jats:p>Mangrove forests, featured by the complex root system, were found effective among natural-based solutions in coastal disaster reduction (e.g. Guannel et al. 2016). The prop roots of mangroves have been deemed useful in attenuating waves and were addressed in several recent experimental works using artificial tree models (e.g. Maza et al. 2019). In this study, laboratory experiments were conducted on both model scale and prototype scale using more realistic models. We aim to provide a comprehensive investigation of wave-induced forces exerted on mangroves and propose proper relationships of force coefficients with flow parameters under various incident conditions.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/b59ewNY7mSI</jats:p>",
+   "DOI": "10.9753/icce.v36v.management.12",
+   "type": "journal-article",
+   "title": [
+    "EXPERIMENTAL STUDY OF MANGROVE EFFECTS ON COASTAL PROTECTION"
+   ],
+   "author": [
+    {
+     "given": "Che-Wei",
+     "family": "Chang",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nobuhito",
+     "family": "Mori",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Naoki",
+     "family": "Tsuruta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Kojiro",
+     "family": "Suzuki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Hideaki",
+     "family": "Yanagisawa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Coastal Engineering Proceedings"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      12,
+      28
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.9753/icce.v36v.management.12"
+  },
+  {
+   "DOI": "10.2307/jj.41003508.50",
+   "title": [
+    "Resolving Coastal Restoration Conflicts:"
+   ],
+   "container-title": [
+    "Environmental Restoration"
+   ],
+   "publisher": "Princeton University Press",
+   "issued": {
+    "date-parts": [
+     [
+      2012,
+      6,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.2307/jj.41003508.50",
+   "author": [
+    {
+     "given": "David",
+     "family": "Shonman",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,848 @@
+{
+ "query": "Youth political participation and civic engagement",
+ "retrieved_at": "2026-11-18T17:57:53.681867+00:00",
+ "data": [
+  {
+   "DOI": "10.1163/9789087904470_012",
+   "title": [
+    "Civic Engagement among Problem Youth"
+   ],
+   "container-title": [
+    "Youth and Political Participation"
+   ],
+   "publisher": "BRILL",
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1163/9789087904470_012",
+   "author": [
+    {
+     "given": "Derrick",
+     "family": "Armstrong",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>This chapter explores how Cambodian youth are using digital platforms like Facebook, TikTok, Telegram, Instagram, YouTube, and X (Twitter) to engage civically, voice political views, and influence democratic development process. Young people utilize these tools to call for change, make issues like education, the environment, and government more visible, and promote openness. The chapter talks on issues including censorship, surveillance, and digital inequality, as well as youth-led activism, civic learning, and innovation. It does this by analyzing digital content, platform-based initiatives, and relevant policy frameworks to understand how Cambodian youth mobilize online. It promotes flexible choices such as encrypted communication and artistic expression, and it sees youth as important to Cambodia's development goals, notable Vision 2050. The chapter finishes with policy proposals for keeping online venues safe, user-friendly, and enjoyable.</jats:p>",
+   "DOI": "10.4018/979-8-3373-5581-8.ch015",
+   "type": "book-chapter",
+   "title": [
+    "Mobilizing Through the Screen"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0006-8335-442X",
+     "authenticated-orcid": true,
+     "given": "Sovanna",
+     "family": "Huot",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Political Science, University of Delhi, New Delhi, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0007-3382-7169",
+     "authenticated-orcid": true,
+     "given": "Sovannaroth",
+     "family": "Chheang",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Sovanna Elton Foreign Language School, Phnom Penh, Cambodia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8.ch015"
+  },
+  {
+   "DOI": "10.4324/9780429025570-1",
+   "title": [
+    "Civic and political engagement among youth"
+   ],
+   "container-title": [
+    "Youth Civic And Political Engagement"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      2,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780429025570-1",
+   "author": [
+    {
+     "given": "Barrett",
+     "family": "Martyn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pachi",
+     "family": "Dimitra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.18574/nyu/9781479819577.003.0006",
+   "title": [
+    "3 Dilemmas of Civic and Political Engagement"
+   ],
+   "container-title": [
+    "Youth in Egypt"
+   ],
+   "publisher": "New York University Press",
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      12,
+      31
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.18574/nyu/9781479819577.003.0006"
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>This chapter aims to highlight the role of South Africa's #FeesMustFall protests as an innovative way to promote meaningful youth engagement in the country's ‘flawed' democracy. These historic protests, which took place in 2015, called for free higher education for all South African students. They provide important lessons about the power of collective action and digitally organised movements in influencing policy and political decisions at the national level. Like many African nations, youth participation in South Africa's elections (for those aged 18-34 years) is currently at an all-time low, more than 30 years of democracy.</jats:p>",
+   "DOI": "10.4018/979-8-3373-5581-8.ch010",
+   "type": "book-chapter",
+   "title": [
+    "Leveraging #FeesMustFall Protests to Improve Youth Participation in South Africa's Democracy"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-0512-7145",
+     "authenticated-orcid": true,
+     "given": "Maxwell",
+     "family": "Maseko",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Wits School of Governance, South Africa"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8.ch010"
+  },
+  {
+   "DOI": "10.1163/9789460910258_008",
+   "title": [
+    "Connecting Youth Political Participation and Civic Education in Schools"
+   ],
+   "container-title": [
+    "Civic Education and Youth Political Participation"
+   ],
+   "publisher": "BRILL",
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1163/9789460910258_008",
+   "author": [
+    {
+     "given": "Murray",
+     "family": "Print",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780429025570-2",
+   "title": [
+    "Psychological factors linked to youth civic and political engagement"
+   ],
+   "container-title": [
+    "Youth Civic And Political Engagement"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      2,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780429025570-2",
+   "author": [
+    {
+     "given": "Barrett",
+     "family": "Martyn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pachi",
+     "family": "Dimitra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>In this digital era, societal engagement increasingly relies on access to and competence in digital technologies. For Nigerian adult learners, digital literacy serves not only as a tool for personal and economic empowerment but also as a catalyst for active citizenship. Despite Nigeria's expanding digital landscape, it appears many adult learners, particularly those outside formal education systems remain digitally marginalised. The paper is an opinion paper, making use of critical analysis, clarification, criticism, and evaluation with the aim to suggest possible solution to the identified problem in Nigeria. The paper concludes with a call for targeted digital literacy initiatives as a strategic tool to enhance community participation and foster inclusive democratic governance in Nigeria.</jats:p>",
+   "DOI": "10.4018/979-8-3373-5581-8.ch001",
+   "type": "book-chapter",
+   "title": [
+    "Empowering Nigerian Adult Learners"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0003-3321-6791",
+     "authenticated-orcid": true,
+     "given": "David Eganoyemi",
+     "family": "Aghonebarin",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Adekunle Ajasin University, Nigeria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8.ch001"
+  },
+  {
+   "DOI": "10.4324/9781315738260-5",
+   "title": [
+    "Civic and Political Participation of Women and Youth in Turkey: An Examination of Perspectives of Public Authorities and NGOs"
+   ],
+   "container-title": [
+    "Framing Civic Engagement, Political Participation and Active Citizenship in Europe"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      12,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9781315738260-5",
+   "author": [
+    {
+     "given": "Tulin",
+     "family": "Sener",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4324/9780429025570-4",
+   "title": [
+    "Macro contextual factors linked to youth civic and political engagement"
+   ],
+   "container-title": [
+    "Youth Civic And Political Engagement"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      2,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780429025570-4",
+   "author": [
+    {
+     "given": "Barrett",
+     "family": "Martyn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pachi",
+     "family": "Dimitra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>This chapter examines how pro-Palestinian youth activism is suppressed across Western universities and digital platforms, showing how institutional repression and algorithmic censorship combine to limit political expression. Drawing on interviews, digital content analysis, and policy review, it identifies key forms of repression, including administrative restrictions, securitization, digital suppression, donor influence, and framing anti-Zionist speech as antisemitism. It also highlights how activists respond through encrypted communication, decentralized tools, transnational solidarity, and legal advocacy. Case studies from Columbia, London, Berlin, Canada, and Australia illustrate how geopolitical interests and platform governance converge to silence dissent, and the chapter concludes with recommendations to strengthen academic freedom and digital rights.</jats:p>",
+   "DOI": "10.4018/979-8-3373-5581-8.ch013",
+   "type": "book-chapter",
+   "title": [
+    "From Digital Censorship to On-the-Ground Repression"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-0012-4940",
+     "authenticated-orcid": true,
+     "given": "Raed",
+     "family": "Atef",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Independent Researcher, Palestine"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8.ch013"
+  },
+  {
+   "DOI": "10.4324/9780429025570-3",
+   "title": [
+    "Social and demographic factors linked to youth civic and political engagement"
+   ],
+   "container-title": [
+    "Youth Civic And Political Engagement"
+   ],
+   "publisher": "Routledge",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      2,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.4324/9780429025570-3",
+   "author": [
+    {
+     "given": "Barrett",
+     "family": "Martyn",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pachi",
+     "family": "Dimitra",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>In today's algorithm-driven world, influencers and celebrities are not just entertainers they are digital mobilisers with the power to ignite youth-driven change. This chapter explores how these modern-day digital icons are reshaping civic participation in the age of hashtags, reels, and viral activism. No longer confined to traditional political spaces, civic engagement now flows through Instagram stories, YouTube vlogs, and TikTok challenges where young audiences connect with charismatic figures who speak their language and mirror their values. The chapter delves into how influencers use personal branding, emotional narratives, and community-building strategies to mobilize youth around causes like climate justice, mental health, voting awareness, and human rights. Through fresh case studies and innovative analysis, it highlights both the opportunities and tensions in this space where activism meets aesthetics, and where follower counts can turn into force multipliers for civic action.</jats:p>",
+   "DOI": "10.4018/979-8-3373-5581-8.ch009",
+   "type": "book-chapter",
+   "title": [
+    "Influencers, Icons, and Impact"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0004-5716-7298",
+     "authenticated-orcid": true,
+     "given": "Amandeep",
+     "family": "Kaur",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Advanced Center of Research and Innovation, School of Management Studies, CGC University, Mohali, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0009-0006-2957-5352",
+     "authenticated-orcid": true,
+     "given": "Gaganpreet",
+     "family": "Kaur",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Advanced Center of Research and Innovation, School of Management Studies, CGC University, Mohali, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-2595-4030",
+     "authenticated-orcid": true,
+     "given": "Ramandeep",
+     "family": "Sandhu",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Lovely Professional University, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8.ch009"
+  },
+  {
+   "DOI": "10.1163/9789087904470_009",
+   "title": [
+    "Young Activists Making the News: The Role of the Media in Youth Political and Civic Engagement"
+   ],
+   "container-title": [
+    "Youth and Political Participation"
+   ],
+   "publisher": "BRILL",
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      1,
+      1
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1163/9789087904470_009",
+   "author": [
+    {
+     "given": "Ian",
+     "family": "Fyfe",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Johanna",
+     "family": "Wyn",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>Social media's use in youth-led protests has changed how young people organize, mobilize, and voice their demands. Young activists may bypass conventional media, amplify their voices, and raise local and global political awareness using social media platforms like Facebook, Twitter, Instagram, and TikTok. This digital environment makes it easy to share information, organize campaigns in real time, and build support networks, which have been crucial to recent global movements. Despite social media platforms empowering teens by promoting political engagement and collective action, misinformation, digital inequities, and surveillance remain issues. This study examines how social media revitalizes young activism. It shows how social media can facilitate and complicate demonstrations.</jats:p>",
+   "DOI": "10.4018/979-8-3373-5581-8.ch004",
+   "type": "book-chapter",
+   "title": [
+    "The Role of Social Media in Youth-Led Protest"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-8644-8871",
+     "authenticated-orcid": true,
+     "given": "Geetha",
+     "family": "Manoharan",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "SR University, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8.ch004"
+  },
+  {
+   "DOI": "10.1057/9780230240902_13",
+   "title": [
+    "Youth Engagement, Civic Education, and New Vehicles of Political Participation"
+   ],
+   "container-title": [
+    "Activating the Citizen"
+   ],
+   "publisher": "Palgrave Macmillan UK",
+   "issued": {
+    "date-parts": [
+     [
+      2009
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1057/9780230240902_13",
+   "author": [
+    {
+     "given": "Eileen",
+     "family": "Saunders",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.4018/979-8-3373-5581-8",
+   "title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "publisher": "IGI Global Scientific Publishing",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "type": "edited-book",
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8"
+  },
+  {
+   "DOI": "10.1108/s1537-4661(2013)0000016016",
+   "title": [
+    "Youth Engagement: The Civic-Political Lives of Children and Youth"
+   ],
+   "container-title": [
+    "Sociological Studies of Children and Youth",
+    "Youth Engagement: The Civic-Political Lives of Children and Youth"
+   ],
+   "publisher": "Emerald Group Publishing Limited",
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      2,
+      22
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1108/s1537-4661(2013)0000016016"
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>This chapter examined how Nigerian youth leveraged digital platforms during the 2020 #EndSARS protests to foster civic literacy and political participation. Guided by Public Sphere Theory, the study analyzed how hashtags such as #EndSARS, #EndPoliceBrutality, and #SoroSoke created informal civic spaces for dialogue, learning, and activism. The chapter identified key themes including rights advocacy, democratic accountability, and intergenerational justice. Legal professionals and digital creators translated complex laws and governance issues into accessible content, enhancing civic education beyond formal classrooms. Despite facing state repression, online censorship, and internal exclusions, Nigerian youth redefined citizenship through digital engagement. The chapter concluded with five policy recommendations to institutionalize digital civic learning and expand youth participation in governance.</jats:p>",
+   "DOI": "10.4018/979-8-3373-5581-8.ch006",
+   "type": "book-chapter",
+   "title": [
+    "Digital Engagement and the Development of Civic Literacy Among Nigerian Youth"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0009-0000-7252-3968",
+     "authenticated-orcid": true,
+     "given": "Samson Obaloluwa",
+     "family": "Ojo",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Lead City University, Ibadan, Nigeria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8057-137X",
+     "authenticated-orcid": true,
+     "given": "Adebayo Ola",
+     "family": "Afolaranmi",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Lead City University, Ibadan, Nigeria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8.ch006"
+  },
+  {
+   "publisher": "IGI Global Scientific Publishing",
+   "abstract": "<jats:p>This chapter interrogates the emergent phenomenon of hashtag citizenship as a transformative force in civic learning, youth political agency, and democratic participation. In an era where digital platforms mediate expressions of identity, resistance, and solidarity, traditional models of civic education rooted in institutional memorization and deliberative rationality appear increasingly obsolete. Drawing on interdisciplinary frameworks from political science, media studies, education, and critical theory, the chapter argues for a radical reconfiguration of civic pedagogy to reflect digitally networked realities. It advocates for curricular reforms, teacher training, platform accountability, and decolonized pedagogical practices that recognize youth as epistemic agents and co-constructors of public meaning. By bridging informal digital activism and formal education, it calls for a justice-oriented, participatory, and future-facing vision of civic education that treats hashtag activism not as disruption but as democratic practice in motion.</jats:p>",
+   "DOI": "10.4018/979-8-3373-5581-8.ch003",
+   "type": "book-chapter",
+   "title": [
+    "Pedagogies in a Digitally Mediated World for the Future of Civic Education"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-6178-1187",
+     "authenticated-orcid": true,
+     "given": "Ashraf",
+     "family": "Alam",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Alliance University, Bengaluru, India"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "container-title": [
+    "Youth Civic Engagement and Political Participation in Digital Spaces"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      3,
+      4
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.4018/979-8-3373-5581-8.ch003"
+  }
+ ]
+}

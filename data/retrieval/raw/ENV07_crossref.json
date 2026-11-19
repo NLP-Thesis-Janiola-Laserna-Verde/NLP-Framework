@@ -1,0 +1,691 @@
+{
+ "query": "Municipal solid waste management strategies",
+ "retrieved_at": "2026-11-18T18:03:13.569121+00:00",
+ "data": [
+  {
+   "DOI": "10.5772/intechopen.83809",
+   "title": [
+    "Municipal Solid Waste Disposal in Mangrove Forest: Environmental Implication and Management Strategies in the Niger Delta, Nigeria"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management"
+   ],
+   "publisher": "IntechOpen",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      7,
+      24
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5772/intechopen.83809",
+   "author": [
+    {
+     "given": "Aroloye",
+     "family": "O. Numbere",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781315369457-18",
+   "title": [
+    "Municipal Solid Waste Management Planning"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management in Developing Countries"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      11,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315369457-18"
+  },
+  {
+   "DOI": "10.1201/9781003761563-23",
+   "title": [
+    "Environmentally Compatible Strategies for the Integrated Management of Municipal Solid Wastes"
+   ],
+   "container-title": [
+    "Solid Waste Management"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      2,
+      2
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781003761563-23",
+   "author": [
+    {
+     "given": "Joan",
+     "family": "Mata-Alvarez",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/9781315369457-9",
+   "title": [
+    "Municipal Solid Waste Management Planning"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management in Developing Countries"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      10,
+      7
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315369457-9"
+  },
+  {
+   "DOI": "10.1201/9781315369457-19",
+   "title": [
+    "Models for Municipal Solid Waste Management Systems"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management in Developing Countries"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      11,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315369457-19"
+  },
+  {
+   "DOI": "10.3390/books978-3-7258-7550-4",
+   "title": [
+    "Municipal Solid Waste Management (2nd Edition)"
+   ],
+   "publisher": "MDPI",
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      4,
+      28
+     ]
+    ]
+   },
+   "type": "book",
+   "URL": "https://doi.org/10.3390/books978-3-7258-7550-4"
+  },
+  {
+   "DOI": "10.1201/9781315369457-17",
+   "title": [
+    "Systems Approaches in Municipal Solid Waste Management"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management in Developing Countries"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      11,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315369457-17"
+  },
+  {
+   "DOI": "10.1201/9781315369457-15",
+   "title": [
+    "Component Technologies for Municipal Solid Waste Management"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management in Developing Countries"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      11,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315369457-15"
+  },
+  {
+   "DOI": "10.1079/9781836990666.0002",
+   "title": [
+    "Solid Waste Management: Environment, Health, and Safety"
+   ],
+   "container-title": [
+    "Municipal Waste Management"
+   ],
+   "publisher": "CABI",
+   "issued": {
+    "date-parts": [
+     [
+      2025,
+      11,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1079/9781836990666.0002",
+   "author": [
+    {
+     "given": "Surabhi",
+     "family": "Bharti",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Guru Kashi University",
+       "place": [
+        "India"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rinkesh",
+     "family": "Kumar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Guru Kashi University",
+       "place": [
+        "India"
+       ]
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1201/b16764-17",
+   "title": [
+    "Municipal Solid-Waste Management Strategies for Renewable Energy Options"
+   ],
+   "container-title": [
+    "Sustainable Bioenergy Production"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2014,
+      4,
+      18
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/b16764-17"
+  },
+  {
+   "publisher": "University of North Texas Libraries",
+   "abstract": "<jats:p xml:lang=\"en\">Due to concern about diminishing landfill space, the City of Denton contracted a municipal solid waste characterization study in 1999 that would identify materials for diversion. This paper describes the results of 5 1-week waste sorting events, a scale-house analysis, a recycling participation study, a recycler profile and a similar city study. The results of the characterization studies suggest that at least 50% of each waste stream is recyclable or divertible though paper products accounted for no more than 45% by weight of any waste stream. Curbside recycling participation rate was 71% during the 6-week study period though the average weekly set-out rate was 37%. Recycling participation rates varied significantly by zip code and by home value categories but not by gender. Denton is fairly progressive in its waste management approach when compared to demographically similar cities on a 15-question assessment though recommendations for improvement have been identified.</jats:p>",
+   "DOI": "10.12794/metadc4469",
+   "type": "dissertation",
+   "title": [
+    "City of Denton Municipal Solid Waste Characterization and Management Strategies"
+   ],
+   "author": [
+    {
+     "given": "Patricia D.",
+     "family": "Brady",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.12794/metadc4469"
+  },
+  {
+   "DOI": "10.1201/9781315369457-10",
+   "title": [
+    "Models for Municipal Solid Waste Management Systems"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management in Developing Countries"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      10,
+      7
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315369457-10"
+  },
+  {
+   "DOI": "10.1201/9781315369457-6",
+   "title": [
+    "Component Technologies for Municipal Solid Waste Management"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management in Developing Countries"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      10,
+      7
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315369457-6"
+  },
+  {
+   "DOI": "10.1201/9781315369457-8",
+   "title": [
+    "Systems Approaches in Municipal Solid Waste Management"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management in Developing Countries"
+   ],
+   "publisher": "CRC Press",
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      10,
+      7
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.1201/9781315369457-8"
+  },
+  {
+   "DOI": "10.1016/j.wasman.2018.01.009",
+   "title": [
+    "Techno-economic performance indicators of municipal solid waste collection strategies"
+   ],
+   "container-title": [
+    "Waste Management"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      4
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.wasman.2018.01.009",
+   "author": [
+    {
+     "given": "G.",
+     "family": "Bertanza",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "E.",
+     "family": "Ziliani",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "L.",
+     "family": "Menoni",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.wasman.2004.09.007",
+   "title": [
+    "Alternative strategies for energy recovery from municipal solid waste"
+   ],
+   "container-title": [
+    "Waste Management"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.wasman.2004.09.007",
+   "author": [
+    {
+     "given": "S.",
+     "family": "Consonni",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Giugliano",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Grosso",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.1016/j.wasman.2008.06.004",
+   "title": [
+    "Municipal solid waste management strategies in Turkey"
+   ],
+   "container-title": [
+    "Waste Management"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.wasman.2008.06.004",
+   "author": [
+    {
+     "given": "N. Gamze",
+     "family": "Turan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Semra",
+     "family": "Çoruh",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Andaç",
+     "family": "Akdemir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Osman Nuri",
+     "family": "Ergun",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "publisher": "Research Square Platform LLC",
+   "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>A significant amount of municipal solid waste (MSW) generation and ineffective management can cause adverse impacts on the environment (air and water pollution) and human health. Therefore, a sustainable approach for handling MSW is required. The aim of this study is to develop a tool to select the most promising MSW management system using the superstructure optimization technique to ensure that the selected system can achieve minimization of the total annual cost and environmental impacts. This can lead to a multi-objective superstructure optimization problem which can be solved by using the augmented ε-constraint method. Then, the state of the art optimization solver can be used to solve the problem. The developed mathematical model is based on the concept of material balance and all potential technologies include anaerobic digestion, pyrolysis, gasification, incineration, sanitary landfill, material recovery facility and composting. The proposed methodology is applied to synthesize the MSW management system in Warin Chamrap district to determine its applicability. In this research, the composition of MSW include organics, paper, plastic, glass, and others. The results show that the Pareto-optimal solutions optimizing both total annualcost and environmental impacts can be developed. The MSW management system with the lower total annual cost tends to have the higher environmental impacts and the trade offs between each objective can be identified so the decision makers are able to consider before making their decision. Further investigation on sensitivity analysis reveals that the selling prices of products, annual capital cost and operating cost factors have different degree of impacts on the waste management strategies and total annual cost.</jats:p>",
+   "DOI": "10.21203/rs.3.rs-3298744/v1",
+   "type": "posted-content",
+   "title": [
+    "Enviro-economic Optimization for the Design of Municipal Solid Waste Management Strategies"
+   ],
+   "author": [
+    {
+     "given": "Channarong",
+     "family": "Puchongkawarin",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Ubon Ratchathani University"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023,
+      8,
+      31
+     ]
+    ]
+   },
+   "URL": "https://doi.org/10.21203/rs.3.rs-3298744/v1"
+  },
+  {
+   "DOI": "10.1016/j.wasman.2004.09.006",
+   "title": [
+    "Alternative strategies for energy recovery from municipal solid waste"
+   ],
+   "container-title": [
+    "Waste Management"
+   ],
+   "publisher": "Elsevier BV",
+   "issued": {
+    "date-parts": [
+     [
+      2005,
+      1
+     ]
+    ]
+   },
+   "type": "journal-article",
+   "URL": "https://doi.org/10.1016/j.wasman.2004.09.006",
+   "author": [
+    {
+     "given": "S.",
+     "family": "Consonni",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Giugliano",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "M.",
+     "family": "Grosso",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "DOI": "10.5772/intechopen.84921",
+   "title": [
+    "Municipal Solid Waste Management and the Inland Water Bodies: Nigerian Perspectives"
+   ],
+   "container-title": [
+    "Municipal Solid Waste Management"
+   ],
+   "publisher": "IntechOpen",
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      7,
+      24
+     ]
+    ]
+   },
+   "type": "book-chapter",
+   "URL": "https://doi.org/10.5772/intechopen.84921",
+   "author": [
+    {
+     "given": "Akindayo",
+     "family": "A. Sowunmi",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
