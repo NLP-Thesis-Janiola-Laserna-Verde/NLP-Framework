@@ -37,23 +37,34 @@ title_map = (sjr.sort_values("q_rank").drop_duplicates("title_norm")
                 .set_index("title_norm")["SJR Best Quartile"].to_dict())
 
 # ---- look up each source ----
+DEFAULT_SCORE = 0.50
+
+def blank(x):
+    return pd.isna(x) or str(x).strip() == ""
+
 def lookup(row):
     for issn in re.split(r"[;,|]", str(row.get("issn", ""))):
         q = issn_map.get(norm_issn(issn))
         if q:
-            return q, "issn"
-    q = title_map.get(norm_title(row.get("journal", "")))
-    if q:
-        return q, "title"
+            return q, "sjr_issn"
+    if not blank(row.get("venue")):
+        q = title_map.get(norm_title(row["venue"]))
+        if q:
+            return q, "sjr_title"
     return None, None
 
 df = pd.read_csv(CSV_DIR / "sources_journals.csv", dtype=str)
 df.columns = df.columns.str.strip()
 res = df.apply(lookup, axis=1, result_type="expand")
-df["sjr_quartile"], df["sjr_match"] = res[0], res[1]
-df["sjr_found"] = df["sjr_quartile"].notna()
-df["sjr_score"] = df["sjr_quartile"].map(Q_SCORE)
+df["sjr_quartile"], df["authority_basis"] = res[0], res[1]
+df["authority_score"] = df["sjr_quartile"].map(Q_SCORE)
+
+has_venue = ~df["venue"].apply(blank) | ~df["issn"].apply(blank)
+miss = df["authority_score"].isna()
+df.loc[miss & has_venue, "authority_score"] = DEFAULT_SCORE
+df.loc[miss & has_venue, "authority_basis"] = "default_unranked"
+df.loc[miss & ~has_venue, "authority_basis"] = "no_venue_info"   # score stays NaN (Section 3.3.3)
 
 df.to_csv(CSV_DIR / "authority_journal_pilot.csv", index=False)
-print(df[["journal", "issn", "sjr_quartile", "sjr_match", "sjr_score"]])
-print("match rate:", df["sjr_found"].mean())
+print(df[["venue", "issn", "sjr_quartile", "authority_basis", "authority_score"]])
+print(df["authority_basis"].value_counts())

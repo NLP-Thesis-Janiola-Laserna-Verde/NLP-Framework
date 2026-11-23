@@ -10,3 +10,10 @@ Crossref needs no key, only a real email in CROSSREF_MAILTO.
 
 ## Authority (Journals)
 SJR 2025 edition (all three laptops should use the same file)
+
+## Topics Split (tba)
+Tuning topics are for choosing α, the currency half-life, and the quartile mapping.
+Validation topics are for comparing configurations and picking the final one.
+Test topics are touched once, at the end, for the reported results. No tuning of any kind on them, including peeking at scores to adjust a setting.
+Pilot topics are for debugging the pipeline and checking annotator agreement only. They never appear in the reported results.
+

@@ -58,9 +58,9 @@ unmatched = df["authority_score"].isna()
 has_journal = (df["venue"].fillna("").str.strip().ne("")
                | df["issn"].fillna("").str.strip().ne(""))
 
-df.loc[is_paper & unmatched & has_journal, "authority_score"] = 0.0   # journal known, not ranked
-df.loc[is_paper & unmatched & has_journal, "authority_basis"] = "sjr_unranked"
-df.loc[is_paper & unmatched & ~has_journal, "authority_basis"] = "no_journal_info"  # score stays NaN
+df.loc[is_paper & unmatched & has_journal, "authority_score"] = DEFAULT_SCORE   # venue known, no quartile
+df.loc[is_paper & unmatched & has_journal, "authority_basis"] = "default_unranked"
+df.loc[is_paper & unmatched & ~has_journal, "authority_basis"] = "no_venue_info"  # score stays NaN
 df.loc[~is_paper & unmatched, "authority_basis"] = "n/a (web page)"
 
 df.to_csv(CSV_DIR / "authority_paper_pilot.csv", index=False)

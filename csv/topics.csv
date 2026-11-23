@@ -49,8 +49,8 @@ HEA07,general health,Tuberculosis treatment adherence,tuning
 HEA08,general health,Sleep duration and mental health in young adults,test
 HEA09,general health,Hypertension management in primary care,validation
 HEA10,general health,Telemedicine effectiveness in rural health care,tuning
-PIL1,computing,Transformer models for automatic text summarization,pilot
-PIL2,education,Peer assessment in collaborative learning,pilot
-PIL3,social science,Food insecurity and household coping strategies,pilot
-PIL4,environmental science,Urban green spaces and air pollution,pilot
-PIL5,general health,Obesity prevention in school-aged children,pilot
+PIL01,computing,Transformer models for automatic text summarization,pilot
+PIL02,education,Peer assessment in collaborative learning,pilot
+PIL03,social science,Food insecurity and household coping strategies,pilot
+PIL04,environmental science,Urban green spaces and air pollution,pilot
+PIL05,general health,Obesity prevention in school-aged children,pilot
