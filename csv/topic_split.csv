@@ -1,0 +1,56 @@
+topic_id,field,set,topic_text
+COMP01,computing,test,Retrieval-augmented generation for reducing hallucination in large language models
+COMP02,computing,tuning,Federated learning for privacy-preserving machine learning on mobile devices
+COMP03,computing,validation,Explainable artificial intelligence methods for deep neural networks
+COMP04,computing,validation,Software defect prediction using machine learning
+COMP05,computing,tuning,Zero trust architecture for network security
+COMP06,computing,tuning,Phishing detection using natural language processing
+COMP07,computing,test,Energy-efficient edge computing for Internet of Things
+COMP08,computing,tuning,Large language models for automated code generation in software engineering
+COMP09,computing,tuning,Blockchain applications for secure data sharing
+COMP10,computing,tuning,Algorithmic bias and fairness in machine learning systems
+EDU01,education,tuning,Effectiveness of project-based learning in secondary schools
+EDU02,education,validation,Impact of formative assessment on student achievement
+EDU03,education,test,Mother tongue-based multilingual education and learning outcomes
+EDU04,education,tuning,Generative AI tools and academic integrity in higher education
+EDU05,education,tuning,Teacher professional development and student learning outcomes
+EDU06,education,validation,Effectiveness of online and blended learning in higher education
+EDU07,education,tuning,Early childhood education and later academic performance
+EDU08,education,tuning,Gamification and student motivation
+EDU09,education,test,Inclusive education for students with disabilities
+EDU10,education,tuning,Learning loss after COVID-19 school closures
+SOC01,social science,tuning,Social media use and political polarization
+SOC02,social science,tuning,Remittances and household welfare in developing countries
+SOC03,social science,tuning,Urbanization and income inequality
+SOC04,social science,validation,Conditional cash transfer programs and poverty reduction
+SOC05,social science,validation,Misinformation and public trust in institutions
+SOC06,social science,tuning,Gender gap in labor force participation
+SOC07,social science,test,Youth political participation and civic engagement
+SOC08,social science,tuning,Effects of internal migration on urban communities
+SOC09,social science,test,Cyberbullying among adolescents
+SOC10,social science,tuning,Informal employment and economic development
+ENV01,environmental science,tuning,Climate change impacts on coral reef ecosystems
+ENV02,environmental science,tuning,Mangrove restoration and coastal protection
+ENV03,environmental science,tuning,Microplastic pollution in marine environments
+ENV04,environmental science,test,Renewable energy transition in Southeast Asia
+ENV05,environmental science,test,Deforestation and biodiversity loss in tropical forests
+ENV06,environmental science,tuning,Sea level rise and coastal community adaptation
+ENV07,environmental science,tuning,Municipal solid waste management strategies
+ENV08,environmental science,validation,Carbon sequestration in agricultural soils
+ENV09,environmental science,validation,Agricultural runoff and freshwater quality
+ENV10,environmental science,tuning,Climate-smart agriculture adaptation for smallholder farmers
+HEA01,general health,tuning,Prevalence and prevention of type 2 diabetes
+HEA02,general health,validation,Dengue prevention and vector control
+HEA03,general health,tuning,Childhood vaccination coverage and vaccine hesitancy
+HEA04,general health,test,Physical activity and cardiovascular health
+HEA05,general health,tuning,Antimicrobial resistance and antibiotic stewardship
+HEA06,general health,tuning,Maternal and child nutrition interventions
+HEA07,general health,tuning,Tuberculosis treatment adherence
+HEA08,general health,test,Sleep duration and mental health in young adults
+HEA09,general health,validation,Hypertension management in primary care
+HEA10,general health,tuning,Telemedicine effectiveness in rural health care
+PIL1,computing,pilot,Transformer models for automatic text summarization
+PIL2,education,pilot,Peer assessment in collaborative learning
+PIL3,social science,pilot,Food insecurity and household coping strategies
+PIL4,environmental science,pilot,Urban green spaces and air pollution
+PIL5,general health,pilot,Obesity prevention in school-aged children
