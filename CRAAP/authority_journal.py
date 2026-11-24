@@ -37,7 +37,7 @@ title_map = (sjr.sort_values("q_rank").drop_duplicates("title_norm")
                 .set_index("title_norm")["SJR Best Quartile"].to_dict())
 
 # ---- look up each source ----
-DEFAULT_SCORE = 0.50
+UNRANKED_SCORE = 0.0   # venue known but not in SJR: scores 0.0. No venue info stays null (NaN).
 
 def blank(x):
     return pd.isna(x) or str(x).strip() == ""
@@ -55,13 +55,14 @@ def lookup(row):
 
 df = pd.read_csv(CSV_DIR / "sources_journals.csv", dtype=str)
 df.columns = df.columns.str.strip()
+df = df.rename(columns={"journal": "venue"})   # sources_journals.csv calls it "journal"
 res = df.apply(lookup, axis=1, result_type="expand")
 df["sjr_quartile"], df["authority_basis"] = res[0], res[1]
 df["authority_score"] = df["sjr_quartile"].map(Q_SCORE)
 
 has_venue = ~df["venue"].apply(blank) | ~df["issn"].apply(blank)
 miss = df["authority_score"].isna()
-df.loc[miss & has_venue, "authority_score"] = DEFAULT_SCORE
+df.loc[miss & has_venue, "authority_score"] = UNRANKED_SCORE
 df.loc[miss & has_venue, "authority_basis"] = "default_unranked"
 df.loc[miss & ~has_venue, "authority_basis"] = "no_venue_info"   # score stays NaN (Section 3.3.3)
 

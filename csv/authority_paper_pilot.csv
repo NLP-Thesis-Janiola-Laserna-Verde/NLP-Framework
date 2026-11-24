@@ -1,6 +1,6 @@
 source_id,record_type,venue,issn,sjr_quartile,authority_basis,authority_score
 P1,paper,Nature,0028-0836,Q1,sjr_issn,1.0
-P2,paper,arXiv,,,sjr_unranked,0.0
-P3,paper,Proceedings of the Annual Meeting of the Association for Computational Linguistics,,,sjr_unranked,0.0
-P4,paper,Some Workshop 2024,,,sjr_unranked,0.0
+P2,paper,arXiv,,,default_unranked,0.0
+P3,paper,Proceedings of the Annual Meeting of the Association for Computational Linguistics,,,default_unranked,0.0
+P4,paper,Some Workshop 2024,,,default_unranked,0.0
 W1,web,,,,n/a (web page),

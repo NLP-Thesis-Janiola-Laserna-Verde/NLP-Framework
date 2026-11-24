@@ -1,6 +1,6 @@
-source_id,journal,issn,sjr_quartile,sjr_match,sjr_found,sjr_score
-TEST-01,Nature,0028-0836,Q1,issn,True,1.0
-TEST-02,Scientific Reports,2045-2322,Q1,issn,True,1.0
-TEST-03,PLOS ONE,1932-6203,Q1,issn,True,1.0
-TEST-04,Some Fake Journal,0000-0000,,,False,
-TEST-05,Nature,,Q1,title,True,1.0
+source_id,venue,issn,sjr_quartile,authority_basis,authority_score
+TEST-01,Nature,0028-0836,Q1,sjr_issn,1.0
+TEST-02,Scientific Reports,2045-2322,Q1,sjr_issn,1.0
+TEST-03,PLOS ONE,1932-6203,Q1,sjr_issn,1.0
+TEST-04,Some Fake Journal,0000-0000,,default_unranked,0.0
+TEST-05,Nature,,Q1,sjr_title,1.0

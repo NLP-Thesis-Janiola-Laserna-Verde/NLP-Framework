@@ -6,7 +6,7 @@ import pandas as pd
 CSV_DIR = Path(__file__).resolve().parents[1] / "csv"
 SJR_FILE = CSV_DIR / "scimagojr 2025.csv"
 Q_SCORE = {"Q1": 1.0, "Q2": 0.75, "Q3": 0.5, "Q4": 0.25}
-DEFAULT_SCORE = 0.50
+UNRANKED_SCORE = 0.0   # journal/venue known but not in SJR: scores 0.0. No venue info stays null (NaN).
 
 def norm_issn(s):
     return re.sub(r"[^0-9Xx]", "", str(s)).upper()
@@ -58,7 +58,7 @@ unmatched = df["authority_score"].isna()
 has_journal = (df["venue"].fillna("").str.strip().ne("")
                | df["issn"].fillna("").str.strip().ne(""))
 
-df.loc[is_paper & unmatched & has_journal, "authority_score"] = DEFAULT_SCORE   # venue known, no quartile
+df.loc[is_paper & unmatched & has_journal, "authority_score"] = UNRANKED_SCORE
 df.loc[is_paper & unmatched & has_journal, "authority_basis"] = "default_unranked"
 df.loc[is_paper & unmatched & ~has_journal, "authority_basis"] = "no_venue_info"  # score stays NaN
 df.loc[~is_paper & unmatched, "authority_basis"] = "n/a (web page)"
