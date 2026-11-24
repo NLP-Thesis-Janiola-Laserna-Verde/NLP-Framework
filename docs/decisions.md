@@ -10,3 +10,12 @@ Date: 2026-11-24
 
 S ≥ 2 as "suitable"	A design choice
 Median of three annotators	Also a design choice.
+The final label is the agreed rating, or the median after a third rater breaks a disagreement
+
+- Unranked-venue threshold: if more than 33% of scholarly papers with venue information
+  (pilot and tuning candidates) receive the default score, or more than 50% within any
+  single field, a manual venue table based on a published ranking (edition cited) is added
+  and fixed before test topics are evaluated. Otherwise the default is kept and the
+  proportions are reported as a limitation.
+- Counted: authority_basis == "default_unranked" over scholarly rows excluding "no_venue_info".
+  Preprints are also reported separately.

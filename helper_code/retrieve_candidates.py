@@ -11,6 +11,7 @@
 import argparse, hashlib, json, os, re, time
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 
 import pandas as pd
@@ -118,9 +119,10 @@ def strip_tags(s):
 
 
 def rec(service, rank, **kw):
-    base = {"title": None, "url": None, "doi": None, "authors": None, "publisher": None,
-            "venue": None, "pub_year": None, "pub_date": None, "abstract": None,
-            "work_type": None, "open_access": None}
+    base: dict[str, Any] = {
+        "title": None, "url": None, "doi": None, "authors": None, "publisher": None,
+        "venue": None, "pub_year": None, "pub_date": None, "abstract": None,
+        "work_type": None, "open_access": None}
     base.update(kw)
     base["doi"] = norm_doi(base["doi"])
     base["services"] = {service}
@@ -236,7 +238,7 @@ def main():
 
     out = Path(a.out); raw = out / "raw"
     raw.mkdir(parents=True, exist_ok=True)
-    topics = pd.read_csv(a.topics)
+    topics = pd.read_csv(Path(__file__).resolve().parent.parent / "csv" / "topics.csv")
     topics = topics[topics.set.isin(a.sets)]
     print(f"{len(topics)} topics in sets {a.sets}")
 
