@@ -1,4 +1,4 @@
 machine,os,cpu,cores_physical,cores_logical,ram_gb,python,torch,model,n_docs,repeats,ms_per_doc_mean,ms_per_doc_median,ms_per_doc_p95,docs_per_sec_batch,load_seconds,rss_before_mb,rss_after_load_mb,peak_rss_mb,torch_threads
-laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,all-MiniLM-L6-v2,100,3,55.94,64.08,92.08,14.93,2.29,421.4,534.6,753.3,4
-laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,all-mpnet-base-v2,100,3,440.29,479.73,854.15,0.86,2.38,421.0,863.9,1960.9,4
-laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,allenai-specter,100,3,1046.99,1105.54,2120.24,0.74,4.12,422.1,868.1,1481.9,4
+laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,all-MiniLM-L6-v2,100,3,59.74,68.36,96.12,16.77,1.96,423.4,536.0,754.2,4
+laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,all-mpnet-base-v2,100,3,409.74,467.03,759.03,1.84,2.24,421.7,864.7,1968.6,4
+laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,allenai-specter,100,3,316.54,350.28,640.68,2.07,1.93,421.7,867.6,1484.8,4

@@ -23,13 +23,17 @@ MODELS = ["all-MiniLM-L6-v2", "all-mpnet-base-v2", "allenai-specter"]
 
 
 def peak_rss_mb():
+    """Peak memory in MB on Windows, macOS and Linux; never raises."""
     import psutil
     mi = psutil.Process().memory_info()
-    if hasattr(mi, "peak_wset"):
+    if hasattr(mi, "peak_wset"):  # Windows
         return mi.peak_wset / 2**20
-    import resource
-    peak = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
-    return peak / 2**20 if sys.platform == "darwin" else peak / 1024
+    try:  # macOS / Linux only (the module does not exist on Windows)
+        import resource
+        peak = resource.getrusage(getattr(resource, "RUSAGE_SELF")).ru_maxrss
+        return peak / 2**20 if sys.platform == "darwin" else peak / 1024
+    except (ImportError, AttributeError):
+        return mi.rss / 2**20  # fallback: current memory
 
 
 def current_rss_mb():
@@ -132,6 +136,19 @@ def main():
         out.to_csv(OUT_DIR / "benchmark_all.csv", index=False)
         print(out.drop(columns=["os", "cpu", "python", "torch"], errors="ignore").to_string(index=False))
         return
+
+    missing = []
+    for mod, pkg in [("psutil", "psutil"), ("torch", "torch"),
+                     ("sentence_transformers", "sentence-transformers"), ("pandas", "pandas")]:
+        try:
+            __import__(mod)
+        except ImportError:
+            missing.append(pkg)
+    if missing:
+        raise SystemExit("Missing packages. Run:\n    pip install " + " ".join(missing))
+    if not Path(a.input).exists():
+        raise SystemExit(f"Input file not found: {a.input}\nRun from the repository root.")
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     info = machine_info(a.machine)
     print(info)
