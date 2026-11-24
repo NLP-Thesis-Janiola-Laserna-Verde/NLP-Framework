@@ -1,12 +1,20 @@
 """Build one blind labeling sheet per annotator.
 
 Usage (from anywhere):
-    python make_labeling_sheets.py pilot     # label rows whose `set` column == "pilot"
-    python make_labeling_sheets.py test      # label another set (any value in the `set` column)
+    python make_labeling_sheets.py pilot     # 10 sources per topic, all 3 annotators rate all of them
+    python make_labeling_sheets.py test      # any other value in the `set` column: pairs mode, no cap
     python make_labeling_sheets.py all       # label everything in the file
+
+Defaults per set (override with the flags):
+    pilot -> --mode all   --max-per-topic 10
+    other -> --mode pairs --max-per-topic (none)
+
+    python make_labeling_sheets.py pilot --max-per-topic 10 --mode all
+    python make_labeling_sheets.py test  --mode pairs
 
 Output goes to csv/labeling/<set>/ so pilot and main sheets never overwrite each other.
 """
+import argparse
 import random
 import sys
 import pandas as pd
@@ -14,15 +22,24 @@ from pathlib import Path
 
 CSV_DIR = Path(__file__).resolve().parents[1] / "csv"
 RETRIEVAL_DIR = Path(__file__).resolve().parents[1] / "data" / "retrieval"
-LABEL_SET = sys.argv[1] if len(sys.argv) > 1 else "pilot"
-OUT_DIR = CSV_DIR / "labeling" / LABEL_SET
-OUT_DIR.mkdir(parents=True, exist_ok=True)
-
-MODE = "pairs"          # "pairs" (thesis 3.6.1.2), "all" (everyone rates everything), or "overlap"
 OVERLAP_FRAC = 0.20     # only used in "overlap" mode
 ANNOTATORS = ["A1", "A2", "A3"]
 PAIRS = [("A1", "A2"), ("A1", "A3"), ("A2", "A3")]
 SEED = 198              # record this in your methods; do not change after the first run
+
+ap = argparse.ArgumentParser()
+ap.add_argument("label_set", nargs="?", default="pilot", help='value of the `set` column, or "all"')
+ap.add_argument("--mode", choices=["pairs", "all", "overlap"], default=None)
+ap.add_argument("--max-per-topic", type=int, default=None, help="keep only this many sources per topic")
+args = ap.parse_args()
+
+LABEL_SET = args.label_set
+is_pilot_run = LABEL_SET.lower() == "pilot"
+MODE = args.mode or ("all" if is_pilot_run else "pairs")                    # "pairs" (thesis 3.6.1.2), "all", or "overlap"
+MAX_PER_TOPIC = args.max_per_topic if args.max_per_topic is not None else (10 if is_pilot_run else None)
+
+OUT_DIR = CSV_DIR / "labeling" / LABEL_SET
+OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # ---- load candidates ----
 if LABEL_SET.lower() == "all":
@@ -48,7 +65,7 @@ cand = pd.read_csv(CANDIDATES_FILE, dtype=str)
 cand.columns = cand.columns.str.strip()
 if "query_id" not in cand.columns and "topic_id" in cand.columns:
     cand = cand.rename(columns={"topic_id": "query_id"})
-# FIX 1: the candidates file uses "authors"; the sheets use "author"
+# the candidates file uses "authors"; the sheets use "author"
 if "author" not in cand.columns and "authors" in cand.columns:
     cand = cand.rename(columns={"authors": "author"})
 for col in ["title", "venue", "url", "pub_date", "author"]:
@@ -57,7 +74,7 @@ for col in ["title", "venue", "url", "pub_date", "author"]:
 
 cand = cand.dropna(subset=["query_id", "source_id"])
 
-# FIX 2: choose which topics to label instead of always dropping the pilot ones
+# choose which topics to label instead of always dropping the pilot ones
 available_sets = (
     sorted(cand["set"].dropna().str.strip().str.lower().unique())
     if "set" in cand.columns
@@ -68,13 +85,42 @@ if LABEL_SET.lower() != "all":
         cand = cand[cand["set"].fillna("").str.strip().str.lower() == LABEL_SET.lower()]
     else:   # no `set` column: fall back to the PIL prefix
         is_pilot = cand["query_id"].str.upper().str.startswith("PIL")
-        cand = cand[is_pilot] if LABEL_SET.lower() == "pilot" else cand[~is_pilot]
+        cand = cand[is_pilot] if is_pilot_run else cand[~is_pilot]
 if cand.empty:
     sys.exit(f"No rows for set '{LABEL_SET}' in {CANDIDATES_FILE}. "
              f"Values in the `set` column: {available_sets}")
 
 cand = cand.drop_duplicates(["query_id", "source_id"])
-print(f"set={LABEL_SET}:", cand["query_id"].nunique(), "topics,", len(cand), "sources")
+
+# ---- optional cap per topic, keeping the scholarly / web mix, chosen at random (not by retrieval rank) ----
+if MAX_PER_TOPIC:
+    sel_rng = random.Random(SEED + 1)        # separate RNG so the assignments below do not change
+    kept = []
+    for qid, g in cand.groupby("query_id"):
+        g = g.sort_values("source_id")
+        if len(g) <= MAX_PER_TOPIC:
+            print(f"NOTE: {qid} has only {len(g)} sources (cap {MAX_PER_TOPIC}); keeping all")
+            kept.append(g)
+            continue
+        if "kind" in g.columns and g["kind"].notna().any():
+            groups = {k: sub for k, sub in g.groupby(g["kind"].fillna("other"))}
+            raw = {k: MAX_PER_TOPIC * len(sub) / len(g) for k, sub in groups.items()}   # proportional quota per kind
+            quota = {k: int(v) for k, v in raw.items()}
+            for k in sorted(raw, key=lambda k: raw[k] - quota[k], reverse=True)[: MAX_PER_TOPIC - sum(quota.values())]:
+                quota[k] += 1
+            picks = []
+            for k, sub in groups.items():
+                ids = sorted(sub["source_id"])
+                picks += sel_rng.sample(ids, min(quota[k], len(ids)))
+        else:
+            picks = sel_rng.sample(sorted(g["source_id"]), MAX_PER_TOPIC)
+        kept.append(g[g["source_id"].isin(picks)])
+    cand = pd.concat(kept)
+
+print(f"set={LABEL_SET} mode={MODE} max_per_topic={MAX_PER_TOPIC} file={CANDIDATES_FILE.name}: "
+      f"{cand['query_id'].nunique()} topics, {len(cand)} sources")
+if "kind" in cand.columns:
+    print(cand.groupby(["query_id", "kind"]).size().unstack(fill_value=0))
 
 topics = (pd.read_csv(CSV_DIR / "topics.csv", dtype=str)
             .rename(columns={"topic_id": "query_id"})[["query_id", "topic_text"]])
