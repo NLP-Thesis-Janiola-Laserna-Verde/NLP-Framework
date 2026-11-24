@@ -1,0 +1,10 @@
+machine,os,cpu,cores_physical,cores_logical,ram_gb,python,torch,model,n_docs,repeats,ms_per_doc_mean,ms_per_doc_median,ms_per_doc_p95,docs_per_sec_batch,load_seconds,rss_before_mb,rss_after_load_mb,peak_rss_mb,torch_threads
+laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,all-MiniLM-L6-v2,100,3,59.74,68.36,96.12,16.77,1.96,423.4,536.0,754.2,4
+laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,all-mpnet-base-v2,100,3,409.74,467.03,759.03,1.84,2.24,421.7,864.7,1968.6,4
+laptop1,Windows 11,"Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",4,8,15.4,3.12.10,2.15.0+cpu,allenai-specter,100,3,316.54,350.28,640.68,2.07,1.93,421.7,867.6,1484.8,4
+Goddess,Windows 11,"AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",6,12,7.4,3.14.7,2.15.0+cpu,all-MiniLM-L6-v2,10,3,45.71,51.97,63.96,14.86,2.36,453.0,565.1,652.0,6
+Goddess,Windows 11,"AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",6,12,7.4,3.14.7,2.15.0+cpu,all-mpnet-base-v2,10,3,376.79,446.45,660.42,1.24,2.87,452.6,896.5,1278.0,6
+Goddess,Windows 11,"AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",6,12,7.4,3.14.7,2.15.0+cpu,allenai-specter,10,3,339.3,351.8,549.96,1.66,4.13,452.4,900.0,1135.9,6
+laptop3,Windows 11,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",4,8,15.8,3.13.0,2.15.0+cpu,all-MiniLM-L6-v2,100,3,83.01,104.03,126.34,12.93,40.1,426.1,552.7,766.8,4
+laptop3,Windows 11,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",4,8,15.8,3.13.0,2.15.0+cpu,all-mpnet-base-v2,100,3,506.51,574.27,942.08,1.41,137.39,426.7,881.7,1835.6,4
+laptop3,Windows 11,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",4,8,15.8,3.13.0,2.15.0+cpu,allenai-specter,100,3,534.89,603.36,1042.08,1.39,184.55,425.8,885.8,1499.8,4
