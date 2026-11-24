@@ -19,3 +19,17 @@ The final label is the agreed rating, or the median after a third rater breaks a
   proportions are reported as a limitation.
 - Counted: authority_basis == "default_unranked" over scholarly rows excluding "no_venue_info".
   Preprints are also reported separately.
+
+## Encoder selection (recorded before validation labels are scored)
+Date: 2026-11-24
+
+- Rule (Table 3.7, section 3.4.2): choose the most effective encoder by NDCG@10 on the
+  validation topics among those that meet the efficiency and reproducibility criteria.
+- Similar performance: models within 0.02 NDCG@10 of the best are treated as similar,
+  and the smallest of them (fewest parameters) is chosen.
+- Efficiency: processing time per query (about 30 candidates) must stay under 2 s (NFR1),
+  and peak memory must fit the 8 GB minimum in Table 3.2.
+- Reproducibility: open weights, with the model revision pinned.
+- Benchmark on laptop1 (4 cores, 16 GB, CPU only):
+  MiniLM 64 ms/doc median, 753 MB peak; mpnet 480 ms/doc, 1961 MB;
+  SPECTER 1106 ms/doc, 1482 MB. Laptop2 and laptop3 results to be added.
