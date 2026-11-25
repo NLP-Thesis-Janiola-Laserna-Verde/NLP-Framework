@@ -35,7 +35,7 @@ Date: 2026-11-24
   MiniLM 64 ms/doc median, 753 MB peak; mpnet 480 ms/doc, 1961 MB;
   SPECTER 1106 ms/doc, 1482 MB. Laptop2 and laptop3 results to be added.
 -->
-- Benchmark on all three laptops, CPU only (csv/benchmark_all.csv). Laptop1: 4 cores, 15 GB;
+- Benchmark on all three laptops, CPU only (data/benchmarks/benchmark_all.csv). Laptop1: 4 cores, 15 GB;
   laptop2: 6 cores, 7.4 GB (10 docs only); laptop3: 4 cores, 16 GB. Median ms/doc
   (laptop1 / laptop2 / laptop3) and worst peak memory:
   MiniLM 68 / 52 / 104 ms, 767 MB peak; mpnet 467 / 446 / 574 ms, 1969 MB;
