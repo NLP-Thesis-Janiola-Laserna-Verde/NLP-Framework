@@ -30,6 +30,16 @@ Date: 2026-11-24
 - Efficiency: processing time per query (about 30 candidates) must stay under 2 s (NFR1),
   and peak memory must fit the 8 GB minimum in Table 3.2.
 - Reproducibility: open weights, with the model revision pinned.
+<!-- Superseded by the merged benchmark below (earlier laptop1 run, before the script fix):
 - Benchmark on laptop1 (4 cores, 16 GB, CPU only):
   MiniLM 64 ms/doc median, 753 MB peak; mpnet 480 ms/doc, 1961 MB;
   SPECTER 1106 ms/doc, 1482 MB. Laptop2 and laptop3 results to be added.
+-->
+- Benchmark on all three laptops, CPU only (csv/benchmark_all.csv). Laptop1: 4 cores, 15 GB;
+  laptop2: 6 cores, 7.4 GB (10 docs only); laptop3: 4 cores, 16 GB. Median ms/doc
+  (laptop1 / laptop2 / laptop3) and worst peak memory:
+  MiniLM 68 / 52 / 104 ms, 767 MB peak; mpnet 467 / 446 / 574 ms, 1969 MB;
+  SPECTER 350 / 352 / 603 ms, 1500 MB.
+- Efficiency check: all models fit the 8 GB memory limit. For ~30 candidates per query
+  (batched), MiniLM takes about 1.8 / 2.0 / 2.3 s, borderline against the 2 s limit (NFR1);
+  mpnet and SPECTER take about 14-24 s and fail it on every laptop.

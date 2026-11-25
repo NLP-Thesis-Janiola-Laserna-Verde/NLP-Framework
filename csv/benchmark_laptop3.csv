@@ -1,0 +1,4 @@
+machine,os,cpu,cores_physical,cores_logical,ram_gb,python,torch,model,n_docs,repeats,ms_per_doc_mean,ms_per_doc_median,ms_per_doc_p95,docs_per_sec_batch,load_seconds,rss_before_mb,rss_after_load_mb,peak_rss_mb,torch_threads
+laptop3,Windows 11,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",4,8,15.8,3.13.0,2.15.0+cpu,all-MiniLM-L6-v2,100,3,83.01,104.03,126.34,12.93,40.1,426.1,552.7,766.8,4
+laptop3,Windows 11,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",4,8,15.8,3.13.0,2.15.0+cpu,all-mpnet-base-v2,100,3,506.51,574.27,942.08,1.41,137.39,426.7,881.7,1835.6,4
+laptop3,Windows 11,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",4,8,15.8,3.13.0,2.15.0+cpu,allenai-specter,100,3,534.89,603.36,1042.08,1.39,184.55,425.8,885.8,1499.8,4
