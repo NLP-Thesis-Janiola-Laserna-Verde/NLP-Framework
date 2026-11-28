@@ -1,0 +1,16 @@
+query_id,source_id,A1,A2,A3,title,url
+PIL1,7fcda844ff,1,3,0,machine-learning-articles/easy-text-summarization-with-huggingface-transformers-and-machine-learning.md at main · christianversloot/machine-learning-articles · GitHub,https://github.com/christianversloot/machine-learning-articles/blob/main/easy-text-summarization-with-huggingface-transformers-and-machine-learning.md
+PIL1,89a94af551,2,1,0,AUTOMATIC TEXT SUMMARIZATION USING SEQUENCE-TO-SEQUENCE MODELS,https://doi.org/10.32743/26870142.2022.19.242.339376
+PIL1,acb6870805,3,3,1,Comparative Performance Analysis of LSTM and Transformer Models for Abstractive Text Summarization,https://www.semanticscholar.org/paper/f6da1f68a24b22f3e1f4b58f7e837451a5599d5c
+PIL2,c5d256ec1f,1,3,2,Peer assessment as collaborative learning: A cognitive perspective.,https://psycnet.apa.org/record/2009-15956-001
+PIL2,d88eee8498,1,3,1,From peer assessment towards collaborative learning,https://doi.org/10.1109/fie.2004.1408638
+PIL3,3699d167c7,3,2,1,Livelihood Coping Strategies – Food Security,https://vamresources.manuals.wfp.org/docs/livelihood-coping-strategies-food-security
+PIL4,768d92d829,1,3,1,Urban green spaces,https://doi.org/10.4324/9780429340581-2
+PIL4,812dd31438,3,1,1,Value of Green Space In Urban Areas. Remedies For Air Pollution | Air Quality Tracker Airly | Airly,https://airly.org/en/urban-green-as-a-remedy-for-air-pollution-our-analysis
+PIL4,994150545c,1,3,3,Green spaces of Delhi,https://doi.org/10.4324/9780429340581-3
+PIL5,6291fa5757,0,3,2,Curtailing the rising tide in obesity among school-aged children over time – American Society for Nutrition,https://nutrition.org/curtailing-the-rising-tide-in-obesity-among-school-aged-children-over-time
+PIL5,6bdd815ee5,2,3,1,Interventions to prevent obesity in school-aged children 6-18 years: An update of a Cochrane systematic review and meta-analysis including studies from 2015–2021,https://www.semanticscholar.org/paper/5ec836b64770973713f42df0698d4067b44695cc
+PIL5,93905c2505,3,3,1,Parental Support and School Environment as Determinants of ...,https://janh.candle.or.id/index.php/janh/article/view/551
+PIL5,b9830ed5e0,1,3,3,Obesity Prevention Programs for School-aged Children and Adolescents,https://doi.org/10.1007/978-0-387-76924-0_20
+PIL5,bd765db1e9,1,3,0,"Obesity Prevention and Treatment in School-aged Children, Adolescents,
+                        and Young Adults&amp;mdash;Where Do We Go from Here?",https://doi.org/10.4137/ppri.s12291
